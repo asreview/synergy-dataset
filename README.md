@@ -21,7 +21,7 @@ The datasets are alphabetically ordered.
 |[Cohen et al., 2006](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1447545/)|   |   |  | [www.ncbi.nlm.nih.gov/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1447545/) |  |
 |[Cohen et al., 2006](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1447545/)|   |   |  | [www.ncbi.nlm.nih.gov/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1447545/) |  |
 |[Cohen et al., 2006](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1447545/)|   |   |  | [www.ncbi.nlm.nih.gov/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1447545/) |  |
-| [Van de Schoot et al., 2018](https://doi.org/10.1080/00273171.2017.1412293) | PTSD  | 5783  | 0.66%  | osf.io/h5k2q/ |  |
+| [Van de Schoot et al., 2018](https://doi.org/10.1080/00273171.2017.1412293) | PTSD  | 5783  | 0.66%  | [osf.io/h5k2q/](https://osf.io/h5k2q/) |  |
 
 
 ## How it works
