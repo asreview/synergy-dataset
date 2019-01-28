@@ -46,5 +46,5 @@ files require at least the following column names: `authors`, `title`,
 
 ## Contact and contributors
 
-Contact details can be found at the [Automated Systematic Review](#contact-and-contributors) 
+Contact details can be found at the [Automated Systematic Review](https://github.com/msdslab/automated-systematic-review#contact-and-contributors) 
 project page. 
