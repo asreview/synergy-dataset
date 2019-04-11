@@ -32,16 +32,99 @@ datasets. Each of these subfolders are little project. They contain code and a
 `README.md`. The scripts in the different dataset folder create a subfolder
 named `output/` with the result of the data collection.
 
-### The data format
+## Dataset formats
 
-We try to standardise the format of the outputted data because we like
-standards (^.^). No, the [Automated Systematic
-Review](https://github.com/msdslab/automated-systematic-review) software
-works better with standardised input.
+The [Automated Systematic Review](https://github.com/msdslab/automated-
+systematic-review) software accepts several file formats like RIS and CSV. The
+datasets in this project are stored in one of these formats.
 
-The projects output CSV-formatted files and JSONlines formatted files. These
-files require at least the following column names: `authors`, `title`,
-`abstract`.
+### RIS files
+
+[RIS files](https://en.wikipedia.org/wiki/RIS_(file_format)) are used by
+digital libraries, like IEEE Xplore, Scopus and ScienceDirect. Citation
+managers Mendeley and EndNote support the RIS format as well. For simulation,
+we use an additional RIS tag with the letters `LI` (Label included).
+
+### CSV files 
+
+For CSV files, the software accepts a set of predetermined labels in line with
+the ones used in RIS files. 
+
+The following column names are recognized (based on https://pypi.org/project/RISparser/):
+
+```
+first_authors
+secondary_authors
+tertiary_authors
+subsidiary_authors
+abstract
+author_address
+accession_number
+authors
+custom1
+custom2
+custom3
+custom4
+custom5
+custom6
+custom7
+custom8
+caption
+call_number
+place_published
+date
+name_of_database
+doi
+database_provider
+end_page
+end_of_reference
+edition
+id
+number
+alternate_title1
+alternate_title2
+alternate_title3
+journal_name
+keywords
+file_attachments1
+file_attachments2
+figure
+language
+label
+note
+type_of_work
+notes
+abstract
+number_of_Volumes
+original_publication
+publisher
+year
+reviewed_item
+research_notes
+reprint_edition
+version
+issn
+start_page
+short_title
+primary_title
+secondary_title
+tertiary_title
+translated_author
+title
+translated_title
+type_of_reference
+unknown_tag
+url
+volume
+publication_year
+access_date
+```
+
+The custom tag is:
+
+```
+label_included
+```
 
 ## Contact and contributors
 
