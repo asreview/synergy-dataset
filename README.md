@@ -11,17 +11,26 @@ The datasets are alphabetically ordered.
 
 | Reference                  | Topic            | Sample Size | Inclusion | Link  |  License | 
 |----------------------------|------------------|-------------|-----------|-------|----------|
-|[Cohen et al., 2006](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1447545/)|  ACEInhibitors |   |  | [source](https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html) |  |
-|[Cohen et al., 2006](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1447545/)|   |   |  | [source](https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html) |  |
-|[Cohen et al., 2006](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1447545/)|   |   |  | [source](https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html) |  |
-|[Cohen et al., 2006](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1447545/)|   |   |  | [source](https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html) |  |
-|[Cohen et al., 2006](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1447545/)|   |   |  | [source](https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html) |  |
-|[Cohen et al., 2006](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1447545/)|   |   |  | [source](https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html) |  |
-|[Cohen et al., 2006](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1447545/)|   |   |  | [source](https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html) |  |
-|[Cohen et al., 2006](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1447545/)|   |   |  | [source](https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html) |  |
-|[Cohen et al., 2006](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1447545/)|   |   |  | [source](https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html) |  |
-|[Cohen et al., 2006](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1447545/)|   |   |  | [source](https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html) |  |
-| [Van de Schoot et al., 2018](https://doi.org/10.1080/00273171.2017.1412293) | PTSD  | 5783  | 0.66%  | [osf.io/h5k2q/](https://osf.io/h5k2q/) |  |
+|[Cohen et al., 2006](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1447545/)|  ACEInhibitors | 2544  | 1.61% | [source](https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html) | NA |
+|[Cohen et al., 2006](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1447545/)| ADHD | 851  | 2.35% | [source](https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html) | NA |
+|[Cohen et al., 2006](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1447545/)| Antihistamines  |  310 | 5.16% | [source](https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html) |NA  |
+|[Cohen et al., 2006](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1447545/)| Atypical Antipsychotics  | 1120  | 13.04% | [source](https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html) | NA |
+|[Cohen et al., 2006](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1447545/)| Beta Blockers  |  2072 | 2.03% | [source](https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html) |NA  |
+|[Cohen et al., 2006](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1447545/)| Calcium Channel Blockers  | 1218  | 8.21% | [source](https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html) |NA  |
+|[Cohen et al., 2006](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1447545/)| Estrogens  | 368  |21.74%  | [source](https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html) | NA |
+|[Cohen et al., 2006](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1447545/)| NSAIDS  | 393  |10.43%  | [source](https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html) |NA  |
+|[Cohen et al., 2006](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1447545/)| Opiods  |1915   |0.78%  | [source](https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html) |NA  |
+|[Cohen et al., 2006](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1447545/)|Oral Hypoglycemics   | 503  |27.04%  | [source](https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html) | NA |
+|[Cohen et al., 2006](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1447545/)|Proton Pump Inhibitors   | 1333  |3.83%  | [source](https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html) | NA |
+|[Cohen et al., 2006](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1447545/)|Skeletal Muscle Relaxants   | 1643  |0.55%  | [source](https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html) | NA |
+|[Cohen et al., 2006](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1447545/)|Statins   | 3465  |2.45% | [source](https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html) | NA |
+|[Cohen et al., 2006](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1447545/)|Triptans   | 671  |3.58%  | [source](https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html) | NA |
+|[Cohen et al., 2006](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1447545/)|Urinary Incontinence   | 327  |12.23% | [source](https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html) | NA |
+|[Van de Schoot et al., 2018](https://doi.org/10.1080/00273171.2017.1412293) | PTSD  | 5783  | 0.66%  | [source](https://osf.io/h5k2q/) |  |
+|[Wahono, 2015](http://journal.ilmukomputer.org/index.php/jse/article/view/47) | Software Defect Detection  | 7002  | 0.89%  | [source](https://zenodo.org/record/1162952#.XIVBE_ZFyVR) | Creative Commons Attribution 4.0 International |
+|[Hall et al., 2012](https://ieeexplore.ieee.org/document/6035727) | Software Fault Prediction  | 8911  | 1.17%  | [source](https://zenodo.org/record/1162952#.XIVBE_ZFyVR) | Creative Commons Attribution 4.0 International |
+|[Radjenović et al., 2013](https://www.sciencedirect.com/science/article/abs/pii/S0950584913000426) | Software Fault Prediction  | 6000  | 0.80%  | [source](https://zenodo.org/record/1162952#.XIVBE_ZFyVR) | Creative Commons Attribution 4.0 International |
+|[Kitchenham et al., 2010](https://www.sciencedirect.com/science/article/abs/pii/S0950584910000467) | Software Engineering  | 1704  | 2.58%  | [source](https://zenodo.org/record/1162952#.XIVBE_ZFyVR) | Creative Commons Attribution 4.0 International |
 
 ## How it works
 
