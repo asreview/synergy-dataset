@@ -57,7 +57,7 @@ we use an additional RIS tag with the letters `LI` (Label included).
 ### CSV files 
 
 For CSV files, the software accepts a set of predetermined labels in line with
-the ones used in RIS files. The most commonly used ones are: id, authors, date, title, keywords and abstract. To indicate labelling decisions, one can use "included" or "label_included". 
+the ones used in RIS files. The most commonly used ones are: "id", "authors", "date", "title", "keywords" and "abstract". To indicate labelling decisions, one can use "included" or "label_included". 
 
 In general, the following column names are recognized (based on https://pypi.org/project/RISparser/):
 
