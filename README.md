@@ -31,6 +31,7 @@ The datasets are alphabetically ordered.
 |[Hall et al., 2012](https://ieeexplore.ieee.org/document/6035727) | Software Fault Prediction  | 8911  | 1.17%  | [source](https://zenodo.org/record/1162952#.XIVBE_ZFyVR) | Creative Commons Attribution 4.0 International |
 |[Radjenović et al., 2013](https://www.sciencedirect.com/science/article/abs/pii/S0950584913000426) | Software Fault Prediction  | 6000  | 0.80%  | [source](https://zenodo.org/record/1162952#.XIVBE_ZFyVR) | Creative Commons Attribution 4.0 International |
 |[Kitchenham et al., 2010](https://www.sciencedirect.com/science/article/abs/pii/S0950584910000467) | Software Engineering  | 1704  | 2.58%  | [source](https://zenodo.org/record/1162952#.XIVBE_ZFyVR) | Creative Commons Attribution 4.0 International |
+|[Bannach-Brown et al., 2019](https://systematicreviewsjournal.biomedcentral.com/articles/10.1186/s13643-019-0942-7#Comments) | Animal Model of Depression | 1993 | 14.0% | [source](https://zenodo.org/record/151190#.XQPGhYj7TD7) | Creative Commons Attribution 4.0 International |
 
 ## How it works
 
