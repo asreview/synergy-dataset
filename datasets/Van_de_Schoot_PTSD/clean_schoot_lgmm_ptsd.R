@@ -35,9 +35,13 @@ all.title <- gsub("[^A-Za-z0-9]","", all.data$title)
 label_inc <- as.numeric(tolower(all.title) %in% tolower(inc.title))
 label_aas <- as.numeric(tolower(all.title) %in% tolower(aas.title))
 
-train.data <- add_column(all.data[, c("authors", "title", "keywords", "abstract")], included = label_inc, aas_included = label_aas) %>%
-  mutate(authors = gsub("[\\[']", "", authors),
-         authors = gsub("\\]", "", authors))
+# small.train.data <- add_column(all.data[, c("authors", "title", "keywords", "abstract")], included = label_inc, aas_included = label_aas) %>%
+#   mutate(authors = gsub("[\\[']", "", authors),
+#          authors = gsub("\\]", "", authors))
+
+train.data <- add_column(all.data, included = label_inc, aas_included = label_aas) %>%
+    mutate(authors = gsub("[\\[']", "", authors),
+           authors = gsub("\\]", "", authors))
 
 
 #64 with missing title
