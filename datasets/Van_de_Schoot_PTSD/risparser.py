@@ -4,8 +4,10 @@ import argparse
 import pandas as pd
 from RISparser import read
 
+
 def parse_arguments():
-    parser = argparse.ArgumentParser(description='Process RIS files into CSV ones.')
+    parser = argparse.ArgumentParser(
+        description='Process RIS files into CSV ones.')
     parser.add_argument('input_fp', help='Input file location')
     parser.add_argument('output_fp', help='Export file location')
     args = parser.parse_args()
@@ -21,7 +23,7 @@ def parse_articles(filepath, encoding='utf-8'):
 
     return entries
 
-    
+
 def convert_csv_to_ris(input_fp, output_fp):
     print("Input file:", input_fp)
 
