@@ -14,3 +14,5 @@ for ris_file in raw_files:
     convert_csv_to_ris(ris_fp, csv_fp)
 
 subprocess.run(shlex.split('Rscript clean_schoot_lgmm_ptsd.R'))
+os.rename(os.path.join("csv", "PTSD_VandeSchoot_18.csv"),
+          os.path.join("output", "PTSD_VandeSchoot_18.csv"))
