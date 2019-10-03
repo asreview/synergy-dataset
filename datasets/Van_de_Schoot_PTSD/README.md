@@ -8,7 +8,7 @@ Dataset publication: https://osf.io/h5k2q/
 
 # Data cleaning
 
-To create the cleaned dataset in the proper format for the ASR software, you can use the `raw2csv.sh` Bash script in this folder.
+To create the cleaned dataset in the proper format for the ASR software, you can use the `raw2csv.py` Bash script in this folder.
 
 This can also be done manually on the command line:
 
