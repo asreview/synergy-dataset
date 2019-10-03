@@ -10,12 +10,17 @@ inc.data <- read_csv("schoot-lgmm-ptsd-included-2.csv", col_types=cols())
 #After abstract screening
 aas.data <- read_csv("schoot-lgmm-ptsd-included-1.csv", col_types=cols())
 
+#Directly included after reading the abstract
+dir.data <- read_csv("schoot-lgmm-ptsd-included-3.csv", col_types=cols())
+
 #all titles (clean)
 all.title <- gsub("[^A-Za-z0-9]","", all.data$title)
 #included titles (clean)
 inc.title <- gsub("[^A-Za-z0-9]","", inc.data$title)
 #After abstract screening title
 aas.title <- gsub("[^A-Za-z0-9]","", aas.data$title)
+#Directly included
+dir.title <- gsub("[^A-Za-z0-9]","", dir.data$title)
 
 inc_missing = ! tolower(inc.title) %in% tolower(all.title)
 aas_missing = ! tolower(aas.title) %in% tolower(all.title)
@@ -34,10 +39,24 @@ all.title <- gsub("[^A-Za-z0-9]","", all.data$title)
 #train data
 label_inc <- as.numeric(tolower(all.title) %in% tolower(inc.title))
 label_aas <- as.numeric(tolower(all.title) %in% tolower(aas.title))
+label_dir <- as.numeric(tolower(all.title) %in% tolower(dir.title))
 
-train.data <- add_column(all.data[, c("authors", "title", "keywords", "abstract")], included = label_inc, aas_included = label_aas) %>%
-  mutate(authors = gsub("[\\[']", "", authors),
-         authors = gsub("\\]", "", authors))
+CODE_EXCLUDE = 0      # Exclude paper.
+CODE_AFT_EXCLUDE = 1  # Exclude after reading full text.
+CODE_AFT_INCLUDE = 2  # Include after reading full text.
+CODE_AAS_INCLUDE = 3  # Include after reading abstract.
+
+inclusion_code <- (label_aas & !label_inc)*CODE_AFT_EXCLUDE
+inclusion_code <- inclusion_code + (label_inc & ! label_dir)*CODE_AFT_INCLUDE
+inclusion_code <- inclusion_code + label_dir*CODE_AAS_INCLUDE
+
+# small.train.data <- add_column(all.data[, c("authors", "title", "keywords", "abstract")], included = label_inc, aas_included = label_aas) %>%
+#   mutate(authors = gsub("[\\[']", "", authors),
+#          authors = gsub("\\]", "", authors))
+
+train.data <- add_column(all.data, included = label_inc, inclusion_code = inclusion_code) %>%
+    mutate(authors = gsub("[\\[']", "", authors),
+           authors = gsub("\\]", "", authors))
 
 
 #64 with missing title
@@ -63,22 +82,25 @@ cat("Number of papers with missing title OR abstract:  ", sum((is.na(all.title) 
 unique.position <- duplicated(tolower(all.title), incomparables = NA)
 unique.train.data <- train.data[!unique.position, ]
 
-# Set aas_included to 1 if they are in the final inclusion.
-paper_direct = unique.train.data$aas_included == 0 & unique.train.data$included == 1
-unique.train.data[paper_direct, "aas_included"] <- 1
-
 
 n_train = length(unique.train.data$included)
 n_inc = sum(unique.train.data$included)
-n_aas = sum(unique.train.data$aas_included | unique.train.data$included)
+n_exc = n_train-n_inc
 
-n_direct = sum(paper_direct)
-cat("Total remaining papers in training set: ", n_train, "\n")
-cat("Papers after abstract screening:        ", n_aas, "\n")
-cat("Final papers included:                  ", n_inc, "\n")
-cat("Papers directly included:               ", n_direct, "\n")
+n_aas_exc = sum(unique.train.data$inclusion_code == 0)
+n_aft_exc = sum(unique.train.data$inclusion_code == CODE_AFT_EXCLUDE)
+n_aft_inc = sum(unique.train.data$inclusion_code == CODE_AFT_INCLUDE)
+n_aas_inc = sum(unique.train.data$inclusion_code == CODE_AAS_INCLUDE)
 
-# print.data.frame(unique.train.data[unique.train.data$included==1,])
+
+cat("Total remaining papers in training set:     ", n_train, "\n")
+cat("Total number of INCLUSIONS:                 ", n_inc, " (", round(100*n_inc/n_exc,2), "% )\n")
+cat("Total number of EXCLUSIONS:                 ", n_exc, "\n\n")
+cat("Total EXCLUSIONS after abstract screening:  ", n_aas_exc, "\n")
+cat("Total EXCLUSIONS after full text screening: ", n_aft_exc, "\n")
+cat("Total INCLUSIONS after full text screening: ", n_aft_inc, "\n")
+cat("Total INCLUSIONS after abstract screening:  ", n_aas_inc, "\n")
+
 write_csv(unique.train.data, 'PTSD_VandeSchoot_18.csv')
 
 
