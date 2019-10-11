@@ -1,6 +1,6 @@
 # Evidence-based medicine
 
-This is a standard dataset from the medical sciences to test the performance of automated review systems such as the ASR project. This readme describes the process to obtain CSV data files that can be used by the ASR software to benchmark/test its performance.
+This is a standard dataset from the medical sciences to test the performance of automated review systems such as the [ASReview](https://github.com/msdslab/automated-systematic-review) project. This readme describes the process to obtain CSV data files that can be used by the ASReview software to benchmark/test its performance.
 
 
 **Reducing Workload in Systematic Review Preparation Using Automated Citation Classification**
