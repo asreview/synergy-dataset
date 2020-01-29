@@ -1,7 +1,6 @@
 # Automated Systematic Review Datasets
 
-This project contains datasets for the [Automated Systematic
-Review](https://github.com/msdslab/automated-systematic-review) project. This
+This project contains datasets for the [ASReview](https://github.com/asreview/asreview) project. This
 repository is used to collect, preprocess and share datasets on Systematic
 Review.
 
@@ -44,8 +43,8 @@ named `output/` with the result of the data collection.
 
 ## Dataset formats
 
-The [Automated Systematic Review](https://github.com/msdslab/automated-
-systematic-review) software accepts several file formats like RIS and CSV. The
+The [ASReview](https://github.com/asreview/asreview) 
+software accepts several file formats like RIS and CSV. The
 datasets in this project are stored in one of these formats.
 
 ### RIS files
@@ -138,5 +137,5 @@ label_included
 
 ## Contact and contributors
 
-Contact details can be found at the [Automated Systematic Review](https://github.com/msdslab/automated-systematic-review#contact-and-contributors) 
+Contact details can be found at the [ASReview](https://github.com/asreview/asreview#contact-and-contributors) 
 project page. 
