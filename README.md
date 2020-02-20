@@ -25,12 +25,12 @@ The datasets are alphabetically ordered.
 |[Cohen et al., 2006](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1447545/)|Statins   | 3465  |2.45% | [source](https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html) | NA |
 |[Cohen et al., 2006](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1447545/)|Triptans   | 671  |3.58%  | [source](https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html) | NA |
 |[Cohen et al., 2006](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1447545/)|Urinary Incontinence   | 327  |12.23% | [source](https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html) | NA |
-|[Van de Schoot et al., 2018](https://doi.org/10.1080/00273171.2017.1412293) | PTSD  | 5783  | 0.66%  | [source](https://osf.io/h5k2q/) | CC-By Attribution 4.0 International |
-|[Wahono, 2015](http://journal.ilmukomputer.org/index.php/jse/article/view/47) | Software Defect Detection  | 7002  | 0.89%  | [source](https://zenodo.org/record/1162952#.XIVBE_ZFyVR) | Creative Commons Attribution 4.0 International |
-|[Hall et al., 2012](https://ieeexplore.ieee.org/document/6035727) | Software Fault Prediction  | 8911  | 1.17%  | [source](https://zenodo.org/record/1162952#.XIVBE_ZFyVR) | Creative Commons Attribution 4.0 International |
-|[Radjenović et al., 2013](https://www.sciencedirect.com/science/article/abs/pii/S0950584913000426) | Software Fault Prediction  | 6000  | 0.80%  | [source](https://zenodo.org/record/1162952#.XIVBE_ZFyVR) | Creative Commons Attribution 4.0 International |
-|[Kitchenham et al., 2010](https://www.sciencedirect.com/science/article/abs/pii/S0950584910000467) | Software Engineering  | 1704  | 2.58%  | [source](https://zenodo.org/record/1162952#.XIVBE_ZFyVR) | Creative Commons Attribution 4.0 International |
-|[Bannach-Brown et al., 2019](https://systematicreviewsjournal.biomedcentral.com/articles/10.1186/s13643-019-0942-7#Comments) | Animal Model of Depression | 1993 | 14.0% | [source](https://zenodo.org/record/151190#.XQPGhYj7TD7) | Creative Commons Attribution 4.0 International |
+|[Van de Schoot et al., 2018](https://doi.org/10.1080/00273171.2017.1412293) | PTSD  | 5783  | 0.66%  | [source](https://osf.io/h5k2q/) | CC-BY Attribution 4.0 International |
+|[Wahono, 2015](http://journal.ilmukomputer.org/index.php/jse/article/view/47) | Software Defect Detection  | 7002  | 0.89%  | [source](https://zenodo.org/record/1162952#.XIVBE_ZFyVR) | CC-BY Attribution 4.0 International |
+|[Hall et al., 2012](https://ieeexplore.ieee.org/document/6035727) | Software Fault Prediction  | 8911  | 1.17%  | [source](https://zenodo.org/record/1162952#.XIVBE_ZFyVR) | CC-BY Attribution 4.0 International |
+|[Radjenović et al., 2013](https://www.sciencedirect.com/science/article/abs/pii/S0950584913000426) | Software Fault Prediction  | 6000  | 0.80%  | [source](https://zenodo.org/record/1162952#.XIVBE_ZFyVR) | CC-BY Attribution 4.0 International |
+|[Kitchenham et al., 2010](https://www.sciencedirect.com/science/article/abs/pii/S0950584910000467) | Software Engineering  | 1704  | 2.58%  | [source](https://zenodo.org/record/1162952#.XIVBE_ZFyVR) | CC-BY Attribution 4.0 International |
+|[Bannach-Brown et al., 2019](https://systematicreviewsjournal.biomedcentral.com/articles/10.1186/s13643-019-0942-7#Comments) | Animal Model of Depression | 1993 | 14.0% | [source](https://zenodo.org/record/151190#.XQPGhYj7TD7) | CC-BY Attribution 4.0 International |
 
 ## How it works
 
