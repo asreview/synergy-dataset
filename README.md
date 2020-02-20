@@ -10,6 +10,7 @@ The datasets are alphabetically ordered.
 
 | Reference                  | Topic            | Sample Size | Inclusion | Link  |  License | 
 |----------------------------|------------------|-------------|-----------|-------|----------|
+|[Appenzeller-Herzog, 2020](https://onlinelibrary.wiley.com/doi/full/10.1111/liv.14179)| Wilson disease | 3453 | 0.75% | [source](https://zenodo.org/record/3625931#.Xk5de5NKhQI) | CC-BY Attribution 4.0 International |
 |[Cohen et al., 2006](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1447545/)|  ACEInhibitors | 2544  | 1.61% | [source](https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html) | NA |
 |[Cohen et al., 2006](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1447545/)| ADHD | 851  | 2.35% | [source](https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html) | NA |
 |[Cohen et al., 2006](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1447545/)| Antihistamines  |  310 | 5.16% | [source](https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html) |NA  |
