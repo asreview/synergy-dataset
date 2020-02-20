@@ -1,2 +1,4 @@
 #datasets/*/output/
 !datasets/Van_de_Schoot_PTSD/output/PTSD_VandeSchoot_18.csv
+
+.ipynb_checkpoints/
