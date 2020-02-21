@@ -1,4 +1,4 @@
-This directory contains data on the systematic review performed by Appenzeller-Herzog (2019). The `process_wilson_dataset.ipynb` notebook converts the raw dataset, consisting of three `.csv` files into one file, suitable for ASReview, `output_csv_wilson.csv`.
+This directory contains data on the systematic review performed by Appenzeller-Herzog (2019) (License CC-BY). The `process_wilson_dataset.ipynb` notebook converts the raw dataset, consisting of three `.csv` files into one file, suitable for ASReview, `output_csv_wilson.csv`.
 
 Raw data from:
 Appenzeller-Herzog, C. (2020). Data from Comparative effectiveness of common therapies for Wilson disease: A systematic review and meta‐analysis of controlled studies. https://doi.org/10.5281/zenodo.3625931
