@@ -1,0 +1,3 @@
+This directory contains data on the systematic review performed by Appenzeller-Herzog (2019). The three reference files in the `raw` directory were manually converted to `.csv` files using Zotero, to be found in the `zotero_preprocessed` directory. The script in the `datasetsworkflow` directory can convert these three `.csv` files into one file, suitable for ASReview, `output_csv_wilson.csv` .
+
+Appenzeller‐Herzog, C, Mathes, T, Heeres, MLS, Weiss, KH, Houwen, RHJ, Ewald, H. Comparative effectiveness of common therapies for Wilson disease: A systematic review and meta‐analysis of controlled studies. Liver Int. 2019; 39: 2136– 2152. https://doi.org/10.1111/liv.14179
