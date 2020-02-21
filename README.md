@@ -1,8 +1,12 @@
-# Automated Systematic Review Datasets
+# Systematic Review Datasets
 
-This project contains datasets for the [ASReview](https://github.com/asreview/asreview) project. This
-repository is used to collect, preprocess and share datasets on Systematic
-Review.
+This repository shows an overview of labeled datasets on Systematic Reviews. The
+datasets are open datasets. The labeled data can be used for text mining and machine
+learning purposes. This repository contains scripts to collect, preprocess and clean
+the systematic review datasets.
+
+We are welcoming new datasets in this overview. Make a Pull Request and add the 
+information like in the table below. 
 
 ## Datasets
 
@@ -11,6 +15,7 @@ The datasets are alphabetically ordered.
 | Reference                  | Topic            | Sample Size | Inclusion | Link  |  License | 
 |----------------------------|------------------|-------------|-----------|-------|----------|
 |[Appenzeller-Herzog, 2020](https://onlinelibrary.wiley.com/doi/full/10.1111/liv.14179)| Wilson disease | 3453 | 0.75% | [source](https://zenodo.org/record/3625931#.Xk5de5NKhQI) | CC-BY Attribution 4.0 International |
+|[Bannach-Brown et al., 2019](https://systematicreviewsjournal.biomedcentral.com/articles/10.1186/s13643-019-0942-7#Comments) | Animal Model of Depression | 1993 | 14.0% | [source](https://zenodo.org/record/151190#.XQPGhYj7TD7) | CC-BY Attribution 4.0 International |
 |[Cohen et al., 2006](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1447545/)|  ACEInhibitors | 2544  | 1.61% | [source](https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html) | NA |
 |[Cohen et al., 2006](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1447545/)| ADHD | 851  | 2.35% | [source](https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html) | NA |
 |[Cohen et al., 2006](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1447545/)| Antihistamines  |  310 | 5.16% | [source](https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html) |NA  |
@@ -26,12 +31,11 @@ The datasets are alphabetically ordered.
 |[Cohen et al., 2006](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1447545/)|Statins   | 3465  |2.45% | [source](https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html) | NA |
 |[Cohen et al., 2006](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1447545/)|Triptans   | 671  |3.58%  | [source](https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html) | NA |
 |[Cohen et al., 2006](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1447545/)|Urinary Incontinence   | 327  |12.23% | [source](https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html) | NA |
+|[Hall et al., 2012](https://ieeexplore.ieee.org/document/6035727) | Software Fault Prediction  | 8911  | 1.17%  | [source](https://zenodo.org/record/1162952#.XIVBE_ZFyVR) | CC-BY Attribution 4.0 International |
+|[Kitchenham et al., 2010](https://www.sciencedirect.com/science/article/abs/pii/S0950584910000467) | Software Engineering  | 1704  | 2.58%  | [source](https://zenodo.org/record/1162952#.XIVBE_ZFyVR) | CC-BY Attribution 4.0 International |
+|[Radjenović et al., 2013](https://www.sciencedirect.com/science/article/abs/pii/S0950584913000426) | Software Fault Prediction  | 6000  | 0.80%  | [source](https://zenodo.org/record/1162952#.XIVBE_ZFyVR) | CC-BY Attribution 4.0 International |
 |[Van de Schoot et al., 2018](https://doi.org/10.1080/00273171.2017.1412293) | PTSD  | 5783  | 0.66%  | [source](https://osf.io/h5k2q/) | CC-BY Attribution 4.0 International |
 |[Wahono, 2015](http://journal.ilmukomputer.org/index.php/jse/article/view/47) | Software Defect Detection  | 7002  | 0.89%  | [source](https://zenodo.org/record/1162952#.XIVBE_ZFyVR) | CC-BY Attribution 4.0 International |
-|[Hall et al., 2012](https://ieeexplore.ieee.org/document/6035727) | Software Fault Prediction  | 8911  | 1.17%  | [source](https://zenodo.org/record/1162952#.XIVBE_ZFyVR) | CC-BY Attribution 4.0 International |
-|[Radjenović et al., 2013](https://www.sciencedirect.com/science/article/abs/pii/S0950584913000426) | Software Fault Prediction  | 6000  | 0.80%  | [source](https://zenodo.org/record/1162952#.XIVBE_ZFyVR) | CC-BY Attribution 4.0 International |
-|[Kitchenham et al., 2010](https://www.sciencedirect.com/science/article/abs/pii/S0950584910000467) | Software Engineering  | 1704  | 2.58%  | [source](https://zenodo.org/record/1162952#.XIVBE_ZFyVR) | CC-BY Attribution 4.0 International |
-|[Bannach-Brown et al., 2019](https://systematicreviewsjournal.biomedcentral.com/articles/10.1186/s13643-019-0942-7#Comments) | Animal Model of Depression | 1993 | 14.0% | [source](https://zenodo.org/record/151190#.XQPGhYj7TD7) | CC-BY Attribution 4.0 International |
 
 ## How it works
 
