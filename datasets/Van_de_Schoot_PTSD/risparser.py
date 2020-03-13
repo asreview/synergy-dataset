@@ -24,7 +24,7 @@ def parse_articles(filepath, encoding='utf-8'):
     return entries
 
 
-def convert_csv_to_ris(input_fp, output_fp):
+def convert_ris_to_csv(input_fp, output_fp):
     print("Input file:", input_fp)
 
     # parse articles
@@ -49,5 +49,5 @@ def convert_csv_to_ris(input_fp, output_fp):
 
 if __name__ == '__main__':
     args = parse_arguments()
-    convert_csv_to_ris(**args)
+    convert_ris_to_csv(**args)
     input_fp = args.input_file
