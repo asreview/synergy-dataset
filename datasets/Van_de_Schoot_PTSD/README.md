@@ -1,10 +1,6 @@
-# PSTD
+# PTSD
 
-**Bayesian PTSD-Trajectory Analysis with Informed Priors Based on a Systematic Literature Search and Expert Elicitation**
-Rens van de Schoot ORCID Icon, Marit Sijbrandij, Sarah Depaoli ORCID Icon, Sonja D. Winter ORCID Icon, Miranda Olff & Nancy E. van Loey
-https://doi.org/10.1080/00273171.2017.1412293
-
-Dataset publication: https://osf.io/h5k2q/
+Rens van de Schoot, Marit Sijbrandij, Sonja D. Winter, Sarah Depaoli & Jeroen K. Vermunt (2017) **The GRoLTS-Checklist: Guidelines for Reporting on Latent Trajectory Studies**, Structural Equation Modeling: A Multidisciplinary Journal, 24:3, 451-467, DOI: 10.1080/10705511.2016.1247646
 
 # Data cleaning
 
