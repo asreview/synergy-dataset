@@ -1,8 +1,6 @@
-This folder contains all 4 data sets used in the paper "Finding Better Active Learners for Faster Literature Reviews" (by Yu, Kraft & Menzies, 2018).
+Yu, Z., Kraft, N. A., & Menzies, T. (2018). **[Finding better active learners for faster literature reviews.][1]** _Empirical Software Engineering, 23_(6), 3161-3186. 
 
-The four datasets can be found at https://doi.org/10.5281/zenodo.673264. The "Original.zip" file contains a copy of the original data sets.
+The `process_4software_dataset.ipynb` notebook processes the four [raw datasets][2] for ASReview, and reports inclusion rates and word clouds of titles and abstracts for each dataset. Four cleaned datasets can be found in `output`.
 
-Please kindly note that three of these data sets (Hall, Radjenovic and Wahono) contain only three columns: title, abstract, included. 
-
-Yu, Zhe, Nicholas A. Kraft, and Tim Menzies. 2018. ‘Finding Better Active Learners for Faster Literature Reviews’. Empirical Software Engineering 23 (6): 3161–86. https://doi.org/10.1007/s10664-017-9587-0.
-
+[1]:	https://doi.org/10.1007/s10664-017-9587-0
+[2]:	https://doi.org/10.5281/zenodo.1162952
