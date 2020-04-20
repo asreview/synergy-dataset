@@ -36,7 +36,8 @@ The datasets are alphabetically ordered.
 |[Kwok et al., 2020][39] | Virus Metagenomics  | 2481  | 4.84%  | [source][40] | CC-BY Attribution 4.0 International | 
 |[Radjenović et al., 2013][41] | Software Fault Prediction  | 6000  | 0.80%  | [source][42] | CC-BY Attribution 4.0 International |
 |[Van de Schoot et al., 2018][43] | PTSD  | 5783  | 0.66%  | [source][44] | CC-BY Attribution 4.0 International |
-|[Wahono, 2015][45] | Software Defect Detection  | 7002  | 0.89%  | [source][46] | CC-BY Attribution 4.0 International |
+| [van Dis et al., 2020][45] | Anxiety-Related Disorders | 10288  | 0.70%  | [source][46] | NA |
+|[Wahono, 2015][47] | Software Defect Detection  | 7002  | 0.89%  | [source][48] | CC-BY Attribution 4.0 International |
 
 ## How it works
 
@@ -49,13 +50,13 @@ named `output/` with the result of the data collection.
 
 ## Dataset formats
 
-The [ASReview][47] 
+The [ASReview][49] 
 software accepts several file formats like RIS and CSV. The
 datasets in this project are stored in one of these formats.
 
 ### RIS files
 
-[RIS files][48] are used by
+[RIS files][50] are used by
 digital libraries, like IEEE Xplore, Scopus and ScienceDirect. Citation
 managers Mendeley and EndNote support the RIS format as well. For simulation,
 we use an additional RIS tag with the letters `LI` (Label included).
@@ -139,7 +140,7 @@ The custom tag is:
 
 ## Contact and contributors
 
-Contact details can be found at the [ASReview][49] 
+Contact details can be found at the [ASReview][51] 
 project page. 
 
 [1]:	https://onlinelibrary.wiley.com/doi/full/10.1111/liv.14179
@@ -186,8 +187,10 @@ project page.
 [42]:	https://zenodo.org/record/1162952#.XIVBE_ZFyVR
 [43]:	https://doi.org/10.1080/00273171.2017.1412293
 [44]:	https://osf.io/h5k2q/
-[45]:	http://journal.ilmukomputer.org/index.php/jse/article/view/47
-[46]:	https://zenodo.org/record/1162952#.XIVBE_ZFyVR
-[47]:	https://github.com/asreview/asreview
-[48]:	https://en.wikipedia.org/wiki/RIS_(file_format)
-[49]:	https://github.com/asreview/asreview#contact-and-contributors
+[45]:	https://doi.org/10.1001/jamapsychiatry.2019.3986
+[46]:	https://osf.io/4d9tu/
+[47]:	http://journal.ilmukomputer.org/index.php/jse/article/view/47
+[48]:	https://zenodo.org/record/1162952#.XIVBE_ZFyVR
+[49]:	https://github.com/asreview/asreview
+[50]:	https://en.wikipedia.org/wiki/RIS_(file_format)
+[51]:	https://github.com/asreview/asreview#contact-and-contributors
