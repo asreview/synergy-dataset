@@ -34,10 +34,11 @@ The datasets are alphabetically ordered.
 |[Hall et al., 2012][35] | Software Fault Prediction  | 8911  | 1.17%  | [source][36] | CC-BY Attribution 4.0 International |
 |[Kitchenham et al., 2010][37] | Software Engineering  | 1704  | 2.58%  | [source][38] | CC-BY Attribution 4.0 International |
 |[Kwok et al., 2020][39] | Virus Metagenomics  | 2481  | 4.84%  | [source][40] | CC-BY Attribution 4.0 International | 
-|[Radjenović et al., 2013][41] | Software Fault Prediction  | 6000  | 0.80%  | [source][42] | CC-BY Attribution 4.0 International |
-|[Van de Schoot et al., 2018][43] | PTSD  | 5783  | 0.66%  | [source][44] | CC-BY Attribution 4.0 International |
-| [van Dis et al., 2020][45] | Anxiety-Related Disorders | 10288  | 0.70%  | [source][46] | NA |
-|[Wahono, 2015][47] | Software Defect Detection  | 7002  | 0.89%  | [source][48] | CC-BY Attribution 4.0 International |
+|[Nagtegaal et al., 2019][41] | Nudging  | 2008  | 5.03%  | [source][42] | NA |
+|[Radjenović et al., 2013][43] | Software Fault Prediction  | 6000  | 0.80%  | [source][44] | CC-BY Attribution 4.0 International |
+|[Van de Schoot et al., 2018][45] | PTSD  | 5783  | 0.66%  | [source][46] | CC-BY Attribution 4.0 International |
+| [van Dis et al., 2020][47] | Anxiety-Related Disorders | 10288  | 0.70%  | [source][48] | NA |
+|[Wahono, 2015][49] | Software Defect Detection  | 7002  | 0.89%  | [source][50] | CC-BY Attribution 4.0 International |
 
 ## How it works
 
@@ -50,13 +51,13 @@ named `output/` with the result of the data collection.
 
 ## Dataset formats
 
-The [ASReview][49] 
+The [ASReview][51] 
 software accepts several file formats like RIS and CSV. The
 datasets in this project are stored in one of these formats.
 
 ### RIS files
 
-[RIS files][50] are used by
+[RIS files][52] are used by
 digital libraries, like IEEE Xplore, Scopus and ScienceDirect. Citation
 managers Mendeley and EndNote support the RIS format as well. For simulation,
 we use an additional RIS tag with the letters `LI` (Label included).
@@ -140,7 +141,7 @@ The custom tag is:
 
 ## Contact and contributors
 
-Contact details can be found at the [ASReview][51] 
+Contact details can be found at the [ASReview][53] 
 project page. 
 
 [1]:	https://onlinelibrary.wiley.com/doi/full/10.1111/liv.14179
@@ -183,14 +184,16 @@ project page.
 [38]:	https://zenodo.org/record/1162952#.XIVBE_ZFyVR
 [39]:	https://doi.org/10.3390/v12010107
 [40]:	https://doi.org/10.17605/OSF.IO/5S27M
-[41]:	https://www.sciencedirect.com/science/article/abs/pii/S0950584913000426
-[42]:	https://zenodo.org/record/1162952#.XIVBE_ZFyVR
-[43]:	https://doi.org/10.1080/00273171.2017.1412293
-[44]:	https://osf.io/h5k2q/
-[45]:	https://doi.org/10.1001/jamapsychiatry.2019.3986
-[46]:	https://osf.io/4d9tu/
-[47]:	http://journal.ilmukomputer.org/index.php/jse/article/view/47
-[48]:	https://zenodo.org/record/1162952#.XIVBE_ZFyVR
-[49]:	https://github.com/asreview/asreview
-[50]:	https://en.wikipedia.org/wiki/RIS_(file_format)
-[51]:	https://github.com/asreview/asreview#contact-and-contributors
+[41]:	https://doi.org/10.30636/jbpa.22.71
+[42]:	https://doi.org/10.7910/DVN/WMGPGZ/HY6N2S
+[43]:	https://www.sciencedirect.com/science/article/abs/pii/S0950584913000426
+[44]:	https://zenodo.org/record/1162952#.XIVBE_ZFyVR
+[45]:	https://doi.org/10.1080/00273171.2017.1412293
+[46]:	https://osf.io/h5k2q/
+[47]:	https://doi.org/10.1001/jamapsychiatry.2019.3986
+[48]:	https://osf.io/4d9tu/
+[49]:	http://journal.ilmukomputer.org/index.php/jse/article/view/47
+[50]:	https://zenodo.org/record/1162952#.XIVBE_ZFyVR
+[51]:	https://github.com/asreview/asreview
+[52]:	https://en.wikipedia.org/wiki/RIS_(file_format)
+[53]:	https://github.com/asreview/asreview#contact-and-contributors
