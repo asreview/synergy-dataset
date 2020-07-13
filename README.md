@@ -34,7 +34,7 @@ The datasets are alphabetically ordered.
 |[Hall et al., 2012][35] | Software Fault Prediction  | 8911  | 1.17%  | [source][36] | CC-BY Attribution 4.0 International |
 |[Kitchenham et al., 2010][37] | Software Engineering  | 1704  | 2.58%  | [source][38] | CC-BY Attribution 4.0 International |
 |[Kwok et al., 2020][39] | Virus Metagenomics  | 2481  | 4.84%  | [source][40] | CC-BY Attribution 4.0 International | 
-|[Nagtegaal et al., 2019][41] | Nudging  | 2008  | 5.03%  | [source][42] | NA |
+|[Nagtegaal et al., 2019][41] | Nudging  | 2008  | 5.03%  | [source][42] | CC0 |
 |[Radjenović et al., 2013][43] | Software Fault Prediction  | 6000  | 0.80%  | [source][44] | CC-BY Attribution 4.0 International |
 |[Van de Schoot et al., 2018][45] | PTSD  | 5783  | 0.66%  | [source][46] | CC-BY Attribution 4.0 International |
 | [van Dis et al., 2020][47] | Anxiety-Related Disorders | 10288  | 0.70%  | [source][48] | NA |
