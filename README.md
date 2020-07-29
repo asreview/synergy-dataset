@@ -62,7 +62,7 @@ datasets. Each of these subfolders are little project. They contain code and a
 `README.md`. The scripts in the different dataset folder create a subfolder
 named `output/` with the result of the data collection.
 
-## Format of data
+### Format of data
 After reviewing in ASReview LAB, you can export your data, which will provide a file that is in the correct format to be uploaded to the repository.
 ASReview LAB accepts the file formats mentioned in the table below. More information on the format of the data to be put into ASReview LAB can be found in the [datasets][59] documentation.
 
@@ -102,16 +102,16 @@ such as Endnote, Mendeley, Refworks and Zotero. All of these are compatible with
 imported in ASReview LAB.
 \*** Robotreviewer does not provide exports suitable for ASReview LAB, since it supports evidence synthesis.
 
-## Format of data without ASReview LAB
+### Format of data without ASReview LAB
 If you would like to share your data without having used ASReview LAB for the screening of your records, or because you have done the screening manually, please make sure the datafile is in the right format. Two examples can be found at the bottom of the page.
 
-# RIS files
+#### RIS files
 [RIS files][52] are used by
 digital libraries, like IEEE Xplore, Scopus and ScienceDirect. Citation
 managers Mendeley and EndNote support the RIS format as well. For simulation,
 we use an additional RIS tag with the letters `LI` (Label included).
 
-# Tabular datasets
+#### Tabular datasets
 Extensions .csv, .xlsx, and .xls. CSV files should be comma separated and UTF-8 encoded. For CSV files, the software accepts a set of predetermined labels in line with the ones used in RIS files: "id", "authors", "date", "title", "keywords" and "abstract". To indicate labelling decisions, one can use "included" or "label\_included".
 The latter label called "included" is needed to indicate the final included publications in the simulations. This label should be filled with all 0’s and 1’s, where 0 means that the record is not included and 1 means included.
 
@@ -187,7 +187,7 @@ The custom tag is:
 
 	label_included
 
-## Examples
+### Examples
 Two examples of authors who have published their systematic review data online:
 	- A systematic review on treatment for Wilson disease, in RIS format https://zenodo.org/record/3625931#.XvB_92ozblw
 	- Data from four systematic reviews on fault prediction in software engineering, in .csv format https://zenodo.org/record/1162952#.XvCCZmozblw.
