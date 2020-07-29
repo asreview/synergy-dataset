@@ -98,29 +98,22 @@ ASReview LAB accepts the file formats mentioned in the table below. More informa
 
 \* When using Covidence it is possible to export articles in .ris formats for different citation managers,
 such as Endnote, Mendeley, Refworks and Zotero. All of these are compatible with ASReview LAB.
-
 \** When exporting from Distiller set the ``sort references by`` to ``Authors``. Then the data can be
 imported in ASReview LAB.
-
 \*** Robotreviewer does not provide exports suitable for ASReview LAB, since it supports evidence synthesis.
 
+## Format of data without ASReview LAB
+If you would like to share your data without having used ASReview LAB for the screening of your records, or because you have done the screening manually, please make sure the datafile is in the right format. Two examples can be found at the bottom of the page.
 
-If you would like to share your data without having used ASReview LAB for the screening of your records, or because you have done the screening manually, please make sure the datafile contains the following columns: "id", "authors", "date", "title", "keywords" and "abstract". To indicate labelling decisions, one can use "included" or "label\_included"
-
-The latter column called "included" is needed to indicate the final included publications in the simulations. This column should be filled with all 0’s and 1’s, where 0 means that the record is not included and 1 means included. Lastly, the file should either be .csv or xlsx format.
-
-An example of shared systematic review data:
-- Data from four systematic reviews on fault prediction in software engineering, in .csv format https://zenodo.org/record/1162952#.XvCCZmozblw.
-
+# RIS files
 [RIS files][52] are used by
 digital libraries, like IEEE Xplore, Scopus and ScienceDirect. Citation
 managers Mendeley and EndNote support the RIS format as well. For simulation,
 we use an additional RIS tag with the letters `LI` (Label included).
 
-### CSV files
-
-For CSV files, the software accepts a set of predetermined labels in line with
-the ones used in RIS files. The most commonly used ones are: "id", "authors", "date", "title", "keywords" and "abstract". To indicate labelling decisions, one can use "included" or "label\_included".
+# Tabular datasets
+Extensions .csv, .xlsx, and .xls. CSV files should be comma separated and UTF-8 encoded. For CSV files, the software accepts a set of predetermined labels in line with the ones used in RIS files: "id", "authors", "date", "title", "keywords" and "abstract". To indicate labelling decisions, one can use "included" or "label\_included".
+The latter label called "included" is needed to indicate the final included publications in the simulations. This label should be filled with all 0’s and 1’s, where 0 means that the record is not included and 1 means included.
 
 In general, the following column names are recognized (based on https://pypi.org/project/RISparser/):
 
@@ -193,6 +186,12 @@ In general, the following column names are recognized (based on https://pypi.org
 The custom tag is:
 
 	label_included
+
+## Examples
+Two examples of authors who have published their systematic review data online:
+	- A systematic review on treatment for Wilson disease, in RIS format https://zenodo.org/record/3625931#.XvB_92ozblw
+	- Data from four systematic reviews on fault prediction in software engineering, in .csv format https://zenodo.org/record/1162952#.XvCCZmozblw.
+
 
 ## Contact and contributors
 
