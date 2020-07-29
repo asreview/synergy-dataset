@@ -190,7 +190,6 @@ The custom tag is:
 ### Examples
 Two examples of authors who have published their systematic review data online:
 	- A systematic review on treatment for Wilson disease, in RIS format https://zenodo.org/record/3625931#.XvB_92ozblw
-	
 	- Data from four systematic reviews on fault prediction in software engineering, in .csv format https://zenodo.org/record/1162952#.XvCCZmozblw.
 
 
