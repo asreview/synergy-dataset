@@ -5,14 +5,16 @@ datasets are open datasets. The labeled data can be used for text mining and mac
 learning purposes. This repository contains scripts to collect, preprocess and clean
 the systematic review datasets.
 
-We are welcoming new datasets in this overview. Make a Pull Request and add the 
-information like in the table below. 
+If you would like to help improve ASReview, please share your dataset with us! Using your dataset about which records you have included and excluded for your systematic review, we can do research, such as simulation studies, to improve our software. This will benefit everyone who wants to use the software. If you’re interested in our research to improve the software, you can find a short report on previous simulation studies [here][54].
+
+If you are willing to contribute to ASReview by making your dataset available, please make a Pull Request and add the
+information like in the table below.
 
 ## Datasets
 
-The datasets are alphabetically ordered. 
+The datasets are alphabetically ordered.
 
-| Reference                  | Topic            | Sample Size | Inclusion | Link  |  License | 
+| Reference                  | Topic            | Sample Size | Inclusion | Link  |  License |
 |----------------------------|------------------|-------------|-----------|-------|----------|
 |[Appenzeller-Herzog, 2020][1]| Wilson disease | 3453 | 0.75% | [source][2] | CC-BY Attribution 4.0 International |
 |[Bannach-Brown et al., 2019][3] | Animal Model of Depression | 1993 | 14.0% | [source][4] | CC-BY Attribution 4.0 International |
@@ -33,14 +35,25 @@ The datasets are alphabetically ordered.
 |[Cohen et al., 2006][33]|Urinary Incontinence   | 327  |12.23% | [source][34] | NA |
 |[Hall et al., 2012][35] | Software Fault Prediction  | 8911  | 1.17%  | [source][36] | CC-BY Attribution 4.0 International |
 |[Kitchenham et al., 2010][37] | Software Engineering  | 1704  | 2.58%  | [source][38] | CC-BY Attribution 4.0 International |
-|[Kwok et al., 2020][39] | Virus Metagenomics  | 2481  | 4.84%  | [source][40] | CC-BY Attribution 4.0 International | 
+|[Kwok et al., 2020][39] | Virus Metagenomics  | 2481  | 4.84%  | [source][40] | CC-BY Attribution 4.0 International |
 |[Nagtegaal et al., 2019][41] | Nudging  | 2008  | 5.03%  | [source][42] | CC0 |
 |[Radjenović et al., 2013][43] | Software Fault Prediction  | 6000  | 0.80%  | [source][44] | CC-BY Attribution 4.0 International |
 |[Van de Schoot et al., 2018][45] | PTSD  | 5783  | 0.66%  | [source][46] | CC-BY Attribution 4.0 International |
 | [van Dis et al., 2020][47] | Anxiety-Related Disorders | 10288  | 0.70%  | [source][48] | NA |
 |[Wahono, 2015][49] | Software Defect Detection  | 7002  | 0.89%  | [source][50] | CC-BY Attribution 4.0 International |
 
-## How it works
+## How to share your data
+For publishing either your data and / or your AI-aided systematic review, we recommend using the Open Science frame (OSF). OSF is part of the Center for Open Science (COS), which aims at increasing openness, integrity, and reproducibility of research ([OSF][56], 2020). How to share your data using OSF: A [step-by-step guide][55].
+
+Another platform to publish your data open access is provided by Zenodo. Zenodo is a platform which encourages scientists to share all materials (including data) that are necessary to understand the scholarly process ([Zenodo][57], 2020).
+
+When uploading your dataset to OSF or Zenodo, make sure to provide all relevant information about the dataset, by filling out all available fields. The data to be put on Zenodo or OSF can be documented as extensively as you would like (flowcharts, explanation of certain decisions, etc.). This can include a link to the systematic review itself, if it has been published elsewhere.
+
+### License
+
+When sharing your dataset or a link to your already published systematic review, we recommend using a CC-BY or CC0 license for both Zenodo and OSF. By adding a Creative Commons license, everybody from individual creators to large institutions are given a standardized way to allow use of their creative work under copyright law ([Creative Commons][58], 2020).
+
+In short, the CC-BY license means that reusers are allowed to distribute, remix, adapt, and build upon the material in any medium or format, so long as attribution is given to the creator. The license allows for commercial use. The CC0 license releases data in the public domain, allowing reuse in any form without any conditions. This can be appropriate when sharing (meta)data only. With both OSF (see step-by-step guide) and Zenodo you can easily add the license to your project after creating a project in either platform.
 
 ### Collecting and preprocessing data
 
@@ -49,13 +62,55 @@ datasets. Each of these subfolders are little project. They contain code and a
 `README.md`. The scripts in the different dataset folder create a subfolder
 named `output/` with the result of the data collection.
 
-## Dataset formats
+## Format of data
+After reviewing in ASReview LAB, you can export your data, which will provide a file that is in the correct format to be uploaded to the repository.
+ASReview LAB accepts the file formats mentioned in the table below. More information on the format of the data to be put into ASReview LAB can be found in the [datasets][59] documentation.
 
-The [ASReview][51] 
-software accepts several file formats like RIS and CSV. The
-datasets in this project are stored in one of these formats.
+|                 | **.ris** | **.tsv**   | **.csv** | **.xlsx**  |
+|-----------------|----------|------------|----------|------------|
+| **Citation managers**|||||
+| *Endnote*       | Supported     | Not supported  |               |           |
+| *Mendeley*      | Supported     |                |               |               |
+| *Refworks*      | Supported     | Not supported  |               |               |
+| *Zotero*        | Supported     |                | Supported     |               |
+| **Search engines**  |||||  
+|*CINHAL(EBSCO)*  | Not supported |                |Not supported  |               |
+|*Cochrane*       | Supported     |                | Supported     |               |
+| *Embase*        | Supported     |                | Supported     | Supported     |
+|*Eric (Ovid)*    | Not supported |                |               |Not supported  |
+|*Psychinfo*      | Not supported |                |               |Not supported  |
+|*(Ovid)*         |               |                |               |               |
+| *Pubmed*        | Not supported |                |Not supported  |               |
+| *Scopus*        | Supported     |                |Supported      |               |
+|*Web of*         | Not supported |Not supported   |               |               |
+|*Science*        |               |                |               |               |
+| **Systematic Review Software**|||||                                                   
+| *Abstrackr*     | Supported     |                | Supported     |               |
+| *Covidence*\*   | Supported     |                | Supported     |               |
+| *Distiller*     |Not supported  |                | Supported\**  |Supported\**   |
+|*EPPI-reviewer*  | Supported     |                |               |Not supported  |
+| *Rayyan*        | Not supported |                | Supported     |               |
+|*Robotreviewer*\***  |||||
 
-### RIS files
+- Supported: The data can be exported from the software and imported in ASReview LAB using this extension.
+- Not supported: The exported data can not be imported in ASReview LAB using this extension.
+- (empty): The data cannot be exported from the software using this extension.
+
+\* When using Covidence it is possible to export articles in .ris formats for different citation managers,
+such as Endnote, Mendeley, Refworks and Zotero. All of these are compatible with ASReview LAB.
+
+\** When exporting from Distiller set the ``sort references by`` to ``Authors``. Then the data can be
+imported in ASReview LAB.
+
+\*** Robotreviewer does not provide exports suitable for ASReview LAB, since it supports evidence synthesis.
+
+
+If you would like to share your data without having used ASReview LAB for the screening of your records, or because you have done the screening manually, please make sure the datafile contains the following columns: "id", "authors", "date", "title", "keywords" and "abstract". To indicate labelling decisions, one can use "included" or "label\_included"
+
+The latter column called "included" is needed to indicate the final included publications in the simulations. This column should be filled with all 0’s and 1’s, where 0 means that the record is not included and 1 means included. Lastly, the file should either be .csv or xlsx format.
+
+An example of shared systematic review data:
+- Data from four systematic reviews on fault prediction in software engineering, in .csv format https://zenodo.org/record/1162952#.XvCCZmozblw.
 
 [RIS files][52] are used by
 digital libraries, like IEEE Xplore, Scopus and ScienceDirect. Citation
@@ -65,7 +120,7 @@ we use an additional RIS tag with the letters `LI` (Label included).
 ### CSV files
 
 For CSV files, the software accepts a set of predetermined labels in line with
-the ones used in RIS files. The most commonly used ones are: "id", "authors", "date", "title", "keywords" and "abstract". To indicate labelling decisions, one can use "included" or "label\_included". 
+the ones used in RIS files. The most commonly used ones are: "id", "authors", "date", "title", "keywords" and "abstract". To indicate labelling decisions, one can use "included" or "label\_included".
 
 In general, the following column names are recognized (based on https://pypi.org/project/RISparser/):
 
@@ -141,8 +196,8 @@ The custom tag is:
 
 ## Contact and contributors
 
-Contact details can be found at the [ASReview][53] 
-project page. 
+Contact details can be found at the [ASReview][53]
+project page.
 
 [1]:	https://onlinelibrary.wiley.com/doi/full/10.1111/liv.14179
 [2]:	https://zenodo.org/record/3625931#.Xk5de5NKhQI
@@ -197,3 +252,9 @@ project page.
 [51]:	https://github.com/asreview/asreview
 [52]:	https://en.wikipedia.org/wiki/RIS_(file_format)
 [53]:	https://github.com/asreview/asreview#contact-and-contributors
+[54]: https://asreview.readthedocs.io/en/latest/simulation_study_results.html
+[55]: https://journals.sagepub.com/doi/pdf/10.1177/2515245918757689
+[56]: https://www.cos.io/our-products/osf
+[57]: https://about.zenodo.org/
+[58]: https://creativecommons.org/about/cclicenses/
+[59]: https://asreview.readthedocs.io/en/latest/datasets.html
