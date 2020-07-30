@@ -108,14 +108,14 @@ If you would like to share your data without having used ASReview LAB for the sc
 #### RIS files
 [RIS files][52] are used by
 digital libraries, like IEEE Xplore, Scopus and ScienceDirect. Citation
-managers Mendeley and EndNote support the RIS format as well. For simulation,
+managers Mendeley and EndNote support the RIS format as well. For simulation, `T1` and `AB` are necessary tags, moreover
 we use an additional RIS tag with the letters `LI` (Label included).
 
 #### Tabular datasets
-Extensions .csv, .xlsx, and .xls. CSV files should be comma separated and UTF-8 encoded. For CSV files, the software accepts a set of predetermined labels in line with the ones used in RIS files: "id", "authors", "date", "title", "keywords" and "abstract". To indicate labelling decisions, one can use "included" or "label\_included".
+Extensions .csv, .xlsx, and .xls. CSV files should be comma separated and UTF-8 encoded. For CSV files, the simulation software accepts a set of predetermined labels in line with the ones used in RIS files:  "title" and "abstract". To indicate labelling decisions, one can use "included" or "label\_included".
 The latter label called "included" is needed to indicate the final included publications in the simulations. This label should be filled with all 0’s and 1’s, where 0 means that the record is not included and 1 means included.
 
-In general, the following column names are recognized (based on https://pypi.org/project/RISparser/):
+In general, the following column names are allowed, however except for the ones mentioned above, they will not be recognized within the simulation (based on https://pypi.org/project/RISparser/):
 
 	first_authors
 	secondary_authors
