@@ -42,7 +42,7 @@ The datasets are alphabetically ordered.
 | [van Dis et al., 2020][47] | Anxiety-Related Disorders | 10288  | 0.70%  | [source][48] | NA |
 |[Wahono, 2015][49] | Software Defect Detection  | 7002  | 0.89%  | [source][50] | CC-BY Attribution 4.0 International |
 
-## How to share your data
+## Publishing your data
 For publishing either your data and / or your AI-aided systematic review, we recommend using the Open Science frame (OSF). OSF is part of the Center for Open Science (COS), which aims at increasing openness, integrity, and reproducibility of research ([OSF][56], 2020). How to share your data using OSF: A [step-by-step guide][55].
 
 Another platform to publish your data open access is provided by Zenodo. Zenodo is a platform which encourages scientists to share all materials (including data) that are necessary to understand the scholarly process ([Zenodo][57], 2020).
@@ -58,7 +58,7 @@ In short, the CC-BY license means that reusers are allowed to distribute, remix,
 ### Collecting and preprocessing data
 
 The folder `datasets/` has a subfolder for the different Systematic Reviews
-datasets. Each of these subfolders are little project. They contain code and a
+datasets. Each of these subfolders is little project. They contain code and a
 `README.md`. The scripts in the different dataset folder create a subfolder
 named `output/` with the result of the data collection.
 
