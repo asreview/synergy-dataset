@@ -39,6 +39,7 @@ The datasets are alphabetically ordered.
 |[Van de Schoot et al., 2018][45] | PTSD  | 5783  | 0.66%  | [source][46] | CC-BY Attribution 4.0 International |
 | [van Dis et al., 2020][47] | Anxiety-Related Disorders | 10288  | 0.70%  | [source][48] | NA |
 |[Wahono, 2015][49] | Software Defect Detection  | 7002  | 0.89%  | [source][50] | CC-BY Attribution 4.0 International |
+|[Wolters et al., 2018](https://doi.org/10.1016/j.jalz.2018.01.007) | Coronary Heart Disease | 4833 | 0.39% | [source](https://osf.io/sxzjg/) | CC-BY Attribution 4.0 International |
 
 ## How it works
 
