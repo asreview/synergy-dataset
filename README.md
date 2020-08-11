@@ -56,6 +56,7 @@ When sharing your dataset or a link to your already published systematic review,
 
 In short, the CC-BY license means that reusers are allowed to distribute, remix, adapt, and build upon the material in any medium or format, so long as attribution is given to the creator. The license allows for commercial use. The CC0 license releases data in the public domain, allowing reuse in any form without any conditions. This can be appropriate when sharing (meta)data only. With both OSF (see step-by-step guide) and Zenodo you can easily add the license to your project after creating a project in either platform.
 
+
 ### Collecting and preprocessing data
 
 The folder `datasets/` has a subfolder for the different Systematic Reviews
