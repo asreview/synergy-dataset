@@ -42,6 +42,7 @@ The datasets are alphabetically ordered.
 | [van Dis et al., 2020][47] | Anxiety-Related Disorders | 10288  | 0.70%  | [source][48] | NA |
 |[Wahono, 2015][49] | Software Defect Detection  | 7002  | 0.89%  | [source][50] | CC-BY Attribution 4.0 International |
 
+
 ## Publishing your data
 For publishing either your data and / or your AI-aided systematic review, we recommend using the Open Science frame (OSF). OSF is part of the Center for Open Science (COS), which aims at increasing openness, integrity, and reproducibility of research ([OSF][56], 2020). How to share your data using OSF: A [step-by-step guide][55].
 
@@ -106,8 +107,7 @@ imported in ASReview LAB.
 If you would like to share your data without having used ASReview LAB for the screening of your records, or because you have done the screening manually, please make sure the datafile is in the right format. Two examples can be found at the bottom of the page.
 
 #### RIS files
-[RIS files][52] are used by
-digital libraries, like IEEE Xplore, Scopus and ScienceDirect. Citation
+[RIS files][52] are used by digital libraries, like IEEE Xplore, Scopus and ScienceDirect. Citation
 managers Mendeley and EndNote support the RIS format as well. For simulation, `T1` and `AB` are necessary tags, moreover
 we use an additional RIS tag with the letters `LI` (Label included).
 
@@ -186,6 +186,7 @@ In general, the following column names are allowed, however except for the ones 
 The custom tag is:
 
 	label_included
+	label_abstract_screening
 
 ### Examples
 Two examples of authors who have published their systematic review data online:
@@ -202,8 +203,8 @@ project page.
 [2]:	https://zenodo.org/record/3625931#.Xk5de5NKhQI
 [3]:	https://systematicreviewsjournal.biomedcentral.com/articles/10.1186/s13643-019-0942-7#Comments
 [4]:	https://zenodo.org/record/151190#.XQPGhYj7TD7
-[5]:	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1447545/
-[6]:	https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html
+[5]:	https://doi.org/10.1016/j.jalz.2018.04.007
+[6]:	https://osf.io/w3kbq/
 [7]:	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1447545/
 [8]:	https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html
 [9]:	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1447545/
@@ -232,9 +233,9 @@ project page.
 [32]:	https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html
 [33]:	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1447545/
 [34]:	https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html
-[35]:	https://ieeexplore.ieee.org/document/6035727
-[36]:	https://zenodo.org/record/1162952#.XIVBE_ZFyVR
-[37]:	https://www.sciencedirect.com/science/article/abs/pii/S0950584910000467
+[35]:	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1447545/
+[36]:	https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html
+[37]:	https://ieeexplore.ieee.org/document/6035727
 [38]:	https://zenodo.org/record/1162952#.XIVBE_ZFyVR
 [39]:	https://doi.org/10.3390/v12010107
 [40]:	https://doi.org/10.17605/OSF.IO/5S27M
