@@ -39,7 +39,6 @@ The datasets are alphabetically ordered.
 |[Van de Schoot et al., 2018][45] | PTSD  | 5783  | 0.66%  | [source][46] | CC-BY Attribution 4.0 International |
 | [van Dis et al., 2020][47] | Anxiety-Related Disorders | 10288  | 0.70%  | [source][48] | NA |
 |[Wahono, 2015][49] | Software Defect Detection  | 7002  | 0.89%  | [source][50] | CC-BY Attribution 4.0 International |
-|[Wolters et al., 2018][51] | Coronary Heart Disease | 4833 | 0.39% | [source][52] | CC-BY Attribution 4.0 International |
 
 ## How it works
 
@@ -52,13 +51,13 @@ named `output/` with the result of the data collection.
 
 ## Dataset formats
 
-The [ASReview][53] 
+The [ASReview][51] 
 software accepts several file formats like RIS and CSV. The
 datasets in this project are stored in one of these formats.
 
 ### RIS files
 
-[RIS files][54] are used by
+[RIS files][52] are used by
 digital libraries, like IEEE Xplore, Scopus and ScienceDirect. Citation
 managers Mendeley and EndNote support the RIS format as well. For simulation,
 we use an additional RIS tag with the letters `LI` (Label included).
@@ -142,7 +141,7 @@ The custom tag is:
 
 ## Contact and contributors
 
-Contact details can be found at the [ASReview][55] 
+Contact details can be found at the [ASReview][53] 
 project page. 
 
 [1]:	https://onlinelibrary.wiley.com/doi/full/10.1111/liv.14179
@@ -195,8 +194,6 @@ project page.
 [48]:	https://osf.io/4d9tu/
 [49]:	http://journal.ilmukomputer.org/index.php/jse/article/view/47
 [50]:	https://zenodo.org/record/1162952#.XIVBE_ZFyVR
-[51]:	https://doi.org/10.1016/j.jalz.2018.01.007
-[52]:	https://osf.io/sxzjg/
-[53]:	https://github.com/asreview/asreview
-[54]:	https://en.wikipedia.org/wiki/RIS_(file_format)
-[55]:	https://github.com/asreview/asreview#contact-and-contributors
+[51]:	https://github.com/asreview/asreview
+[52]:	https://en.wikipedia.org/wiki/RIS_(file_format)
+[53]:	https://github.com/asreview/asreview#contact-and-contributors
