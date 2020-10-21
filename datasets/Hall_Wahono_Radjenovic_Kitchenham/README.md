@@ -1,14 +1,13 @@
-Hall, T., Beecham, S., Bowes, D., Gray, D., & Counsell, S. (2012). **[A Systematic Literature Review on Fault Prediction Performance in Software Engineering.][1]** _IEEE Transactions on Software Engineering, 38_(6), 1276-1304.
+- Hall, T., Beecham, S., Bowes, D., Gray, D., & Counsell, S. (2012). **[A Systematic Literature Review on Fault Prediction Performance in Software Engineering.][1]** _IEEE Transactions on Software Engineering, 38_(6), 1276-1304.
 
-Wahono, R. S. (2015). **[A systematic literature review of software defect prediction.][2]** _Journal of Software Engineering, 1_(1), 1-16.
+- Wahono, R. S. (2015). **[A systematic literature review of software defect prediction.][2]** _Journal of Software Engineering, 1_(1), 1-16.
 
-Radjenović, D., Heričko, M., Torkar, R., & Živkovič, A. (2013). **[Software fault prediction metrics: A systematic literature review.][3]** _Information and Software Technology, 55_(8), 1397-1418.
+- Radjenović, D., Heričko, M., Torkar, R., & Živkovič, A. (2013). **[Software fault prediction metrics: A systematic literature review.][3]** _Information and Software Technology, 55_(8), 1397-1418.
 
-Kitchenham, B., Pretorius, R., Budgen, D., Pearl Brereton, O., Turner, M., Niazi, M., & Linkman, S. (2010). **[Systematic literature reviews in software engineering – A tertiary study.][4]** _Information and Software Technology, 52_(8), 792-805.
+- Kitchenham, B., Pretorius, R., Budgen, D., Pearl Brereton, O., Turner, M., Niazi, M., & Linkman, S. (2010). **[Systematic literature reviews in software engineering – A tertiary study.][4]** _Information and Software Technology, 52_(8), 792-805.
 
 These four datasets are used in the following paper:
-
-Yu, Z., Kraft, N. A., & Menzies, T. (2018). **[Finding better active learners for faster literature reviews.][5]** _Empirical Software Engineering, 23_(6), 3161-3186.
+- Yu, Z., Kraft, N. A., & Menzies, T. (2018). **[Finding better active learners for faster literature reviews.][5]** _Empirical Software Engineering, 23_(6), 3161-3186.
 
 The `process_Hall_Wahono_Radjenovic_Kitchenham_datasets.ipynb` notebook processes the four [raw datasets][6] for ASReview, and reports inclusion rates and word clouds of titles and abstracts for each dataset. Four cleaned datasets can be found in `output`.
 
