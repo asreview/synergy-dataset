@@ -16,9 +16,9 @@ The datasets are alphabetically ordered.
 
 | Reference                  | Topic            | Sample Size | Inclusion | Link  |  License |
 |----------------------------|------------------|-------------|-----------|-------|----------|
-| [Appenzeller-Herzog et al., 2020][2] | Wilson disease | 3425 | 0.75% | [source][3] | CC-BY Attribution 4.0 International |
+| [Appenzeller-Herzog et al., 2020][2] | Wilson disease | 3425 | 0.76% | [source][3] | CC-BY Attribution 4.0 International |
 | [Bannach-Brown et al., 2019][4] | Animal Model of Depression | 1993 | 14.05% | [source][5] | CC-BY Attribution 4.0 International |
-| [Bos et al., 2018][6] | Dementia | 5580 | 0.17% | [source][7] | CC-BY Attribution 4.0 International |
+| [Bos et al., 2018][6] | Dementia | 5580 | 0.18% | [source][7] | CC-BY Attribution 4.0 International |
 | [Cohen et al., 2006][8] | ACEInhibitors | 2544 | 1.61% | [source][9] | NA |
 | [Cohen et al., 2006][10] | ADHD | 851 | 2.35% | [source][11] | NA |
 | [Cohen et al., 2006][12] | Antihistamines | 310 | 5.16% | [source][13] | NA |
@@ -34,15 +34,15 @@ The datasets are alphabetically ordered.
 | [Cohen et al., 2006][32] | Statins | 3465 | 2.45% | [source][33] | NA |
 | [Cohen et al., 2006][34] | Triptans | 671 | 3.58% | [source][35] | NA |
 | [Cohen et al., 2006][36] | Urinary Incontinence | 327 | 12.23% | [source][37] | NA |
-| [Hall et al., 2012][38] | Software Fault Prediction | 8911 | 1.17% | [source][39] | CC-BY Attribution 4.0 International |
-| [Kitchenham et al., 2010][40] | Software Engineering | 1704 | 2.58% | [source][41] | CC-BY Attribution 4.0 International |
+| [Hall et al., 2012][38] | Software Fault Prediction | 8812 | 1.18% | [source][39] | CC-BY Attribution 4.0 International |
+| [Kitchenham et al., 2010][40] | Software Engineering | 1698 | 2.65% | [source][41] | CC-BY Attribution 4.0 International |
 | [Kwok et al., 2020][42] | Virus Metagenomics | 2481 | 4.84% | [source][43] | CC-BY Attribution 4.0 International |
-| [Nagtegaal et al., 2019][44] | Nudging | 2008 | 5.00% | [source][45] | CC0 |
-| [Radjenović et al., 2013][46] | Software Fault Prediction | 6000 | 0.80% | [source][47] | CC-BY Attribution 4.0 International |
-| [van de Schoot et al., 2018][48] | PTSD  | 5782 | 0.61% | [source][49] | CC-BY Attribution 4.0 International |
-| [van Dis et al., 2020][50] | Anxiety-Related Disorders | 10790 | 0.67% | [source][51] | NA |
-| [Wahono et al., 2015][52] | Software Defect Detection | 7002 | 0.89% | [source][53] | CC-BY Attribution 4.0 International |
-| [Wolters et al., 2018][54] | Dementia | 4878 | 0.38% | [source][55] | CC-BY Attribution 4.0 International |
+| [Nagtegaal et al., 2019][44] | Nudging | 2008 | 5.03% | [source][45] | CC0 |
+| [Radjenović et al., 2013][46] | Software Fault Prediction | 5949 | 0.81% | [source][47] | CC-BY Attribution 4.0 International |
+| [van de Schoot et al., 2018][48] | PTSD  | 5782 | 0.66% | [source][49] | CC-BY Attribution 4.0 International |
+| [van Dis et al., 2020][50] | Anxiety-Related Disorders | 10790 | 0.68% | [source][51] | NA |
+| [Wahono et al., 2015][52] | Software Defect Detection | 6965 | 0.89% | [source][53] | CC-BY Attribution 4.0 International |
+| [Wolters et al., 2018][54] | Dementia | 4878 | 0.39% | [source][55] | CC-BY Attribution 4.0 International |
 
 
 ## Publishing your data
@@ -61,10 +61,8 @@ In short, the CC-BY license means that reusers are allowed to distribute, remix,
 
 ### Collecting and preprocessing data
 
-The folder `datasets/` has a subfolder for the different Systematic Reviews
-datasets. Each of these subfolders is little project. They contain code and a
-`README.md`. The scripts in the different dataset folder create a subfolder
-named `output/` with the result of the data collection.
+The folder `datasets/` has subfolders for the different systematic reviews
+datasets. In each of these subfolders, the `.ipynb` script retrieve a dataset from OSF or Zenodo, and preprocesses it by adding customized labels and marking duplicates. The script also reports the inclusion rate, and missing patterns and word clouds of titles and abstracts. After preprocessing, an ASReview-ready dataset in `.csv` format is generated in the `output/` folder.
 
 ### Format of data
 After reviewing in ASReview LAB, you can export your data, which will provide a file that is in the correct format to be uploaded to the repository.
@@ -189,7 +187,6 @@ In general, the following column names are allowed, however except for the ones 
 The custom tag is:
 
 	label_included
-	label_abstract_screening
 
 ### Examples
 Two examples of authors who have published their systematic review data online:
@@ -263,4 +260,4 @@ project page.
 [59]:	https://creativecommons.org/about/cclicenses/
 [60]:	https://asreview.readthedocs.io/en/latest/datasets.html
 [61]:	https://en.wikipedia.org/wiki/RIS_(file_format)
-[62]:	https://github.com/asreview/asreview#contact-and-contributors
+[62]:	https://github.com/asreview/asreview#contact
