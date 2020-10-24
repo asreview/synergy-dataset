@@ -41,7 +41,7 @@ The datasets are alphabetically ordered.
 | [Radjenović et al., 2013][46] | Software Fault Prediction | 5949 | 0.81% | [source][47] | CC-BY Attribution 4.0 International |
 | [van de Schoot et al., 2018][48] | PTSD  | 5782 | 0.66% | [source][49] | CC-BY Attribution 4.0 International |
 | [van Dis et al., 2020][50] | Anxiety-Related Disorders | 10790 | 0.68% | [source][51] | NA |
-| [Wahono et al., 2015][52] | Software Defect Detection | 6965 | 0.89% | [source][53] | CC-BY Attribution 4.0 International |
+| [Wahono, 2015][52] | Software Defect Detection | 6965 | 0.89% | [source][53] | CC-BY Attribution 4.0 International |
 | [Wolters et al., 2018][54] | Dementia | 4878 | 0.39% | [source][55] | CC-BY Attribution 4.0 International |
 
 
@@ -250,7 +250,7 @@ project page.
 [49]:	https://osf.io/h5k2q/
 [50]:	https://doi.org/10.1001/jamapsychiatry.2019.3986
 [51]:	https://osf.io/4d9tu/
-[52]:	http://journal.ilmukomputer.org/index.php/jse/article/view/47
+[52]:	http://journal.ilmukomputer.org/index.php?journal=jse&page=article&op=view&path%5B%5D=47
 [53]:	https://zenodo.org/record/1162952#.XIVBE_ZFyVR
 [54]:	https://doi.org/10.1016/j.jalz.2018.01.007
 [55]:	https://osf.io/sxzjg/
