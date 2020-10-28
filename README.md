@@ -5,7 +5,7 @@ datasets are open datasets. The labeled data can be used for text mining and mac
 learning purposes. This repository contains scripts to collect, preprocess and clean
 the systematic review datasets.
 
-If you would like to help improve ASReview, please share your dataset with us! Using your dataset about which records you have included and excluded for your systematic review, we can do research, such as simulation studies, to improve our software. This will benefit everyone who wants to use the software. If you’re interested in our research to improve the software, you can find a short report on previous simulation studies [here][54].
+If you would like to help improve ASReview, please share your dataset with us! Using your dataset about which records you have included and excluded for your systematic review, we can do research, such as simulation studies, to improve our software. This will benefit everyone who wants to use the software. If you’re interested in our research to improve the software, you can find a short report on previous simulation studies [here][1].
 
 If you are willing to contribute to ASReview by making your dataset available, please make a Pull Request and add the
 information like in the table below.
@@ -16,55 +16,57 @@ The datasets are alphabetically ordered.
 
 | Reference                  | Topic            | Sample Size | Inclusion | Link  |  License |
 |----------------------------|------------------|-------------|-----------|-------|----------|
-|[Appenzeller-Herzog, 2020][1]| Wilson disease | 3453 | 0.75% | [source][2] | CC-BY Attribution 4.0 International |
-|[Bannach-Brown et al., 2019][3] | Animal Model of Depression | 1993 | 14.0% | [source][4] | CC-BY Attribution 4.0 International |
-|[Cohen et al., 2006][5]|  ACEInhibitors | 2544  | 1.61% | [source][6] | NA |
-|[Cohen et al., 2006][7]| ADHD | 851  | 2.35% | [source][8] | NA |
-|[Cohen et al., 2006][9]| Antihistamines  |  310 | 5.16% | [source][10] |NA  |
-|[Cohen et al., 2006][11]| Atypical Antipsychotics  | 1120  | 13.04% | [source][12] | NA |
-|[Cohen et al., 2006][13]| Beta Blockers  |  2072 | 2.03% | [source][14] |NA  |
-|[Cohen et al., 2006][15]| Calcium Channel Blockers  | 1218  | 8.21% | [source][16] |NA  |
-|[Cohen et al., 2006][17]| Estrogens  | 368  |21.74%  | [source][18] | NA |
-|[Cohen et al., 2006][19]| NSAIDS  | 393  |10.43%  | [source][20] |NA  |
-|[Cohen et al., 2006][21]| Opiods  |1915   |0.78%  | [source][22] |NA  |
-|[Cohen et al., 2006][23]|Oral Hypoglycemics   | 503  |27.04%  | [source][24] | NA |
-|[Cohen et al., 2006][25]|Proton Pump Inhibitors   | 1333  |3.83%  | [source][26] | NA |
-|[Cohen et al., 2006][27]|Skeletal Muscle Relaxants   | 1643  |0.55%  | [source][28] | NA |
-|[Cohen et al., 2006][29]|Statins   | 3465  |2.45% | [source][30] | NA |
-|[Cohen et al., 2006][31]|Triptans   | 671  |3.58%  | [source][32] | NA |
-|[Cohen et al., 2006][33]|Urinary Incontinence   | 327  |12.23% | [source][34] | NA |
-|[Hall et al., 2012][35] | Software Fault Prediction  | 8911  | 1.17%  | [source][36] | CC-BY Attribution 4.0 International |
-|[Kitchenham et al., 2010][37] | Software Engineering  | 1704  | 2.58%  | [source][38] | CC-BY Attribution 4.0 International |
-|[Kwok et al., 2020][39] | Virus Metagenomics  | 2481  | 4.84%  | [source][40] | CC-BY Attribution 4.0 International |
-|[Nagtegaal et al., 2019][41] | Nudging  | 2008  | 5.03%  | [source][42] | CC0 |
-|[Radjenović et al., 2013][43] | Software Fault Prediction  | 6000  | 0.80%  | [source][44] | CC-BY Attribution 4.0 International |
-|[Van de Schoot et al., 2018][45] | PTSD  | 5783  | 0.66%  | [source][46] | CC-BY Attribution 4.0 International |
-| [van Dis et al., 2020][47] | Anxiety-Related Disorders | 10288  | 0.70%  | [source][48] | NA |
-|[Wahono, 2015][49] | Software Defect Detection  | 7002  | 0.89%  | [source][50] | CC-BY Attribution 4.0 International |
+| [Appenzeller-Herzog et al., 2020][2] | Wilson disease | 3425 | 0.76% | [source][3] | CC-BY Attribution 4.0 International |
+| [Bannach-Brown et al., 2019][4] | Animal Model of Depression | 1993 | 14.05% | [source][5] | CC-BY Attribution 4.0 International |
+| [Bos et al., 2018][6] | Dementia | 5580 | 0.18% | [source][7] | CC-BY Attribution 4.0 International |
+| [Cohen et al., 2006][8] | ACEInhibitors | 2544 | 1.61% | [source][9] | NA |
+| [Cohen et al., 2006][10] | ADHD | 851 | 2.35% | [source][11] | NA |
+| [Cohen et al., 2006][12] | Antihistamines | 310 | 5.16% | [source][13] | NA |
+| [Cohen et al., 2006][14] | Atypical Antipsychotics | 1120 | 13.04% | [source][15] | NA |
+| [Cohen et al., 2006][16] | Beta Blockers | 2072 | 2.03% | [source][17] | NA |
+| [Cohen et al., 2006][18] | Calcium Channel Blockers | 1218 | 8.21% | [source][19] | NA |
+| [Cohen et al., 2006][20] | Estrogens | 368 | 21.74% | [source][21] | NA |
+| [Cohen et al., 2006][22] | NSAIDS | 393 | 10.43% | [source][23] | NA |
+| [Cohen et al., 2006][24] | Opiods | 1915 | 0.78% | [source][25] | NA |
+| [Cohen et al., 2006][26] | Oral Hypoglycemics | 503 | 27.04% | [source][27] | NA |
+| [Cohen et al., 2006][28] | Proton Pump Inhibitors | 1333 | 3.83% | [source][29] | NA |
+| [Cohen et al., 2006][30] | Skeletal Muscle Relaxants | 1643 | 0.55% | [source][31] | NA |
+| [Cohen et al., 2006][32] | Statins | 3465 | 2.45% | [source][33] | NA |
+| [Cohen et al., 2006][34] | Triptans | 671 | 3.58% | [source][35] | NA |
+| [Cohen et al., 2006][36] | Urinary Incontinence | 327 | 12.23% | [source][37] | NA |
+| [Hall et al., 2012][38] | Software Fault Prediction | 8812 | 1.18% | [source][39] | CC-BY Attribution 4.0 International |
+| [Kitchenham et al., 2010][40] | Software Engineering | 1698 | 2.65% | [source][41] | CC-BY Attribution 4.0 International |
+| [Kwok et al., 2020][42] | Virus Metagenomics | 2481 | 4.84% | [source][43] | CC-BY Attribution 4.0 International |
+| [Nagtegaal et al., 2019][44] | Nudging | 2008 | 5.03% | [source][45] | CC0 |
+| [Radjenović et al., 2013][46] | Software Fault Prediction | 5949 | 0.81% | [source][47] | CC-BY Attribution 4.0 International |
+| [van de Schoot et al., 2018][48] | PTSD  | 5782 | 0.66% | [source][49] | CC-BY Attribution 4.0 International |
+| [van Dis et al., 2020][50] | Anxiety-Related Disorders | 10790 | 0.68% | [source][51] | NA |
+| [Wahono, 2015][52] | Software Defect Detection | 6965 | 0.89% | [source][53] | CC-BY Attribution 4.0 International |
+| [Wolters et al., 2018][54] | Dementia | 4878 | 0.39% | [source][55] | CC-BY Attribution 4.0 International |
+
 
 ## Publishing your data
-For publishing either your data and / or your AI-aided systematic review, we recommend using the Open Science frame (OSF). OSF is part of the Center for Open Science (COS), which aims at increasing openness, integrity, and reproducibility of research ([OSF][56], 2020). How to share your data using OSF: A [step-by-step guide][55].
+For publishing either your data and / or your AI-aided systematic review, we recommend using the Open Science frame (OSF). OSF is part of the Center for Open Science (COS), which aims at increasing openness, integrity, and reproducibility of research ([OSF][56], 2020). How to share your data using OSF: A [step-by-step guide][57].
 
-Another platform to publish your data open access is provided by Zenodo. Zenodo is a platform which encourages scientists to share all materials (including data) that are necessary to understand the scholarly process ([Zenodo][57], 2020).
+Another platform to publish your data open access is provided by Zenodo. Zenodo is a platform which encourages scientists to share all materials (including data) that are necessary to understand the scholarly process ([Zenodo][58], 2020).
 
 When uploading your dataset to OSF or Zenodo, make sure to provide all relevant information about the dataset, by filling out all available fields. The data to be put on Zenodo or OSF can be documented as extensively as you would like (flowcharts, explanation of certain decisions, etc.). This can include a link to the systematic review itself, if it has been published elsewhere.
 
 ### License
 
-When sharing your dataset or a link to your already published systematic review, we recommend using a CC-BY or CC0 license for both Zenodo and OSF. By adding a Creative Commons license, everybody from individual creators to large institutions are given a standardized way to allow use of their creative work under copyright law ([Creative Commons][58], 2020).
+When sharing your dataset or a link to your already published systematic review, we recommend using a CC-BY or CC0 license for both Zenodo and OSF. By adding a Creative Commons license, everybody from individual creators to large institutions are given a standardized way to allow use of their creative work under copyright law ([Creative Commons][59], 2020).
 
 In short, the CC-BY license means that reusers are allowed to distribute, remix, adapt, and build upon the material in any medium or format, so long as attribution is given to the creator. The license allows for commercial use. The CC0 license releases data in the public domain, allowing reuse in any form without any conditions. This can be appropriate when sharing (meta)data only. With both OSF (see step-by-step guide) and Zenodo you can easily add the license to your project after creating a project in either platform.
 
+
 ### Collecting and preprocessing data
 
-The folder `datasets/` has a subfolder for the different Systematic Reviews
-datasets. Each of these subfolders is little project. They contain code and a
-`README.md`. The scripts in the different dataset folder create a subfolder
-named `output/` with the result of the data collection.
+The folder `datasets/` has subfolders for the different systematic reviews
+datasets. In each of these subfolders, the `.ipynb` script retrieve a dataset from OSF or Zenodo, and preprocesses it by adding customized labels and marking duplicates. The script also reports the inclusion rate, and missing patterns and word clouds of titles and abstracts. After preprocessing, an ASReview-ready dataset in `.csv` format is generated in the `output/` folder.
 
 ### Format of data
 After reviewing in ASReview LAB, you can export your data, which will provide a file that is in the correct format to be uploaded to the repository.
-ASReview LAB accepts the file formats mentioned in the table below. More information on the format of the data to be put into ASReview LAB can be found in the [datasets][59] documentation.
+ASReview LAB accepts the file formats mentioned in the table below. More information on the format of the data to be put into ASReview LAB can be found in the [datasets][60] documentation.
 
 |                 | **.ris** | **.tsv**   | **.csv** | **.xlsx**  |
 |-----------------|----------|------------|----------|------------|
@@ -84,13 +86,13 @@ ASReview LAB accepts the file formats mentioned in the table below. More informa
 | *Scopus*        | Supported     |                |Supported      |               |
 |*Web of*         | Not supported |Not supported   |               |               |
 |*Science*        |               |                |               |               |
-| **Systematic Review Software**|||||                                                   
+| **Systematic Review Software**|||||  
 | *Abstrackr*     | Supported     |                | Supported     |               |
 | *Covidence*\*   | Supported     |                | Supported     |               |
-| *Distiller*     |Not supported  |                | Supported\**  |Supported\**   |
+| *Distiller*     |Not supported  |                | Supported\*\*  |Supported\*\*   |
 |*EPPI-reviewer*  | Supported     |                |               |Not supported  |
 | *Rayyan*        | Not supported |                | Supported     |               |
-|*Robotreviewer*\***  |||||
+|*Robotreviewer*\*\*\*  |||||
 
 - Supported: The data can be exported from the software and imported in ASReview LAB using this extension.
 - Not supported: The exported data can not be imported in ASReview LAB using this extension.
@@ -98,16 +100,15 @@ ASReview LAB accepts the file formats mentioned in the table below. More informa
 
 \* When using Covidence it is possible to export articles in .ris formats for different citation managers,
 such as Endnote, Mendeley, Refworks and Zotero. All of these are compatible with ASReview LAB.
-\** When exporting from Distiller set the ``sort references by`` to ``Authors``. Then the data can be
+\*\* When exporting from Distiller set the `sort references by` to `Authors`. Then the data can be
 imported in ASReview LAB.
-\*** Robotreviewer does not provide exports suitable for ASReview LAB, since it supports evidence synthesis.
+\*\*\* Robotreviewer does not provide exports suitable for ASReview LAB, since it supports evidence synthesis.
 
 ### Format of data without ASReview LAB
 If you would like to share your data without having used ASReview LAB for the screening of your records, or because you have done the screening manually, please make sure the datafile is in the right format. Two examples can be found at the bottom of the page.
 
 #### RIS files
-[RIS files][52] are used by
-digital libraries, like IEEE Xplore, Scopus and ScienceDirect. Citation
+[RIS files][61] are used by digital libraries, like IEEE Xplore, Scopus and ScienceDirect. Citation
 managers Mendeley and EndNote support the RIS format as well. For simulation, `T1` and `AB` are necessary tags, moreover
 we use an additional RIS tag with the letters `LI` (Label included).
 
@@ -189,71 +190,74 @@ The custom tag is:
 
 ### Examples
 Two examples of authors who have published their systematic review data online:
-- A systematic review on treatment for Wilson disease, in RIS format https://zenodo.org/record/3625931#.XvB_92ozblw
+- A systematic review on treatment for Wilson disease, in RIS format https://zenodo.org/record/3625931#.XvB\_92ozblw
 - Data from four systematic reviews on fault prediction in software engineering, in .csv format https://zenodo.org/record/1162952#.XvCCZmozblw.
 
 
 ## Contact and contributors
 
-Contact details can be found at the [ASReview][53]
+Contact details can be found at the [ASReview][62]
 project page.
 
-[1]:	https://onlinelibrary.wiley.com/doi/full/10.1111/liv.14179
-[2]:	https://zenodo.org/record/3625931#.Xk5de5NKhQI
-[3]:	https://systematicreviewsjournal.biomedcentral.com/articles/10.1186/s13643-019-0942-7#Comments
-[4]:	https://zenodo.org/record/151190#.XQPGhYj7TD7
-[5]:	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1447545/
-[6]:	https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html
-[7]:	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1447545/
-[8]:	https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html
-[9]:	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1447545/
-[10]:	https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html
-[11]:	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1447545/
-[12]:	https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html
-[13]:	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1447545/
-[14]:	https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html
-[15]:	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1447545/
-[16]:	https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html
-[17]:	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1447545/
-[18]:	https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html
-[19]:	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1447545/
-[20]:	https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html
-[21]:	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1447545/
-[22]:	https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html
-[23]:	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1447545/
-[24]:	https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html
-[25]:	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1447545/
-[26]:	https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html
-[27]:	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1447545/
-[28]:	https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html
-[29]:	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1447545/
-[30]:	https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html
-[31]:	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1447545/
-[32]:	https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html
-[33]:	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1447545/
-[34]:	https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html
-[35]:	https://ieeexplore.ieee.org/document/6035727
-[36]:	https://zenodo.org/record/1162952#.XIVBE_ZFyVR
-[37]:	https://www.sciencedirect.com/science/article/abs/pii/S0950584910000467
-[38]:	https://zenodo.org/record/1162952#.XIVBE_ZFyVR
-[39]:	https://doi.org/10.3390/v12010107
-[40]:	https://doi.org/10.17605/OSF.IO/5S27M
-[41]:	https://doi.org/10.30636/jbpa.22.71
-[42]:	https://doi.org/10.7910/DVN/WMGPGZ/HY6N2S
-[43]:	https://www.sciencedirect.com/science/article/abs/pii/S0950584913000426
-[44]:	https://zenodo.org/record/1162952#.XIVBE_ZFyVR
-[45]:	https://doi.org/10.1080/00273171.2017.1412293
-[46]:	https://osf.io/h5k2q/
-[47]:	https://doi.org/10.1001/jamapsychiatry.2019.3986
-[48]:	https://osf.io/4d9tu/
-[49]:	http://journal.ilmukomputer.org/index.php/jse/article/view/47
-[50]:	https://zenodo.org/record/1162952#.XIVBE_ZFyVR
-[51]:	https://github.com/asreview/asreview
-[52]:	https://en.wikipedia.org/wiki/RIS_(file_format)
-[53]:	https://github.com/asreview/asreview#contact-and-contributors
-[54]: https://asreview.readthedocs.io/en/latest/simulation_study_results.html
-[55]: https://journals.sagepub.com/doi/pdf/10.1177/2515245918757689
-[56]: https://www.cos.io/our-products/osf
-[57]: https://about.zenodo.org/
-[58]: https://creativecommons.org/about/cclicenses/
-[59]: https://asreview.readthedocs.io/en/latest/datasets.html
+[1]:	https://asreview.readthedocs.io/en/latest/simulation_study_results.html
+[2]:	https://onlinelibrary.wiley.com/doi/full/10.1111/liv.14179
+[3]:	https://zenodo.org/record/3625931#.Xk5de5NKhQI
+[4]:	https://systematicreviewsjournal.biomedcentral.com/articles/10.1186/s13643-019-0942-7#Comments
+[5]:	https://zenodo.org/record/151190#.XQPGhYj7TD7
+[6]:	https://doi.org/10.1016/j.jalz.2018.04.007
+[7]:	https://osf.io/w3kbq/
+[8]:	https://doi.org/10.1016/j.jalz.2018.04.007
+[9]:	https://osf.io/w3kbq/
+[10]:	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1447545/
+[11]:	https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html
+[12]:	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1447545/
+[13]:	https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html
+[14]:	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1447545/
+[15]:	https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html
+[16]:	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1447545/
+[17]:	https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html
+[18]:	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1447545/
+[19]:	https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html
+[20]:	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1447545/
+[21]:	https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html
+[22]:	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1447545/
+[23]:	https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html
+[24]:	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1447545/
+[25]:	https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html
+[26]:	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1447545/
+[27]:	https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html
+[28]:	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1447545/
+[29]:	https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html
+[30]:	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1447545/
+[31]:	https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html
+[32]:	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1447545/
+[33]:	https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html
+[34]:	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1447545/
+[35]:	https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html
+[36]:	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1447545/
+[37]:	https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html
+[38]:	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1447545/
+[39]:	https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html
+[40]:	https://ieeexplore.ieee.org/document/6035727
+[41]:	https://zenodo.org/record/1162952#.XIVBE_ZFyVR
+[42]:	https://doi.org/10.3390/v12010107
+[43]:	https://doi.org/10.17605/OSF.IO/5S27M
+[44]:	https://doi.org/10.30636/jbpa.22.71
+[45]:	https://doi.org/10.7910/DVN/WMGPGZ/HY6N2S
+[46]:	https://www.sciencedirect.com/science/article/abs/pii/S0950584913000426
+[47]:	https://zenodo.org/record/1162952#.XIVBE_ZFyVR
+[48]:	https://doi.org/10.1080/00273171.2017.1412293
+[49]:	https://osf.io/h5k2q/
+[50]:	https://doi.org/10.1001/jamapsychiatry.2019.3986
+[51]:	https://osf.io/4d9tu/
+[52]:	http://journal.ilmukomputer.org/index.php?journal=jse&page=article&op=view&path%5B%5D=47
+[53]:	https://zenodo.org/record/1162952#.XIVBE_ZFyVR
+[54]:	https://doi.org/10.1016/j.jalz.2018.01.007
+[55]:	https://osf.io/sxzjg/
+[56]:	https://www.cos.io/our-products/osf
+[57]:	https://journals.sagepub.com/doi/pdf/10.1177/2515245918757689
+[58]:	https://about.zenodo.org/
+[59]:	https://creativecommons.org/about/cclicenses/
+[60]:	https://asreview.readthedocs.io/en/latest/datasets.html
+[61]:	https://en.wikipedia.org/wiki/RIS_(file_format)
+[62]:	https://github.com/asreview/asreview#contact
