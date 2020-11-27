@@ -199,7 +199,7 @@ Two examples of authors who have published their systematic review data online:
 Contact details can be found at the [ASReview][62]
 project page.
 
-[1]:	https://asreview.readthedocs.io/en/latest/simulation_study_results.html
+[1]:	https://asreview.readthedocs.io/en/latest/guides/simulation_study_results.html
 [2]:	https://onlinelibrary.wiley.com/doi/full/10.1111/liv.14179
 [3]:	https://zenodo.org/record/3625931#.Xk5de5NKhQI
 [4]:	https://systematicreviewsjournal.biomedcentral.com/articles/10.1186/s13643-019-0942-7#Comments
