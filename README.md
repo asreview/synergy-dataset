@@ -1,14 +1,19 @@
 # Systematic Review Datasets
 
-This repository shows an overview of labeled datasets on Systematic Reviews. The
-datasets are open datasets. The labeled data can be used for text mining and machine
+This repository provides an overview of labeled datasets used for Systematic Reviews. The
+datasets are available under a licence and can be used for text mining and machine
 learning purposes. This repository contains scripts to collect, preprocess and clean
 the systematic review datasets.
 
-If you would like to help improve ASReview, please share your dataset with us! Using your dataset about which records you have included and excluded for your systematic review, we can do research, such as simulation studies, to improve our software. This will benefit everyone who wants to use the software. If you’re interested in our research to improve the software, you can find a short report on previous simulation studies [here][1].
+If you would like to help improve ASReview, please share your dataset with us! 
 
-If you are willing to contribute to ASReview by making your dataset available, please make a Pull Request and add the
-information like in the table below.
+Using your dataset we can do research, such as simulation studies, 
+to improve our software. This will benefit everyone who wants to use the software. 
+If you’re interested in our research to improve the software, 
+you can find a short report on previous simulation studies [here][1].
+
+If you are willing to contribute to ASReview by making your dataset available, 
+please make a Pull Request and add the information like in the table below.
 
 ## Datasets
 
@@ -19,21 +24,21 @@ The datasets are alphabetically ordered.
 | [Appenzeller-Herzog et al., 2020][2] | Wilson disease | 3425 | 0.76% | [source][3] | CC-BY Attribution 4.0 International |
 | [Bannach-Brown et al., 2019][4] | Animal Model of Depression | 1993 | 14.05% | [source][5] | CC-BY Attribution 4.0 International |
 | [Bos et al., 2018][6] | Dementia | 5580 | 0.18% | [source][7] | CC-BY Attribution 4.0 International |
-| [Cohen et al., 2006][8] | ACEInhibitors | 2544 | 1.61% | [source][9] | NA |
-| [Cohen et al., 2006][10] | ADHD | 851 | 2.35% | [source][11] | NA |
-| [Cohen et al., 2006][12] | Antihistamines | 310 | 5.16% | [source][13] | NA |
-| [Cohen et al., 2006][14] | Atypical Antipsychotics | 1120 | 13.04% | [source][15] | NA |
-| [Cohen et al., 2006][16] | Beta Blockers | 2072 | 2.03% | [source][17] | NA |
-| [Cohen et al., 2006][18] | Calcium Channel Blockers | 1218 | 8.21% | [source][19] | NA |
-| [Cohen et al., 2006][20] | Estrogens | 368 | 21.74% | [source][21] | NA |
-| [Cohen et al., 2006][22] | NSAIDS | 393 | 10.43% | [source][23] | NA |
-| [Cohen et al., 2006][24] | Opiods | 1915 | 0.78% | [source][25] | NA |
-| [Cohen et al., 2006][26] | Oral Hypoglycemics | 503 | 27.04% | [source][27] | NA |
-| [Cohen et al., 2006][28] | Proton Pump Inhibitors | 1333 | 3.83% | [source][29] | NA |
-| [Cohen et al., 2006][30] | Skeletal Muscle Relaxants | 1643 | 0.55% | [source][31] | NA |
-| [Cohen et al., 2006][32] | Statins | 3465 | 2.45% | [source][33] | NA |
-| [Cohen et al., 2006][34] | Triptans | 671 | 3.58% | [source][35] | NA |
-| [Cohen et al., 2006][36] | Urinary Incontinence | 327 | 12.23% | [source][37] | NA |
+| [Cohen et al., 2006][8] | ACEInhibitors | 2544 | 1.61% | [source][9] | Custom |
+| [Cohen et al., 2006][10] | ADHD | 851 | 2.35% | [source][11] | Custom |
+| [Cohen et al., 2006][12] | Antihistamines | 310 | 5.16% | [source][13] | Custom |
+| [Cohen et al., 2006][14] | Atypical Antipsychotics | 1120 | 13.04% | [source][15] | Custom |
+| [Cohen et al., 2006][16] | Beta Blockers | 2072 | 2.03% | [source][17] | Custom |
+| [Cohen et al., 2006][18] | Calcium Channel Blockers | 1218 | 8.21% | [source][19] | Custom |
+| [Cohen et al., 2006][20] | Estrogens | 368 | 21.74% | [source][21] | Custom |
+| [Cohen et al., 2006][22] | NSAIDS | 393 | 10.43% | [source][23] | Custom |
+| [Cohen et al., 2006][24] | Opiods | 1915 | 0.78% | [source][25] | Custom |
+| [Cohen et al., 2006][26] | Oral Hypoglycemics | 503 | 27.04% | [source][27] | Custom |
+| [Cohen et al., 2006][28] | Proton Pump Inhibitors | 1333 | 3.83% | [source][29] | Custom |
+| [Cohen et al., 2006][30] | Skeletal Muscle Relaxants | 1643 | 0.55% | [source][31] | Custom |
+| [Cohen et al., 2006][32] | Statins | 3465 | 2.45% | [source][33] | Custom |
+| [Cohen et al., 2006][34] | Triptans | 671 | 3.58% | [source][35] | Custom |
+| [Cohen et al., 2006][36] | Urinary Incontinence | 327 | 12.23% | [source][37] | Custom |
 | [Hall et al., 2012][38] | Software Fault Prediction | 8812 | 1.18% | [source][39] | CC-BY Attribution 4.0 International |
 | [Kitchenham et al., 2010][40] | Software Engineering | 1698 | 2.65% | [source][41] | CC-BY Attribution 4.0 International |
 | [Kwok et al., 2020][42] | Virus Metagenomics | 2481 | 4.84% | [source][43] | CC-BY Attribution 4.0 International |
