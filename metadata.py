@@ -49,7 +49,8 @@ df.to_csv("index.csv", index=False)
 print(df)
 
 # export metadata to markdown table
-vars_output = ["dataset_id", "url", "license", "topic", "sample_size", "final_inclusions"]
+df["id"] = "[" + df["dataset_id"] + "](" + df["url"] + ")"
+vars_output = ["id", "topic", "sample_size", "n_included", "license"]
 s_table = df[vars_output].to_markdown(index=False)
 
 with open("README.md") as f_read:
@@ -58,7 +59,7 @@ with open("README.md") as f_read:
 readme_top = readme.split("<!-- BEGIN TABLE -->")[0]
 readme_bottom = readme.split("<!-- END TABLE -->")[1]
 
-readme_new = readme_top + "<!-- BEGIN TABLE -->\n\n" + s_table + "\n\n<!-- END TABLE -->\n\n" + readme_bottom
+readme_new = readme_top + "<!-- BEGIN TABLE -->\n\n" + s_table + "\n\n<!-- END TABLE -->" + readme_bottom
 
 with open("README.md", "w") as f_write:
     f_write.write(readme_new)
