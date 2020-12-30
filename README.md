@@ -21,37 +21,43 @@ The datasets are alphabetically ordered.
 
 <!-- BEGIN TABLE -->
 
-| Reference                  | Topic            | Sample Size | Inclusion | Link  |  License |
-|----------------------------|------------------|-------------|-----------|-------|----------|
-| [Appenzeller-Herzog et al., 2020][2] | Wilson disease | 3425 | 0.76% | [source][3] | CC-BY Attribution 4.0 International |
-| [Bannach-Brown et al., 2019][4] | Animal Model of Depression | 1993 | 14.05% | [source][5] | CC-BY Attribution 4.0 International |
-| [Bos et al., 2018][6] | Dementia | 5580 | 0.18% | [source][7] | CC-BY Attribution 4.0 International |
-| [Cohen et al., 2006][8] | ACEInhibitors | 2544 | 1.61% | [source][9] | Custom |
-| [Cohen et al., 2006][10] | ADHD | 851 | 2.35% | [source][11] | Custom |
-| [Cohen et al., 2006][12] | Antihistamines | 310 | 5.16% | [source][13] | Custom |
-| [Cohen et al., 2006][14] | Atypical Antipsychotics | 1120 | 13.04% | [source][15] | Custom |
-| [Cohen et al., 2006][16] | Beta Blockers | 2072 | 2.03% | [source][17] | Custom |
-| [Cohen et al., 2006][18] | Calcium Channel Blockers | 1218 | 8.21% | [source][19] | Custom |
-| [Cohen et al., 2006][20] | Estrogens | 368 | 21.74% | [source][21] | Custom |
-| [Cohen et al., 2006][22] | NSAIDS | 393 | 10.43% | [source][23] | Custom |
-| [Cohen et al., 2006][24] | Opiods | 1915 | 0.78% | [source][25] | Custom |
-| [Cohen et al., 2006][26] | Oral Hypoglycemics | 503 | 27.04% | [source][27] | Custom |
-| [Cohen et al., 2006][28] | Proton Pump Inhibitors | 1333 | 3.83% | [source][29] | Custom |
-| [Cohen et al., 2006][30] | Skeletal Muscle Relaxants | 1643 | 0.55% | [source][31] | Custom |
-| [Cohen et al., 2006][32] | Statins | 3465 | 2.45% | [source][33] | Custom |
-| [Cohen et al., 2006][34] | Triptans | 671 | 3.58% | [source][35] | Custom |
-| [Cohen et al., 2006][36] | Urinary Incontinence | 327 | 12.23% | [source][37] | Custom |
-| [Hall et al., 2012][38] | Software Fault Prediction | 8812 | 1.18% | [source][39] | CC-BY Attribution 4.0 International |
-| [Kitchenham et al., 2010][40] | Software Engineering | 1698 | 2.65% | [source][41] | CC-BY Attribution 4.0 International |
-| [Kwok et al., 2020][42] | Virus Metagenomics | 2481 | 4.84% | [source][43] | CC-BY Attribution 4.0 International |
-| [Nagtegaal et al., 2019][44] | Nudging | 2008 | 5.03% | [source][45] | CC0 |
-| [Radjenović et al., 2013][46] | Software Fault Prediction | 5949 | 0.81% | [source][47] | CC-BY Attribution 4.0 International |
-| [van de Schoot et al., 2018][48] | PTSD  | 5782 | 0.66% | [source][49] | CC-BY Attribution 4.0 International |
-| [van Dis et al., 2020][50] | Anxiety-Related Disorders | 10790 | 0.68% | [source][51] | CC-By Attribution 4.0 International |
-| [Wahono, 2015][52] | Software Defect Detection | 6965 | 0.89% | [source][53] | CC-BY Attribution 4.0 International |
-| [Wolters et al., 2018][54] | Dementia | 4878 | 0.39% | [source][55] | CC-BY Attribution 4.0 International |
+| dataset_id              | url                                                                                                                                                | license                             | topic                      |   sample_size | final_inclusions   |
+|:------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------|:------------------------------------|:---------------------------|--------------:|:-------------------|
+| Bos_2018                | https://raw.githubusercontent.com/asreview/systematic-review-datasets/master/datasets/Bos_2018/output/Bos_2018.csv                                 | CC-BY Attribution 4.0 International | Dementia                   |          5580 | True               |
+| Kwok_2020               | https://raw.githubusercontent.com/asreview/systematic-review-datasets/master/datasets/Kwok_2020/output/Kwok_2020.csv                               | CC-BY Attribution 4.0 International | Virus Metagenomics         |          2481 | True               |
+| Hall_2012               | https://raw.githubusercontent.com/asreview/systematic-review-datasets/master/datasets/Hall_Wahono_Radjenovic_Kitchenham/output/Hall_2012.csv       | CC-BY Attribution 4.0 International | Software Fault Prediction  |          8812 | True               |
+| Kitchenham_2010         | https://raw.githubusercontent.com/asreview/systematic-review-datasets/master/datasets/Hall_Wahono_Radjenovic_Kitchenham/output/Kitchenham_2010.csv | CC-BY Attribution 4.0 International | Software Engineering       |          1698 | True               |
+| Radjenovic_2013         | https://raw.githubusercontent.com/asreview/systematic-review-datasets/master/datasets/Hall_Wahono_Radjenovic_Kitchenham/output/Radjenovic_2013.csv | CC-BY Attribution 4.0 International | Software Fault Prediction  |          5949 | True               |
+| Wahono_2015             | https://raw.githubusercontent.com/asreview/systematic-review-datasets/master/datasets/Hall_Wahono_Radjenovic_Kitchenham/output/Wahono_2015.csv     | CC-BY Attribution 4.0 International | Software Defect Detection  |          6965 | True               |
+| Nagtegaal_2019          | https://raw.githubusercontent.com/asreview/systematic-review-datasets/master/datasets/Nagtegaal_2019/output/Nagtegaal_2019.csv                     | CC0                                 | Nudging                    |          2008 | True               |
+| van_Dis_2020            | https://raw.githubusercontent.com/asreview/systematic-review-datasets/master/datasets/van_Dis_2020/output/van_Dis_2020.csv                         |                                     | Anxiety-Related Disorders  |         10790 | True               |
+| van_de_Schoot_2017      | https://raw.githubusercontent.com/asreview/systematic-review-datasets/master/datasets/van_de_Schoot_2017/output/van_de_Schoot_2017.csv             | CC-BY Attribution 4.0 International | PTSD                       |          5782 | True               |
+| Bannach-Brown_2019      | https://raw.githubusercontent.com/asreview/systematic-review-datasets/master/datasets/Bannach-Brown_2019/output/Bannach-Brown_2019.csv             | CC-BY Attribution 4.0 International | Animal Model of Depression |          1993 | True               |
+| Appenzeller-Herzog_2020 | https://raw.githubusercontent.com/asreview/systematic-review-datasets/master/datasets/Appenzeller-Herzog_2020/output/Appenzeller-Herzog_2020.csv   | CC-BY Attribution 4.0 International | Wilson disease             |          3425 | True               |
+| SkeletalMuscleRelaxants | https://raw.githubusercontent.com/asreview/systematic-review-datasets/master/datasets/Cohen_2006/output/online/SkeletalMuscleRelaxants.csv         |                                     | Skeletal Muscle Relaxants  |          1643 | True               |
+| OralHypoglycemics       | https://raw.githubusercontent.com/asreview/systematic-review-datasets/master/datasets/Cohen_2006/output/online/OralHypoglycemics.csv               |                                     | Oral Hypoglycemics         |           503 | True               |
+| Estrogens               | https://raw.githubusercontent.com/asreview/systematic-review-datasets/master/datasets/Cohen_2006/output/online/Estrogens.csv                       |                                     | Estrogens                  |           368 | True               |
+| BetaBlockers            | https://raw.githubusercontent.com/asreview/systematic-review-datasets/master/datasets/Cohen_2006/output/online/BetaBlockers.csv                    |                                     | Beta Blockers              |          2072 | True               |
+| NSAIDS                  | https://raw.githubusercontent.com/asreview/systematic-review-datasets/master/datasets/Cohen_2006/output/online/NSAIDS.csv                          |                                     | NSAIDS                     |           393 | True               |
+| AtypicalAntipsychotics  | https://raw.githubusercontent.com/asreview/systematic-review-datasets/master/datasets/Cohen_2006/output/online/AtypicalAntipsychotics.csv          |                                     | Atypical Antipsychotics    |          1120 | True               |
+| ADHD                    | https://raw.githubusercontent.com/asreview/systematic-review-datasets/master/datasets/Cohen_2006/output/online/ADHD.csv                            |                                     | ADHD                       |           851 | True               |
+| Triptans                | https://raw.githubusercontent.com/asreview/systematic-review-datasets/master/datasets/Cohen_2006/output/online/Triptans.csv                        |                                     | Triptans                   |           671 | True               |
+| CalciumChannelBlockers  | https://raw.githubusercontent.com/asreview/systematic-review-datasets/master/datasets/Cohen_2006/output/online/CalciumChannelBlockers.csv          |                                     | Calcium Channel Blockers   |          1218 | True               |
+| Antihistamines          | https://raw.githubusercontent.com/asreview/systematic-review-datasets/master/datasets/Cohen_2006/output/online/Antihistamines.csv                  |                                     | Antihistamines             |           310 | True               |
+| Statins                 | https://raw.githubusercontent.com/asreview/systematic-review-datasets/master/datasets/Cohen_2006/output/online/Statins.csv                         |                                     | Statins                    |          3465 | True               |
+| UrinaryIncontinence     | https://raw.githubusercontent.com/asreview/systematic-review-datasets/master/datasets/Cohen_2006/output/online/UrinaryIncontinence.csv             |                                     | Urinary Incontinence       |           327 | True               |
+| Opiods                  | https://raw.githubusercontent.com/asreview/systematic-review-datasets/master/datasets/Cohen_2006/output/online/Opiods.csv                          |                                     | Opiods                     |          1915 | True               |
+| ProtonPumpInhibitors    | https://raw.githubusercontent.com/asreview/systematic-review-datasets/master/datasets/Cohen_2006/output/online/ProtonPumpInhibitors.csv            |                                     | Proton Pump Inhibitors     |          1333 | True               |
+| ACEInhibitors           | https://raw.githubusercontent.com/asreview/systematic-review-datasets/master/datasets/Cohen_2006/output/online/ACEInhibitors.csv                   |                                     | ACEInhibitors              |          2544 | False              |
+| Wolters_2018            | https://raw.githubusercontent.com/asreview/systematic-review-datasets/master/datasets/Wolters_2018/output/Wolters_2018.csv                         | CC-BY Attribution 4.0 International | Dementia                   |          4878 | True               |
 
 <!-- END TABLE -->
+
+
+
+
+
+
 
 ## Publishing your data
 For publishing either your data and / or your AI-aided systematic review, we recommend using the Open Science frame (OSF). OSF is part of the Center for Open Science (COS), which aims at increasing openness, integrity, and reproducibility of research ([OSF][56], 2020). How to share your data using OSF: A [step-by-step guide][57].

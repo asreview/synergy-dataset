@@ -1,6 +1,5 @@
 import glob
 import json
-import re
 
 import pandas as pd
 
@@ -51,9 +50,15 @@ print(df)
 
 # export metadata to markdown table
 vars_output = ["dataset_id", "url", "license", "topic", "sample_size", "final_inclusions"]
-s_table = df.to_markdown()
-breakpoint()
+s_table = df[vars_output].to_markdown(index=False)
 
-print(s_table)
+with open("README.md") as f_read:
+    readme = f_read.read()
 
+readme_top = readme.split("<!-- BEGIN TABLE -->")[0]
+readme_bottom = readme.split("<!-- END TABLE -->")[1]
 
+readme_new = readme_top + "<!-- BEGIN TABLE -->\n\n" + s_table + "\n\n<!-- END TABLE -->\n\n" + readme_bottom
+
+with open("README.md", "w") as f_write:
+    f_write.write(readme_new)
