@@ -1,0 +1,21 @@
+{
+  "dataset_id": "Wolters_2018",
+  "url": "https://raw.githubusercontent.com/asreview/systematic-review-datasets/master/datasets/Wolters_2018/output/Wolters_2018.csv",
+  "reference": "https://doi.org/10.1016/j.jalz.2018.01.007",
+  "link": "https://osf.io/sxzjg/",
+  "license": "CC-BY Attribution 4.0 International",
+  "title": "Coronary heart disease, heart failure, and the risk of dementia: A systematic review and meta?analysis",
+  "authors": "Wolters, F. J., Segufa, R. A., Darweesh, S. K. L., Bos, D., Ikram, M. A., Sabayan, B., Hofman, A., & Sedaghat, S.",
+  "year": 2018,
+  "topic": "Dementia",
+  "sample_size": 4878,
+  "final_inclusions": true,
+  "title_abstract_inclusions": false,
+  "number_of_duplicates": 141,
+  "number_of_excluded_duplicates": 0,
+  "number_of_missing_abstracts": 141,
+  "percentage_of_duplicates": 802,
+  "percentage_of_included_duplicates": 2.809324567,
+  "percentage_of_excluded_duplicates": 0.0,
+  "percentage_of_missing abstracts": 2.809324567
+}

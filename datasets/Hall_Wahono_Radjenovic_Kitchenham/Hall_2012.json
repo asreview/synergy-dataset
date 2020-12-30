@@ -1,0 +1,21 @@
+{
+  "dataset_id": "Hall_2012",
+  "url": "https://raw.githubusercontent.com/asreview/systematic-review-datasets/master/datasets/Hall_Wahono_Radjenovic_Kitchenham/output/Hall_2012.csv",
+  "reference": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1447545/",
+  "link": "https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html",
+  "license": "CC-BY Attribution 4.0 International",
+  "title": null,
+  "authors": null,
+  "year": null,
+  "topic": "Software Fault Prediction",
+  "sample_size": 8812,
+  "final_inclusions": true,
+  "title_abstract_inclusions": false,
+  "number_of_duplicates": 99,
+  "number_of_excluded_duplicates": 0,
+  "number_of_missing_abstracts": 99,
+  "percentage_of_duplicates": 0,
+  "percentage_of_included_duplicates": 1.110986421,
+  "percentage_of_excluded_duplicates": 0.0,
+  "percentage_of_missing abstracts": 1.110986421
+}

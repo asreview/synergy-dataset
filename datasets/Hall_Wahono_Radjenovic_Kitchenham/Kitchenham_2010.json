@@ -1,0 +1,21 @@
+{
+  "dataset_id": "Kitchenham_2010",
+  "url": "https://raw.githubusercontent.com/asreview/systematic-review-datasets/master/datasets/Hall_Wahono_Radjenovic_Kitchenham/output/Kitchenham_2010.csv",
+  "reference": "https://ieeexplore.ieee.org/document/6035727",
+  "link": "https://zenodo.org/record/1162952#.XIVBE_ZFyVR",
+  "license": "CC-BY Attribution 4.0 International",
+  "title": null,
+  "authors": null,
+  "year": null,
+  "topic": "Software Engineering",
+  "sample_size": 1698,
+  "final_inclusions": true,
+  "title_abstract_inclusions": false,
+  "number_of_duplicates": 6,
+  "number_of_excluded_duplicates": 0,
+  "number_of_missing_abstracts": 6,
+  "percentage_of_duplicates": 4,
+  "percentage_of_included_duplicates": 0.352112676,
+  "percentage_of_excluded_duplicates": 0.0,
+  "percentage_of_missing abstracts": 0.352112676
+}
