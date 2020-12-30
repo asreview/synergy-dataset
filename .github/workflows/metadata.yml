@@ -1,0 +1,30 @@
+name: "Render metadata"
+on: [push, pull_request]
+
+jobs:
+  render-metadata:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout master
+        uses: actions/checkout@v2
+      - uses: actions/setup-python@v1
+        with:
+          python-version: '3.8'
+      - name: Install Python dependencies
+        run: |
+          pip install -r requirements-dev.txt
+      - name: Render
+        run: |
+          python metadata.py
+      - name: Commit files
+        run: |
+          git config --local user.email "asreview@uu.nl"
+          git config --local user.name "Elas"
+          git add .
+          git commit -m "Update metadata"
+        continue-on-error: true
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+        continue-on-error: true
