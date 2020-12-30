@@ -19,6 +19,8 @@ please make a Pull Request and add the information like in the table below.
 
 The datasets are alphabetically ordered.
 
+<!-- BEGIN TABLE -->
+
 | Reference                  | Topic            | Sample Size | Inclusion | Link  |  License |
 |----------------------------|------------------|-------------|-----------|-------|----------|
 | [Appenzeller-Herzog et al., 2020][2] | Wilson disease | 3425 | 0.76% | [source][3] | CC-BY Attribution 4.0 International |
@@ -49,6 +51,7 @@ The datasets are alphabetically ordered.
 | [Wahono, 2015][52] | Software Defect Detection | 6965 | 0.89% | [source][53] | CC-BY Attribution 4.0 International |
 | [Wolters et al., 2018][54] | Dementia | 4878 | 0.39% | [source][55] | CC-BY Attribution 4.0 International |
 
+<!-- END TABLE -->
 
 ## Publishing your data
 For publishing either your data and / or your AI-aided systematic review, we recommend using the Open Science frame (OSF). OSF is part of the Center for Open Science (COS), which aims at increasing openness, integrity, and reproducibility of research ([OSF][56], 2020). How to share your data using OSF: A [step-by-step guide][57].
