@@ -570,7 +570,7 @@
   },
   "ACEInhibitors": {
     "dataset_id": "ACEInhibitors",
-    "url": "https://raw.githubusercontent.com/asreview/systematic-review-datasets/master/datasets/Cohen_2006/output/ACEInhibitors.csv",
+    "url": "https://raw.githubusercontent.com/asreview/systematic-review-datasets/master/datasets/Cohen_2006/output/online/ACEInhibitors.csv",
     "reference": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1447545/",
     "link": "https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html",
     "license": null,
