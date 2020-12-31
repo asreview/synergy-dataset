@@ -1,0 +1,21 @@
+{
+  "dataset_id": "Nagtegaal_2019",
+  "url": "https://raw.githubusercontent.com/asreview/systematic-review-datasets/master/datasets/Nagtegaal_2019/output/Nagtegaal_2019.csv",
+  "reference": "https://doi.org/10.30636/jbpa.22.71",
+  "link": "https://doi.org/10.7910/DVN/WMGPGZ/HY6N2S",
+  "license": "CC0",
+  "title": "Nudging healthcare professionals towards evidence-based medicine: A systematic scoping review",
+  "authors": "Nagtegaal, R., Tummers, L., Noordegraaf, M. & Bekkers, V.",
+  "year": 2019,
+  "topic": "Nudging",
+  "sample_size": 2008,
+  "final_inclusions": true,
+  "title_abstract_inclusions": true,
+  "number_of_duplicates": 11,
+  "number_of_excluded_duplicates": 0,
+  "number_of_missing_abstracts": 11,
+  "percentage_of_duplicates": 169,
+  "percentage_of_included_duplicates": 0.54482417,
+  "percentage_of_excluded_duplicates": 0.0,
+  "percentage_of_missing abstracts": 0.54482417
+}

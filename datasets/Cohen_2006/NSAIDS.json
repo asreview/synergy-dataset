@@ -1,0 +1,22 @@
+{
+  "dataset_id": "NSAIDS",
+  "url": "https://raw.githubusercontent.com/asreview/systematic-review-datasets/master/datasets/Cohen_2006/output/online/NSAIDS.csv",
+  "reference": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1447545/",
+  "link": "https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html",
+  "license": "custom open license",
+  "title": "Reducing Workload in Systematic Review Preparation Using Automated Citation Classification",
+  "authors": "Cohen, A. M, Hersh W. R., Peterson, K., & Yen, P.",
+  "year": 2006,
+  "topic": "NSAIDS",
+  "sample_size": 393,
+  "final_inclusions": true,
+  "title_abstract_inclusions": true,
+  "img_url":"https://raw.githubusercontent.com/asreview/asreview/master/images/ace.png",
+  "number_of_duplicates": 0,
+  "number_of_excluded_duplicates": 0,
+  "number_of_missing_abstracts": 0,
+  "percentage_of_duplicates": 45,
+  "percentage_of_included_duplicates": 0.0,
+  "percentage_of_excluded_duplicates": 0.0,
+  "percentage_of_missing abstracts": 0.0
+}

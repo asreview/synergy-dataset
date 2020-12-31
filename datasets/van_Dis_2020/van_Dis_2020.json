@@ -1,0 +1,21 @@
+{
+  "dataset_id": "van_Dis_2020",
+  "url": "https://raw.githubusercontent.com/asreview/systematic-review-datasets/master/datasets/van_Dis_2020/output/van_Dis_2020.csv",
+  "reference": "https://doi.org/10.1001/jamapsychiatry.2019.3986",
+  "link": "https://osf.io/4d9tu/",
+  "license": null,
+  "title": "Long-term Outcomes of Cognitive Behavioral Therapy for Anxiety-Related Disorders. A Systematic Review and Meta-analysis",
+  "authors": "van Dis, E. A. M., van Veen, S. C., Hagenaars, M. A., et al.",
+  "year": 2019,
+  "topic": "Anxiety-Related Disorders",
+  "sample_size": 10790,
+  "final_inclusions": true,
+  "title_abstract_inclusions": true,
+  "number_of_duplicates": 163,
+  "number_of_excluded_duplicates": 0,
+  "number_of_missing_abstracts": 163,
+  "percentage_of_duplicates": 438,
+  "percentage_of_included_duplicates": 1.488176755,
+  "percentage_of_excluded_duplicates": 0.0,
+  "percentage_of_missing abstracts": 1.488176755
+}
