@@ -9,6 +9,8 @@ the systematic review datasets.
 
 The datasets are alphabetically ordered. See [index.csv](index.csv) for all available properties.
 
+<!-- DO NOT EDIT TABLE BELOW, EDIT METADATA INSTEAD -->
+
 <!-- BEGIN TABLE -->
 
 | id                                                                                                                                                                               | topic                      |   sample_size |   n_included | license                             |
