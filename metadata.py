@@ -18,6 +18,9 @@ for dataset_fp in metadata_files:
         # store results
         metadata[res["dataset_id"]] = res
 
+# sort metadata
+metadata = {k: v for k, v in sorted(metadata.items(), key=lambda item: item[0])}
+
 # export metadata to index file
 with open("index.json", "w", encoding="utf-8") as f_write:
     json.dump(metadata, f_write, indent=2)
