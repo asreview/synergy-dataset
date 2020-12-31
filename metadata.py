@@ -43,7 +43,7 @@ for _, x in metadata.items():
     result.append(x_copy)
 
 df = pd.DataFrame(result)
-# df.drop(["type"], axis=1, inplace=True)
+df.drop(["type", "img_url"], axis=1, inplace=True)
 
 df.to_csv("index.csv", index=False)
 print(df)
