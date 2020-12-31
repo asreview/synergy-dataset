@@ -3,7 +3,7 @@
   "url": "https://raw.githubusercontent.com/asreview/systematic-review-datasets/master/datasets/Cohen_2006/output/online/SkeletalMuscleRelaxants.csv",
   "reference": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1447545/",
   "link": "https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html",
-  "license": null,
+  "license": "custom open license",
   "title": "Reducing Workload in Systematic Review Preparation Using Automated Citation Classification",
   "authors": "Cohen, A. M, Hersh W. R., Peterson, K., & Yen, P.",
   "year": 2006,
