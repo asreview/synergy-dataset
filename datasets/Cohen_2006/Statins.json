@@ -1,5 +1,5 @@
 {
-  "dataset_id": "Statins",
+  "dataset_id": "Cohen_2006_Statins",
   "url": "https://raw.githubusercontent.com/asreview/systematic-review-datasets/master/datasets/Cohen_2006/output/online/Statins.csv",
   "reference": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1447545/",
   "link": "https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html",
