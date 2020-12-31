@@ -17,7 +17,7 @@ please make a Pull Request and add the information like in the table below.
 
 ## Datasets
 
-The datasets are alphabetically ordered.
+The datasets are alphabetically ordered. See [index.csv](index.csv) for all available properties.
 
 <!-- BEGIN TABLE -->
 
