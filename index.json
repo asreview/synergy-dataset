@@ -596,21 +596,21 @@
     "reference": "https://doi.org/10.1080/00273171.2017.1412293",
     "link": "https://osf.io/h5k2q/",
     "license": "CC-BY Attribution 4.0 International",
+    "short_title": "PTSD-Trajectories",
     "title": "Bayesian PTSD-Trajectory Analysis with Informed Priors Based on a Systematic Literature Search and Expert Elicitation",
-    "authors": "van de Schoot, R., Sijbrandij, M., Depaoli, S., Winter, S. D., Olff, M., & van Loey, N. E.",
+    "authors": [
+      "van de Schoot, R.",
+      "Sijbrandij, M.",
+      "Depaoli, S.",
+      "Winter, S. D.",
+      "Olff, M.",
+      "van Loey, N. E."
+    ],
     "year": 2018,
     "topic": "PTSD",
-    "sample_size": 5782,
     "final_inclusions": true,
     "title_abstract_inclusions": true,
     "img_url": "https://raw.githubusercontent.com/asreview/asreview/master/images/ptsd.png",
-    "number_of_duplicates": 407,
-    "number_of_excluded_duplicates": 5,
-    "number_of_missing_abstracts": 402,
-    "percentage_of_duplicates": 764,
-    "percentage_of_included_duplicates": 6.576183551000001,
-    "percentage_of_excluded_duplicates": 0.080788496,
-    "percentage_of_missing abstracts": 6.4953950560000004,
     "type": "base"
   }
 }
