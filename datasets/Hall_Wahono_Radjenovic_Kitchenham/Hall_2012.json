@@ -1,8 +1,8 @@
 {
   "dataset_id": "Hall_2012",
   "url": "https://raw.githubusercontent.com/asreview/systematic-review-datasets/master/datasets/Hall_Wahono_Radjenovic_Kitchenham/output/Hall_2012.csv",
-  "reference": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1447545/",
-  "link": "https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html",
+  "reference": "https://doi.org/10.1109/TSE.2011.103",
+  "link": "https://zenodo.org/record/1162952#.XIVBE_ZFyVR",
   "license": "CC-BY Attribution 4.0 International",
   "title": "A Systematic Literature Review on Fault Prediction Performance in Software Engineering",
   "authors": [
