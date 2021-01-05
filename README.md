@@ -41,7 +41,7 @@ The datasets are alphabetically ordered. See [index.csv](index.csv) for all avai
 | [Wahono_2015](https://raw.githubusercontent.com/asreview/systematic-review-datasets/master/datasets/Hall_Wahono_Radjenovic_Kitchenham/output/Wahono_2015.csv)                    | Software Defect Detection  |          6965 |           62 | CC-BY Attribution 4.0 International |
 | [Wolters_2018](https://raw.githubusercontent.com/asreview/systematic-review-datasets/master/datasets/Wolters_2018/output/Wolters_2018.csv)                                       | Dementia                   |          4878 |           19 | CC-BY Attribution 4.0 International |
 | [van_Dis_2020](https://raw.githubusercontent.com/asreview/systematic-review-datasets/master/datasets/van_Dis_2020/output/van_Dis_2020.csv)                                       | Anxiety-Related Disorders  |         10790 |           73 |                                     |
-| [van_de_Schoot_2017](https://raw.githubusercontent.com/asreview/systematic-review-datasets/master/datasets/van_de_Schoot_2017/output/van_de_Schoot_2017.csv)                     | PTSD                       |           nan |           43 | CC-BY Attribution 4.0 International |
+| [van_de_Schoot_2017](https://raw.githubusercontent.com/asreview/systematic-review-datasets/master/datasets/van_de_Schoot_2017/output/van_de_Schoot_2017.csv)                     | PTSD Trajectories          |           nan |           43 | CC-BY Attribution 4.0 International |
 
 <!-- END TABLE -->
 
