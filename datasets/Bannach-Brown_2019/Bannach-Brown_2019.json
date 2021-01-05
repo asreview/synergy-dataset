@@ -5,17 +5,17 @@
   "link": "https://zenodo.org/record/151190#.XQPGhYj7TD7",
   "license": "CC-BY Attribution 4.0 International",
   "title": "Machine learning algorithms for systematic review: reducing workload in a preclinical review of animal studies and reducing human screening error",
-  "authors": "Bannach-Brown, A., Przybyla, P., Thomas, J., Rice, A. S. C., Ananiadou, S., Liao, J., & Macleod, M. R.",
+  "authors": [
+    "Bannach-Brown, A.", 
+    "Przybyla, P.", 
+    "Thomas, J.", 
+    "Rice, A. S. C.", 
+    "Ananiadou, S.", 
+    "Liao, J.", 
+    "Macleod, M. R."
+  ],
   "year": 2019,
   "topic": "Animal Model of Depression",
-  "sample_size": 1993,
   "final_inclusions": true,
-  "title_abstract_inclusions": false,
-  "number_of_duplicates": 0,
-  "number_of_excluded_duplicates": 0,
-  "number_of_missing_abstracts": 0,
-  "percentage_of_duplicates": 394,
-  "percentage_of_included_duplicates": 0.0,
-  "percentage_of_excluded_duplicates": 0.0,
-  "percentage_of_missing abstracts": 0.0
+  "title_abstract_inclusions": false
 }
