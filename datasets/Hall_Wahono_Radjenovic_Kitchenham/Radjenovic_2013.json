@@ -5,18 +5,15 @@
   "link": "https://zenodo.org/record/1162952#.XIVBE_ZFyVR",
   "license": "CC-BY Attribution 4.0 International",
   "title": "Software fault prediction metrics: A systematic literature review",
-  "authors": "Danijel Radjenović, Marjan Heričko, Richard Torkar, Aleš Živkovič",
+  "authors": [
+    "Radjenović, D.", 
+    "Heričko, M.",
+    "Torkar, R.",
+    "Živkovič, A."
+    ],
   "year": 2013,
   "topic": "Software Fault Prediction",
-  "sample_size": 5949,
   "final_inclusions": true,
   "title_abstract_inclusions": false,
   "img_url":"https://raw.githubusercontent.com/asreview/asreview/master/images/softwareengineering.png",
-  "number_of_duplicates": 51,
-  "number_of_excluded_duplicates": 0,
-  "number_of_missing_abstracts": 51,
-  "percentage_of_duplicates": 0,
-  "percentage_of_included_duplicates": 0.85,
-  "percentage_of_excluded_duplicates": 0.0,
-  "percentage_of_missing abstracts": 0.85
 }
