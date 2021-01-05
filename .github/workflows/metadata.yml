@@ -1,5 +1,8 @@
 name: "Render metadata"
-on: [push, pull_request]
+on:
+  push:
+    branches:
+      - master
 
 jobs:
   render-metadata:
