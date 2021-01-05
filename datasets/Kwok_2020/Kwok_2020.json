@@ -5,17 +5,14 @@
   "link": "https://doi.org/10.17605/OSF.IO/5S27M",
   "license": "CC-BY Attribution 4.0 International",
   "title": "Virus Metagenomics in Farm Animals: A Systematic Review",
-  "authors": "Kwok, K. T. T., Nieuwenhuijse, D. F., Phan, M. V. T., & koopmans, M. P. G.",
+  "authors": [
+    "Kwok, K. T. T.", 
+    "Nieuwenhuijse, D. F.", 
+    "Phan, M. V. T.", 
+    "Koopmans, M. P. G."
+    ],
   "year": 2020,
   "topic": "Virus Metagenomics",
-  "sample_size": 2481,
   "final_inclusions": true,
-  "title_abstract_inclusions": false,
-  "number_of_duplicates": 0,
-  "number_of_excluded_duplicates": 0,
-  "number_of_missing_abstracts": 0,
-  "percentage_of_duplicates": 176,
-  "percentage_of_included_duplicates": 0.0,
-  "percentage_of_excluded_duplicates": 0.0,
-  "percentage_of_missing abstracts": 0.0
+  "title_abstract_inclusions": false
 }
