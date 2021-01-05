@@ -53,6 +53,7 @@ print(df)
 
 # export metadata to markdown table
 df["id"] = "[" + df["dataset_id"] + "](" + df["url"] + ")"
+df["license"] = "[" + df["license"] + "](" + df["link"] + ")"
 vars_output = ["id", "topic", "n_papers", "n_included", "license"]
 s_table = df[vars_output].to_markdown(index=False)
 
