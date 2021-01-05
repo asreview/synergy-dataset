@@ -53,7 +53,7 @@ print(df)
 
 # export metadata to markdown table
 df["id"] = "[" + df["dataset_id"] + "](" + df["url"] + ")"
-vars_output = ["id", "topic", "sample_size", "n_included", "license"]
+vars_output = ["id", "topic", "n_papers", "n_included", "license"]
 s_table = df[vars_output].to_markdown(index=False)
 
 with open("README.md") as f_read:
