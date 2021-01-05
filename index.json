@@ -368,8 +368,8 @@
   "Hall_2012": {
     "dataset_id": "Hall_2012",
     "url": "https://raw.githubusercontent.com/asreview/systematic-review-datasets/master/datasets/Hall_Wahono_Radjenovic_Kitchenham/output/Hall_2012.csv",
-    "reference": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1447545/",
-    "link": "https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html",
+    "reference": "https://doi.org/10.1109/TSE.2011.103",
+    "link": "https://zenodo.org/record/1162952#.XIVBE_ZFyVR",
     "license": "CC-BY Attribution 4.0 International",
     "title": "A Systematic Literature Review on Fault Prediction Performance in Software Engineering",
     "authors": [
@@ -435,19 +435,16 @@
     "link": "https://doi.org/10.7910/DVN/WMGPGZ/HY6N2S",
     "license": "CC0",
     "title": "Nudging healthcare professionals towards evidence-based medicine: A systematic scoping review",
-    "authors": "Nagtegaal, R., Tummers, L., Noordegraaf, M. & Bekkers, V.",
+    "authors": [
+      "Nagtegaal, R.",
+      "Tummers, L.",
+      "Noordegraaf, M.",
+      "Bekkers, V."
+    ],
     "year": 2019,
     "topic": "Nudging",
-    "sample_size": 2008,
     "final_inclusions": true,
     "title_abstract_inclusions": true,
-    "number_of_duplicates": 11,
-    "number_of_excluded_duplicates": 0,
-    "number_of_missing_abstracts": 11,
-    "percentage_of_duplicates": 169,
-    "percentage_of_included_duplicates": 0.54482417,
-    "percentage_of_excluded_duplicates": 0.0,
-    "percentage_of_missing abstracts": 0.54482417,
     "type": "base"
   },
   "Radjenovic_2013": {
@@ -523,19 +520,16 @@
     "link": "https://osf.io/4d9tu/",
     "license": "CC-BY Attribution 4.0 International",
     "title": "Long-term Outcomes of Cognitive Behavioral Therapy for Anxiety-Related Disorders. A Systematic Review and Meta-analysis",
-    "authors": "van Dis, E. A. M., van Veen, S. C., Hagenaars, M. A., et al.",
+    "authors": [
+      "van Dis, E. A. M.",
+      "van Veen, S. C.",
+      "Hagenaars, M. A.",
+      "et al."
+    ],
     "year": 2019,
     "topic": "Anxiety-Related Disorders",
-    "sample_size": 10790,
     "final_inclusions": true,
     "title_abstract_inclusions": true,
-    "number_of_duplicates": 163,
-    "number_of_excluded_duplicates": 0,
-    "number_of_missing_abstracts": 163,
-    "percentage_of_duplicates": 438,
-    "percentage_of_included_duplicates": 1.488176755,
-    "percentage_of_excluded_duplicates": 0.0,
-    "percentage_of_missing abstracts": 1.488176755,
     "type": "base"
   },
   "van_de_Schoot_2017": {
