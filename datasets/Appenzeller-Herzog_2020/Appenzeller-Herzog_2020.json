@@ -5,17 +5,17 @@
   "link": "https://zenodo.org/record/3625931#.Xk5de5NKhQI",
   "license": "CC-BY Attribution 4.0 International",
   "title": "Comparative effectiveness of common therapies for Wilson disease: A systematic review and meta-analysis of controlled studies",
-  "authors": "Appenzeller-Herzog , C., Mathes, T., Heeres, M. L. S., Weiss, K. H., Houwen, R. H. J., & Ewald H.",
+  "authors": [
+    "Appenzeller-Herzog , C.", 
+    "Mathes, T.", 
+    "Heeres, M. L. S.", 
+    "Weiss, K. H.,"
+    "Houwen, R. H. J.",
+    "Ewald H."
+  ],
   "year": 2019,
   "topic": "Wilson disease",
-  "sample_size": 3425,
   "final_inclusions": true,
-  "title_abstract_inclusions": true,
-  "number_of_duplicates": 28,
-  "number_of_excluded_duplicates": 3,
-  "number_of_missing_abstracts": 25,
-  "percentage_of_duplicates": 1094,
-  "percentage_of_included_duplicates": 0.810889082,
-  "percentage_of_excluded_duplicates": 0.08688097300000001,
-  "percentage_of_missing abstracts": 0.724008109
+  "title_abstract_inclusions": true,.
+  "img_url":"https://raw.githubusercontent.com/asreview/asreview/master/images/ptsd.png"
 }
