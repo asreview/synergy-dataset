@@ -66,11 +66,6 @@
   },
   "Cohen_2006_ACEInhibitors": {
     "dataset_id": "Cohen_2006_ACEInhibitors",
-    "aliases": [
-      "ace",
-      "example_cohen",
-      "example_ace"
-    ],
     "url": "https://raw.githubusercontent.com/asreview/systematic-review-datasets/master/datasets/Cohen_2006/output/online/ACEInhibitors.csv",
     "reference": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1447545/",
     "link": "https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html",
@@ -371,11 +366,6 @@
   },
   "Hall_2012": {
     "dataset_id": "Hall_2012",
-    "aliases": [
-      "hall",
-      "example_hall",
-      "example_software"
-    ],
     "url": "https://raw.githubusercontent.com/asreview/systematic-review-datasets/master/datasets/Hall_Wahono_Radjenovic_Kitchenham/output/Hall_2012.csv",
     "reference": "https://doi.org/10.1109/TSE.2011.103",
     "link": "https://zenodo.org/record/1162952#.XIVBE_ZFyVR",
@@ -537,11 +527,6 @@
   },
   "van_de_Schoot_2017": {
     "dataset_id": "van_de_Schoot_2017",
-    "aliases": [
-      "ptsd",
-      "example_ptsd",
-      "schoot"
-    ],
     "url": "https://raw.githubusercontent.com/asreview/systematic-review-datasets/master/datasets/van_de_Schoot_2017/output/van_de_Schoot_2017.csv",
     "reference": "https://doi.org/10.1080/00273171.2017.1412293",
     "link": "https://osf.io/h5k2q/",
