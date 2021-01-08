@@ -527,6 +527,11 @@
   },
   "van_de_Schoot_2017": {
     "dataset_id": "van_de_Schoot_2017",
+    "aliases": [
+      "ptsd",
+      "example_ptsd",
+      "schoot"
+    ],
     "url": "https://raw.githubusercontent.com/asreview/systematic-review-datasets/master/datasets/van_de_Schoot_2017/output/van_de_Schoot_2017.csv",
     "reference": "https://doi.org/10.1080/00273171.2017.1412293",
     "link": "https://osf.io/h5k2q/",
