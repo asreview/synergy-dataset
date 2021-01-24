@@ -67,7 +67,7 @@
   "Cohen_2006_ACEInhibitors": {
     "dataset_id": "Cohen_2006_ACEInhibitors",
     "url": "https://raw.githubusercontent.com/asreview/systematic-review-datasets/master/datasets/Cohen_2006/output/online/ACEInhibitors.csv",
-    "reference": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1447545/",
+    "reference": "https://doi.org/10.1197/jamia.M1929",
     "link": "https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html",
     "license": "custom open license",
     "title": "Reducing Workload in Systematic Review Preparation Using Automated Citation Classification",
@@ -87,7 +87,7 @@
   "Cohen_2006_ADHD": {
     "dataset_id": "Cohen_2006_ADHD",
     "url": "https://raw.githubusercontent.com/asreview/systematic-review-datasets/master/datasets/Cohen_2006/output/online/ADHD.csv",
-    "reference": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1447545/",
+    "reference": "https://doi.org/10.1197/jamia.M1929",
     "link": "https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html",
     "license": "custom open license",
     "title": "Reducing Workload in Systematic Review Preparation Using Automated Citation Classification",
@@ -107,7 +107,7 @@
   "Cohen_2006_Antihistamines": {
     "dataset_id": "Cohen_2006_Antihistamines",
     "url": "https://raw.githubusercontent.com/asreview/systematic-review-datasets/master/datasets/Cohen_2006/output/online/Antihistamines.csv",
-    "reference": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1447545/",
+    "reference": "https://doi.org/10.1197/jamia.M1929",
     "link": "https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html",
     "license": "custom open license",
     "title": "Reducing Workload in Systematic Review Preparation Using Automated Citation Classification",
@@ -127,7 +127,7 @@
   "Cohen_2006_AtypicalAntipsychotics": {
     "dataset_id": "Cohen_2006_AtypicalAntipsychotics",
     "url": "https://raw.githubusercontent.com/asreview/systematic-review-datasets/master/datasets/Cohen_2006/output/online/AtypicalAntipsychotics.csv",
-    "reference": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1447545/",
+    "reference": "https://doi.org/10.1197/jamia.M1929",
     "link": "https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html",
     "license": "custom open license",
     "title": "Reducing Workload in Systematic Review Preparation Using Automated Citation Classification",
@@ -147,7 +147,7 @@
   "Cohen_2006_BetaBlockers": {
     "dataset_id": "Cohen_2006_BetaBlockers",
     "url": "https://raw.githubusercontent.com/asreview/systematic-review-datasets/master/datasets/Cohen_2006/output/online/BetaBlockers.csv",
-    "reference": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1447545/",
+    "reference": "https://doi.org/10.1197/jamia.M1929",
     "link": "https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html",
     "license": "custom open license",
     "title": "Reducing Workload in Systematic Review Preparation Using Automated Citation Classification",
@@ -167,7 +167,7 @@
   "Cohen_2006_CalciumChannelBlockers": {
     "dataset_id": "Cohen_2006_CalciumChannelBlockers",
     "url": "https://raw.githubusercontent.com/asreview/systematic-review-datasets/master/datasets/Cohen_2006/output/online/CalciumChannelBlockers.csv",
-    "reference": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1447545/",
+    "reference": "https://doi.org/10.1197/jamia.M1929",
     "link": "https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html",
     "license": "custom open license",
     "title": "Reducing Workload in Systematic Review Preparation Using Automated Citation Classification",
@@ -187,7 +187,7 @@
   "Cohen_2006_Estrogens": {
     "dataset_id": "Cohen_2006_Estrogens",
     "url": "https://raw.githubusercontent.com/asreview/systematic-review-datasets/master/datasets/Cohen_2006/output/online/Estrogens.csv",
-    "reference": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1447545/",
+    "reference": "https://doi.org/10.1197/jamia.M1929",
     "link": "https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html",
     "license": "custom open license",
     "title": "Reducing Workload in Systematic Review Preparation Using Automated Citation Classification",
@@ -207,7 +207,7 @@
   "Cohen_2006_NSAIDS": {
     "dataset_id": "Cohen_2006_NSAIDS",
     "url": "https://raw.githubusercontent.com/asreview/systematic-review-datasets/master/datasets/Cohen_2006/output/online/NSAIDS.csv",
-    "reference": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1447545/",
+    "reference": "https://doi.org/10.1197/jamia.M1929",
     "link": "https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html",
     "license": "custom open license",
     "title": "Reducing Workload in Systematic Review Preparation Using Automated Citation Classification",
@@ -227,7 +227,7 @@
   "Cohen_2006_Opiods": {
     "dataset_id": "Cohen_2006_Opiods",
     "url": "https://raw.githubusercontent.com/asreview/systematic-review-datasets/master/datasets/Cohen_2006/output/online/Opiods.csv",
-    "reference": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1447545/",
+    "reference": "https://doi.org/10.1197/jamia.M1929",
     "link": "https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html",
     "license": "custom open license",
     "title": "Reducing Workload in Systematic Review Preparation Using Automated Citation Classification",
@@ -247,7 +247,7 @@
   "Cohen_2006_OralHypoglycemics": {
     "dataset_id": "Cohen_2006_OralHypoglycemics",
     "url": "https://raw.githubusercontent.com/asreview/systematic-review-datasets/master/datasets/Cohen_2006/output/online/OralHypoglycemics.csv",
-    "reference": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1447545/",
+    "reference": "https://doi.org/10.1197/jamia.M1929",
     "link": "https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html",
     "license": "custom open license",
     "title": "Reducing Workload in Systematic Review Preparation Using Automated Citation Classification",
@@ -267,7 +267,7 @@
   "Cohen_2006_ProtonPumpInhibitors": {
     "dataset_id": "Cohen_2006_ProtonPumpInhibitors",
     "url": "https://raw.githubusercontent.com/asreview/systematic-review-datasets/master/datasets/Cohen_2006/output/online/ProtonPumpInhibitors.csv",
-    "reference": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1447545/",
+    "reference": "https://doi.org/10.1197/jamia.M1929",
     "link": "https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html",
     "license": "custom open license",
     "title": "Reducing Workload in Systematic Review Preparation Using Automated Citation Classification",
@@ -287,7 +287,7 @@
   "Cohen_2006_SkeletalMuscleRelaxants": {
     "dataset_id": "Cohen_2006_SkeletalMuscleRelaxants",
     "url": "https://raw.githubusercontent.com/asreview/systematic-review-datasets/master/datasets/Cohen_2006/output/online/SkeletalMuscleRelaxants.csv",
-    "reference": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1447545/",
+    "reference": "https://doi.org/10.1197/jamia.M1929",
     "link": "https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html",
     "license": "custom open license",
     "title": "Reducing Workload in Systematic Review Preparation Using Automated Citation Classification",
@@ -307,7 +307,7 @@
   "Cohen_2006_Statins": {
     "dataset_id": "Cohen_2006_Statins",
     "url": "https://raw.githubusercontent.com/asreview/systematic-review-datasets/master/datasets/Cohen_2006/output/online/Statins.csv",
-    "reference": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1447545/",
+    "reference": "https://doi.org/10.1197/jamia.M1929",
     "link": "https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html",
     "license": "custom open license",
     "title": "Reducing Workload in Systematic Review Preparation Using Automated Citation Classification",
@@ -327,7 +327,7 @@
   "Cohen_2006_Triptans": {
     "dataset_id": "Cohen_2006_Triptans",
     "url": "https://raw.githubusercontent.com/asreview/systematic-review-datasets/master/datasets/Cohen_2006/output/online/Triptans.csv",
-    "reference": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1447545/",
+    "reference": "https://doi.org/10.1197/jamia.M1929",
     "link": "https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html",
     "license": "custom open license",
     "title": "Reducing Workload in Systematic Review Preparation Using Automated Citation Classification",
@@ -347,7 +347,7 @@
   "Cohen_2006_UrinaryIncontinence": {
     "dataset_id": "Cohen_2006_UrinaryIncontinence",
     "url": "https://raw.githubusercontent.com/asreview/systematic-review-datasets/master/datasets/Cohen_2006/output/online/UrinaryIncontinence.csv",
-    "reference": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1447545/",
+    "reference": "https://doi.org/10.1197/jamia.M1929",
     "link": "https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html",
     "license": "custom open license",
     "title": "Reducing Workload in Systematic Review Preparation Using Automated Citation Classification",
