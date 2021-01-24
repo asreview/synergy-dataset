@@ -1,14 +1,14 @@
 {
   "dataset_id": "Appenzeller-Herzog_2020",
   "url": "https://raw.githubusercontent.com/asreview/systematic-review-datasets/master/datasets/Appenzeller-Herzog_2020/output/Appenzeller-Herzog_2020.csv",
-  "reference": "https://onlinelibrary.wiley.com/doi/full/10.1111/liv.14179",
-  "link": "https://zenodo.org/record/3625931#.Xk5de5NKhQI",
+  "reference": "https://doi.org/10.1111/liv.14179",
+  "link": "http://doi.org/10.5281/zenodo.3625931",
   "license": "CC-BY Attribution 4.0 International",
   "title": "Comparative effectiveness of common therapies for Wilson disease: A systematic review and meta-analysis of controlled studies",
   "authors": [
-    "Appenzeller-Herzog , C.", 
-    "Mathes, T.", 
-    "Heeres, M. L. S.", 
+    "Appenzeller-Herzog , C.",
+    "Mathes, T.",
+    "Heeres, M. L. S.",
     "Weiss, K. H.",
     "Houwen, R. H. J.",
     "Ewald H."
