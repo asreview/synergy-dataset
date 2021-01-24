@@ -47,6 +47,7 @@ for _, x in metadata.items():
 
 df = pd.DataFrame(result)
 df.drop(["type", "img_url"], axis=1, inplace=True)
+df["authors"] = df["authors"].str.join("; ")
 
 df.to_csv("index.csv", index=False)
 print(df)
