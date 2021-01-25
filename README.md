@@ -241,8 +241,22 @@ Two examples of authors who have published their systematic review data online:
 - A systematic review on treatment for Wilson disease, in RIS format https://zenodo.org/record/3625931#.XvB\_92ozblw
 - Data from four systematic reviews on fault prediction in software engineering, in .csv format https://zenodo.org/record/1162952#.XvCCZmozblw.
 
+## Special thanks
+
+Open data on systematic reviews is important to advance research on machine learning enhanced systematic reviews. We thank the following people for publising their datasets openly.
+
+<!-- DO NOT EDIT AUTHORS BELOW, EDIT METADATA INSTEAD -->
+
+<!-- BEGIN AUTHORS -->
+
+Ananiadou, S., Appenzeller-Herzog , C., Bannach-Brown, A., Beecham, S., Bekkers, V., Bos, D., Bowes, D., Budgen, D., Cohen, A. M., Counsell, S., Darweesh, S. K. L., Depaoli, S., Ewald H., Gray, D., Hagenaars, M. A., Hall, T., Heeres, M. L. S., Heričko, M., Hersh, W. R., Hofman, A., Houwen, R. H. J., Ikram, M. A., Kitchenham, B., Koopmans, M. P. G., Kwok, K. T. T., Liao, J., Linkman, S., Macleod, M. R., Mathes, T., Nagtegaal, R., Niazi, M., Nieuwenhuijse, D. F., Noordegraaf, M., Olff, M., Pearl Brereton, O., Peterson, K., Phan, M. V. T., Pretorius, R., Przybyla, P., Radjenović, D., Rice, A. S. C., Sabayan, B., Sedaghat, S., Segufa, R. A., Sijbrandij, M., Thomas, J., Torkar, R., Tummers, L., Turner, M., Vernooij, M. W., Wahono, R. S., Weiss, K. H., Winter, S. D., Wolters, F. J., Yen, P., de Wolf, F., et al., van Dis, E. A. M., van Loey, N. E., van Veen, S. C., van de Schoot, R., Živkovič, A.
+
+<!-- END AUTHORS -->
+
 
 ## Contact
 
 Contact details can be found at the [ASReview](https://github.com/asreview/asreview#contact)
 project page.
+
+
