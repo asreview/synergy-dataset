@@ -19,6 +19,7 @@ jobs:
       - name: Render
         run: |
           python metadata.py
+          python render_wordcloud.py
       - name: Commit files
         run: |
           git config --local user.email "asreview@uu.nl"
