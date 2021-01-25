@@ -2,8 +2,8 @@
   "Appenzeller-Herzog_2020": {
     "dataset_id": "Appenzeller-Herzog_2020",
     "url": "https://raw.githubusercontent.com/asreview/systematic-review-datasets/master/datasets/Appenzeller-Herzog_2020/output/Appenzeller-Herzog_2020.csv",
-    "reference": "https://onlinelibrary.wiley.com/doi/full/10.1111/liv.14179",
-    "link": "https://zenodo.org/record/3625931#.Xk5de5NKhQI",
+    "reference": "https://doi.org/10.1111/liv.14179",
+    "link": "http://doi.org/10.5281/zenodo.3625931",
     "license": "CC-BY Attribution 4.0 International",
     "title": "Comparative effectiveness of common therapies for Wilson disease: A systematic review and meta-analysis of controlled studies",
     "authors": [
@@ -23,8 +23,8 @@
   "Bannach-Brown_2019": {
     "dataset_id": "Bannach-Brown_2019",
     "url": "https://raw.githubusercontent.com/asreview/systematic-review-datasets/master/datasets/Bannach-Brown_2019/output/Bannach-Brown_2019.csv",
-    "reference": "https://systematicreviewsjournal.biomedcentral.com/articles/10.1186/s13643-019-0942-7#Comments",
-    "link": "https://zenodo.org/record/151190#.XQPGhYj7TD7",
+    "reference": "https://doi.org/10.1186/s13643-019-0942-7",
+    "link": "http://doi.org/10.5281/zenodo.151190",
     "license": "CC-BY Attribution 4.0 International",
     "title": "Machine learning algorithms for systematic review: reducing workload in a preclinical review of animal studies and reducing human screening error",
     "authors": [
@@ -368,7 +368,7 @@
     "dataset_id": "Hall_2012",
     "url": "https://raw.githubusercontent.com/asreview/systematic-review-datasets/master/datasets/Hall_Wahono_Radjenovic_Kitchenham/output/Hall_2012.csv",
     "reference": "https://doi.org/10.1109/TSE.2011.103",
-    "link": "https://zenodo.org/record/1162952#.XIVBE_ZFyVR",
+    "link": "http://doi.org/10.5281/zenodo.1162952",
     "license": "CC-BY Attribution 4.0 International",
     "title": "A Systematic Literature Review on Fault Prediction Performance in Software Engineering",
     "authors": [
@@ -388,8 +388,8 @@
   "Kitchenham_2010": {
     "dataset_id": "Kitchenham_2010",
     "url": "https://raw.githubusercontent.com/asreview/systematic-review-datasets/master/datasets/Hall_Wahono_Radjenovic_Kitchenham/output/Kitchenham_2010.csv",
-    "reference": "https://ieeexplore.ieee.org/document/6035727",
-    "link": "https://zenodo.org/record/1162952#.XIVBE_ZFyVR",
+    "reference": "https://doi.org/10.1109/TSE.2011.103",
+    "link": "http://doi.org/10.5281/zenodo.1162952",
     "license": "CC-BY Attribution 4.0 International",
     "title": " Systematic literature reviews in software engineering \u2013 A tertiary study",
     "authors": [
@@ -449,8 +449,8 @@
   "Radjenovic_2013": {
     "dataset_id": "Radjenovic_2013",
     "url": "https://raw.githubusercontent.com/asreview/systematic-review-datasets/master/datasets/Hall_Wahono_Radjenovic_Kitchenham/output/Radjenovic_2013.csv",
-    "reference": "https://www.sciencedirect.com/science/article/abs/pii/S0950584913000426",
-    "link": "https://zenodo.org/record/1162952#.XIVBE_ZFyVR",
+    "reference": "https://doi.org/10.1016/j.infsof.2013.02.009",
+    "link": "http://doi.org/10.5281/zenodo.1162952",
     "license": "CC-BY Attribution 4.0 International",
     "title": "Software fault prediction metrics: A systematic literature review",
     "authors": [
@@ -470,7 +470,7 @@
     "dataset_id": "Wahono_2015",
     "url": "https://raw.githubusercontent.com/asreview/systematic-review-datasets/master/datasets/Hall_Wahono_Radjenovic_Kitchenham/output/Wahono_2015.csv",
     "reference": "http://journal.ilmukomputer.org/index.php?journal=jse&page=article&op=view&path%5B%5D=47",
-    "link": "https://zenodo.org/record/1162952#.XIVBE_ZFyVR",
+    "link": "http://doi.org/10.5281/zenodo.1162952",
     "license": "CC-BY Attribution 4.0 International",
     "title": "A Systematic Literature Review of Software Defect Prediction: Research Trends, Datasets, Methods and Frameworks",
     "authors": [
@@ -529,7 +529,7 @@
     "dataset_id": "van_de_Schoot_2017",
     "url": "https://raw.githubusercontent.com/asreview/systematic-review-datasets/master/datasets/van_de_Schoot_2017/output/van_de_Schoot_2017.csv",
     "reference": "https://doi.org/10.1080/00273171.2017.1412293",
-    "link": "https://osf.io/h5k2q/",
+    "link": "https://doi.org/10.17605/OSF.IO/VK4BE",
     "license": "CC-BY Attribution 4.0 International",
     "title": "Bayesian PTSD-Trajectory Analysis with Informed Priors Based on a Systematic Literature Search and Expert Elicitation",
     "authors": [
