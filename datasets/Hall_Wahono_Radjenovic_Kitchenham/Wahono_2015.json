@@ -2,7 +2,7 @@
   "dataset_id": "Wahono_2015",
   "url": "https://raw.githubusercontent.com/asreview/systematic-review-datasets/master/datasets/Hall_Wahono_Radjenovic_Kitchenham/output/Wahono_2015.csv",
   "reference": "http://journal.ilmukomputer.org/index.php?journal=jse&page=article&op=view&path%5B%5D=47",
-  "link": "https://zenodo.org/record/1162952#.XIVBE_ZFyVR",
+  "link": "http://doi.org/10.5281/zenodo.1162952",
   "license": "CC-BY Attribution 4.0 International",
   "title": "A Systematic Literature Review of Software Defect Prediction: Research Trends, Datasets, Methods and Frameworks",
   "authors": ["Wahono, R. S."],

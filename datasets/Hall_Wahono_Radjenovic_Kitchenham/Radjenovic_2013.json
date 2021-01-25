@@ -1,12 +1,12 @@
 {
   "dataset_id": "Radjenovic_2013",
   "url": "https://raw.githubusercontent.com/asreview/systematic-review-datasets/master/datasets/Hall_Wahono_Radjenovic_Kitchenham/output/Radjenovic_2013.csv",
-  "reference": "https://www.sciencedirect.com/science/article/abs/pii/S0950584913000426",
-  "link": "https://zenodo.org/record/1162952#.XIVBE_ZFyVR",
+  "reference": "https://doi.org/10.1016/j.infsof.2013.02.009",
+  "link": "http://doi.org/10.5281/zenodo.1162952",
   "license": "CC-BY Attribution 4.0 International",
   "title": "Software fault prediction metrics: A systematic literature review",
   "authors": [
-    "Radjenović, D.", 
+    "Radjenović, D.",
     "Heričko, M.",
     "Torkar, R.",
     "Živkovič, A."
