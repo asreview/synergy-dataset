@@ -52,11 +52,26 @@ df["authors"] = df["authors"].str.join("; ")
 df.to_csv("index.csv", index=False)
 print(df)
 
-# export metadata to markdown table
-df["id"] = "[" + df["dataset_id"] + "](" + df["url"] + ")"
-df["license"] = "[" + df["license"] + "](" + df["link"] + ")"
-vars_output = ["id", "topic", "n_papers", "n_included", "license"]
-s_table = df[vars_output].to_markdown(index=False)
+# # export metadata to markdown table
+# df["id"] = "[" + df["dataset_id"] + "](" + df["url"] + ")"
+# df["license"] = "[" + df["license"] + "](" + df["link"] + ")"
+# vars_output = ["id", "topic", "n_papers", "n_included", "license"]
+# s_table = df[vars_output].to_markdown(index=False)
+
+DATASET_TEMPLATE = """
+### {dataset_id}
+
+![](images/{dataset_id}_relevant.png)
+
+- License: {license}
+
+"""
+
+s_table = ""
+
+for index, dataset in df.iterrows():
+    s_dataset = DATASET_TEMPLATE.format(dataset_id=dataset["dataset_id"], license=dataset["license"])
+    s_table = s_table + s_dataset
 
 with open("README.md") as f_read:
     readme = f_read.read()

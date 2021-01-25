@@ -13,35 +13,196 @@ The datasets are alphabetically ordered. See [index.csv](index.csv) for all avai
 
 <!-- BEGIN TABLE -->
 
-| id                                                                                                                                                                               | topic                      |   n_papers |   n_included | license                                                                                      |
-|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------|-----------:|-------------:|:---------------------------------------------------------------------------------------------|
-| [Appenzeller-Herzog_2020](https://raw.githubusercontent.com/asreview/systematic-review-datasets/master/datasets/Appenzeller-Herzog_2020/output/Appenzeller-Herzog_2020.csv)      | Wilson disease             |       3453 |           29 | [CC-BY Attribution 4.0 International](http://doi.org/10.5281/zenodo.3625931)                 |
-| [Bannach-Brown_2019](https://raw.githubusercontent.com/asreview/systematic-review-datasets/master/datasets/Bannach-Brown_2019/output/Bannach-Brown_2019.csv)                     | Animal Model of Depression |       1993 |          280 | [CC-BY Attribution 4.0 International](http://doi.org/10.5281/zenodo.151190)                  |
-| [Bos_2018](https://raw.githubusercontent.com/asreview/systematic-review-datasets/master/datasets/Bos_2018/output/Bos_2018.csv)                                                   | Dementia                   |       5746 |           11 | [CC-BY Attribution 4.0 International](https://osf.io/w3kbq/)                                 |
-| [Cohen_2006_ACEInhibitors](https://raw.githubusercontent.com/asreview/systematic-review-datasets/master/datasets/Cohen_2006/output/online/ACEInhibitors.csv)                     | ACEInhibitors              |       2544 |           41 | [custom open license](https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html) |
-| [Cohen_2006_ADHD](https://raw.githubusercontent.com/asreview/systematic-review-datasets/master/datasets/Cohen_2006/output/online/ADHD.csv)                                       | ADHD                       |        851 |           20 | [custom open license](https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html) |
-| [Cohen_2006_Antihistamines](https://raw.githubusercontent.com/asreview/systematic-review-datasets/master/datasets/Cohen_2006/output/online/Antihistamines.csv)                   | Antihistamines             |        310 |           16 | [custom open license](https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html) |
-| [Cohen_2006_AtypicalAntipsychotics](https://raw.githubusercontent.com/asreview/systematic-review-datasets/master/datasets/Cohen_2006/output/online/AtypicalAntipsychotics.csv)   | Atypical Antipsychotics    |       1120 |          146 | [custom open license](https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html) |
-| [Cohen_2006_BetaBlockers](https://raw.githubusercontent.com/asreview/systematic-review-datasets/master/datasets/Cohen_2006/output/online/BetaBlockers.csv)                       | Beta Blockers              |       2072 |           42 | [custom open license](https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html) |
-| [Cohen_2006_CalciumChannelBlockers](https://raw.githubusercontent.com/asreview/systematic-review-datasets/master/datasets/Cohen_2006/output/online/CalciumChannelBlockers.csv)   | Calcium Channel Blockers   |       1218 |          100 | [custom open license](https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html) |
-| [Cohen_2006_Estrogens](https://raw.githubusercontent.com/asreview/systematic-review-datasets/master/datasets/Cohen_2006/output/online/Estrogens.csv)                             | Estrogens                  |        368 |           80 | [custom open license](https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html) |
-| [Cohen_2006_NSAIDS](https://raw.githubusercontent.com/asreview/systematic-review-datasets/master/datasets/Cohen_2006/output/online/NSAIDS.csv)                                   | NSAIDS                     |        393 |           41 | [custom open license](https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html) |
-| [Cohen_2006_Opiods](https://raw.githubusercontent.com/asreview/systematic-review-datasets/master/datasets/Cohen_2006/output/online/Opiods.csv)                                   | Opiods                     |       1915 |           15 | [custom open license](https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html) |
-| [Cohen_2006_OralHypoglycemics](https://raw.githubusercontent.com/asreview/systematic-review-datasets/master/datasets/Cohen_2006/output/online/OralHypoglycemics.csv)             | Oral Hypoglycemics         |        503 |          136 | [custom open license](https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html) |
-| [Cohen_2006_ProtonPumpInhibitors](https://raw.githubusercontent.com/asreview/systematic-review-datasets/master/datasets/Cohen_2006/output/online/ProtonPumpInhibitors.csv)       | Proton Pump Inhibitors     |       1333 |           51 | [custom open license](https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html) |
-| [Cohen_2006_SkeletalMuscleRelaxants](https://raw.githubusercontent.com/asreview/systematic-review-datasets/master/datasets/Cohen_2006/output/online/SkeletalMuscleRelaxants.csv) | Skeletal Muscle Relaxants  |       1643 |            9 | [custom open license](https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html) |
-| [Cohen_2006_Statins](https://raw.githubusercontent.com/asreview/systematic-review-datasets/master/datasets/Cohen_2006/output/online/Statins.csv)                                 | Statins                    |       3465 |           85 | [custom open license](https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html) |
-| [Cohen_2006_Triptans](https://raw.githubusercontent.com/asreview/systematic-review-datasets/master/datasets/Cohen_2006/output/online/Triptans.csv)                               | Triptans                   |        671 |           24 | [custom open license](https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html) |
-| [Cohen_2006_UrinaryIncontinence](https://raw.githubusercontent.com/asreview/systematic-review-datasets/master/datasets/Cohen_2006/output/online/UrinaryIncontinence.csv)         | Urinary Incontinence       |        327 |           40 | [custom open license](https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html) |
-| [Hall_2012](https://raw.githubusercontent.com/asreview/systematic-review-datasets/master/datasets/Hall_Wahono_Radjenovic_Kitchenham/output/Hall_2012.csv)                        | Software Fault Prediction  |       8911 |          104 | [CC-BY Attribution 4.0 International](http://doi.org/10.5281/zenodo.1162952)                 |
-| [Kitchenham_2010](https://raw.githubusercontent.com/asreview/systematic-review-datasets/master/datasets/Hall_Wahono_Radjenovic_Kitchenham/output/Kitchenham_2010.csv)            | Software Engineering       |       1704 |           45 | [CC-BY Attribution 4.0 International](http://doi.org/10.5281/zenodo.1162952)                 |
-| [Kwok_2020](https://raw.githubusercontent.com/asreview/systematic-review-datasets/master/datasets/Kwok_2020/output/Kwok_2020.csv)                                                | Virus Metagenomics         |       2481 |          120 | [CC-BY Attribution 4.0 International](https://doi.org/10.17605/OSF.IO/5S27M)                 |
-| [Nagtegaal_2019](https://raw.githubusercontent.com/asreview/systematic-review-datasets/master/datasets/Nagtegaal_2019/output/Nagtegaal_2019.csv)                                 | Nudging                    |       2019 |          101 | [CC0](https://doi.org/10.7910/DVN/WMGPGZ/HY6N2S)                                             |
-| [Radjenovic_2013](https://raw.githubusercontent.com/asreview/systematic-review-datasets/master/datasets/Hall_Wahono_Radjenovic_Kitchenham/output/Radjenovic_2013.csv)            | Software Fault Prediction  |       6000 |           48 | [CC-BY Attribution 4.0 International](http://doi.org/10.5281/zenodo.1162952)                 |
-| [Wahono_2015](https://raw.githubusercontent.com/asreview/systematic-review-datasets/master/datasets/Hall_Wahono_Radjenovic_Kitchenham/output/Wahono_2015.csv)                    | Software Defect Detection  |       7002 |           62 | [CC-BY Attribution 4.0 International](http://doi.org/10.5281/zenodo.1162952)                 |
-| [Wolters_2018](https://raw.githubusercontent.com/asreview/systematic-review-datasets/master/datasets/Wolters_2018/output/Wolters_2018.csv)                                       | Dementia                   |       5019 |           19 | [CC-BY Attribution 4.0 International](https://osf.io/sxzjg/)                                 |
-| [van_Dis_2020](https://raw.githubusercontent.com/asreview/systematic-review-datasets/master/datasets/van_Dis_2020/output/van_Dis_2020.csv)                                       | Anxiety-Related Disorders  |      10953 |           73 | [CC-BY Attribution 4.0 International](https://osf.io/4d9tu/)                                 |
-| [van_de_Schoot_2017](https://raw.githubusercontent.com/asreview/systematic-review-datasets/master/datasets/van_de_Schoot_2017/output/van_de_Schoot_2017.csv)                     | PTSD Trajectories          |       6189 |           43 | [CC-BY Attribution 4.0 International](https://doi.org/10.17605/OSF.IO/VK4BE)                 |
+
+### Appenzeller-Herzog_2020
+
+![](images/Appenzeller-Herzog_2020_relevant.png)
+
+- License: CC-BY Attribution 4.0 International
+
+
+### Bannach-Brown_2019
+
+![](images/Bannach-Brown_2019_relevant.png)
+
+- License: CC-BY Attribution 4.0 International
+
+
+### Bos_2018
+
+![](images/Bos_2018_relevant.png)
+
+- License: CC-BY Attribution 4.0 International
+
+
+### Cohen_2006_ACEInhibitors
+
+![](images/Cohen_2006_ACEInhibitors_relevant.png)
+
+- License: custom open license
+
+
+### Cohen_2006_ADHD
+
+![](images/Cohen_2006_ADHD_relevant.png)
+
+- License: custom open license
+
+
+### Cohen_2006_Antihistamines
+
+![](images/Cohen_2006_Antihistamines_relevant.png)
+
+- License: custom open license
+
+
+### Cohen_2006_AtypicalAntipsychotics
+
+![](images/Cohen_2006_AtypicalAntipsychotics_relevant.png)
+
+- License: custom open license
+
+
+### Cohen_2006_BetaBlockers
+
+![](images/Cohen_2006_BetaBlockers_relevant.png)
+
+- License: custom open license
+
+
+### Cohen_2006_CalciumChannelBlockers
+
+![](images/Cohen_2006_CalciumChannelBlockers_relevant.png)
+
+- License: custom open license
+
+
+### Cohen_2006_Estrogens
+
+![](images/Cohen_2006_Estrogens_relevant.png)
+
+- License: custom open license
+
+
+### Cohen_2006_NSAIDS
+
+![](images/Cohen_2006_NSAIDS_relevant.png)
+
+- License: custom open license
+
+
+### Cohen_2006_Opiods
+
+![](images/Cohen_2006_Opiods_relevant.png)
+
+- License: custom open license
+
+
+### Cohen_2006_OralHypoglycemics
+
+![](images/Cohen_2006_OralHypoglycemics_relevant.png)
+
+- License: custom open license
+
+
+### Cohen_2006_ProtonPumpInhibitors
+
+![](images/Cohen_2006_ProtonPumpInhibitors_relevant.png)
+
+- License: custom open license
+
+
+### Cohen_2006_SkeletalMuscleRelaxants
+
+![](images/Cohen_2006_SkeletalMuscleRelaxants_relevant.png)
+
+- License: custom open license
+
+
+### Cohen_2006_Statins
+
+![](images/Cohen_2006_Statins_relevant.png)
+
+- License: custom open license
+
+
+### Cohen_2006_Triptans
+
+![](images/Cohen_2006_Triptans_relevant.png)
+
+- License: custom open license
+
+
+### Cohen_2006_UrinaryIncontinence
+
+![](images/Cohen_2006_UrinaryIncontinence_relevant.png)
+
+- License: custom open license
+
+
+### Hall_2012
+
+![](images/Hall_2012_relevant.png)
+
+- License: CC-BY Attribution 4.0 International
+
+
+### Kitchenham_2010
+
+![](images/Kitchenham_2010_relevant.png)
+
+- License: CC-BY Attribution 4.0 International
+
+
+### Kwok_2020
+
+![](images/Kwok_2020_relevant.png)
+
+- License: CC-BY Attribution 4.0 International
+
+
+### Nagtegaal_2019
+
+![](images/Nagtegaal_2019_relevant.png)
+
+- License: CC0
+
+
+### Radjenovic_2013
+
+![](images/Radjenovic_2013_relevant.png)
+
+- License: CC-BY Attribution 4.0 International
+
+
+### Wahono_2015
+
+![](images/Wahono_2015_relevant.png)
+
+- License: CC-BY Attribution 4.0 International
+
+
+### Wolters_2018
+
+![](images/Wolters_2018_relevant.png)
+
+- License: CC-BY Attribution 4.0 International
+
+
+### van_Dis_2020
+
+![](images/van_Dis_2020_relevant.png)
+
+- License: CC-BY Attribution 4.0 International
+
+
+### van_de_Schoot_2017
+
+![](images/van_de_Schoot_2017_relevant.png)
+
+- License: CC-BY Attribution 4.0 International
+
+
 
 <!-- END TABLE -->
 
