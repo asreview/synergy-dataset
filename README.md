@@ -5,7 +5,7 @@ datasets are available under an open licence and can be used for text mining and
 learning purposes. This repository contains scripts to collect, preprocess and clean
 the systematic review datasets.
 
-- [Open Dataset on Study Selection (ODSS)](#open-dataset-on-study-selection--odss-)
+- [Open Dataset on Study Selection (ODSS)](#open-dataset-on-study-selection-odss)
   * [Datasets](#datasets)
   * [Add new dataset](#add-new-dataset)
     + [License](#license)
