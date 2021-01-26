@@ -17,7 +17,6 @@ jobs:
       - name: Render
         run: |
           python metadata.py
-          python render_wordcloud.py
   test-dataset:
     runs-on: ubuntu-latest
     steps:
