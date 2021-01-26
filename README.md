@@ -266,7 +266,4 @@ Ananiadou, S., Appenzeller-Herzog , C., Bannach-Brown, A., Beecham, S., Bekkers,
 
 ## Contact
 
-Contact details can be found at the [ASReview](https://github.com/asreview/asreview#contact)
-project page.
-
-
+Do you have questions, suggestions, or remarks? Create an issue in the issue tracker or send an email to asreview@uu.nl.
