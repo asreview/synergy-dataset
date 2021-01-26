@@ -29,6 +29,6 @@ jobs:
         run: |
           pip install -r requirements-dev.txt
           pip install pytest
-      - name: Render
+      - name: Test dataset
         run: |
-          python test_dataset.py
+          pytest test_dataset.py
