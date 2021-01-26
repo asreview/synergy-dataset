@@ -1,9 +1,22 @@
-# Systematic Review Datasets
+# Open Dataset on Study Selection (ODSS)
 
 This repository provides an overview of labeled datasets used for Systematic Reviews. The
 datasets are available under an open licence and can be used for text mining and machine
 learning purposes. This repository contains scripts to collect, preprocess and clean
 the systematic review datasets.
+
+- [Open Dataset on Study Selection (ODSS)](#open-dataset-on-study-selection--odss-)
+  * [Datasets](#datasets)
+  * [Add new dataset](#add-new-dataset)
+    + [License](#license)
+    + [Collecting and preprocessing data](#collecting-and-preprocessing-data)
+    + [Format of data](#format-of-data)
+    + [Format of data without ASReview LAB](#format-of-data-without-asreview-lab)
+    + [Examples](#examples)
+  * [License and citation](#license-and-citation)
+  * [Special thanks](#special-thanks)
+  * [Contact](#contact)
+
 
 ## Datasets
 
