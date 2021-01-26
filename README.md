@@ -241,6 +241,16 @@ Two examples of authors who have published their systematic review data online:
 - A systematic review on treatment for Wilson disease, in RIS format https://zenodo.org/record/3625931#.XvB\_92ozblw
 - Data from four systematic reviews on fault prediction in software engineering, in .csv format https://zenodo.org/record/1162952#.XvCCZmozblw.
 
+## License and citation
+
+The Open Dataset on Study Selection, ODSS, is a collection of open datasets on the study selection fase of systematic reviews. The composition of the ODSS dataset is licensed CC-BY. See the information above for details on the license of individual datasets.
+
+When using the dataset for academic work, please cite:
+
+```
+Van de Schoot, R; De Bruin, J; 2020. [TODO]
+```
+
 ## Special thanks
 
 Open data on systematic reviews is important to advance research on machine learning enhanced systematic reviews. We thank the following people for publising their datasets openly.
