@@ -4,7 +4,7 @@ import pandas as pd
 
 width = 1200
 height = 300
-colormap = "Blues"
+colormap = "viridis
 
 if __name__ == '__main__':
 
