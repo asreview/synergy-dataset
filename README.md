@@ -1,9 +1,12 @@
 # Systematic Review Datasets
 
-This repository provides an overview of labeled datasets used for Systematic Reviews. The
-datasets are available under an open licence and can be used for text mining and machine
+This repository provides an overview of pre-labeled datasets used for Systematic Reviews. The
+datasets are available under an open license and can be used for text mining and machine
 learning purposes. This repository contains scripts to collect, preprocess and clean
 the systematic review datasets.
+
+One can use these pre-labeled datasets for example in [Exploration mode](https://asreview.readthedocs.io/en/latest/lab/exploration.html) or [Simulation mode](https://asreview.readthedocs.io/en/latest/lab/simulation.html).
+For simulation mode it is pertinent to use manually and fully labeled datasets.
 
 ## Datasets
 
