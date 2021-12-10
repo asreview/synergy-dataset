@@ -25,6 +25,19 @@ metadata = {k: v for k, v in sorted(metadata.items(), key=lambda item: item[0])}
 with open("index.json", "w", encoding="utf-8") as f_write:
     json.dump(metadata, f_write, indent=2)
 
+metadata_v1 = {}
+
+for k, d in metadata_v1.items():
+    d_v1 = d.copy()
+    d_v1["filepath"] = d_v1["url"]
+    del d_v1["url"]
+    del d_v1["type"]
+    metadata_v1[k] = d_v1
+
+# export metadata to index file
+with open("index_v1.json", "w", encoding="utf-8") as f_write:
+    json.dump(metadata_v1, f_write, indent=2)
+
 # # test
 # with open("index.json", "r") as f_read:
 #     print(json.load(f_read))
