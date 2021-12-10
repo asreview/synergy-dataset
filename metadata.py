@@ -27,7 +27,7 @@ with open("index.json", "w", encoding="utf-8") as f_write:
 
 metadata_v1 = {}
 
-for k, d in metadata_v1.items():
+for k, d in metadata.items():
     d_v1 = d.copy()
     d_v1["filepath"] = d_v1["url"]
     del d_v1["url"]
