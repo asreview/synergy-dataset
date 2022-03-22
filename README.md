@@ -47,7 +47,7 @@ The datasets are alphabetically ordered. See [index.csv](index.csv) for all avai
 
 
 ## Publishing your data
-For publishing either your data and / or your AI-aided systematic review, we recommend using the Open Science frame (OSF). OSF is part of the Center for Open Science (COS), which aims at increasing openness, integrity, and reproducibility of research ([OSF](https://www.cos.io/our-products/osf), 2020). How to share your data using OSF: A [step-by-step guide](https://journals.sagepub.com/doi/pdf/10.1177/2515245918757689).
+For publishing either your data, we recommend using the Open Science frame (OSF). OSF is part of the Center for Open Science (COS), which aims at increasing openness, integrity, and reproducibility of research ([OSF](https://www.cos.io/our-products/osf), 2020). How to share your data using OSF: A [step-by-step guide](https://journals.sagepub.com/doi/pdf/10.1177/2515245918757689).
 
 Another platform to publish your data open access is provided by Zenodo. Zenodo is a platform which encourages scientists to share all materials (including data) that are necessary to understand the scholarly process ([Zenodo](https://about.zenodo.org/), 2020).
 
@@ -60,26 +60,13 @@ When sharing your dataset or a link to your already published systematic review,
 In short, the CC-BY license means that reusers are allowed to distribute, remix, adapt, and build upon the material in any medium or format, so long as attribution is given to the creator. The license allows for commercial use. The CC0 license releases data in the public domain, allowing reuse in any form without any conditions. This can be appropriate when sharing (meta)data only. With both OSF (see step-by-step guide) and Zenodo you can easily add the license to your project after creating a project in either platform.
 
 
-### Collecting and preprocessing data
+### File format
 
 The folder `datasets/` has subfolders for the different systematic reviews
-datasets. In each of these subfolders, the `.ipynb` script retrieve a dataset from OSF or Zenodo, and preprocesses it by adding customized labels and marking duplicates. The script also reports the inclusion rate, and missing patterns and word clouds of titles and abstracts. After preprocessing, an ASReview-ready dataset in `.csv` format is generated in the `output/` folder.
+datasets. In each of these subfolders, the `.ipynb` script retrieves a dataset from OSF or Zenodo, and preprocesses it by adding customized labels and marking duplicates. The script also reports the inclusion rate, and missing patterns and word clouds of titles and abstracts. After preprocessing, an ASReview-compatible dataset in `.csv` format is generated in the `output/` folder. Extensions .csv, .xlsx, and .xls. CSV files should be comma-separated and UTF-8 encoded. To indicate labeling decisions, one can use "included" or "label_included". This label should be filled with all 0’s and 1’s, where 0 means that the record is not included and 1 means included.
 
-### Format of data
-After reviewing in ASReview LAB, you can export your data, which will provide a file that is in the correct format to be uploaded to the repository.
-ASReview LAB accepts the file formats mentioned in the table below. More information on the format of the data to be put into ASReview LAB can be found in the [datasets](https://asreview.readthedocs.io/en/latest/intro/datasets.html) documentation.
-
-### Format of data without ASReview LAB
-If you would like to share your data without having used ASReview LAB for the screening of your records, or because you have done the screening manually, please make sure the datafile is in the right format. Two examples can be found at the bottom of the page.
-
-Extensions .csv, .xlsx, and .xls. CSV files should be comma separated and UTF-8 encoded. For CSV files, the simulation software accepts a set of predetermined labels in line with the ones used in RIS files:  "title" and "abstract". To indicate labelling decisions, one can use "included" or "label\_included".
-The latter label called "included" is needed to indicate the final included publications in the simulations. This label should be filled with all 0’s and 1’s, where 0 means that the record is not included and 1 means included.
-
-### Examples
-Two examples of authors who have published their systematic review data online:
-- A systematic review on treatment for Wilson disease, in RIS format https://zenodo.org/record/3625931#.XvB\_92ozblw
-- Data from four systematic reviews on fault prediction in software engineering, in .csv format https://zenodo.org/record/1162952#.XvCCZmozblw.
-
+## License
+The scripts in the current project are MIT licensed. The datasets (should) have a permissive license.
 
 ## Contact
 
