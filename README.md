@@ -47,7 +47,7 @@ The datasets are alphabetically ordered. See [index.csv](index.csv) for all avai
 
 
 ## Publishing your data
-For publishing either your data we recommend using the Open Science frame (OSF). OSF is part of the Center for Open Science (COS), which aims at increasing openness, integrity, and reproducibility of research ([OSF](https://www.cos.io/our-products/osf), 2020). How to share your data using OSF: A [step-by-step guide](https://journals.sagepub.com/doi/pdf/10.1177/2515245918757689).
+For publishing either your data, we recommend using the Open Science frame (OSF). OSF is part of the Center for Open Science (COS), which aims at increasing openness, integrity, and reproducibility of research ([OSF](https://www.cos.io/our-products/osf), 2020). How to share your data using OSF: A [step-by-step guide](https://journals.sagepub.com/doi/pdf/10.1177/2515245918757689).
 
 Another platform to publish your data open access is provided by Zenodo. Zenodo is a platform which encourages scientists to share all materials (including data) that are necessary to understand the scholarly process ([Zenodo](https://about.zenodo.org/), 2020).
 
