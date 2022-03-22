@@ -66,7 +66,7 @@ The folder `datasets/` has subfolders for the different systematic reviews
 datasets. In each of these subfolders, the `.ipynb` script retrieve a dataset from OSF or Zenodo, and preprocesses it by adding customized labels and marking duplicates. The script also reports the inclusion rate, and missing patterns and word clouds of titles and abstracts. After preprocessing, an ASReview-ready dataset in `.csv` format is generated in the `output/` folder. Extensions .csv, .xlsx, and .xls. CSV files should be comma separated and UTF-8 encoded. To indicate labelling decisions, one can use "included" or "label\_included". This label should be filled with all 0’s and 1’s, where 0 means that the record is not included and 1 means included.
 
 ## License
-The scripts in the current project are MIT licensed. The datasets should have their own license allowing for re-use. 
+The scripts in the current project are MIT licensed. The datasets (should) have a permissive license.
 
 ## Contact
 
