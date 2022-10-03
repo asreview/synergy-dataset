@@ -1,0 +1,19 @@
+{
+  "dataset_id": "Cohen_2006_Opiods",
+  "url": "https://raw.githubusercontent.com/asreview/systematic-review-datasets/metadata-v1-final/datasets/Cohen_2006/output/online/Opiods.csv",
+  "reference": "https://doi.org/10.1197/jamia.M1929",
+  "link": "https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html",
+  "license": "custom open license",
+  "title": "Reducing Workload in Systematic Review Preparation Using Automated Citation Classification",
+  "authors": [
+    "Cohen, A. M.",
+    "Hersh, W. R.",
+    "Peterson, K.",
+    "Yen, P."
+    ],
+  "year": 2006,
+  "topic": "Opiods",
+  "final_inclusions": true,
+  "title_abstract_inclusions": true,
+  "img_url":"https://raw.githubusercontent.com/asreview/systematic-review-datasets/metadata-v1-final/datasets/Cohen_2006/ace.png"
+}
