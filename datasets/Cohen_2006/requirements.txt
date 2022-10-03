@@ -1,3 +1,0 @@
-pandas
-wordcloud
-git+git://github.com/titipata/pubmed_parser.git
