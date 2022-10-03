@@ -78,7 +78,7 @@
     "final_inclusions": false,
     "title_abstract_inclusions": false,
     "img_url": "https://raw.githubusercontent.com/asreview/systematic-review-datasets/metadata-v1-final/datasets/Cohen_2006/ace.png",
-    "filepath": "https://raw.githubusercontent.com/asreview/systematic-review-datasets/master/datasets/Cohen_2006/output/online/ACEInhibitors.csv"
+    "filepath": "https://raw.githubusercontent.com/asreview/systematic-review-datasets/metadata-v1-final/datasets/Cohen_2006/output/online/ACEInhibitors.csv"
   },
   "Cohen_2006_ADHD": {
     "dataset_id": "Cohen_2006_ADHD",
@@ -96,8 +96,8 @@
     "topic": "ADHD",
     "final_inclusions": true,
     "title_abstract_inclusions": true,
-    "img_url": "https://raw.githubusercontent.com/asreview/asreview/master/images/ace.png",
-    "filepath": "https://raw.githubusercontent.com/asreview/systematic-review-datasets/master/datasets/Cohen_2006/output/online/ADHD.csv"
+    "img_url": "https://raw.githubusercontent.com/asreview/systematic-review-datasets/metadata-v1-final/datasets/Cohen_2006/ace.png",
+    "filepath": "https://raw.githubusercontent.com/asreview/systematic-review-datasets/metadata-v1-final/datasets/Cohen_2006/output/online/ADHD.csv"
   },
   "Cohen_2006_Antihistamines": {
     "dataset_id": "Cohen_2006_Antihistamines",
@@ -115,8 +115,8 @@
     "topic": "Antihistamines",
     "final_inclusions": true,
     "title_abstract_inclusions": true,
-    "img_url": "https://raw.githubusercontent.com/asreview/asreview/master/images/ace.png",
-    "filepath": "https://raw.githubusercontent.com/asreview/systematic-review-datasets/master/datasets/Cohen_2006/output/online/Antihistamines.csv"
+    "img_url": "https://raw.githubusercontent.com/asreview/systematic-review-datasets/metadata-v1-final/datasets/Cohen_2006/ace.png",
+    "filepath": "https://raw.githubusercontent.com/asreview/systematic-review-datasets/metadata-v1-final/datasets/Cohen_2006/output/online/Antihistamines.csv"
   },
   "Cohen_2006_AtypicalAntipsychotics": {
     "dataset_id": "Cohen_2006_AtypicalAntipsychotics",
@@ -134,8 +134,8 @@
     "topic": "Atypical Antipsychotics",
     "final_inclusions": true,
     "title_abstract_inclusions": true,
-    "img_url": "https://raw.githubusercontent.com/asreview/asreview/master/images/ace.png",
-    "filepath": "https://raw.githubusercontent.com/asreview/systematic-review-datasets/master/datasets/Cohen_2006/output/online/AtypicalAntipsychotics.csv"
+    "img_url": "https://raw.githubusercontent.com/asreview/systematic-review-datasets/metadata-v1-final/datasets/Cohen_2006/ace.png",
+    "filepath": "https://raw.githubusercontent.com/asreview/systematic-review-datasets/metadata-v1-final/datasets/Cohen_2006/output/online/AtypicalAntipsychotics.csv"
   },
   "Cohen_2006_BetaBlockers": {
     "dataset_id": "Cohen_2006_BetaBlockers",
@@ -153,8 +153,8 @@
     "topic": "Beta Blockers",
     "final_inclusions": true,
     "title_abstract_inclusions": true,
-    "img_url": "https://raw.githubusercontent.com/asreview/asreview/master/images/ace.png",
-    "filepath": "https://raw.githubusercontent.com/asreview/systematic-review-datasets/master/datasets/Cohen_2006/output/online/BetaBlockers.csv"
+    "img_url": "https://raw.githubusercontent.com/asreview/systematic-review-datasets/metadata-v1-final/datasets/Cohen_2006/ace.png",
+    "filepath": "https://raw.githubusercontent.com/asreview/systematic-review-datasets/metadata-v1-final/datasets/Cohen_2006/output/online/BetaBlockers.csv"
   },
   "Cohen_2006_CalciumChannelBlockers": {
     "dataset_id": "Cohen_2006_CalciumChannelBlockers",
@@ -172,8 +172,8 @@
     "topic": "Calcium Channel Blockers",
     "final_inclusions": true,
     "title_abstract_inclusions": true,
-    "img_url": "https://raw.githubusercontent.com/asreview/asreview/master/images/ace.png",
-    "filepath": "https://raw.githubusercontent.com/asreview/systematic-review-datasets/master/datasets/Cohen_2006/output/online/CalciumChannelBlockers.csv"
+    "img_url": "https://raw.githubusercontent.com/asreview/systematic-review-datasets/metadata-v1-final/datasets/Cohen_2006/ace.png",
+    "filepath": "https://raw.githubusercontent.com/asreview/systematic-review-datasets/metadata-v1-final/datasets/Cohen_2006/output/online/CalciumChannelBlockers.csv"
   },
   "Cohen_2006_Estrogens": {
     "dataset_id": "Cohen_2006_Estrogens",
@@ -191,8 +191,8 @@
     "topic": "Estrogens",
     "final_inclusions": true,
     "title_abstract_inclusions": true,
-    "img_url": "https://raw.githubusercontent.com/asreview/asreview/master/images/ace.png",
-    "filepath": "https://raw.githubusercontent.com/asreview/systematic-review-datasets/master/datasets/Cohen_2006/output/online/Estrogens.csv"
+    "img_url": "https://raw.githubusercontent.com/asreview/systematic-review-datasets/metadata-v1-final/datasets/Cohen_2006/ace.png",
+    "filepath": "https://raw.githubusercontent.com/asreview/systematic-review-datasets/metadata-v1-final/datasets/Cohen_2006/output/online/Estrogens.csv"
   },
   "Cohen_2006_NSAIDS": {
     "dataset_id": "Cohen_2006_NSAIDS",
@@ -210,8 +210,8 @@
     "topic": "NSAIDS",
     "final_inclusions": true,
     "title_abstract_inclusions": true,
-    "img_url": "https://raw.githubusercontent.com/asreview/asreview/master/images/ace.png",
-    "filepath": "https://raw.githubusercontent.com/asreview/systematic-review-datasets/master/datasets/Cohen_2006/output/online/NSAIDS.csv"
+    "img_url": "https://raw.githubusercontent.com/asreview/systematic-review-datasets/metadata-v1-final/datasets/Cohen_2006/ace.png",
+    "filepath": "https://raw.githubusercontent.com/asreview/systematic-review-datasets/metadata-v1-final/datasets/Cohen_2006/output/online/NSAIDS.csv"
   },
   "Cohen_2006_Opiods": {
     "dataset_id": "Cohen_2006_Opiods",
@@ -229,8 +229,8 @@
     "topic": "Opiods",
     "final_inclusions": true,
     "title_abstract_inclusions": true,
-    "img_url": "https://raw.githubusercontent.com/asreview/asreview/master/images/ace.png",
-    "filepath": "https://raw.githubusercontent.com/asreview/systematic-review-datasets/master/datasets/Cohen_2006/output/online/Opiods.csv"
+    "img_url": "https://raw.githubusercontent.com/asreview/systematic-review-datasets/metadata-v1-final/datasets/Cohen_2006/ace.png",
+    "filepath": "https://raw.githubusercontent.com/asreview/systematic-review-datasets/metadata-v1-final/datasets/Cohen_2006/output/online/Opiods.csv"
   },
   "Cohen_2006_OralHypoglycemics": {
     "dataset_id": "Cohen_2006_OralHypoglycemics",
@@ -248,8 +248,8 @@
     "topic": "Oral Hypoglycemics",
     "final_inclusions": true,
     "title_abstract_inclusions": true,
-    "img_url": "https://raw.githubusercontent.com/asreview/asreview/master/images/ace.png",
-    "filepath": "https://raw.githubusercontent.com/asreview/systematic-review-datasets/master/datasets/Cohen_2006/output/online/OralHypoglycemics.csv"
+    "img_url": "https://raw.githubusercontent.com/asreview/systematic-review-datasets/metadata-v1-final/datasets/Cohen_2006/ace.png",
+    "filepath": "https://raw.githubusercontent.com/asreview/systematic-review-datasets/metadata-v1-final/datasets/Cohen_2006/output/online/OralHypoglycemics.csv"
   },
   "Cohen_2006_ProtonPumpInhibitors": {
     "dataset_id": "Cohen_2006_ProtonPumpInhibitors",
@@ -267,8 +267,8 @@
     "topic": "Proton Pump Inhibitors",
     "final_inclusions": true,
     "title_abstract_inclusions": true,
-    "img_url": "https://raw.githubusercontent.com/asreview/asreview/master/images/ace.png",
-    "filepath": "https://raw.githubusercontent.com/asreview/systematic-review-datasets/master/datasets/Cohen_2006/output/online/ProtonPumpInhibitors.csv"
+    "img_url": "https://raw.githubusercontent.com/asreview/systematic-review-datasets/metadata-v1-final/datasets/Cohen_2006/ace.png",
+    "filepath": "https://raw.githubusercontent.com/asreview/systematic-review-datasets/metadata-v1-final/datasets/Cohen_2006/output/online/ProtonPumpInhibitors.csv"
   },
   "Cohen_2006_SkeletalMuscleRelaxants": {
     "dataset_id": "Cohen_2006_SkeletalMuscleRelaxants",
@@ -286,8 +286,8 @@
     "topic": "Skeletal Muscle Relaxants",
     "final_inclusions": true,
     "title_abstract_inclusions": true,
-    "img_url": "https://raw.githubusercontent.com/asreview/asreview/master/images/ace.png",
-    "filepath": "https://raw.githubusercontent.com/asreview/systematic-review-datasets/master/datasets/Cohen_2006/output/online/SkeletalMuscleRelaxants.csv"
+    "img_url": "https://raw.githubusercontent.com/asreview/systematic-review-datasets/metadata-v1-final/datasets/Cohen_2006/ace.png",
+    "filepath": "https://raw.githubusercontent.com/asreview/systematic-review-datasets/metadata-v1-final/datasets/Cohen_2006/output/online/SkeletalMuscleRelaxants.csv"
   },
   "Cohen_2006_Statins": {
     "dataset_id": "Cohen_2006_Statins",
@@ -305,8 +305,8 @@
     "topic": "Statins",
     "final_inclusions": true,
     "title_abstract_inclusions": true,
-    "img_url": "https://raw.githubusercontent.com/asreview/asreview/master/images/ace.png",
-    "filepath": "https://raw.githubusercontent.com/asreview/systematic-review-datasets/master/datasets/Cohen_2006/output/online/Statins.csv"
+    "img_url": "https://raw.githubusercontent.com/asreview/systematic-review-datasets/metadata-v1-final/datasets/Cohen_2006/ace.png",
+    "filepath": "https://raw.githubusercontent.com/asreview/systematic-review-datasets/metadata-v1-final/datasets/Cohen_2006/output/online/Statins.csv"
   },
   "Cohen_2006_Triptans": {
     "dataset_id": "Cohen_2006_Triptans",
@@ -324,8 +324,8 @@
     "topic": "Triptans",
     "final_inclusions": true,
     "title_abstract_inclusions": true,
-    "img_url": "https://raw.githubusercontent.com/asreview/asreview/master/images/ace.png",
-    "filepath": "https://raw.githubusercontent.com/asreview/systematic-review-datasets/master/datasets/Cohen_2006/output/online/Triptans.csv"
+    "img_url": "https://raw.githubusercontent.com/asreview/systematic-review-datasets/metadata-v1-final/datasets/Cohen_2006/ace.png",
+    "filepath": "https://raw.githubusercontent.com/asreview/systematic-review-datasets/metadata-v1-final/datasets/Cohen_2006/output/online/Triptans.csv"
   },
   "Cohen_2006_UrinaryIncontinence": {
     "dataset_id": "Cohen_2006_UrinaryIncontinence",
@@ -343,8 +343,8 @@
     "topic": "Urinary Incontinence",
     "final_inclusions": true,
     "title_abstract_inclusions": true,
-    "img_url": "https://raw.githubusercontent.com/asreview/asreview/master/images/ace.png",
-    "filepath": "https://raw.githubusercontent.com/asreview/systematic-review-datasets/master/datasets/Cohen_2006/output/online/UrinaryIncontinence.csv"
+    "img_url": "https://raw.githubusercontent.com/asreview/systematic-review-datasets/metadata-v1-final/datasets/Cohen_2006/ace.png",
+    "filepath": "https://raw.githubusercontent.com/asreview/systematic-review-datasets/metadata-v1-final/datasets/Cohen_2006/output/online/UrinaryIncontinence.csv"
   },
   "Hall_2012": {
     "dataset_id": "Hall_2012",
