@@ -68,6 +68,16 @@ datasets. In each of these subfolders, the `.ipynb` script retrieves a dataset f
 ## License
 The scripts in the current project are MIT licensed. The datasets (should) have a permissive license.
 
+## Special thanks
+
+Open data on systematic reviews is important to advance research on machine learning enhanced systematic reviews. We thank the following people for publising their datasets openly.
+
+<!-- DO NOT EDIT AUTHORS BELOW, EDIT METADATA INSTEAD -->
+
+<!-- BEGIN AUTHORS -->
+
+<!-- END AUTHORS -->
+
 ## Contact
 
 Contact details can be found at the [ASReview](https://github.com/asreview/asreview#contact)

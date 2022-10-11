@@ -5,6 +5,17 @@ import pandas as pd
 
 from asreviewcontrib.statistics import DataStatistics
 
+
+def get_authors(metadata):
+
+    all_authors = []
+
+    for key, values in metadata.items():
+        all_authors = all_authors + values['authors']
+
+    return sorted(list(set(all_authors)))
+
+
 metadata_files = glob.glob("datasets/*/*.json")
 
 metadata = {}
@@ -78,6 +89,14 @@ readme_top = readme.split("<!-- BEGIN TABLE -->")[0]
 readme_bottom = readme.split("<!-- END TABLE -->")[1]
 
 readme_new = readme_top + "<!-- BEGIN TABLE -->\n\n" + s_table + "\n\n<!-- END TABLE -->" + readme_bottom
+
+# authors
+readme_top = readme_new.split("<!-- BEGIN AUTHORS -->")[0]
+readme_bottom = readme_new.split("<!-- END AUTHORS -->")[1]
+
+s_authors = ", ".join(get_authors(metadata))
+
+readme_new = readme_top + "<!-- BEGIN AUTHORS -->\n\n" + s_authors + "\n\n<!-- END AUTHORS -->" + readme_bottom
 
 with open("README.md", "w") as f_write:
     f_write.write(readme_new)
