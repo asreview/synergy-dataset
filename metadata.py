@@ -3,7 +3,7 @@ import json
 
 import pandas as pd
 
-from asreviewcontrib.statistics import DataStatistics
+from asreviewcontrib.datatools.describe import describe
 
 
 def get_authors(metadata):
@@ -56,16 +56,18 @@ with open("index_v1.json", "w", encoding="utf-8") as f_write:
 # export metadata to file
 result = []
 
-for _, x in metadata.items():
+for k, x in metadata.items():
 
-    try:
-        stats = DataStatistics(x["url"]).to_dict()
-    except Exception as err:
-        print(x)
-        raise err
+    print(k, x)
+    print("test 1")
+    stats = describe(x["url"])["data"]
+    print("test")
+    print(stats)
 
     x_copy = x.copy()
     x_copy.update(stats)
+
+    # print(x_copy)
 
     result.append(x_copy)
 

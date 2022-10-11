@@ -1,5 +1,5 @@
 pandas
 requests
 tabulate
-asreview<1
-asreview-statistics
+asreview~=1
+asreview-datatools
