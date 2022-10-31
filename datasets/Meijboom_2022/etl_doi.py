@@ -1,3 +1,4 @@
+import re
 import numpy as np
 import pandas as pd
 from asreview import ASReviewData
@@ -28,8 +29,18 @@ for inclusion_doi in asr_inclusions.df['doi']:
 
 # Convert dict to dataframe and reorder columns
 df_output = pd.DataFrame.from_dict(dict_doi, orient='index', columns=['label_included'])
+ids = df_output.index.to_list()
+df_output = df_output.reset_index()
 df_output['id_type'] = "doi"
-df_output = df_output.reindex(columns=['id_type', 'label_included'])
+df_output['id'] = ids
+df_output = df_output.reindex(columns=['id', 'id_type', 'label_included'])
+
+# Clean DOIs
+for index, row in df_output.iterrows():
+    # Match '10.' followed by atleast 1 non whitespace characters, till first whitespace
+    p = re.compile("(10.\S+)")
+    result = p.search(row['id'])
+    df_output.at[index, 'id'] = result.group(1)
 
 # save results to file
-df_output.to_csv("Meijboom_2022_ids.csv", index_label="id")
+df_output.to_csv("Meijboom_2022_ids.csv", index=False)
