@@ -18,7 +18,7 @@ print("Percentage of records with PID specified: ", len(asr_dataset.df)/n_record
 
 # Clean DOIs
 for index, row in asr_dataset.df.iterrows():
-    # Match '10.' followed by atleast 1 non whitespace characters, till first whitespace
+    # Match '10.' followed by at least 1 non whitespace characters, till first whitespace
     p = re.compile("(10.\S+)")
     result = p.search(row['id'])
     asr_dataset.df.at[index, 'id'] = result.group(1)
