@@ -18,8 +18,8 @@ df = pd.concat([asr_inclusions_1.df, asr_inclusions_2.df,
 # adjust columns and drop missing and duplicate ids
 df['doi'] = df['doi'].str.extract(r"(10.\S+)")
 df['id_type'] = 'doi'
-df = df.dropna(subset=['doi'])
-df = df.drop_duplicates(subset=['doi'])
+df.dropna(subset=['doi'], inplace=True)
+df.drop_duplicates(subset=['doi'], inplace=True)
 df['id'] = df['doi']
 
 # save results to file
