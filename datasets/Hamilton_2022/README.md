@@ -1,4 +1,4 @@
-> Hamilton, C., Schulz, J., Chalmers, H., & Murphy V. (2022). **[The effectiveness of using songs for teaching second or foreign languages to primary and secondary school learners: a systematic review.][1]** _Preprint_
+> Hamilton, C., Schulz, J., Chalmers, H., & Murphy V. (2022). **[The effectiveness of using songs for teaching second or foreign languages to primary and secondary school learners: a systematic review.][1]** _Preprint._
 
 Processes 1 [raw dataset][2] from [OSF.io][3].
 
