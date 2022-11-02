@@ -15,9 +15,7 @@ df['doi'] = df['doi'].str.extract(r"(10.\S+)")
 df['id_type'] = 'doi'
 df = df.dropna(subset=['doi'])
 df = df.drop_duplicates(subset=['doi'])
-
-# rename columns
-df = df.rename({'doi': 'id'}, axis=1)
+df['id'] = df['doi']
 
 # save results to file
 df.to_csv("Meijboom_2022_ids.csv", columns=['id', 'id_type', 'label_included'], index=False)
