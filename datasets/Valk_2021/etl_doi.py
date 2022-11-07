@@ -13,7 +13,7 @@ df.rename({'Included_fulltext': 'label_included', 'DOI': 'id'}, axis=1, inplace=
 df.dropna(subset=["id"], inplace=True)
 
 # drop duplicate DOIs
-df.drop_duplicates(subset=["id"])
+df.drop_duplicates(subset=["id"], inplace=True)
 
 # export
 df.to_csv("Valk_2021_ids.csv", columns=['id', 'id_type', 'label_included'], index=False)
