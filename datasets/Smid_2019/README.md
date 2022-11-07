@@ -2,5 +2,5 @@
 
 Processes 1 [raw dataset][2].
 
-[1]:	https://osf.io/gxams
-[2]:	https://doi.org/10.1080/10705511.2019.1577140
+[1]:	https://doi.org/10.1080/10705511.2019.1577140
+[2]:	https://osf.io/gxams
