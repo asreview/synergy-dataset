@@ -1,3 +1,9 @@
+"""
+A module for importing data from the Hamilton 2022 dataset. This module
+transforms the Rayyan data into a format that is compatible with other
+platforms.
+"""
+
 import pandas as pd
 
 
@@ -5,7 +11,7 @@ import pandas as pd
 file_location = "https://osf.io/download/4swnr/"
 
 # identify the used columns
-usecols=["title", "abstract", "issn", "notes"]
+usecols = ["title", "abstract", "issn", "notes"]
 
 # load the data from osf
 df = pd.read_csv(file_location, usecols=usecols)
