@@ -1,5 +1,5 @@
 import pandas as pd
-import re
+
 
 # set file location
 file_location = "https://osf.io/download/4swnr/"
@@ -11,8 +11,8 @@ usecols=["title", "abstract", "issn", "notes"]
 df = pd.read_csv(file_location, usecols=usecols)
 
 # notes to label
-regex = r'(?<=RAYYAN-INCLUSION: {)[a-zA-Z"=>, .]+'
-df["full_labels"] = [re.search(regex, note).group() for note in df.notes]
+regex = r'(?<=RAYYAN-INCLUSION: ){([a-zA-Z"=>, .]+)}'
+df["full_labels"] = df["full_labels"] = df["notes"].str.extract(regex)
 df["label"] = [1 if "Included" in note else 0 for note in df.full_labels]
 
 # save results to file
