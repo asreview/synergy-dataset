@@ -18,7 +18,7 @@ df = pd.read_csv(file_location, usecols=usecols)
 
 # notes to label
 regex = r'(?<=RAYYAN-INCLUSION: ){([a-zA-Z"=>, .]+)}'
-df["full_labels"] = df["full_labels"] = df["notes"].str.extract(regex)
+df["full_labels"] = df["notes"].str.extract(regex)
 df["label"] = [1 if "Included" in note else 0 for note in df.full_labels]
 
 # save results to file
