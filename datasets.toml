@@ -1,0 +1,16 @@
+version=0.1
+
+[datasets]
+
+	[datasets.hall_2012]
+
+      [publication]
+          [publication.ids]
+              doi= "10.1109/TSE.2011.103"
+              openalex= "W2151666086"
+      [data]
+          [data.ids]
+              doi="10.5281/zenodo.1162952"
+          [data.scripts]
+            extract="datasets/hall_2012/extract.py"
+            id_retrieval="datasets/hall_2012/ids.py"
