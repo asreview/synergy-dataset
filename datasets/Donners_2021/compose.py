@@ -9,14 +9,16 @@ asr_search = ASReviewData.from_file("https://osf.io/download/zf95a/")
 asr_inclusions.df['label_included'] = 1
 asr_search.df['label_included'] = 0
 df = pd.concat([asr_inclusions.df, asr_search.df], ignore_index=True)
+df.drop_duplicates(inplace=True)
 
 # adjust columns and drop missing and duplicate ids
 df['doi'] = df['doi'].str.extract(r"(10.\S+)")
-df['id_type'] = 'doi'
-df.dropna(subset=['doi'], inplace=True)
-df.drop_duplicates(subset=['doi'], inplace=True)
-df['id'] = df['doi']
+df['abstract'] = None
 
 # save results to file
-df.to_csv("Donners_2021_ids.csv", columns=['id', 'id_type', 'label_included'], index=False)
+df.to_csv("Donners_2021_raw.csv", index=False)
 
+df_new = df[["doi", "label_included"]].copy()
+df_new["openalex_id"] = None
+
+df_new[["doi", "openalex_id", "label_included"]].to_csv("Donners_2021_ids.csv", index=False)

@@ -1,16 +1,36 @@
 version=0.1
 
-[datasets]
+[[datasets]]
 
-	[datasets.hall_2012]
+  key="hall_2012"
 
-      [publication]
-          [publication.ids]
-              doi= "10.1109/TSE.2011.103"
-              openalex= "W2151666086"
-      [data]
-          [data.ids]
-              doi="10.5281/zenodo.1162952"
-          [data.scripts]
-            extract="datasets/hall_2012/extract.py"
-            id_retrieval="datasets/hall_2012/ids.py"
+  [datasets.publication]
+    doi= "10.1109/TSE.2011.103"
+    openalex= "W2151666086"
+
+  [datasets.data]
+        doi="10.5281/zenodo.1162952"
+
+  [datasets.scripts]
+    extract="datasets/hall_2012/extract.py"
+    id_retrieval="datasets/hall_2012/ids.py"
+
+
+[[datasets]]
+  # Processes 1 dataset (https://osf.io/tnxju/)
+
+  key="Donners_2021"
+
+  [datasets.publication]
+
+  doi= "10.1007/s40262-021-01042-w"
+  openalex= "W3187789458"
+
+  [datasets.data]
+
+  doi="https://osf.io/tnxju/"
+
+  [datasets.scripts]
+  extract="datasets/Donners_2021/extract.py"
+  id_retrieval="datasets/Donners_2021/ids.py"
+

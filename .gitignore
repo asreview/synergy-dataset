@@ -5,3 +5,10 @@ __pycache__/
 .ipynb_checkpoints/
 .Rhistory
 __pycache__
+
+
+
+
+
+release
+datasets/*/*_raw.csv
