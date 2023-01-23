@@ -107,3 +107,21 @@ version=0.1
   doi="https://doi.org/10.5281/zenodo.3625931"
 
   [datasets.scripts]
+
+
+[[datasets]]
+
+  # original study https://doi.org/10.1002/ebm2.24
+
+  key="Bannach-Brown_2019"
+
+  [datasets.publication]
+
+  doi= "10.1186/s13643-019-0942-7"
+  openalex= "W2910642642"
+
+  [datasets.data]
+
+  doi="https://doi.org/10.5281/zenodo.151190"
+
+  [datasets.scripts]
