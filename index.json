@@ -1,7 +1,7 @@
 {
   "Appenzeller-Herzog_2020": {
     "dataset_id": "Appenzeller-Herzog_2020",
-    "url": "https://raw.githubusercontent.com/asreview/systematic-review-datasets/master/datasets/Appenzeller-Herzog_2020/output/Appenzeller-Herzog_2020.csv",
+    "url": "https://raw.githubusercontent.com/asreview/systematic-review-datasets/metadata-v1-final/datasets/Appenzeller-Herzog_2020/output/Appenzeller-Herzog_2020.csv",
     "reference": "https://doi.org/10.1111/liv.14179",
     "link": "http://doi.org/10.5281/zenodo.3625931",
     "license": "CC-BY Attribution 4.0 International",
@@ -22,7 +22,7 @@
   },
   "Bannach-Brown_2019": {
     "dataset_id": "Bannach-Brown_2019",
-    "url": "https://raw.githubusercontent.com/asreview/systematic-review-datasets/master/datasets/Bannach-Brown_2019/output/Bannach-Brown_2019.csv",
+    "url": "https://raw.githubusercontent.com/asreview/systematic-review-datasets/metadata-v1-final/datasets/Bannach-Brown_2019/output/Bannach-Brown_2019.csv",
     "reference": "https://doi.org/10.1186/s13643-019-0942-7",
     "link": "http://doi.org/10.5281/zenodo.151190",
     "license": "CC-BY Attribution 4.0 International",
@@ -44,7 +44,7 @@
   },
   "Bos_2018": {
     "dataset_id": "Bos_2018",
-    "url": "https://raw.githubusercontent.com/asreview/systematic-review-datasets/master/datasets/Bos_2018/output/Bos_2018.csv",
+    "url": "https://raw.githubusercontent.com/asreview/systematic-review-datasets/metadata-v1-final/datasets/Bos_2018/output/Bos_2018.csv",
     "reference": "https://doi.org/10.1016/j.jalz.2018.04.007",
     "link": "https://osf.io/w3kbq/",
     "license": "CC-BY Attribution 4.0 International",
@@ -366,7 +366,7 @@
   },
   "Hall_2012": {
     "dataset_id": "Hall_2012",
-    "url": "https://raw.githubusercontent.com/asreview/systematic-review-datasets/master/datasets/Hall_Wahono_Radjenovic_Kitchenham/output/Hall_2012.csv",
+    "url": "https://raw.githubusercontent.com/asreview/systematic-review-datasets/metadata-v1-final/datasets/Hall_Wahono_Radjenovic_Kitchenham/output/Hall_2012.csv",
     "reference": "https://doi.org/10.1109/TSE.2011.103",
     "link": "http://doi.org/10.5281/zenodo.1162952",
     "license": "CC-BY Attribution 4.0 International",
@@ -387,7 +387,7 @@
   },
   "Kitchenham_2010": {
     "dataset_id": "Kitchenham_2010",
-    "url": "https://raw.githubusercontent.com/asreview/systematic-review-datasets/master/datasets/Hall_Wahono_Radjenovic_Kitchenham/output/Kitchenham_2010.csv",
+    "url": "https://raw.githubusercontent.com/asreview/systematic-review-datasets/metadata-v1-final/datasets/Hall_Wahono_Radjenovic_Kitchenham/output/Kitchenham_2010.csv",
     "reference": "https://doi.org/10.1109/TSE.2011.103",
     "link": "http://doi.org/10.5281/zenodo.1162952",
     "license": "CC-BY Attribution 4.0 International",
@@ -410,7 +410,7 @@
   },
   "Kwok_2020": {
     "dataset_id": "Kwok_2020",
-    "url": "https://raw.githubusercontent.com/asreview/systematic-review-datasets/master/datasets/Kwok_2020/output/Kwok_2020.csv",
+    "url": "https://raw.githubusercontent.com/asreview/systematic-review-datasets/metadata-v1-final/datasets/Kwok_2020/output/Kwok_2020.csv",
     "reference": "https://doi.org/10.3390/v12010107",
     "link": "https://doi.org/10.17605/OSF.IO/5S27M",
     "license": "CC-BY Attribution 4.0 International",
@@ -429,7 +429,7 @@
   },
   "Nagtegaal_2019": {
     "dataset_id": "Nagtegaal_2019",
-    "url": "https://raw.githubusercontent.com/asreview/systematic-review-datasets/master/datasets/Nagtegaal_2019/output/Nagtegaal_2019.csv",
+    "url": "https://raw.githubusercontent.com/asreview/systematic-review-datasets/metadata-v1-final/datasets/Nagtegaal_2019/output/Nagtegaal_2019.csv",
     "reference": "https://doi.org/10.30636/jbpa.22.71",
     "link": "https://doi.org/10.7910/DVN/WMGPGZ/HY6N2S",
     "license": "CC0",
@@ -448,7 +448,7 @@
   },
   "Radjenovic_2013": {
     "dataset_id": "Radjenovic_2013",
-    "url": "https://raw.githubusercontent.com/asreview/systematic-review-datasets/master/datasets/Hall_Wahono_Radjenovic_Kitchenham/output/Radjenovic_2013.csv",
+    "url": "https://raw.githubusercontent.com/asreview/systematic-review-datasets/metadata-v1-final/datasets/Hall_Wahono_Radjenovic_Kitchenham/output/Radjenovic_2013.csv",
     "reference": "https://doi.org/10.1016/j.infsof.2013.02.009",
     "link": "http://doi.org/10.5281/zenodo.1162952",
     "license": "CC-BY Attribution 4.0 International",
@@ -468,7 +468,7 @@
   },
   "Wahono_2015": {
     "dataset_id": "Wahono_2015",
-    "url": "https://raw.githubusercontent.com/asreview/systematic-review-datasets/master/datasets/Hall_Wahono_Radjenovic_Kitchenham/output/Wahono_2015.csv",
+    "url": "https://raw.githubusercontent.com/asreview/systematic-review-datasets/metadata-v1-final/datasets/Hall_Wahono_Radjenovic_Kitchenham/output/Wahono_2015.csv",
     "reference": "http://journal.ilmukomputer.org/index.php?journal=jse&page=article&op=view&path%5B%5D=47",
     "link": "http://doi.org/10.5281/zenodo.1162952",
     "license": "CC-BY Attribution 4.0 International",
@@ -485,7 +485,7 @@
   },
   "Wolters_2018": {
     "dataset_id": "Wolters_2018",
-    "url": "https://raw.githubusercontent.com/asreview/systematic-review-datasets/master/datasets/Wolters_2018/output/Wolters_2018.csv",
+    "url": "https://raw.githubusercontent.com/asreview/systematic-review-datasets/metadata-v1-final/datasets/Wolters_2018/output/Wolters_2018.csv",
     "reference": "https://doi.org/10.1016/j.jalz.2018.01.007",
     "link": "https://osf.io/sxzjg/",
     "license": "CC-BY Attribution 4.0 International",
@@ -508,7 +508,7 @@
   },
   "van_Dis_2020": {
     "dataset_id": "van_Dis_2020",
-    "url": "https://raw.githubusercontent.com/asreview/systematic-review-datasets/master/datasets/van_Dis_2020/output/van_Dis_2020.csv",
+    "url": "https://raw.githubusercontent.com/asreview/systematic-review-datasets/metadata-v1-final/datasets/van_Dis_2020/output/van_Dis_2020.csv",
     "reference": "https://doi.org/10.1001/jamapsychiatry.2019.3986",
     "link": "https://osf.io/4d9tu/",
     "license": "CC-BY Attribution 4.0 International",
@@ -527,7 +527,7 @@
   },
   "van_de_Schoot_2017": {
     "dataset_id": "van_de_Schoot_2017",
-    "url": "https://raw.githubusercontent.com/asreview/systematic-review-datasets/master/datasets/van_de_Schoot_2017/output/van_de_Schoot_2017.csv",
+    "url": "https://raw.githubusercontent.com/asreview/systematic-review-datasets/metadata-v1-final/datasets/van_de_Schoot_2017/output/van_de_Schoot_2017.csv",
     "reference": "https://doi.org/10.1080/10705511.2016.1247646",
     "link": "https://doi.org/10.17605/OSF.IO/VK4BE",
     "license": "CC-BY Attribution 4.0 International",
