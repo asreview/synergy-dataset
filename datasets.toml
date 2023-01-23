@@ -12,8 +12,6 @@ version=0.1
         doi="10.5281/zenodo.1162952"
 
   [datasets.scripts]
-    extract="datasets/hall_2012/extract.py"
-    id_retrieval="datasets/hall_2012/ids.py"
 
 
 [[datasets]]
@@ -31,6 +29,34 @@ version=0.1
   doi="https://osf.io/tnxju/"
 
   [datasets.scripts]
-  extract="datasets/Donners_2021/extract.py"
-  id_retrieval="datasets/Donners_2021/ids.py"
 
+
+[[datasets]]
+
+  key="Meijboom_2022"
+
+  [datasets.publication]
+
+  doi= "10.1007/s40259-021-00508-4"
+  openalex= "W4200279042"
+
+  [datasets.data]
+
+  doi="https://osf.io/4cdku/"
+
+  [datasets.scripts]
+
+[[datasets]]
+
+  key="Valk_2021"
+
+  [datasets.publication]
+
+  doi= "10.1111/obr.13376"
+  openalex= "W3216502150"
+
+  [datasets.data]
+
+  doi="https://osf.io/download/gmjcv/"
+
+  [datasets.scripts]
