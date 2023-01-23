@@ -125,3 +125,19 @@ version=0.1
   doi="https://doi.org/10.5281/zenodo.151190"
 
   [datasets.scripts]
+
+
+[[datasets]]
+
+  key="Bos_2018"
+
+  [datasets.publication]
+
+  doi= "10.1016/j.jalz.2018.04.007"
+  openalex= "W2804868354"
+
+  [datasets.data]
+
+  doi="https://osf.io/w3kbq/"
+
+  [datasets.scripts]
