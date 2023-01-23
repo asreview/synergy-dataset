@@ -76,3 +76,19 @@ version=0.1
   doi="https://osf.io/gxams"
 
   [datasets.scripts]
+
+
+[[datasets]]
+
+  key="Brouwer_2019"
+
+  [datasets.publication]
+
+  doi= "10.1016/j.cpr.2019.101773"
+  openalex= "W2985119860"
+
+  [datasets.data]
+
+  doi="https://osf.io/py7ek"
+
+  [datasets.scripts]
