@@ -92,3 +92,18 @@ version=0.1
   doi="https://osf.io/py7ek"
 
   [datasets.scripts]
+
+[[datasets]]
+
+  key="Appenzeller-Herzog_2020"
+
+  [datasets.publication]
+
+  doi= "10.1111/liv.14179"
+  openalex= "W2949422680"
+
+  [datasets.data]
+
+  doi="https://doi.org/10.5281/zenodo.3625931"
+
+  [datasets.scripts]

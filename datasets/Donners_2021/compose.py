@@ -12,8 +12,7 @@ df = pd.concat([asr_inclusions.df, asr_search.df], ignore_index=True)
 df.drop_duplicates(inplace=True)
 
 # adjust columns and drop missing and duplicate ids
-df['doi'] = df['doi'].str.extract(r"(10.\S+)")
-df['abstract'] = None
+df['doi'] = "https://doi.org/" + df['doi'].str.extract(r"(10.\S+)")
 
 # save results to file
 df.to_csv("Donners_2021_raw.csv", index=False)
