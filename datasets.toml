@@ -141,3 +141,257 @@ version=0.1
   doi="https://osf.io/w3kbq/"
 
   [datasets.scripts]
+
+
+[[datasets]]
+
+  key="Cohen_2006_ACEInhibitors"
+
+  [datasets.publication]
+
+  doi= "10.1197/jamia.M1929"
+  openalex= "W168362576"
+
+  [datasets.data]
+
+  doi="https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
+
+  [datasets.scripts]
+  compose="datasets/Cohen_2006/compose.py ACEInhibitors"
+
+[[datasets]]
+
+  key="Cohen_2006_CalciumChannelBlockers"
+
+  [datasets.publication]
+
+  doi= "10.1197/jamia.M1929"
+  openalex= "W168362576"
+
+  [datasets.data]
+
+  doi="https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
+
+  [datasets.scripts]
+  compose="datasets/Cohen_2006/compose.py CalciumChannelBlockers"
+
+
+[[datasets]]
+
+  key="Cohen_2006_ProtonPumpInhibitors"
+
+  [datasets.publication]
+
+  doi= "10.1197/jamia.M1929"
+  openalex= "W168362576"
+
+  [datasets.data]
+
+  doi="https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
+
+  [datasets.scripts]
+  compose="datasets/Cohen_2006/compose.py ProtonPumpInhibitors"
+
+
+[[datasets]]
+
+  key="Cohen_2006_ADHD"
+
+  [datasets.publication]
+
+  doi= "10.1197/jamia.M1929"
+  openalex= "W168362576"
+
+  [datasets.data]
+
+  doi="https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
+
+  [datasets.scripts]
+  compose="datasets/Cohen_2006/compose.py ADHD"
+
+[[datasets]]
+
+  key="Cohen_2006_Estrogens"
+
+  [datasets.publication]
+
+  doi= "10.1197/jamia.M1929"
+  openalex= "W168362576"
+
+  [datasets.data]
+
+  doi="https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
+
+  [datasets.scripts]
+  compose="datasets/Cohen_2006/compose.py Estrogens"
+
+
+[[datasets]]
+
+  key="Cohen_2006_SkeletalMuscleRelaxants"
+
+  [datasets.publication]
+
+  doi= "10.1197/jamia.M1929"
+  openalex= "W168362576"
+
+  [datasets.data]
+
+  doi="https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
+
+  [datasets.scripts]
+  compose="datasets/Cohen_2006/compose.py SkeletalMuscleRelaxants"
+
+
+
+[[datasets]]
+
+  key="Cohen_2006_Antihistamines"
+
+  [datasets.publication]
+
+  doi= "10.1197/jamia.M1929"
+  openalex= "W168362576"
+
+  [datasets.data]
+
+  doi="https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
+
+  [datasets.scripts]
+  compose="datasets/Cohen_2006/compose.py Antihistamines"
+
+[[datasets]]
+
+  key="Cohen_2006_NSAIDS"
+
+  [datasets.publication]
+
+  doi= "10.1197/jamia.M1929"
+  openalex= "W168362576"
+
+  [datasets.data]
+
+  doi="https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
+
+  [datasets.scripts]
+  compose="datasets/Cohen_2006/compose.py NSAIDS"
+
+
+[[datasets]]
+
+  key="Cohen_2006_Statins"
+
+  [datasets.publication]
+
+  doi= "10.1197/jamia.M1929"
+  openalex= "W168362576"
+
+  [datasets.data]
+
+  doi="https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
+
+  [datasets.scripts]
+  compose="datasets/Cohen_2006/compose.py Statins"
+
+
+
+[[datasets]]
+
+  key="Cohen_2006_AtypicalAntipsychotics"
+
+  [datasets.publication]
+
+  doi= "10.1197/jamia.M1929"
+  openalex= "W168362576"
+
+  [datasets.data]
+
+  doi="https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
+
+  [datasets.scripts]
+  compose="datasets/Cohen_2006/compose.py AtypicalAntipsychotics"
+
+[[datasets]]
+
+  key="Cohen_2006_Opioids"
+
+  [datasets.publication]
+
+  doi= "10.1197/jamia.M1929"
+  openalex= "W168362576"
+
+  [datasets.data]
+
+  doi="https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
+
+  [datasets.scripts]
+  compose="datasets/Cohen_2006/compose.py Opioids"
+
+
+[[datasets]]
+
+  key="Cohen_2006_Triptans"
+
+  [datasets.publication]
+
+  doi= "10.1197/jamia.M1929"
+  openalex= "W168362576"
+
+  [datasets.data]
+
+  doi="https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
+
+  [datasets.scripts]
+  compose="datasets/Cohen_2006/compose.py Triptans"
+
+
+
+[[datasets]]
+
+  key="Cohen_2006_BetaBlockers"
+
+  [datasets.publication]
+
+  doi= "10.1197/jamia.M1929"
+  openalex= "W168362576"
+
+  [datasets.data]
+
+  doi="https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
+
+  [datasets.scripts]
+  compose="datasets/Cohen_2006/compose.py BetaBlockers"
+
+[[datasets]]
+
+  key="Cohen_2006_OralHypoglycemics"
+
+  [datasets.publication]
+
+  doi= "10.1197/jamia.M1929"
+  openalex= "W168362576"
+
+  [datasets.data]
+
+  doi="https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
+
+  [datasets.scripts]
+  compose="datasets/Cohen_2006/compose.py OralHypoglycemics"
+
+
+[[datasets]]
+
+  key="Cohen_2006_UrinaryIncontinence"
+
+  [datasets.publication]
+
+  doi= "10.1197/jamia.M1929"
+  openalex= "W168362576"
+
+  [datasets.data]
+
+  doi="https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
+
+  [datasets.scripts]
+  compose="datasets/Cohen_2006/compose.py UrinaryIncontinence"
+
