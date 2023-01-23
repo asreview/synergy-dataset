@@ -60,3 +60,19 @@ version=0.1
   doi="https://osf.io/download/gmjcv/"
 
   [datasets.scripts]
+
+
+[[datasets]]
+
+  key="Smid_2020"
+
+  [datasets.publication]
+
+  doi= "10.1080/10705511.2019.1577140"
+  openalex= "W2944958851"
+
+  [datasets.data]
+
+  doi="https://osf.io/gxams"
+
+  [datasets.scripts]
