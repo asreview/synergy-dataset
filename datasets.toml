@@ -344,3 +344,15 @@ version=0.1
   [datasets.scripts]
   compose="datasets/Cohen_2006/compose.py UrinaryIncontinence"
 
+[[datasets]]
+
+  key="Nagtegaal_2019"
+
+  [datasets.publication]
+
+  doi= "10.30636/jbpa.22.71"
+
+  [datasets.data]
+
+  doi="https://doi.org/10.7910/DVN/WMGPGZ/HY6N2S"
+
