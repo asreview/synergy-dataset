@@ -18,6 +18,7 @@ if __name__ == "__main__":
         names=["disease", "endnoteID", "id", "abstractLabel", "articleLabel"],
     )
     df["label_included"] = (df["articleLabel"] == "I").astype(int)
+    df.loc[df["disease"] == "Opiods", "disease"] = "Opioids"
 
     # rename columns
     df.rename({"id": "pmid"}, axis=1, inplace=True)
