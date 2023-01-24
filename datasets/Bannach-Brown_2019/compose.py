@@ -6,7 +6,9 @@ url = "https://zenodo.org/record/151190/files/Depression-Dataset-SLIM-Developmen
 df = pd.read_table(url, index_col="ID")
 
 # rename columns
-df.rename(columns={"Incl(1)/Excl(0)":"label_included", "Author":"authors"}, inplace=True)
+df.rename(
+    columns={"Incl(1)/Excl(0)": "label_included", "Author": "authors"}, inplace=True
+)
 df.columns = map(str.lower, df.columns)
 
 # adjust columns

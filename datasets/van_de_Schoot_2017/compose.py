@@ -8,13 +8,13 @@ asr_inclusions = ASReviewData.from_file("https://osf.io/xxx/download")
 asr_search = ASReviewData.from_file("https://osf.io/xxx/download")
 
 # set labels and turn into single dataframe
-asr_inclusions.df['label_included'] = 1
-asr_search.df['label_included'] = 0
+asr_inclusions.df["label_included"] = 1
+asr_search.df["label_included"] = 0
 df = pd.concat([asr_inclusions.df, asr_search.df], ignore_index=True)
 df.drop_duplicates(inplace=True)
 
 # adjust columns and drop missing and duplicate ids
-df['doi'] = "https://doi.org/" + df['doi'].str.extract(r"(10.\S+)")
+df["doi"] = "https://doi.org/" + df["doi"].str.extract(r"(10.\S+)")
 
 # save results to file
 df.to_csv(f"{key}_raw.csv", index=False)

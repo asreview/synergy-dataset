@@ -8,8 +8,8 @@ asr_inclusions = ASReviewData.from_file("https://osf.io/vuyhq/download")
 asr_search = ASReviewData.from_file("https://osf.io/3grcz/download")
 
 # set labels and turn into single dataframe
-asr_inclusions.df['label_included'] = 1
-asr_search.df['label_included'] = 0
+asr_inclusions.df["label_included"] = 1
+asr_search.df["label_included"] = 0
 df = pd.concat([asr_inclusions.df, asr_search.df], ignore_index=True)
 df.drop_duplicates(inplace=True)
 
