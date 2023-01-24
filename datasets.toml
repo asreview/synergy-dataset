@@ -356,3 +356,18 @@ version=0.1
 
   doi="https://doi.org/10.7910/DVN/WMGPGZ/HY6N2S"
 
+
+[[datasets]]
+
+  # Note that this dataset is also used for another systematic review:
+  # https://doi.org/10.1080/00273171.2017.1412293
+
+  key="van_de_Schoot_2017"
+
+  [datasets.publication]
+
+  doi= "10.1080/10705511.2016.1247646"
+
+  [datasets.data]
+
+  doi="https://doi.org/10.17605/OSF.IO/VK4BE"

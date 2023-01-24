@@ -1,4 +1,0 @@
-RISparser
-numpy
-pandas
-wordcloud
