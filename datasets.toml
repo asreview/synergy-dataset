@@ -371,3 +371,17 @@ version=0.1
   [datasets.data]
 
   doi="https://doi.org/10.17605/OSF.IO/VK4BE"
+
+
+[[datasets]]
+
+  key="van_Dis_2020"
+
+  [datasets.publication]
+
+  doi= "10.1001/jamapsychiatry.2019.3986"
+
+  [datasets.data]
+
+  doi="https://osf.io/4d9tu/"
+
