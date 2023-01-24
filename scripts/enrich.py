@@ -28,7 +28,7 @@ def search_title(title):
     print("\n\n")
 
     if len(r) == 1:
-        print("on count")
+        print("Single hit: count==1")
         return r[0]["doi"], r[0]["id"]
     elif len(r) > 1 and "title" in r[0] and r[0]["title"].lower() == title.lower():
         print("on title")
@@ -42,18 +42,50 @@ def search_title(title):
         return None, None
 
 
-def openalex_work_by_id(id_list, id_type='doi', mailto=None):
-    data = {}
-    page_length = 50
-    for page_start in range(0, len(id_list), page_length):
-        page = id_list[page_start: page_start+page_length]
+def openalex_work_by_id(id_list, id_type='doi', page_length = 50, sleep_duration=0.5, mailto=None):
 
-        res = Works().filter(doi=f"{'|'.join(map(str, page))}").get(per_page=page_length)
+    id_list_notnull = [i for i in id_list if i is not None]
+    results = {}
 
-        data.update({w["doi"]: w["id"] for w in res})
-        sleep(1)
+    print("Record lookup by ID")
+    for page_start in range(0, len(id_list_notnull), page_length):
+        page = id_list_notnull[page_start: page_start+page_length]
 
-    return data
+        filt = {id_type:f"{'|'.join(map(str, page))}"}
+        res = Works().filter(**filt).get(per_page=page_length)
+        print("Found new records.")
+
+        for w in res:
+            if id_type == "pmid":
+                if "pmid" in w["ids"]:
+                    results[w["ids"]["pmid"]] = (w["doi"], w["ids"]["pmid"], w["id"])
+            else:
+                results[w[id_type]] = (w["doi"], w["ids"]["pmid"] if "pmid" in w["ids"] else None, w["id"])
+
+        sleep(sleep_duration)
+
+    # ugly
+    store = []
+    for x in id_list:
+
+        try:
+            doi = results[x][0]
+        except KeyError:
+            doi = None
+
+        try:
+            pmid = results[x][1]
+        except KeyError:
+            pmid = None
+
+        try:
+            oaid = results[x][2]
+        except KeyError:
+            oaid = None
+
+        store.append((doi, pmid, oaid))
+
+    return list(map(lambda x: x[0], store)), list(map(lambda x: x[1], store)), list(map(lambda x: x[2], store))
 
 
 if __name__ == '__main__':
@@ -71,35 +103,37 @@ if __name__ == '__main__':
 
 
     df_raw = pd.read_csv(Path("datasets", args.dataset_name, f"{args.dataset_name}_raw.csv"))
-    df = pd.read_csv(Path("datasets", args.dataset_name, f"{args.dataset_name}_ids.csv"))
+    df = pd.read_csv(
+        Path("datasets", args.dataset_name, f"{args.dataset_name}_ids.csv")    )
 
     try:
 
-        if 1:
-            # Update dois
-            for index, row in df.iterrows():
+        # if 0:
+        #     # Update dois
+        #     for index, row in df.iterrows():
 
-                if pd.isnull(row["doi"]) and pd.isnull(row["openalex_id"]) and pd.notnull(df_raw.iloc[index]["title"]):
-                    doi, openalex_id = search_title(df_raw.iloc[index]["title"])
-                    print("Found new work for:", doi )
-                    df.loc[index, "doi"] = doi
-                    df.loc[index, "openalex_id"] = openalex_id
-                    sleep(1)
+        #         if pd.isnull(row["doi"]) and pd.isnull(row["openalex_id"]) and pd.notnull(df_raw.iloc[index]["title"]):
+        #             doi, openalex_id = search_title(df_raw.iloc[index]["title"])
+        #             print("Found new work for:", doi )
+        #             df.loc[index, "doi"] = doi
+        #             df.loc[index, "openalex_id"] = openalex_id
+        #             sleep(1)
 
-        if 1:
-            # Update works
-            lookup_table = df[df["doi"].notnull() & df["openalex_id"].isnull()]["doi"].tolist()
-            ids = openalex_work_by_id(lookup_table)
+        for id_type in ["doi"]:
+            # Update works based on ID
+            subset = df[id_type].notnull() & df["openalex_id"].isnull()
+            doi, pmid, oaid = openalex_work_by_id(
+                df[subset][id_type].tolist(),
+                id_type=id_type
+            )
 
-            for index, row in df.iterrows():
-                if pd.notnull(row["doi"]):
-                    try:
-                        df.loc[index, "openalex_id"] = ids[row["doi"]]
-                    except KeyError:
-                        pass
+            df.loc[subset, "doi"] = doi
+            df.loc[subset, "openalex_id"] = oaid
+            if "pmid" in list(df):
+                df.loc[subset, "pmid"] = pmid
+
 
     except KeyboardInterrupt as err:
         print("Stop and write results so far.")
-
 
     df.to_csv(Path("datasets", args.dataset_name, f"{args.dataset_name}_ids.csv"), index=False)
