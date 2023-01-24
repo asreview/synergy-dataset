@@ -6,6 +6,7 @@ import json
 import tomli
 
 from pyalex import Works
+from zipfile import ZipFile
 
 
 def main(key):
@@ -26,16 +27,21 @@ def main(key):
     Path("release", key).mkdir(parents=True, exist_ok=True)
     result.to_csv(Path("release", key, f"{key}.csv"), index=False)
 
-    x = 0
-    while x < len(result):
+    # create zip
+    with ZipFile(Path("release", key, f"works.zip"), 'w') as zip_obj:
 
-        works = Works()[result["openalex_id"].iloc[x:x+25].tolist()]
+        x = 0
+        while x < len(result):
 
-        r = (x, min(x+25, len(result)))
-        with open(Path("release", key, f"works_{r[0]}_{r[1]}.json"), "w") as f:
-            json.dump(works, f)
+            works = Works()[result["openalex_id"].iloc[x:x+25].tolist()]
 
-        x += 25
+            r = (x, min(x+25, len(result)))
+
+            zip_obj.writestr(f"works_{r[0]}_{r[1]}.json", json.dumps(works))
+            # with open(Path("release", key, f"works_{r[0]}_{r[1]}.json"), "w") as f:
+            #     json.dump(works, f)
+
+            x += 25
 
 if __name__ == '__main__':
     with open("datasets.toml", mode="rb") as fp:
