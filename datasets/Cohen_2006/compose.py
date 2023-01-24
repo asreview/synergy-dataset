@@ -7,7 +7,7 @@ if __name__ == "__main__":
 
     parser = argparse.ArgumentParser(prog="Compose Cohen data")
 
-    parser.add_argument("subset")
+    parser.add_argument("--subset")
 
     args = parser.parse_args()
 
@@ -22,10 +22,18 @@ if __name__ == "__main__":
 
     # rename columns
     df.rename({"id": "pmid"}, axis=1, inplace=True)
+    df["pmid"] = "https://pubmed.ncbi.nlm.nih.gov/" + df["pmid"].astype(str)
     df["doi"] = None
     df["openalex_id"] = None
 
-    # save results to file
-    df[df["disease"] == args.subset][
-        ["pmid", "doi", "openalex_id", "label_included"]
-    ].to_csv(f"Cohen_2006_{args.subset}_ids.csv", index=False)
+    if args.subset:
+        # save results to file
+        df[df["disease"] == args.subset][
+            ["pmid", "doi", "openalex_id", "label_included"]
+        ].to_csv(f"Cohen_2006_{args.subset}_ids.csv", index=False)
+    else:
+
+        for subset in df["disease"].unique():
+            df[df["disease"] == subset][
+                ["pmid", "doi", "openalex_id", "label_included"]
+            ].to_csv(f"Cohen_2006_{subset}_ids.csv", index=False)
