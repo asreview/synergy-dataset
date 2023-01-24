@@ -385,3 +385,17 @@ version=0.1
 
   doi="https://osf.io/4d9tu/"
 
+
+[[datasets]]
+
+  key="Wolters_2018"
+
+  [datasets.publication]
+
+  doi= "10.1016/j.jalz.2018.01.007"
+
+  [datasets.data]
+
+  doi="https://osf.io/sxzjg/"
+
+
