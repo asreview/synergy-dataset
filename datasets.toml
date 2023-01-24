@@ -6,13 +6,9 @@ version=0.1
 
   [datasets.publication]
     doi= "10.1109/TSE.2011.103"
-    openalex= "W2151666086"
 
   [datasets.data]
         doi="10.5281/zenodo.1162952"
-
-  [datasets.scripts]
-
 
 [[datasets]]
   # Processes 1 dataset (https://osf.io/tnxju/)
@@ -22,14 +18,10 @@ version=0.1
   [datasets.publication]
 
   doi= "10.1007/s40262-021-01042-w"
-  openalex= "W3187789458"
 
   [datasets.data]
 
   doi="https://osf.io/tnxju/"
-
-  [datasets.scripts]
-
 
 [[datasets]]
 
@@ -38,14 +30,10 @@ version=0.1
   [datasets.publication]
 
   doi= "10.1007/s40259-021-00508-4"
-  openalex= "W4200279042"
 
   [datasets.data]
 
   doi="https://osf.io/4cdku/"
-
-  [datasets.scripts]
-
 [[datasets]]
 
   key="Valk_2021"
@@ -53,14 +41,10 @@ version=0.1
   [datasets.publication]
 
   doi= "10.1111/obr.13376"
-  openalex= "W3216502150"
 
   [datasets.data]
 
   doi="https://osf.io/download/gmjcv/"
-
-  [datasets.scripts]
-
 
 [[datasets]]
 
@@ -69,14 +53,10 @@ version=0.1
   [datasets.publication]
 
   doi= "10.1080/10705511.2019.1577140"
-  openalex= "W2944958851"
 
   [datasets.data]
 
   doi="https://osf.io/gxams"
-
-  [datasets.scripts]
-
 
 [[datasets]]
 
@@ -85,14 +65,10 @@ version=0.1
   [datasets.publication]
 
   doi= "10.1016/j.cpr.2019.101773"
-  openalex= "W2985119860"
 
   [datasets.data]
 
   doi="https://osf.io/py7ek"
-
-  [datasets.scripts]
-
 [[datasets]]
 
   key="Appenzeller-Herzog_2020"
@@ -100,14 +76,10 @@ version=0.1
   [datasets.publication]
 
   doi= "10.1111/liv.14179"
-  openalex= "W2949422680"
 
   [datasets.data]
 
   doi="https://doi.org/10.5281/zenodo.3625931"
-
-  [datasets.scripts]
-
 
 [[datasets]]
 
@@ -118,14 +90,10 @@ version=0.1
   [datasets.publication]
 
   doi= "10.1186/s13643-019-0942-7"
-  openalex= "W2910642642"
 
   [datasets.data]
 
   doi="https://doi.org/10.5281/zenodo.151190"
-
-  [datasets.scripts]
-
 
 [[datasets]]
 
@@ -134,14 +102,10 @@ version=0.1
   [datasets.publication]
 
   doi= "10.1016/j.jalz.2018.04.007"
-  openalex= "W2804868354"
 
   [datasets.data]
 
   doi="https://osf.io/w3kbq/"
-
-  [datasets.scripts]
-
 
 [[datasets]]
 
@@ -150,7 +114,6 @@ version=0.1
   [datasets.publication]
 
   doi= "10.1197/jamia.M1929"
-  openalex= "W168362576"
 
   [datasets.data]
 
@@ -166,7 +129,6 @@ version=0.1
   [datasets.publication]
 
   doi= "10.1197/jamia.M1929"
-  openalex= "W168362576"
 
   [datasets.data]
 
@@ -183,7 +145,6 @@ version=0.1
   [datasets.publication]
 
   doi= "10.1197/jamia.M1929"
-  openalex= "W168362576"
 
   [datasets.data]
 
@@ -200,7 +161,6 @@ version=0.1
   [datasets.publication]
 
   doi= "10.1197/jamia.M1929"
-  openalex= "W168362576"
 
   [datasets.data]
 
@@ -216,7 +176,6 @@ version=0.1
   [datasets.publication]
 
   doi= "10.1197/jamia.M1929"
-  openalex= "W168362576"
 
   [datasets.data]
 
@@ -233,7 +192,6 @@ version=0.1
   [datasets.publication]
 
   doi= "10.1197/jamia.M1929"
-  openalex= "W168362576"
 
   [datasets.data]
 
@@ -251,7 +209,6 @@ version=0.1
   [datasets.publication]
 
   doi= "10.1197/jamia.M1929"
-  openalex= "W168362576"
 
   [datasets.data]
 
@@ -267,7 +224,6 @@ version=0.1
   [datasets.publication]
 
   doi= "10.1197/jamia.M1929"
-  openalex= "W168362576"
 
   [datasets.data]
 
@@ -284,7 +240,6 @@ version=0.1
   [datasets.publication]
 
   doi= "10.1197/jamia.M1929"
-  openalex= "W168362576"
 
   [datasets.data]
 
@@ -302,7 +257,6 @@ version=0.1
   [datasets.publication]
 
   doi= "10.1197/jamia.M1929"
-  openalex= "W168362576"
 
   [datasets.data]
 
@@ -318,7 +272,6 @@ version=0.1
   [datasets.publication]
 
   doi= "10.1197/jamia.M1929"
-  openalex= "W168362576"
 
   [datasets.data]
 
@@ -335,7 +288,6 @@ version=0.1
   [datasets.publication]
 
   doi= "10.1197/jamia.M1929"
-  openalex= "W168362576"
 
   [datasets.data]
 
@@ -353,7 +305,6 @@ version=0.1
   [datasets.publication]
 
   doi= "10.1197/jamia.M1929"
-  openalex= "W168362576"
 
   [datasets.data]
 
@@ -369,7 +320,6 @@ version=0.1
   [datasets.publication]
 
   doi= "10.1197/jamia.M1929"
-  openalex= "W168362576"
 
   [datasets.data]
 
@@ -386,7 +336,6 @@ version=0.1
   [datasets.publication]
 
   doi= "10.1197/jamia.M1929"
-  openalex= "W168362576"
 
   [datasets.data]
 
