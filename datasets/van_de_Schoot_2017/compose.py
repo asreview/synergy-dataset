@@ -4,14 +4,14 @@ from asreview import ASReviewData
 key = "van_de_Schoot_2017"
 
 # load RIS into ASReviewData object
-asr_inclusions = ASReviewData.from_file("https://osf.io/xxx/download")
-asr_search = ASReviewData.from_file("https://osf.io/xxx/download")
+asr_inclusions = ASReviewData.from_file("https://osf.io/fg93a/download")
+asr_search = ASReviewData.from_file("https://osf.io/uvr8j/download")
 
 # set labels and turn into single dataframe
 asr_inclusions.df["label_included"] = 1
 asr_search.df["label_included"] = 0
 df = pd.concat([asr_inclusions.df, asr_search.df], ignore_index=True)
-df.drop_duplicates(inplace=True)
+# df.drop_duplicates(inplace=True)
 
 # adjust columns and drop missing and duplicate ids
 df["doi"] = "https://doi.org/" + df["doi"].str.extract(r"(10.\S+)")
