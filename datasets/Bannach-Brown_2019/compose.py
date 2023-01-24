@@ -13,11 +13,12 @@ df.columns = map(str.lower, df.columns)
 
 # adjust columns
 df["doi"] = None
+df["pmid"] = "https://pubmed.ncbi.nlm.nih.gov/" + df["url"].str.extract(r"gov\/pubmed\/(\d+)")
 
 # export
 df.to_csv(f"{key}_raw.csv", index=False)
 
-df_new = df[["doi", "label_included"]].copy()
+df_new = df[["doi", "pmid", "label_included"]].copy()
 df_new["openalex_id"] = None
 
-df_new[["doi", "openalex_id", "label_included"]].to_csv(f"{key}_ids.csv", index=False)
+df_new[["doi", "pmid", "openalex_id", "label_included"]].to_csv(f"{key}_ids.csv", index=False)

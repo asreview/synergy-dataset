@@ -119,7 +119,7 @@ if __name__ == '__main__':
         #             df.loc[index, "openalex_id"] = openalex_id
         #             sleep(1)
 
-        for id_type in ["doi"]:
+        for id_type in ["pmid", "doi"]:
             # Update works based on ID
             subset = df[id_type].notnull() & df["openalex_id"].isnull()
             doi, pmid, oaid = openalex_work_by_id(
