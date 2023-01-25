@@ -1,7 +1,7 @@
-import pandas as pd
-
-import requests
 import argparse
+
+import pandas as pd
+import requests
 
 if __name__ == "__main__":
 
