@@ -19,11 +19,12 @@ def main(key):
     print("Number of records in the list (before dedup)", len(df))
     print("Number of records with openalex_id", df["openalex_id"].notnull().sum())
 
-    result = df \
-        .dropna(subset="openalex_id", axis=0) \
-        .sort_values("label_included", ascending=False) \
-        .drop_duplicates("openalex_id") \
+    result = (
+        df.dropna(subset="openalex_id", axis=0)
+        .sort_values("label_included", ascending=False)
+        .drop_duplicates("openalex_id")
         .sort_index()
+    )
 
     print("Number of records after deduplication", len(result))
 
@@ -31,14 +32,16 @@ def main(key):
     result.to_csv(Path("..", "odss-release", key, f"{key}.csv"), index=False)
 
     # create zip
-    with ZipFile(Path("..", "odss-release", key, f"works.zip"), 'w', ZIP_DEFLATED) as zip_obj:
+    with ZipFile(
+        Path("..", "odss-release", key, f"works.zip"), "w", ZIP_DEFLATED
+    ) as zip_obj:
 
         x = 0
         while x < len(result):
 
-            works = Works()[result["openalex_id"].iloc[x:x+PAGE_SIZE].tolist()]
+            works = Works()[result["openalex_id"].iloc[x : x + PAGE_SIZE].tolist()]
 
-            r = (x, min(x+PAGE_SIZE, len(result)))
+            r = (x, min(x + PAGE_SIZE, len(result)))
 
             zip_obj.writestr(f"works_{r[0]}_{r[1]}.json", json.dumps(works))
 
@@ -73,16 +76,15 @@ def render_metadata(config):
 
     return
 
-if __name__ == '__main__':
+
+if __name__ == "__main__":
 
     parser = argparse.ArgumentParser(
-        prog = 'Build release metadata',
-        description = 'Lookup metadata via OpenAlex')
+        prog="Build release metadata", description="Lookup metadata via OpenAlex"
+    )
 
-    parser.add_argument('dataset_name')
+    parser.add_argument("dataset_name")
     args = parser.parse_args()
-
-
 
     with open("datasets.toml", mode="rb") as fp:
         config = tomli.load(fp)

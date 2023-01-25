@@ -1,7 +1,8 @@
-import numpy as np
-import pandas as pd
 from io import StringIO
 from pathlib import Path
+
+import numpy as np
+import pandas as pd
 import requests
 
 key = "Nagtegaal_2019"

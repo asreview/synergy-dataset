@@ -33,7 +33,17 @@ def search_title(title):
     elif len(r) > 1 and "title" in r[0] and r[0]["title"].lower() == title.lower():
         print("on title")
         return r[0]["doi"], r[0]["id"]
-    elif len(r) > 1 and len(list(filter(lambda x: "relevance_score" in x and x["relevance_score"] > 5000, r))) == 1:
+    elif (
+        len(r) > 1
+        and len(
+            list(
+                filter(
+                    lambda x: "relevance_score" in x and x["relevance_score"] > 5000, r
+                )
+            )
+        )
+        == 1
+    ):
         print("on relevance")
         return r[0]["doi"], r[0]["id"]
     else:
@@ -42,25 +52,31 @@ def search_title(title):
         return None, None
 
 
-def openalex_work_by_id(id_list, id_type='doi', page_length = 50, sleep_duration=0.5, mailto=None):
+def openalex_work_by_id(
+    id_list, id_type="doi", page_length=50, sleep_duration=0.5, mailto=None
+):
 
     id_list_notnull = [i for i in id_list if i is not None]
     results = {}
 
     print("Record lookup by ID")
     for page_start in range(0, len(id_list_notnull), page_length):
-        page = id_list_notnull[page_start: page_start+page_length]
+        page = id_list_notnull[page_start : page_start + page_length]
 
-        filt = {id_type:f"{'|'.join(map(str, page))}"}
+        filt = {id_type: f"{'|'.join(map(str, page))}"}
         res = Works().filter(**filt).get(per_page=page_length)
-        print("Found new records.")
+        print(f"Found {len(res)} new records.")
 
         for w in res:
             if id_type == "pmid":
                 if "pmid" in w["ids"]:
                     results[w["ids"]["pmid"]] = (w["doi"], w["ids"]["pmid"], w["id"])
             else:
-                results[w[id_type]] = (w["doi"], w["ids"]["pmid"] if "pmid" in w["ids"] else None, w["id"])
+                results[w[id_type]] = (
+                    w["doi"],
+                    w["ids"]["pmid"] if "pmid" in w["ids"] else None,
+                    w["id"],
+                )
 
         sleep(sleep_duration)
 
@@ -71,12 +87,18 @@ def openalex_work_by_id(id_list, id_type='doi', page_length = 50, sleep_duration
         try:
             doi = results[x][0]
         except KeyError:
-            doi = None
+            if id_type == "doi":
+                doi = x
+            else:
+                doi = None
 
         try:
             pmid = results[x][1]
         except KeyError:
-            pmid = None
+            if id_type == "pmid":
+                pmid = x
+            else:
+                pmid = None
 
         try:
             oaid = results[x][2]
@@ -85,26 +107,34 @@ def openalex_work_by_id(id_list, id_type='doi', page_length = 50, sleep_duration
 
         store.append((doi, pmid, oaid))
 
-    return list(map(lambda x: x[0], store)), list(map(lambda x: x[1], store)), list(map(lambda x: x[2], store))
+    return (
+        list(map(lambda x: x[0], store)),
+        list(map(lambda x: x[1], store)),
+        list(map(lambda x: x[2], store)),
+    )
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
 
     parser = argparse.ArgumentParser(
-        prog = 'Enrich metadata',
-        description = 'Lookup metadata via OpenAlex')
+        prog="Enrich metadata", description="Lookup metadata via OpenAlex"
+    )
 
-    parser.add_argument('dataset_name')
-    # parser.add_argument('-c', '--count')
-    # parser.add_argument('-v', '--verbose',
-    #                     action='store_true')  # on/off flag
-
+    parser.add_argument("collection")
+    parser.add_argument("-d", "--dataset_name")
     args = parser.parse_args()
 
+    if args.dataset_name is None:
+        fn = args.collection
+    else:
+        fn = args.dataset_name
 
-    df_raw = pd.read_csv(Path("datasets", args.dataset_name, f"{args.dataset_name}_raw.csv"))
-    df = pd.read_csv(
-        Path("datasets", args.dataset_name, f"{args.dataset_name}_ids.csv")    )
+    try:
+        df_raw = pd.read_csv(Path("datasets", args.collection, f"{fn}_raw.csv"))
+    except FileNotFoundError:
+        pass
+
+    df = pd.read_csv(Path("datasets", args.collection, f"{fn}_ids.csv"))
 
     try:
 
@@ -123,8 +153,7 @@ if __name__ == '__main__':
             # Update works based on ID
             subset = df[id_type].notnull() & df["openalex_id"].isnull()
             doi, pmid, oaid = openalex_work_by_id(
-                df[subset][id_type].tolist(),
-                id_type=id_type
+                df[subset][id_type].tolist(), id_type=id_type
             )
 
             df.loc[subset, "doi"] = doi
@@ -132,8 +161,7 @@ if __name__ == '__main__':
             if "pmid" in list(df):
                 df.loc[subset, "pmid"] = pmid
 
-
     except KeyboardInterrupt as err:
         print("Stop and write results so far.")
 
-    df.to_csv(Path("datasets", args.dataset_name, f"{args.dataset_name}_ids.csv"), index=False)
+    df.to_csv(Path("datasets", args.collection, f"{fn}_ids.csv"), index=False)

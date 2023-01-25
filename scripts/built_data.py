@@ -27,7 +27,7 @@ def iterworks(df):
     # return df
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
 
     # argparse.ArgumentParser()
     # argparse.
@@ -37,11 +37,13 @@ if __name__ == '__main__':
     for w in iterworks(df):
         w_oa = Work(w)
 
-        result.append({
-            "title": w_oa["title"],
-            "abstract": w_oa["abstract"],
-            "doi": w_oa["doi"],
-            "included": df.loc[w_oa["id"], "label_included"]
-        })
+        result.append(
+            {
+                "title": w_oa["title"],
+                "abstract": w_oa["abstract"],
+                "doi": w_oa["doi"],
+                "included": df.loc[w_oa["id"], "label_included"],
+            }
+        )
 
     print(pd.DataFrame(result))
