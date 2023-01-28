@@ -1,14 +1,58 @@
 version=0.1
 
+
+
 [[datasets]]
+
+  # Part of Yu et al. 2018 https://doi.org/10.1007/s10664-017-9587-0
 
   key="hall_2012"
 
   [datasets.publication]
-    doi= "10.1109/TSE.2011.103"
+  doi= "10.1109/TSE.2011.103"
 
   [datasets.data]
-        doi="10.5281/zenodo.1162952"
+  doi="10.5281/zenodo.1162952"
+
+
+[[datasets]]
+
+  # Part of Yu et al. 2018 https://doi.org/10.1007/s10664-017-9587-0
+
+  key="Wahono_2015"
+
+  [datasets.publication]
+  # http://journal.ilmukomputer.org/index.php?journal=jse&page=article&op=view&path%5B%5D=47
+  doi= ""
+
+  [datasets.data]
+  doi="10.5281/zenodo.1162952"
+
+
+[[datasets]]
+
+  # Part of Yu et al. 2018 https://doi.org/10.1007/s10664-017-9587-0
+
+  key="Radjenovic_2013"
+
+  [datasets.publication]
+  doi= "10.1016/j.infsof.2013.02.009"
+
+  [datasets.data]
+  doi="10.5281/zenodo.1162952"
+
+
+[[datasets]]
+
+  # Part of Yu et al. 2018 https://doi.org/10.1007/s10664-017-9587-0
+
+  key="Kitchenham_2010"
+
+  [datasets.publication]
+  doi= "10.1016/j.infsof.2010.03.006"
+
+  [datasets.data]
+  doi="10.5281/zenodo.1162952"
 
 [[datasets]]
   # Processes 1 dataset (https://osf.io/tnxju/)
