@@ -6,6 +6,7 @@ import pandas as pd
 import requests
 import argparse
 from pathlib import Path
+from glob import glob
 
 from time import sleep
 
@@ -120,48 +121,56 @@ if __name__ == "__main__":
         prog="Enrich metadata", description="Lookup metadata via OpenAlex"
     )
 
-    parser.add_argument("collection")
-    parser.add_argument("-d", "--dataset_name")
+    parser.add_argument(
+        "datasets",
+        nargs="*"
+    )
     args = parser.parse_args()
 
-    if args.dataset_name is None:
-        fn = args.collection
-    else:
-        fn = args.dataset_name
+    for dataset in args.datasets:
 
-    try:
-        df_raw = pd.read_csv(Path("datasets", args.collection, f"{fn}_raw.csv"))
-    except FileNotFoundError:
-        pass
+        for ds_glob in Path("datasets").glob("*/*_ids.csv"):
 
-    df = pd.read_csv(Path("datasets", args.collection, f"{fn}_ids.csv"))
+            if ds_glob.name == dataset + "_ids.csv":
 
-    try:
+                try:
+                    dataset_key = "_".join(ds_glob.stem.split("_")[0:-1])
+                    df_raw = pd.read_csv(Path(ds_glob.parent, f"{dataset_key}_raw.csv"))
+                except FileNotFoundError:
+                    pass
 
-        # if 0:
-        #     # Update dois
-        #     for index, row in df.iterrows():
+                df = pd.read_csv(ds_glob)
 
-        #         if pd.isnull(row["doi"]) and pd.isnull(row["openalex_id"]) and pd.notnull(df_raw.iloc[index]["title"]):
-        #             doi, openalex_id = search_title(df_raw.iloc[index]["title"])
-        #             print("Found new work for:", doi )
-        #             df.loc[index, "doi"] = doi
-        #             df.loc[index, "openalex_id"] = openalex_id
-        #             sleep(1)
+                try:
 
-        for id_type in ["pmid", "doi"]:
-            # Update works based on ID
-            subset = df[id_type].notnull() & df["openalex_id"].isnull()
-            doi, pmid, oaid = openalex_work_by_id(
-                df[subset][id_type].tolist(), id_type=id_type
-            )
+                    # if 0:
+                    #     # Update dois
+                    #     for index, row in df.iterrows():
 
-            df.loc[subset, "doi"] = doi
-            df.loc[subset, "openalex_id"] = oaid
-            if "pmid" in list(df):
-                df.loc[subset, "pmid"] = pmid
+                    #         if pd.isnull(row["doi"]) and pd.isnull(row["openalex_id"]) and pd.notnull(df_raw.iloc[index]["title"]):
+                    #             doi, openalex_id = search_title(df_raw.iloc[index]["title"])
+                    #             print("Found new work for:", doi )
+                    #             df.loc[index, "doi"] = doi
+                    #             df.loc[index, "openalex_id"] = openalex_id
+                    #             sleep(1)
 
-    except KeyboardInterrupt as err:
-        print("Stop and write results so far.")
+                    for id_type in ["pmid", "doi"]:
 
-    df.to_csv(Path("datasets", args.collection, f"{fn}_ids.csv"), index=False)
+                        if id_type not in list(df):
+                            continue
+
+                        # Update works based on ID
+                        subset = df[id_type].notnull() & df["openalex_id"].isnull()
+                        doi, pmid, oaid = openalex_work_by_id(
+                            df[subset][id_type].tolist(), id_type=id_type
+                        )
+
+                        df.loc[subset, "doi"] = doi
+                        df.loc[subset, "openalex_id"] = oaid
+                        if "pmid" in list(df):
+                            df.loc[subset, "pmid"] = pmid
+
+                except KeyboardInterrupt as err:
+                    print("Stop and write results so far.")
+
+                df.to_csv(ds_glob, index=False)
