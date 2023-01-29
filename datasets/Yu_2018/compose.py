@@ -92,7 +92,7 @@ if __name__ == '__main__':
     if args.subset == "Hall_2012":
         # df = pd.read_csv("https://zenodo.org/record/1162952/files/Hall.csv")
         # df.to_csv(f"{args.subset}_raw.csv", index=False)
-        df = pd.read_csv(f"unlabeled_raw.csv", index=0).head(100)
+        df = pd.read_csv(f"unlabeled_raw.csv", index_col=0).head(100)
 
         # df = pd.read_csv("https://zenodo.org/record/1162952/files/Wahono.csv")
         # df = pd.read_csv("https://zenodo.org/record/1162952/files/Radjenovic.csv", encoding="iso-8859-1")
