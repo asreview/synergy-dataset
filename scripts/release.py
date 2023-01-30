@@ -40,7 +40,7 @@ def package(input_fp, output_folder):
     print("Number of records after deduplication", len(result))
 
     Path(output_folder).mkdir(parents=True, exist_ok=True)
-    result.to_csv(Path(output_folder, "ids.csv"), index=False)
+    result.to_csv(Path(output_folder, "labels.csv"), index=False)
 
     # create zip
     with ZipFile(Path(output_folder, f"works.zip"), "w", ZIP_DEFLATED) as zip_obj:
@@ -57,44 +57,29 @@ def package(input_fp, output_folder):
             x += PAGE_SIZE
 
 
-def render_metadata(config):
+def render_metadata(dataset_config):
 
-    metadata = config
-    metadata_works = []
+    config = dataset_config.copy()
 
-    for i, dataset in enumerate(config["datasets"]):
+    try:
+        del config["scripts"]
+    except KeyError:
+        pass
 
-        try:
-            del metadata["datasets"][i]["scripts"]
-        except KeyError:
-            pass
+    try:
+        print("Metadata of", dataset["key"])
 
-        try:
-            print("Metadata of", dataset["key"])
+        w = Works()["doi:" + dataset["publication"]["doi"]]
 
-            w = Works()["doi:" + dataset["publication"]["doi"]]
-            metadata_works.append(dict(w))
+    except requests.exceptions.HTTPError as err:
+        print("ERROR with metadata of {}:".format(dataset["key"]), err)
 
-            metadata["datasets"][i]["publication"] = {
-                "openalex_id": w["id"],
-                "doi": w["doi"],
-                "title": w["title"],
-                "authors": "; ".join([x["author"]["display_name"] for x in w["authorships"]]),
-                "host_venue": w["host_venue"]["display_name"],
-                "publication_year": w["publication_year"]
-            }
+    #   "link": "http://doi.org/10.5281/zenodo.1162952",
+    #   "license": "CC-BY Attribution 4.0 International",
 
-        except requests.exceptions.HTTPError as err:
-            print("ERROR with metadata of {}:".format(dataset["key"]), err)
+    #   "topic": "Software Fault Prediction",
 
-        #   "link": "http://doi.org/10.5281/zenodo.1162952",
-        #   "license": "CC-BY Attribution 4.0 International",
-
-        #   "topic": "Software Fault Prediction",
-
-    # print(metadata_works)
-
-    return metadata, metadata_works
+    return config, dict(w)
 
 
 if __name__ == "__main__":
@@ -110,22 +95,24 @@ if __name__ == "__main__":
     with open("datasets.toml", "rb") as fp:
         config = tomli.load(fp)
 
-    if 1:
-        meta, works = render_metadata(config)
+    for dataset in config["datasets"]:
 
-        with open(Path("..", "odss-release", f"metadata.json"), "w") as f:
-            json.dump(meta, f, indent=2)
+        if dataset["key"] == args.dataset_name:
 
-        with open(Path("..", "odss-release", f"metadata_works.json"), "w") as f:
-            json.dump(works, f)
+            if 1:
+                meta, works = render_metadata(dataset)
 
-    # for dataset in config["datasets"]:
+                with open(Path("..", "odss-release", args.dataset_name, "metadata.json"), "w") as f:
+                    json.dump(meta, f, indent=2)
 
-    #     if dataset["key"] == args.dataset_name:
-    #         package(
-    #             Path("datasets", args.dataset_name, f"{args.dataset_name}_ids.csv"),
-    #             Path("..", "odss-release", "datasets", args.dataset_name)
-    #         )
-    #         break
-    # else:
-    #     raise ValueError(f"'{args.dataset_name}' not found.")
+                with open(Path("..", "odss-release", args.dataset_name, "metadata_works.json"), "w") as f:
+                    json.dump(works, f, indent=2)
+
+            if 1:
+                package(
+                    Path("datasets", args.dataset_name, f"{args.dataset_name}_ids.csv"),
+                    Path("..", "odss-release", args.dataset_name)
+                )
+            break
+    else:
+        raise ValueError(f"'{args.dataset_name}' not found.")
