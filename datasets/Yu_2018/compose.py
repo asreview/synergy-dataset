@@ -94,7 +94,7 @@ if __name__ == '__main__':
         # df.to_csv(f"{args.subset}_raw.csv", index=False)
         df = pd.read_csv(f"unlabeled_raw.csv", index_col=0).head(100)
 
-        # df = pd.read_csv("https://zenodo.org/record/1162952/files/Wahono.csv")
+        # df = pd.read_csv("https://zenodo.org/record/1162952/files/Wahono.csv")  # no metadata on publication
         # df = pd.read_csv("https://zenodo.org/record/1162952/files/Radjenovic.csv", encoding="iso-8859-1")
         # ZipFile(BytesIO(urlopen("https://zenodo.org/record/1162952/files/Kitchenham.zip").read())
 

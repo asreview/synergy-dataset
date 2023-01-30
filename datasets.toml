@@ -15,18 +15,19 @@ version=0.1
   doi="10.5281/zenodo.1162952"
 
 
-[[datasets]]
+# [[datasets]]
+# publication doesn't have DOI or OpenAlex reference
 
   # Part of Yu et al. 2018 https://doi.org/10.1007/s10664-017-9587-0
 
-  key="Wahono_2015"
+#  key="Wahono_2015"
 
-  [datasets.publication]
+#  [datasets.publication]
   # http://journal.ilmukomputer.org/index.php?journal=jse&page=article&op=view&path%5B%5D=47
-  doi= ""
+#  doi= ""
 
-  [datasets.data]
-  doi="10.5281/zenodo.1162952"
+#  [datasets.data]
+#  doi="10.5281/zenodo.1162952"
 
 
 [[datasets]]
@@ -215,11 +216,13 @@ version=0.1
 
 [[datasets]]
 
+  # Part of Cohen et al. 2006 https://doi.org/10.1197/jamia.M1929
+
   key="Cohen_2006_Estrogens"
 
   [datasets.publication]
 
-  doi= "10.1197/jamia.M1929"
+  doi= "10.1001/jama.288.7.872"
 
   [datasets.data]
 
@@ -231,11 +234,13 @@ version=0.1
 
 [[datasets]]
 
+  # Part of Cohen et al. 2006 https://doi.org/10.1197/jamia.M1929
+
   key="Cohen_2006_SkeletalMuscleRelaxants"
 
   [datasets.publication]
 
-  doi= "10.1197/jamia.M1929"
+  doi= "10.1016/j.jpainsymman.2004.05.002"
 
   [datasets.data]
 
@@ -311,11 +316,13 @@ version=0.1
 
 [[datasets]]
 
+  # Part of Cohen et al. 2006 https://doi.org/10.1197/jamia.M1929
+
   key="Cohen_2006_Opioids"
 
   [datasets.publication]
 
-  doi= "10.1197/jamia.M1929"
+  doi= "10.1016/j.jpainsymman.2003.03.003"
 
   [datasets.data]
 

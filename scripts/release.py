@@ -28,6 +28,12 @@ def package(input_fp, output_folder):
         .sort_index()
     )
 
+    n_records = result.shape[0]
+    n_records_label_included = result[result["label_included"] == 1].shape[0]
+
+    print(n_records)
+    print(n_records_label_included)
+
     if len(result) == 0:
         raise ValueError("No records in dataset after deduplication. Check dataset.")
 
@@ -97,7 +103,7 @@ if __name__ == "__main__":
         prog="Build release metadata", description="Lookup metadata via OpenAlex"
     )
 
-    parser.add_argument("dataset_name", default=None)
+    parser.add_argument("-d", "--dataset_name", default=None)
     # parser.add_argument("--meta")
     args = parser.parse_args()
 
@@ -113,13 +119,13 @@ if __name__ == "__main__":
         with open(Path("..", "odss-release", f"metadata_works.json"), "w") as f:
             json.dump(works, f)
 
-    for dataset in config["datasets"]:
+    # for dataset in config["datasets"]:
 
-        if dataset["key"] == args.dataset_name:
-            package(
-                Path("datasets", args.dataset_name, f"{args.dataset_name}_ids.csv"),
-                Path("..", "odss-release", "datasets", args.dataset_name)
-            )
-            break
-    else:
-        raise ValueError(f"'{args.dataset_name}' not found.")
+    #     if dataset["key"] == args.dataset_name:
+    #         package(
+    #             Path("datasets", args.dataset_name, f"{args.dataset_name}_ids.csv"),
+    #             Path("..", "odss-release", "datasets", args.dataset_name)
+    #         )
+    #         break
+    # else:
+    #     raise ValueError(f"'{args.dataset_name}' not found.")
