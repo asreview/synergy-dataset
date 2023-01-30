@@ -2,6 +2,7 @@ import pandas as pd
 from pathlib import Path
 import math
 import argparse
+from glob import glob
 
 import json
 import tomli
@@ -12,11 +13,30 @@ from zipfile import ZipFile, ZIP_DEFLATED
 
 PAGE_SIZE = 50
 
+def stats(dataset_name):
+
+    fps = list(glob(str(Path("datasets", "*", f"{dataset_name}_ids.csv"))))[0]
+
+    df = pd.read_csv(fps)
+
+    print("Number of records in the list (before dedup)", len(df))
+    print("Number of records with openalex_id", df["openalex_id"].notnull().sum())
+
+    result = (
+        df.dropna(subset="openalex_id", axis=0)
+        .sort_values("label_included", ascending=False)
+        .drop_duplicates("openalex_id")
+        .sort_index()
+    )
+
+    return result.shape[0], result[result["label_included"] == 1].shape[0]
 
 
-def package(input_fp, output_folder):
+def package(dataset_name, output_folder):
 
-    df = pd.read_csv(input_fp)
+    fps = list(glob(str(Path("datasets", "*", f"{dataset_name}_ids.csv"))))[0]
+
+    df = pd.read_csv(fps)
 
     print("Number of records in the list (before dedup)", len(df))
     print("Number of records with openalex_id", df["openalex_id"].notnull().sum())
@@ -58,6 +78,7 @@ def package(input_fp, output_folder):
 
 
 def render_metadata(dataset_config):
+    # Add license info?
 
     config = dataset_config.copy()
 
@@ -74,10 +95,9 @@ def render_metadata(dataset_config):
     except requests.exceptions.HTTPError as err:
         print("ERROR with metadata of {}:".format(dataset["key"]), err)
 
-    #   "link": "http://doi.org/10.5281/zenodo.1162952",
-    #   "license": "CC-BY Attribution 4.0 International",
-
-    #   "topic": "Software Fault Prediction",
+    n, n_included = stats(dataset["key"])
+    config["data"]["n_records"] = n
+    config["data"]["n_records_included"] = n_included
 
     return config, dict(w)
 
@@ -102,17 +122,17 @@ if __name__ == "__main__":
             if 1:
                 meta, works = render_metadata(dataset)
 
+                Path("..", "odss-release", args.dataset_name).mkdir(exist_ok=True, parents=True)
                 with open(Path("..", "odss-release", args.dataset_name, "metadata.json"), "w") as f:
                     json.dump(meta, f, indent=2)
 
                 with open(Path("..", "odss-release", args.dataset_name, "metadata_works.json"), "w") as f:
                     json.dump(works, f, indent=2)
 
-            if 1:
-                package(
-                    Path("datasets", args.dataset_name, f"{args.dataset_name}_ids.csv"),
-                    Path("..", "odss-release", args.dataset_name)
-                )
+            # if 1:
+            #     package(args.dataset_name,
+            #         Path("..", "odss-release", args.dataset_name)
+            #     )
             break
     else:
         raise ValueError(f"'{args.dataset_name}' not found.")

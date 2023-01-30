@@ -3,11 +3,14 @@ import argparse
 import pandas as pd
 import requests
 
+
+
 if __name__ == "__main__":
 
     parser = argparse.ArgumentParser(prog="Compose Cohen data")
 
-    parser.add_argument("--subset")
+    parser.add_argument("subset")
+    parser.add_argument("--name")
 
     args = parser.parse_args()
 
@@ -26,14 +29,9 @@ if __name__ == "__main__":
     df["doi"] = None
     df["openalex_id"] = None
 
-    if args.subset:
-        # save results to file
-        df[df["disease"] == args.subset][
-            ["pmid", "doi", "openalex_id", "label_included"]
-        ].to_csv(f"Cohen_2006_{args.subset}_ids.csv", index=False)
-    else:
+    export_fp = f"{args.name}_ids.csv" if args.name else f"Cohen_2006_{args.subset}_ids.csv"
 
-        for subset in df["disease"].unique():
-            df[df["disease"] == subset][
-                ["pmid", "doi", "openalex_id", "label_included"]
-            ].to_csv(f"Cohen_2006_{subset}_ids.csv", index=False)
+    # save results to file
+    df[df["disease"] == args.subset][
+        ["pmid", "doi", "openalex_id", "label_included"]
+    ].to_csv(export_fp, index=False)

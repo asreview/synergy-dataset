@@ -114,6 +114,7 @@ version=0.1
   [datasets.data]
 
   doi="https://osf.io/py7ek"
+
 [[datasets]]
 
   key="Appenzeller-Herzog_2020"
@@ -165,7 +166,7 @@ version=0.1
   doi="https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
 
   [datasets.scripts]
-  compose="datasets/Cohen_2006/compose.py ACEInhibitors"
+  compose="compose.py ACEInhibitors"
 
 [[datasets]]
 
@@ -180,7 +181,7 @@ version=0.1
   doi="https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
 
   [datasets.scripts]
-  compose="datasets/Cohen_2006/compose.py CalciumChannelBlockers"
+  compose="compose.py CalciumChannelBlockers"
 
 
 [[datasets]]
@@ -196,7 +197,7 @@ version=0.1
   doi="https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
 
   [datasets.scripts]
-  compose="datasets/Cohen_2006/compose.py ProtonPumpInhibitors"
+  compose="compose.py ProtonPumpInhibitors"
 
 
 [[datasets]]
@@ -212,13 +213,13 @@ version=0.1
   doi="https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
 
   [datasets.scripts]
-  compose="datasets/Cohen_2006/compose.py ADHD"
+  compose="compose.py ADHD"
 
 [[datasets]]
 
   # Part of Cohen et al. 2006 https://doi.org/10.1197/jamia.M1929
 
-  key="Cohen_2006_Estrogens"
+  key="Nelson_2002"
 
   [datasets.publication]
 
@@ -229,14 +230,14 @@ version=0.1
   doi="https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
 
   [datasets.scripts]
-  compose="datasets/Cohen_2006/compose.py Estrogens"
+  compose="compose.py Estrogens --name Nelson_2002"
 
 
 [[datasets]]
 
   # Part of Cohen et al. 2006 https://doi.org/10.1197/jamia.M1929
 
-  key="Cohen_2006_SkeletalMuscleRelaxants"
+  key="Chou_2004"
 
   [datasets.publication]
 
@@ -247,7 +248,7 @@ version=0.1
   doi="https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
 
   [datasets.scripts]
-  compose="datasets/Cohen_2006/compose.py SkeletalMuscleRelaxants"
+  compose="compose.py SkeletalMuscleRelaxants --name Chou_2004"
 
 
 
@@ -264,7 +265,7 @@ version=0.1
   doi="https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
 
   [datasets.scripts]
-  compose="datasets/Cohen_2006/compose.py Antihistamines"
+  compose="compose.py Antihistamines"
 
 [[datasets]]
 
@@ -279,7 +280,7 @@ version=0.1
   doi="https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
 
   [datasets.scripts]
-  compose="datasets/Cohen_2006/compose.py NSAIDS"
+  compose="compose.py NSAIDS"
 
 
 [[datasets]]
@@ -295,7 +296,7 @@ version=0.1
   doi="https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
 
   [datasets.scripts]
-  compose="datasets/Cohen_2006/compose.py Statins"
+  compose="compose.py Statins"
 
 
 
@@ -312,13 +313,13 @@ version=0.1
   doi="https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
 
   [datasets.scripts]
-  compose="datasets/Cohen_2006/compose.py AtypicalAntipsychotics"
+  compose="compose.py AtypicalAntipsychotics"
 
 [[datasets]]
 
   # Part of Cohen et al. 2006 https://doi.org/10.1197/jamia.M1929
 
-  key="Cohen_2006_Opioids"
+  key="Chou_2003"
 
   [datasets.publication]
 
@@ -329,7 +330,7 @@ version=0.1
   doi="https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
 
   [datasets.scripts]
-  compose="datasets/Cohen_2006/compose.py Opioids"
+  compose="compose.py Opioids --name Chou_2003"
 
 
 [[datasets]]
@@ -345,7 +346,7 @@ version=0.1
   doi="https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
 
   [datasets.scripts]
-  compose="datasets/Cohen_2006/compose.py Triptans"
+  compose="compose.py Triptans"
 
 
 
@@ -362,7 +363,7 @@ version=0.1
   doi="https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
 
   [datasets.scripts]
-  compose="datasets/Cohen_2006/compose.py BetaBlockers"
+  compose="compose.py BetaBlockers"
 
 [[datasets]]
 
@@ -377,7 +378,7 @@ version=0.1
   doi="https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
 
   [datasets.scripts]
-  compose="datasets/Cohen_2006/compose.py OralHypoglycemics"
+  compose="compose.py OralHypoglycemics"
 
 
 [[datasets]]
@@ -393,7 +394,7 @@ version=0.1
   doi="https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
 
   [datasets.scripts]
-  compose="datasets/Cohen_2006/compose.py UrinaryIncontinence"
+  compose="compose.py UrinaryIncontinence"
 
 [[datasets]]
 
