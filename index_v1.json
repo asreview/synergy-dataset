@@ -363,7 +363,7 @@
     "topic": "Software Fault Prediction",
     "final_inclusions": true,
     "title_abstract_inclusions": false,
-    "img_url": "https://raw.githubusercontent.com/asreview/asreview/master/images/softwareengineering.png",
+    "img_url": "https://raw.githubusercontent.com/asreview/asreview/metadata-v1-final/images/softwareengineering.png",
     "filepath": "https://raw.githubusercontent.com/asreview/systematic-review-datasets/metadata-v1-final/datasets/Hall_Wahono_Radjenovic_Kitchenham/output/Hall_2012.csv"
   },
   "Kitchenham_2010": {
@@ -385,7 +385,7 @@
     "topic": "Software Engineering",
     "final_inclusions": true,
     "title_abstract_inclusions": false,
-    "img_url": "https://raw.githubusercontent.com/asreview/asreview/master/images/softwareengineering.png",
+    "img_url": "https://raw.githubusercontent.com/asreview/asreview/metadata-v1-final/images/softwareengineering.png",
     "filepath": "https://raw.githubusercontent.com/asreview/systematic-review-datasets/metadata-v1-final/datasets/Hall_Wahono_Radjenovic_Kitchenham/output/Kitchenham_2010.csv"
   },
   "Kwok_2020": {
@@ -440,7 +440,7 @@
     "topic": "Software Fault Prediction",
     "final_inclusions": true,
     "title_abstract_inclusions": false,
-    "img_url": "https://raw.githubusercontent.com/asreview/asreview/master/images/softwareengineering.png",
+    "img_url": "https://raw.githubusercontent.com/asreview/asreview/metadata-v1-final/images/softwareengineering.png",
     "filepath": "https://raw.githubusercontent.com/asreview/systematic-review-datasets/metadata-v1-final/datasets/Hall_Wahono_Radjenovic_Kitchenham/output/Radjenovic_2013.csv"
   },
   "Wahono_2015": {
@@ -456,7 +456,7 @@
     "topic": "Software Defect Detection",
     "final_inclusions": true,
     "title_abstract_inclusions": false,
-    "img_url": "https://raw.githubusercontent.com/asreview/asreview/master/images/softwareengineering.png",
+    "img_url": "https://raw.githubusercontent.com/asreview/asreview/metadata-v1-final/images/softwareengineering.png",
     "filepath": "https://raw.githubusercontent.com/asreview/systematic-review-datasets/metadata-v1-final/datasets/Hall_Wahono_Radjenovic_Kitchenham/output/Wahono_2015.csv"
   },
   "Wolters_2018": {
@@ -516,7 +516,7 @@
     "topic": "PTSD Trajectories",
     "final_inclusions": true,
     "title_abstract_inclusions": true,
-    "img_url": "https://raw.githubusercontent.com/asreview/asreview/master/images/ptsd.png",
+    "img_url": "https://raw.githubusercontent.com/asreview/asreview/metadata-v1-final/images/ptsd.png",
     "filepath": "https://raw.githubusercontent.com/asreview/systematic-review-datasets/metadata-v1-final/datasets/van_de_Schoot_2017/output/van_de_Schoot_2017.csv"
   }
 }

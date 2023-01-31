@@ -382,7 +382,7 @@
     "topic": "Software Fault Prediction",
     "final_inclusions": true,
     "title_abstract_inclusions": false,
-    "img_url": "https://raw.githubusercontent.com/asreview/asreview/master/images/softwareengineering.png",
+    "img_url": "https://raw.githubusercontent.com/asreview/asreview/metadata-v1-final/images/softwareengineering.png",
     "type": "base"
   },
   "Kitchenham_2010": {
@@ -405,7 +405,7 @@
     "topic": "Software Engineering",
     "final_inclusions": true,
     "title_abstract_inclusions": false,
-    "img_url": "https://raw.githubusercontent.com/asreview/asreview/master/images/softwareengineering.png",
+    "img_url": "https://raw.githubusercontent.com/asreview/asreview/metadata-v1-final/images/softwareengineering.png",
     "type": "base"
   },
   "Kwok_2020": {
@@ -463,7 +463,7 @@
     "topic": "Software Fault Prediction",
     "final_inclusions": true,
     "title_abstract_inclusions": false,
-    "img_url": "https://raw.githubusercontent.com/asreview/asreview/master/images/softwareengineering.png",
+    "img_url": "https://raw.githubusercontent.com/asreview/asreview/metadata-v1-final/images/softwareengineering.png",
     "type": "base"
   },
   "Wahono_2015": {
@@ -480,7 +480,7 @@
     "topic": "Software Defect Detection",
     "final_inclusions": true,
     "title_abstract_inclusions": false,
-    "img_url": "https://raw.githubusercontent.com/asreview/asreview/master/images/softwareengineering.png",
+    "img_url": "https://raw.githubusercontent.com/asreview/asreview/metadata-v1-final/images/softwareengineering.png",
     "type": "base"
   },
   "Wolters_2018": {
@@ -543,7 +543,7 @@
     "topic": "PTSD Trajectories",
     "final_inclusions": true,
     "title_abstract_inclusions": true,
-    "img_url": "https://raw.githubusercontent.com/asreview/asreview/master/images/ptsd.png",
+    "img_url": "https://raw.githubusercontent.com/asreview/asreview/metadata-v1-final/images/ptsd.png",
     "type": "base"
   }
 }
