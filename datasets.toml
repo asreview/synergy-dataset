@@ -15,19 +15,20 @@ version=0.1
   doi="10.5281/zenodo.1162952"
 
 
-# [[datasets]]
-# publication doesn't have DOI or OpenAlex reference
+[[datasets]]
+  # publication doesn't have DOI or OpenAlex reference
 
   # Part of Yu et al. 2018 https://doi.org/10.1007/s10664-017-9587-0
 
-#  key="Wahono_2015"
+ key="Wahono_2015"
+ active=false
 
-#  [datasets.publication]
+ [datasets.publication]
   # http://journal.ilmukomputer.org/index.php?journal=jse&page=article&op=view&path%5B%5D=47
-#  doi= ""
+ doi= ""
 
-#  [datasets.data]
-#  doi="10.5281/zenodo.1162952"
+ [datasets.data]
+ doi="10.5281/zenodo.1162952"
 
 
 [[datasets]]
