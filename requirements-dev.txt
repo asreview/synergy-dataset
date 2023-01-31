@@ -1,5 +1,0 @@
-pandas
-requests
-tabulate
-asreview<1
-asreview-statistics
