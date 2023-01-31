@@ -90,16 +90,21 @@ if __name__ == '__main__':
     args = parser.parse_args()
 
     if args.subset == "Hall_2012":
-        # df = pd.read_csv("https://zenodo.org/record/1162952/files/Hall.csv")
-        # df.to_csv(f"{args.subset}_raw.csv", index=False)
-        df = pd.read_csv(f"unlabeled_raw.csv", index_col=0).head(100)
+        df = pd.read_csv("https://zenodo.org/record/1162952/files/Hall.csv")
 
-        # df = pd.read_csv("https://zenodo.org/record/1162952/files/Wahono.csv")  # no metadata on publication
-        # df = pd.read_csv("https://zenodo.org/record/1162952/files/Radjenovic.csv", encoding="iso-8859-1")
-        # ZipFile(BytesIO(urlopen("https://zenodo.org/record/1162952/files/Kitchenham.zip").read())
+    if args.subset == "Radjenovic_2013":
+        df = pd.read_csv("https://zenodo.org/record/1162952/files/Radjenovic.csv", encoding="iso-8859-1")
+
+    if args.subset == "Kitchenham_2010":
+        ZipFile(BytesIO(urlopen("https://zenodo.org/record/1162952/files/Kitchenham.zip").read())
+        # df = pd.read_csv()
+
+    if args.subset == "Wahono_2015":
+        df = pd.read_csv("https://zenodo.org/record/1162952/files/Wahono.csv")  # no metadata on publication
+
+    df.to_csv(f"{args.subset}_raw.csv", index=False)
 
     df[["doi", "openalex_id"]] = df.apply(get_doi, axis=1, result_type="expand")
     df["label_included"] = np.where(df["label"] == "yes", 1, 0)
     print(df[["doi", "openalex_id", "label_included"]])
-    # df[["doi", "openalex_id", "label_included"]].to_csv(f"{args.subset}_ids.csv", index=False)
-    df[["doi", "openalex_id", "label_included"]].to_csv(f"unlabeled_ids.csv", index=True)
+    df[["doi", "openalex_id", "label_included"]].to_csv(f"{args.subset}_ids.csv", index=False)
