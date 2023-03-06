@@ -9,10 +9,15 @@ from pathlib import Path
 from glob import glob
 import unicodedata
 import urllib.parse
+import tomli
+
 
 from time import sleep
 
+import pyalex
 from pyalex import Works
+
+pyalex.config.email = "asreview@uu.nl"
 
 
 def find_work_for_doi(doi):
@@ -158,7 +163,7 @@ if __name__ == "__main__":
         prog="Enrich metadata", description="Lookup metadata via OpenAlex"
     )
     parser.add_argument(
-        "datasets",
+        "dataset_name",
         nargs="*"
     )
     parser.add_argument(
@@ -166,60 +171,64 @@ if __name__ == "__main__":
     )
     args = parser.parse_args()
 
-    for dataset in args.datasets:
+    # read the config file
+    with open("datasets.toml", "rb") as fp:
+        config = tomli.load(fp)
 
-        for ds_glob in Path("datasets").glob("*/*_ids.csv"):
+    for dataset in config["datasets"]:
 
-            if ds_glob.name == dataset + "_ids.csv":
+        if dataset["key"] in args.dataset_name:
 
-                try:
-                    dataset_key = "_".join(ds_glob.stem.split("_")[0:-1])
-                    df_raw = pd.read_csv(Path(ds_glob.parent, f"{dataset_key}_raw.csv"))
-                except FileNotFoundError:
-                    pass
+            ds_glob = Path(list(glob(str(Path("datasets", "*", f"{dataset['key']}_ids.csv"))))[0])
+            df = pd.read_csv(ds_glob)
 
-                df = pd.read_csv(ds_glob)
+            try:
 
-                try:
+                for id_type in ["pmid", "doi"]:
 
-                    for id_type in ["pmid", "doi"]:
+                    if id_type not in list(df):
+                        continue
 
-                        if id_type not in list(df):
-                            continue
+                    # Update works based on ID
+                    subset = df[id_type].notnull() & df["openalex_id"].isnull()
+                    doi, pmid, oaid = openalex_work_by_id(
+                        df[subset][id_type].tolist(), id_type=id_type
+                    )
 
-                        # Update works based on ID
-                        subset = df[id_type].notnull() & df["openalex_id"].isnull()
-                        doi, pmid, oaid = openalex_work_by_id(
-                            df[subset][id_type].tolist(), id_type=id_type
-                        )
+                    df.loc[subset, "doi"] = doi
+                    df.loc[subset, "openalex_id"] = oaid
+                    if "pmid" in list(df):
+                        df.loc[subset, "pmid"] = pmid
 
-                        df.loc[subset, "doi"] = doi
-                        df.loc[subset, "openalex_id"] = oaid
-                        if "pmid" in list(df):
-                            df.loc[subset, "pmid"] = pmid
+                    # add the collection method
+                    if "method" not in list(df):
+                        df["method"] = None
+                    df.loc[subset, "method"] = [f"id_retrieval_{id_type}" if x else None for x in oaid]
 
-                        # add the collection method
-                        if "method" not in list(df):
-                            df["method"] = None
-                        df.loc[subset, "method"] = [f"id_retrieval_{id_type}" if x else None for x in oaid]
+                if args.title_search:
 
-                    if args.title_search:
+                    try:
+                        dataset_key = "_".join(ds_glob.stem.split("_")[0:-1])
+                        df_raw = pd.read_csv(Path(ds_glob.parent, f"{dataset_key}_raw.csv"))
+                    except FileNotFoundError:
+                        # no title search possible as there is no raw file
+                        continue
 
-                        # Update dois from title
-                        for index, row in df.iterrows():
+                    # Update dois from title
+                    for index, row in df.iterrows():
 
-                            if pd.isnull(row["openalex_id"]) and pd.notnull(df_raw.iloc[index]["title"]):
-                                doi, openalex_id = search_title(df_raw.iloc[index]["title"])
+                        if pd.isnull(row["openalex_id"]) and pd.notnull(df_raw.iloc[index]["title"]):
+                            doi, openalex_id = search_title(df_raw.iloc[index]["title"])
 
-                                if openalex_id:
-                                    print("Found new work for:", doi)
-                                    df.loc[index, "openalex_id"] = openalex_id
-                                if doi:
-                                    df.loc[index, "doi"] = doi
-                                if openalex_id:
-                                    df.loc[index, "method"] = "search_title"
+                            if openalex_id:
+                                print("Found new work for:", doi)
+                                df.loc[index, "openalex_id"] = openalex_id
+                            if doi:
+                                df.loc[index, "doi"] = doi
+                            if openalex_id:
+                                df.loc[index, "method"] = "search_title"
 
-                except KeyboardInterrupt as err:
-                    print("Stop and write results so far.")
+            except KeyboardInterrupt as err:
+                print("Stop and write results so far.")
 
-                df.to_csv(ds_glob, index=False)
+            df.to_csv(ds_glob, index=False)
