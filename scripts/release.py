@@ -7,29 +7,23 @@ from glob import glob
 import json
 import tomli
 import requests
+import numpy as np
 
+import pyalex
 from pyalex import Works
 from zipfile import ZipFile, ZIP_DEFLATED
 
-PAGE_SIZE = 50
+PAGE_SIZE = 25
+pyalex.config.email = "asreview@uu.nl"
 
-def stats(dataset_name):
+SEED = 535
 
-    fps = list(glob(str(Path("datasets", "*", f"{dataset_name}_ids.csv"))))[0]
 
-    df = pd.read_csv(fps)
+def stats(labels_path):
 
-    print("Number of records in the list (before dedup)", len(df))
-    print("Number of records with openalex_id", df["openalex_id"].notnull().sum())
+    df = pd.read_csv(labels_path)
 
-    result = (
-        df.dropna(subset="openalex_id", axis=0)
-        .sort_values("label_included", ascending=False)
-        .drop_duplicates("openalex_id")
-        .sort_index()
-    )
-
-    return result.shape[0], result[result["label_included"] == 1].shape[0]
+    return df.shape[0], df[df["label_included"] == 1].shape[0]
 
 
 def package(dataset_name, output_folder):
@@ -38,21 +32,25 @@ def package(dataset_name, output_folder):
 
     df = pd.read_csv(fps)
 
-    print("Number of records in the list (before dedup)", len(df))
+    print("Number of records in the list", len(df))
     print("Number of records with openalex_id", df["openalex_id"].notnull().sum())
 
+    print(df["label_included"].sum())
+
+    # add order
+    np.random.seed(SEED)
+    order_rows = np.arange(len(df))
+    np.random.shuffle(order_rows)
+    df["order"] = order_rows
+
     result = (
-        df.dropna(subset="openalex_id", axis=0)
-        .sort_values("label_included", ascending=False)
+        df.sort_values("label_included", ascending=False)
+        .dropna(subset="openalex_id", axis=0)
         .drop_duplicates("openalex_id")
-        .sort_index()
+        .sort_values("order")
     )
 
-    n_records = result.shape[0]
-    n_records_label_included = result[result["label_included"] == 1].shape[0]
-
-    print(n_records)
-    print(n_records_label_included)
+    result = result[["openalex_id", "doi", "pmid", "label_included"]]
 
     if len(result) == 0:
         raise ValueError("No records in dataset after deduplication. Check dataset.")
@@ -77,7 +75,7 @@ def package(dataset_name, output_folder):
             x += PAGE_SIZE
 
 
-def render_metadata(dataset_config):
+def render_metadata(dataset_config, labels_path):
     # Add license info?
 
     config = dataset_config.copy()
@@ -95,7 +93,7 @@ def render_metadata(dataset_config):
     except requests.exceptions.HTTPError as err:
         print("ERROR with metadata of {}:".format(dataset["key"]), err)
 
-    n, n_included = stats(dataset["key"])
+    n, n_included = stats(labels_path)
     config["data"]["n_records"] = n
     config["data"]["n_records_included"] = n_included
 
@@ -119,20 +117,21 @@ if __name__ == "__main__":
 
         if dataset["key"] == args.dataset_name:
 
-            if 1:
-                meta, works = render_metadata(dataset)
+            output_path = Path("..", "odss-release", args.dataset_name)
+            output_path.mkdir(exist_ok=True, parents=True)
 
-                Path("..", "odss-release", args.dataset_name).mkdir(exist_ok=True, parents=True)
-                with open(Path("..", "odss-release", args.dataset_name, "metadata.json"), "w") as f:
+            if 1:
+                package(args.dataset_name, output_path)
+
+            if 1:
+                meta, works = render_metadata(dataset, Path(output_path, "labels.csv"))
+
+                with open(Path(output_path, "metadata.json"), "w") as f:
                     json.dump(meta, f, indent=2)
 
-                with open(Path("..", "odss-release", args.dataset_name, "metadata_works.json"), "w") as f:
+                with open(Path(output_path, "publication_metadata.json"), "w") as f:
                     json.dump(works, f, indent=2)
 
-            # if 1:
-            #     package(args.dataset_name,
-            #         Path("..", "odss-release", args.dataset_name)
-            #     )
             break
     else:
         raise ValueError(f"'{args.dataset_name}' not found.")
