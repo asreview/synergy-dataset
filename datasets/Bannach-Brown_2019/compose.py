@@ -12,7 +12,7 @@ df.rename(
 df.columns = map(str.lower, df.columns)
 
 # adjust columns
-df["doi"] = None
+df["doi"] = "https://doi.org/" + df["url"].str.extract(r"(10.\S+)")
 df["pmid"] = "https://pubmed.ncbi.nlm.nih.gov/" + df["url"].str.extract(r"gov\/pubmed\/(\d+)")
 
 # export
