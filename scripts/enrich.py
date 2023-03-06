@@ -1,12 +1,14 @@
 #
 #
-# python scripts/enrich.py Meijboom_2022
+# python scripts/enrich.py Meijboom_2022 --title-search
 
 import pandas as pd
 import requests
 import argparse
 from pathlib import Path
 from glob import glob
+import unicodedata
+import urllib.parse
 
 from time import sleep
 
@@ -22,39 +24,71 @@ def find_work_for_doi(doi):
         return None
 
 
+def compare_titles(s1, s2):
+
+    # print(compare_titles("Test & orčpžsíáýd", "Testorcpzsiayd"))
+
+    s1_uni = unicodedata.normalize("NFKD", s1).lower()
+    s2_uni = unicodedata.normalize("NFKD", s2).lower()
+
+    s1_clean = "".join(i for i in s1_uni if i.isalnum())
+    s2_clean = "".join(i for i in s2_uni if i.isalnum())
+
+    return s1_clean == s2_clean
+
+
+def compare_year(y1, y2):
+
+    return y1 == y2
+
+
+def clean_doi(s):
+
+    if not s:
+        return s
+
+    return urllib.parse.unquote(s.lower())
+
+
 def search_title(title):
 
     r, m = Works().search(title).get(return_meta=True)
-    print(title)
-    print("\n\n")
 
-    if len(r) == 1:
-        print("Single hit: count==1")
-        return r[0]["doi"], r[0]["id"]
-    elif len(r) > 1 and "title" in r[0] and r[0]["title"].lower() == title.lower():
-        print("on title")
-        return r[0]["doi"], r[0]["id"]
-    elif (
-        len(r) > 1
-        and len(
-            list(
-                filter(
-                    lambda x: "relevance_score" in x and x["relevance_score"] > 5000, r
-                )
-            )
-        )
-        == 1
-    ):
-        print("on relevance")
-        return r[0]["doi"], r[0]["id"]
-    else:
+    matches = []
+    for work in r:
+        if "title" in work and work["title"] and title and compare_titles(work["title"], title):
+            matches.append(work)
 
-        print("Multiple results", m["count"])
-        return None, None
+    print(title, len(matches))
+    if len(matches) == 1:
+        return matches[0]["doi"], matches[0]["id"]
+
+    # if len(r) == 1:
+    #     print("Single hit: count==1")
+    #     return r[0]["doi"], r[0]["id"]
+    # elif len(r) > 1 and "title" in r[0] and compare_titles(r[0]["title"], title):
+    #     print("on title")
+    #     return r[0]["doi"], r[0]["id"]
+    # elif (
+    #     len(r) > 1
+    #     and len(
+    #         list(
+    #             filter(
+    #                 lambda x: "relevance_score" in x and x["relevance_score"] > 5000, r
+    #             )
+    #         )
+    #     )
+    #     == 1
+    # ):
+    #     print("on relevance")
+    #     return r[0]["doi"], r[0]["id"]
+    # else:
+
+    return None, None
 
 
 def openalex_work_by_id(
-    id_list, id_type="doi", page_length=50, sleep_duration=0.5, mailto=None
+    id_list, id_type="doi", page_length=50, sleep_duration=0, mailto=None
 ):
 
     id_list_notnull = [i for i in id_list if i is not None]
@@ -72,12 +106,14 @@ def openalex_work_by_id(
             if id_type == "pmid":
                 if "pmid" in w["ids"]:
                     results[w["ids"]["pmid"]] = (w["doi"], w["ids"]["pmid"], w["id"])
-            else:
+            elif id_type == "doi":
                 results[w[id_type]] = (
                     w["doi"],
                     w["ids"]["pmid"] if "pmid" in w["ids"] else None,
                     w["id"],
                 )
+            else:
+                raise ValueError("Id type not found.")
 
         sleep(sleep_duration)
 
@@ -86,7 +122,8 @@ def openalex_work_by_id(
     for x in id_list:
 
         try:
-            doi = results[x][0]
+            doi = results[clean_doi(x)][0]
+
         except KeyError:
             if id_type == "doi":
                 doi = x
@@ -94,7 +131,7 @@ def openalex_work_by_id(
                 doi = None
 
         try:
-            pmid = results[x][1]
+            pmid = results[clean_doi(x)][1]
         except KeyError:
             if id_type == "pmid":
                 pmid = x
@@ -102,7 +139,7 @@ def openalex_work_by_id(
                 pmid = None
 
         try:
-            oaid = results[x][2]
+            oaid = results[clean_doi(x)][2]
         except KeyError:
             oaid = None
 
@@ -120,10 +157,12 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(
         prog="Enrich metadata", description="Lookup metadata via OpenAlex"
     )
-
     parser.add_argument(
         "datasets",
         nargs="*"
+    )
+    parser.add_argument(
+        "--title-search", action="store_true",
     )
     args = parser.parse_args()
 
@@ -143,17 +182,6 @@ if __name__ == "__main__":
 
                 try:
 
-                    # if 0:
-                    #     # Update dois
-                    #     for index, row in df.iterrows():
-
-                    #         if pd.isnull(row["doi"]) and pd.isnull(row["openalex_id"]) and pd.notnull(df_raw.iloc[index]["title"]):
-                    #             doi, openalex_id = search_title(df_raw.iloc[index]["title"])
-                    #             print("Found new work for:", doi )
-                    #             df.loc[index, "doi"] = doi
-                    #             df.loc[index, "openalex_id"] = openalex_id
-                    #             sleep(1)
-
                     for id_type in ["pmid", "doi"]:
 
                         if id_type not in list(df):
@@ -169,6 +197,27 @@ if __name__ == "__main__":
                         df.loc[subset, "openalex_id"] = oaid
                         if "pmid" in list(df):
                             df.loc[subset, "pmid"] = pmid
+
+                        # add the collection method
+                        if "method" not in list(df):
+                            df["method"] = None
+                        df.loc[subset, "method"] = [f"id_retrieval_{id_type}" if x else None for x in oaid]
+
+                    if args.title_search:
+
+                        # Update dois from title
+                        for index, row in df.iterrows():
+
+                            if pd.isnull(row["openalex_id"]) and pd.notnull(df_raw.iloc[index]["title"]):
+                                doi, openalex_id = search_title(df_raw.iloc[index]["title"])
+
+                                if openalex_id:
+                                    print("Found new work for:", doi)
+                                    df.loc[index, "openalex_id"] = openalex_id
+                                if doi:
+                                    df.loc[index, "doi"] = doi
+                                if openalex_id:
+                                    df.loc[index, "method"] = "search_title"
 
                 except KeyboardInterrupt as err:
                     print("Stop and write results so far.")
