@@ -1,0 +1,1382 @@
+{
+  "id": "https://openalex.org/W4200279042",
+  "doi": "https://doi.org/10.1007/s40259-021-00508-4",
+  "title": "Patients Retransitioning from Biosimilar TNF\u03b1 Inhibitor to the Corresponding Originator After Initial Transitioning to the Biosimilar: A Systematic Review",
+  "display_name": "Patients Retransitioning from Biosimilar TNF\u03b1 Inhibitor to the Corresponding Originator After Initial Transitioning to the Biosimilar: A Systematic Review",
+  "publication_year": 2021,
+  "publication_date": "2021-12-06",
+  "ids": {
+    "openalex": "https://openalex.org/W4200279042",
+    "doi": "https://doi.org/10.1007/s40259-021-00508-4",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/34870802"
+  },
+  "primary_location": {
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1007/s40259-021-00508-4",
+    "pdf_url": "https://link.springer.com/content/pdf/10.1007/s40259-021-00508-4.pdf",
+    "source": {
+      "id": "https://openalex.org/S143194599",
+      "display_name": "BioDrugs",
+      "issn_l": "1173-8804",
+      "issn": [
+        "1173-8804",
+        "1179-190X"
+      ],
+      "host_organization": "https://openalex.org/P4310320330",
+      "type": "journal"
+    },
+    "license": "cc-by-nc",
+    "version": "publishedVersion"
+  },
+  "host_venue": {
+    "id": "https://openalex.org/S143194599",
+    "issn_l": "1173-8804",
+    "issn": [
+      "1173-8804",
+      "1179-190X"
+    ],
+    "display_name": "BioDrugs",
+    "publisher": "Adis, Springer Healthcare",
+    "type": "journal",
+    "url": "https://link.springer.com/content/pdf/10.1007/s40259-021-00508-4.pdf",
+    "is_oa": true,
+    "version": "publishedVersion",
+    "license": "cc-by-nc"
+  },
+  "type": "journal-article",
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "hybrid",
+    "oa_url": "https://link.springer.com/content/pdf/10.1007/s40259-021-00508-4.pdf"
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A3002141119",
+        "display_name": "Rosanne W. Meijboom",
+        "orcid": "https://orcid.org/0000-0002-7370-0695"
+      },
+      "institutions": [
+        {
+          "id": null,
+          "display_name": "Pharmacy Foundation of Haarlem Hospitals",
+          "ror": null,
+          "country_code": null,
+          "type": null
+        },
+        {
+          "id": null,
+          "display_name": "Pharmacy Foundation of Haarlem Hospitals, Haarlem, The Netherlands.",
+          "ror": null,
+          "country_code": null,
+          "type": null
+        }
+      ],
+      "raw_affiliation_string": "Pharmacy Foundation of Haarlem Hospitals; Pharmacy Foundation of Haarlem Hospitals, Haarlem, The Netherlands."
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A2111064082",
+        "display_name": "Helga Gardarsdottir",
+        "orcid": "https://orcid.org/0000-0001-5623-9684"
+      },
+      "institutions": [
+        {
+          "id": null,
+          "display_name": "Division of Pharmacoepidemiology and Clinical Pharmacology, Utrecht Institute for Pharmaceutical Sciences, Utrecht, The Netherlands.",
+          "ror": null,
+          "country_code": null,
+          "type": null
+        },
+        {
+          "id": null,
+          "display_name": "Utrecht Institute for Pharmaceutical Sciences",
+          "ror": null,
+          "country_code": null,
+          "type": null
+        }
+      ],
+      "raw_affiliation_string": "Division of Pharmacoepidemiology and Clinical Pharmacology, Utrecht Institute for Pharmaceutical Sciences, Utrecht, The Netherlands.; Utrecht Institute for Pharmaceutical Sciences"
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A2268168519",
+        "display_name": "Antoine C. G. Egberts",
+        "orcid": "https://orcid.org/0000-0003-1758-7779"
+      },
+      "institutions": [
+        {
+          "id": null,
+          "display_name": "Division of Pharmacoepidemiology and Clinical Pharmacology, Utrecht Institute for Pharmaceutical Sciences, Utrecht, The Netherlands.",
+          "ror": null,
+          "country_code": null,
+          "type": null
+        },
+        {
+          "id": null,
+          "display_name": "Utrecht Institute for Pharmaceutical Sciences",
+          "ror": null,
+          "country_code": null,
+          "type": null
+        }
+      ],
+      "raw_affiliation_string": "Division of Pharmacoepidemiology and Clinical Pharmacology, Utrecht Institute for Pharmaceutical Sciences, Utrecht, The Netherlands.; Utrecht Institute for Pharmaceutical Sciences"
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A2026730321",
+        "display_name": "Thijs J. Giezen",
+        "orcid": "https://orcid.org/0000-0002-4087-033X"
+      },
+      "institutions": [
+        {
+          "id": null,
+          "display_name": "Pharmacy Foundation of Haarlem Hospitals",
+          "ror": null,
+          "country_code": null,
+          "type": null
+        },
+        {
+          "id": "https://openalex.org/I4210161513",
+          "display_name": "Stichting Apotheek der Haarlemse Ziekenhuizen",
+          "ror": "https://ror.org/04v5fn795",
+          "country_code": "NL",
+          "type": "other"
+        }
+      ],
+      "raw_affiliation_string": "Pharmacy Foundation of Haarlem Hospitals; Pharmacy Foundation of Haarlem Hospitals, Haarlem, The Netherlands. tgiezen@sahz.nl."
+    }
+  ],
+  "cited_by_count": 1,
+  "biblio": {
+    "volume": "36",
+    "issue": "1",
+    "first_page": "27",
+    "last_page": "39"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "concepts": [
+    {
+      "id": "https://openalex.org/C59491497",
+      "wikidata": "https://www.wikidata.org/wiki/Q864715",
+      "display_name": "Biosimilar",
+      "level": 2,
+      "score": "0.9676105"
+    },
+    {
+      "id": "https://openalex.org/C71924100",
+      "wikidata": "https://www.wikidata.org/wiki/Q11190",
+      "display_name": "Medicine",
+      "level": 0,
+      "score": "0.8218868"
+    },
+    {
+      "id": "https://openalex.org/C119060515",
+      "wikidata": "https://www.wikidata.org/wiki/Q1916617",
+      "display_name": "Interquartile range",
+      "level": 2,
+      "score": "0.56759775"
+    },
+    {
+      "id": "https://openalex.org/C23131810",
+      "wikidata": "https://www.wikidata.org/wiki/Q818574",
+      "display_name": "Observational study",
+      "level": 2,
+      "score": "0.5559584"
+    },
+    {
+      "id": "https://openalex.org/C88879693",
+      "wikidata": "https://www.wikidata.org/wiki/Q217690",
+      "display_name": "Cumulative incidence",
+      "level": 3,
+      "score": "0.54607564"
+    },
+    {
+      "id": "https://openalex.org/C126322002",
+      "wikidata": "https://www.wikidata.org/wiki/Q11180",
+      "display_name": "Internal medicine",
+      "level": 1,
+      "score": "0.52558994"
+    },
+    {
+      "id": "https://openalex.org/C61511704",
+      "wikidata": "https://www.wikidata.org/wiki/Q1671857",
+      "display_name": "Incidence (geometry)",
+      "level": 2,
+      "score": "0.47016332"
+    },
+    {
+      "id": "https://openalex.org/C168563851",
+      "wikidata": "https://www.wikidata.org/wiki/Q1436668",
+      "display_name": "Randomized controlled trial",
+      "level": 2,
+      "score": "0.46925804"
+    },
+    {
+      "id": "https://openalex.org/C95190672",
+      "wikidata": "https://www.wikidata.org/wiki/Q815382",
+      "display_name": "Meta-analysis",
+      "level": 2,
+      "score": "0.45893168"
+    },
+    {
+      "id": "https://openalex.org/C143998085",
+      "wikidata": "https://www.wikidata.org/wiki/Q162555",
+      "display_name": "Oncology",
+      "level": 1,
+      "score": "0.33930045"
+    },
+    {
+      "id": "https://openalex.org/C177713679",
+      "wikidata": "https://www.wikidata.org/wiki/Q679690",
+      "display_name": "Intensive care medicine",
+      "level": 1,
+      "score": "0.32543808"
+    },
+    {
+      "id": "https://openalex.org/C72563966",
+      "wikidata": "https://www.wikidata.org/wiki/Q1303415",
+      "display_name": "Cohort",
+      "level": 2,
+      "score": "0.25679958"
+    },
+    {
+      "id": "https://openalex.org/C121332964",
+      "wikidata": "https://www.wikidata.org/wiki/Q413",
+      "display_name": "Physics",
+      "level": 0,
+      "score": "0.0"
+    },
+    {
+      "id": "https://openalex.org/C120665830",
+      "wikidata": "https://www.wikidata.org/wiki/Q14620",
+      "display_name": "Optics",
+      "level": 1,
+      "score": "0.0"
+    }
+  ],
+  "mesh": [
+    {
+      "descriptor_ui": "D059451",
+      "descriptor_name": "Biosimilar Pharmaceuticals",
+      "qualifier_ui": "",
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D015212",
+      "descriptor_name": "Inflammatory Bowel Diseases",
+      "qualifier_ui": "",
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D059451",
+      "descriptor_name": "Biosimilar Pharmaceuticals",
+      "qualifier_ui": "Q000009",
+      "qualifier_name": "adverse effects",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": "",
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015994",
+      "descriptor_name": "Incidence",
+      "qualifier_ui": "",
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015212",
+      "descriptor_name": "Inflammatory Bowel Diseases",
+      "qualifier_ui": "Q000188",
+      "qualifier_name": "drug therapy",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000069285",
+      "descriptor_name": "Infliximab",
+      "qualifier_ui": "",
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D014409",
+      "descriptor_name": "Tumor Necrosis Factor-alpha",
+      "qualifier_ui": "",
+      "qualifier_name": null,
+      "is_major_topic": false
+    }
+  ],
+  "locations": [
+    {
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1007/s40259-021-00508-4",
+      "pdf_url": "https://link.springer.com/content/pdf/10.1007/s40259-021-00508-4.pdf",
+      "source": {
+        "id": "https://openalex.org/S143194599",
+        "display_name": "BioDrugs",
+        "issn_l": "1173-8804",
+        "issn": [
+          "1173-8804",
+          "1179-190X"
+        ],
+        "host_organization": "https://openalex.org/P4310320330",
+        "type": "journal"
+      },
+      "license": "cc-by-nc",
+      "version": "publishedVersion"
+    },
+    {
+      "is_oa": true,
+      "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8847209",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S2764455111",
+        "display_name": "PubMed Central",
+        "issn_l": null,
+        "issn": null,
+        "host_organization": "https://openalex.org/I1299303238",
+        "type": "repository"
+      },
+      "license": null,
+      "version": "publishedVersion"
+    }
+  ],
+  "best_oa_location": {
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1007/s40259-021-00508-4",
+    "pdf_url": "https://link.springer.com/content/pdf/10.1007/s40259-021-00508-4.pdf",
+    "source": {
+      "id": "https://openalex.org/S143194599",
+      "display_name": "BioDrugs",
+      "issn_l": "1173-8804",
+      "issn": [
+        "1173-8804",
+        "1179-190X"
+      ],
+      "host_organization": "https://openalex.org/P4310320330",
+      "type": "journal"
+    },
+    "license": "cc-by-nc",
+    "version": "publishedVersion"
+  },
+  "alternate_host_venues": [
+    {
+      "id": "https://openalex.org/S143194599",
+      "display_name": "BioDrugs",
+      "type": "journal",
+      "url": "https://link.springer.com/content/pdf/10.1007/s40259-021-00508-4.pdf",
+      "is_oa": true,
+      "version": "publishedVersion",
+      "license": "cc-by-nc"
+    },
+    {
+      "id": "https://openalex.org/S2764455111",
+      "display_name": "PubMed Central",
+      "type": "repository",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8847209",
+      "is_oa": true,
+      "version": "publishedVersion",
+      "license": null
+    }
+  ],
+  "referenced_works": [
+    "https://openalex.org/W246286872",
+    "https://openalex.org/W1954244899",
+    "https://openalex.org/W2097892010",
+    "https://openalex.org/W2106152050",
+    "https://openalex.org/W2120393706",
+    "https://openalex.org/W2120522488",
+    "https://openalex.org/W2121050884",
+    "https://openalex.org/W2136608905",
+    "https://openalex.org/W2149858688",
+    "https://openalex.org/W2156098321",
+    "https://openalex.org/W2523706394",
+    "https://openalex.org/W2560455300",
+    "https://openalex.org/W2581281042",
+    "https://openalex.org/W2581549770",
+    "https://openalex.org/W2593580677",
+    "https://openalex.org/W2613299853",
+    "https://openalex.org/W2617581275",
+    "https://openalex.org/W2750911325",
+    "https://openalex.org/W2759307758",
+    "https://openalex.org/W2764082441",
+    "https://openalex.org/W2766388803",
+    "https://openalex.org/W2768187732",
+    "https://openalex.org/W2774116866",
+    "https://openalex.org/W2782923730",
+    "https://openalex.org/W2784409714",
+    "https://openalex.org/W2792122651",
+    "https://openalex.org/W2796428896",
+    "https://openalex.org/W2799534621",
+    "https://openalex.org/W2883934894",
+    "https://openalex.org/W2894038307",
+    "https://openalex.org/W2894046119",
+    "https://openalex.org/W2894239243",
+    "https://openalex.org/W2895109947",
+    "https://openalex.org/W2898096328",
+    "https://openalex.org/W2898257988",
+    "https://openalex.org/W2900361267",
+    "https://openalex.org/W2901086033",
+    "https://openalex.org/W2901391444",
+    "https://openalex.org/W2904439900",
+    "https://openalex.org/W2906649603",
+    "https://openalex.org/W2909757862",
+    "https://openalex.org/W2911287680",
+    "https://openalex.org/W2913890755",
+    "https://openalex.org/W2930414230",
+    "https://openalex.org/W2947562759",
+    "https://openalex.org/W2951825629",
+    "https://openalex.org/W2954985800",
+    "https://openalex.org/W2955957040",
+    "https://openalex.org/W2989858130",
+    "https://openalex.org/W2990291188",
+    "https://openalex.org/W2990885587",
+    "https://openalex.org/W2994431592",
+    "https://openalex.org/W3006752493",
+    "https://openalex.org/W3014370677",
+    "https://openalex.org/W3033623939",
+    "https://openalex.org/W3042481399",
+    "https://openalex.org/W3042515300",
+    "https://openalex.org/W3047854326",
+    "https://openalex.org/W3048796467",
+    "https://openalex.org/W3048797834",
+    "https://openalex.org/W3083229222",
+    "https://openalex.org/W3084337600",
+    "https://openalex.org/W3089681955",
+    "https://openalex.org/W3093730414",
+    "https://openalex.org/W3097044269",
+    "https://openalex.org/W3119939393",
+    "https://openalex.org/W3120048802",
+    "https://openalex.org/W3122547945",
+    "https://openalex.org/W3127592492",
+    "https://openalex.org/W3128662777",
+    "https://openalex.org/W3140972611",
+    "https://openalex.org/W4210662453",
+    "https://openalex.org/W4246141486",
+    "https://openalex.org/W4294215472"
+  ],
+  "related_works": [
+    "https://openalex.org/W1561536395",
+    "https://openalex.org/W1967947002",
+    "https://openalex.org/W2010490510",
+    "https://openalex.org/W2061253854",
+    "https://openalex.org/W2312663299",
+    "https://openalex.org/W2554779855",
+    "https://openalex.org/W2557221014",
+    "https://openalex.org/W3134935867",
+    "https://openalex.org/W3150367784",
+    "https://openalex.org/W3179274514"
+  ],
+  "ngrams_url": "https://api.openalex.org/works/W4200279042/ngrams",
+  "abstract_inverted_index": {
+    "Transitioning": [
+      0,
+      143
+    ],
+    "patients": [
+      1,
+      36,
+      65,
+      75,
+      85,
+      185,
+      279,
+      292,
+      370,
+      378,
+      390,
+      401
+    ],
+    "from": [
+      2,
+      88,
+      148,
+      160,
+      353,
+      356,
+      371
+    ],
+    "an": [
+      3,
+      50,
+      149,
+      161
+    ],
+    "originator": [
+      4,
+      41,
+      46,
+      97,
+      150,
+      162,
+      373
+    ],
+    "to": [
+      5,
+      44,
+      70,
+      79,
+      96,
+      99,
+      151,
+      163,
+      168,
+      204,
+      216,
+      242,
+      374,
+      382,
+      416
+    ],
+    "a": [
+      6,
+      89,
+      114,
+      152,
+      164,
+      245
+    ],
+    "corresponding": [
+      7
+    ],
+    "biosimilar": [
+      8,
+      53,
+      59,
+      95,
+      137,
+      165,
+      313,
+      430
+    ],
+    "has": [
+      9
+    ],
+    "been": [
+      10
+    ],
+    "extensively": [
+      11
+    ],
+    "studied": [
+      12
+    ],
+    "in": [
+      13,
+      118,
+      235,
+      385,
+      395,
+      419,
+      451
+    ],
+    "both": [
+      14
+    ],
+    "randomized": [
+      15
+    ],
+    "controlled": [
+      16,
+      127
+    ],
+    "trials": [
+      17,
+      128
+    ],
+    "and": [
+      18,
+      98,
+      104,
+      106,
+      122,
+      139,
+      154,
+      166,
+      187,
+      207,
+      209,
+      225,
+      240,
+      252,
+      303,
+      346,
+      394,
+      445
+    ],
+    "observational": [
+      19
+    ],
+    "studies.": [
+      20
+    ],
+    "Although": [
+      21
+    ],
+    "transitioning": [
+      22,
+      369
+    ],
+    "is": [
+      23
+    ],
+    "considered": [
+      24,
+      49
+    ],
+    "well-tolerated,": [
+      25
+    ],
+    "with": [
+      26,
+      39,
+      58,
+      111,
+      280,
+      293,
+      391
+    ],
+    "no": [
+      27
+    ],
+    "negative": [
+      28
+    ],
+    "impacts": [
+      29
+    ],
+    "on": [
+      30,
+      134,
+      368
+    ],
+    "efficacy": [
+      31
+    ],
+    "and/or": [
+      32
+    ],
+    "safety,": [
+      33
+    ],
+    "2.6-25.8%": [
+      34
+    ],
+    "of": [
+      35,
+      52,
+      64,
+      74,
+      84,
+      126,
+      172,
+      184,
+      196,
+      200,
+      219,
+      229,
+      233,
+      256,
+      269,
+      311,
+      329,
+      339,
+      377,
+      404,
+      409,
+      428,
+      449
+    ],
+    "restart": [
+      37
+    ],
+    "treatment": [
+      38,
+      54,
+      105,
+      208
+    ],
+    "the": [
+      40,
+      45,
+      72,
+      81,
+      119,
+      169,
+      173,
+      182,
+      188,
+      192,
+      201,
+      217,
+      230,
+      253,
+      309,
+      312,
+      327,
+      340,
+      402,
+      407,
+      410,
+      429,
+      447
+    ],
+    "(retransitioning).": [
+      42
+    ],
+    "Retransitioning": [
+      43,
+      380
+    ],
+    "can": [
+      47
+    ],
+    "be": [
+      48,
+      383,
+      417
+    ],
+    "indication": [
+      51
+    ],
+    "failure": [
+      55
+    ],
+    "or": [
+      56
+    ],
+    "dissatisfaction": [
+      57
+    ],
+    "treatment.": [
+      60
+    ],
+    "Increasing": [
+      61
+    ],
+    "our": [
+      62
+    ],
+    "knowledge": [
+      63
+    ],
+    "who": [
+      66,
+      86
+    ],
+    "retransition": [
+      67
+    ],
+    "might": [
+      68,
+      441
+    ],
+    "help": [
+      69
+    ],
+    "reduce": [
+      71,
+      442
+    ],
+    "number": [
+      73,
+      183
+    ],
+    "retransitioning.Our": [
+      76
+    ],
+    "objective": [
+      77
+    ],
+    "was": [
+      78,
+      144,
+      156,
+      191,
+      271,
+      331,
+      337,
+      365
+    ],
+    "estimate": [
+      80
+    ],
+    "cumulative": [
+      82,
+      194,
+      231,
+      254,
+      267
+    ],
+    "incidence": [
+      83,
+      195,
+      232,
+      255,
+      268,
+      328
+    ],
+    "retransitioned": [
+      87
+    ],
+    "tumor": [
+      90
+    ],
+    "necrosis": [
+      91
+    ],
+    "factor": [
+      92
+    ],
+    "(TNF)-\u03b1": [
+      93
+    ],
+    "inhibitor": [
+      94
+    ],
+    "explore": [
+      100,
+      243
+    ],
+    "potential": [
+      101,
+      246
+    ],
+    "patient,": [
+      102,
+      205
+    ],
+    "disease,": [
+      103,
+      206
+    ],
+    "implementation": [
+      107,
+      210,
+      341,
+      431
+    ],
+    "strategy": [
+      108,
+      342
+    ],
+    "factors": [
+      109,
+      202,
+      251
+    ],
+    "associated": [
+      110
+    ],
+    "retransitioning.We": [
+      112
+    ],
+    "conducted": [
+      113
+    ],
+    "systematic": [
+      115
+    ],
+    "literature": [
+      116
+    ],
+    "search": [
+      117
+    ],
+    "PubMed,": [
+      120
+    ],
+    "EMBASE,": [
+      121
+    ],
+    "Cochrane": [
+      123
+    ],
+    "Central": [
+      124
+    ],
+    "Register": [
+      125
+    ],
+    "databases": [
+      129
+    ],
+    "until": [
+      130
+    ],
+    "March": [
+      131
+    ],
+    "2021.": [
+      132
+    ],
+    "Studies": [
+      133,
+      178,
+      275
+    ],
+    "TNF\u03b1": [
+      135,
+      372
+    ],
+    "inhibitors,": [
+      136
+    ],
+    "transitioning,": [
+      138,
+      186
+    ],
+    "retransitioning": [
+      140,
+      155,
+      234,
+      270,
+      307,
+      330,
+      405,
+      414,
+      443
+    ],
+    "were": [
+      141,
+      175,
+      179,
+      213,
+      238,
+      262
+    ],
+    "included.": [
+      142,
+      263
+    ],
+    "defined": [
+      145,
+      157
+    ],
+    "as": [
+      146,
+      158,
+      426,
+      439
+    ],
+    "switching": [
+      147,
+      159
+    ],
+    "biosimilar,": [
+      153,
+      375
+    ],
+    "back": [
+      167
+    ],
+    "originator.": [
+      170
+    ],
+    "Characteristics": [
+      171
+    ],
+    "studies": [
+      174,
+      212,
+      237,
+      318,
+      362,
+      367,
+      386,
+      396,
+      420
+    ],
+    "descriptively": [
+      176
+    ],
+    "analyzed.": [
+      177
+    ],
+    "weighted": [
+      180,
+      223,
+      265
+    ],
+    "by": [
+      181
+    ],
+    "primary": [
+      189
+    ],
+    "outcome": [
+      190
+    ],
+    "median": [
+      193,
+      266
+    ],
+    "retransitioning.": [
+      197,
+      324
+    ],
+    "For": [
+      198
+    ],
+    "each": [
+      199
+    ],
+    "related": [
+      203
+    ],
+    "strategy,": [
+      211
+    ],
+    "stratified": [
+      214
+    ],
+    "according": [
+      215
+    ],
+    "categories": [
+      218
+    ],
+    "that": [
+      220,
+      276,
+      319,
+      387,
+      397,
+      421
+    ],
+    "factor.": [
+      221
+    ],
+    "The": [
+      222,
+      264
+    ],
+    "medians": [
+      224
+    ],
+    "interquartile": [
+      226
+    ],
+    "ranges": [
+      227
+    ],
+    "(IQRs)": [
+      228
+    ],
+    "these": [
+      236,
+      250,
+      437
+    ],
+    "calculated": [
+      239
+    ],
+    "compared": [
+      241
+    ],
+    "whether": [
+      244
+    ],
+    "association": [
+      247
+    ],
+    "existed": [
+      248
+    ],
+    "between": [
+      249
+    ],
+    "retransitioning.Of": [
+      257
+    ],
+    "994": [
+      258
+    ],
+    "screened": [
+      259
+    ],
+    "publications,": [
+      260
+    ],
+    "37": [
+      261
+    ],
+    "7.6%": [
+      272
+    ],
+    "(IQR": [
+      273
+    ],
+    "6.8-17.2).": [
+      274
+    ],
+    "included": [
+      277,
+      290,
+      388
+    ],
+    "only": [
+      278,
+      291,
+      389
+    ],
+    "inflammatory": [
+      281
+    ],
+    "bowel": [
+      282
+    ],
+    "disease": [
+      283,
+      295,
+      393
+    ],
+    "(6.6": [
+      284
+    ],
+    "vs.": [
+      285,
+      297,
+      315,
+      344,
+      359
+    ],
+    "15.1-17.7%": [
+      286
+    ],
+    "for": [
+      287,
+      299,
+      317,
+      361
+    ],
+    "other": [
+      288
+    ],
+    "indications),": [
+      289
+    ],
+    "stable": [
+      294,
+      392
+    ],
+    "(7.0": [
+      296,
+      314
+    ],
+    "13.7%": [
+      298
+    ],
+    "including": [
+      300
+    ],
+    "all": [
+      301
+    ],
+    "patients),": [
+      302
+    ],
+    "did": [
+      304,
+      398
+    ],
+    "not": [
+      305,
+      399
+    ],
+    "offer": [
+      306,
+      400
+    ],
+    "at": [
+      308,
+      406
+    ],
+    "introduction": [
+      310,
+      408,
+      448
+    ],
+    "11.1%": [
+      316
+    ],
+    "offered": [
+      320
+    ],
+    "retransitioning)": [
+      321
+    ],
+    "reported": [
+      322
+    ],
+    "less": [
+      323
+    ],
+    "In": [
+      325,
+      412
+    ],
+    "addition,": [
+      326,
+      413
+    ],
+    "lower": [
+      332,
+      384,
+      418
+    ],
+    "when": [
+      333,
+      347
+    ],
+    "extra": [
+      334,
+      423
+    ],
+    "laboratory": [
+      335,
+      424
+    ],
+    "monitoring": [
+      336,
+      425
+    ],
+    "part": [
+      338,
+      427
+    ],
+    "(1.6": [
+      343
+    ],
+    "6.1%)": [
+      345
+    ],
+    "gainsharing": [
+      348
+    ],
+    "(patients'": [
+      349
+    ],
+    "healthcare": [
+      350
+    ],
+    "directly": [
+      351
+    ],
+    "benefits": [
+      352
+    ],
+    "financial": [
+      354
+    ],
+    "savings": [
+      355
+    ],
+    "transitioning)": [
+      357
+    ],
+    "(1.4": [
+      358
+    ],
+    "7.2%": [
+      360
+    ],
+    "without": [
+      363
+    ],
+    "gainsharing)": [
+      364
+    ],
+    "applied.In": [
+      366
+    ],
+    "8%": [
+      376
+    ],
+    "retransitioned.": [
+      379
+    ],
+    "appeared": [
+      381,
+      415
+    ],
+    "option": [
+      403
+    ],
+    "biosimilar.": [
+      411
+    ],
+    "implemented": [
+      422
+    ],
+    "strategy.": [
+      432
+    ],
+    "Clinicians": [
+      433
+    ],
+    "should": [
+      434
+    ],
+    "consider": [
+      435
+    ],
+    "implementing": [
+      436
+    ],
+    "suggestions": [
+      438
+    ],
+    "they": [
+      440
+    ],
+    "rates": [
+      444
+    ],
+    "improve": [
+      446
+    ],
+    "biosimilars": [
+      450
+    ],
+    "clinical": [
+      452
+    ],
+    "practice.": [
+      453
+    ],
+    "PROSPERO": [
+      454
+    ],
+    "registration": [
+      455
+    ],
+    "ID:": [
+      456
+    ],
+    "CRD42021226381.": [
+      457
+    ]
+  },
+  "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4200279042",
+  "counts_by_year": [
+    {
+      "year": 2022,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2023-02-20T03:44:35.661589",
+  "created_date": "2021-12-31"
+}

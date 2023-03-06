@@ -1,4 +1,0 @@
-pandas
-requests
-tabulate
-asreview==1
