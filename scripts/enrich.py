@@ -182,6 +182,11 @@ if __name__ == "__main__":
             ds_glob = Path(list(glob(str(Path("datasets", "*", f"{dataset['key']}_ids.csv"))))[0])
             df = pd.read_csv(ds_glob)
 
+            if "pmid" not in list(df):
+                df["pmid"] = None
+            if "doi" not in list(df):
+                df["doi"] = None
+
             try:
 
                 for id_type in ["pmid", "doi"]:
@@ -197,8 +202,7 @@ if __name__ == "__main__":
 
                     df.loc[subset, "doi"] = doi
                     df.loc[subset, "openalex_id"] = oaid
-                    if "pmid" in list(df):
-                        df.loc[subset, "pmid"] = pmid
+                    df.loc[subset, "pmid"] = pmid
 
                     # add the collection method
                     if "method" not in list(df):
