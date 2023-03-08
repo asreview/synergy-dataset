@@ -234,5 +234,8 @@ if __name__ == "__main__":
 
             except KeyboardInterrupt as err:
                 print("Stop and write results so far.")
+                df.to_csv(ds_glob, index=False)
 
-            df.to_csv(ds_glob, index=False)
+            except requests.exceptions.JSONDecodeError as err:
+                df.to_csv(ds_glob, index=False)
+                raise err

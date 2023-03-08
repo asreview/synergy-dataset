@@ -35,7 +35,7 @@ def package(dataset_name, output_folder):
     print("Number of records in the list", len(df))
     print("Number of records with openalex_id", df["openalex_id"].notnull().sum())
 
-    print(df["label_included"].sum())
+    print("Number of included records with openalex_id", df["label_included"].sum())
 
     # add order
     np.random.seed(SEED)
@@ -49,6 +49,10 @@ def package(dataset_name, output_folder):
         .drop_duplicates("openalex_id")
         .sort_values("order")
     )
+
+    # some datasets don't have pmid (like hall)
+    if "pmid" not in list(df):
+        result["pmid"] = None
 
     result = result[["openalex_id", "doi", "pmid", "label_included"]]
 

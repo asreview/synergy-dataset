@@ -6,7 +6,7 @@ version=0.1
 
   # Part of Yu et al. 2018 https://doi.org/10.1007/s10664-017-9587-0
 
-  key="hall_2012"
+  key="Hall_2012"
 
   [datasets.publication]
   doi= "10.1109/TSE.2011.103"
@@ -14,6 +14,8 @@ version=0.1
   [datasets.data]
   doi="10.5281/zenodo.1162952"
 
+  [datasets.scripts]
+  compose="compose.py Hall_2012"
 
 [[datasets]]
   # publication doesn't have DOI or OpenAlex reference
@@ -44,17 +46,18 @@ version=0.1
   doi="10.5281/zenodo.1162952"
 
 
-[[datasets]]
+#[[datasets]]
 
-  # Part of Yu et al. 2018 https://doi.org/10.1007/s10664-017-9587-0
+#  # Part of Yu et al. 2018 https://doi.org/10.1007/s10664-017-9587-0
+# Kitchenham records have non-matching the ieee.org URLs, reliability not clear
 
-  key="Kitchenham_2010"
+#  key="Kitchenham_2010"
 
-  [datasets.publication]
-  doi= "10.1016/j.infsof.2010.03.006"
+#  [datasets.publication]
+#  doi= "10.1016/j.infsof.2010.03.006"
 
-  [datasets.data]
-  doi="10.5281/zenodo.1162952"
+#  [datasets.data]
+#  doi="10.5281/zenodo.1162952"
 
 [[datasets]]
   # Processes 1 dataset (https://osf.io/tnxju/)
@@ -126,7 +129,7 @@ version=0.1
 
   [datasets.data]
 
-  doi="https://doi.org/10.5281/zenodo.3625931"
+  doi="10.5281/zenodo.3625931"
 
 [[datasets]]
 

@@ -1,11 +1,11 @@
 import pandas as pd
 from asreview import ASReviewData
 
-key = "Wolter_2018"
+key = "Wolters_2018"
 
 # load RIS into ASReviewData object
-asr_inclusions = ASReviewData.from_file("https://osf.io/a26sz/download")
-asr_search = ASReviewData.from_file("https://osf.io/hy8qe/download")
+asr_inclusions = ASReviewData.from_file("https://osf.io/hy8qe/download")
+asr_search = ASReviewData.from_file("https://osf.io/a26sz/download")
 
 # set labels and turn into single dataframe
 asr_inclusions.df["label_included"] = 1

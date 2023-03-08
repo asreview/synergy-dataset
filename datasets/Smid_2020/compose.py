@@ -2,7 +2,7 @@ import pandas as pd
 
 key = "Smid_2020"
 
-df = pd.read_csv("https://osf.io/download/gxams/", usecols=["doi", "included"])
+df = pd.read_csv("https://osf.io/download/gxams/")
 
 # adjust columns
 df["doi"] = "https://doi.org/" + df["doi"].str.extract(r"(10.\S+)")
