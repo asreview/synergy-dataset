@@ -1,0 +1,11 @@
+{
+  "key": "Chou_2003",
+  "publication": {
+    "doi": "10.1016/j.jpainsymman.2003.03.003"
+  },
+  "data": {
+    "doi": "https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html",
+    "n_records": 1908,
+    "n_records_included": 15
+  }
+}

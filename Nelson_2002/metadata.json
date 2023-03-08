@@ -1,0 +1,11 @@
+{
+  "key": "Nelson_2002",
+  "publication": {
+    "doi": "10.1001/jama.288.7.872"
+  },
+  "data": {
+    "doi": "https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html",
+    "n_records": 364,
+    "n_records_included": 78
+  }
+}

@@ -1,0 +1,1050 @@
+{
+  "id": "https://openalex.org/W3187789458",
+  "doi": "https://doi.org/10.1007/s40262-021-01042-w",
+  "title": "Pharmacokinetics and Associated Efficacy of Emicizumab in Humans: A Systematic Review",
+  "display_name": "Pharmacokinetics and Associated Efficacy of Emicizumab in Humans: A Systematic Review",
+  "publication_year": 2021,
+  "publication_date": "2021-08-13",
+  "ids": {
+    "openalex": "https://openalex.org/W3187789458",
+    "doi": "https://doi.org/10.1007/s40262-021-01042-w",
+    "mag": "3187789458",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/34389928",
+    "pmcid": "https://www.ncbi.nlm.nih.gov/pmc/articles/8585815"
+  },
+  "primary_location": {
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1007/s40262-021-01042-w",
+    "pdf_url": "https://link.springer.com/content/pdf/10.1007/s40262-021-01042-w.pdf",
+    "source": {
+      "id": "https://openalex.org/S69290020",
+      "display_name": "Clinical Pharmacokinectics",
+      "issn_l": "0312-5963",
+      "issn": [
+        "1179-1926",
+        "0312-5963"
+      ],
+      "host_organization": "https://openalex.org/P4310319965",
+      "type": "journal"
+    },
+    "license": "cc-by-nc",
+    "version": "publishedVersion"
+  },
+  "host_venue": {
+    "id": "https://openalex.org/S69290020",
+    "issn_l": "0312-5963",
+    "issn": [
+      "1179-1926",
+      "0312-5963"
+    ],
+    "display_name": "Clinical Pharmacokinectics",
+    "publisher": "Springer Nature",
+    "type": "journal",
+    "url": "https://link.springer.com/content/pdf/10.1007/s40262-021-01042-w.pdf",
+    "is_oa": true,
+    "version": "publishedVersion",
+    "license": "cc-by-nc"
+  },
+  "type": "journal-article",
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "hybrid",
+    "oa_url": "https://link.springer.com/content/pdf/10.1007/s40262-021-01042-w.pdf"
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A1640243062",
+        "display_name": "Anouk A. M. T. Donners",
+        "orcid": "https://orcid.org/0000-0002-8147-013X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I193662353",
+          "display_name": "Utrecht University",
+          "ror": "https://ror.org/04pp8hn57",
+          "country_code": "NL",
+          "type": "education"
+        }
+      ],
+      "raw_affiliation_string": "Department of Clinical Pharmacy, University Medical Center Utrecht, Utrecht University, Utrecht, The Netherlands,"
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A2553359495",
+        "display_name": "Carin M. A. Rademaker",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I193662353",
+          "display_name": "Utrecht University",
+          "ror": "https://ror.org/04pp8hn57",
+          "country_code": "NL",
+          "type": "education"
+        }
+      ],
+      "raw_affiliation_string": "Department of Clinical Pharmacy, University Medical Center Utrecht, Utrecht University, Utrecht, The Netherlands,"
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A3189326412",
+        "display_name": "Lisanne A. H. Bevers",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I193662353",
+          "display_name": "Utrecht University",
+          "ror": "https://ror.org/04pp8hn57",
+          "country_code": "NL",
+          "type": "education"
+        }
+      ],
+      "raw_affiliation_string": "Department of Clinical Pharmacy, University Medical Center Utrecht, Utrecht University, Utrecht, The Netherlands,"
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A2142990164",
+        "display_name": "Alwin D. R. Huitema",
+        "orcid": "https://orcid.org/0000-0003-1939-4639"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I193662353",
+          "display_name": "Utrecht University",
+          "ror": "https://ror.org/04pp8hn57",
+          "country_code": "NL",
+          "type": "education"
+        },
+        {
+          "id": "https://openalex.org/I2898336195",
+          "display_name": "Netherlands Cancer Institute",
+          "ror": null,
+          "country_code": "NL",
+          "type": null
+        }
+      ],
+      "raw_affiliation_string": "Department of Clinical Pharmacy, University Medical Center Utrecht, Utrecht University, Utrecht, The Netherlands; Department of Pharmacy and Pharmacology, Netherlands Cancer Institute, Amsterdam, The Netherlands"
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A2168406728",
+        "display_name": "Roger E. G. Schutgens",
+        "orcid": "https://orcid.org/0000-0002-2762-6033"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I193662353",
+          "display_name": "Utrecht University",
+          "ror": "https://ror.org/04pp8hn57",
+          "country_code": "NL",
+          "type": "education"
+        }
+      ],
+      "raw_affiliation_string": ""
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A2268168519",
+        "display_name": "Antoine C. G. Egberts",
+        "orcid": "https://orcid.org/0000-0003-1758-7779"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I193662353",
+          "display_name": "Utrecht University",
+          "ror": "https://ror.org/04pp8hn57",
+          "country_code": "NL",
+          "type": "education"
+        }
+      ],
+      "raw_affiliation_string": "Department of Pharmacoepidemiology and Clinical Pharmacology, Utrecht Institute for Pharmaceutical Sciences, Faculty of Science, Utrecht University, Utrecht, The Netherlands"
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A2116204317",
+        "display_name": "Krista Fischer",
+        "orcid": "https://orcid.org/0000-0001-7126-6613"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I193662353",
+          "display_name": "Utrecht University",
+          "ror": "https://ror.org/04pp8hn57",
+          "country_code": "NL",
+          "type": "education"
+        }
+      ],
+      "raw_affiliation_string": ""
+    }
+  ],
+  "cited_by_count": 6,
+  "biblio": {
+    "volume": "60",
+    "issue": "11",
+    "first_page": "1395",
+    "last_page": "1406"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "concepts": [
+    {
+      "id": "https://openalex.org/C2777288759",
+      "wikidata": "https://www.wikidata.org/wiki/Q4164182",
+      "display_name": "Dosing",
+      "level": 2,
+      "score": "0.828145"
+    },
+    {
+      "id": "https://openalex.org/C71924100",
+      "wikidata": "https://www.wikidata.org/wiki/Q11190",
+      "display_name": "Medicine",
+      "level": 0,
+      "score": "0.776337"
+    },
+    {
+      "id": "https://openalex.org/C112705442",
+      "wikidata": "https://www.wikidata.org/wiki/Q323936",
+      "display_name": "Pharmacokinetics",
+      "level": 2,
+      "score": "0.6372466"
+    },
+    {
+      "id": "https://openalex.org/C2908647359",
+      "wikidata": "https://www.wikidata.org/wiki/Q2625603",
+      "display_name": "Population",
+      "level": 2,
+      "score": "0.5058593"
+    },
+    {
+      "id": "https://openalex.org/C98274493",
+      "wikidata": "https://www.wikidata.org/wiki/Q128406",
+      "display_name": "Pharmacology",
+      "level": 1,
+      "score": "0.4832133"
+    },
+    {
+      "id": "https://openalex.org/C147583825",
+      "wikidata": "https://www.wikidata.org/wiki/Q620876",
+      "display_name": "Body weight",
+      "level": 2,
+      "score": "0.46149433"
+    },
+    {
+      "id": "https://openalex.org/C126322002",
+      "wikidata": "https://www.wikidata.org/wiki/Q11180",
+      "display_name": "Internal medicine",
+      "level": 1,
+      "score": "0.38519377"
+    },
+    {
+      "id": "https://openalex.org/C99454951",
+      "wikidata": "https://www.wikidata.org/wiki/Q932068",
+      "display_name": "Environmental health",
+      "level": 1,
+      "score": "0.10819882"
+    }
+  ],
+  "mesh": [
+    {
+      "descriptor_ui": "D018033",
+      "descriptor_name": "Antibodies, Bispecific",
+      "qualifier_ui": "",
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D006467",
+      "descriptor_name": "Hemophilia A",
+      "qualifier_ui": "",
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D000293",
+      "descriptor_name": "Adolescent",
+      "qualifier_ui": "",
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000328",
+      "descriptor_name": "Adult",
+      "qualifier_ui": "",
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D061067",
+      "descriptor_name": "Antibodies, Monoclonal, Humanized",
+      "qualifier_ui": "",
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D002648",
+      "descriptor_name": "Child",
+      "qualifier_ui": "",
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005169",
+      "descriptor_name": "Factor VIII",
+      "qualifier_ui": "",
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006467",
+      "descriptor_name": "Hemophilia A",
+      "qualifier_ui": "Q000188",
+      "qualifier_name": "drug therapy",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": "",
+      "qualifier_name": null,
+      "is_major_topic": false
+    }
+  ],
+  "locations": [
+    {
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1007/s40262-021-01042-w",
+      "pdf_url": "https://link.springer.com/content/pdf/10.1007/s40262-021-01042-w.pdf",
+      "source": {
+        "id": "https://openalex.org/S69290020",
+        "display_name": "Clinical Pharmacokinectics",
+        "issn_l": "0312-5963",
+        "issn": [
+          "1179-1926",
+          "0312-5963"
+        ],
+        "host_organization": "https://openalex.org/P4310319965",
+        "type": "journal"
+      },
+      "license": "cc-by-nc",
+      "version": "publishedVersion"
+    },
+    {
+      "is_oa": true,
+      "landing_page_url": "https://dspace.library.uu.nl/handle/1874/416223",
+      "pdf_url": "https://dspace.library.uu.nl/bitstream/handle/1874/416223/Donners2021_Article_PharmacokineticsAndAssociatedE.pdf?sequence=1&isAllowed=y",
+      "source": {
+        "id": "https://openalex.org/S4306401843",
+        "display_name": "Data Archiving and Networked Services (DANS)",
+        "issn_l": null,
+        "issn": null,
+        "host_organization": "https://openalex.org/I1322597698",
+        "type": "repository"
+      },
+      "license": null,
+      "version": "publishedVersion"
+    },
+    {
+      "is_oa": true,
+      "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8585815",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S2764455111",
+        "display_name": "PubMed Central",
+        "issn_l": null,
+        "issn": null,
+        "host_organization": "https://openalex.org/I1299303238",
+        "type": "repository"
+      },
+      "license": null,
+      "version": "publishedVersion"
+    }
+  ],
+  "best_oa_location": {
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1007/s40262-021-01042-w",
+    "pdf_url": "https://link.springer.com/content/pdf/10.1007/s40262-021-01042-w.pdf",
+    "source": {
+      "id": "https://openalex.org/S69290020",
+      "display_name": "Clinical Pharmacokinectics",
+      "issn_l": "0312-5963",
+      "issn": [
+        "1179-1926",
+        "0312-5963"
+      ],
+      "host_organization": "https://openalex.org/P4310319965",
+      "type": "journal"
+    },
+    "license": "cc-by-nc",
+    "version": "publishedVersion"
+  },
+  "alternate_host_venues": [
+    {
+      "id": "https://openalex.org/S69290020",
+      "display_name": "Clinical Pharmacokinectics",
+      "type": "journal",
+      "url": "https://link.springer.com/content/pdf/10.1007/s40262-021-01042-w.pdf",
+      "is_oa": true,
+      "version": "publishedVersion",
+      "license": "cc-by-nc"
+    },
+    {
+      "id": "https://openalex.org/S4306401843",
+      "display_name": "Data Archiving and Networked Services (DANS)",
+      "type": "repository",
+      "url": "https://dspace.library.uu.nl/bitstream/handle/1874/416223/Donners2021_Article_PharmacokineticsAndAssociatedE.pdf?sequence=1&isAllowed=y",
+      "is_oa": true,
+      "version": "publishedVersion",
+      "license": null
+    },
+    {
+      "id": "https://openalex.org/S2764455111",
+      "display_name": "PubMed Central",
+      "type": "repository",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8585815",
+      "is_oa": true,
+      "version": "publishedVersion",
+      "license": null
+    }
+  ],
+  "referenced_works": [
+    "https://openalex.org/W246286872",
+    "https://openalex.org/W2020123164",
+    "https://openalex.org/W2026502021",
+    "https://openalex.org/W2049454273",
+    "https://openalex.org/W2067027338",
+    "https://openalex.org/W2067933166",
+    "https://openalex.org/W2073309292",
+    "https://openalex.org/W2095331703",
+    "https://openalex.org/W2113380861",
+    "https://openalex.org/W2156098321",
+    "https://openalex.org/W2278365462",
+    "https://openalex.org/W2296252503",
+    "https://openalex.org/W2342748500",
+    "https://openalex.org/W2400928773",
+    "https://openalex.org/W2532646138",
+    "https://openalex.org/W2535041295",
+    "https://openalex.org/W2560438049",
+    "https://openalex.org/W2567362164",
+    "https://openalex.org/W2734287351",
+    "https://openalex.org/W2760006373",
+    "https://openalex.org/W2772289727",
+    "https://openalex.org/W2790422838",
+    "https://openalex.org/W2805945157",
+    "https://openalex.org/W2885869279",
+    "https://openalex.org/W2886138990",
+    "https://openalex.org/W2888898681",
+    "https://openalex.org/W2890442696",
+    "https://openalex.org/W2901294079",
+    "https://openalex.org/W2936143155",
+    "https://openalex.org/W2953117569",
+    "https://openalex.org/W2972682000",
+    "https://openalex.org/W2980900975",
+    "https://openalex.org/W3014354112",
+    "https://openalex.org/W3016428066",
+    "https://openalex.org/W3021084420",
+    "https://openalex.org/W3023240913",
+    "https://openalex.org/W3025362682",
+    "https://openalex.org/W3028455363",
+    "https://openalex.org/W3029557309",
+    "https://openalex.org/W3032550236",
+    "https://openalex.org/W3034093413",
+    "https://openalex.org/W3042667920",
+    "https://openalex.org/W3046230165",
+    "https://openalex.org/W3047046471",
+    "https://openalex.org/W3086115407",
+    "https://openalex.org/W3094025934",
+    "https://openalex.org/W3094395727",
+    "https://openalex.org/W3115183047",
+    "https://openalex.org/W3134537625",
+    "https://openalex.org/W4294215472"
+  ],
+  "related_works": [
+    "https://openalex.org/W1499958231",
+    "https://openalex.org/W2000782600",
+    "https://openalex.org/W2004325424",
+    "https://openalex.org/W2009820498",
+    "https://openalex.org/W2015679062",
+    "https://openalex.org/W2021831895",
+    "https://openalex.org/W2080969318",
+    "https://openalex.org/W2207503964",
+    "https://openalex.org/W2793520024",
+    "https://openalex.org/W2794476093"
+  ],
+  "ngrams_url": "https://api.openalex.org/works/W3187789458/ngrams",
+  "abstract_inverted_index": {
+    "IntroductionEmicizumab": [
+      0
+    ],
+    "is": [
+      1
+    ],
+    "an": [
+      2
+    ],
+    "effective": [
+      3
+    ],
+    "new": [
+      4
+    ],
+    "treatment": [
+      5
+    ],
+    "option": [
+      6
+    ],
+    "for": [
+      7,
+      25,
+      128,
+      220
+    ],
+    "people": [
+      8
+    ],
+    "with": [
+      9,
+      34,
+      147
+    ],
+    "hemophilia": [
+      10
+    ],
+    "A": [
+      11
+    ],
+    "(PwHA).": [
+      12
+    ],
+    "The": [
+      13,
+      158,
+      183
+    ],
+    "approved": [
+      14
+    ],
+    "dosing": [
+      15,
+      181,
+      200
+    ],
+    "regimens": [
+      16
+    ],
+    "are": [
+      17
+    ],
+    "based": [
+      18
+    ],
+    "on": [
+      19,
+      51,
+      78,
+      87,
+      126
+    ],
+    "body": [
+      20,
+      42,
+      209
+    ],
+    "weight,": [
+      21
+    ],
+    "without": [
+      22,
+      149
+    ],
+    "the": [
+      23,
+      52,
+      79,
+      88
+    ],
+    "necessity": [
+      24
+    ],
+    "laboratory": [
+      26
+    ],
+    "monitoring.": [
+      27
+    ],
+    "This": [
+      28
+    ],
+    "assumes": [
+      29
+    ],
+    "a": [
+      30,
+      48,
+      117,
+      202
+    ],
+    "clear": [
+      31
+    ],
+    "dose\u2013concentration\u2013response": [
+      32
+    ],
+    "relationship,": [
+      33
+    ],
+    "acceptable": [
+      35
+    ],
+    "variability": [
+      36,
+      160
+    ],
+    "due": [
+      37
+    ],
+    "to": [
+      38,
+      72,
+      75,
+      137
+    ],
+    "factors": [
+      39
+    ],
+    "other": [
+      40
+    ],
+    "than": [
+      41
+    ],
+    "weight.": [
+      43
+    ],
+    "To": [
+      44
+    ],
+    "investigate": [
+      45
+    ],
+    "this": [
+      46
+    ],
+    "assumption,": [
+      47
+    ],
+    "systematic": [
+      49
+    ],
+    "review": [
+      50,
+      207
+    ],
+    "pharmacokinetics": [
+      53
+    ],
+    "(PK)": [
+      54
+    ],
+    "and": [
+      55,
+      66,
+      92,
+      103,
+      105,
+      131,
+      140,
+      142,
+      148,
+      167,
+      180
+    ],
+    "associated": [
+      56
+    ],
+    "efficacy": [
+      57,
+      93
+    ],
+    "of": [
+      58,
+      82,
+      97,
+      161,
+      185,
+      194,
+      205,
+      215
+    ],
+    "emicizumab": [
+      59,
+      83,
+      192,
+      216
+    ],
+    "in": [
+      60,
+      84,
+      116,
+      201
+    ],
+    "humans": [
+      61
+    ],
+    "was": [
+      62,
+      109,
+      164,
+      168
+    ],
+    "conducted.MethodsThe": [
+      63
+    ],
+    "EMBASE,": [
+      64
+    ],
+    "Pubmed": [
+      65
+    ],
+    "CENTRAL": [
+      67
+    ],
+    "databases": [
+      68
+    ],
+    "were": [
+      69,
+      101
+    ],
+    "systematically": [
+      70
+    ],
+    "searched": [
+      71
+    ],
+    "November": [
+      73
+    ],
+    "2020": [
+      74
+    ],
+    "identify": [
+      76
+    ],
+    "studies": [
+      77,
+      124
+    ],
+    "PK": [
+      80,
+      91
+    ],
+    "data": [
+      81,
+      127
+    ],
+    "humans.": [
+      85
+    ],
+    "Data": [
+      86
+    ],
+    "study,": [
+      89
+    ],
+    "population,": [
+      90
+    ],
+    "(annualized": [
+      94
+    ],
+    "bleeding": [
+      95
+    ],
+    "rate": [
+      96
+    ],
+    "treated": [
+      98
+    ],
+    "[joint]": [
+      99
+    ],
+    "bleeds)": [
+      100
+    ],
+    "extracted": [
+      102
+    ],
+    "synthesized,": [
+      104
+    ],
+    "exposure": [
+      106
+    ],
+    "effects": [
+      107
+    ],
+    "modeling": [
+      108
+    ],
+    "performed": [
+      110
+    ],
+    "using": [
+      111
+    ],
+    "non-linear": [
+      112
+    ],
+    "least": [
+      113
+    ],
+    "squares": [
+      114
+    ],
+    "regression": [
+      115
+    ],
+    "maximum": [
+      118
+    ],
+    "effect": [
+      119
+    ],
+    "(Emax)": [
+      120
+    ],
+    "model.ResultsThe": [
+      121
+    ],
+    "15": [
+      122
+    ],
+    "included": [
+      123
+    ],
+    "reported": [
+      125
+    ],
+    "140": [
+      129
+    ],
+    "volunteers": [
+      130
+    ],
+    "467": [
+      132
+    ],
+    "PwHA,": [
+      133
+    ],
+    "including": [
+      134
+    ],
+    "children": [
+      135
+    ],
+    "(0": [
+      136
+    ],
+    "<12": [
+      138
+    ],
+    "years)": [
+      139
+    ],
+    "adolescents": [
+      141
+    ],
+    "adults": [
+      143
+    ],
+    "(\u226512": [
+      144
+    ],
+    "years),": [
+      145
+    ],
+    "both": [
+      146
+    ],
+    "factor": [
+      150
+    ],
+    "VIII": [
+      151
+    ],
+    "(FVIII)": [
+      152
+    ],
+    "inhibitors.": [
+      153
+    ],
+    "Emicizumab": [
+      154
+    ],
+    "demonstrated": [
+      155
+    ],
+    "dose-linear": [
+      156
+    ],
+    "PK.": [
+      157
+    ],
+    "interindividual": [
+      159
+    ],
+    "trough": [
+      162
+    ],
+    "concentrations": [
+      163,
+      193,
+      217
+    ],
+    "moderate": [
+      165
+    ],
+    "(32%)": [
+      166
+    ],
+    "similar": [
+      169
+    ],
+    "across": [
+      170
+    ],
+    "various": [
+      171
+    ],
+    "subgroups,": [
+      172
+    ],
+    "such": [
+      173
+    ],
+    "as": [
+      174
+    ],
+    "FVIII": [
+      175
+    ],
+    "inhibitor": [
+      176
+    ],
+    "status,": [
+      177
+    ],
+    "age": [
+      178
+    ],
+    "group": [
+      179
+    ],
+    "interval.": [
+      182
+    ],
+    "control": [
+      184
+    ],
+    "bleeds": [
+      186
+    ],
+    "did": [
+      187
+    ],
+    "not": [
+      188
+    ],
+    "further": [
+      189
+    ],
+    "improve": [
+      190
+    ],
+    "above": [
+      191
+    ],
+    "30": [
+      195
+    ],
+    "\u00b5g/mL,": [
+      196
+    ],
+    "potentially": [
+      197
+    ],
+    "enabling": [
+      198
+    ],
+    "lower": [
+      199
+    ],
+    "substantial": [
+      203
+    ],
+    "proportion": [
+      204
+    ],
+    "PwHA.ConclusionThis": [
+      206
+    ],
+    "supports": [
+      208
+    ],
+    "weight-based": [
+      210
+    ],
+    "dosing,": [
+      211
+    ],
+    "although": [
+      212
+    ],
+    "individualized": [
+      213
+    ],
+    "monitoring": [
+      214
+    ],
+    "may": [
+      218
+    ],
+    "allow": [
+      219
+    ],
+    "more": [
+      221
+    ],
+    "cost-effective": [
+      222
+    ],
+    "dosing.": [
+      223
+    ]
+  },
+  "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W3187789458",
+  "counts_by_year": [
+    {
+      "year": 2023,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 5
+    }
+  ],
+  "updated_date": "2023-02-19T20:33:52.432254",
+  "created_date": "2021-08-16"
+}
