@@ -6,17 +6,24 @@ This is work in progress, please do not use. Public release under open license w
 
 ## Datasets
 
-|   Nr | Dataset                 | Field                            |   Count |   Included |
-|------|-------------------------|----------------------------------|---------|------------|
-|    1 | Appenzeller-Herzog_2020 | Medicine                         |    2863 |         26 |
-|    2 | Bannach-Brown_2019      | Medicine, Computer science       |    1932 |        264 |
-|    3 | Bos_2018                | Medicine                         |    4608 |          8 |
-|    4 | Chou_2003               | Medicine                         |    1908 |         15 |
-|    5 | Chou_2004               | Medicine                         |    1630 |          9 |
-|    6 | Donners_2021            | Medicine                         |     258 |         14 |
-|    7 | Meijboom_2022           | Medicine, Physics                |     882 |         36 |
-|    8 | Nelson_2002             | Medicine, Physics, Engineering   |     364 |         78 |
-|    9 | Valk_2021               | Medicine, Mathematics, Sociology |     717 |         86 |
+|   Nr | Dataset                 | Field                         |   Count |   Included |    % |
+|------|-------------------------|-------------------------------|---------|------------|------|
+|    1 | Appenzeller-Herzog_2020 | Medicine                      |    2863 |         26 |  0.9 |
+|    2 | Bannach-Brown_2019      | Medicine, Computer science    |    1932 |        264 | 13.7 |
+|    3 | Bos_2018                | Medicine                      |    4608 |          8 |  0.2 |
+|    4 | Chou_2003               | Medicine                      |    1908 |         15 |  0.8 |
+|    5 | Chou_2004               | Medicine                      |    1630 |          9 |  0.6 |
+|    6 | Donners_2021            | Medicine                      |     258 |         14 |  5.4 |
+|    7 | Hall_2012               | Computer science, Engineering |    8731 |        104 |  1.2 |
+|    8 | Leenaars_2019           | Medicine, Chemistry           |    5795 |         17 |  0.3 |
+|    9 | Meijboom_2022           | Medicine, Physics             |     882 |         36 |  4.1 |
+|   10 | Nelson_2002             | Medicine, Physics             |     364 |         78 | 21.4 |
+|   11 | Radjenovic_2013         | Computer science, Engineering |    5897 |         48 |  0.8 |
+|   12 | Smid_2020               | Computer science, Mathematics |    1980 |         24 |  1.2 |
+|   13 | Valk_2021               | Medicine, Mathematics         |     717 |         86 | 12   |
+|   14 | van_de_Schoot_2017      | Psychology, Mathematics       |    4494 |         36 |  0.8 |
+|   15 | van_Dis_2020            | Psychology, Medicine          |    8791 |         59 |  0.7 |
+|   16 | Wolters_2018            | Medicine                      |    3990 |         12 |  0.3 |
 
 ## Get the data
 
