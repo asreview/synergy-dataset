@@ -3,7 +3,7 @@ This is work in progress, please do not use. Public release under open license w
 
 # Release branch for ODSS dataset
 
-The ODSS dataset is a linked dataset that consists of Study Selection in Systematic Reviews. The dataset consists of XXX fully labeled datasets. For all these datasets, an OpenAlex record is available. 
+ODSS is a dataset to facilitate the development of machine learning algorithms for the systematic review study selection process. Systematic reviews are an essential part of evidence-based medicine and involve the synthesis of all available evidence on a particular research question. However, the process of selecting relevant studies for inclusion in a systematic review can be time-consuming and challenging, particularly as the number of available studies increases. This dataset aims to improve the efficiency and accuracy of study selection by providing a collection of pre-processed research articles that can be used to train and test machine learning algorithms.
 
 ## Datasets
 
@@ -45,6 +45,29 @@ pyodss download <FOLDER_TO_DOWNLOAD>
 ```
 
 with `pyodss list` you can get an overview of the datasets and their properties. 
+
+# Data pre-processing
+
+The full text of each article is pre-processed using natural language processing techniques. This includes tasks such as sentence segmentation, tokenization, part-of-speech tagging, and named entity recognition. The pre-processing step is designed to extract meaningful features from the text that can be used to train machine learning algorithms. The resulting pre-processed dataset is then split into training and testing sets, with a predefined ratio.
+
+
+
+# Data Format
+
+The dataset is provided in a standardized format that includes the following fields:
+
+Title: The title of the article.
+Abstract: The abstract of the article.
+Full Text: The full text of the article, pre-processed using natural language processing techniques.
+Inclusion Status: A binary label indicating whether the article was included or excluded in the systematic review.
+Reason for Exclusion: If the article was excluded, a brief explanation of the reason for exclusion.
+The dataset is provided in both CSV and JSON formats.
+
+# Dataset Size
+
+The dataset contains a total of X articles, of which Y were included in the systematic review and Z were excluded. The training set contains a subset of X articles, with a predefined ratio, while the testing set contains the remaining articles.
+
+The ODSS dataset is a linked dataset that consists of Study Selection in Systematic Reviews. The dataset consists of XXX fully labeled datasets. For all these datasets, an OpenAlex record is available. 
 
 ## Credits
 
