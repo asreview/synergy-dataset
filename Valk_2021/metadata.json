@@ -1,7 +1,10 @@
 {
   "key": "Valk_2021",
   "publication": {
-    "doi": "10.1111/obr.13376"
+    "doi": "10.1111/obr.13376",
+    "citation": {
+      "apa": "Valk, E., Abawi, O., Mohseni, M., Abdelmoumen, A., Wester, V., Voorn, B., Iyer, A., Akker, E., Hoeks, S., Berg, S., Rijke, Y., Stalder, T., & Rossum, E. (2021). Cross\u2010sectional relation of long\u2010term glucocorticoids in hair with anthropometric measurements and their possible determinants: A systematic review and meta\u2010analysis. Obesity Reviews, 23(3). Portico. https://doi.org/10.1111/obr.13376\n"
+    }
   },
   "data": {
     "doi": "https://osf.io/download/gmjcv/",

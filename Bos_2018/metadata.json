@@ -1,7 +1,10 @@
 {
   "key": "Bos_2018",
   "publication": {
-    "doi": "10.1016/j.jalz.2018.04.007"
+    "doi": "10.1016/j.jalz.2018.04.007",
+    "citation": {
+      "apa": "Bos, D., Wolters, F. J., Darweesh, S. K. L., Vernooij, M. W., Wolf, F., Ikram, M. A., & Hofman, A. (2018). Cerebral small vessel disease and the risk of dementia: A systematic review and meta\u2010analysis of population\u2010based evidence. Alzheimer\u2019s &amp; Dementia, 14(11), 1482\u20131492. Portico. https://doi.org/10.1016/j.jalz.2018.04.007\n"
+    }
   },
   "data": {
     "doi": "https://osf.io/w3kbq/",

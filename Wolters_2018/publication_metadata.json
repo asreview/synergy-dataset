@@ -1,0 +1,854 @@
+{
+  "id": "https://openalex.org/W2790981410",
+  "doi": "https://doi.org/10.1016/j.jalz.2018.01.007",
+  "title": "Coronary heart disease, heart failure, and the risk of dementia: A systematic review and meta\u2010analysis",
+  "display_name": "Coronary heart disease, heart failure, and the risk of dementia: A systematic review and meta\u2010analysis",
+  "publication_year": 2018,
+  "publication_date": "2018-11-01",
+  "ids": {
+    "openalex": "https://openalex.org/W2790981410",
+    "doi": "https://doi.org/10.1016/j.jalz.2018.01.007",
+    "mag": "2790981410",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/29494808"
+  },
+  "primary_location": {
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.1016/j.jalz.2018.01.007",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S108427512",
+      "display_name": "Alzheimers & Dementia",
+      "issn_l": "1552-5260",
+      "issn": [
+        "1552-5260",
+        "1552-5279"
+      ],
+      "host_organization": "https://openalex.org/P4310320990",
+      "type": "journal"
+    },
+    "license": null,
+    "version": null
+  },
+  "host_venue": {
+    "id": "https://openalex.org/S108427512",
+    "issn_l": "1552-5260",
+    "issn": [
+      "1552-5260",
+      "1552-5279"
+    ],
+    "display_name": "Alzheimers & Dementia",
+    "publisher": "Elsevier BV",
+    "type": "journal",
+    "url": null,
+    "is_oa": false,
+    "version": null,
+    "license": null
+  },
+  "type": "journal-article",
+  "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A2194525489",
+        "display_name": "Frank J. Wolters",
+        "orcid": "https://orcid.org/0000-0003-2226-4050"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I136199984",
+          "display_name": "Harvard University",
+          "ror": "https://ror.org/03vek6s52",
+          "country_code": "US",
+          "type": "education"
+        },
+        {
+          "id": "https://openalex.org/I913958620",
+          "display_name": "Erasmus University Rotterdam",
+          "ror": "https://ror.org/057w15z03",
+          "country_code": "NL",
+          "type": "education"
+        }
+      ],
+      "raw_affiliation_string": "Department of Epidemiology, Harvard T.H. Chan School of Public Health, Boston, MA, USA; Department of Neurology, Erasmus Medical Centre, Rotterdam, The Netherlands"
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A2790800617",
+        "display_name": "Reffat A. Segufa",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I121797337",
+          "display_name": "Leiden University",
+          "ror": "https://ror.org/027bh9e22",
+          "country_code": "NL",
+          "type": "education"
+        }
+      ],
+      "raw_affiliation_string": "Department of Gerontology and Geriatrics Leiden University Medical Centre Leiden The Netherlands"
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A2035690477",
+        "display_name": "Sirwan K.L. Darweesh",
+        "orcid": "https://orcid.org/0000-0002-4361-4593"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I136199984",
+          "display_name": "Harvard University",
+          "ror": "https://ror.org/03vek6s52",
+          "country_code": "US",
+          "type": "education"
+        },
+        {
+          "id": "https://openalex.org/I913958620",
+          "display_name": "Erasmus University Rotterdam",
+          "ror": "https://ror.org/057w15z03",
+          "country_code": "NL",
+          "type": "education"
+        }
+      ],
+      "raw_affiliation_string": "Department of Epidemiology, Harvard T.H. Chan School of Public Health, Boston, MA, USA; Department of Neurology, Erasmus Medical Centre, Rotterdam, The Netherlands"
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A2152638680",
+        "display_name": "Daniel Bos",
+        "orcid": "https://orcid.org/0000-0001-8979-2603"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I136199984",
+          "display_name": "Harvard University",
+          "ror": "https://ror.org/03vek6s52",
+          "country_code": "US",
+          "type": "education"
+        },
+        {
+          "id": "https://openalex.org/I913958620",
+          "display_name": "Erasmus University Rotterdam",
+          "ror": "https://ror.org/057w15z03",
+          "country_code": "NL",
+          "type": "education"
+        }
+      ],
+      "raw_affiliation_string": "Department of Epidemiology, Harvard T.H. Chan School of Public Health, Boston, MA, USA; Department of Radiology and Nuclear Medicine, Erasmus Medical Centre, Rotterdam, The Netherlands"
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A1998563527",
+        "display_name": "M. Arfan Ikram",
+        "orcid": "https://orcid.org/0000-0003-0173-9571"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I913958620",
+          "display_name": "Erasmus University Rotterdam",
+          "ror": "https://ror.org/057w15z03",
+          "country_code": "NL",
+          "type": "education"
+        }
+      ],
+      "raw_affiliation_string": "Department of Radiology and Nuclear Medicine, Erasmus Medical Centre, Rotterdam, The Netherlands"
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A1811508261",
+        "display_name": "Behnam Sabayan",
+        "orcid": "https://orcid.org/0000-0002-1176-9152"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I121797337",
+          "display_name": "Leiden University",
+          "ror": "https://ror.org/027bh9e22",
+          "country_code": "NL",
+          "type": "education"
+        },
+        {
+          "id": "https://openalex.org/I111979921",
+          "display_name": "Northwestern University",
+          "ror": "https://ror.org/000e0be47",
+          "country_code": "US",
+          "type": "education"
+        }
+      ],
+      "raw_affiliation_string": "Department of Gerontology and Geriatrics, Leiden University Medical Centre, Leiden, The Netherlands; Department of Neurology, Feinberg School of Medicine, Northwestern University, Chicago, IL, USA"
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A2251992767",
+        "display_name": "Albert Hofman",
+        "orcid": "https://orcid.org/0000-0002-9865-121X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I913958620",
+          "display_name": "Erasmus University Rotterdam",
+          "ror": "https://ror.org/057w15z03",
+          "country_code": "NL",
+          "type": "education"
+        },
+        {
+          "id": "https://openalex.org/I136199984",
+          "display_name": "Harvard University",
+          "ror": "https://ror.org/03vek6s52",
+          "country_code": "US",
+          "type": "education"
+        }
+      ],
+      "raw_affiliation_string": "Department of Epidemiology, Erasmus Medical Centre, Rotterdam, The Netherlands; Department of Epidemiology, Harvard T.H. Chan School of Public Health, Boston, MA, USA"
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A2010460932",
+        "display_name": "Sanaz Sedaghat",
+        "orcid": "https://orcid.org/0000-0002-3244-7726"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I913958620",
+          "display_name": "Erasmus University Rotterdam",
+          "ror": "https://ror.org/057w15z03",
+          "country_code": "NL",
+          "type": "education"
+        }
+      ],
+      "raw_affiliation_string": "Department of Epidemiology, Erasmus Medical Centre, Rotterdam, The Netherlands."
+    }
+  ],
+  "cited_by_count": 94,
+  "biblio": {
+    "volume": "14",
+    "issue": "11",
+    "first_page": "1493",
+    "last_page": "1504"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "concepts": [
+    {
+      "id": "https://openalex.org/C2779483572",
+      "wikidata": "https://www.wikidata.org/wiki/Q83030",
+      "display_name": "Dementia",
+      "level": 3,
+      "score": "0.8750614"
+    },
+    {
+      "id": "https://openalex.org/C71924100",
+      "wikidata": "https://www.wikidata.org/wiki/Q11190",
+      "display_name": "Medicine",
+      "level": 0,
+      "score": "0.7747284"
+    },
+    {
+      "id": "https://openalex.org/C95190672",
+      "wikidata": "https://www.wikidata.org/wiki/Q815382",
+      "display_name": "Meta-analysis",
+      "level": 2,
+      "score": "0.7322855"
+    },
+    {
+      "id": "https://openalex.org/C82789193",
+      "wikidata": "https://www.wikidata.org/wiki/Q2142611",
+      "display_name": "Relative risk",
+      "level": 3,
+      "score": "0.7202557"
+    },
+    {
+      "id": "https://openalex.org/C2778198053",
+      "wikidata": "https://www.wikidata.org/wiki/Q181754",
+      "display_name": "Heart failure",
+      "level": 2,
+      "score": "0.6523734"
+    },
+    {
+      "id": "https://openalex.org/C126322002",
+      "wikidata": "https://www.wikidata.org/wiki/Q11180",
+      "display_name": "Internal medicine",
+      "level": 1,
+      "score": "0.6146488"
+    },
+    {
+      "id": "https://openalex.org/C44249647",
+      "wikidata": "https://www.wikidata.org/wiki/Q208498",
+      "display_name": "Confidence interval",
+      "level": 2,
+      "score": "0.5687108"
+    },
+    {
+      "id": "https://openalex.org/C164705383",
+      "wikidata": "https://www.wikidata.org/wiki/Q10379",
+      "display_name": "Cardiology",
+      "level": 1,
+      "score": "0.4656739"
+    },
+    {
+      "id": "https://openalex.org/C2908647359",
+      "wikidata": "https://www.wikidata.org/wiki/Q2625603",
+      "display_name": "Population",
+      "level": 2,
+      "score": "0.46299136"
+    },
+    {
+      "id": "https://openalex.org/C50440223",
+      "wikidata": "https://www.wikidata.org/wiki/Q1475848",
+      "display_name": "Risk factor",
+      "level": 2,
+      "score": "0.41220826"
+    },
+    {
+      "id": "https://openalex.org/C2779134260",
+      "wikidata": "https://www.wikidata.org/wiki/Q12136",
+      "display_name": "Disease",
+      "level": 2,
+      "score": "0.41094235"
+    },
+    {
+      "id": "https://openalex.org/C99454951",
+      "wikidata": "https://www.wikidata.org/wiki/Q932068",
+      "display_name": "Environmental health",
+      "level": 1,
+      "score": "0.064986795"
+    }
+  ],
+  "mesh": [
+    {
+      "descriptor_ui": "D003327",
+      "descriptor_name": "Coronary Disease",
+      "qualifier_ui": "Q000453",
+      "qualifier_name": "epidemiology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D003704",
+      "descriptor_name": "Dementia",
+      "qualifier_ui": "Q000453",
+      "qualifier_name": "epidemiology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D006333",
+      "descriptor_name": "Heart Failure",
+      "qualifier_ui": "Q000453",
+      "qualifier_name": "epidemiology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D003327",
+      "descriptor_name": "Coronary Disease",
+      "qualifier_ui": "",
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D003704",
+      "descriptor_name": "Dementia",
+      "qualifier_ui": "",
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006333",
+      "descriptor_name": "Heart Failure",
+      "qualifier_ui": "",
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": "",
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D012306",
+      "descriptor_name": "Risk",
+      "qualifier_ui": "",
+      "qualifier_name": null,
+      "is_major_topic": false
+    }
+  ],
+  "locations": [
+    {
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1016/j.jalz.2018.01.007",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S108427512",
+        "display_name": "Alzheimers & Dementia",
+        "issn_l": "1552-5260",
+        "issn": [
+          "1552-5260",
+          "1552-5279"
+        ],
+        "host_organization": "https://openalex.org/P4310320990",
+        "type": "journal"
+      },
+      "license": null,
+      "version": null
+    }
+  ],
+  "best_oa_location": null,
+  "alternate_host_venues": [
+    {
+      "id": "https://openalex.org/S108427512",
+      "display_name": "Alzheimers & Dementia",
+      "type": "journal",
+      "url": null,
+      "is_oa": false,
+      "version": null,
+      "license": null
+    }
+  ],
+  "referenced_works": [
+    "https://openalex.org/W842083477",
+    "https://openalex.org/W1482205026",
+    "https://openalex.org/W1503895697",
+    "https://openalex.org/W1564602644",
+    "https://openalex.org/W1589554927",
+    "https://openalex.org/W1602062234",
+    "https://openalex.org/W1875005193",
+    "https://openalex.org/W1930089311",
+    "https://openalex.org/W1947201006",
+    "https://openalex.org/W1963969663",
+    "https://openalex.org/W1968401437",
+    "https://openalex.org/W1976760397",
+    "https://openalex.org/W1976825681",
+    "https://openalex.org/W1985920977",
+    "https://openalex.org/W1992749786",
+    "https://openalex.org/W1993571512",
+    "https://openalex.org/W2009869050",
+    "https://openalex.org/W2017257387",
+    "https://openalex.org/W2042826767",
+    "https://openalex.org/W2051064550",
+    "https://openalex.org/W2063431846",
+    "https://openalex.org/W2070135829",
+    "https://openalex.org/W2074874117",
+    "https://openalex.org/W2084628164",
+    "https://openalex.org/W2084970815",
+    "https://openalex.org/W2085947440",
+    "https://openalex.org/W2087243986",
+    "https://openalex.org/W2090544953",
+    "https://openalex.org/W2098151967",
+    "https://openalex.org/W2101827455",
+    "https://openalex.org/W2119605658",
+    "https://openalex.org/W2121393149",
+    "https://openalex.org/W2126930838",
+    "https://openalex.org/W2137736331",
+    "https://openalex.org/W2157823046",
+    "https://openalex.org/W2165186530",
+    "https://openalex.org/W2167487379",
+    "https://openalex.org/W2171251365",
+    "https://openalex.org/W2265553328",
+    "https://openalex.org/W2355524658",
+    "https://openalex.org/W2519571002",
+    "https://openalex.org/W2534868478",
+    "https://openalex.org/W2764068107",
+    "https://openalex.org/W2764076311"
+  ],
+  "related_works": [
+    "https://openalex.org/W1885119863",
+    "https://openalex.org/W2082098927",
+    "https://openalex.org/W2125804349",
+    "https://openalex.org/W2318187771",
+    "https://openalex.org/W2413205046",
+    "https://openalex.org/W2592774827",
+    "https://openalex.org/W2626084264",
+    "https://openalex.org/W2771228268",
+    "https://openalex.org/W2796659858",
+    "https://openalex.org/W2903890959"
+  ],
+  "ngrams_url": "https://api.openalex.org/works/W2790981410/ngrams",
+  "abstract_inverted_index": {
+    "Cardiovascular": [
+      0
+    ],
+    "risk": [
+      1,
+      24,
+      42,
+      69,
+      74,
+      98,
+      144
+    ],
+    "factors": [
+      2
+    ],
+    "are": [
+      3,
+      139
+    ],
+    "closely": [
+      4
+    ],
+    "linked": [
+      5
+    ],
+    "with": [
+      6,
+      41,
+      65,
+      83,
+      94,
+      103,
+      141
+    ],
+    "dementia": [
+      7,
+      15,
+      71,
+      97
+    ],
+    "risk,": [
+      8
+    ],
+    "but": [
+      9
+    ],
+    "whether": [
+      10
+    ],
+    "heart": [
+      11,
+      34,
+      38
+    ],
+    "disease": [
+      12,
+      35
+    ],
+    "predisposes": [
+      13
+    ],
+    "to": [
+      14
+    ],
+    "is": [
+      16
+    ],
+    "uncertain.We": [
+      17
+    ],
+    "systematically": [
+      18
+    ],
+    "reviewed": [
+      19
+    ],
+    "the": [
+      20,
+      30
+    ],
+    "literature": [
+      21
+    ],
+    "and": [
+      22,
+      52,
+      124,
+      131,
+      137
+    ],
+    "meta-analyzed": [
+      23
+    ],
+    "estimates": [
+      25,
+      114
+    ],
+    "from": [
+      26
+    ],
+    "longitudinal": [
+      27
+    ],
+    "studies": [
+      28,
+      47,
+      54,
+      87
+    ],
+    "reporting": [
+      29
+    ],
+    "association": [
+      31
+    ],
+    "of": [
+      32,
+      43,
+      61,
+      70,
+      145
+    ],
+    "coronary": [
+      33
+    ],
+    "(CHD)": [
+      36
+    ],
+    "or": [
+      37
+    ],
+    "failure": [
+      39
+    ],
+    "(HF)": [
+      40
+    ],
+    "dementia.We": [
+      44
+    ],
+    "identified": [
+      45
+    ],
+    "16": [
+      46
+    ],
+    "(1,309,483": [
+      48
+    ],
+    "individuals)": [
+      49,
+      56
+    ],
+    "regarding": [
+      50
+    ],
+    "CHD,": [
+      51,
+      118
+    ],
+    "seven": [
+      53
+    ],
+    "(1,958,702": [
+      55
+    ],
+    "about": [
+      57
+    ],
+    "HF.": [
+      58
+    ],
+    "A": [
+      59
+    ],
+    "history": [
+      60
+    ],
+    "CHD": [
+      62
+    ],
+    "was": [
+      63,
+      92
+    ],
+    "associated": [
+      64,
+      93,
+      140
+    ],
+    "a": [
+      66
+    ],
+    "27%": [
+      67
+    ],
+    "increased": [
+      68,
+      96,
+      143
+    ],
+    "(pooled": [
+      72,
+      99
+    ],
+    "relative": [
+      73
+    ],
+    "[RR]": [
+      75
+    ],
+    "[95%": [
+      76
+    ],
+    "confidence": [
+      77
+    ],
+    "interval,": [
+      78
+    ],
+    "CI]:": [
+      79
+    ],
+    "1.27": [
+      80
+    ],
+    "[1.07-1.50]),": [
+      81
+    ],
+    "albeit": [
+      82
+    ],
+    "considerable": [
+      84
+    ],
+    "heterogeneity": [
+      85,
+      105
+    ],
+    "across": [
+      86
+    ],
+    "(I2": [
+      88,
+      106,
+      134
+    ],
+    "=": [
+      89,
+      107,
+      135
+    ],
+    "80%).": [
+      90
+    ],
+    "HF": [
+      91,
+      138
+    ],
+    "60%": [
+      95
+    ],
+    "RR": [
+      100,
+      119,
+      126
+    ],
+    "1.60": [
+      101
+    ],
+    "[1.19-2.13])": [
+      102
+    ],
+    "moderate": [
+      104
+    ],
+    "59%).": [
+      108
+    ],
+    "Among": [
+      109
+    ],
+    "prospective": [
+      110
+    ],
+    "population-based": [
+      111
+    ],
+    "cohorts,": [
+      112
+    ],
+    "pooled": [
+      113
+    ],
+    "were": [
+      115
+    ],
+    "similar": [
+      116
+    ],
+    "(for": [
+      117
+    ],
+    "1.26": [
+      120
+    ],
+    "[1.06-1.49],": [
+      121
+    ],
+    "nine": [
+      122
+    ],
+    "studies;": [
+      123
+    ],
+    "HF,": [
+      125
+    ],
+    "1.80": [
+      127
+    ],
+    "[1.41-2.31],": [
+      128
+    ],
+    "four": [
+      129
+    ],
+    "studies)": [
+      130
+    ],
+    "highly": [
+      132
+    ],
+    "consistent": [
+      133
+    ],
+    "0%).CHD": [
+      136
+    ],
+    "an": [
+      142
+    ],
+    "dementia.": [
+      146
+    ]
+  },
+  "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2790981410",
+  "counts_by_year": [
+    {
+      "year": 2023,
+      "cited_by_count": 10
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 28
+    },
+    {
+      "year": 2021,
+      "cited_by_count": 19
+    },
+    {
+      "year": 2020,
+      "cited_by_count": 21
+    },
+    {
+      "year": 2019,
+      "cited_by_count": 12
+    },
+    {
+      "year": 2018,
+      "cited_by_count": 4
+    }
+  ],
+  "updated_date": "2023-03-04T21:46:57.179159",
+  "created_date": "2018-03-29"
+}

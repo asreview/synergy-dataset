@@ -12,7 +12,7 @@
     "pmid": "https://pubmed.ncbi.nlm.nih.gov/34811866"
   },
   "primary_location": {
-    "is_oa": null,
+    "is_oa": false,
     "landing_page_url": "https://doi.org/10.1111/obr.13376",
     "pdf_url": null,
     "source": {
@@ -539,7 +539,7 @@
   ],
   "locations": [
     {
-      "is_oa": null,
+      "is_oa": false,
       "landing_page_url": "https://doi.org/10.1111/obr.13376",
       "pdf_url": null,
       "source": {
@@ -1359,6 +1359,6 @@
       "cited_by_count": 1
     }
   ],
-  "updated_date": "2023-02-18T16:20:34.281339",
+  "updated_date": "2023-03-09T18:18:58.681109",
   "created_date": "2021-12-06"
 }

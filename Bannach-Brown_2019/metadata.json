@@ -1,7 +1,10 @@
 {
   "key": "Bannach-Brown_2019",
   "publication": {
-    "doi": "10.1186/s13643-019-0942-7"
+    "doi": "10.1186/s13643-019-0942-7",
+    "citation": {
+      "apa": "Bannach-Brown, A., Przyby\u0142a, P., Thomas, J., Rice, A. S. C., Ananiadou, S., Liao, J., & Macleod, M. R. (2019). Machine learning algorithms for systematic review: reducing workload in a preclinical review of animal studies and reducing human screening error. Systematic Reviews, 8(1). https://doi.org/10.1186/s13643-019-0942-7\n"
+    }
   },
   "data": {
     "doi": "https://doi.org/10.5281/zenodo.151190",

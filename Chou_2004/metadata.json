@@ -1,7 +1,10 @@
 {
   "key": "Chou_2004",
   "publication": {
-    "doi": "10.1016/j.jpainsymman.2004.05.002"
+    "doi": "10.1016/j.jpainsymman.2004.05.002",
+    "citation": {
+      "apa": "Chou, R., Peterson, K., & Helfand, M. (2004). Comparative efficacy and safety of skeletal muscle relaxants for spasticity and musculoskeletal conditions: a systematic review. Journal of Pain and Symptom Management, 28(2), 140\u2013175. https://doi.org/10.1016/j.jpainsymman.2004.05.002\n"
+    }
   },
   "data": {
     "doi": "https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html",
