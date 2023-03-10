@@ -97,6 +97,15 @@ def render_metadata(dataset_config, labels_path):
     except requests.exceptions.HTTPError as err:
         print("ERROR with metadata of {}:".format(dataset["key"]), err)
 
+    # get the APA style citation
+    r = requests.get(
+        "https://doi.org/" + dataset["publication"]["doi"],
+        headers={"accept": "text/x-bibliography; style=apa; charset=utf-8"}
+    )
+    r.encoding = "utf-8"
+    dataset["publication"]["citation"] = {"apa": r.text}
+
+    # add stats
     n, n_included = stats(labels_path)
     config["data"]["n_records"] = n
     config["data"]["n_records_included"] = n_included
@@ -119,23 +128,25 @@ if __name__ == "__main__":
 
     for dataset in config["datasets"]:
 
-        if dataset["key"] == args.dataset_name:
+        if args.dataset_name and dataset["key"] != args.dataset_name:
+            logging.debug(f"Skip dataset {dataset['key']}")
+            continue
 
-            output_path = Path("..", "odss-release", args.dataset_name)
-            output_path.mkdir(exist_ok=True, parents=True)
+        if "active" in dataset and not dataset["active"]:
+            print(f"Not active {dataset['key']}")
+            continue
 
-            if 1:
-                package(args.dataset_name, output_path)
+        output_path = Path("..", "odss-release", dataset["key"])
+        output_path.mkdir(exist_ok=True, parents=True)
 
-            if 1:
-                meta, works = render_metadata(dataset, Path(output_path, "labels.csv"))
+        # if 1:
+        #     package(args.dataset_name, output_path)
 
-                with open(Path(output_path, "metadata.json"), "w") as f:
-                    json.dump(meta, f, indent=2)
+        if 1:
+            meta, works = render_metadata(dataset, Path(output_path, "labels.csv"))
 
-                with open(Path(output_path, "publication_metadata.json"), "w") as f:
-                    json.dump(works, f, indent=2)
+            with open(Path(output_path, "metadata.json"), "w") as f:
+                json.dump(meta, f, indent=2)
 
-            break
-    else:
-        raise ValueError(f"'{args.dataset_name}' not found.")
+            with open(Path(output_path, "publication_metadata.json"), "w") as f:
+                json.dump(works, f, indent=2)

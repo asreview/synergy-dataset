@@ -239,3 +239,6 @@ if __name__ == "__main__":
             except requests.exceptions.JSONDecodeError as err:
                 df.to_csv(ds_glob, index=False)
                 raise err
+
+            finally:
+                df.to_csv(ds_glob, index=False)

@@ -24,6 +24,7 @@ version=0.1
 
  key="Wahono_2015"
  active=false
+ note="The publication doesn't have a record in the OpenAlex database."
 
  [datasets.publication]
   # http://journal.ilmukomputer.org/index.php?journal=jse&page=article&op=view&path%5B%5D=47
@@ -46,18 +47,19 @@ version=0.1
   doi="10.5281/zenodo.1162952"
 
 
-#[[datasets]]
+[[datasets]]
 
-#  # Part of Yu et al. 2018 https://doi.org/10.1007/s10664-017-9587-0
-# Kitchenham records have non-matching the ieee.org URLs, reliability not clear
+ # Part of Yu et al. 2018 https://doi.org/10.1007/s10664-017-9587-0
 
-#  key="Kitchenham_2010"
+  key="Kitchenham_2010"
+  active=false
+  note="(IEEE) URLs in the dataset don't match the original records. Reliability concern."
 
-#  [datasets.publication]
-#  doi= "10.1016/j.infsof.2010.03.006"
+  [datasets.publication]
+  doi= "10.1016/j.infsof.2010.03.006"
 
-#  [datasets.data]
-#  doi="10.5281/zenodo.1162952"
+  [datasets.data]
+  doi="10.5281/zenodo.1162952"
 
 [[datasets]]
   # Processes 1 dataset (https://osf.io/tnxju/)
@@ -110,6 +112,7 @@ version=0.1
 [[datasets]]
 
   key="Brouwer_2019"
+  active=false
 
   [datasets.publication]
 
@@ -160,9 +163,10 @@ version=0.1
 [[datasets]]
 
   key="Cohen_2006_ACEInhibitors"
+  active=false
+  note="Original publication not found"
 
   [datasets.publication]
-
   doi= "10.1197/jamia.M1929"
 
   [datasets.data]
@@ -175,9 +179,10 @@ version=0.1
 [[datasets]]
 
   key="Cohen_2006_CalciumChannelBlockers"
+  active=false
+  note="Original publication not found"
 
   [datasets.publication]
-
   doi= "10.1197/jamia.M1929"
 
   [datasets.data]
@@ -191,9 +196,10 @@ version=0.1
 [[datasets]]
 
   key="Cohen_2006_ProtonPumpInhibitors"
+  active=false
+  note="Original publication not found"
 
   [datasets.publication]
-
   doi= "10.1197/jamia.M1929"
 
   [datasets.data]
@@ -207,9 +213,10 @@ version=0.1
 [[datasets]]
 
   key="Cohen_2006_ADHD"
+  active=false
+  note="Original publication not found"
 
   [datasets.publication]
-
   doi= "10.1197/jamia.M1929"
 
   [datasets.data]
@@ -259,9 +266,10 @@ version=0.1
 [[datasets]]
 
   key="Cohen_2006_Antihistamines"
+  active=false
+  note="Original publication not found"
 
   [datasets.publication]
-
   doi= "10.1197/jamia.M1929"
 
   [datasets.data]
@@ -274,9 +282,10 @@ version=0.1
 [[datasets]]
 
   key="Cohen_2006_NSAIDS"
+  active=false
+  note="Original publication not found"
 
   [datasets.publication]
-
   doi= "10.1197/jamia.M1929"
 
   [datasets.data]
@@ -290,9 +299,10 @@ version=0.1
 [[datasets]]
 
   key="Cohen_2006_Statins"
+  active=false
+  note="Original publication not found"
 
   [datasets.publication]
-
   doi= "10.1197/jamia.M1929"
 
   [datasets.data]
@@ -307,9 +317,10 @@ version=0.1
 [[datasets]]
 
   key="Cohen_2006_AtypicalAntipsychotics"
+  active=false
+  note="Original publication not found"
 
   [datasets.publication]
-
   doi= "10.1197/jamia.M1929"
 
   [datasets.data]
@@ -340,9 +351,10 @@ version=0.1
 [[datasets]]
 
   key="Cohen_2006_Triptans"
+  active=false
+  note="Original publication not found"
 
   [datasets.publication]
-
   doi= "10.1197/jamia.M1929"
 
   [datasets.data]
@@ -357,9 +369,10 @@ version=0.1
 [[datasets]]
 
   key="Cohen_2006_BetaBlockers"
+  active=false
+  note="Original publication not found"
 
   [datasets.publication]
-
   doi= "10.1197/jamia.M1929"
 
   [datasets.data]
@@ -372,9 +385,10 @@ version=0.1
 [[datasets]]
 
   key="Cohen_2006_OralHypoglycemics"
+  active=false
+  note="Original publication not found"
 
   [datasets.publication]
-
   doi= "10.1197/jamia.M1929"
 
   [datasets.data]
@@ -388,9 +402,10 @@ version=0.1
 [[datasets]]
 
   key="Cohen_2006_UrinaryIncontinence"
+  active=false
+  note="Original publication not found"
 
   [datasets.publication]
-
   doi= "10.1197/jamia.M1929"
 
   [datasets.data]
@@ -403,6 +418,8 @@ version=0.1
 [[datasets]]
 
   key="Nagtegaal_2019"
+  active=false
+  note="Dataset technically corrupted."
 
   [datasets.publication]
 
@@ -419,6 +436,7 @@ version=0.1
   # https://doi.org/10.1080/00273171.2017.1412293
 
   key="van_de_Schoot_2017"
+  note="Issue with year of publication (2017). 2016 or 2018?"
 
   [datasets.publication]
 
@@ -455,3 +473,12 @@ version=0.1
   doi="https://osf.io/sxzjg/"
 
 
+[[datasets]]
+
+  key="Leenaars_2019"
+
+  [datasets.publication]
+  doi= "10.5334/jcr.183"
+
+  [datasets.data]
+  doi="10.17605/OSF.IO/PH56S"
