@@ -112,7 +112,7 @@ def openalex_work_by_id(
                 if "pmid" in w["ids"]:
                     results[w["ids"]["pmid"]] = (w["doi"], w["ids"]["pmid"], w["id"])
             elif id_type == "doi":
-                results[w[id_type]] = (
+                results[w["doi"]] = (
                     w["doi"],
                     w["ids"]["pmid"] if "pmid" in w["ids"] else None,
                     w["id"],
@@ -126,8 +126,11 @@ def openalex_work_by_id(
     store = []
     for x in id_list:
 
+        if id_type == "doi":
+            x = clean_doi(x)
+
         try:
-            doi = results[clean_doi(x)][0]
+            doi = results[x][0]
 
         except KeyError:
             if id_type == "doi":
@@ -136,7 +139,7 @@ def openalex_work_by_id(
                 doi = None
 
         try:
-            pmid = results[clean_doi(x)][1]
+            pmid = results[x][1]
         except KeyError:
             if id_type == "pmid":
                 pmid = x
@@ -144,7 +147,7 @@ def openalex_work_by_id(
                 pmid = None
 
         try:
-            oaid = results[clean_doi(x)][2]
+            oaid = results[x][2]
         except KeyError:
             oaid = None
 
