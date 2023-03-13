@@ -2,6 +2,7 @@ import pandas as pd
 from pathlib import Path
 import math
 import argparse
+import logging
 from glob import glob
 
 import json
@@ -139,8 +140,8 @@ if __name__ == "__main__":
         output_path = Path("..", "odss-release", dataset["key"])
         output_path.mkdir(exist_ok=True, parents=True)
 
-        # if 1:
-        #     package(args.dataset_name, output_path)
+        if 1:
+            package(args.dataset_name, output_path)
 
         if 1:
             meta, works = render_metadata(dataset, Path(output_path, "labels.csv"))
