@@ -495,4 +495,13 @@ version=0.1
   doi="10.17605/OSF.IO/E5JNB"
 
 
+[[datasets]]
+
+  key="Menon_2022"
+
+  [datasets.publication]
+  doi= "10.1080/10408444.2022.2082917"
+
+  [datasets.data]
+  doi="https://osf.io/9jzsu"
 
