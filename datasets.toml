@@ -505,3 +505,12 @@ version=0.1
   [datasets.data]
   doi="https://osf.io/9jzsu"
 
+[[datasets]]
+
+  key="van_der_Waal_2022"
+
+  [datasets.publication]
+  doi= "https://doi.org/10.1016/j.jgo.2022.09.012"
+
+  [datasets.data]
+  doi="https://doi.org/10.5281/zenodo.7308296"
