@@ -57,7 +57,11 @@ def unquote_url(s):
 
 def search_title(title):
 
-    r, m = Works().search(title).get(return_meta=True)
+    try:
+        r, m = Works().search(title).get(return_meta=True)
+    except requests.exceptions.JSONDecodeError:
+        sleep(5)
+        r, m = Works().search(title).get(return_meta=True)
 
     matches = []
     for work in r:
