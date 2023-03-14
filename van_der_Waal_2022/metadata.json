@@ -1,0 +1,14 @@
+{
+  "key": "van_der_Waal_2022",
+  "publication": {
+    "doi": "https://doi.org/10.1016/j.jgo.2022.09.012",
+    "citation": {
+      "apa": "van der Waal, M. S., Seghers, N., Welsing, P. M. J., van Huis, L. H., Emmelot-Vonk, M. H., & Hamaker, M. E. (2023). A meta-analysis on the role older adults with cancer favour in treatment decision making. Journal of Geriatric Oncology, 14(1), 101383. https://doi.org/10.1016/j.jgo.2022.09.012\n"
+    }
+  },
+  "data": {
+    "doi": "https://doi.org/10.5281/zenodo.7308296",
+    "n_records": 1959,
+    "n_records_included": 33
+  }
+}

@@ -1,0 +1,803 @@
+{
+  "id": "https://openalex.org/W4304695229",
+  "doi": "https://doi.org/10.1016/j.jgo.2022.09.012",
+  "title": "A meta-analysis on the role older adults with cancer favour in treatment decision making",
+  "display_name": "A meta-analysis on the role older adults with cancer favour in treatment decision making",
+  "publication_year": 2022,
+  "publication_date": "2022-10-01",
+  "ids": {
+    "openalex": "https://openalex.org/W4304695229",
+    "doi": "https://doi.org/10.1016/j.jgo.2022.09.012",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/36243627"
+  },
+  "primary_location": {
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.1016/j.jgo.2022.09.012",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S199414623",
+      "display_name": "Journal of Geriatric Oncology",
+      "issn_l": "1879-4068",
+      "issn": [
+        "1879-4076",
+        "1879-4068"
+      ],
+      "host_organization": "https://openalex.org/P4310320990",
+      "type": "journal"
+    },
+    "license": null,
+    "version": null
+  },
+  "host_venue": {
+    "id": "https://openalex.org/S199414623",
+    "issn_l": "1879-4068",
+    "issn": [
+      "1879-4076",
+      "1879-4068"
+    ],
+    "display_name": "Journal of Geriatric Oncology",
+    "publisher": "Elsevier BV",
+    "type": "journal",
+    "url": null,
+    "is_oa": false,
+    "version": null,
+    "license": null
+  },
+  "type": "journal-article",
+  "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A4304722447",
+        "display_name": "M.S. van der Waal",
+        "orcid": null
+      },
+      "institutions": [],
+      "raw_affiliation_string": ""
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A4304722448",
+        "display_name": "P.A.L. Seghers",
+        "orcid": null
+      },
+      "institutions": [],
+      "raw_affiliation_string": ""
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A4304722449",
+        "display_name": "P.M.J. Welsing",
+        "orcid": null
+      },
+      "institutions": [],
+      "raw_affiliation_string": ""
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A4304722450",
+        "display_name": "L.H. van Huis",
+        "orcid": null
+      },
+      "institutions": [],
+      "raw_affiliation_string": ""
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A4304722451",
+        "display_name": "M.H. Emmelot-Vonk",
+        "orcid": null
+      },
+      "institutions": [],
+      "raw_affiliation_string": ""
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A4304722452",
+        "display_name": "M.E. Hamaker",
+        "orcid": null
+      },
+      "institutions": [],
+      "raw_affiliation_string": ""
+    }
+  ],
+  "cited_by_count": 0,
+  "biblio": {
+    "volume": "14",
+    "issue": "1",
+    "first_page": "101383",
+    "last_page": "101383"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "concepts": [
+    {
+      "id": "https://openalex.org/C71924100",
+      "wikidata": "https://www.wikidata.org/wiki/Q11190",
+      "display_name": "Medicine",
+      "level": 0,
+      "score": "0.89210415"
+    },
+    {
+      "id": "https://openalex.org/C2781249084",
+      "wikidata": "https://www.wikidata.org/wiki/Q908656",
+      "display_name": "Preference",
+      "level": 2,
+      "score": "0.7920406"
+    },
+    {
+      "id": "https://openalex.org/C95190672",
+      "wikidata": "https://www.wikidata.org/wiki/Q815382",
+      "display_name": "Meta-analysis",
+      "level": 2,
+      "score": "0.61416984"
+    },
+    {
+      "id": "https://openalex.org/C2779473830",
+      "wikidata": "https://www.wikidata.org/wiki/Q1540899",
+      "display_name": "MEDLINE",
+      "level": 2,
+      "score": "0.5950121"
+    },
+    {
+      "id": "https://openalex.org/C121608353",
+      "wikidata": "https://www.wikidata.org/wiki/Q12078",
+      "display_name": "Cancer",
+      "level": 2,
+      "score": "0.51379377"
+    },
+    {
+      "id": "https://openalex.org/C205545832",
+      "wikidata": "https://www.wikidata.org/wiki/Q17156455",
+      "display_name": "Young adult",
+      "level": 2,
+      "score": "0.48918894"
+    },
+    {
+      "id": "https://openalex.org/C187960798",
+      "wikidata": "https://www.wikidata.org/wiki/Q7631152",
+      "display_name": "Subgroup analysis",
+      "level": 3,
+      "score": "0.45328432"
+    },
+    {
+      "id": "https://openalex.org/C74909509",
+      "wikidata": "https://www.wikidata.org/wiki/Q10387",
+      "display_name": "Gerontology",
+      "level": 1,
+      "score": "0.37117183"
+    },
+    {
+      "id": "https://openalex.org/C512399662",
+      "wikidata": "https://www.wikidata.org/wiki/Q3505712",
+      "display_name": "Family medicine",
+      "level": 1,
+      "score": "0.33946228"
+    },
+    {
+      "id": "https://openalex.org/C126322002",
+      "wikidata": "https://www.wikidata.org/wiki/Q11180",
+      "display_name": "Internal medicine",
+      "level": 1,
+      "score": "0.19720638"
+    },
+    {
+      "id": "https://openalex.org/C17744445",
+      "wikidata": "https://www.wikidata.org/wiki/Q36442",
+      "display_name": "Political science",
+      "level": 0,
+      "score": "0.0"
+    },
+    {
+      "id": "https://openalex.org/C199539241",
+      "wikidata": "https://www.wikidata.org/wiki/Q7748",
+      "display_name": "Law",
+      "level": 1,
+      "score": "0.0"
+    },
+    {
+      "id": "https://openalex.org/C162324750",
+      "wikidata": "https://www.wikidata.org/wiki/Q8134",
+      "display_name": "Economics",
+      "level": 0,
+      "score": "0.0"
+    },
+    {
+      "id": "https://openalex.org/C175444787",
+      "wikidata": "https://www.wikidata.org/wiki/Q39072",
+      "display_name": "Microeconomics",
+      "level": 1,
+      "score": "0.0"
+    }
+  ],
+  "mesh": [
+    {
+      "descriptor_ui": "D003657",
+      "descriptor_name": "Decision Making",
+      "qualifier_ui": "",
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D009369",
+      "descriptor_name": "Neoplasms",
+      "qualifier_ui": "",
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D000368",
+      "descriptor_name": "Aged",
+      "qualifier_ui": "",
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": "",
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D010358",
+      "descriptor_name": "Patient Participation",
+      "qualifier_ui": "",
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D057240",
+      "descriptor_name": "Patient Preference",
+      "qualifier_ui": "",
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D011795",
+      "descriptor_name": "Surveys and Questionnaires",
+      "qualifier_ui": "",
+      "qualifier_name": null,
+      "is_major_topic": false
+    }
+  ],
+  "locations": [
+    {
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1016/j.jgo.2022.09.012",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S199414623",
+        "display_name": "Journal of Geriatric Oncology",
+        "issn_l": "1879-4068",
+        "issn": [
+          "1879-4076",
+          "1879-4068"
+        ],
+        "host_organization": "https://openalex.org/P4310320990",
+        "type": "journal"
+      },
+      "license": null,
+      "version": null
+    }
+  ],
+  "best_oa_location": null,
+  "alternate_host_venues": [
+    {
+      "id": "https://openalex.org/S199414623",
+      "display_name": "Journal of Geriatric Oncology",
+      "type": "journal",
+      "url": null,
+      "is_oa": false,
+      "version": null,
+      "license": null
+    }
+  ],
+  "referenced_works": [
+    "https://openalex.org/W1514161468",
+    "https://openalex.org/W1933427532",
+    "https://openalex.org/W1978275750",
+    "https://openalex.org/W1981637939",
+    "https://openalex.org/W1990677988",
+    "https://openalex.org/W2002893163",
+    "https://openalex.org/W2027672733",
+    "https://openalex.org/W2050189303",
+    "https://openalex.org/W2079997221",
+    "https://openalex.org/W2083532410",
+    "https://openalex.org/W2084432494",
+    "https://openalex.org/W2088882392",
+    "https://openalex.org/W2091021992",
+    "https://openalex.org/W2100992290",
+    "https://openalex.org/W2120771911",
+    "https://openalex.org/W2123548059",
+    "https://openalex.org/W2162293921",
+    "https://openalex.org/W2276173793",
+    "https://openalex.org/W2522143824",
+    "https://openalex.org/W2536996413",
+    "https://openalex.org/W2553019438",
+    "https://openalex.org/W2565759034",
+    "https://openalex.org/W2573457834",
+    "https://openalex.org/W2754495680",
+    "https://openalex.org/W2770826674",
+    "https://openalex.org/W2788643517",
+    "https://openalex.org/W2808452472",
+    "https://openalex.org/W2981706554",
+    "https://openalex.org/W2991696549",
+    "https://openalex.org/W3000269183",
+    "https://openalex.org/W3009916786",
+    "https://openalex.org/W3031924157",
+    "https://openalex.org/W3085500045",
+    "https://openalex.org/W3091199432",
+    "https://openalex.org/W3112724311",
+    "https://openalex.org/W3209480926"
+  ],
+  "related_works": [
+    "https://openalex.org/W2806325898",
+    "https://openalex.org/W3104027655",
+    "https://openalex.org/W3115466688",
+    "https://openalex.org/W3160696308",
+    "https://openalex.org/W3192249860",
+    "https://openalex.org/W3213074919",
+    "https://openalex.org/W4285587603",
+    "https://openalex.org/W4285740326",
+    "https://openalex.org/W4304695229",
+    "https://openalex.org/W4318716902"
+  ],
+  "ngrams_url": "https://api.openalex.org/works/W4304695229/ngrams",
+  "abstract_inverted_index": {
+    "In": [
+      0,
+      175
+    ],
+    "the": [
+      1,
+      25,
+      115
+    ],
+    "complex": [
+      2
+    ],
+    "setting": [
+      3
+    ],
+    "of": [
+      4,
+      58,
+      188
+    ],
+    "oncological": [
+      5,
+      64
+    ],
+    "treatment": [
+      6,
+      32,
+      65,
+      157,
+      172
+    ],
+    "decision": [
+      7,
+      33,
+      66,
+      158,
+      173
+    ],
+    "making,": [
+      8
+    ],
+    "balancing": [
+      9
+    ],
+    "professional": [
+      10
+    ],
+    "guidance": [
+      11
+    ],
+    "while": [
+      12
+    ],
+    "respecting": [
+      13
+    ],
+    "patient": [
+      14,
+      82
+    ],
+    "involvement": [
+      15,
+      126,
+      155
+    ],
+    "can": [
+      16
+    ],
+    "be": [
+      17
+    ],
+    "a": [
+      18,
+      79,
+      179
+    ],
+    "challenge.": [
+      19
+    ],
+    "We": [
+      20
+    ],
+    "set": [
+      21
+    ],
+    "out": [
+      22
+    ],
+    "to": [
+      23
+    ],
+    "assess": [
+      24
+    ],
+    "role": [
+      26,
+      56,
+      83,
+      119,
+      169
+    ],
+    "adults": [
+      27,
+      60,
+      96,
+      161
+    ],
+    "with": [
+      28,
+      61,
+      97,
+      162
+    ],
+    "cancer": [
+      29,
+      62,
+      163,
+      177
+    ],
+    "favour": [
+      30,
+      153
+    ],
+    "in": [
+      31,
+      49,
+      63,
+      85,
+      127,
+      156,
+      171
+    ],
+    "making": [
+      34
+    ],
+    "(TDM),": [
+      35
+    ],
+    "including": [
+      36
+    ],
+    "differences": [
+      37,
+      135
+    ],
+    "across": [
+      38
+    ],
+    "age": [
+      39,
+      100,
+      109
+    ],
+    "groups": [
+      40
+    ],
+    "and": [
+      41,
+      51,
+      141,
+      148
+    ],
+    "change": [
+      42
+    ],
+    "over": [
+      43
+    ],
+    "time.A": [
+      44
+    ],
+    "systematic": [
+      45
+    ],
+    "search": [
+      46
+    ],
+    "was": [
+      47,
+      70,
+      101
+    ],
+    "performed": [
+      48
+    ],
+    "MEDLINE": [
+      50
+    ],
+    "Embase,": [
+      52
+    ],
+    "for": [
+      53,
+      105
+    ],
+    "studies": [
+      54,
+      90,
+      106
+    ],
+    "on": [
+      55,
+      73,
+      81
+    ],
+    "preference": [
+      57,
+      84,
+      120,
+      170
+    ],
+    "(older)": [
+      59
+    ],
+    "making.": [
+      67,
+      174
+    ],
+    "A": [
+      68
+    ],
+    "meta-analysis": [
+      69,
+      87
+    ],
+    "conducted": [
+      71
+    ],
+    "based": [
+      72
+    ],
+    "Control": [
+      74
+    ],
+    "Preference": [
+      75
+    ],
+    "Scale": [
+      76
+    ],
+    "(CPS)": [
+      77
+    ],
+    "data,": [
+      78
+    ],
+    "questionnaire": [
+      80
+    ],
+    "TDM.This": [
+      86
+    ],
+    "includes": [
+      88
+    ],
+    "33": [
+      89
+    ],
+    "reporting": [
+      91
+    ],
+    "CPS": [
+      92
+    ],
+    "data": [
+      93
+    ],
+    "comprising": [
+      94
+    ],
+    "17,197": [
+      95
+    ],
+    "cancer.": [
+      98
+    ],
+    "Mean": [
+      99
+    ],
+    "60.6": [
+      102
+    ],
+    "years": [
+      103,
+      151
+    ],
+    "old": [
+      104
+    ],
+    "that": [
+      107
+    ],
+    "specified": [
+      108
+    ],
+    "(24": [
+      110
+    ],
+    "studies,": [
+      111
+    ],
+    "6155": [
+      112
+    ],
+    "patients).": [
+      113
+    ],
+    "During": [
+      114
+    ],
+    "last": [
+      116
+    ],
+    "decade,": [
+      117
+    ],
+    "patients'": [
+      118
+    ],
+    "shifted": [
+      121,
+      165
+    ],
+    "towards": [
+      122,
+      166
+    ],
+    "significantly": [
+      123
+    ],
+    "more": [
+      124,
+      167
+    ],
+    "active": [
+      125,
+      154,
+      168,
+      185
+    ],
+    "TDM": [
+      128
+    ],
+    "(p": [
+      129
+    ],
+    "=": [
+      130
+    ],
+    "0.006).": [
+      131
+    ],
+    "No": [
+      132
+    ],
+    "age-dependent": [
+      133
+    ],
+    "subgroup": [
+      134
+    ],
+    "have": [
+      136,
+      164
+    ],
+    "been": [
+      137
+    ],
+    "identified;": [
+      138
+    ],
+    "both": [
+      139
+    ],
+    "younger": [
+      140
+    ],
+    "older": [
+      142
+    ],
+    "adults,": [
+      143
+    ],
+    "defined": [
+      144
+    ],
+    "as,": [
+      145
+    ],
+    "respectively,": [
+      146
+    ],
+    "below": [
+      147
+    ],
+    "above": [
+      149
+    ],
+    "65": [
+      150
+    ],
+    "old,": [
+      152
+    ],
+    "making.Over": [
+      159
+    ],
+    "time,": [
+      160
+    ],
+    "current": [
+      176
+    ],
+    "care,": [
+      178
+    ],
+    "large": [
+      180
+    ],
+    "majority": [
+      181
+    ],
+    "prefers": [
+      182
+    ],
+    "taking": [
+      183
+    ],
+    "an": [
+      184
+    ],
+    "role,": [
+      186
+    ],
+    "irrespective": [
+      187
+    ],
+    "age.": [
+      189
+    ]
+  },
+  "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4304695229",
+  "counts_by_year": [],
+  "updated_date": "2023-03-08T22:26:14.831833",
+  "created_date": "2022-10-12"
+}
