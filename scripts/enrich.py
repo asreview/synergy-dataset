@@ -47,7 +47,7 @@ def compare_year(y1, y2):
     return y1 == y2
 
 
-def clean_doi(s):
+def unquote_url(s):
 
     if not s:
         return s
@@ -126,11 +126,8 @@ def openalex_work_by_id(
     store = []
     for x in id_list:
 
-        if id_type == "doi":
-            x = clean_doi(x)
-
         try:
-            doi = results[x][0]
+            doi = results[unquote_url(x)][0]
 
         except KeyError:
             if id_type == "doi":
@@ -139,7 +136,7 @@ def openalex_work_by_id(
                 doi = None
 
         try:
-            pmid = results[x][1]
+            pmid = results[unquote_url(x)][1]
         except KeyError:
             if id_type == "pmid":
                 pmid = x
@@ -147,7 +144,7 @@ def openalex_work_by_id(
                 pmid = None
 
         try:
-            oaid = results[x][2]
+            oaid = results[unquote_url(x)][2]
         except KeyError:
             oaid = None
 
