@@ -514,3 +514,34 @@ version=0.1
 
   [datasets.data]
   doi="https://doi.org/10.5281/zenodo.7308296"
+
+
+[[datasets]]
+
+  key="Muthu_2021"
+
+  [datasets.publication]
+  doi= "https://doi.org/10.1097/BRS.0000000000003645"
+
+  [datasets.data]
+  doi="https://osf.io/68ezp"
+
+[[datasets]]
+
+  key="Muthu_2022"
+
+  [datasets.publication]
+  doi= "http://doi.org/10.13105/wjma.v10.i3.162"
+
+  [datasets.data]
+  doi="https://osf.io/e2yz3/"
+
+[[datasets]]
+
+  key="Jeyaraman_2020"
+
+  [datasets.publication]
+  doi= "https://doi.org/10.1177/1947603520951623"
+
+  [datasets.data]
+  doi="https://osf.io/8drsc/"
