@@ -545,3 +545,13 @@ version=0.1
 
   [datasets.data]
   doi="https://osf.io/8drsc/"
+
+[[datasets]]
+
+  key="Moran_2020"
+
+  [datasets.publication]
+  doi= "10.1111/brv.12655"
+
+  [datasets.data]
+  doi="10.17605/OSF.IO/3TPHJ"
