@@ -19,6 +19,8 @@ from pyalex import Works
 
 pyalex.config.email = "asreview@uu.nl"
 
+SPECIAL_TOKENS = """()[]{}'@#:;"%&’,.?!/\\^"""
+
 
 def find_work_for_doi(doi):
 
@@ -57,6 +59,11 @@ def unquote_url(s):
 
 def search_title(title):
 
+    # clean title to prevent zero hits in openalex due to bad special char
+    # handling.
+    for x in SPECIAL_TOKENS:
+        title = title.replace(x, "")
+
     try:
         r, m = Works().search(title).get(return_meta=True)
     except requests.exceptions.JSONDecodeError:
@@ -68,7 +75,7 @@ def search_title(title):
         if "title" in work and work["title"] and title and compare_titles(work["title"], title):
             matches.append(work)
 
-    print(title, len(matches))
+    print(f"N={len(matches)}:",title)
     if len(matches) == 1:
         return matches[0]["doi"], matches[0]["id"]
 
