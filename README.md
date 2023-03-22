@@ -65,57 +65,62 @@ Some of the notable variables are:
 
 | Variable                 | Type                         |   Description |
 |------|-------------------------|-------------------------------|
-| title | String | String: The title of this work. |
+| label_included | Bin | 1 for included records, 0 for excluded records after full text screening |
+| title | String | The title of this work. |
+| title | String | The title of this work. |
+| title | String | The title of this work. |
+| title | String | The title of this work. |
+| title | String | The title of this work. |
+
+
 
 For the full list of variables, see this persistent copy of the OpenAlex Work Object documention: https://web.archive.org/web/20230104092916/https://docs.openalex.org/api-entities/works/work-object
 
+| Variable | Type  |  Description |
+|---|---|---|
+| abstract_inverted_index |  |  |
+| authorships |  |  |
+| best_oa_location |  |  |
+| biblio |  |  |
+| cited_by_api_url |  |  |
+| cited_by_count |  |  |
+| concepts |  |  |
+| counts_by_year |  |  |
+| created_date |  |  |
+| display_name |  |  |
+| doi |  |  |
+| id |  |  |
+| ids |  |  |
+| is_paratext |  |  |
+| is_retracted |  |  |
+| locations |  |  |
+| mesh |  |  |
+| ngrams_url |  |  |
+| open_access |  |  |
+| primary_location |  |  |
+| publication_date |  |  |
+| publication_year |  |  |
+| referenced_works |  |  |
+| related_works |  |  |
+| title |  |  |
+| type |  |  |
+| updated_date |  |  |
+| author |  |  |
+| author_position |  |  |
+| institutions |  |  |
+| raw_affiliation_string |  |  |
+| is_oa |  |  |
+| license |  |  |
+| url |  |  |
+| version |  |  |
+| ngram |  |  |
+| ngram_count |  |  |
+| ngram_tokens |  |  |
+| token_frequency |  |  |
+| is_oa |  |  |
+| oa_status |  |  |
+| oa_url |  |  |
 
-```
-abstract_inverted_index
-alternate_host_venues (deprecated)
-authorships
-best_oa_location
-biblio
-cited_by_api_url
-cited_by_count
-concepts
-counts_by_year
-created_date
-display_name
-doi
-host_venue (deprecated)
-id
-ids
-is_paratext
-is_retracted
-locations
-mesh
-ngrams_url
-open_access
-primary_location
-publication_date
-publication_year
-referenced_works
-related_works
-title
-type
-updated_date
-author
-author_position
-institutions
-raw_affiliation_string
-is_oa
-license
-url
-version
-ngram
-ngram_count
-ngram_tokens
-token_frequency
-is_oa
-oa_status
-oa_url
-```
 
 ## Benchmark
 
