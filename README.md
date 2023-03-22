@@ -135,12 +135,14 @@ If you use SYNERGY in a scientific publication, we would appreciate references t
 
 Biblatex entry:
 
+```bib
 @online{xxx,
   author       = {xxx},
   title        = {xxx},
   date         = {xxx},
   year         = {2023},
 }
+```
 
 ## Contact
 
