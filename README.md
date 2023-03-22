@@ -4,6 +4,7 @@
 
 # SYNERGY dataset
 
+
 ODSS is a dataset to facilitate the development of machine learning algorithms for the systematic review study selection process. Systematic reviews are an essential part of evidence-based medicine and involve the synthesis of all available evidence on a particular research question. However, the process of selecting relevant studies for inclusion in a systematic review can be time-consuming and challenging, particularly as the number of available studies increases. This dataset aims to improve the efficiency and accuracy of study selection by providing a collection of pre-processed research articles that can be used to train and test machine learning algorithms.
 
 [![SYNERGY-banner.png](SYNERGY-banner.png)]()
@@ -17,16 +18,19 @@ pip install synergy-dataset
 ```
 
 ```python
-synergy get <FOLDER_TO_DOWNLOAD>
+python -m synergy get <FOLDER_TO_DOWNLOAD>
 ```
 
-with `synergy list` you can get an overview of the datasets and their properties.
+You can get an overview of the datasets and their properties with `synergy list` and `synergy show <DATASET_NAME>`.
 
-> Slow internet connection or limited resources?
+> ### Slow internet connection or limited resources?
 > The SYNERGY dataset is a large dataset with 50787117 datapoints. The total file size is 600Mb. It is possible to download a version of the dataset with only titles, abstracts, and labels. This dataset is smaller in size and can be rich enough for several applications. Download the dataset with `synergy get --light`
 
 
-## Datasets
+## Datasets and variables
+
+SYNERGY is a collection of 24 systematic review datasets with in total 108853 records with 1588 total inclusions. The list of datasets and references:
+
 
 |   Nr | Dataset                 | Field                         |   Records |   Included |    % |
 |------|-------------------------|-------------------------------|-----------|------------|------|
@@ -55,7 +59,65 @@ with `synergy list` you can get an overview of the datasets and their properties
 |   23 | Welling_2022            | Medicine, Sociology           |      3678 |         58 |  1.6 |
 |   24 | Wolters_2018            | Medicine                      |      3990 |         12 |  0.3 |
 
-Total records = 108853, total inclusions 1588 (1.46%)
+The each record in the dataset is an [OpenAlex Work object](https://docs.openalex.org/api-entities/works/work-object
+) (extracted on 2023-XX-XX) with following attributes:
+
+Some of the notable variables are: 
+
+| Variable                 | Type                         |   Description |
+|------|-------------------------|-------------------------------|
+| title | String | String: The title of this work. |
+
+For the full list of variables, see this persistent copy of the OpenAlex Work Object documention: https://web.archive.org/web/20230104092916/https://docs.openalex.org/api-entities/works/work-object
+
+
+```
+abstract_inverted_index
+alternate_host_venues (deprecated)
+authorships
+best_oa_location
+biblio
+cited_by_api_url
+cited_by_count
+concepts
+counts_by_year
+created_date
+display_name
+doi
+host_venue (deprecated)
+id
+ids
+is_paratext
+is_retracted
+locations
+mesh
+ngrams_url
+open_access
+primary_location
+publication_date
+publication_year
+referenced_works
+related_works
+title
+type
+updated_date
+author
+author_position
+institutions
+raw_affiliation_string
+is_oa
+license
+url
+version
+ngram
+ngram_count
+ngram_tokens
+token_frequency
+is_oa
+oa_status
+oa_url
+```
+
 
 ### Integration with ASReview Makita
 
