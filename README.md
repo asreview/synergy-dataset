@@ -1,9 +1,28 @@
-This is work in progress, please do NOT use. Public release under open license will follow soon. Questions? Contact j.debruin1@uu.nl.
+
+# :exclamation: This is work in progress, please do NOT use. Public release under open license will follow soon. Questions? Contact j.debruin1@uu.nl.
 
 
-# Release branch for ODSS dataset
+# SYNERGY dataset
 
 ODSS is a dataset to facilitate the development of machine learning algorithms for the systematic review study selection process. Systematic reviews are an essential part of evidence-based medicine and involve the synthesis of all available evidence on a particular research question. However, the process of selecting relevant studies for inclusion in a systematic review can be time-consuming and challenging, particularly as the number of available studies increases. This dataset aims to improve the efficiency and accuracy of study selection by providing a collection of pre-processed research articles that can be used to train and test machine learning algorithms.
+
+## Get the data
+
+The easiest way to get the SYNERGY dataset is via the `synergy-dataset` Python package.
+
+```bash
+pip install synergy-dataset
+```
+
+```python
+synergy get <FOLDER_TO_DOWNLOAD>
+```
+
+with `synergy list` you can get an overview of the datasets and their properties.
+
+> Slow internet connection or limited resources?
+> The SYNERGY dataset is a large dataset with 50787117 datapoints. The total file size is 600Mb. It is possible to download a version of the dataset with only titles, abstracts, and labels. This dataset is smaller in size and can be rich enough for several applications. Download the dataset with `synergy get --light`
+
 
 ## Datasets
 
@@ -35,29 +54,6 @@ ODSS is a dataset to facilitate the development of machine learning algorithms f
 |   24 | Wolters_2018            | Medicine                      |      3990 |         12 |  0.3 |
 
 Total records = 108853, total inclusions 1588 (1.46%)
-
-## Get the data
-
-The easiest way to get the ODSS dataset is via the PyODSS Python package.
-
-### Installation
-
-Install PyODSS via PyPI.
-
-```bash
-pip install pyodss
-```
-
-### Download data
-
-```python
-pyodss get <FOLDER_TO_DOWNLOAD>
-```
-
-with `pyodss list` you can get an overview of the datasets and their properties.
-
-> Slow internet connection or limited resources?
-> The ODSS dataset is a large dataset with xxxxx datapoints. The total file size is yyyMb. It is possible to download a version of the dataset with only titles, abstracts, and labels. This dataset is smaller in size and can be rich enough for some applications. Download the dataset with `pyodss get --light`
 
 ### Integration with ASReview Makita
 
