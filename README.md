@@ -149,6 +149,14 @@ Biblatex entry:
 }
 ```
 
+## Contributing
+
+We are welcoming contributions of all kinds. Some examples are:
+
+- Do you have an openly published systematic review dataset? Read about our ambition to develop SYNERGY+ (SYNERGY Plus), a much larger dataset with lots of new features. 
+- Write an example or tutorial on how to use SYNERGY and all of its hidden capebilities. 
+- Write integration to load SYNERGY into existing software like Spacy, Gensim, Tensorflow. 
+
 ## Contact
 
 Reach out on the [Discussion forum](https://github.com/asreview/systematic-review-datasets/discussions).
