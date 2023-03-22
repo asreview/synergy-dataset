@@ -555,3 +555,13 @@ version=0.1
 
   [datasets.data]
   doi="10.17605/OSF.IO/3TPHJ"
+
+[[datasets]]
+
+  key="Kwok_2020"
+
+  [datasets.publication]
+  doi= "10.3390/v12010107"
+
+  [datasets.data]
+  doi="10.17605/OSF.IO/5S27M"
