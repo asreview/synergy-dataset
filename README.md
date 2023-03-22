@@ -1,86 +1,118 @@
-# Systematic Review Datasets
+This is work in progress, please do NOT use. Public release under open license will follow soon. Questions? Contact j.debruin1@uu.nl.
 
-This repository provides an overview of labeled datasets used for Systematic Reviews. The
-datasets are available under an open licence and can be used for text mining and machine
-learning purposes. This repository contains scripts to collect, preprocess and clean
-the systematic review datasets.
+
+# Release branch for ODSS dataset
+
+ODSS is a dataset to facilitate the development of machine learning algorithms for the systematic review study selection process. Systematic reviews are an essential part of evidence-based medicine and involve the synthesis of all available evidence on a particular research question. However, the process of selecting relevant studies for inclusion in a systematic review can be time-consuming and challenging, particularly as the number of available studies increases. This dataset aims to improve the efficiency and accuracy of study selection by providing a collection of pre-processed research articles that can be used to train and test machine learning algorithms.
 
 ## Datasets
 
-The datasets are alphabetically ordered. See [index.csv](index.csv) for all available properties.
+|   Nr | Dataset                 | Field                         |   Records |   Included |    % |
+|------|-------------------------|-------------------------------|-----------|------------|------|
+|    1 | Appenzeller-Herzog_2020 | Medicine                      |      2863 |         26 |  0.9 |
+|    2 | Bannach-Brown_2019      | Medicine, Computer science    |      1932 |        264 | 13.7 |
+|    3 | Bos_2018                | Medicine                      |      4608 |          8 |  0.2 |
+|    4 | Brouwer_2019            | Psychology, Medicine          |     38038 |         58 |  0.2 |
+|    5 | Chou_2003               | Medicine                      |      1908 |         15 |  0.8 |
+|    6 | Chou_2004               | Medicine                      |      1630 |          9 |  0.6 |
+|    7 | Donners_2021            | Medicine                      |       258 |         14 |  5.4 |
+|    8 | Hall_2012               | Computer science, Engineering |      8731 |        104 |  1.2 |
+|    9 | Jeyaraman_2020          | Medicine                      |      1174 |         95 |  8.1 |
+|   10 | Leenaars_2019           | Medicine, Chemistry           |      5795 |         17 |  0.3 |
+|   11 | Meijboom_2022           | Medicine, Physics             |       882 |         36 |  4.1 |
+|   12 | Menon_2022              | Medicine, Psychology          |       971 |         73 |  7.5 |
+|   13 | Moran_2020              | Psychology, Biology           |      5203 |        107 |  2.1 |
+|   14 | Muthu_2021              | Medicine, Chemistry           |      2706 |        322 | 11.9 |
+|   15 | Muthu_2022              | Medicine                      |       284 |          6 |  2.1 |
+|   16 | Nelson_2002             | Medicine, Physics             |       364 |         78 | 21.4 |
+|   17 | Radjenovic_2013         | Computer science, Engineering |      5897 |         48 |  0.8 |
+|   18 | Smid_2020               | Computer science, Mathematics |      1980 |         24 |  1.2 |
+|   19 | Valk_2021               | Medicine, Mathematics         |       717 |         86 | 12   |
+|   20 | van_de_Schoot_2017      | Psychology, Mathematics       |      4494 |         36 |  0.8 |
+|   21 | van_der_Waal_2022       | Medicine, Political science   |      1959 |         33 |  1.7 |
+|   22 | van_Dis_2020            | Psychology, Medicine          |      8791 |         59 |  0.7 |
+|   23 | Welling_2022            | Medicine, Sociology           |      3678 |         58 |  1.6 |
+|   24 | Wolters_2018            | Medicine                      |      3990 |         12 |  0.3 |
 
-<!-- DO NOT EDIT TABLE BELOW, EDIT METADATA INSTEAD -->
+Total records = 108853, total inclusions 1588 (1.46%)
 
-<!-- BEGIN TABLE -->
+## Get the data
 
-| id                                                                                                                                                                                          | topic                      |   n_papers |   n_included | license                                                                                      |
-|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------|-----------:|-------------:|:---------------------------------------------------------------------------------------------|
-| [Appenzeller-Herzog_2020](https://raw.githubusercontent.com/asreview/systematic-review-datasets/metadata-v1-final/datasets/Appenzeller-Herzog_2020/output/Appenzeller-Herzog_2020.csv)                 | Wilson disease             |       3453 |           29 | [CC-BY Attribution 4.0 International](http://doi.org/10.5281/zenodo.3625931)                 |
-| [Bannach-Brown_2019](https://raw.githubusercontent.com/asreview/systematic-review-datasets/metadata-v1-final/datasets/Bannach-Brown_2019/output/Bannach-Brown_2019.csv)                                | Animal Model of Depression |       1993 |          280 | [CC-BY Attribution 4.0 International](http://doi.org/10.5281/zenodo.151190)                  |
-| [Bos_2018](https://raw.githubusercontent.com/asreview/systematic-review-datasets/metadata-v1-final/datasets/Bos_2018/output/Bos_2018.csv)                                                              | Dementia                   |       5746 |           11 | [CC-BY Attribution 4.0 International](https://osf.io/w3kbq/)                                 |
-| [Cohen_2006_ACEInhibitors](https://raw.githubusercontent.com/asreview/systematic-review-datasets/metadata-v1-final/datasets/Cohen_2006/output/online/ACEInhibitors.csv)                     | ACEInhibitors              |       2544 |           41 | [custom open license](https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html) |
-| [Cohen_2006_ADHD](https://raw.githubusercontent.com/asreview/systematic-review-datasets/metadata-v1-final/datasets/Cohen_2006/output/online/ADHD.csv)                                       | ADHD                       |        851 |           20 | [custom open license](https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html) |
-| [Cohen_2006_Antihistamines](https://raw.githubusercontent.com/asreview/systematic-review-datasets/metadata-v1-final/datasets/Cohen_2006/output/online/Antihistamines.csv)                   | Antihistamines             |        310 |           16 | [custom open license](https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html) |
-| [Cohen_2006_AtypicalAntipsychotics](https://raw.githubusercontent.com/asreview/systematic-review-datasets/metadata-v1-final/datasets/Cohen_2006/output/online/AtypicalAntipsychotics.csv)   | Atypical Antipsychotics    |       1120 |          146 | [custom open license](https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html) |
-| [Cohen_2006_BetaBlockers](https://raw.githubusercontent.com/asreview/systematic-review-datasets/metadata-v1-final/datasets/Cohen_2006/output/online/BetaBlockers.csv)                       | Beta Blockers              |       2072 |           42 | [custom open license](https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html) |
-| [Cohen_2006_CalciumChannelBlockers](https://raw.githubusercontent.com/asreview/systematic-review-datasets/metadata-v1-final/datasets/Cohen_2006/output/online/CalciumChannelBlockers.csv)   | Calcium Channel Blockers   |       1218 |          100 | [custom open license](https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html) |
-| [Cohen_2006_Estrogens](https://raw.githubusercontent.com/asreview/systematic-review-datasets/metadata-v1-final/datasets/Cohen_2006/output/online/Estrogens.csv)                             | Estrogens                  |        368 |           80 | [custom open license](https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html) |
-| [Cohen_2006_NSAIDS](https://raw.githubusercontent.com/asreview/systematic-review-datasets/metadata-v1-final/datasets/Cohen_2006/output/online/NSAIDS.csv)                                   | NSAIDS                     |        393 |           41 | [custom open license](https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html) |
-| [Cohen_2006_Opiods](https://raw.githubusercontent.com/asreview/systematic-review-datasets/metadata-v1-final/datasets/Cohen_2006/output/online/Opiods.csv)                                   | Opiods                     |       1915 |           15 | [custom open license](https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html) |
-| [Cohen_2006_OralHypoglycemics](https://raw.githubusercontent.com/asreview/systematic-review-datasets/metadata-v1-final/datasets/Cohen_2006/output/online/OralHypoglycemics.csv)             | Oral Hypoglycemics         |        503 |          136 | [custom open license](https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html) |
-| [Cohen_2006_ProtonPumpInhibitors](https://raw.githubusercontent.com/asreview/systematic-review-datasets/metadata-v1-final/datasets/Cohen_2006/output/online/ProtonPumpInhibitors.csv)       | Proton Pump Inhibitors     |       1333 |           51 | [custom open license](https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html) |
-| [Cohen_2006_SkeletalMuscleRelaxants](https://raw.githubusercontent.com/asreview/systematic-review-datasets/metadata-v1-final/datasets/Cohen_2006/output/online/SkeletalMuscleRelaxants.csv) | Skeletal Muscle Relaxants  |       1643 |            9 | [custom open license](https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html) |
-| [Cohen_2006_Statins](https://raw.githubusercontent.com/asreview/systematic-review-datasets/metadata-v1-final/datasets/Cohen_2006/output/online/Statins.csv)                                 | Statins                    |       3465 |           85 | [custom open license](https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html) |
-| [Cohen_2006_Triptans](https://raw.githubusercontent.com/asreview/systematic-review-datasets/metadata-v1-final/datasets/Cohen_2006/output/online/Triptans.csv)                               | Triptans                   |        671 |           24 | [custom open license](https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html) |
-| [Cohen_2006_UrinaryIncontinence](https://raw.githubusercontent.com/asreview/systematic-review-datasets/metadata-v1-final/datasets/Cohen_2006/output/online/UrinaryIncontinence.csv)         | Urinary Incontinence       |        327 |           40 | [custom open license](https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html) |
-| [Hall_2012](https://raw.githubusercontent.com/asreview/systematic-review-datasets/metadata-v1-final/datasets/Hall_Wahono_Radjenovic_Kitchenham/output/Hall_2012.csv)                                   | Software Fault Prediction  |       8911 |          104 | [CC-BY Attribution 4.0 International](http://doi.org/10.5281/zenodo.1162952)                 |
-| [Kitchenham_2010](https://raw.githubusercontent.com/asreview/systematic-review-datasets/metadata-v1-final/datasets/Hall_Wahono_Radjenovic_Kitchenham/output/Kitchenham_2010.csv)                       | Software Engineering       |       1704 |           45 | [CC-BY Attribution 4.0 International](http://doi.org/10.5281/zenodo.1162952)                 |
-| [Kwok_2020](https://raw.githubusercontent.com/asreview/systematic-review-datasets/metadata-v1-final/datasets/Kwok_2020/output/Kwok_2020.csv)                                                           | Virus Metagenomics         |       2481 |          120 | [CC-BY Attribution 4.0 International](https://doi.org/10.17605/OSF.IO/5S27M)                 |
-| [Nagtegaal_2019](https://raw.githubusercontent.com/asreview/systematic-review-datasets/metadata-v1-final/datasets/Nagtegaal_2019/output/Nagtegaal_2019.csv)                                            | Nudging                    |       2019 |          101 | [CC0](https://doi.org/10.7910/DVN/WMGPGZ/HY6N2S)                                             |
-| [Radjenovic_2013](https://raw.githubusercontent.com/asreview/systematic-review-datasets/metadata-v1-final/datasets/Hall_Wahono_Radjenovic_Kitchenham/output/Radjenovic_2013.csv)                       | Software Fault Prediction  |       6000 |           48 | [CC-BY Attribution 4.0 International](http://doi.org/10.5281/zenodo.1162952)                 |
-| [Wahono_2015](https://raw.githubusercontent.com/asreview/systematic-review-datasets/metadata-v1-final/datasets/Hall_Wahono_Radjenovic_Kitchenham/output/Wahono_2015.csv)                               | Software Defect Detection  |       7002 |           62 | [CC-BY Attribution 4.0 International](http://doi.org/10.5281/zenodo.1162952)                 |
-| [Wolters_2018](https://raw.githubusercontent.com/asreview/systematic-review-datasets/metadata-v1-final/datasets/Wolters_2018/output/Wolters_2018.csv)                                                  | Dementia                   |       5019 |           19 | [CC-BY Attribution 4.0 International](https://osf.io/sxzjg/)                                 |
-| [van_Dis_2020](https://raw.githubusercontent.com/asreview/systematic-review-datasets/metadata-v1-final/datasets/van_Dis_2020/output/van_Dis_2020.csv)                                                  | Anxiety-Related Disorders  |      10953 |           73 | [CC-BY Attribution 4.0 International](https://osf.io/4d9tu/)                                 |
-| [van_de_Schoot_2017](https://raw.githubusercontent.com/asreview/systematic-review-datasets/metadata-v1-final/datasets/van_de_Schoot_2017/output/van_de_Schoot_2017.csv)                                | PTSD Trajectories          |       6189 |           43 | [CC-BY Attribution 4.0 International](https://doi.org/10.17605/OSF.IO/VK4BE)                 |
+The easiest way to get the ODSS dataset is via the PyODSS Python package.
 
-<!-- END TABLE -->
+### Installation
+
+Install PyODSS via PyPI.
+
+```bash
+pip install pyodss
+```
+
+### Download data
+
+```python
+pyodss get <FOLDER_TO_DOWNLOAD>
+```
+
+with `pyodss list` you can get an overview of the datasets and their properties.
+
+> Slow internet connection or limited resources?
+> The ODSS dataset is a large dataset with xxxxx datapoints. The total file size is yyyMb. It is possible to download a version of the dataset with only titles, abstracts, and labels. This dataset is smaller in size and can be rich enough for some applications. Download the dataset with `pyodss get --light`
+
+### Integration with ASReview Makita
+
+First install both pyodss and makita with
+```sh
+pip install pyodss asreview-makita
+```
+
+Now create a new folder and run the following code:
+
+Linux/MacOS:
+
+```sh
+pyodss get -o data
+asreview makita basic
+sh run.sh
+```
+
+Windows:
+
+```bat
+pyodss get -o data
+asreview makita basic - run.bat
+run.bat
+```
 
 
-## Publishing your data
-For publishing either your data, we recommend using the Open Science frame (OSF). OSF is part of the Center for Open Science (COS), which aims at increasing openness, integrity, and reproducibility of research ([OSF](https://www.cos.io/our-products/osf), 2020). How to share your data using OSF: A [step-by-step guide](https://journals.sagepub.com/doi/pdf/10.1177/2515245918757689).
+# Data pre-processing
 
-Another platform to publish your data open access is provided by Zenodo. Zenodo is a platform which encourages scientists to share all materials (including data) that are necessary to understand the scholarly process ([Zenodo](https://about.zenodo.org/), 2020).
-
-When uploading your dataset to OSF or Zenodo, make sure to provide all relevant information about the dataset, by filling out all available fields. The data to be put on Zenodo or OSF can be documented as extensively as you would like (flowcharts, explanation of certain decisions, etc.). This can include a link to the systematic review itself, if it has been published elsewhere.
-
-### License
-
-When sharing your dataset or a link to your already published systematic review, we recommend using a CC-BY or CC0 license for both Zenodo and OSF. By adding a Creative Commons license, everybody from individual creators to large institutions are given a standardized way to allow use of their creative work under copyright law ([Creative Commons](https://creativecommons.org/about/cclicenses/), 2020).
-
-In short, the CC-BY license means that reusers are allowed to distribute, remix, adapt, and build upon the material in any medium or format, so long as attribution is given to the creator. The license allows for commercial use. The CC0 license releases data in the public domain, allowing reuse in any form without any conditions. This can be appropriate when sharing (meta)data only. With both OSF (see step-by-step guide) and Zenodo you can easily add the license to your project after creating a project in either platform.
+The full text of each article is pre-processed using natural language processing techniques. This includes tasks such as sentence segmentation, tokenization, part-of-speech tagging, and named entity recognition. The pre-processing step is designed to extract meaningful features from the text that can be used to train machine learning algorithms. The resulting pre-processed dataset is then split into training and testing sets, with a predefined ratio.
 
 
-### File format
 
-The folder `datasets/` has subfolders for the different systematic reviews
-datasets. In each of these subfolders, the `.ipynb` script retrieves a dataset from OSF or Zenodo, and preprocesses it by adding customized labels and marking duplicates. The script also reports the inclusion rate, and missing patterns and word clouds of titles and abstracts. After preprocessing, an ASReview-compatible dataset in `.csv` format is generated in the `output/` folder. Extensions .csv, .xlsx, and .xls. CSV files should be comma-separated and UTF-8 encoded. To indicate labeling decisions, one can use "included" or "label_included". This label should be filled with all 0’s and 1’s, where 0 means that the record is not included and 1 means included.
+# Data Format
 
-## License
-The scripts in the current project are MIT licensed. The datasets (should) have a permissive license.
+The dataset is provided in a standardized format that includes the following fields:
 
-## Special thanks
+Title: The title of the article.
+Abstract: The abstract of the article.
+Full Text: The full text of the article, pre-processed using natural language processing techniques.
+Inclusion Status: A binary label indicating whether the article was included or excluded in the systematic review.
+Reason for Exclusion: If the article was excluded, a brief explanation of the reason for exclusion.
+The dataset is provided in both CSV and JSON formats.
 
-Open data on systematic reviews is important to advance research on machine learning enhanced systematic reviews. We thank the following people for publising their datasets openly.
+# Dataset Size
 
-<!-- DO NOT EDIT AUTHORS BELOW, EDIT METADATA INSTEAD -->
+The dataset contains a total of X articles, of which Y were included in the systematic review and Z were excluded. The training set contains a subset of X articles, with a predefined ratio, while the testing set contains the remaining articles.
 
-<!-- BEGIN AUTHORS -->
+The ODSS dataset is a linked dataset that consists of Study Selection in Systematic Reviews. The dataset consists of XXX fully labeled datasets. For all these datasets, an OpenAlex record is available.
 
-Ananiadou, S., Appenzeller-Herzog , C., Bannach-Brown, A., Beecham, S., Bekkers, V., Bos, D., Bowes, D., Budgen, D., Cohen, A. M., Counsell, S., Darweesh, S. K. L., Depaoli, S., Ewald H., Gray, D., Hagenaars, M. A., Hall, T., Heeres, M. L. S., Heričko, M., Hersh, W. R., Hofman, A., Houwen, R. H. J., Ikram, M. A., Kitchenham, B., Koopmans, M. P. G., Kwok, K. T. T., Liao, J., Linkman, S., Macleod, M. R., Mathes, T., Nagtegaal, R., Niazi, M., Nieuwenhuijse, D. F., Noordegraaf, M., Pearl Brereton, O., Peterson, K., Phan, M. V. T., Pretorius, R., Przybyla, P., Radjenović, D., Rice, A. S. C., Sabayan, B., Sedaghat, S., Segufa, R. A., Sijbrandij, M., Thomas, J., Torkar, R., Tummers, L., Turner, M., Vermunt, J. K., Vernooij, M. W., Wahono, R. S., Weiss, K. H., Winter, S. D., Wolters, F. J., Yen, P., de Wolf, F., et al., van Dis, E. A. M., van Veen, S. C., van de Schoot, R., Živkovič, A.
+## Attribution
 
-<!-- END AUTHORS -->
+We would like to thank the following authors for openly sharing the data correponding their systematic review:
 
-## Contact
+[Christian Appenzeller-Herzog](https://orcid.org/0000-0001-7430-294X), [Tim Mathes](https://orcid.org/0000-0002-5304-1717), Marlies L.S. Heeres, [Karl Heinz Weiss](https://orcid.org/0000-0002-6336-9935), [Roderick H. J. Houwen](https://orcid.org/0000-0001-6124-7937), [Hannah Ewald](https://orcid.org/0000-0002-5081-1093), [Alexandra Bannach-Brown](https://orcid.org/0000-0002-3161-1395), [Piotr Przybyła](https://orcid.org/0000-0001-9043-6817), James D. Thomas, [Andrew S.C. Rice](https://orcid.org/0000-0001-9533-5636), [Sophia Ananiadou](https://orcid.org/0000-0002-4097-9191), [Jing Liao](https://orcid.org/0000-0001-7014-5377), [Malcolm R. Macleod](https://orcid.org/0000-0001-9187-9839), [Daniel Bos](https://orcid.org/0000-0001-8979-2603), [Frank J. Wolters](https://orcid.org/0000-0003-2226-4050), [Sirwan K.L. Darweesh](https://orcid.org/0000-0002-4361-4593), [Meike W. Vernooij](https://orcid.org/0000-0003-4658-2176), Frank de Wolf, [M. Arfan Ikram](https://orcid.org/0000-0003-0173-9571), [Albert Hofman](https://orcid.org/0000-0002-9865-121X), [Roger Chou](https://orcid.org/0000-0001-9889-8610), Elizabeth A. Clark, Mark Helfand, [Roger Chou](https://orcid.org/0000-0001-9889-8610), Kim Peterson, Mark Helfand, [Anouk A. M. T. Donners](https://orcid.org/0000-0002-8147-013X), Carin M. A. Rademaker, Lisanne A. H. Bevers, [Alwin D. R. Huitema](https://orcid.org/0000-0003-1939-4639), [Roger E. G. Schutgens](https://orcid.org/0000-0002-2762-6033), [Antoine C. G. Egberts](https://orcid.org/0000-0003-1758-7779), [Krista Fischer](https://orcid.org/0000-0001-7126-6613), [Trevor J. Hall](https://orcid.org/0000-0002-0427-6325), [Sarah Beecham](https://orcid.org/0000-0003-1584-5447), David Bowes, David Gray, [Serena J. Counsell](https://orcid.org/0000-0002-8033-5673), [Cathalijn H. C. Leenaars](https://orcid.org/0000-0002-8212-7632), Wilhelmus Drinkenburg, Christ Nolten, Maurice Dematteis, Ruud N. J. M. A. Joosten, Matthijs G. P. Feenstra, [Rob B. M. de Vries](https://orcid.org/0000-0002-0000-8796), [Rosanne W. Meijboom](https://orcid.org/0000-0002-7370-0695), [Helga Gardarsdottir](https://orcid.org/0000-0001-5623-9684), [Antoine C. G. Egberts](https://orcid.org/0000-0003-1758-7779), [Thijs J. Giezen](https://orcid.org/0000-0002-4087-033X), Heidi Nelson, Linda Humphrey, Peggy Nygren, Steven M. Teutsch, Janet D. Allan, Dimitrije Radjenović, [Marjan Hericko](https://orcid.org/0000-0002-1094-0085), [Richard Torkar](https://orcid.org/0000-0002-0118-8143), Aleš Živkovič, [Sanne C. Smid](https://orcid.org/0000-0001-6451-202X), [Daniel McNeish](https://orcid.org/0000-0003-1643-9408), [Milica Miočević](https://orcid.org/0000-0001-8487-3666), [Rens van de Schoot](https://orcid.org/0000-0001-7736-2091), [Eline S van der Valk](https://orcid.org/0000-0001-5134-5453), [Ozair Abawi](https://orcid.org/0000-0002-1343-6562), Mostafa Mohseni, Amir Abdelmoumen, Vincent L. Wester, [Bibian van der Voorn](https://orcid.org/0000-0003-1299-0067), [Anand Krishnan V. Iyer](https://orcid.org/0000-0002-2090-5590), [Erica L T van den Akker](https://orcid.org/0000-0001-5352-9328), [Sanne E. Hoeks](https://orcid.org/0000-0003-4022-9574), Sjoerd A.A. van den Berg, [Yolanda B. de Rijke](https://orcid.org/0000-0001-7759-4968), [Tobias Stalder](https://orcid.org/0000-0001-7558-1274), [Elisabeth F.C. van Rossum](https://orcid.org/0000-0003-0120-4913), [Rens van de Schoot](https://orcid.org/0000-0001-7736-2091), [Marit Sijbrandij](https://orcid.org/0000-0001-5430-9810), [Sonja D. Winter](https://orcid.org/0000-0002-2203-002X), [Sarah Depaoli](https://orcid.org/0000-0002-1277-0462), [Jeroen K. Vermunt](https://orcid.org/0000-0001-9053-9330), Eva A.M. van Dis, [Suzanne C. van Veen](https://orcid.org/0000-0002-5659-2557), Muriel A. Hagenaars, [Neeltje M. Batelaan](https://orcid.org/0000-0001-6444-3781), [Claudi L H Bockting](https://orcid.org/0000-0002-9220-9244), [Rinske M van den Heuvel](https://orcid.org/0000-0002-3835-4686), [Pim Cuijpers](https://orcid.org/0000-0001-5497-2743), Iris M. Engelhard, [Frank J. Wolters](https://orcid.org/0000-0003-2226-4050), Reffat A. Segufa, [Sirwan K.L. Darweesh](https://orcid.org/0000-0002-4361-4593), [Daniel Bos](https://orcid.org/0000-0001-8979-2603), [M. Arfan Ikram](https://orcid.org/0000-0003-0173-9571), [Behnam Sabayan](https://orcid.org/0000-0002-1176-9152), [Albert Hofman](https://orcid.org/0000-0002-9865-121X), [Sanaz Sedaghat](https://orcid.org/0000-0002-3244-7726)
 
-Contact details can be found at the [ASReview](https://github.com/asreview/asreview#contact)
-project page.
+For more credits, run `pyodss credits`.
+
