@@ -4,8 +4,7 @@
 
 # SYNERGY dataset
 
-
-ODSS is a dataset to facilitate the development of machine learning algorithms for the systematic review study selection process. Systematic reviews are an essential part of evidence-based medicine and involve the synthesis of all available evidence on a particular research question. However, the process of selecting relevant studies for inclusion in a systematic review can be time-consuming and challenging, particularly as the number of available studies increases. This dataset aims to improve the efficiency and accuracy of study selection by providing a collection of pre-processed research articles that can be used to train and test machine learning algorithms.
+SYNERGY is a free and open dataset on study selection in systematic reviews, comprising 111095 academic works from 25 systematic reviews. Only 1.5% of the academic works in the binary classified dataset was included in the systematic review. This makes the SYNERGY dataset an interesting dataset for the development of information retrieval algorithms, especially for sparse labels. Due to the many available variables available per record (i.e. titles, abstracts, authors, references, topics), this dataset is useful for researchers in NLP, information retrieval, network analysis and more. 
 
 [![SYNERGY-banner.png](SYNERGY-banner.png)]()
 
