@@ -198,6 +198,10 @@ if __name__ == "__main__":
             if "doi" not in list(df):
                 df["doi"] = None
 
+            # add the collection method
+            if "method" not in list(df):
+                df["method"] = None
+
             try:
 
                 for id_type in ["pmid", "doi"]:
@@ -207,6 +211,9 @@ if __name__ == "__main__":
 
                     # Update works based on ID
                     subset = df[id_type].notnull() & df["openalex_id"].isnull()
+                    if df[subset].empty:
+                        continue
+
                     doi, pmid, oaid = openalex_work_by_id(
                         df[subset][id_type].tolist(), id_type=id_type
                     )
@@ -215,10 +222,10 @@ if __name__ == "__main__":
                     df.loc[subset, "openalex_id"] = oaid
                     df.loc[subset, "pmid"] = pmid
 
-                    # add the collection method
-                    if "method" not in list(df):
-                        df["method"] = None
-                    df.loc[subset, "method"] = [f"id_retrieval_{id_type}" if x else None for x in oaid]
+                    # trick for manual added records
+                    method = pd.Series([f"id_retrieval_{id_type}" if x else None for x in oaid], dtype=object)
+                    method[(df[subset]["method"] == "manual").tolist()] = "manual"
+                    df.loc[subset, "method"] = method.tolist()
 
                 if args.title_search:
 
