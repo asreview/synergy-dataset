@@ -25,9 +25,18 @@ def datasets():
 DATASETS = datasets()
 
 @pytest.mark.parametrize("dataset", DATASETS)
-def test_inclusions(dataset):
+def test_all_inclusions_found(dataset):
 
     df = pd.read_csv(dataset)
     n = df[(df["label_included"] == 1) & (df["openalex_id"].isnull())].shape[0]
 
     assert n == 0
+
+@pytest.mark.parametrize("dataset", DATASETS)
+def test_retrieval_rate_10(dataset):
+
+    df = pd.read_csv(dataset)
+
+    perc = (df["openalex_id"].isnull().sum() / len(df))*100
+
+    assert perc < 5
