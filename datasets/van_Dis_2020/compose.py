@@ -22,10 +22,14 @@ df.loc[df["doi"] == "https://doi.org/10.1002/(SICI)1097-0134(199606)25:2&lt", "d
 
 df.rename({"Title": "title", "Published Year": "year"}, axis=1, inplace=True)
 
+df["pmid"] = None
+pubmed = df["Ref"].notnull() & (df["Ref"].str.len() <= 8)
+df.loc[pubmed, "pmid"] = "https://pubmed.ncbi.nlm.nih.gov/" + df.loc[pubmed, "Ref"]
+
 # save results to file
 df.to_csv(f"{key}_raw.csv", index=False)
 
-df_new = df[["doi", "label_included"]].copy()
+df_new = df[["pmid", "doi", "label_included"]].copy()
 df_new["openalex_id"] = None
 
-df_new[["doi", "openalex_id", "label_included"]].to_csv(f"{key}_ids.csv", index=False)
+df_new[["pmid", "doi", "openalex_id", "label_included"]].to_csv(f"{key}_ids.csv", index=False)
