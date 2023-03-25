@@ -1,14 +1,8 @@
-#datasets/*/output/
-!datasets/Van_de_Schoot_PTSD/output/PTSD_VandeSchoot_18.csv
 
 __pycache__/
-.ipynb_checkpoints/
-.Rhistory
 __pycache__
-
 
 *.secret
 
-
-release
 datasets/*/*_raw.csv
+datasets/*/*_abstract_inverted_index.csv
