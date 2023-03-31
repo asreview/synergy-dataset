@@ -17,9 +17,16 @@ from time import sleep
 import pyalex
 from pyalex import Works
 
+
+import logging
+
+logging.basicConfig()
+logging.getLogger().setLevel(logging.DEBUG)
+
+
 pyalex.config.email = "asreview@uu.nl"
 
-SPECIAL_TOKENS = """()[]{}'@#:;"%&’,.?!/\\^"""
+SPECIAL_TOKENS = """()[]{}'@#:;"%&’,.?!/\\^®"""
 
 
 def find_work_for_doi(doi):
@@ -57,27 +64,38 @@ def unquote_url(s):
     return urllib.parse.unquote(s.lower())
 
 
-def search_title(title):
+def search_record(title, year=None):
 
     # clean title to prevent zero hits in openalex due to bad special char
     # handling.
     for x in SPECIAL_TOKENS:
         title = title.replace(x, "")
 
+    # search for the work on OpenAlex
     try:
-        r, m = Works().search(title).get(return_meta=True)
+        r = Works().search(title).get()
     except requests.exceptions.JSONDecodeError:
         sleep(5)
-        r, m = Works().search(title).get(return_meta=True)
+        r = Works().search(title).get()
 
     matches = []
     for work in r:
         if "title" in work and work["title"] and title and compare_titles(work["title"], title):
             matches.append(work)
 
-    print(f"N={len(matches)}:",title)
+    print(f"N={len(matches)}:", title)
     if len(matches) == 1:
-        return matches[0]["doi"], matches[0]["id"]
+        return matches[0]["doi"], matches[0]["id"], "search_title"
+
+    # if there was no match of more than one match, go to this step.
+    # we match year as well.
+    matches_year = []
+    for work in matches:
+        if "publication_year" in work and work["publication_year"] and year and work["publication_year"] == year:
+            matches_year.append(work)
+
+    if len(matches_year) == 1:
+        return matches_year[0]["doi"], matches_year[0]["id"], "search_title_year"
 
     # if len(r) == 1:
     #     print("Single hit: count==1")
@@ -100,7 +118,7 @@ def search_title(title):
     #     return r[0]["doi"], r[0]["id"]
     # else:
 
-    return None, None
+    return None, None, None
 
 
 def openalex_work_by_id(
@@ -110,7 +128,7 @@ def openalex_work_by_id(
     id_list_notnull = [i for i in id_list if i is not None]
     results = {}
 
-    print("Record lookup by ID")
+    print(f"OpenAlex record lookup based on {id_type}")
     for page_start in range(0, len(id_list_notnull), page_length):
         page = id_list_notnull[page_start : page_start + page_length]
 
@@ -225,19 +243,23 @@ if __name__ == "__main__":
                 df.loc[subset, "openalex_id"] = oaid
                 df.loc[subset, "pmid"] = pmid
 
-                # trick for manual added records
-                method = pd.Series([f"id_retrieval_{id_type}" if x else None for x in oaid], dtype=object)
-                method[(df[subset]["method"] == "manual").tolist()] = "manual"
-                df.loc[subset, "method"] = method.tolist()
+                df_raw.rename({"Publication Year": "year"}, axis=1, inplace=True)
 
-            if args.title_search:
+                # Update dois from title
+                for index, row in df.iterrows():
 
-                try:
-                    dataset_key = "_".join(ds_glob.stem.split("_")[0:-1])
-                    df_raw = pd.read_csv(Path(ds_glob.parent, f"{dataset_key}_raw.csv"))
-                except FileNotFoundError:
-                    # no title search possible as there is no raw file
-                    continue
+                    if pd.isnull(row["openalex_id"]) and pd.notnull(df_raw.iloc[index]["title"]):
+                        doi, openalex_id, retrieval_method = search_record(
+                            df_raw.iloc[index]["title"], df_raw.iloc[index]["year"]
+                        )
+
+                        if openalex_id:
+                            print("Found new work:", doi)
+                            df.loc[index, "openalex_id"] = openalex_id
+                            df.loc[index, "method"] = retrieval_method
+                            
+                        if doi:
+                            df.loc[index, "doi"] = doi
 
                 # Update dois from title
                 for index, row in df.iterrows():
