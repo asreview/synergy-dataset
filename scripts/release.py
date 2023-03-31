@@ -137,7 +137,7 @@ if __name__ == "__main__":
             print(f"Not active {dataset['key']}")
             continue
 
-        output_path = Path("..", "odss-release", dataset["key"])
+        output_path = Path("..", "synergy-release", dataset["key"])
         output_path.mkdir(exist_ok=True, parents=True)
 
         if 1:

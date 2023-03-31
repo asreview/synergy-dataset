@@ -1,7 +1,8 @@
-#
-#
-# python scripts/enrich.py Meijboom_2022 --title-search
 
+# python scripts/enrich.py -d Meijboom_2022 --title-search
+
+import os
+import copy
 import pandas as pd
 import requests
 import argparse
@@ -21,12 +22,14 @@ from pyalex import Works
 import logging
 
 logging.basicConfig()
-logging.getLogger().setLevel(logging.DEBUG)
+logging.getLogger().setLevel(logging.INFO)
 
 
 pyalex.config.email = "asreview@uu.nl"
 
-SPECIAL_TOKENS = """()[]{}'@#:;"%&’,.?!/\\^®"""
+LENS_TOKEN = os.getenv('LENS_TOKEN')
+
+SPECIAL_TOKENS = """()[]{}'@#:;"%&`’,.?!/\\^®"""
 
 
 def find_work_for_doi(doi):
@@ -64,7 +67,9 @@ def unquote_url(s):
     return urllib.parse.unquote(s.lower())
 
 
-def search_record(title, year=None):
+def search_record(title, year=None, label_included=None):
+
+    title_raw = copy.copy(title)
 
     # clean title to prevent zero hits in openalex due to bad special char
     # handling.
@@ -83,7 +88,7 @@ def search_record(title, year=None):
         if "title" in work and work["title"] and title and compare_titles(work["title"], title):
             matches.append(work)
 
-    print(f"N={len(matches)}:", title)
+    # print(f"N={len(matches)}:", title)
     if len(matches) == 1:
         return matches[0]["doi"], matches[0]["id"], "search_title"
 
@@ -97,26 +102,26 @@ def search_record(title, year=None):
     if len(matches_year) == 1:
         return matches_year[0]["doi"], matches_year[0]["id"], "search_title_year"
 
-    # if len(r) == 1:
-    #     print("Single hit: count==1")
-    #     return r[0]["doi"], r[0]["id"]
-    # elif len(r) > 1 and "title" in r[0] and compare_titles(r[0]["title"], title):
-    #     print("on title")
-    #     return r[0]["doi"], r[0]["id"]
-    # elif (
-    #     len(r) > 1
-    #     and len(
-    #         list(
-    #             filter(
-    #                 lambda x: "relevance_score" in x and x["relevance_score"] > 5000, r
-    #             )
-    #         )
-    #     )
-    #     == 1
-    # ):
-    #     print("on relevance")
-    #     return r[0]["doi"], r[0]["id"]
-    # else:
+    if LENS_TOKEN and label_included == 1:
+        print("Search with Lens")
+
+        title_quote = urllib.parse.quote(title)
+        url = f"https://api.lens.org/scholarly/search?query=title:({title_quote})&include=external_ids,title,year_published,lens_id&size=1&token={LENS_TOKEN}"
+
+        r = requests.get(url)
+        rdata = r.json()
+        print(title)
+        print(rdata)
+        try:
+            sleep(6)
+            ids = rdata["data"][0]["external_ids"]
+            doi = filter(lambda x: x["type"] == "doi", ids).__next__()["value"]
+            print(doi)
+            openalex_id = Works()["doi:" + doi]["id"]
+            print(openalex_id)
+            return None, openalex_id, "lens_lookup"
+        except Exception as err:
+            print(err)
 
     return None, None, None
 
@@ -195,6 +200,9 @@ if __name__ == "__main__":
     parser.add_argument(
         "--title-search", action="store_true",
     )
+    parser.add_argument(
+        "--inclusions-only", action="store_true",
+    )
     args = parser.parse_args()
 
     # read the config file
@@ -243,37 +251,39 @@ if __name__ == "__main__":
                 df.loc[subset, "openalex_id"] = oaid
                 df.loc[subset, "pmid"] = pmid
 
+            if args.title_search:
+
+                try:
+                    dataset_key = "_".join(ds_glob.stem.split("_")[0:-1])
+                    df_raw = pd.read_csv(Path(ds_glob.parent, f"{dataset_key}_raw.csv"))
+                except FileNotFoundError:
+                    # no title search possible as there is no raw file
+                    continue
+
                 df_raw.rename({"Publication Year": "year"}, axis=1, inplace=True)
 
                 # Update dois from title
                 for index, row in df.iterrows():
 
+                    if args.inclusions_only and df_raw.iloc[index]["label_included"] == 0:
+                        continue
+
                     if pd.isnull(row["openalex_id"]) and pd.notnull(df_raw.iloc[index]["title"]):
+                        try:
+                            year = df_raw.iloc[index]["year"]
+                        except Exception:
+                            year = None
                         doi, openalex_id, retrieval_method = search_record(
-                            df_raw.iloc[index]["title"], df_raw.iloc[index]["year"]
+                            df_raw.iloc[index]["title"], year, df_raw.iloc[index]["label_included"]
                         )
 
                         if openalex_id:
                             print("Found new work:", doi)
                             df.loc[index, "openalex_id"] = openalex_id
                             df.loc[index, "method"] = retrieval_method
-                            
+
                         if doi:
                             df.loc[index, "doi"] = doi
-
-                # Update dois from title
-                for index, row in df.iterrows():
-
-                    if pd.isnull(row["openalex_id"]) and pd.notnull(df_raw.iloc[index]["title"]):
-                        doi, openalex_id = search_title(df_raw.iloc[index]["title"])
-
-                        if openalex_id:
-                            print("Found new work for:", doi)
-                            df.loc[index, "openalex_id"] = openalex_id
-                        if doi:
-                            df.loc[index, "doi"] = doi
-                        if openalex_id:
-                            df.loc[index, "method"] = "search_title"
 
         except KeyboardInterrupt as err:
             print("Stop and write results so far.")
