@@ -1,7 +1,7 @@
 import pandas as pd
 from asreview import ASReviewData
 
-key = "Appenzeller-Herzog_2020"
+key = "Appenzeller-Herzog_2019"
 
 # load RIS into ASReviewData object
 asr_inclusions = ASReviewData.from_file(

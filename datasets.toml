@@ -76,7 +76,7 @@ version=0.1
 
 [[datasets]]
 
-  key="Meijboom_2022"
+  key="Meijboom_2021"
 
   [datasets.publication]
 
@@ -124,7 +124,7 @@ version=0.1
 
 [[datasets]]
 
-  key="Appenzeller-Herzog_2020"
+  key="Appenzeller-Herzog_2019"
 
   [datasets.publication]
 
@@ -432,11 +432,10 @@ version=0.1
 
 [[datasets]]
 
-  # Note that this dataset is also used for another systematic review:
+  # Note, this dataset is also used for another systematic review:
   # https://doi.org/10.1080/00273171.2017.1412293
 
   key="van_de_Schoot_2017"
-  note="Issue with year of publication (2017). 2016 or 2018?"
 
   [datasets.publication]
 
@@ -486,7 +485,7 @@ version=0.1
 
 [[datasets]]
 
-  key="Welling_2022"
+  key="Welling_2021"
 
   [datasets.publication]
   doi= "10.1159/000520718"
@@ -548,7 +547,7 @@ version=0.1
 
 [[datasets]]
 
-  key="Moran_2020"
+  key="Moran_2021"
 
   [datasets.publication]
   doi= "10.1111/brv.12655"

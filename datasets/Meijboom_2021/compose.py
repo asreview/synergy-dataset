@@ -15,11 +15,11 @@ df.drop_duplicates(inplace=True)
 df["doi"] = "https://doi.org/" + df["doi"].str.extract(r"(10.\S+)")
 
 # save results to file
-df.to_csv("Meijboom_2022_raw.csv", index=False)
+df.to_csv("Meijboom_2021_raw.csv", index=False)
 
 df_new = df[["doi", "label_included"]].copy()
 df_new["openalex_id"] = None
 
 df_new[["doi", "openalex_id", "label_included"]].to_csv(
-    "Meijboom_2022_ids.csv", index=False
+    "Meijboom_2021_ids.csv", index=False
 )
