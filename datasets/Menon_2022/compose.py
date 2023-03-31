@@ -10,8 +10,8 @@ df_inclusions["label_included"] = 1
 df_exclusions["label_included"] = 0
 df = pd.concat([df_inclusions, df_exclusions], ignore_index=True)
 
-# # save results to file
-# df.to_csv(f"{key}_raw.csv", index=False)
+# save results to file
+df.to_csv(f"{key}_raw.csv", index=False)
 
 df["doi"] = "https://doi.org/" + df["doi"]
 df["pmid"] = "https://pubmed.ncbi.nlm.nih.gov/" + df["pmid"].astype(str)
