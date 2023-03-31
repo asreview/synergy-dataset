@@ -707,7 +707,7 @@ https://pubmed.ncbi.nlm.nih.gov/22118898,https://doi.org/10.1016/j.marpolbul.201
 https://pubmed.ncbi.nlm.nih.gov/22117598,https://doi.org/10.1021/jp2099976,https://openalex.org/W2034157840,0,id_retrieval_pmid
 https://pubmed.ncbi.nlm.nih.gov/22117445,,https://openalex.org/W2410072643,0,id_retrieval_pmid
 https://pubmed.ncbi.nlm.nih.gov/22113060,https://doi.org/10.1016/j.chemosphere.2011.10.035,https://openalex.org/W2138813414,0,id_retrieval_pmid
-https://pubmed.ncbi.nlm.nih.gov/22112536,,,0,
+https://pubmed.ncbi.nlm.nih.gov/22112536,https://doi.org/10.1186/1749-7221-6-11,https://openalex.org/W2118404583,0,id_retrieval_pmid
 https://pubmed.ncbi.nlm.nih.gov/22109712,https://doi.org/10.1177/0192623311428473,https://openalex.org/W2167497582,0,id_retrieval_pmid
 https://pubmed.ncbi.nlm.nih.gov/22109483,https://doi.org/10.1364/oe.19.024557,https://openalex.org/W2120731449,0,id_retrieval_pmid
 https://pubmed.ncbi.nlm.nih.gov/22108952,https://doi.org/10.1007/s00244-011-9726-3,https://openalex.org/W2083987580,0,id_retrieval_pmid
@@ -845,7 +845,7 @@ https://pubmed.ncbi.nlm.nih.gov/21872655,https://doi.org/10.1016/j.reprotox.2011
 https://pubmed.ncbi.nlm.nih.gov/21872332,https://doi.org/10.1016/j.ecoenv.2011.07.034,https://openalex.org/W2131804595,0,id_retrieval_pmid
 https://pubmed.ncbi.nlm.nih.gov/21871664,https://doi.org/10.1016/j.ecoenv.2011.07.037,https://openalex.org/W1970483765,0,id_retrieval_pmid
 https://pubmed.ncbi.nlm.nih.gov/21870812,https://doi.org/10.1021/ja205283b,https://openalex.org/W2333009137,0,id_retrieval_pmid
-https://pubmed.ncbi.nlm.nih.gov/21868329,,,0,
+https://pubmed.ncbi.nlm.nih.gov/21868329,,https://openalex.org/W2387155621,0,id_retrieval_pmid
 https://pubmed.ncbi.nlm.nih.gov/21866930,https://doi.org/10.1021/es2011622,https://openalex.org/W2039774973,0,id_retrieval_pmid
 https://pubmed.ncbi.nlm.nih.gov/21864910,https://doi.org/10.1016/j.envint.2011.08.001,https://openalex.org/W1990993613,0,id_retrieval_pmid
 https://pubmed.ncbi.nlm.nih.gov/21864210,https://doi.org/10.1080/08927014.2011.607233,https://openalex.org/W1966244793,0,id_retrieval_pmid
@@ -2578,7 +2578,7 @@ https://pubmed.ncbi.nlm.nih.gov/18275048,https://doi.org/10.1002/cphc.200700708,
 https://pubmed.ncbi.nlm.nih.gov/18269298,https://doi.org/10.1897/07-459,https://openalex.org/W2080233563,0,id_retrieval_pmid
 https://pubmed.ncbi.nlm.nih.gov/18269297,https://doi.org/10.1897/07-415,https://openalex.org/W2061372532,0,id_retrieval_pmid
 https://pubmed.ncbi.nlm.nih.gov/18269295,https://doi.org/10.1021/la702503m,https://openalex.org/W2075027657,0,id_retrieval_pmid
-https://pubmed.ncbi.nlm.nih.gov/18268971,,,0,
+https://pubmed.ncbi.nlm.nih.gov/18268971,,https://openalex.org/W82967056,0,id_retrieval_pmid
 https://pubmed.ncbi.nlm.nih.gov/18266395,https://doi.org/10.1021/la7031175,https://openalex.org/W2069133963,0,id_retrieval_pmid
 https://pubmed.ncbi.nlm.nih.gov/18266110,https://doi.org/10.1007/s12028-008-9064-0,https://openalex.org/W2069514767,0,id_retrieval_pmid
 https://pubmed.ncbi.nlm.nih.gov/18264455,https://doi.org/10.1364/ao.36.008992,https://openalex.org/W1976707900,0,id_retrieval_pmid
@@ -3946,8 +3946,8 @@ https://pubmed.ncbi.nlm.nih.gov/12929438,https://doi.org/10.1039/b208704a,https:
 https://pubmed.ncbi.nlm.nih.gov/12926951,https://doi.org/10.1021/ja0362407,https://openalex.org/W2080747570,0,id_retrieval_pmid
 https://pubmed.ncbi.nlm.nih.gov/12923653,https://doi.org/10.1007/s00394-003-0417-3,https://openalex.org/W2003243446,0,id_retrieval_pmid
 https://pubmed.ncbi.nlm.nih.gov/12907853,https://doi.org/10.1159/000071953,https://openalex.org/W2000709325,0,id_retrieval_pmid
-https://pubmed.ncbi.nlm.nih.gov/12906137,,,0,
-https://pubmed.ncbi.nlm.nih.gov/12905777,,,0,
+https://pubmed.ncbi.nlm.nih.gov/12906137,,https://openalex.org/W2441236830,0,id_retrieval_pmid
+https://pubmed.ncbi.nlm.nih.gov/12905777,,https://openalex.org/W2410227603,0,id_retrieval_pmid
 https://pubmed.ncbi.nlm.nih.gov/12905558,https://doi.org/10.1002/bjs.4138,https://openalex.org/W2034861956,0,id_retrieval_pmid
 https://pubmed.ncbi.nlm.nih.gov/12899324,,https://openalex.org/W2410513324,0,id_retrieval_pmid
 https://pubmed.ncbi.nlm.nih.gov/12890937,https://doi.org/10.1159/000071444,https://openalex.org/W1992877454,0,id_retrieval_pmid
@@ -3960,7 +3960,7 @@ https://pubmed.ncbi.nlm.nih.gov/12866900,https://doi.org/10.1039/b212658c,https:
 https://pubmed.ncbi.nlm.nih.gov/12866404,https://doi.org/10.2144/03351bm04,https://openalex.org/W166915233,0,id_retrieval_pmid
 https://pubmed.ncbi.nlm.nih.gov/12861088,https://doi.org/10.1097/00001432-200308000-00007,https://openalex.org/W1986936861,0,id_retrieval_pmid
 https://pubmed.ncbi.nlm.nih.gov/12857407,https://doi.org/10.1089/107632703322066570,https://openalex.org/W2067271886,0,id_retrieval_pmid
-https://pubmed.ncbi.nlm.nih.gov/12856570,,,0,
+https://pubmed.ncbi.nlm.nih.gov/12856570,,https://openalex.org/W2415286636,0,id_retrieval_pmid
 https://pubmed.ncbi.nlm.nih.gov/12854699,https://doi.org/10.1021/es0303440,https://openalex.org/W2091559200,0,id_retrieval_pmid
 https://pubmed.ncbi.nlm.nih.gov/12850747,https://doi.org/10.1016/s0730-725x(03)00152-8,https://openalex.org/W2040407393,0,id_retrieval_pmid
 https://pubmed.ncbi.nlm.nih.gov/12848860,https://doi.org/10.1046/j.1540-8175.2003.03078.x,https://openalex.org/W2171529756,0,id_retrieval_pmid
@@ -4194,7 +4194,7 @@ https://pubmed.ncbi.nlm.nih.gov/11996829,https://doi.org/10.1016/s0378-5173(02)0
 https://pubmed.ncbi.nlm.nih.gov/11996807,https://doi.org/10.1016/s0378-5173(02)00055-8,https://openalex.org/W2048494198,0,id_retrieval_pmid
 https://pubmed.ncbi.nlm.nih.gov/11993863,https://doi.org/10.1021/es010780r,https://openalex.org/W1972258539,0,id_retrieval_pmid
 https://pubmed.ncbi.nlm.nih.gov/11987102,https://doi.org/10.1053/jpsu.2002.32288,https://openalex.org/W2056301428,0,id_retrieval_pmid
-https://pubmed.ncbi.nlm.nih.gov/11969971,,,0,
+https://pubmed.ncbi.nlm.nih.gov/11969971,https://doi.org/10.1103/physreve.60.1840,https://openalex.org/W2026949698,0,id_retrieval_pmid
 https://pubmed.ncbi.nlm.nih.gov/11967077,https://doi.org/10.1046/j.1365-2958.2002.02863.x,https://openalex.org/W2101222303,0,id_retrieval_pmid
 https://pubmed.ncbi.nlm.nih.gov/11960459,https://doi.org/10.1021/ja012489h,https://openalex.org/W2026450877,0,id_retrieval_pmid
 https://pubmed.ncbi.nlm.nih.gov/11950090,https://doi.org/10.1562/0031-8655(2002)075<0249:ssapos>2.0.co;2,https://openalex.org/W2148463250,0,id_retrieval_pmid
@@ -4520,7 +4520,7 @@ https://pubmed.ncbi.nlm.nih.gov/10925347,https://doi.org/10.1067/mhj.2000.108236
 https://pubmed.ncbi.nlm.nih.gov/10922133,https://doi.org/10.1002/1099-0496(200008)30:2<114::aid-ppul6>3.0.co;2-0,https://openalex.org/W1989262245,0,id_retrieval_pmid
 https://pubmed.ncbi.nlm.nih.gov/10916064,https://doi.org/10.1046/j.1525-1594.2000.06547.x,https://openalex.org/W2146873655,0,id_retrieval_pmid
 https://pubmed.ncbi.nlm.nih.gov/10913755,https://doi.org/10.1016/s0928-0987(00)00089-0,https://openalex.org/W115405311,0,id_retrieval_pmid
-https://pubmed.ncbi.nlm.nih.gov/10909509,,,0,
+https://pubmed.ncbi.nlm.nih.gov/10909509,,https://openalex.org/W2408851694,0,id_retrieval_pmid
 https://pubmed.ncbi.nlm.nih.gov/10903940,https://doi.org/10.1016/s1074-5521(00)00139-3,https://openalex.org/W2084283741,0,id_retrieval_pmid
 https://pubmed.ncbi.nlm.nih.gov/10905858,https://doi.org/10.1021/ol990558f,https://openalex.org/W1986771303,0,id_retrieval_pmid
 https://pubmed.ncbi.nlm.nih.gov/10903253,https://doi.org/10.1164/ajrccm.162.1.9908120,https://openalex.org/W1986957312,0,id_retrieval_pmid
