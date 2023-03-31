@@ -173,10 +173,7 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(
         prog="Enrich metadata", description="Lookup metadata via OpenAlex"
     )
-    parser.add_argument(
-        "dataset_name",
-        nargs="*"
-    )
+    parser.add_argument("-d", "--dataset_name", default=None)
     parser.add_argument(
         "--title-search", action="store_true",
     )
@@ -188,75 +185,81 @@ if __name__ == "__main__":
 
     for dataset in config["datasets"]:
 
-        if dataset["key"] in args.dataset_name:
+        if args.dataset_name and dataset["key"] != args.dataset_name:
+            logging.debug(f"Skip dataset {dataset['key']}")
+            continue
 
-            ds_glob = Path(list(glob(str(Path("datasets", "*", f"{dataset['key']}_ids.csv"))))[0])
-            df = pd.read_csv(ds_glob)
+        if "active" in dataset and not dataset["active"]:
+            print(f"Not active {dataset['key']}")
+            continue
 
-            if "pmid" not in list(df):
-                df["pmid"] = None
-            if "doi" not in list(df):
-                df["doi"] = None
+        ds_glob = Path(list(glob(str(Path("datasets", "*", f"{dataset['key']}_ids.csv"))))[0])
+        df = pd.read_csv(ds_glob)
 
-            # add the collection method
-            if "method" not in list(df):
-                df["method"] = None
+        if "pmid" not in list(df):
+            df["pmid"] = None
+        if "doi" not in list(df):
+            df["doi"] = None
 
-            try:
+        # add the collection method
+        if "method" not in list(df):
+            df["method"] = None
 
-                for id_type in ["pmid", "doi"]:
+        try:
 
-                    if id_type not in list(df):
-                        continue
+            for id_type in ["pmid", "doi"]:
 
-                    # Update works based on ID
-                    subset = df[id_type].notnull() & df["openalex_id"].isnull()
-                    if df[subset].empty:
-                        continue
+                if id_type not in list(df):
+                    continue
 
-                    doi, pmid, oaid = openalex_work_by_id(
-                        df[subset][id_type].tolist(), id_type=id_type
-                    )
+                # Update works based on ID
+                subset = df[id_type].notnull() & df["openalex_id"].isnull()
+                if df[subset].empty:
+                    continue
 
-                    df.loc[subset, "doi"] = doi
-                    df.loc[subset, "openalex_id"] = oaid
-                    df.loc[subset, "pmid"] = pmid
+                doi, pmid, oaid = openalex_work_by_id(
+                    df[subset][id_type].tolist(), id_type=id_type
+                )
 
-                    # trick for manual added records
-                    method = pd.Series([f"id_retrieval_{id_type}" if x else None for x in oaid], dtype=object)
-                    method[(df[subset]["method"] == "manual").tolist()] = "manual"
-                    df.loc[subset, "method"] = method.tolist()
+                df.loc[subset, "doi"] = doi
+                df.loc[subset, "openalex_id"] = oaid
+                df.loc[subset, "pmid"] = pmid
 
-                if args.title_search:
+                # trick for manual added records
+                method = pd.Series([f"id_retrieval_{id_type}" if x else None for x in oaid], dtype=object)
+                method[(df[subset]["method"] == "manual").tolist()] = "manual"
+                df.loc[subset, "method"] = method.tolist()
 
-                    try:
-                        dataset_key = "_".join(ds_glob.stem.split("_")[0:-1])
-                        df_raw = pd.read_csv(Path(ds_glob.parent, f"{dataset_key}_raw.csv"))
-                    except FileNotFoundError:
-                        # no title search possible as there is no raw file
-                        continue
+            if args.title_search:
 
-                    # Update dois from title
-                    for index, row in df.iterrows():
+                try:
+                    dataset_key = "_".join(ds_glob.stem.split("_")[0:-1])
+                    df_raw = pd.read_csv(Path(ds_glob.parent, f"{dataset_key}_raw.csv"))
+                except FileNotFoundError:
+                    # no title search possible as there is no raw file
+                    continue
 
-                        if pd.isnull(row["openalex_id"]) and pd.notnull(df_raw.iloc[index]["title"]):
-                            doi, openalex_id = search_title(df_raw.iloc[index]["title"])
+                # Update dois from title
+                for index, row in df.iterrows():
 
-                            if openalex_id:
-                                print("Found new work for:", doi)
-                                df.loc[index, "openalex_id"] = openalex_id
-                            if doi:
-                                df.loc[index, "doi"] = doi
-                            if openalex_id:
-                                df.loc[index, "method"] = "search_title"
+                    if pd.isnull(row["openalex_id"]) and pd.notnull(df_raw.iloc[index]["title"]):
+                        doi, openalex_id = search_title(df_raw.iloc[index]["title"])
 
-            except KeyboardInterrupt as err:
-                print("Stop and write results so far.")
-                df.to_csv(ds_glob, index=False)
+                        if openalex_id:
+                            print("Found new work for:", doi)
+                            df.loc[index, "openalex_id"] = openalex_id
+                        if doi:
+                            df.loc[index, "doi"] = doi
+                        if openalex_id:
+                            df.loc[index, "method"] = "search_title"
 
-            except requests.exceptions.JSONDecodeError as err:
-                df.to_csv(ds_glob, index=False)
-                raise err
+        except KeyboardInterrupt as err:
+            print("Stop and write results so far.")
+            df.to_csv(ds_glob, index=False)
 
-            finally:
-                df.to_csv(ds_glob, index=False)
+        except requests.exceptions.JSONDecodeError as err:
+            df.to_csv(ds_glob, index=False)
+            raise err
+
+        finally:
+            df.to_csv(ds_glob, index=False)
