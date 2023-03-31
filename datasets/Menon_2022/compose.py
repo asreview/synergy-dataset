@@ -9,6 +9,7 @@ df_inclusions = pd.read_excel("https://osf.io/download/mgxwj/").rename({'DOI nam
 df_inclusions["label_included"] = 1
 df_exclusions["label_included"] = 0
 df = pd.concat([df_inclusions, df_exclusions], ignore_index=True)
+df.rename({"Title": "title"}, axis=1, inplace=True)
 
 # save results to file
 df.to_csv(f"{key}_raw.csv", index=False)

@@ -16,7 +16,7 @@ https://pubmed.ncbi.nlm.nih.gov/32398147,https://doi.org/10.1186/s13148-020-0084
 https://pubmed.ncbi.nlm.nih.gov/32666031,https://doi.org/10.1093/cdn/nzaa098,https://openalex.org/W3028697666,1,id_retrieval_pmid
 https://pubmed.ncbi.nlm.nih.gov/32313524,https://doi.org/10.1177/1559325820916949,https://openalex.org/W3015473841,1,id_retrieval_pmid
 https://pubmed.ncbi.nlm.nih.gov/32430062,https://doi.org/10.1186/s12940-020-00582-1,https://openalex.org/W3026681838,1,id_retrieval_pmid
-https://pubmed.ncbi.nlm.nih.gov/32357902,,,1,
+,https://doi.org/10.1186/s12940-020-00601-1,https://openalex.org/W3020882052,1,search_title
 https://pubmed.ncbi.nlm.nih.gov/32006883,https://doi.org/10.1016/j.envpol.2020.113961,https://openalex.org/W3001609204,1,id_retrieval_pmid
 https://pubmed.ncbi.nlm.nih.gov/32443219,https://doi.org/10.1016/j.envpol.2020.114263,https://openalex.org/W3008896481,1,id_retrieval_pmid
 https://pubmed.ncbi.nlm.nih.gov/31884209,https://doi.org/10.1016/j.envpol.2019.113840,https://openalex.org/W2994822050,1,id_retrieval_pmid
@@ -699,7 +699,7 @@ https://pubmed.ncbi.nlm.nih.gov/31647583,https://doi.org/10.1111/nyas.14254,http
 https://pubmed.ncbi.nlm.nih.gov/32460934,https://doi.org/10.1017/s0007114520001828,https://openalex.org/W3028771231,0,id_retrieval_pmid
 https://pubmed.ncbi.nlm.nih.gov/32450472,https://doi.org/10.1016/j.genhosppsych.2020.05.004,https://openalex.org/W3024193945,0,id_retrieval_pmid
 https://pubmed.ncbi.nlm.nih.gov/32165164,https://doi.org/10.1016/j.diabres.2020.108114,https://openalex.org/W3010343201,0,id_retrieval_pmid
-https://pubmed.ncbi.nlm.nih.gov/31980831,,,0,
+https://pubmed.ncbi.nlm.nih.gov/31980831,https://doi.org/10.1093/neuros/nyz556,https://openalex.org/W3002654615,0,search_title
 https://pubmed.ncbi.nlm.nih.gov/31809560,https://doi.org/10.1111/ajd.13211,https://openalex.org/W2994433980,0,id_retrieval_pmid
 https://pubmed.ncbi.nlm.nih.gov/32434508,https://doi.org/10.1186/s12903-020-01134-2,https://openalex.org/W3027709092,0,id_retrieval_pmid
 https://pubmed.ncbi.nlm.nih.gov/32265156,https://doi.org/10.1016/j.neucir.2020.02.003,https://openalex.org/W3014338251,0,id_retrieval_pmid
@@ -835,7 +835,7 @@ https://pubmed.ncbi.nlm.nih.gov/31899808,https://doi.org/10.1111/all.14174,https
 https://pubmed.ncbi.nlm.nih.gov/30249151,https://doi.org/10.1080/14767058.2018.1514379,https://openalex.org/W2892411143,0,id_retrieval_pmid
 https://pubmed.ncbi.nlm.nih.gov/32547610,https://doi.org/10.11909/j.issn.1671-5411.2020.05.006,https://openalex.org/W3029549841,0,id_retrieval_pmid
 https://pubmed.ncbi.nlm.nih.gov/32469286,https://doi.org/10.1080/10550887.2020.1736756,https://openalex.org/W3012478332,0,id_retrieval_pmid
-https://pubmed.ncbi.nlm.nih.gov/32413027,,,0,
+https://pubmed.ncbi.nlm.nih.gov/32413027,https://doi.org/10.1371/journal.pmed.1003090,https://openalex.org/W3025540713,0,search_title
 https://pubmed.ncbi.nlm.nih.gov/32305383,https://doi.org/10.1016/j.jvs.2020.03.039,https://openalex.org/W3017203944,0,id_retrieval_pmid
 https://pubmed.ncbi.nlm.nih.gov/32199458,https://doi.org/10.1186/s13643-020-01331-8,https://openalex.org/W3012814301,0,id_retrieval_pmid
 https://pubmed.ncbi.nlm.nih.gov/32183392,https://doi.org/10.3390/ijerph17061901,https://openalex.org/W3011779158,0,id_retrieval_pmid
@@ -857,7 +857,7 @@ https://pubmed.ncbi.nlm.nih.gov/32380136,https://doi.org/10.1016/j.jdent.2020.10
 https://pubmed.ncbi.nlm.nih.gov/32349737,https://doi.org/10.1186/s12889-020-8414-5,https://openalex.org/W3023157118,0,id_retrieval_pmid
 https://pubmed.ncbi.nlm.nih.gov/32300889,https://doi.org/10.1007/s10143-020-01297-0,https://openalex.org/W3016968484,0,id_retrieval_pmid
 https://pubmed.ncbi.nlm.nih.gov/32062643,https://doi.org/10.5551/jat.52928,https://openalex.org/W3006458198,0,id_retrieval_pmid
-https://pubmed.ncbi.nlm.nih.gov/31797140,,,0,
+https://pubmed.ncbi.nlm.nih.gov/31797140,https://doi.org/10.1007/s00586-019-06236-2,https://openalex.org/W2993954109,0,search_title
 https://pubmed.ncbi.nlm.nih.gov/31761640,https://doi.org/10.1016/j.carrev.2019.11.003,https://openalex.org/W2987175329,0,id_retrieval_pmid
 https://pubmed.ncbi.nlm.nih.gov/32653471,https://doi.org/10.1016/j.clbc.2020.05.008,https://openalex.org/W3025686531,0,id_retrieval_pmid
 https://pubmed.ncbi.nlm.nih.gov/32316917,https://doi.org/10.1186/s12872-020-01466-5,https://openalex.org/W3016325315,0,id_retrieval_pmid
