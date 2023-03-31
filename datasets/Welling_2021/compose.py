@@ -14,7 +14,7 @@ df.columns = [x.lower() for x in list(df)]
 df.drop_duplicates(inplace=True)
 
 # adjust columns and drop missing and duplicate ids
-df['doi'] = "https://doi.org/" + df['doi'].str.extract(r"(10.\S+)")
+df["doi"] = "https://doi.org/" + df["doi"].str.extract(r"(10.\S+)")
 
 # save results to file
 df.to_csv(f"{key}_raw.csv", index=False)

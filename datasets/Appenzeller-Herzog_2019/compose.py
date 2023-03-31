@@ -19,7 +19,9 @@ df.drop_duplicates(inplace=True)
 
 # adjust columns and drop missing and duplicate ids
 df["doi"] = "https://doi.org/" + df["doi"].str.extract(r"(10.\S+)")
-df["pmid"] = "https://pubmed.ncbi.nlm.nih.gov/" + df["url"].str.extract(r"id\=pmid\:(\d+)")
+df["pmid"] = "https://pubmed.ncbi.nlm.nih.gov/" + df["url"].str.extract(
+    r"id\=pmid\:(\d+)"
+)
 
 # save results to file
 df.to_csv(f"{key}_raw.csv", index=False)
@@ -27,4 +29,6 @@ df.to_csv(f"{key}_raw.csv", index=False)
 df_new = df[["doi", "pmid", "label_included"]].copy()
 df_new["openalex_id"] = None
 
-df_new[["doi", "pmid", "openalex_id", "label_included"]].to_csv(f"{key}_ids.csv", index=False)
+df_new[["doi", "pmid", "openalex_id", "label_included"]].to_csv(
+    f"{key}_ids.csv", index=False
+)

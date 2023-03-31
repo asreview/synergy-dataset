@@ -1,4 +1,3 @@
-
 import pandas as pd
 import tomli
 import argparse
@@ -6,13 +5,19 @@ import logging
 from glob import glob
 from pathlib import Path
 import itertools
+import re
 
 cols = ["abstract", "Abstract", "Abstract Note", "abstract note"]
+
 
 def invert_text(s):
 
     if pd.isnull(s):
         return None
+
+    match = re.match(r"(.*?)Copyright.*", s, re.MULTILINE | re.IGNORECASE)
+    if match:
+        s = match.group(1)
 
     parts = s.strip().split(" ")
 
@@ -50,7 +55,7 @@ if __name__ == "__main__":
             print(f"Not active {dataset['key']}")
             continue
 
-        print(dataset['key'])
+        print(dataset["key"])
         try:
             fp = list(glob(str(Path("datasets", "*", f"{dataset['key']}_raw.csv"))))[0]
         except IndexError:

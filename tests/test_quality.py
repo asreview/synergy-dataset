@@ -22,7 +22,9 @@ def datasets():
 
     return paths
 
+
 DATASETS = datasets()
+
 
 @pytest.mark.parametrize("dataset", DATASETS)
 def test_all_inclusions_found(dataset):
@@ -32,11 +34,12 @@ def test_all_inclusions_found(dataset):
 
     assert n == 0
 
+
 @pytest.mark.parametrize("dataset", DATASETS)
 def test_retrieval_rate_10(dataset):
 
     df = pd.read_csv(dataset)
 
-    perc = (df["openalex_id"].isnull().sum() / len(df))*100
+    perc = (df["openalex_id"].isnull().sum() / len(df)) * 100
 
     assert perc < 5

@@ -433,7 +433,7 @@ https://doi.org/10.1081/ja-200052433,https://openalex.org/W2018262147,0,https://
 https://doi.org/10.1192/bjp.186.3.267-a,https://openalex.org/W2147764424,0,,id_retrieval_doi
 https://doi.org/10.1176/appi.ps.56.3.255,https://openalex.org/W2065682311,0,https://pubmed.ncbi.nlm.nih.gov/15746497,id_retrieval_doi
 https://doi.org/10.1017/s0033291704002788,https://openalex.org/W2169856419,0,https://pubmed.ncbi.nlm.nih.gov/15842031,id_retrieval_doi
-,,0,,
+https://doi.org/10.1017/s109285290000972x,https://openalex.org/W2194366012,0,,search_title_year
 ,https://openalex.org/W2248178345,0,,search_title
 https://doi.org/10.1016/j.earlhumdev.2004.05.009,https://openalex.org/W2013949845,0,https://pubmed.ncbi.nlm.nih.gov/15500991,id_retrieval_doi
 https://doi.org/10.4088/jcp.v65n1020a,https://openalex.org/W2079870043,0,https://pubmed.ncbi.nlm.nih.gov/15491250,id_retrieval_doi
@@ -867,13 +867,13 @@ https://doi.org/10.3310/hta10350,https://openalex.org/W2326024118,0,,search_titl
 ,,0,,
 https://doi.org/10.1111/j.1744-618x.2008.01110.x,https://openalex.org/W2111579156,0,https://pubmed.ncbi.nlm.nih.gov/19207526,id_retrieval_doi
 https://doi.org/10.1016/j.jsat.2011.05.004,https://openalex.org/W1903472121,0,,search_title
-,,0,,
+https://doi.org/10.1002/14651858.cd009353.pub2,https://openalex.org/W1935968561,0,,search_title_year
 https://doi.org/10.1080/02668734.2011.652659,https://openalex.org/W2078454077,0,,id_retrieval_doi
 ,,0,,
 https://doi.org/10.1521/ijct.2013.6.2.171,https://openalex.org/W2074000645,0,,id_retrieval_doi
 https://doi.org/10.1111/j.1742-9552.2012.00051.x,https://openalex.org/W2136955861,0,,id_retrieval_doi
 ,https://openalex.org/W2113309044,0,,search_title
-,,0,,
+https://doi.org/10.1002/14651858.cd005652.pub2,https://openalex.org/W2097318329,0,,search_title_year
 https://doi.org/10.7748/mhp2009.12.13.4.30.c7410,https://openalex.org/W2316756159,0,,id_retrieval_doi
 https://doi.org/10.1111/bjc.12100,https://openalex.org/W2189224149,0,https://pubmed.ncbi.nlm.nih.gov/26616386,id_retrieval_doi
 https://doi.org/10.1136/ebmh1097,https://openalex.org/W4236089761,0,,id_retrieval_doi
@@ -893,7 +893,7 @@ https://doi.org/10.1891/0889-8391.26.4.365,https://openalex.org/W2044891779,0,,i
 https://doi.org/10.1080/15487760903066446,https://openalex.org/W1999928838,0,https://pubmed.ncbi.nlm.nih.gov/20514357,id_retrieval_doi
 ,https://openalex.org/W143155651,0,,search_title
 https://doi.org/10.1002/cpp.1951,https://openalex.org/W1835920095,0,https://pubmed.ncbi.nlm.nih.gov/25820633,id_retrieval_doi
-,,0,,
+https://doi.org/10.1080/09638230601182045,https://openalex.org/W2141010393,0,,search_title_year
 https://doi.org/10.1521/psyc.2008.71.1.59,https://openalex.org/W2156467577,0,https://pubmed.ncbi.nlm.nih.gov/18377206,id_retrieval_doi
 https://doi.org/10.1111/j.1365-2788.2010.01369.x,https://openalex.org/W2143959926,0,https://pubmed.ncbi.nlm.nih.gov/21199047,id_retrieval_doi
 https://doi.org/10.1002/eat.22176,https://openalex.org/W2129379386,0,https://pubmed.ncbi.nlm.nih.gov/23983043,id_retrieval_doi
@@ -916,7 +916,7 @@ https://doi.org/10.1136/ebmh.10.1.23,https://openalex.org/W2027298872,0,https://
 https://doi.org/10.1136/ebmh.6.2.50,https://openalex.org/W2098186783,0,https://pubmed.ncbi.nlm.nih.gov/12719357,id_retrieval_doi
 https://doi.org/10.1136/ebmh.7.3.75,https://openalex.org/W2138831780,0,https://pubmed.ncbi.nlm.nih.gov/15273219,id_retrieval_doi
 ,,0,,
-,,0,,
+https://doi.org/10.1017/s109285290000972x,https://openalex.org/W2194366012,0,,search_title_year
 https://doi.org/10.1080/00970050.1988.10616047,https://openalex.org/W2599448600,0,,search_title
 https://doi.org/10.1046/j.1365-2354.2000.00220.x,https://openalex.org/W2095993002,0,https://pubmed.ncbi.nlm.nih.gov/11829370,id_retrieval_doi
 https://doi.org/10.1176/ajp.2007.164.6.974,https://openalex.org/W2111081751,0,https://pubmed.ncbi.nlm.nih.gov/17541061,id_retrieval_doi

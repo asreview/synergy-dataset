@@ -1,16 +1,16 @@
-import requests
-import pandas as pd
-import numpy as np
 import argparse
-import re
-import pyalex
-import os
-from urllib.request import urlopen
-from io import BytesIO
-from zipfile import ZipFile
-from tqdm import tqdm
-
 import logging
+import os
+import re
+from io import BytesIO
+from urllib.request import urlopen
+from zipfile import ZipFile
+
+import numpy as np
+import pandas as pd
+import pyalex
+import requests
+from tqdm import tqdm
 
 logging.basicConfig(level=logging.INFO)
 
@@ -19,20 +19,23 @@ tqdm.pandas()
 EMAIL_POLITE_POOL = "asreview@uu.nl"
 
 # export IEEE_KEY=xyz
-API_KEY = os.getenv('IEEE_KEY')
+API_KEY = os.getenv("IEEE_KEY")
+
 
 def compare_ieee(x, y):
 
-    x_d = str(re.search(r'arnumber\=(\d+)', x).group(1))
+    x_d = str(re.search(r"arnumber\=(\d+)", x).group(1))
 
     return x_d in y
 
 
 def get_ieee_record(x):
 
-    x_d = str(re.search(r'arnumber\=(\d+)', x).group(1))
+    x_d = str(re.search(r"arnumber\=(\d+)", x).group(1))
 
-    r = requests.get(f"https://ieeexploreapi.ieee.org/api/v1/search/articles?article_number={x_d}&apikey={API_KEY}")
+    r = requests.get(
+        f"https://ieeexploreapi.ieee.org/api/v1/search/articles?article_number={x_d}&apikey={API_KEY}"
+    )
     w = pyalex.Works()["https://doi.org/" + r.json()["articles"][0]["doi"]]
 
     return (w["doi"], w["id"])
@@ -40,7 +43,9 @@ def get_ieee_record(x):
 
 def get_doi_acm(row):
 
-    if pd.isnull(row["openalex_id"]) and row["PDF Link"].startswith("http://dl.acm.org/"):
+    if pd.isnull(row["openalex_id"]) and row["PDF Link"].startswith(
+        "http://dl.acm.org/"
+    ):
         print(row["PDF Link"])
         try:
             rh_source = requests.head(row["PDF Link"], allow_redirects=True)
@@ -56,14 +61,14 @@ def get_doi_acm(row):
 def get_doi(row):
 
     try:
-        title_clean = row['Document Title'].replace(",", "").replace(":", "")
+        title_clean = row["Document Title"].replace(",", "").replace(":", "")
 
         params = {
             "filter": [
                 "display_name.search:{}".format(title_clean),
-                "publisher: 'Institute of Electrical and Electronics Engineers"
+                "publisher: 'Institute of Electrical and Electronics Engineers",
             ],
-            "mailto": EMAIL_POLITE_POOL
+            "mailto": EMAIL_POLITE_POOL,
         }
         res = requests.get("http://api.openalex.org/works", params=params)
         res.raise_for_status()
@@ -95,17 +100,18 @@ def get_doi(row):
                 return (d, oa)
 
         elif res_openalex["meta"]["count"] == 0:
-            logging.info("No result found on OpenAlex: " + row['Document Title'])
+            logging.info("No result found on OpenAlex: " + row["Document Title"])
             d, oa = get_ieee_record(row["PDF Link"])
             return (d, oa)
         else:
-            w = res.json()['results'][0]
+            w = res.json()["results"][0]
             logging.info("Result found {}".format(w["doi"]))
             return (w["doi"], w["id"])
     except Exception:
         return (None, None)
 
-if __name__ == '__main__':
+
+if __name__ == "__main__":
 
     parser = argparse.ArgumentParser(prog="Compose Yu data")
     parser.add_argument("subset")
@@ -122,5 +128,6 @@ if __name__ == '__main__':
     df_new[["doi", "openalex_id"]] = df_new.apply(get_doi, axis=1, result_type="expand")
 
     # export the file again
-    df_new[["doi", "openalex_id", "label_included"]].to_csv(f"{args.subset}_ids.csv", index=False)
-
+    df_new[["doi", "openalex_id", "label_included"]].to_csv(
+        f"{args.subset}_ids.csv", index=False
+    )

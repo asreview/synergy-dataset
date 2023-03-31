@@ -4,7 +4,9 @@ from asreview import ASReviewData
 key = "Oud_2018"
 
 # load RIS into ASReviewData object
-asr_all = ASReviewData.from_file("https://osf.io/download/7shuv/?view_only=f30f6eb898e24a6f8a19734e8b1fc19b")
+asr_all = ASReviewData.from_file(
+    "https://osf.io/download/7shuv/?view_only=f30f6eb898e24a6f8a19734e8b1fc19b"
+)
 df = asr_all.df.rename({"included": "label_included"}, axis=1)
 
 # adjust columns and drop missing and duplicate ids

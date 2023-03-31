@@ -4,7 +4,9 @@ import pandas as pd
 # https://www.sciencedirect.com/science/article/pii/S1879406822002314
 key = "van_der_Waal_2022"
 
-df = pd.read_excel("https://zenodo.org/record/7308297/files/GERDAT012%20Literature%20search%20for%20publication%20-%20Control%20preference%20scale.xlsx?download=1")
+df = pd.read_excel(
+    "https://zenodo.org/record/7308297/files/GERDAT012%20Literature%20search%20for%20publication%20-%20Control%20preference%20scale.xlsx?download=1"
+)
 print(df)
 
 
@@ -19,7 +21,6 @@ inclusions = [
     {"doi": "https://doi.org/10.1002/pon.4284"},
     {"doi": "https://doi.org/10.1371/journal.pone.0227802"},
     {"doi": "https://doi.org/10.1016/j.urolonc.2016.06.015"},
-
     {"doi": "https://doi.org/10.1007/s00520-017-3994-z"},
     {"doi": "https://doi.org/10.1097/DCR.0000000000000662"},
     {"pmid": "https://pubmed.ncbi.nlm.nih.gov/19625082"},
@@ -30,7 +31,6 @@ inclusions = [
     {"doi": "https://doi.org/10.1016/j.jss.2019.04.037"},
     {"doi": "https://doi.org/10.1016/j.pec.2018.05.023"},
     {"doi": "https://doi.org/10.1001/jamaoncol.2014.112"},
-
     {"doi": "https://doi.org/10.1038/bjc.2014.322"},
     {"doi": "https://doi.org/10.1002/pon.5545"},
     {"doi": "https://doi.org/10.1002/pon.3949"},
@@ -41,11 +41,9 @@ inclusions = [
     {"doi": "https://doi.org/10.1038/sj.bjc.6604611"},
     {"doi": "https://doi.org/10.1007/s00520-016-3476-8"},
     {"doi": "https://doi.org/10.1200/JGO.2016.008045"},
-
     {"doi": "https://doi.org/10.3747/co.v17i4.527"},
     {"doi": "https://doi.org/10.1016/j.juro.2018.02.3091"},
-    {"pmid": "https://pubmed.ncbi.nlm.nih.gov/23182756"}
-
+    {"pmid": "https://pubmed.ncbi.nlm.nih.gov/23182756"},
 ]
 
 df_inclusions = pd.DataFrame(inclusions)
@@ -60,4 +58,6 @@ df.to_csv(f"{key}_raw.csv", index=False)
 df_new = df[["pmid", "doi", "label_included"]].copy()
 df_new["openalex_id"] = None
 
-df_new[["pmid", "doi", "openalex_id", "label_included"]].to_csv(f"{key}_ids.csv", index=False)
+df_new[["pmid", "doi", "openalex_id", "label_included"]].to_csv(
+    f"{key}_ids.csv", index=False
+)

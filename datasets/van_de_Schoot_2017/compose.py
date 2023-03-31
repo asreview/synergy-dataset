@@ -27,6 +27,4 @@ df_new["openalex_id"] = None
 
 # Export the new dataframe with the "doi", "openalex_id", and "label_included"
 # columns
-df_new[["doi", "openalex_id", "label_included"]].to_csv(
-    f"{key}_ids.csv", index=False
-)
+df_new[["doi", "openalex_id", "label_included"]].to_csv(f"{key}_ids.csv", index=False)

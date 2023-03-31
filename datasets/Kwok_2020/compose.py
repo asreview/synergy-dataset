@@ -2,8 +2,12 @@ import pandas as pd
 from asreview import ASReviewData
 
 # load RIS from OSF into ASReviewData object
-asr_inclusions = ASReviewData.from_file("https://raw.githubusercontent.com/asreview/systematic-review-datasets/97bb9b54331265164c991e9aa5a585bbc6e0fa49/datasets/Kwok_2020/raw/Virus_Metagenomics_in_Farm_Animals-INCLUDED-v2.txt")
-asr_search = ASReviewData.from_file("https://raw.githubusercontent.com/asreview/systematic-review-datasets/97bb9b54331265164c991e9aa5a585bbc6e0fa49/datasets/Kwok_2020/raw/Virus_Metagenomics_in_Farm_Animals-ALL.txt")
+asr_inclusions = ASReviewData.from_file(
+    "https://raw.githubusercontent.com/asreview/systematic-review-datasets/97bb9b54331265164c991e9aa5a585bbc6e0fa49/datasets/Kwok_2020/raw/Virus_Metagenomics_in_Farm_Animals-INCLUDED-v2.txt"
+)
+asr_search = ASReviewData.from_file(
+    "https://raw.githubusercontent.com/asreview/systematic-review-datasets/97bb9b54331265164c991e9aa5a585bbc6e0fa49/datasets/Kwok_2020/raw/Virus_Metagenomics_in_Farm_Animals-ALL.txt"
+)
 
 # set labels and turn into single dataframe
 asr_inclusions.df["label_included"] = 1

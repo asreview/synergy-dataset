@@ -2,8 +2,12 @@ import pandas as pd
 
 key = "Moran_2021"
 
-df_search = pd.read_csv("https://raw.githubusercontent.com/NPMoran/metah06_condition-dependence-of-boldness_OSF/master/screening_ref_data_rayyan.csv")
-df_inclusions = pd.read_csv("https://raw.githubusercontent.com/NPMoran/metah06_condition-dependence-of-boldness_OSF/master/screening_ref_data_rayyan_final.csv")
+df_search = pd.read_csv(
+    "https://raw.githubusercontent.com/NPMoran/metah06_condition-dependence-of-boldness_OSF/master/screening_ref_data_rayyan.csv"
+)
+df_inclusions = pd.read_csv(
+    "https://raw.githubusercontent.com/NPMoran/metah06_condition-dependence-of-boldness_OSF/master/screening_ref_data_rayyan_final.csv"
+)
 
 # set labels and turn into single dataframe
 df_inclusions["label_included"] = 1

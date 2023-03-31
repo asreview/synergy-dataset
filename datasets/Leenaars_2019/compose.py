@@ -1,8 +1,7 @@
-import pandas as pd
-from asreview import ASReviewData
-
 import urllib.parse
 
+import pandas as pd
+from asreview import ASReviewData
 
 key = "Leenaars_2019"
 
@@ -12,6 +11,7 @@ def unquote_nan(x):
         return urllib.parse.unquote(urllib.parse.unquote(x))
     except Exception:
         return None
+
 
 inclusions = [
     {"pmid": None, "doi": "10.1016/0304-3940(96)12918-9"},
@@ -30,7 +30,7 @@ inclusions = [
     {"pmid": None, "doi": "10.5665/sleep.2106"},
     {"pmid": None, "doi": "10.1111/j.1471-4159.2011.07350.x"},
     {"pmid": None, "doi": "10.1080/01616412.2015.1114231"},
-    {"pmid": None, "doi": "10.1523/JNEUROSCI.5933-11.2012"}
+    {"pmid": None, "doi": "10.1523/JNEUROSCI.5933-11.2012"},
 ]
 
 df_inclusions = pd.DataFrame(inclusions)
@@ -39,8 +39,13 @@ df_inclusions = pd.DataFrame(inclusions)
 asr_pubmed = ASReviewData.from_file("https://osf.io/download/m523q/")
 asr_embase = ASReviewData.from_file("https://osf.io/download/exm3a/")
 
-asr_embase.df["doi"] = asr_embase.df["url"].str.extract(r"doi\/(10.\S+?)&")[0].apply(unquote_nan)
-asr_embase.df["pmid"] = "https://pubmed.ncbi.nlm.nih.gov/" + asr_embase.df["url"].str.extract(r"pmid\/(\d+)&")[0]
+asr_embase.df["doi"] = (
+    asr_embase.df["url"].str.extract(r"doi\/(10.\S+?)&")[0].apply(unquote_nan)
+)
+asr_embase.df["pmid"] = (
+    "https://pubmed.ncbi.nlm.nih.gov/"
+    + asr_embase.df["url"].str.extract(r"pmid\/(\d+)&")[0]
+)
 
 # set labels and turn into single dataframe
 df_inclusions["label_included"] = 1
@@ -50,7 +55,7 @@ df = pd.concat([df_inclusions, asr_pubmed.df, asr_embase.df], ignore_index=True)
 
 # adjust columns and drop missing and duplicate ids
 df["doi"] = "https://doi.org/" + df["doi"].str.extract(r"(10.\S+)")
-df["doi"] = df["doi"].str.split("&", n = 1, expand = True)[0]
+df["doi"] = df["doi"].str.split("&", n=1, expand=True)[0]
 
 # save results to file
 df.to_csv(f"{key}_raw.csv", index=False)
@@ -58,4 +63,6 @@ df.to_csv(f"{key}_raw.csv", index=False)
 df_new = df[["pmid", "doi", "label_included"]].copy()
 df_new["openalex_id"] = None
 
-df_new[["pmid", "doi", "openalex_id", "label_included"]].to_csv(f"{key}_ids.csv", index=False)
+df_new[["pmid", "doi", "openalex_id", "label_included"]].to_csv(
+    f"{key}_ids.csv", index=False
+)

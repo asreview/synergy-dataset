@@ -1,4 +1,3 @@
-
 # python scripts/enrich.py -d Meijboom_2022 --title-search
 
 import os
@@ -27,7 +26,7 @@ logging.getLogger().setLevel(logging.INFO)
 
 pyalex.config.email = "asreview@uu.nl"
 
-LENS_TOKEN = os.getenv('LENS_TOKEN')
+LENS_TOKEN = os.getenv("LENS_TOKEN")
 
 SPECIAL_TOKENS = """()[]{}'@#:;"%&`’,.?!/\\^®"""
 
@@ -85,7 +84,12 @@ def search_record(title, year=None, label_included=None):
 
     matches = []
     for work in r:
-        if "title" in work and work["title"] and title and compare_titles(work["title"], title):
+        if (
+            "title" in work
+            and work["title"]
+            and title
+            and compare_titles(work["title"], title)
+        ):
             matches.append(work)
 
     # print(f"N={len(matches)}:", title)
@@ -96,7 +100,12 @@ def search_record(title, year=None, label_included=None):
     # we match year as well.
     matches_year = []
     for work in matches:
-        if "publication_year" in work and work["publication_year"] and year and work["publication_year"] == year:
+        if (
+            "publication_year" in work
+            and work["publication_year"]
+            and year
+            and work["publication_year"] == year
+        ):
             matches_year.append(work)
 
     if len(matches_year) == 1:
@@ -198,10 +207,12 @@ if __name__ == "__main__":
     )
     parser.add_argument("-d", "--dataset_name", default=None)
     parser.add_argument(
-        "--title-search", action="store_true",
+        "--title-search",
+        action="store_true",
     )
     parser.add_argument(
-        "--inclusions-only", action="store_true",
+        "--inclusions-only",
+        action="store_true",
     )
     args = parser.parse_args()
 
@@ -219,7 +230,9 @@ if __name__ == "__main__":
             print(f"Not active {dataset['key']}")
             continue
 
-        ds_glob = Path(list(glob(str(Path("datasets", "*", f"{dataset['key']}_ids.csv"))))[0])
+        ds_glob = Path(
+            list(glob(str(Path("datasets", "*", f"{dataset['key']}_ids.csv"))))[0]
+        )
         df = pd.read_csv(ds_glob)
 
         if "pmid" not in list(df):
@@ -265,16 +278,23 @@ if __name__ == "__main__":
                 # Update dois from title
                 for index, row in df.iterrows():
 
-                    if args.inclusions_only and df_raw.iloc[index]["label_included"] == 0:
+                    if (
+                        args.inclusions_only
+                        and df_raw.iloc[index]["label_included"] == 0
+                    ):
                         continue
 
-                    if pd.isnull(row["openalex_id"]) and pd.notnull(df_raw.iloc[index]["title"]):
+                    if pd.isnull(row["openalex_id"]) and pd.notnull(
+                        df_raw.iloc[index]["title"]
+                    ):
                         try:
                             year = df_raw.iloc[index]["year"]
                         except Exception:
                             year = None
                         doi, openalex_id, retrieval_method = search_record(
-                            df_raw.iloc[index]["title"], year, df_raw.iloc[index]["label_included"]
+                            df_raw.iloc[index]["title"],
+                            year,
+                            df_raw.iloc[index]["label_included"],
                         )
 
                         if openalex_id:

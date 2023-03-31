@@ -3,8 +3,6 @@ import argparse
 import pandas as pd
 import requests
 
-
-
 if __name__ == "__main__":
 
     parser = argparse.ArgumentParser(prog="Compose Cohen data")
@@ -29,7 +27,9 @@ if __name__ == "__main__":
     df["doi"] = None
     df["openalex_id"] = None
 
-    export_fp = f"{args.name}_ids.csv" if args.name else f"Cohen_2006_{args.subset}_ids.csv"
+    export_fp = (
+        f"{args.name}_ids.csv" if args.name else f"Cohen_2006_{args.subset}_ids.csv"
+    )
 
     # save results to file
     df[df["disease"] == args.subset][

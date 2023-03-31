@@ -101,7 +101,7 @@ def render_metadata(dataset_config, labels_path):
     # get the APA style citation
     r = requests.get(
         "https://doi.org/" + dataset["publication"]["doi"],
-        headers={"accept": "text/x-bibliography; style=apa; charset=utf-8"}
+        headers={"accept": "text/x-bibliography; style=apa; charset=utf-8"},
     )
     r.encoding = "utf-8"
     dataset["publication"]["citation"] = {"apa": r.text}
