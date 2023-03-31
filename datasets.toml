@@ -96,7 +96,7 @@ version=0.1
 
   [datasets.data]
 
-  doi="https://osf.io/download/gmjcv/"
+  doi="10.17605/OSF.IO/WDZH5"
 
 [[datasets]]
 
@@ -108,7 +108,7 @@ version=0.1
 
   [datasets.data]
 
-  doi="https://osf.io/gxams"
+  doi="10.17605/OSF.IO/PUQ7X"
 
 [[datasets]]
 
@@ -120,7 +120,7 @@ version=0.1
 
   [datasets.data]
 
-  doi="https://osf.io/py7ek"
+  doi="10.17605/OSF.IO/R45YZ"
 
 [[datasets]]
 
@@ -559,9 +559,72 @@ version=0.1
 [[datasets]]
 
   key="Kwok_2020"
+  active=false
+  note="License issue"
 
   [datasets.publication]
   doi= "10.3390/v12010107"
 
   [datasets.data]
   doi="10.17605/OSF.IO/5S27M"
+
+
+[[datasets]]
+
+  key="Oud_2018"
+
+  [datasets.publication]
+  doi= "10.1177/0004867418791257"
+
+  [datasets.data]
+  doi="https://osf.io/pjr97"
+
+[[datasets]]
+
+  key="Wassenaar_2017"
+
+  [datasets.publication]
+  doi= "10.1289/ehp1233"
+
+  [datasets.data]
+  doi="10.1186/s13643-016-0263-z"
+
+[[datasets]]
+
+  key="Rooney_2015"
+
+  [datasets.publication]
+  doi= "10.1007/978-3-319-15518-0_16"
+
+  [datasets.data]
+  doi="10.1186/s13643-016-0263-z"
+
+[[datasets]]
+
+  key="Walker_2018"
+
+  [datasets.publication]
+  doi= "10.1016/j.envint.2017.12.032"
+
+  [datasets.data]
+  doi="10.1186/s13643-016-0263-z"
+
+[[datasets]]
+
+  key="Leenaars_2020"
+
+  [datasets.publication]
+  doi= "10.3390/ani10061047"
+
+  [datasets.data]
+  doi="10.17605/OSF.IO/T7GYR"
+
+[[datasets]]
+
+  key="Sep_2021"
+
+  [datasets.publication]
+  doi= "10.1371/journal.pone.0249102"
+
+  [datasets.data]
+  doi="10.17605/OSF.IO/GY2MC"
