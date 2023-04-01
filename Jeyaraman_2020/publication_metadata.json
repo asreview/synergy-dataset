@@ -68,6 +68,7 @@
           "type": "education"
         }
       ],
+      "is_corresponding": false,
       "raw_affiliation_string": "Department of Orthopaedics, School of Medical Sciences & Research, Sharda University, Greater Noida, Uttar Pradesh, India."
     },
     {
@@ -86,6 +87,7 @@
           "type": null
         }
       ],
+      "is_corresponding": true,
       "raw_affiliation_string": "Government Hospital, Velayuthampalayam, Karur, Tamil Nadu, India."
     },
     {
@@ -104,6 +106,7 @@
           "type": "education"
         }
       ],
+      "is_corresponding": false,
       "raw_affiliation_string": "Department of Orthopaedics, School of Medical Sciences & Research, Sharda University, Greater Noida, Uttar Pradesh, India."
     }
   ],

@@ -1,6 +1,5 @@
 {
   "key": "van_de_Schoot_2017",
-  "note": "Issue with year of publication (2017). 2016 or 2018?",
   "publication": {
     "doi": "10.1080/10705511.2016.1247646",
     "citation": {
@@ -8,8 +7,8 @@
     }
   },
   "data": {
-    "doi": "https://doi.org/10.17605/OSF.IO/VW3T7",
-    "n_records": 4494,
-    "n_records_included": 36
+    "doi": "10.17605/OSF.IO/VW3T7",
+    "n_records": 4544,
+    "n_records_included": 38
   }
 }

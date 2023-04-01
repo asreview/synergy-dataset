@@ -24,6 +24,7 @@
         "1740-3391"
       ],
       "host_organization": "https://openalex.org/P4310320511",
+      "host_organization_name": "Ubiquity Press",
       "type": "journal"
     },
     "license": "cc-by",
@@ -53,9 +54,9 @@
     {
       "author_position": "first",
       "author": {
-        "id": "https://openalex.org/A2884916484",
+        "id": "https://openalex.org/A4342887281",
         "display_name": "Cathalijn H. C. Leenaars",
-        "orcid": "https://orcid.org/0000-0002-8212-7632"
+        "orcid": null
       },
       "institutions": [
         {
@@ -66,12 +67,13 @@
           "type": "education"
         }
       ],
+      "is_corresponding": false,
       "raw_affiliation_string": ""
     },
     {
       "author_position": "middle",
       "author": {
-        "id": "https://openalex.org/A1989597372",
+        "id": "https://openalex.org/A4339379508",
         "display_name": "Wilhelmus Drinkenburg",
         "orcid": null
       },
@@ -84,6 +86,7 @@
           "type": "company"
         }
       ],
+      "is_corresponding": false,
       "raw_affiliation_string": "Janssen Research and Development, a division of Janssen Pharmaceutica N.V., BE."
     },
     {
@@ -102,12 +105,13 @@
           "type": "company"
         }
       ],
+      "is_corresponding": false,
       "raw_affiliation_string": "Janssen Research and Development, a division of Janssen Pharmaceutica N.V., BE."
     },
     {
       "author_position": "middle",
       "author": {
-        "id": "https://openalex.org/A2045559000",
+        "id": "https://openalex.org/A4346052199",
         "display_name": "Maurice Dematteis",
         "orcid": null
       },
@@ -120,12 +124,13 @@
           "type": "education"
         }
       ],
+      "is_corresponding": false,
       "raw_affiliation_string": "Department of Addiction Medicine, Grenobles Alpes University Hospital and Grenoble Alpes University, FR."
     },
     {
       "author_position": "middle",
       "author": {
-        "id": "https://openalex.org/A1988075679",
+        "id": "https://openalex.org/A4350687913",
         "display_name": "Ruud N. J. M. A. Joosten",
         "orcid": null
       },
@@ -138,12 +143,13 @@
           "type": "government"
         }
       ],
+      "is_corresponding": false,
       "raw_affiliation_string": "Netherlands Institute for Neuroscience (NIN), An Institute of the Royal Netherlands Academy of Arts and Sciences, NL."
     },
     {
       "author_position": "middle",
       "author": {
-        "id": "https://openalex.org/A2805492237",
+        "id": "https://openalex.org/A4333786166",
         "display_name": "Matthijs G. P. Feenstra",
         "orcid": null
       },
@@ -156,14 +162,15 @@
           "type": "government"
         }
       ],
+      "is_corresponding": false,
       "raw_affiliation_string": "Netherlands Institute for Neuroscience (NIN), An Institute of the Royal Netherlands Academy of Arts and Sciences, NL."
     },
     {
       "author_position": "last",
       "author": {
-        "id": "https://openalex.org/A2107558754",
+        "id": "https://openalex.org/A4348994942",
         "display_name": "Rob B. M. de Vries",
-        "orcid": "https://orcid.org/0000-0002-0000-8796"
+        "orcid": null
       },
       "institutions": [
         {
@@ -174,6 +181,7 @@
           "type": "education"
         }
       ],
+      "is_corresponding": false,
       "raw_affiliation_string": "SYRCLE, Radboud Institute for Health Sciences, Radboud University Medical Center, NL."
     }
   ],
@@ -384,6 +392,7 @@
           "1740-3391"
         ],
         "host_organization": "https://openalex.org/P4310320511",
+        "host_organization_name": "Ubiquity Press",
         "type": "journal"
       },
       "license": "cc-by",
@@ -399,6 +408,7 @@
         "issn_l": null,
         "issn": null,
         "host_organization": null,
+        "host_organization_name": "PubMed Central",
         "type": "repository"
       },
       "license": "cc-by",
@@ -414,6 +424,7 @@
         "issn_l": null,
         "issn": null,
         "host_organization": "https://openalex.org/I1322597698",
+        "host_organization_name": "DANS",
         "type": "repository"
       },
       "license": "cc-by",
@@ -429,6 +440,7 @@
         "issn_l": null,
         "issn": null,
         "host_organization": "https://openalex.org/I193662353",
+        "host_organization_name": "Utrecht University",
         "type": "repository"
       },
       "license": "cc-by",
@@ -444,6 +456,7 @@
         "issn_l": null,
         "issn": null,
         "host_organization": "https://openalex.org/I1322597698",
+        "host_organization_name": "DANS",
         "type": "repository"
       },
       "license": "cc-by",
@@ -459,6 +472,7 @@
         "issn_l": null,
         "issn": null,
         "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": null,
         "type": "repository"
       },
       "license": null,
@@ -477,6 +491,7 @@
         "1740-3391"
       ],
       "host_organization": "https://openalex.org/P4310320511",
+      "host_organization_name": "Ubiquity Press",
       "type": "journal"
     },
     "license": "cc-by",
@@ -1173,6 +1188,6 @@
       "cited_by_count": 3
     }
   ],
-  "updated_date": "2023-03-10T07:12:31.682814",
+  "updated_date": "2023-03-30T18:45:06.108015",
   "created_date": "2019-07-12"
 }

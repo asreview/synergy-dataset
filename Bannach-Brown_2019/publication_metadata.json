@@ -24,6 +24,7 @@
         "2046-4053"
       ],
       "host_organization": "https://openalex.org/P4310319900",
+      "host_organization_name": "Springer Science+Business Media",
       "type": "journal"
     },
     "license": "cc-by",
@@ -80,14 +81,15 @@
           "type": "education"
         }
       ],
+      "is_corresponding": null,
       "raw_affiliation_string": "Centre for Clinical Brain Sciences, University of Edinburgh, Edinburgh, Scotland; Present Address: Centre for Research in Evidence-Based Practice, Bond University, Gold Coast, Australia; Translational Neuropsychiatry Unit, Aarhus University, Aarhus, Denmark"
     },
     {
       "author_position": "middle",
       "author": {
-        "id": "https://openalex.org/A2178768777",
+        "id": "https://openalex.org/A4358493549",
         "display_name": "Piotr Przyby\u0142a",
-        "orcid": "https://orcid.org/0000-0001-9043-6817"
+        "orcid": null
       },
       "institutions": [
         {
@@ -98,12 +100,13 @@
           "type": "education"
         }
       ],
+      "is_corresponding": null,
       "raw_affiliation_string": "National Centre for Text Mining, School of Computer Science, University of Manchester, Manchester, England"
     },
     {
       "author_position": "middle",
       "author": {
-        "id": "https://openalex.org/A2165483488",
+        "id": "https://openalex.org/A4358989893",
         "display_name": "James D. Thomas",
         "orcid": null
       },
@@ -116,14 +119,15 @@
           "type": "education"
         }
       ],
+      "is_corresponding": null,
       "raw_affiliation_string": "EPPI-Centre, Department of Social Science, University College London, London, England"
     },
     {
       "author_position": "middle",
       "author": {
-        "id": "https://openalex.org/A2169402096",
+        "id": "https://openalex.org/A4356773920",
         "display_name": "Andrew S.C. Rice",
-        "orcid": "https://orcid.org/0000-0001-9533-5636"
+        "orcid": null
       },
       "institutions": [
         {
@@ -134,14 +138,15 @@
           "type": "education"
         }
       ],
+      "is_corresponding": null,
       "raw_affiliation_string": "Pain Research, Department of Surgery and Cancer, Imperial College, London, England."
     },
     {
       "author_position": "middle",
       "author": {
-        "id": "https://openalex.org/A2141504082",
+        "id": "https://openalex.org/A4359938814",
         "display_name": "Sophia Ananiadou",
-        "orcid": "https://orcid.org/0000-0002-4097-9191"
+        "orcid": null
       },
       "institutions": [
         {
@@ -152,14 +157,15 @@
           "type": "education"
         }
       ],
+      "is_corresponding": null,
       "raw_affiliation_string": "National Centre for Text Mining, School of Computer Science, University of Manchester, Manchester, England"
     },
     {
       "author_position": "middle",
       "author": {
-        "id": "https://openalex.org/A2437793022",
+        "id": "https://openalex.org/A4356251588",
         "display_name": "Jing Liao",
-        "orcid": "https://orcid.org/0000-0001-7014-5377"
+        "orcid": null
       },
       "institutions": [
         {
@@ -170,14 +176,15 @@
           "type": "education"
         }
       ],
+      "is_corresponding": null,
       "raw_affiliation_string": "Centre for Clinical Brain Sciences University of Edinburgh  Edinburgh Scotland"
     },
     {
       "author_position": "last",
       "author": {
-        "id": "https://openalex.org/A1982467893",
+        "id": "https://openalex.org/A4356580573",
         "display_name": "Malcolm R. Macleod",
-        "orcid": "https://orcid.org/0000-0001-9187-9839"
+        "orcid": null
       },
       "institutions": [
         {
@@ -188,6 +195,7 @@
           "type": "education"
         }
       ],
+      "is_corresponding": null,
       "raw_affiliation_string": "Centre for Clinical Brain Sciences University of Edinburgh  Edinburgh Scotland"
     }
   ],
@@ -357,6 +365,7 @@
           "2046-4053"
         ],
         "host_organization": "https://openalex.org/P4310319900",
+        "host_organization_name": "Springer Science+Business Media",
         "type": "journal"
       },
       "license": "cc-by",
@@ -372,6 +381,7 @@
         "issn_l": null,
         "issn": null,
         "host_organization": null,
+        "host_organization_name": "PubMed Central",
         "type": "repository"
       },
       "license": "cc-by",
@@ -387,6 +397,7 @@
         "issn_l": null,
         "issn": null,
         "host_organization": "https://openalex.org/I98677209",
+        "host_organization_name": "University of Edinburgh",
         "type": "repository"
       },
       "license": "cc-by",
@@ -402,6 +413,7 @@
         "issn_l": null,
         "issn": null,
         "host_organization": "https://openalex.org/I120125038",
+        "host_organization_name": "Bond University",
         "type": "repository"
       },
       "license": "cc-by",
@@ -417,6 +429,7 @@
         "issn_l": null,
         "issn": null,
         "host_organization": "https://openalex.org/I47508984",
+        "host_organization_name": "Imperial College London",
         "type": "repository"
       },
       "license": "cc-by",
@@ -432,6 +445,7 @@
         "issn_l": null,
         "issn": null,
         "host_organization": "https://openalex.org/I98677209",
+        "host_organization_name": "University of Edinburgh",
         "type": "repository"
       },
       "license": "cc-by",
@@ -447,6 +461,7 @@
         "issn_l": null,
         "issn": null,
         "host_organization": "https://openalex.org/I45129253",
+        "host_organization_name": "University College London",
         "type": "repository"
       },
       "license": "cc-by",
@@ -462,6 +477,7 @@
         "issn_l": null,
         "issn": null,
         "host_organization": "https://openalex.org/I45129253",
+        "host_organization_name": "University College London",
         "type": "repository"
       },
       "license": "cc-by",
@@ -477,6 +493,7 @@
         "issn_l": null,
         "issn": null,
         "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": null,
         "type": "repository"
       },
       "license": null,
@@ -492,6 +509,7 @@
         "issn_l": null,
         "issn": null,
         "host_organization": "https://openalex.org/I2750212522",
+        "host_organization_name": "Cold Spring Harbor Laboratory",
         "type": "repository"
       },
       "license": null,
@@ -510,6 +528,7 @@
         "2046-4053"
       ],
       "host_organization": "https://openalex.org/P4310319900",
+      "host_organization_name": "Springer Science+Business Media",
       "type": "journal"
     },
     "license": "cc-by",
@@ -1351,6 +1370,6 @@
       "cited_by_count": 6
     }
   ],
-  "updated_date": "2023-03-04T20:15:36.458848",
+  "updated_date": "2023-03-24T18:27:55.497359",
   "created_date": "2019-01-25"
 }

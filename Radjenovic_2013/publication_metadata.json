@@ -11,7 +11,7 @@
     "mag": "2160988203"
   },
   "primary_location": {
-    "is_oa": null,
+    "is_oa": false,
     "landing_page_url": "https://doi.org/10.1016/j.infsof.2013.02.009",
     "pdf_url": null,
     "source": {
@@ -23,6 +23,7 @@
         "1873-6025"
       ],
       "host_organization": "https://openalex.org/P4310320990",
+      "host_organization_name": "Elsevier BV",
       "type": "journal"
     },
     "license": null,
@@ -53,7 +54,7 @@
     {
       "author_position": "first",
       "author": {
-        "id": "https://openalex.org/A2941428740",
+        "id": "https://openalex.org/A4342371088",
         "display_name": "Dimitrije Radjenovi\u0107",
         "orcid": null
       },
@@ -66,14 +67,15 @@
           "type": "education"
         }
       ],
+      "is_corresponding": false,
       "raw_affiliation_string": "University of Maribor, Faculty of Electrical Engineering and Computer Science, Smetanova ulica 17, SI-2000, Maribor, Slovenia"
     },
     {
       "author_position": "middle",
       "author": {
-        "id": "https://openalex.org/A15217962",
+        "id": "https://openalex.org/A4337227925",
         "display_name": "Marjan Hericko",
-        "orcid": "https://orcid.org/0000-0002-1094-0085"
+        "orcid": null
       },
       "institutions": [
         {
@@ -84,14 +86,15 @@
           "type": "education"
         }
       ],
+      "is_corresponding": false,
       "raw_affiliation_string": "University of Maribor, Faculty of Electrical Engineering and Computer Science, Smetanova ulica 17, SI-2000, Maribor, Slovenia"
     },
     {
       "author_position": "middle",
       "author": {
-        "id": "https://openalex.org/A1997343119",
+        "id": "https://openalex.org/A4344142776",
         "display_name": "Richard Torkar",
-        "orcid": "https://orcid.org/0000-0002-0118-8143"
+        "orcid": null
       },
       "institutions": [
         {
@@ -102,12 +105,13 @@
           "type": "education"
         }
       ],
+      "is_corresponding": false,
       "raw_affiliation_string": "Chalmers University of Technology and University of Gothenburg SE\u2010412 96 Gothenburg Sweden"
     },
     {
       "author_position": "last",
       "author": {
-        "id": "https://openalex.org/A2029874835",
+        "id": "https://openalex.org/A4341398904",
         "display_name": "Ale\u0161 \u017divkovi\u010d",
         "orcid": null
       },
@@ -120,10 +124,11 @@
           "type": "education"
         }
       ],
+      "is_corresponding": false,
       "raw_affiliation_string": "University of Maribor, Faculty of Electrical Engineering and Computer Science, Smetanova ulica 17, SI-2000, Maribor, Slovenia"
     }
   ],
-  "cited_by_count": 387,
+  "cited_by_count": 388,
   "biblio": {
     "volume": "55",
     "issue": "8",
@@ -214,7 +219,7 @@
   "mesh": [],
   "locations": [
     {
-      "is_oa": null,
+      "is_oa": false,
       "landing_page_url": "https://doi.org/10.1016/j.infsof.2013.02.009",
       "pdf_url": null,
       "source": {
@@ -226,6 +231,7 @@
           "1873-6025"
         ],
         "host_organization": "https://openalex.org/P4310320990",
+        "host_organization_name": "Elsevier BV",
         "type": "journal"
       },
       "license": null,
@@ -785,7 +791,7 @@
   "counts_by_year": [
     {
       "year": 2023,
-      "cited_by_count": 9
+      "cited_by_count": 10
     },
     {
       "year": 2022,
@@ -797,7 +803,7 @@
     },
     {
       "year": 2020,
-      "cited_by_count": 52
+      "cited_by_count": 53
     },
     {
       "year": 2019,
@@ -832,6 +838,6 @@
       "cited_by_count": 1
     }
   ],
-  "updated_date": "2023-02-20T10:43:48.287381",
+  "updated_date": "2023-03-31T10:59:57.929916",
   "created_date": "2016-06-24"
 }

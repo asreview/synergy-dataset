@@ -7,7 +7,7 @@
     }
   },
   "data": {
-    "doi": "https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html",
+    "url": "https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html",
     "n_records": 1630,
     "n_records_included": 9
   }

@@ -24,6 +24,7 @@
         "1467-7881"
       ],
       "host_organization": "https://openalex.org/P4310320503",
+      "host_organization_name": "Wiley-Blackwell",
       "type": "journal"
     },
     "license": null,
@@ -54,9 +55,9 @@
     {
       "author_position": "first",
       "author": {
-        "id": "https://openalex.org/A2913101925",
+        "id": "https://openalex.org/A4357110996",
         "display_name": "Eline S van der Valk",
-        "orcid": "https://orcid.org/0000-0001-5134-5453"
+        "orcid": null
       },
       "institutions": [
         {
@@ -67,6 +68,7 @@
           "type": null
         }
       ],
+      "is_corresponding": false,
       "raw_affiliation_string": "Obesity Center CGG, Erasmus MC, University Medical Center Rotterdam, Rotterdam, The Netherlands."
     },
     {
@@ -92,12 +94,13 @@
           "type": null
         }
       ],
+      "is_corresponding": false,
       "raw_affiliation_string": "Department of Pediatrics, Division of Endocrinology Erasmus MC-Sophia Children's Hospital, University Medical Center Rotterdam Rotterdam The Netherlands; Obesity Center CGG, Erasmus MC University Medical Center Rotterdam  Rotterdam The Netherlands"
     },
     {
       "author_position": "middle",
       "author": {
-        "id": "https://openalex.org/A2560191213",
+        "id": "https://openalex.org/A4332127991",
         "display_name": "Mostafa Mohseni",
         "orcid": null
       },
@@ -110,6 +113,7 @@
           "type": null
         }
       ],
+      "is_corresponding": false,
       "raw_affiliation_string": "Obesity Center CGG, Erasmus MC, University Medical Center Rotterdam, Rotterdam, The Netherlands."
     },
     {
@@ -128,12 +132,13 @@
           "type": null
         }
       ],
+      "is_corresponding": false,
       "raw_affiliation_string": "Obesity Center CGG, Erasmus MC, University Medical Center Rotterdam, Rotterdam, The Netherlands."
     },
     {
       "author_position": "middle",
       "author": {
-        "id": "https://openalex.org/A1956595648",
+        "id": "https://openalex.org/A4349452505",
         "display_name": "Vincent L. Wester",
         "orcid": null
       },
@@ -146,6 +151,7 @@
           "type": null
         }
       ],
+      "is_corresponding": false,
       "raw_affiliation_string": "Obesity Center CGG, Erasmus MC, University Medical Center Rotterdam, Rotterdam, The Netherlands."
     },
     {
@@ -171,14 +177,15 @@
           "type": null
         }
       ],
+      "is_corresponding": false,
       "raw_affiliation_string": "Department of Pediatrics, division of Endocrinology, Erasmus MC-Sophia Children's Hospital University Medical Center Rotterdam Rotterdam The Netherlands; Obesity Center CGG, Erasmus MC University Medical Center Rotterdam Rotterdam The Netherlands"
     },
     {
       "author_position": "middle",
       "author": {
-        "id": "https://openalex.org/A2128705588",
+        "id": "https://openalex.org/A4357765255",
         "display_name": "Anand Krishnan V. Iyer",
-        "orcid": "https://orcid.org/0000-0002-2090-5590"
+        "orcid": null
       },
       "institutions": [
         {
@@ -189,14 +196,15 @@
           "type": null
         }
       ],
+      "is_corresponding": false,
       "raw_affiliation_string": "Obesity Center CGG, Erasmus MC, University Medical Center Rotterdam, Rotterdam, The Netherlands."
     },
     {
       "author_position": "middle",
       "author": {
-        "id": "https://openalex.org/A1985651537",
+        "id": "https://openalex.org/A4356653843",
         "display_name": "Erica L T van den Akker",
-        "orcid": "https://orcid.org/0000-0001-5352-9328"
+        "orcid": null
       },
       "institutions": [
         {
@@ -214,14 +222,15 @@
           "type": null
         }
       ],
+      "is_corresponding": false,
       "raw_affiliation_string": "Department of Pediatrics, Division of Endocrinology Erasmus MC-Sophia Children's Hospital, University Medical Center Rotterdam Rotterdam The Netherlands; Obesity Center CGG, Erasmus MC University Medical Center Rotterdam  Rotterdam The Netherlands"
     },
     {
       "author_position": "middle",
       "author": {
-        "id": "https://openalex.org/A1978081025",
+        "id": "https://openalex.org/A4358043862",
         "display_name": "Sanne E. Hoeks",
-        "orcid": "https://orcid.org/0000-0003-4022-9574"
+        "orcid": null
       },
       "institutions": [
         {
@@ -232,12 +241,13 @@
           "type": "healthcare"
         }
       ],
+      "is_corresponding": false,
       "raw_affiliation_string": "Department of Anesthesiology, Erasmus University Medical Center, Rotterdam, Netherlands."
     },
     {
       "author_position": "middle",
       "author": {
-        "id": "https://openalex.org/A2099224288",
+        "id": "https://openalex.org/A4341398881",
         "display_name": "Sjoerd A.A. van den Berg",
         "orcid": null
       },
@@ -250,14 +260,15 @@
           "type": "healthcare"
         }
       ],
+      "is_corresponding": false,
       "raw_affiliation_string": "Department of Internal Medicine, Division of Endocrinology, Erasmus MC University Medical Center Rotterdam Rotterdam The Netherlands"
     },
     {
       "author_position": "middle",
       "author": {
-        "id": "https://openalex.org/A2285723492",
+        "id": "https://openalex.org/A4353610485",
         "display_name": "Yolanda B. de Rijke",
-        "orcid": "https://orcid.org/0000-0001-7759-4968"
+        "orcid": null
       },
       "institutions": [
         {
@@ -268,14 +279,15 @@
           "type": null
         }
       ],
+      "is_corresponding": false,
       "raw_affiliation_string": "Department of Clinical Chemistry, Erasmus MC, University Medical Center Rotterdam , Rotterdam, The Netherlands."
     },
     {
       "author_position": "middle",
       "author": {
-        "id": "https://openalex.org/A2310182037",
+        "id": "https://openalex.org/A4356725933",
         "display_name": "Tobias Stalder",
-        "orcid": "https://orcid.org/0000-0001-7558-1274"
+        "orcid": null
       },
       "institutions": [
         {
@@ -286,14 +298,15 @@
           "type": "education"
         }
       ],
+      "is_corresponding": false,
       "raw_affiliation_string": "Department of Clinical Psychology University of Siegen  Siegen Germany"
     },
     {
       "author_position": "last",
       "author": {
-        "id": "https://openalex.org/A2059182971",
+        "id": "https://openalex.org/A4359745582",
         "display_name": "Elisabeth F.C. van Rossum",
-        "orcid": "https://orcid.org/0000-0003-0120-4913"
+        "orcid": null
       },
       "institutions": [
         {
@@ -304,6 +317,7 @@
           "type": null
         }
       ],
+      "is_corresponding": true,
       "raw_affiliation_string": "Obesity Center CGG, Erasmus MC, University Medical Center Rotterdam, Rotterdam, The Netherlands."
     }
   ],
@@ -551,6 +565,7 @@
           "1467-7881"
         ],
         "host_organization": "https://openalex.org/P4310320503",
+        "host_organization_name": "Wiley-Blackwell",
         "type": "journal"
       },
       "license": null,
@@ -566,6 +581,7 @@
         "issn_l": null,
         "issn": null,
         "host_organization": "https://openalex.org/I1322597698",
+        "host_organization_name": "DANS",
         "type": "repository"
       },
       "license": "cc-by",
@@ -581,6 +597,7 @@
         "issn_l": null,
         "issn": null,
         "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": null,
         "type": "repository"
       },
       "license": null,
@@ -597,6 +614,7 @@
       "issn_l": null,
       "issn": null,
       "host_organization": "https://openalex.org/I1322597698",
+      "host_organization_name": "DANS",
       "type": "repository"
     },
     "license": "cc-by",
@@ -1359,6 +1377,6 @@
       "cited_by_count": 1
     }
   ],
-  "updated_date": "2023-03-09T18:18:58.681109",
+  "updated_date": "2023-03-29T21:59:21.682720",
   "created_date": "2021-12-06"
 }

@@ -23,6 +23,7 @@
         "1070-5511"
       ],
       "host_organization": "https://openalex.org/P4310320547",
+      "host_organization_name": "Taylor & Francis",
       "type": "journal"
     },
     "license": "cc-by",
@@ -66,6 +67,7 @@
           "type": null
         }
       ],
+      "is_corresponding": null,
       "raw_affiliation_string": "Utrecht University, The Netherlands, and North-West University, South Africa"
     },
     {
@@ -84,6 +86,7 @@
           "type": "facility"
         }
       ],
+      "is_corresponding": null,
       "raw_affiliation_string": "Vrije University Amsterdam, The Netherlands, and EMGO Institute for Health and Care Research, The Netherlands"
     },
     {
@@ -102,6 +105,7 @@
           "type": "education"
         }
       ],
+      "is_corresponding": null,
       "raw_affiliation_string": "UTRECHT UNIVERSITY,THE NETHERLANDS,"
     },
     {
@@ -120,6 +124,7 @@
           "type": "education"
         }
       ],
+      "is_corresponding": null,
       "raw_affiliation_string": "University of California Merced"
     },
     {
@@ -138,6 +143,7 @@
           "type": "education"
         }
       ],
+      "is_corresponding": null,
       "raw_affiliation_string": "Tilburg University, the Netherlands"
     }
   ],
@@ -251,6 +257,7 @@
           "1070-5511"
         ],
         "host_organization": "https://openalex.org/P4310320547",
+        "host_organization_name": "Taylor & Francis",
         "type": "journal"
       },
       "license": "cc-by",
@@ -266,6 +273,23 @@
         "issn_l": null,
         "issn": null,
         "host_organization": "https://openalex.org/I1322597698",
+        "host_organization_name": "DANS",
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "version": "publishedVersion"
+    },
+    {
+      "is_oa": true,
+      "landing_page_url": "https://research.tilburguniversity.edu/en/publications/712249f4-17e0-4072-9204-fea5ab1822fa",
+      "pdf_url": "https://pure.uvt.nl/ws/files/13630495/MTO_Vermunt_GRoLTS_SEM_open_access_2016.pdf",
+      "source": {
+        "id": "https://openalex.org/S4306401843",
+        "display_name": "Data Archiving and Networked Services (DANS)",
+        "issn_l": null,
+        "issn": null,
+        "host_organization": "https://openalex.org/I1322597698",
+        "host_organization_name": "DANS",
         "type": "repository"
       },
       "license": "cc-by",
@@ -281,6 +305,7 @@
         "issn_l": null,
         "issn": null,
         "host_organization": "https://openalex.org/I193662353",
+        "host_organization_name": "Utrecht University",
         "type": "repository"
       },
       "license": "cc-by",
@@ -300,6 +325,7 @@
         "1070-5511"
       ],
       "host_organization": "https://openalex.org/P4310320547",
+      "host_organization_name": "Taylor & Francis",
       "type": "journal"
     },
     "license": "cc-by",
@@ -786,6 +812,6 @@
       "cited_by_count": 3
     }
   ],
-  "updated_date": "2023-02-26T20:50:56.375940",
+  "updated_date": "2023-03-13T13:11:58.087732",
   "created_date": "2016-11-30"
 }

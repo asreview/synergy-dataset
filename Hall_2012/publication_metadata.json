@@ -11,7 +11,7 @@
     "mag": "2151666086"
   },
   "primary_location": {
-    "is_oa": null,
+    "is_oa": false,
     "landing_page_url": "https://doi.org/10.1109/tse.2011.103",
     "pdf_url": null,
     "source": {
@@ -24,6 +24,7 @@
         "2326-3881"
       ],
       "host_organization": "https://openalex.org/P4310320439",
+      "host_organization_name": "IEEE Computer Society",
       "type": "journal"
     },
     "license": null,
@@ -68,6 +69,7 @@
           "type": "education"
         }
       ],
+      "is_corresponding": null,
       "raw_affiliation_string": "Dept of Inf. Syst. & Comput., Brunel Univ., Uxbridge, UK"
     },
     {
@@ -86,6 +88,7 @@
           "type": "education"
         }
       ],
+      "is_corresponding": null,
       "raw_affiliation_string": "LERO - The Irish Software Engineering Research Centre, University of Limerick, Limerick, Ireland"
     },
     {
@@ -104,6 +107,7 @@
           "type": "education"
         }
       ],
+      "is_corresponding": null,
       "raw_affiliation_string": "Sci. & Technol. Res. Inst., Univ. of Hertfordshire, Hatfield, UK"
     },
     {
@@ -122,6 +126,7 @@
           "type": "education"
         }
       ],
+      "is_corresponding": null,
       "raw_affiliation_string": "Sci. & Technol. Res. Inst., Univ. of Hertfordshire, Hatfield, UK"
     },
     {
@@ -140,10 +145,11 @@
           "type": "education"
         }
       ],
+      "is_corresponding": null,
       "raw_affiliation_string": "Dept of Inf. Syst. & Comput., Brunel Univ., Uxbridge, UK"
     }
   ],
-  "cited_by_count": 827,
+  "cited_by_count": 832,
   "biblio": {
     "volume": "38",
     "issue": "6",
@@ -290,7 +296,7 @@
   "mesh": [],
   "locations": [
     {
-      "is_oa": null,
+      "is_oa": false,
       "landing_page_url": "https://doi.org/10.1109/tse.2011.103",
       "pdf_url": null,
       "source": {
@@ -303,6 +309,7 @@
           "2326-3881"
         ],
         "host_organization": "https://openalex.org/P4310320439",
+        "host_organization_name": "IEEE Computer Society",
         "type": "journal"
       },
       "license": null,
@@ -318,6 +325,7 @@
         "issn_l": null,
         "issn": null,
         "host_organization": "https://openalex.org/I115570527",
+        "host_organization_name": "Dublin Institute of Technology",
         "type": "repository"
       },
       "license": "pd",
@@ -333,6 +341,7 @@
         "issn_l": null,
         "issn": null,
         "host_organization": "https://openalex.org/I230495080",
+        "host_organization_name": "University of Limerick",
         "type": "repository"
       },
       "license": "cc-by-nc-sa",
@@ -348,6 +357,7 @@
         "issn_l": null,
         "issn": null,
         "host_organization": "https://openalex.org/I59433898",
+        "host_organization_name": "Brunel University London",
         "type": "repository"
       },
       "license": "pd",
@@ -364,6 +374,7 @@
       "issn_l": null,
       "issn": null,
       "host_organization": "https://openalex.org/I115570527",
+      "host_organization_name": "Dublin Institute of Technology",
       "type": "repository"
     },
     "license": "pd",
@@ -1071,7 +1082,7 @@
   "counts_by_year": [
     {
       "year": 2023,
-      "cited_by_count": 16
+      "cited_by_count": 19
     },
     {
       "year": 2022,
@@ -1079,7 +1090,7 @@
     },
     {
       "year": 2021,
-      "cited_by_count": 93
+      "cited_by_count": 95
     },
     {
       "year": 2020,
@@ -1087,11 +1098,11 @@
     },
     {
       "year": 2019,
-      "cited_by_count": 99
+      "cited_by_count": 98
     },
     {
       "year": 2018,
-      "cited_by_count": 94
+      "cited_by_count": 95
     },
     {
       "year": 2017,
@@ -1118,6 +1129,6 @@
       "cited_by_count": 12
     }
   ],
-  "updated_date": "2023-02-27T15:30:01.106491",
+  "updated_date": "2023-03-13T21:12:47.668618",
   "created_date": "2016-06-24"
 }

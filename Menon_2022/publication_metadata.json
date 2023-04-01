@@ -23,6 +23,7 @@
         "1040-8444"
       ],
       "host_organization": "https://openalex.org/P4310320449",
+      "host_organization_name": "Informa",
       "type": "journal"
     },
     "license": "cc-by",
@@ -66,6 +67,7 @@
           "type": "education"
         }
       ],
+      "is_corresponding": false,
       "raw_affiliation_string": "Systematic Review Center for Laboratory Animal Experimentation, Department for Health Evidence, Radboud University Medical Center, Nijmegen, the Netherlands"
     },
     {
@@ -84,13 +86,14 @@
           "type": "education"
         }
       ],
+      "is_corresponding": false,
       "raw_affiliation_string": "Systematic Review Center for Laboratory Animal Experimentation, Department for Health Evidence, Radboud University Medical Center, Nijmegen, the Netherlands"
     },
     {
       "author_position": "last",
       "author": {
-        "id": "https://openalex.org/A4221577601",
-        "display_name": "Paul Whaley",
+        "id": "https://openalex.org/A2136442185",
+        "display_name": "P Whaley",
         "orcid": null
       },
       "institutions": [
@@ -109,6 +112,7 @@
           "type": "education"
         }
       ],
+      "is_corresponding": true,
       "raw_affiliation_string": "Evidence-Based Toxicology Collaboration, Johns Hopkins Bloomberg School of Public Health, Baltimore, MD, USA; Lancaster Environment Centre, Lancaster University, Lancaster, UK"
     }
   ],
@@ -314,6 +318,7 @@
           "1040-8444"
         ],
         "host_organization": "https://openalex.org/P4310320449",
+        "host_organization_name": "Informa",
         "type": "journal"
       },
       "license": "cc-by",
@@ -333,6 +338,7 @@
         "1040-8444"
       ],
       "host_organization": "https://openalex.org/P4310320449",
+      "host_organization_name": "Informa",
       "type": "journal"
     },
     "license": "cc-by",
@@ -959,6 +965,6 @@
       "cited_by_count": 1
     }
   ],
-  "updated_date": "2023-03-09T23:45:14.606856",
+  "updated_date": "2023-03-30T06:05:24.270229",
   "created_date": "2022-07-06"
 }

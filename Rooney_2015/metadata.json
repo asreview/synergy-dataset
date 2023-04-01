@@ -1,0 +1,17 @@
+{
+  "key": "Rooney_2015",
+  "collection": {
+    "doi": "10.1186/s13643-016-0263-z"
+  },
+  "publication": {
+    "doi": "10.1007/978-3-319-15518-0_16",
+    "citation": {
+      "apa": "Rooney, A. A., Boyles, A. L., & Walker, V. R. (2015). Systematic Review, An Illustration of Increased Transparency in a Framework for Evaluating Immunotoxicity Associated with PFOA and PFOS Exposure. Molecular and Integrative Toxicology, 419\u2013449. https://doi.org/10.1007/978-3-319-15518-0_16\n"
+    }
+  },
+  "data": {
+    "doi": "10.1186/s13643-016-0263-z",
+    "n_records": 6286,
+    "n_records_included": 95
+  }
+}

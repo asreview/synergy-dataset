@@ -14,7 +14,7 @@
   "primary_location": {
     "is_oa": true,
     "landing_page_url": "https://doi.org/10.1016/j.jpainsymman.2003.03.003",
-    "pdf_url": "http://www.jpsmjournal.com/article/S0885392403004056/pdf",
+    "pdf_url": null,
     "source": {
       "id": "https://openalex.org/S135898356",
       "display_name": "Journal of Pain and Symptom Management",
@@ -24,9 +24,10 @@
         "0885-3924"
       ],
       "host_organization": "https://openalex.org/P4310320990",
+      "host_organization_name": "Elsevier BV",
       "type": "journal"
     },
-    "license": "elsevier-specific",
+    "license": "elsevier-specific: oa user license",
     "version": "publishedVersion"
   },
   "host_venue": {
@@ -67,13 +68,14 @@
           "type": "education"
         }
       ],
+      "is_corresponding": null,
       "raw_affiliation_string": "Department of Medicine, Oregon Health & Science University, and Oregon Evidence-Based Practice Center, Portland, Oregon, USA."
     },
     {
       "author_position": "middle",
       "author": {
-        "id": "https://openalex.org/A2127770163",
-        "display_name": "Elizabeth A. Clark",
+        "id": null,
+        "display_name": "Elizabeth Clark",
         "orcid": null
       },
       "institutions": [
@@ -85,6 +87,7 @@
           "type": "education"
         }
       ],
+      "is_corresponding": null,
       "raw_affiliation_string": "Oregon Health & Science University"
     },
     {
@@ -103,10 +106,11 @@
           "type": null
         }
       ],
+      "is_corresponding": null,
       "raw_affiliation_string": "Medical Informatics & Clinical Epidemiology"
     }
   ],
-  "cited_by_count": 190,
+  "cited_by_count": 189,
   "biblio": {
     "volume": "26",
     "issue": "5",
@@ -284,7 +288,7 @@
     {
       "is_oa": true,
       "landing_page_url": "https://doi.org/10.1016/j.jpainsymman.2003.03.003",
-      "pdf_url": "http://www.jpsmjournal.com/article/S0885392403004056/pdf",
+      "pdf_url": null,
       "source": {
         "id": "https://openalex.org/S135898356",
         "display_name": "Journal of Pain and Symptom Management",
@@ -294,16 +298,17 @@
           "0885-3924"
         ],
         "host_organization": "https://openalex.org/P4310320990",
+        "host_organization_name": "Elsevier BV",
         "type": "journal"
       },
-      "license": "elsevier-specific",
+      "license": "elsevier-specific: oa user license",
       "version": "publishedVersion"
     }
   ],
   "best_oa_location": {
     "is_oa": true,
     "landing_page_url": "https://doi.org/10.1016/j.jpainsymman.2003.03.003",
-    "pdf_url": "http://www.jpsmjournal.com/article/S0885392403004056/pdf",
+    "pdf_url": null,
     "source": {
       "id": "https://openalex.org/S135898356",
       "display_name": "Journal of Pain and Symptom Management",
@@ -313,9 +318,10 @@
         "0885-3924"
       ],
       "host_organization": "https://openalex.org/P4310320990",
+      "host_organization_name": "Elsevier BV",
       "type": "journal"
     },
-    "license": "elsevier-specific",
+    "license": "elsevier-specific: oa user license",
     "version": "publishedVersion"
   },
   "alternate_host_venues": [
@@ -978,6 +984,6 @@
       "cited_by_count": 6
     }
   ],
-  "updated_date": "2023-02-28T16:12:54.786040",
+  "updated_date": "2023-03-23T16:21:50.262826",
   "created_date": "2016-06-24"
 }

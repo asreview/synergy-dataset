@@ -68,6 +68,7 @@
           "type": null
         }
       ],
+      "is_corresponding": null,
       "raw_affiliation_string": "Government Hospital, Velayuthampalayam, Karur, Tamil Nadu, India."
     },
     {
@@ -86,6 +87,7 @@
           "type": "healthcare"
         }
       ],
+      "is_corresponding": null,
       "raw_affiliation_string": "Institute of Orthopaedics and Traumatology, Madras Medical College & Rajiv Gandhi Government General Hospital, Chennai, Tamil Nadu, India."
     }
   ],

@@ -24,6 +24,7 @@
         "1552-5279"
       ],
       "host_organization": "https://openalex.org/P4310320990",
+      "host_organization_name": "Elsevier BV",
       "type": "journal"
     },
     "license": null,
@@ -54,9 +55,9 @@
     {
       "author_position": "first",
       "author": {
-        "id": "https://openalex.org/A2194525489",
+        "id": "https://openalex.org/A4353876488",
         "display_name": "Frank J. Wolters",
-        "orcid": "https://orcid.org/0000-0003-2226-4050"
+        "orcid": null
       },
       "institutions": [
         {
@@ -74,6 +75,7 @@
           "type": "education"
         }
       ],
+      "is_corresponding": null,
       "raw_affiliation_string": "Department of Epidemiology, Harvard T.H. Chan School of Public Health, Boston, MA, USA; Department of Neurology, Erasmus Medical Centre, Rotterdam, The Netherlands"
     },
     {
@@ -92,14 +94,15 @@
           "type": "education"
         }
       ],
+      "is_corresponding": null,
       "raw_affiliation_string": "Department of Gerontology and Geriatrics Leiden University Medical Centre Leiden The Netherlands"
     },
     {
       "author_position": "middle",
       "author": {
-        "id": "https://openalex.org/A2035690477",
+        "id": "https://openalex.org/A4354634308",
         "display_name": "Sirwan K.L. Darweesh",
-        "orcid": "https://orcid.org/0000-0002-4361-4593"
+        "orcid": null
       },
       "institutions": [
         {
@@ -117,14 +120,15 @@
           "type": "education"
         }
       ],
+      "is_corresponding": null,
       "raw_affiliation_string": "Department of Epidemiology, Harvard T.H. Chan School of Public Health, Boston, MA, USA; Department of Neurology, Erasmus Medical Centre, Rotterdam, The Netherlands"
     },
     {
       "author_position": "middle",
       "author": {
-        "id": "https://openalex.org/A2152638680",
+        "id": "https://openalex.org/A4355858748",
         "display_name": "Daniel Bos",
-        "orcid": "https://orcid.org/0000-0001-8979-2603"
+        "orcid": null
       },
       "institutions": [
         {
@@ -142,14 +146,15 @@
           "type": "education"
         }
       ],
+      "is_corresponding": null,
       "raw_affiliation_string": "Department of Epidemiology, Harvard T.H. Chan School of Public Health, Boston, MA, USA; Department of Radiology and Nuclear Medicine, Erasmus Medical Centre, Rotterdam, The Netherlands"
     },
     {
       "author_position": "middle",
       "author": {
-        "id": "https://openalex.org/A1998563527",
+        "id": "https://openalex.org/A4354833322",
         "display_name": "M. Arfan Ikram",
-        "orcid": "https://orcid.org/0000-0003-0173-9571"
+        "orcid": null
       },
       "institutions": [
         {
@@ -160,14 +165,15 @@
           "type": "education"
         }
       ],
+      "is_corresponding": null,
       "raw_affiliation_string": "Department of Radiology and Nuclear Medicine, Erasmus Medical Centre, Rotterdam, The Netherlands"
     },
     {
       "author_position": "middle",
       "author": {
-        "id": "https://openalex.org/A1811508261",
+        "id": "https://openalex.org/A4353343227",
         "display_name": "Behnam Sabayan",
-        "orcid": "https://orcid.org/0000-0002-1176-9152"
+        "orcid": null
       },
       "institutions": [
         {
@@ -185,14 +191,15 @@
           "type": "education"
         }
       ],
+      "is_corresponding": null,
       "raw_affiliation_string": "Department of Gerontology and Geriatrics, Leiden University Medical Centre, Leiden, The Netherlands; Department of Neurology, Feinberg School of Medicine, Northwestern University, Chicago, IL, USA"
     },
     {
       "author_position": "middle",
       "author": {
-        "id": "https://openalex.org/A2251992767",
+        "id": "https://openalex.org/A4358485965",
         "display_name": "Albert Hofman",
-        "orcid": "https://orcid.org/0000-0002-9865-121X"
+        "orcid": null
       },
       "institutions": [
         {
@@ -210,14 +217,15 @@
           "type": "education"
         }
       ],
+      "is_corresponding": null,
       "raw_affiliation_string": "Department of Epidemiology, Erasmus Medical Centre, Rotterdam, The Netherlands; Department of Epidemiology, Harvard T.H. Chan School of Public Health, Boston, MA, USA"
     },
     {
       "author_position": "last",
       "author": {
-        "id": "https://openalex.org/A2010460932",
+        "id": "https://openalex.org/A4356135359",
         "display_name": "Sanaz Sedaghat",
-        "orcid": "https://orcid.org/0000-0002-3244-7726"
+        "orcid": null
       },
       "institutions": [
         {
@@ -228,10 +236,11 @@
           "type": "education"
         }
       ],
+      "is_corresponding": null,
       "raw_affiliation_string": "Department of Epidemiology, Erasmus Medical Centre, Rotterdam, The Netherlands."
     }
   ],
-  "cited_by_count": 94,
+  "cited_by_count": 95,
   "biblio": {
     "volume": "14",
     "issue": "11",
@@ -398,6 +407,7 @@
           "1552-5279"
         ],
         "host_organization": "https://openalex.org/P4310320990",
+        "host_organization_name": "Elsevier BV",
         "type": "journal"
       },
       "license": null,
@@ -826,7 +836,7 @@
   "counts_by_year": [
     {
       "year": 2023,
-      "cited_by_count": 10
+      "cited_by_count": 11
     },
     {
       "year": 2022,
@@ -849,6 +859,6 @@
       "cited_by_count": 4
     }
   ],
-  "updated_date": "2023-03-04T21:46:57.179159",
+  "updated_date": "2023-03-24T21:51:07.522695",
   "created_date": "2018-03-29"
 }

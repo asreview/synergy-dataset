@@ -1,5 +1,8 @@
 {
   "key": "Radjenovic_2013",
+  "collection": {
+    "doi": "10.1007/s10664-017-9587-0"
+  },
   "publication": {
     "doi": "10.1016/j.infsof.2013.02.009",
     "citation": {
@@ -8,7 +11,7 @@
   },
   "data": {
     "doi": "10.5281/zenodo.1162952",
-    "n_records": 5897,
+    "n_records": 5935,
     "n_records_included": 48
   }
 }

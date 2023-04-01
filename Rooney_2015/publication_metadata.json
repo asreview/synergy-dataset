@@ -1,0 +1,433 @@
+{
+  "id": "https://openalex.org/W1154890173",
+  "doi": "https://doi.org/10.1007/978-3-319-15518-0_16",
+  "title": "Systematic Review, An Illustration of Increased Transparency in a Framework for Evaluating Immunotoxicity Associated with PFOA and PFOS Exposure",
+  "display_name": "Systematic Review, An Illustration of Increased Transparency in a Framework for Evaluating Immunotoxicity Associated with PFOA and PFOS Exposure",
+  "publication_year": 2015,
+  "publication_date": "2015-01-01",
+  "ids": {
+    "openalex": "https://openalex.org/W1154890173",
+    "doi": "https://doi.org/10.1007/978-3-319-15518-0_16",
+    "mag": "1154890173"
+  },
+  "primary_location": {
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.1007/978-3-319-15518-0_16",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S4210193569",
+      "display_name": "Molecular and integrative toxicology",
+      "issn_l": "2168-4219",
+      "issn": [
+        "2168-4235",
+        "2168-4219"
+      ],
+      "host_organization": "https://openalex.org/P4310319972",
+      "host_organization_name": "Springer International Publishing",
+      "type": "journal"
+    },
+    "license": null,
+    "version": null
+  },
+  "host_venue": {
+    "id": "https://openalex.org/S4210193569",
+    "issn_l": "2168-4219",
+    "issn": [
+      "2168-4235",
+      "2168-4219"
+    ],
+    "display_name": "Molecular and integrative toxicology",
+    "publisher": "Springer International Publishing",
+    "type": "journal",
+    "url": null,
+    "is_oa": false,
+    "version": null,
+    "license": null
+  },
+  "type": "book-chapter",
+  "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A4339951073",
+        "display_name": "Andrew A. Rooney",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": null,
+          "display_name": "NIEHS",
+          "ror": null,
+          "country_code": null,
+          "type": null
+        }
+      ],
+      "is_corresponding": false,
+      "raw_affiliation_string": "NIEHS"
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A4349590080",
+        "display_name": "Abee L. Boyles",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210095140",
+          "display_name": "National Institute of Environmental Health Sciences",
+          "ror": "https://ror.org/00j4k1h63",
+          "country_code": "US",
+          "type": "facility"
+        }
+      ],
+      "is_corresponding": false,
+      "raw_affiliation_string": "National Institute of Environmental Health Sciences (NIEHS)/National Institutes of Health (NIH)."
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A4331552621",
+        "display_name": "Vickie R. Walker",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210095140",
+          "display_name": "National Institute of Environmental Health Sciences",
+          "ror": "https://ror.org/00j4k1h63",
+          "country_code": "US",
+          "type": "facility"
+        }
+      ],
+      "is_corresponding": false,
+      "raw_affiliation_string": "National Institute of Environmental Health Sciences (NIEHS)/National Institutes of Health (NIH)."
+    }
+  ],
+  "cited_by_count": 0,
+  "biblio": {
+    "volume": null,
+    "issue": null,
+    "first_page": "419",
+    "last_page": "449"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "concepts": [
+    {
+      "id": "https://openalex.org/C2780233690",
+      "wikidata": "https://www.wikidata.org/wiki/Q535347",
+      "display_name": "Transparency (behavior)",
+      "level": 2,
+      "score": "0.71408355"
+    },
+    {
+      "id": "https://openalex.org/C99454951",
+      "wikidata": "https://www.wikidata.org/wiki/Q932068",
+      "display_name": "Environmental health",
+      "level": 1,
+      "score": "0.4290878"
+    },
+    {
+      "id": "https://openalex.org/C15744967",
+      "wikidata": "https://www.wikidata.org/wiki/Q9418",
+      "display_name": "Psychology",
+      "level": 0,
+      "score": "0.35184547"
+    },
+    {
+      "id": "https://openalex.org/C71924100",
+      "wikidata": "https://www.wikidata.org/wiki/Q11190",
+      "display_name": "Medicine",
+      "level": 0,
+      "score": "0.350991"
+    },
+    {
+      "id": "https://openalex.org/C39432304",
+      "wikidata": "https://www.wikidata.org/wiki/Q188847",
+      "display_name": "Environmental science",
+      "level": 0,
+      "score": "0.35022432"
+    },
+    {
+      "id": "https://openalex.org/C107872376",
+      "wikidata": "https://www.wikidata.org/wiki/Q321355",
+      "display_name": "Environmental chemistry",
+      "level": 1,
+      "score": "0.33682722"
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": "0.26063347"
+    },
+    {
+      "id": "https://openalex.org/C185592680",
+      "wikidata": "https://www.wikidata.org/wiki/Q2329",
+      "display_name": "Chemistry",
+      "level": 0,
+      "score": "0.23076767"
+    },
+    {
+      "id": "https://openalex.org/C38652104",
+      "wikidata": "https://www.wikidata.org/wiki/Q3510521",
+      "display_name": "Computer security",
+      "level": 1,
+      "score": "0.12213421"
+    }
+  ],
+  "mesh": [],
+  "locations": [
+    {
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1007/978-3-319-15518-0_16",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4210193569",
+        "display_name": "Molecular and integrative toxicology",
+        "issn_l": "2168-4219",
+        "issn": [
+          "2168-4235",
+          "2168-4219"
+        ],
+        "host_organization": "https://openalex.org/P4310319972",
+        "host_organization_name": "Springer International Publishing",
+        "type": "journal"
+      },
+      "license": null,
+      "version": null
+    }
+  ],
+  "best_oa_location": null,
+  "alternate_host_venues": [
+    {
+      "id": "https://openalex.org/S4210193569",
+      "display_name": "Molecular and integrative toxicology",
+      "type": "journal",
+      "url": null,
+      "is_oa": false,
+      "version": null,
+      "license": null
+    }
+  ],
+  "referenced_works": [
+    "https://openalex.org/W1516860483",
+    "https://openalex.org/W1966078713",
+    "https://openalex.org/W1966204155",
+    "https://openalex.org/W1969835924",
+    "https://openalex.org/W1972268723",
+    "https://openalex.org/W1979336595",
+    "https://openalex.org/W1986165960",
+    "https://openalex.org/W1986194759",
+    "https://openalex.org/W1987345854",
+    "https://openalex.org/W1989427047",
+    "https://openalex.org/W1997898721",
+    "https://openalex.org/W2003992992",
+    "https://openalex.org/W2023196891",
+    "https://openalex.org/W2040231320",
+    "https://openalex.org/W2047986756",
+    "https://openalex.org/W2055623806",
+    "https://openalex.org/W2056006235",
+    "https://openalex.org/W2057728053",
+    "https://openalex.org/W2064994678",
+    "https://openalex.org/W2066218383",
+    "https://openalex.org/W2098923148",
+    "https://openalex.org/W2104675861",
+    "https://openalex.org/W2105569060",
+    "https://openalex.org/W2110114423",
+    "https://openalex.org/W2122857656",
+    "https://openalex.org/W2127047734",
+    "https://openalex.org/W2134883557",
+    "https://openalex.org/W2135400982",
+    "https://openalex.org/W2140619427",
+    "https://openalex.org/W2143932271",
+    "https://openalex.org/W2167497582",
+    "https://openalex.org/W2468996569",
+    "https://openalex.org/W2576440140",
+    "https://openalex.org/W2906473552",
+    "https://openalex.org/W4243002209",
+    "https://openalex.org/W4297632087"
+  ],
+  "related_works": [
+    "https://openalex.org/W1111756",
+    "https://openalex.org/W2065134019",
+    "https://openalex.org/W2080531066",
+    "https://openalex.org/W2094084270",
+    "https://openalex.org/W2274718863",
+    "https://openalex.org/W2748952813",
+    "https://openalex.org/W2899084033",
+    "https://openalex.org/W2942416953",
+    "https://openalex.org/W3032375762",
+    "https://openalex.org/W3103970017"
+  ],
+  "ngrams_url": "https://api.openalex.org/works/W1154890173/ngrams",
+  "abstract_inverted_index": {
+    "Background:": [
+      0
+    ],
+    "Systematic": [
+      1
+    ],
+    "review": [
+      2
+    ],
+    "methodologies": [
+      3
+    ],
+    "were": [
+      4
+    ],
+    "first": [
+      5
+    ],
+    "developed": [
+      6
+    ],
+    "to": [
+      7,
+      21,
+      43
+    ],
+    "assess": [
+      8
+    ],
+    "the": [
+      9,
+      44,
+      54
+    ],
+    "efficacy": [
+      10
+    ],
+    "of": [
+      11,
+      23,
+      46
+    ],
+    "health": [
+      12,
+      25
+    ],
+    "care": [
+      13
+    ],
+    "interventions,": [
+      14
+    ],
+    "but": [
+      15
+    ],
+    "these": [
+      16
+    ],
+    "approaches": [
+      17
+    ],
+    "can": [
+      18
+    ],
+    "be": [
+      19
+    ],
+    "adapted": [
+      20
+    ],
+    "evaluations": [
+      22
+    ],
+    "environmental": [
+      24
+    ],
+    "questions": [
+      26
+    ],
+    "such": [
+      27
+    ],
+    "as": [
+      28
+    ],
+    "immunotoxicity": [
+      29
+    ],
+    "associated": [
+      30
+    ],
+    "with": [
+      31
+    ],
+    "PFOA": [
+      32
+    ],
+    "and": [
+      33,
+      41,
+      49
+    ],
+    "PFOS": [
+      34
+    ],
+    "exposure.": [
+      35
+    ],
+    "This": [
+      36
+    ],
+    "structured": [
+      37
+    ],
+    "approach": [
+      38
+    ],
+    "provides": [
+      39
+    ],
+    "objectivity": [
+      40
+    ],
+    "transparency": [
+      42
+    ],
+    "process": [
+      45
+    ],
+    "collecting,": [
+      47
+    ],
+    "synthesizing,": [
+      48
+    ],
+    "reaching": [
+      50
+    ],
+    "conclusions": [
+      51
+    ],
+    "based": [
+      52
+    ],
+    "on": [
+      53
+    ],
+    "scientific": [
+      55
+    ],
+    "evidence": [
+      56
+    ],
+    "available.": [
+      57
+    ]
+  },
+  "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W1154890173",
+  "counts_by_year": [],
+  "updated_date": "2023-03-30T23:36:16.523539",
+  "created_date": "2016-06-24"
+}

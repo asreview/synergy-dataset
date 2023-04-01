@@ -25,6 +25,7 @@
         "2168-622X"
       ],
       "host_organization": "https://openalex.org/P4310320259",
+      "host_organization_name": "American Medical Association",
       "type": "journal"
     },
     "license": null,
@@ -68,14 +69,15 @@
           "type": "education"
         }
       ],
+      "is_corresponding": null,
       "raw_affiliation_string": "Department of Clinical Psychology, Utrecht University, Utrecht, The Netherlands."
     },
     {
       "author_position": "middle",
       "author": {
-        "id": "https://openalex.org/A2105913281",
+        "id": "https://openalex.org/A4332862312",
         "display_name": "Suzanne C. van Veen",
-        "orcid": "https://orcid.org/0000-0002-5659-2557"
+        "orcid": null
       },
       "institutions": [
         {
@@ -86,12 +88,13 @@
           "type": "education"
         }
       ],
+      "is_corresponding": null,
       "raw_affiliation_string": "Department of Clinical Psychology, Utrecht University, Utrecht, The Netherlands."
     },
     {
       "author_position": "middle",
       "author": {
-        "id": "https://openalex.org/A2281380813",
+        "id": "https://openalex.org/A4352442250",
         "display_name": "Muriel A. Hagenaars",
         "orcid": null
       },
@@ -104,6 +107,7 @@
           "type": "education"
         }
       ],
+      "is_corresponding": null,
       "raw_affiliation_string": "Department of Clinical Psychology, Utrecht University, Utrecht, The Netherlands."
     },
     {
@@ -122,14 +126,15 @@
           "type": null
         }
       ],
+      "is_corresponding": null,
       "raw_affiliation_string": "Department of Psychiatry, Amsterdam Universitair Medisch Centrum, location Vrije Universiteit medisch centrum, Amsterdam, the Netherlands"
     },
     {
       "author_position": "middle",
       "author": {
-        "id": "https://openalex.org/A1378974826",
+        "id": "https://openalex.org/A4357254009",
         "display_name": "Claudi L H Bockting",
-        "orcid": "https://orcid.org/0000-0002-9220-9244"
+        "orcid": null
       },
       "institutions": [
         {
@@ -140,6 +145,7 @@
           "type": null
         }
       ],
+      "is_corresponding": null,
       "raw_affiliation_string": "Department of Psychiatry, Amsterdam Universitair Medisch Centrum, location Academisch Medisch Centrum, University of Amsterdam, Amsterdam, the Netherlands."
     },
     {
@@ -158,14 +164,15 @@
           "type": "education"
         }
       ],
+      "is_corresponding": null,
       "raw_affiliation_string": "Department of Clinical Psychology, Utrecht University, Utrecht, The Netherlands."
     },
     {
       "author_position": "middle",
       "author": {
-        "id": "https://openalex.org/A2059558946",
+        "id": "https://openalex.org/A4358349910",
         "display_name": "Pim Cuijpers",
-        "orcid": "https://orcid.org/0000-0001-5497-2743"
+        "orcid": null
       },
       "institutions": [
         {
@@ -176,12 +183,13 @@
           "type": "education"
         }
       ],
+      "is_corresponding": null,
       "raw_affiliation_string": "Department of Clinical, Neuro-, and Developmental Psychology, Vrije Universiteit Amsterdam, Amsterdam, The Netherlands."
     },
     {
       "author_position": "last",
       "author": {
-        "id": "https://openalex.org/A21141748",
+        "id": "https://openalex.org/A4357046981",
         "display_name": "Iris M. Engelhard",
         "orcid": null
       },
@@ -194,6 +202,7 @@
           "type": "education"
         }
       ],
+      "is_corresponding": null,
       "raw_affiliation_string": "Department of Clinical Psychology, Utrecht University, Utrecht, The Netherlands."
     }
   ],
@@ -314,6 +323,7 @@
           "2168-622X"
         ],
         "host_organization": "https://openalex.org/P4310320259",
+        "host_organization_name": "American Medical Association",
         "type": "journal"
       },
       "license": null,
@@ -329,6 +339,7 @@
         "issn_l": null,
         "issn": null,
         "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": null,
         "type": "repository"
       },
       "license": null,
@@ -348,6 +359,7 @@
         "2168-622X"
       ],
       "host_organization": "https://openalex.org/P4310320259",
+      "host_organization_name": "American Medical Association",
       "type": "journal"
     },
     "license": null,
@@ -1290,6 +1302,6 @@
       "cited_by_count": 13
     }
   ],
-  "updated_date": "2023-03-09T19:31:59.784402",
+  "updated_date": "2023-03-29T23:52:15.442364",
   "created_date": "2019-12-05"
 }

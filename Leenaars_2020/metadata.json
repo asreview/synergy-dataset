@@ -1,0 +1,17 @@
+{
+  "key": "Leenaars_2020",
+  "collection": {
+    "doi": "10.1186/s13643-016-0263-z"
+  },
+  "publication": {
+    "doi": "10.3390/ani10061047",
+    "citation": {
+      "apa": "Leenaars, C., Stafleu, F., de Jong, D., van Berlo, M., Geurts, T., Coenen-de Roo, T., Prins, J.-B., Kempkes, R., Elzinga, J., Bleich, A., de Vries, R., Meijboom, F., & Ritskes-Hoitinga, M. (2020). A Systematic Review Comparing Experimental Design of Animal and Human Methotrexate Efficacy Studies for Rheumatoid Arthritis: Lessons for the Translational Value of Animal Studies. Animals, 10(6), 1047. https://doi.org/10.3390/ani10061047\n"
+    }
+  },
+  "data": {
+    "doi": "10.17605/OSF.IO/T7GYR",
+    "n_records": 7216,
+    "n_records_included": 583
+  }
+}

@@ -24,6 +24,7 @@
         "0272-7358"
       ],
       "host_organization": "https://openalex.org/P4310320990",
+      "host_organization_name": "Elsevier BV",
       "type": "journal"
     },
     "license": null,
@@ -54,9 +55,9 @@
     {
       "author_position": "first",
       "author": {
-        "id": "https://openalex.org/A2137648101",
+        "id": "https://openalex.org/A4349722813",
         "display_name": "Maria Brouwer",
-        "orcid": "https://orcid.org/0000-0002-9972-9058"
+        "orcid": null
       },
       "institutions": [
         {
@@ -74,12 +75,13 @@
           "type": "education"
         }
       ],
+      "is_corresponding": false,
       "raw_affiliation_string": "Univ Amsterdam, University of Amsterdam, Amsterdam Univ Med Ctr, Locat AMC, Dept Psychiat; Univ Utrecht, University of Utrecht, Fac Behav & Social Sci, Dept Clin Psychol"
     },
     {
       "author_position": "middle",
       "author": {
-        "id": "https://openalex.org/A2115327164",
+        "id": "https://openalex.org/A4337694899",
         "display_name": "Alishia D. Williams",
         "orcid": null
       },
@@ -99,6 +101,7 @@
           "type": "education"
         }
       ],
+      "is_corresponding": false,
       "raw_affiliation_string": "Univ New South Wales, University of New South Wales Sydney, Fac Sci, Sch Psychol; Univ Utrecht, University of Utrecht, Fac Behav & Social Sci, Dept Clin Psychol"
     },
     {
@@ -117,6 +120,7 @@
           "type": "education"
         }
       ],
+      "is_corresponding": false,
       "raw_affiliation_string": "Univ Utrecht, University of Utrecht, Fac Behav & Social Sci, Dept Clin Psychol"
     },
     {
@@ -142,14 +146,15 @@
           "type": "education"
         }
       ],
+      "is_corresponding": false,
       "raw_affiliation_string": "Univ Amsterdam, University of Amsterdam, Amsterdam Univ Med Ctr, Locat AMC, Dept Psychiat; Univ Utrecht, University of Utrecht, Fac Behav & Social Sci, Dept Clin Psychol"
     },
     {
       "author_position": "middle",
       "author": {
-        "id": "https://openalex.org/A2151208297",
+        "id": "https://openalex.org/A4357209739",
         "display_name": "Nicola P. Klein",
-        "orcid": "https://orcid.org/0000-0003-1777-4814"
+        "orcid": null
       },
       "institutions": [
         {
@@ -160,14 +165,15 @@
           "type": null
         }
       ],
+      "is_corresponding": false,
       "raw_affiliation_string": "Clinical Psychology and Experimental Psychopathology"
     },
     {
       "author_position": "middle",
       "author": {
-        "id": "https://openalex.org/A2059558946",
+        "id": "https://openalex.org/A4358349910",
         "display_name": "Pim Cuijpers",
-        "orcid": "https://orcid.org/0000-0001-5497-2743"
+        "orcid": null
       },
       "institutions": [
         {
@@ -178,14 +184,15 @@
           "type": "education"
         }
       ],
+      "is_corresponding": false,
       "raw_affiliation_string": "Vrije Univ Amsterdam, Vrije Universiteit Amsterdam, Amsterdam Publ Hlth Res Inst, Dept Clin Neuro & Dev Psychol"
     },
     {
       "author_position": "last",
       "author": {
-        "id": "https://openalex.org/A1378974826",
+        "id": "https://openalex.org/A4357254009",
         "display_name": "Claudi L H Bockting",
-        "orcid": "https://orcid.org/0000-0002-9220-9244"
+        "orcid": null
       },
       "institutions": [
         {
@@ -196,6 +203,7 @@
           "type": null
         }
       ],
+      "is_corresponding": false,
       "raw_affiliation_string": "Univ Amsterdam, University of Amsterdam, Royal Netherlands Acad Arts & Sci, Inst Adv Study, Netherlands Inst Adv Study Humanities & Social Sc"
     }
   ],
@@ -359,6 +367,7 @@
           "0272-7358"
         ],
         "host_organization": "https://openalex.org/P4310320990",
+        "host_organization_name": "Elsevier BV",
         "type": "journal"
       },
       "license": null,
@@ -374,6 +383,7 @@
         "issn_l": null,
         "issn": null,
         "host_organization": null,
+        "host_organization_name": "Elsevier",
         "type": "repository"
       },
       "license": null,
@@ -389,6 +399,7 @@
         "issn_l": null,
         "issn": null,
         "host_organization": "https://openalex.org/I169381384",
+        "host_organization_name": "University of Groningen / Centre for Information Technology",
         "type": "repository"
       },
       "license": null,
@@ -405,6 +416,7 @@
       "issn_l": null,
       "issn": null,
       "host_organization": null,
+      "host_organization_name": "Elsevier",
       "type": "repository"
     },
     "license": null,
@@ -977,6 +989,6 @@
       "cited_by_count": 1
     }
   ],
-  "updated_date": "2023-03-11T00:00:49.390779",
+  "updated_date": "2023-03-31T17:40:57.088699",
   "created_date": "2019-11-22"
 }

@@ -12,7 +12,7 @@
     "pmid": "https://pubmed.ncbi.nlm.nih.gov/29792871"
   },
   "primary_location": {
-    "is_oa": null,
+    "is_oa": false,
     "landing_page_url": "https://doi.org/10.1016/j.jalz.2018.04.007",
     "pdf_url": null,
     "source": {
@@ -24,6 +24,7 @@
         "1552-5279"
       ],
       "host_organization": "https://openalex.org/P4310320990",
+      "host_organization_name": "Elsevier BV",
       "type": "journal"
     },
     "license": null,
@@ -54,9 +55,9 @@
     {
       "author_position": "first",
       "author": {
-        "id": "https://openalex.org/A2152638680",
+        "id": "https://openalex.org/A4355858748",
         "display_name": "Daniel Bos",
-        "orcid": "https://orcid.org/0000-0001-8979-2603"
+        "orcid": null
       },
       "institutions": [
         {
@@ -74,14 +75,15 @@
           "type": "healthcare"
         }
       ],
+      "is_corresponding": false,
       "raw_affiliation_string": "Department of Epidemiology, Harvard T.H. Chan School of Public Health, Boston, MA, USA; Department of Radiology and Nuclear Medicine, Erasmus MC \u2013 University Medical Center Rotterdam, Rotterdam, The Netherlands"
     },
     {
       "author_position": "middle",
       "author": {
-        "id": "https://openalex.org/A2194525489",
+        "id": "https://openalex.org/A4353876488",
         "display_name": "Frank J. Wolters",
-        "orcid": "https://orcid.org/0000-0003-2226-4050"
+        "orcid": null
       },
       "institutions": [
         {
@@ -99,14 +101,15 @@
           "type": "education"
         }
       ],
+      "is_corresponding": false,
       "raw_affiliation_string": "Department of Epidemiology, Erasmus MC \u2013 University Medical Center Rotterdam, Rotterdam, The Netherlands; Department of Epidemiology, Harvard T.H. Chan School of Public Health, Boston, MA, USA"
     },
     {
       "author_position": "middle",
       "author": {
-        "id": "https://openalex.org/A2035690477",
+        "id": "https://openalex.org/A4354634308",
         "display_name": "Sirwan K.L. Darweesh",
-        "orcid": "https://orcid.org/0000-0002-4361-4593"
+        "orcid": null
       },
       "institutions": [
         {
@@ -124,14 +127,15 @@
           "type": "education"
         }
       ],
+      "is_corresponding": false,
       "raw_affiliation_string": "Department of Epidemiology, Erasmus MC \u2013 University Medical Center Rotterdam, Rotterdam, The Netherlands; Department of Epidemiology, Harvard T.H. Chan School of Public Health, Boston, MA, USA"
     },
     {
       "author_position": "middle",
       "author": {
-        "id": "https://openalex.org/A2110581758",
+        "id": "https://openalex.org/A4355782431",
         "display_name": "Meike W. Vernooij",
-        "orcid": "https://orcid.org/0000-0003-4658-2176"
+        "orcid": null
       },
       "institutions": [
         {
@@ -142,12 +146,13 @@
           "type": "healthcare"
         }
       ],
+      "is_corresponding": false,
       "raw_affiliation_string": "Department of Radiology and Nuclear Medicine, Erasmus MC - University Medical Center Rotterdam, Rotterdam, the Netherlands"
     },
     {
       "author_position": "middle",
       "author": {
-        "id": "https://openalex.org/A2159916844",
+        "id": "https://openalex.org/A4338051592",
         "display_name": "Frank de Wolf",
         "orcid": null
       },
@@ -167,14 +172,15 @@
           "type": null
         }
       ],
+      "is_corresponding": false,
       "raw_affiliation_string": "Faculty of Medicine, School of Public Health, Imperial College London, London, UK; Janssen Prevention Center, Leiden, the Netherlands"
     },
     {
       "author_position": "middle",
       "author": {
-        "id": "https://openalex.org/A1998563527",
+        "id": "https://openalex.org/A4357360172",
         "display_name": "M. Arfan Ikram",
-        "orcid": "https://orcid.org/0000-0003-0173-9571"
+        "orcid": null
       },
       "institutions": [
         {
@@ -185,14 +191,15 @@
           "type": "healthcare"
         }
       ],
+      "is_corresponding": false,
       "raw_affiliation_string": "Department of Radiology and Nuclear Medicine, Erasmus MC \u2013 University Medical Center Rotterdam, Rotterdam, The Netherlands"
     },
     {
       "author_position": "last",
       "author": {
-        "id": "https://openalex.org/A2251992767",
+        "id": "https://openalex.org/A4358485965",
         "display_name": "Albert Hofman",
-        "orcid": "https://orcid.org/0000-0002-9865-121X"
+        "orcid": null
       },
       "institutions": [
         {
@@ -203,6 +210,7 @@
           "type": "education"
         }
       ],
+      "is_corresponding": false,
       "raw_affiliation_string": "Department of Epidemiology, Harvard T.H., Chan School of Public Health, Boston, MA, USA"
     }
   ],
@@ -354,7 +362,7 @@
   ],
   "locations": [
     {
-      "is_oa": null,
+      "is_oa": false,
       "landing_page_url": "https://doi.org/10.1016/j.jalz.2018.04.007",
       "pdf_url": null,
       "source": {
@@ -366,6 +374,7 @@
           "1552-5279"
         ],
         "host_organization": "https://openalex.org/P4310320990",
+        "host_organization_name": "Elsevier BV",
         "type": "journal"
       },
       "license": null,
@@ -822,7 +831,7 @@
   "counts_by_year": [
     {
       "year": 2023,
-      "cited_by_count": 7
+      "cited_by_count": 8
     },
     {
       "year": 2022,
@@ -845,6 +854,6 @@
       "cited_by_count": 2
     }
   ],
-  "updated_date": "2023-03-03T04:55:35.658102",
+  "updated_date": "2023-03-30T23:20:48.602487",
   "created_date": "2018-06-01"
 }

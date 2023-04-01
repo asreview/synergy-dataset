@@ -1,14 +1,14 @@
 {
   "key": "Jeyaraman_2020",
   "publication": {
-    "doi": "https://doi.org/10.1177/1947603520951623",
+    "doi": "10.1177/1947603520951623",
     "citation": {
       "apa": "Jeyaraman, M., Muthu, S., & Ganie, P. A. (2020). Does the Source of Mesenchymal Stem Cell Have an Effect in the Management of Osteoarthritis of the Knee? Meta-Analysis of Randomized Controlled Trials. CARTILAGE, 13(1_suppl), 1532S-1547S. https://doi.org/10.1177/1947603520951623\n"
     }
   },
   "data": {
-    "doi": "https://osf.io/8drsc/",
-    "n_records": 1174,
-    "n_records_included": 95
+    "url": "https://osf.io/8drsc/",
+    "n_records": 1175,
+    "n_records_included": 96
   }
 }

@@ -1,5 +1,8 @@
 {
   "key": "Hall_2012",
+  "collection": {
+    "doi": "10.1007/s10664-017-9587-0"
+  },
   "publication": {
     "doi": "10.1109/TSE.2011.103",
     "citation": {
@@ -8,7 +11,7 @@
   },
   "data": {
     "doi": "10.5281/zenodo.1162952",
-    "n_records": 8731,
+    "n_records": 8793,
     "n_records_included": 104
   }
 }

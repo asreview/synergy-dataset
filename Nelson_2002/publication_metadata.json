@@ -14,7 +14,7 @@
   "primary_location": {
     "is_oa": true,
     "landing_page_url": "https://doi.org/10.1001/jama.288.7.872",
-    "pdf_url": "https://jamanetwork.com/journals/jama/articlepdf/195214/JSR20014.pdf",
+    "pdf_url": null,
     "source": {
       "id": "https://openalex.org/S172573765",
       "display_name": "JAMA",
@@ -24,6 +24,7 @@
         "1538-3598"
       ],
       "host_organization": "https://openalex.org/P4310320259",
+      "host_organization_name": "American Medical Association",
       "type": "journal"
     },
     "license": null,
@@ -67,6 +68,7 @@
           "type": "education"
         }
       ],
+      "is_corresponding": null,
       "raw_affiliation_string": "Oregon Health and Science University, Mail Code BICC 504, 3181 SW Sam Jackson Park Rd, Portland, OR 97201, USA."
     },
     {
@@ -85,6 +87,7 @@
           "type": null
         }
       ],
+      "is_corresponding": null,
       "raw_affiliation_string": "Medical Informatics & Clinical Epidemiology"
     },
     {
@@ -103,6 +106,7 @@
           "type": "education"
         }
       ],
+      "is_corresponding": null,
       "raw_affiliation_string": "Oregon Health & Science University"
     },
     {
@@ -121,6 +125,7 @@
           "type": null
         }
       ],
+      "is_corresponding": null,
       "raw_affiliation_string": "MERCK"
     },
     {
@@ -139,10 +144,11 @@
           "type": "education"
         }
       ],
+      "is_corresponding": null,
       "raw_affiliation_string": "University of Texas at San Antonio,#TAB#"
     }
   ],
-  "cited_by_count": 909,
+  "cited_by_count": 910,
   "biblio": {
     "volume": "288",
     "issue": "7",
@@ -544,7 +550,7 @@
     {
       "is_oa": true,
       "landing_page_url": "https://doi.org/10.1001/jama.288.7.872",
-      "pdf_url": "https://jamanetwork.com/journals/jama/articlepdf/195214/JSR20014.pdf",
+      "pdf_url": null,
       "source": {
         "id": "https://openalex.org/S172573765",
         "display_name": "JAMA",
@@ -554,6 +560,7 @@
           "1538-3598"
         ],
         "host_organization": "https://openalex.org/P4310320259",
+        "host_organization_name": "American Medical Association",
         "type": "journal"
       },
       "license": null,
@@ -563,7 +570,7 @@
   "best_oa_location": {
     "is_oa": true,
     "landing_page_url": "https://doi.org/10.1001/jama.288.7.872",
-    "pdf_url": "https://jamanetwork.com/journals/jama/articlepdf/195214/JSR20014.pdf",
+    "pdf_url": null,
     "source": {
       "id": "https://openalex.org/S172573765",
       "display_name": "JAMA",
@@ -573,6 +580,7 @@
         "1538-3598"
       ],
       "host_organization": "https://openalex.org/P4310320259",
+      "host_organization_name": "American Medical Association",
       "type": "journal"
     },
     "license": null,
@@ -1696,7 +1704,7 @@
   "counts_by_year": [
     {
       "year": 2023,
-      "cited_by_count": 2
+      "cited_by_count": 3
     },
     {
       "year": 2022,
@@ -1743,6 +1751,6 @@
       "cited_by_count": 51
     }
   ],
-  "updated_date": "2023-03-03T13:09:01.791077",
+  "updated_date": "2023-03-15T15:14:55.942008",
   "created_date": "2016-06-24"
 }

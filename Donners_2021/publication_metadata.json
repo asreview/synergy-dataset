@@ -15,7 +15,7 @@
   "primary_location": {
     "is_oa": true,
     "landing_page_url": "https://doi.org/10.1007/s40262-021-01042-w",
-    "pdf_url": "https://link.springer.com/content/pdf/10.1007/s40262-021-01042-w.pdf",
+    "pdf_url": null,
     "source": {
       "id": "https://openalex.org/S69290020",
       "display_name": "Clinical Pharmacokinectics",
@@ -25,6 +25,7 @@
         "0312-5963"
       ],
       "host_organization": "https://openalex.org/P4310319965",
+      "host_organization_name": "Springer Nature",
       "type": "journal"
     },
     "license": "cc-by-nc",
@@ -55,9 +56,9 @@
     {
       "author_position": "first",
       "author": {
-        "id": "https://openalex.org/A1640243062",
+        "id": "https://openalex.org/A4333779959",
         "display_name": "Anouk A. M. T. Donners",
-        "orcid": "https://orcid.org/0000-0002-8147-013X"
+        "orcid": null
       },
       "institutions": [
         {
@@ -68,12 +69,13 @@
           "type": "education"
         }
       ],
+      "is_corresponding": true,
       "raw_affiliation_string": "Department of Clinical Pharmacy, University Medical Center Utrecht, Utrecht University, Utrecht, The Netherlands,"
     },
     {
       "author_position": "middle",
       "author": {
-        "id": "https://openalex.org/A2553359495",
+        "id": "https://openalex.org/A4346273815",
         "display_name": "Carin M. A. Rademaker",
         "orcid": null
       },
@@ -86,6 +88,7 @@
           "type": "education"
         }
       ],
+      "is_corresponding": null,
       "raw_affiliation_string": "Department of Clinical Pharmacy, University Medical Center Utrecht, Utrecht University, Utrecht, The Netherlands,"
     },
     {
@@ -104,6 +107,7 @@
           "type": "education"
         }
       ],
+      "is_corresponding": null,
       "raw_affiliation_string": "Department of Clinical Pharmacy, University Medical Center Utrecht, Utrecht University, Utrecht, The Netherlands,"
     },
     {
@@ -124,11 +128,12 @@
         {
           "id": "https://openalex.org/I2898336195",
           "display_name": "Netherlands Cancer Institute",
-          "ror": null,
+          "ror": "https://ror.org/03xqtf034",
           "country_code": "NL",
-          "type": null
+          "type": "healthcare"
         }
       ],
+      "is_corresponding": null,
       "raw_affiliation_string": "Department of Clinical Pharmacy, University Medical Center Utrecht, Utrecht University, Utrecht, The Netherlands; Department of Pharmacy and Pharmacology, Netherlands Cancer Institute, Amsterdam, The Netherlands"
     },
     {
@@ -147,14 +152,15 @@
           "type": "education"
         }
       ],
+      "is_corresponding": null,
       "raw_affiliation_string": ""
     },
     {
       "author_position": "middle",
       "author": {
-        "id": "https://openalex.org/A2268168519",
+        "id": "https://openalex.org/A4359094253",
         "display_name": "Antoine C. G. Egberts",
-        "orcid": "https://orcid.org/0000-0003-1758-7779"
+        "orcid": null
       },
       "institutions": [
         {
@@ -165,14 +171,15 @@
           "type": "education"
         }
       ],
+      "is_corresponding": null,
       "raw_affiliation_string": "Department of Pharmacoepidemiology and Clinical Pharmacology, Utrecht Institute for Pharmaceutical Sciences, Faculty of Science, Utrecht University, Utrecht, The Netherlands"
     },
     {
       "author_position": "last",
       "author": {
-        "id": "https://openalex.org/A2116204317",
+        "id": "https://openalex.org/A4359446633",
         "display_name": "Krista Fischer",
-        "orcid": "https://orcid.org/0000-0001-7126-6613"
+        "orcid": null
       },
       "institutions": [
         {
@@ -183,6 +190,7 @@
           "type": "education"
         }
       ],
+      "is_corresponding": null,
       "raw_affiliation_string": ""
     }
   ],
@@ -322,7 +330,7 @@
     {
       "is_oa": true,
       "landing_page_url": "https://doi.org/10.1007/s40262-021-01042-w",
-      "pdf_url": "https://link.springer.com/content/pdf/10.1007/s40262-021-01042-w.pdf",
+      "pdf_url": null,
       "source": {
         "id": "https://openalex.org/S69290020",
         "display_name": "Clinical Pharmacokinectics",
@@ -332,6 +340,7 @@
           "0312-5963"
         ],
         "host_organization": "https://openalex.org/P4310319965",
+        "host_organization_name": "Springer Nature",
         "type": "journal"
       },
       "license": "cc-by-nc",
@@ -347,21 +356,7 @@
         "issn_l": null,
         "issn": null,
         "host_organization": "https://openalex.org/I1322597698",
-        "type": "repository"
-      },
-      "license": null,
-      "version": "publishedVersion"
-    },
-    {
-      "is_oa": true,
-      "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8585815",
-      "pdf_url": null,
-      "source": {
-        "id": "https://openalex.org/S2764455111",
-        "display_name": "PubMed Central",
-        "issn_l": null,
-        "issn": null,
-        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "DANS",
         "type": "repository"
       },
       "license": null,
@@ -371,7 +366,7 @@
   "best_oa_location": {
     "is_oa": true,
     "landing_page_url": "https://doi.org/10.1007/s40262-021-01042-w",
-    "pdf_url": "https://link.springer.com/content/pdf/10.1007/s40262-021-01042-w.pdf",
+    "pdf_url": null,
     "source": {
       "id": "https://openalex.org/S69290020",
       "display_name": "Clinical Pharmacokinectics",
@@ -381,6 +376,7 @@
         "0312-5963"
       ],
       "host_organization": "https://openalex.org/P4310319965",
+      "host_organization_name": "Springer Nature",
       "type": "journal"
     },
     "license": "cc-by-nc",
@@ -401,15 +397,6 @@
       "display_name": "Data Archiving and Networked Services (DANS)",
       "type": "repository",
       "url": "https://dspace.library.uu.nl/bitstream/handle/1874/416223/Donners2021_Article_PharmacokineticsAndAssociatedE.pdf?sequence=1&isAllowed=y",
-      "is_oa": true,
-      "version": "publishedVersion",
-      "license": null
-    },
-    {
-      "id": "https://openalex.org/S2764455111",
-      "display_name": "PubMed Central",
-      "type": "repository",
-      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8585815",
       "is_oa": true,
       "version": "publishedVersion",
       "license": null
@@ -1045,6 +1032,6 @@
       "cited_by_count": 5
     }
   ],
-  "updated_date": "2023-02-19T20:33:52.432254",
+  "updated_date": "2023-03-27T18:50:50.828267",
   "created_date": "2021-08-16"
 }

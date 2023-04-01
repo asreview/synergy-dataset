@@ -1,0 +1,1163 @@
+{
+  "id": "https://openalex.org/W3036575216",
+  "doi": "https://doi.org/10.3390/ani10061047",
+  "title": "A Systematic Review Comparing Experimental Design of Animal and Human Methotrexate Efficacy Studies for Rheumatoid Arthritis: Lessons for the Translational Value of Animal Studies",
+  "display_name": "A Systematic Review Comparing Experimental Design of Animal and Human Methotrexate Efficacy Studies for Rheumatoid Arthritis: Lessons for the Translational Value of Animal Studies",
+  "publication_year": 2020,
+  "publication_date": "2020-06-17",
+  "ids": {
+    "openalex": "https://openalex.org/W3036575216",
+    "doi": "https://doi.org/10.3390/ani10061047",
+    "mag": "3036575216",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/32560528",
+    "pmcid": "https://www.ncbi.nlm.nih.gov/pmc/articles/7341304"
+  },
+  "primary_location": {
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.3390/ani10061047",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S4210168508",
+      "display_name": "Animals",
+      "issn_l": "2076-2615",
+      "issn": [
+        "2076-2615"
+      ],
+      "host_organization": "https://openalex.org/P4310310987",
+      "host_organization_name": "MDPI",
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "version": "publishedVersion"
+  },
+  "host_venue": {
+    "id": "https://openalex.org/S4210168508",
+    "issn_l": "2076-2615",
+    "issn": [
+      "2076-2615"
+    ],
+    "display_name": "Animals",
+    "publisher": "MDPI",
+    "type": "journal",
+    "url": "https://www.mdpi.com/2076-2615/10/6/1047/pdf?version=1593401372",
+    "is_oa": true,
+    "version": "publishedVersion",
+    "license": "cc-by"
+  },
+  "type": "journal-article",
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "gold",
+    "oa_url": "https://www.mdpi.com/2076-2615/10/6/1047/pdf?version=1593401372"
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A4339500120",
+        "display_name": "Cathalijn H. C. Leenaars",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I145872427",
+          "display_name": "Radboud University Nijmegen",
+          "ror": "https://ror.org/016xsfp80",
+          "country_code": "NL",
+          "type": "education"
+        }
+      ],
+      "is_corresponding": true,
+      "raw_affiliation_string": "SYRCLE, Department for Health Evidence (section HTA), Radboud Institute for Health Sciences, Radboud University Medical Centre, 6525 GA Nijmegen, The Netherlands."
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A4350237023",
+        "display_name": "Frans A. Stafleu",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I193662353",
+          "display_name": "Utrecht University",
+          "ror": "https://ror.org/04pp8hn57",
+          "country_code": "NL",
+          "type": "education"
+        }
+      ],
+      "is_corresponding": null,
+      "raw_affiliation_string": "Ethics Institute, Utrecht University, 3508 TC Utrecht, the Netherlands."
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A4357220051",
+        "display_name": "David De Jong",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I145872427",
+          "display_name": "Radboud University Nijmegen",
+          "ror": "https://ror.org/016xsfp80",
+          "country_code": "NL",
+          "type": "education"
+        }
+      ],
+      "is_corresponding": null,
+      "raw_affiliation_string": "SYRCLE, Department for Health Evidence (section HTA), Radboud Institute for Health Sciences, Radboud University Medical Centre, 6525 GA Nijmegen, The Netherlands."
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A3036379559",
+        "display_name": "Maikel van Berlo",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I145872427",
+          "display_name": "Radboud University Nijmegen",
+          "ror": "https://ror.org/016xsfp80",
+          "country_code": "NL",
+          "type": "education"
+        }
+      ],
+      "is_corresponding": null,
+      "raw_affiliation_string": "SYRCLE, Department for Health Evidence (section HTA), Radboud Institute for Health Sciences, Radboud University Medical Centre, 6525 GA Nijmegen, The Netherlands."
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A3035788631",
+        "display_name": "Tijmen Geurts",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I145872427",
+          "display_name": "Radboud University Nijmegen",
+          "ror": "https://ror.org/016xsfp80",
+          "country_code": "NL",
+          "type": "education"
+        }
+      ],
+      "is_corresponding": null,
+      "raw_affiliation_string": "SYRCLE, Department for Health Evidence (section HTA), Radboud Institute for Health Sciences, Radboud University Medical Centre, 6525 GA Nijmegen, The Netherlands."
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A2319990822",
+        "display_name": "Tineke Coenen-de Roo",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I121797337",
+          "display_name": "Leiden University",
+          "ror": "https://ror.org/027bh9e22",
+          "country_code": "NL",
+          "type": "education"
+        }
+      ],
+      "is_corresponding": null,
+      "raw_affiliation_string": "Central Animal Facility, Leiden University Medical Centre, 2300 RC Leiden, The Netherlands."
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A2222517004",
+        "display_name": "Jan-Bas Prins",
+        "orcid": "https://orcid.org/0000-0002-1831-8522"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2801081054",
+          "display_name": "The Francis Crick Institute",
+          "ror": "https://ror.org/04tnbqb63",
+          "country_code": "GB",
+          "type": "facility"
+        }
+      ],
+      "is_corresponding": null,
+      "raw_affiliation_string": "Biological Research Facility, The Francis Crick Institute, London NW1 1AT, UK."
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A2991766634",
+        "display_name": "Rosalie W. M. Kempkes",
+        "orcid": "https://orcid.org/0000-0002-6232-5295"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I145872427",
+          "display_name": "Radboud University Nijmegen",
+          "ror": "https://ror.org/016xsfp80",
+          "country_code": "NL",
+          "type": "education"
+        }
+      ],
+      "is_corresponding": null,
+      "raw_affiliation_string": "SYRCLE, Department for Health Evidence (section HTA), Radboud Institute for Health Sciences, Radboud University Medical Centre, 6525 GA Nijmegen, The Netherlands."
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A2968743620",
+        "display_name": "Janneke Elzinga",
+        "orcid": "https://orcid.org/0000-0002-4819-9499"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I145872427",
+          "display_name": "Radboud University Nijmegen",
+          "ror": "https://ror.org/016xsfp80",
+          "country_code": "NL",
+          "type": "education"
+        }
+      ],
+      "is_corresponding": null,
+      "raw_affiliation_string": "SYRCLE, Department for Health Evidence (section HTA), Radboud Institute for Health Sciences, Radboud University Medical Centre, 6525 GA Nijmegen, The Netherlands."
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A2086557337",
+        "display_name": "Andr\u00e9 Bleich",
+        "orcid": "https://orcid.org/0000-0002-3438-0254"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I34809795",
+          "display_name": "Hannover Medical School",
+          "ror": "https://ror.org/00f2yqf98",
+          "country_code": "DE",
+          "type": "education"
+        }
+      ],
+      "is_corresponding": null,
+      "raw_affiliation_string": "Institute for Laboratory Animal Science, Hannover Medical School, 30625 Hannover, Germany."
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A4349188779",
+        "display_name": "Rob B. M. de Vries",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I145872427",
+          "display_name": "Radboud University Nijmegen",
+          "ror": "https://ror.org/016xsfp80",
+          "country_code": "NL",
+          "type": "education"
+        }
+      ],
+      "is_corresponding": null,
+      "raw_affiliation_string": "SYRCLE, Department for Health Evidence (section HTA), Radboud Institute for Health Sciences, Radboud University Medical Centre, 6525 GA Nijmegen, The Netherlands."
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A4357296849",
+        "display_name": "Franck L. B. Meijboom",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I193662353",
+          "display_name": "Utrecht University",
+          "ror": "https://ror.org/04pp8hn57",
+          "country_code": "NL",
+          "type": "education"
+        }
+      ],
+      "is_corresponding": null,
+      "raw_affiliation_string": "Department of Population Health Science, unit Animals in Science and Society, Utrecht University, 3508 TD Utrecht, The Netherlands."
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A1958089339",
+        "display_name": "Merel Ritskes-Hoitinga",
+        "orcid": "https://orcid.org/0000-0001-5315-284X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I145872427",
+          "display_name": "Radboud University Nijmegen",
+          "ror": "https://ror.org/016xsfp80",
+          "country_code": "NL",
+          "type": "education"
+        }
+      ],
+      "is_corresponding": null,
+      "raw_affiliation_string": "SYRCLE, Department for Health Evidence (section HTA), Radboud Institute for Health Sciences, Radboud University Medical Centre, 6525 GA Nijmegen, The Netherlands."
+    }
+  ],
+  "cited_by_count": 7,
+  "biblio": {
+    "volume": "10",
+    "issue": "6",
+    "first_page": "1047",
+    "last_page": "1047"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "concepts": [
+    {
+      "id": "https://openalex.org/C172268261",
+      "wikidata": "https://www.wikidata.org/wiki/Q4764988",
+      "display_name": "Animal studies",
+      "level": 2,
+      "score": "0.7350956"
+    },
+    {
+      "id": "https://openalex.org/C2777575956",
+      "wikidata": "https://www.wikidata.org/wiki/Q187255",
+      "display_name": "Rheumatoid arthritis",
+      "level": 2,
+      "score": "0.6866274"
+    },
+    {
+      "id": "https://openalex.org/C3018263421",
+      "wikidata": "https://www.wikidata.org/wiki/Q80083",
+      "display_name": "Human studies",
+      "level": 2,
+      "score": "0.66730076"
+    },
+    {
+      "id": "https://openalex.org/C2771230",
+      "wikidata": "https://www.wikidata.org/wiki/Q4926699",
+      "display_name": "Blinding",
+      "level": 3,
+      "score": "0.6606472"
+    },
+    {
+      "id": "https://openalex.org/C71924100",
+      "wikidata": "https://www.wikidata.org/wiki/Q11190",
+      "display_name": "Medicine",
+      "level": 0,
+      "score": "0.61358297"
+    },
+    {
+      "id": "https://openalex.org/C148482608",
+      "wikidata": "https://www.wikidata.org/wiki/Q17007018",
+      "display_name": "Clinical study design",
+      "level": 3,
+      "score": "0.57672703"
+    },
+    {
+      "id": "https://openalex.org/C2781059491",
+      "wikidata": "https://www.wikidata.org/wiki/Q422232",
+      "display_name": "Methotrexate",
+      "level": 2,
+      "score": "0.5044364"
+    },
+    {
+      "id": "https://openalex.org/C95190672",
+      "wikidata": "https://www.wikidata.org/wiki/Q815382",
+      "display_name": "Meta-analysis",
+      "level": 2,
+      "score": "0.4861169"
+    },
+    {
+      "id": "https://openalex.org/C2992130261",
+      "wikidata": "https://www.wikidata.org/wiki/Q1331083",
+      "display_name": "Human research",
+      "level": 2,
+      "score": "0.47055697"
+    },
+    {
+      "id": "https://openalex.org/C2778117688",
+      "wikidata": "https://www.wikidata.org/wiki/Q264024",
+      "display_name": "Animal model",
+      "level": 2,
+      "score": "0.45500633"
+    },
+    {
+      "id": "https://openalex.org/C520753416",
+      "wikidata": "https://www.wikidata.org/wiki/Q38344",
+      "display_name": "Animal testing",
+      "level": 2,
+      "score": "0.45138153"
+    },
+    {
+      "id": "https://openalex.org/C3020000481",
+      "wikidata": "https://www.wikidata.org/wiki/Q38344",
+      "display_name": "Experimental animal",
+      "level": 2,
+      "score": "0.44886175"
+    },
+    {
+      "id": "https://openalex.org/C2779318504",
+      "wikidata": "https://www.wikidata.org/wiki/Q1438035",
+      "display_name": "Research design",
+      "level": 2,
+      "score": "0.41936648"
+    },
+    {
+      "id": "https://openalex.org/C535046627",
+      "wikidata": "https://www.wikidata.org/wiki/Q30612",
+      "display_name": "Clinical trial",
+      "level": 2,
+      "score": "0.40123063"
+    },
+    {
+      "id": "https://openalex.org/C126322002",
+      "wikidata": "https://www.wikidata.org/wiki/Q11180",
+      "display_name": "Internal medicine",
+      "level": 1,
+      "score": "0.24925017"
+    },
+    {
+      "id": "https://openalex.org/C42972112",
+      "wikidata": "https://www.wikidata.org/wiki/Q170201",
+      "display_name": "Veterinary medicine",
+      "level": 1,
+      "score": "0.24144018"
+    },
+    {
+      "id": "https://openalex.org/C86803240",
+      "wikidata": "https://www.wikidata.org/wiki/Q420",
+      "display_name": "Biology",
+      "level": 0,
+      "score": "0.1659328"
+    },
+    {
+      "id": "https://openalex.org/C15744967",
+      "wikidata": "https://www.wikidata.org/wiki/Q9418",
+      "display_name": "Psychology",
+      "level": 0,
+      "score": "0.16588569"
+    },
+    {
+      "id": "https://openalex.org/C105795698",
+      "wikidata": "https://www.wikidata.org/wiki/Q12483",
+      "display_name": "Statistics",
+      "level": 1,
+      "score": "0.0801574"
+    },
+    {
+      "id": "https://openalex.org/C18903297",
+      "wikidata": "https://www.wikidata.org/wiki/Q7150",
+      "display_name": "Ecology",
+      "level": 1,
+      "score": "0.0"
+    },
+    {
+      "id": "https://openalex.org/C188147891",
+      "wikidata": "https://www.wikidata.org/wiki/Q147638",
+      "display_name": "Cognitive science",
+      "level": 1,
+      "score": "0.0"
+    },
+    {
+      "id": "https://openalex.org/C33923547",
+      "wikidata": "https://www.wikidata.org/wiki/Q395",
+      "display_name": "Mathematics",
+      "level": 0,
+      "score": "0.0"
+    }
+  ],
+  "mesh": [],
+  "locations": [
+    {
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.3390/ani10061047",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4210168508",
+        "display_name": "Animals",
+        "issn_l": "2076-2615",
+        "issn": [
+          "2076-2615"
+        ],
+        "host_organization": "https://openalex.org/P4310310987",
+        "host_organization_name": "MDPI",
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "version": "publishedVersion"
+    },
+    {
+      "is_oa": true,
+      "landing_page_url": "https://europepmc.org/articles/pmc7341304",
+      "pdf_url": "https://europepmc.org/articles/pmc7341304?pdf=render",
+      "source": {
+        "id": "https://openalex.org/S4306400806",
+        "display_name": "Europe PMC (PubMed Central)",
+        "issn_l": null,
+        "issn": null,
+        "host_organization": null,
+        "host_organization_name": "PubMed Central",
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "version": "publishedVersion"
+    },
+    {
+      "is_oa": true,
+      "landing_page_url": "https://dspace.library.uu.nl/handle/1874/409047",
+      "pdf_url": "https://dspace.library.uu.nl/bitstream/handle/1874/409047/animals_10_01047_v2.pdf?sequence=1&isAllowed=y",
+      "source": {
+        "id": "https://openalex.org/S4306401843",
+        "display_name": "Data Archiving and Networked Services (DANS)",
+        "issn_l": null,
+        "issn": null,
+        "host_organization": "https://openalex.org/I1322597698",
+        "host_organization_name": "DANS",
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "version": "publishedVersion"
+    },
+    {
+      "is_oa": true,
+      "landing_page_url": "https://figshare.com/articles/journal_contribution/A_systematic_review_comparing_experimental_design_of_animal_and_human_methotrexate_efficacy_studies_for_rheumatoid_arthritis_Lessons_for_the_translational_value_of_animal_studies_/12530072",
+      "pdf_url": "https://figshare.com/articles/journal_contribution/A_systematic_review_comparing_experimental_design_of_animal_and_human_methotrexate_efficacy_studies_for_rheumatoid_arthritis_Lessons_for_the_translational_value_of_animal_studies_/12530072/1/files/23296034.pdf",
+      "source": {
+        "id": "https://openalex.org/S4306402621",
+        "display_name": "INDIGO (University of Illinois at Chicago)",
+        "issn_l": null,
+        "issn": null,
+        "host_organization": "https://openalex.org/I39422238",
+        "host_organization_name": "University of Illinois at Chicago",
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "version": "publishedVersion"
+    },
+    {
+      "is_oa": true,
+      "landing_page_url": "http://hdl.handle.net/2066/220843",
+      "pdf_url": "https://repository.ubn.ru.nl/bitstream/handle/2066/220843/1/220843.pdf",
+      "source": {
+        "id": "https://openalex.org/S4306401843",
+        "display_name": "Data Archiving and Networked Services (DANS)",
+        "issn_l": null,
+        "issn": null,
+        "host_organization": "https://openalex.org/I1322597698",
+        "host_organization_name": "DANS",
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "version": "publishedVersion"
+    },
+    {
+      "is_oa": true,
+      "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7341304",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S2764455111",
+        "display_name": "PubMed Central",
+        "issn_l": null,
+        "issn": null,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": null,
+        "type": "repository"
+      },
+      "license": null,
+      "version": "publishedVersion"
+    }
+  ],
+  "best_oa_location": {
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.3390/ani10061047",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S4210168508",
+      "display_name": "Animals",
+      "issn_l": "2076-2615",
+      "issn": [
+        "2076-2615"
+      ],
+      "host_organization": "https://openalex.org/P4310310987",
+      "host_organization_name": "MDPI",
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "version": "publishedVersion"
+  },
+  "alternate_host_venues": [
+    {
+      "id": "https://openalex.org/S4210168508",
+      "display_name": "Animals",
+      "type": "journal",
+      "url": "https://www.mdpi.com/2076-2615/10/6/1047/pdf?version=1593401372",
+      "is_oa": true,
+      "version": "publishedVersion",
+      "license": "cc-by"
+    },
+    {
+      "id": "https://openalex.org/S4306400806",
+      "display_name": "Europe PMC (PubMed Central)",
+      "type": "repository",
+      "url": "https://europepmc.org/articles/pmc7341304?pdf=render",
+      "is_oa": true,
+      "version": "publishedVersion",
+      "license": "cc-by"
+    },
+    {
+      "id": "https://openalex.org/S4306401843",
+      "display_name": "Data Archiving and Networked Services (DANS)",
+      "type": "repository",
+      "url": "https://dspace.library.uu.nl/bitstream/handle/1874/409047/animals_10_01047_v2.pdf?sequence=1&isAllowed=y",
+      "is_oa": true,
+      "version": "publishedVersion",
+      "license": "cc-by"
+    },
+    {
+      "id": "https://openalex.org/S4306402621",
+      "display_name": "INDIGO (University of Illinois at Chicago)",
+      "type": "repository",
+      "url": "https://figshare.com/articles/journal_contribution/A_systematic_review_comparing_experimental_design_of_animal_and_human_methotrexate_efficacy_studies_for_rheumatoid_arthritis_Lessons_for_the_translational_value_of_animal_studies_/12530072/1/files/23296034.pdf",
+      "is_oa": true,
+      "version": "publishedVersion",
+      "license": "cc-by"
+    },
+    {
+      "id": "https://openalex.org/S2764455111",
+      "display_name": "PubMed Central",
+      "type": "repository",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7341304",
+      "is_oa": true,
+      "version": "publishedVersion",
+      "license": null
+    }
+  ],
+  "referenced_works": [
+    "https://openalex.org/W107659265",
+    "https://openalex.org/W131458775",
+    "https://openalex.org/W192359870",
+    "https://openalex.org/W215161463",
+    "https://openalex.org/W1504122200",
+    "https://openalex.org/W1853306198",
+    "https://openalex.org/W1950977525",
+    "https://openalex.org/W1993767369",
+    "https://openalex.org/W1995017843",
+    "https://openalex.org/W2001221672",
+    "https://openalex.org/W2002251042",
+    "https://openalex.org/W2007810696",
+    "https://openalex.org/W2024695639",
+    "https://openalex.org/W2027488458",
+    "https://openalex.org/W2027900483",
+    "https://openalex.org/W2037669635",
+    "https://openalex.org/W2041587341",
+    "https://openalex.org/W2046818890",
+    "https://openalex.org/W2049956841",
+    "https://openalex.org/W2058571677",
+    "https://openalex.org/W2065354414",
+    "https://openalex.org/W2086709182",
+    "https://openalex.org/W2095780950",
+    "https://openalex.org/W2101083347",
+    "https://openalex.org/W2119103976",
+    "https://openalex.org/W2128952811",
+    "https://openalex.org/W2139055304",
+    "https://openalex.org/W2141706104",
+    "https://openalex.org/W2161793142",
+    "https://openalex.org/W2182762988",
+    "https://openalex.org/W2300250874",
+    "https://openalex.org/W2399109526",
+    "https://openalex.org/W2421517926",
+    "https://openalex.org/W2433862317",
+    "https://openalex.org/W2476106425",
+    "https://openalex.org/W2528013035",
+    "https://openalex.org/W2549633770",
+    "https://openalex.org/W2589630659",
+    "https://openalex.org/W2768466756",
+    "https://openalex.org/W2783666992",
+    "https://openalex.org/W2787981664",
+    "https://openalex.org/W2913587649",
+    "https://openalex.org/W2918661108",
+    "https://openalex.org/W2920223959",
+    "https://openalex.org/W2921889468",
+    "https://openalex.org/W2943903654",
+    "https://openalex.org/W2960989010",
+    "https://openalex.org/W2996419143",
+    "https://openalex.org/W3015582279",
+    "https://openalex.org/W3036575216",
+    "https://openalex.org/W4242853718"
+  ],
+  "related_works": [
+    "https://openalex.org/W1997647322",
+    "https://openalex.org/W2022745533",
+    "https://openalex.org/W2093075184",
+    "https://openalex.org/W2166863746",
+    "https://openalex.org/W2273053288",
+    "https://openalex.org/W2332593656",
+    "https://openalex.org/W2789673685",
+    "https://openalex.org/W3036575216",
+    "https://openalex.org/W3043432579",
+    "https://openalex.org/W3170048342"
+  ],
+  "ngrams_url": "https://api.openalex.org/works/W3036575216/ngrams",
+  "abstract_inverted_index": {
+    "Increased": [
+      0
+    ],
+    "awareness": [
+      1
+    ],
+    "and": [
+      2,
+      36,
+      49,
+      54,
+      67,
+      125,
+      137,
+      156,
+      174
+    ],
+    "understanding": [
+      3,
+      191
+    ],
+    "of": [
+      4,
+      25,
+      102,
+      111,
+      118,
+      178,
+      192
+    ],
+    "current": [
+      5
+    ],
+    "practices": [
+      6
+    ],
+    "in": [
+      7,
+      16,
+      98,
+      129,
+      144,
+      147,
+      167,
+      171,
+      182
+    ],
+    "translational": [
+      8,
+      193,
+      199
+    ],
+    "research": [
+      9,
+      184
+    ],
+    "is": [
+      10,
+      165,
+      186
+    ],
+    "required": [
+      11
+    ],
+    "for": [
+      12,
+      27,
+      65,
+      154
+    ],
+    "informed": [
+      13
+    ],
+    "decision": [
+      14
+    ],
+    "making": [
+      15
+    ],
+    "drug": [
+      17
+    ],
+    "development.": [
+      18
+    ],
+    "This": [
+      19
+    ],
+    "paper": [
+      20
+    ],
+    "describes": [
+      21
+    ],
+    "a": [
+      22
+    ],
+    "systematic": [
+      23
+    ],
+    "review": [
+      24
+    ],
+    "methotrexate": [
+      26,
+      164
+    ],
+    "rheumatoid": [
+      28,
+      169
+    ],
+    "arthritis,": [
+      29
+    ],
+    "comparing": [
+      30
+    ],
+    "trial": [
+      31
+    ],
+    "design": [
+      32
+    ],
+    "between": [
+      33
+    ],
+    "147": [
+      34
+    ],
+    "animal": [
+      35,
+      112,
+      130,
+      148,
+      155,
+      172
+    ],
+    "512": [
+      37
+    ],
+    "human": [
+      38,
+      47,
+      84,
+      103,
+      132,
+      145,
+      157
+    ],
+    "studies.": [
+      39,
+      133,
+      149
+    ],
+    "Animal": [
+      40,
+      77
+    ],
+    "studies": [
+      41,
+      78,
+      85,
+      104,
+      113,
+      158
+    ],
+    "generally": [
+      42
+    ],
+    "included": [
+      43,
+      70,
+      75,
+      87,
+      90
+    ],
+    "fewer": [
+      44
+    ],
+    "subjects": [
+      45
+    ],
+    "than": [
+      46,
+      74,
+      131,
+      146
+    ],
+    "studies,": [
+      48
+    ],
+    "less": [
+      50
+    ],
+    "frequently": [
+      51,
+      106,
+      115,
+      127,
+      143
+    ],
+    "reported": [
+      52,
+      97,
+      116,
+      128
+    ],
+    "randomisation": [
+      53
+    ],
+    "blinding.": [
+      55
+    ],
+    "In": [
+      56
+    ],
+    "relation": [
+      57
+    ],
+    "to": [
+      58,
+      188
+    ],
+    "life": [
+      59
+    ],
+    "span,": [
+      60
+    ],
+    "study": [
+      61
+    ],
+    "duration": [
+      62
+    ],
+    "was": [
+      63,
+      122
+    ],
+    "comparable": [
+      64
+    ],
+    "animals": [
+      66,
+      71
+    ],
+    "humans,": [
+      68
+    ],
+    "but": [
+      69
+    ],
+    "were": [
+      72,
+      95,
+      140
+    ],
+    "younger": [
+      73
+    ],
+    "humans.": [
+      76,
+      175
+    ],
+    "often": [
+      79
+    ],
+    "comprised": [
+      80,
+      107
+    ],
+    "males": [
+      81
+    ],
+    "only": [
+      82
+    ],
+    "(61%),": [
+      83
+    ],
+    "always": [
+      86
+    ],
+    "females": [
+      88
+    ],
+    "(98%": [
+      89
+    ],
+    "both": [
+      91,
+      99
+    ],
+    "sexes).": [
+      92
+    ],
+    "Power": [
+      93
+    ],
+    "calculations": [
+      94
+    ],
+    "poorly": [
+      96
+    ],
+    "samples.": [
+      100
+    ],
+    "Analyses": [
+      101
+    ],
+    "more": [
+      105,
+      114,
+      123,
+      126,
+      142
+    ],
+    "Chi-square": [
+      108
+    ],
+    "tests,": [
+      109
+    ],
+    "those": [
+      110
+    ],
+    "analyses": [
+      117
+    ],
+    "variance.": [
+      119
+    ],
+    "Administration": [
+      120
+    ],
+    "route": [
+      121
+    ],
+    "variable,": [
+      124
+    ],
+    "Erythrocyte": [
+      134
+    ],
+    "sedimentation": [
+      135
+    ],
+    "rate": [
+      136
+    ],
+    "c-reactive": [
+      138
+    ],
+    "protein": [
+      139
+    ],
+    "analysed": [
+      141
+    ],
+    "To": [
+      150
+    ],
+    "conclude,": [
+      151
+    ],
+    "experimental": [
+      152
+    ],
+    "designs": [
+      153
+    ],
+    "are": [
+      159
+    ],
+    "not": [
+      160
+    ],
+    "optimally": [
+      161
+    ],
+    "aligned.": [
+      162
+    ],
+    "However,": [
+      163
+    ],
+    "effective": [
+      166
+    ],
+    "treating": [
+      168
+    ],
+    "arthritis": [
+      170
+    ],
+    "models": [
+      173
+    ],
+    "Further": [
+      176
+    ],
+    "evaluation": [
+      177
+    ],
+    "the": [
+      179,
+      190
+    ],
+    "available": [
+      180
+    ],
+    "evidence": [
+      181
+    ],
+    "other": [
+      183
+    ],
+    "fields": [
+      185
+    ],
+    "needed": [
+      187
+    ],
+    "increase": [
+      189
+    ],
+    "success": [
+      194
+    ],
+    "before": [
+      195
+    ],
+    "we": [
+      196
+    ],
+    "can": [
+      197
+    ],
+    "optimise": [
+      198
+    ],
+    "strategies.": [
+      200
+    ]
+  },
+  "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W3036575216",
+  "counts_by_year": [
+    {
+      "year": 2022,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2021,
+      "cited_by_count": 3
+    },
+    {
+      "year": 2020,
+      "cited_by_count": 2
+    }
+  ],
+  "updated_date": "2023-03-26T07:39:00.650995",
+  "created_date": "2020-06-25"
+}
