@@ -66,7 +66,7 @@ def package(dataset_name, output_folder):
     result.to_csv(Path(output_folder, "labels.csv"), index=False)
 
     # create zip
-    with ZipFile(Path(output_folder, f"works.zip"), "w", ZIP_DEFLATED) as zip_obj:
+    with ZipFile(Path(output_folder, f"works_1.zip"), "w", ZIP_DEFLATED) as zip_obj:
 
         x = 0
         while x < len(result):
