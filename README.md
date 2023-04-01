@@ -59,7 +59,7 @@ SYNERGY is a collection of 24 systematic review datasets with in total 108853 re
 |   24 | Wolters_2018            | Medicine                      |      3990 |         12 |  0.3 |
 
 The each record in the dataset is an [OpenAlex Work object](https://docs.openalex.org/api-entities/works/work-object
-) (extracted on 2023-XX-XX) with following attributes:
+) (Copy at [web.archive.org](https://web.archive.org/web/20230331020326/https://docs.openalex.org/api-entities/works/work-object) extracted on 2023-03-31) with following attributes:
 
 Some of the notable variables are: 
 
