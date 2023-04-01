@@ -141,7 +141,7 @@ if __name__ == "__main__":
         output_path.mkdir(exist_ok=True, parents=True)
 
         if 1:
-            package(args.dataset_name, output_path)
+            package(dataset["key"], output_path)
 
         if 1:
             meta, works = render_metadata(dataset, Path(output_path, "labels.csv"))
