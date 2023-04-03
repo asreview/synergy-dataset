@@ -1,0 +1,1134 @@
+{
+  "id": "https://openalex.org/W2151666086",
+  "doi": "https://doi.org/10.1109/tse.2011.103",
+  "title": "A Systematic Literature Review on Fault Prediction Performance in Software Engineering",
+  "display_name": "A Systematic Literature Review on Fault Prediction Performance in Software Engineering",
+  "publication_year": 2012,
+  "publication_date": "2012-11-01",
+  "ids": {
+    "openalex": "https://openalex.org/W2151666086",
+    "doi": "https://doi.org/10.1109/tse.2011.103",
+    "mag": "2151666086"
+  },
+  "primary_location": {
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.1109/tse.2011.103",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S8351582",
+      "display_name": "IEEE Transactions on Software Engineering",
+      "issn_l": "0098-5589",
+      "issn": [
+        "0098-5589",
+        "1939-3520",
+        "2326-3881"
+      ],
+      "host_organization": "https://openalex.org/P4310320439",
+      "host_organization_name": "IEEE Computer Society",
+      "type": "journal"
+    },
+    "license": null,
+    "version": null
+  },
+  "host_venue": {
+    "id": "https://openalex.org/S8351582",
+    "issn_l": "0098-5589",
+    "issn": [
+      "0098-5589",
+      "1939-3520",
+      "2326-3881"
+    ],
+    "display_name": "IEEE Transactions on Software Engineering",
+    "publisher": "IEEE Computer Society",
+    "type": "journal",
+    "url": null,
+    "is_oa": false,
+    "version": null,
+    "license": null
+  },
+  "type": "journal-article",
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "green",
+    "oa_url": "https://researchrepository.ul.ie/articles/online_resource/A_Systematic_literature_review_on_fault_prediction_performance_in_software_engineering/19848790/1/files/35264761.pdf"
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A2121123409",
+        "display_name": "Trevor J. Hall",
+        "orcid": "https://orcid.org/0000-0002-0427-6325"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I59433898",
+          "display_name": "Brunel University London",
+          "ror": "https://ror.org/00dn4t376",
+          "country_code": "GB",
+          "type": "education"
+        }
+      ],
+      "is_corresponding": null,
+      "raw_affiliation_string": "Dept of Inf. Syst. & Comput., Brunel Univ., Uxbridge, UK"
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A2077460100",
+        "display_name": "Sarah Beecham",
+        "orcid": "https://orcid.org/0000-0003-1584-5447"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I230495080",
+          "display_name": "University of Limerick",
+          "ror": "https://ror.org/00a0n9e72",
+          "country_code": "IE",
+          "type": "education"
+        }
+      ],
+      "is_corresponding": null,
+      "raw_affiliation_string": "LERO - The Irish Software Engineering Research Centre, University of Limerick, Limerick, Ireland"
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A2142735317",
+        "display_name": "David Bowes",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I141584323",
+          "display_name": "University of Hertfordshire",
+          "ror": "https://ror.org/0267vjk41",
+          "country_code": "GB",
+          "type": "education"
+        }
+      ],
+      "is_corresponding": null,
+      "raw_affiliation_string": "Sci. & Technol. Res. Inst., Univ. of Hertfordshire, Hatfield, UK"
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A2157183814",
+        "display_name": "David Gray",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I141584323",
+          "display_name": "University of Hertfordshire",
+          "ror": "https://ror.org/0267vjk41",
+          "country_code": "GB",
+          "type": "education"
+        }
+      ],
+      "is_corresponding": null,
+      "raw_affiliation_string": "Sci. & Technol. Res. Inst., Univ. of Hertfordshire, Hatfield, UK"
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A2005397871",
+        "display_name": "Serena J. Counsell",
+        "orcid": "https://orcid.org/0000-0002-8033-5673"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I59433898",
+          "display_name": "Brunel University London",
+          "ror": "https://ror.org/00dn4t376",
+          "country_code": "GB",
+          "type": "education"
+        }
+      ],
+      "is_corresponding": null,
+      "raw_affiliation_string": "Dept of Inf. Syst. & Comput., Brunel Univ., Uxbridge, UK"
+    }
+  ],
+  "cited_by_count": 832,
+  "biblio": {
+    "volume": "38",
+    "issue": "6",
+    "first_page": "1276",
+    "last_page": "1304"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "concepts": [
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": "0.8312874"
+    },
+    {
+      "id": "https://openalex.org/C45804977",
+      "wikidata": "https://www.wikidata.org/wiki/Q7239673",
+      "display_name": "Predictive modelling",
+      "level": 2,
+      "score": "0.5951123"
+    },
+    {
+      "id": "https://openalex.org/C117447612",
+      "wikidata": "https://www.wikidata.org/wiki/Q1412670",
+      "display_name": "Software quality",
+      "level": 4,
+      "score": "0.57710904"
+    },
+    {
+      "id": "https://openalex.org/C124101348",
+      "wikidata": "https://www.wikidata.org/wiki/Q172491",
+      "display_name": "Data mining",
+      "level": 1,
+      "score": "0.57546335"
+    },
+    {
+      "id": "https://openalex.org/C2779343474",
+      "wikidata": "https://www.wikidata.org/wiki/Q3109175",
+      "display_name": "Context (archaeology)",
+      "level": 2,
+      "score": "0.56149685"
+    },
+    {
+      "id": "https://openalex.org/C119857082",
+      "wikidata": "https://www.wikidata.org/wiki/Q2539",
+      "display_name": "Machine learning",
+      "level": 1,
+      "score": "0.54447806"
+    },
+    {
+      "id": "https://openalex.org/C148483581",
+      "wikidata": "https://www.wikidata.org/wiki/Q446488",
+      "display_name": "Feature selection",
+      "level": 2,
+      "score": "0.531127"
+    },
+    {
+      "id": "https://openalex.org/C151956035",
+      "wikidata": "https://www.wikidata.org/wiki/Q1132755",
+      "display_name": "Logistic regression",
+      "level": 2,
+      "score": "0.4728299"
+    },
+    {
+      "id": "https://openalex.org/C177264268",
+      "wikidata": "https://www.wikidata.org/wiki/Q1514741",
+      "display_name": "Set (abstract data type)",
+      "level": 2,
+      "score": "0.43372405"
+    },
+    {
+      "id": "https://openalex.org/C52001869",
+      "wikidata": "https://www.wikidata.org/wiki/Q812530",
+      "display_name": "Naive Bayes classifier",
+      "level": 3,
+      "score": "0.42497286"
+    },
+    {
+      "id": "https://openalex.org/C200601418",
+      "wikidata": "https://www.wikidata.org/wiki/Q2193887",
+      "display_name": "Reliability engineering",
+      "level": 1,
+      "score": "0.42298663"
+    },
+    {
+      "id": "https://openalex.org/C2777904410",
+      "wikidata": "https://www.wikidata.org/wiki/Q7397",
+      "display_name": "Software",
+      "level": 2,
+      "score": "0.42044693"
+    },
+    {
+      "id": "https://openalex.org/C154945302",
+      "wikidata": "https://www.wikidata.org/wiki/Q11660",
+      "display_name": "Artificial intelligence",
+      "level": 1,
+      "score": "0.3658086"
+    },
+    {
+      "id": "https://openalex.org/C12267149",
+      "wikidata": "https://www.wikidata.org/wiki/Q282453",
+      "display_name": "Support vector machine",
+      "level": 2,
+      "score": "0.17897242"
+    },
+    {
+      "id": "https://openalex.org/C529173508",
+      "wikidata": "https://www.wikidata.org/wiki/Q638608",
+      "display_name": "Software development",
+      "level": 3,
+      "score": "0.16897586"
+    },
+    {
+      "id": "https://openalex.org/C127413603",
+      "wikidata": "https://www.wikidata.org/wiki/Q11023",
+      "display_name": "Engineering",
+      "level": 0,
+      "score": "0.085942656"
+    },
+    {
+      "id": "https://openalex.org/C151730666",
+      "wikidata": "https://www.wikidata.org/wiki/Q7205",
+      "display_name": "Paleontology",
+      "level": 1,
+      "score": "0.0"
+    },
+    {
+      "id": "https://openalex.org/C86803240",
+      "wikidata": "https://www.wikidata.org/wiki/Q420",
+      "display_name": "Biology",
+      "level": 0,
+      "score": "0.0"
+    },
+    {
+      "id": "https://openalex.org/C199360897",
+      "wikidata": "https://www.wikidata.org/wiki/Q9143",
+      "display_name": "Programming language",
+      "level": 1,
+      "score": "0.0"
+    }
+  ],
+  "mesh": [],
+  "locations": [
+    {
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1109/tse.2011.103",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S8351582",
+        "display_name": "IEEE Transactions on Software Engineering",
+        "issn_l": "0098-5589",
+        "issn": [
+          "0098-5589",
+          "1939-3520",
+          "2326-3881"
+        ],
+        "host_organization": "https://openalex.org/P4310320439",
+        "host_organization_name": "IEEE Computer Society",
+        "type": "journal"
+      },
+      "license": null,
+      "version": null
+    },
+    {
+      "is_oa": true,
+      "landing_page_url": "http://hdl.handle.net/10344/1772",
+      "pdf_url": "https://ulir.ul.ie/bitstream/10344/1772/2/2011_hall%20%28a%29.pdf",
+      "source": {
+        "id": "https://openalex.org/S4306400033",
+        "display_name": "Arrow@dit (Dublin Institute of Technology)",
+        "issn_l": null,
+        "issn": null,
+        "host_organization": "https://openalex.org/I115570527",
+        "host_organization_name": "Dublin Institute of Technology",
+        "type": "repository"
+      },
+      "license": "pd",
+      "version": "publishedVersion"
+    },
+    {
+      "is_oa": true,
+      "landing_page_url": "http://hdl.handle.net/10344/1772",
+      "pdf_url": "https://researchrepository.ul.ie/articles/online_resource/A_Systematic_literature_review_on_fault_prediction_performance_in_software_engineering/19848790/1/files/35264761.pdf",
+      "source": {
+        "id": "https://openalex.org/S4306401530",
+        "display_name": "University of Limerick Institutional Repository (University of Limerick)",
+        "issn_l": null,
+        "issn": null,
+        "host_organization": "https://openalex.org/I230495080",
+        "host_organization_name": "University of Limerick",
+        "type": "repository"
+      },
+      "license": "cc-by-nc-sa",
+      "version": "publishedVersion"
+    },
+    {
+      "is_oa": true,
+      "landing_page_url": "http://bura.brunel.ac.uk/handle/2438/5907",
+      "pdf_url": "http://bura.brunel.ac.uk/bitstream/2438/5907/2/Fulltext.pdf",
+      "source": {
+        "id": "https://openalex.org/S4306401473",
+        "display_name": "Brunel University Research Archive (BURA) (Brunel University London)",
+        "issn_l": null,
+        "issn": null,
+        "host_organization": "https://openalex.org/I59433898",
+        "host_organization_name": "Brunel University London",
+        "type": "repository"
+      },
+      "license": "pd",
+      "version": "submittedVersion"
+    }
+  ],
+  "best_oa_location": {
+    "is_oa": true,
+    "landing_page_url": "http://hdl.handle.net/10344/1772",
+    "pdf_url": "https://ulir.ul.ie/bitstream/10344/1772/2/2011_hall%20%28a%29.pdf",
+    "source": {
+      "id": "https://openalex.org/S4306400033",
+      "display_name": "Arrow@dit (Dublin Institute of Technology)",
+      "issn_l": null,
+      "issn": null,
+      "host_organization": "https://openalex.org/I115570527",
+      "host_organization_name": "Dublin Institute of Technology",
+      "type": "repository"
+    },
+    "license": "pd",
+    "version": "publishedVersion"
+  },
+  "alternate_host_venues": [
+    {
+      "id": "https://openalex.org/S8351582",
+      "display_name": "IEEE Transactions on Software Engineering",
+      "type": "journal",
+      "url": null,
+      "is_oa": false,
+      "version": null,
+      "license": null
+    },
+    {
+      "id": "https://openalex.org/S4306400033",
+      "display_name": "Arrow@dit (Dublin Institute of Technology)",
+      "type": "repository",
+      "url": "https://ulir.ul.ie/bitstream/10344/1772/2/2011_hall%20%28a%29.pdf",
+      "is_oa": true,
+      "version": "publishedVersion",
+      "license": "pd"
+    },
+    {
+      "id": "https://openalex.org/S4306401530",
+      "display_name": "University of Limerick Institutional Repository (University of Limerick)",
+      "type": "repository",
+      "url": "https://researchrepository.ul.ie/articles/online_resource/A_Systematic_literature_review_on_fault_prediction_performance_in_software_engineering/19848790/1/files/35264761.pdf",
+      "is_oa": true,
+      "version": "publishedVersion",
+      "license": "cc-by-nc-sa"
+    },
+    {
+      "id": "https://openalex.org/S4306401473",
+      "display_name": "Brunel University Research Archive (BURA) (Brunel University London)",
+      "type": "repository",
+      "url": "http://bura.brunel.ac.uk/bitstream/2438/5907/2/Fulltext.pdf",
+      "is_oa": true,
+      "version": "submittedVersion",
+      "license": "pd"
+    }
+  ],
+  "referenced_works": [
+    "https://openalex.org/W1482971670",
+    "https://openalex.org/W1493788687",
+    "https://openalex.org/W1520427008",
+    "https://openalex.org/W1573396645",
+    "https://openalex.org/W1630929475",
+    "https://openalex.org/W1635138928",
+    "https://openalex.org/W1670613434",
+    "https://openalex.org/W1806390057",
+    "https://openalex.org/W1820030238",
+    "https://openalex.org/W1870939480",
+    "https://openalex.org/W1884377372",
+    "https://openalex.org/W1941659294",
+    "https://openalex.org/W1964062576",
+    "https://openalex.org/W1968150772",
+    "https://openalex.org/W1968652658",
+    "https://openalex.org/W1969319425",
+    "https://openalex.org/W1969646775",
+    "https://openalex.org/W1973306813",
+    "https://openalex.org/W1973540172",
+    "https://openalex.org/W1975040830",
+    "https://openalex.org/W1976526581",
+    "https://openalex.org/W1978014436",
+    "https://openalex.org/W1982220412",
+    "https://openalex.org/W1986453394",
+    "https://openalex.org/W1986683951",
+    "https://openalex.org/W1988510359",
+    "https://openalex.org/W1989664908",
+    "https://openalex.org/W1993220166",
+    "https://openalex.org/W1995029977",
+    "https://openalex.org/W1999519916",
+    "https://openalex.org/W2000251235",
+    "https://openalex.org/W2001203840",
+    "https://openalex.org/W2002242562",
+    "https://openalex.org/W2003885074",
+    "https://openalex.org/W2003934931",
+    "https://openalex.org/W2004619528",
+    "https://openalex.org/W2006658471",
+    "https://openalex.org/W2008085811",
+    "https://openalex.org/W2008230257",
+    "https://openalex.org/W2008871892",
+    "https://openalex.org/W2015910788",
+    "https://openalex.org/W2017439596",
+    "https://openalex.org/W2018828965",
+    "https://openalex.org/W2019338079",
+    "https://openalex.org/W2021235145",
+    "https://openalex.org/W2021509116",
+    "https://openalex.org/W2024650695",
+    "https://openalex.org/W2026312277",
+    "https://openalex.org/W2028840449",
+    "https://openalex.org/W2029853454",
+    "https://openalex.org/W2034259517",
+    "https://openalex.org/W2034445489",
+    "https://openalex.org/W2036296745",
+    "https://openalex.org/W2037002715",
+    "https://openalex.org/W2037316754",
+    "https://openalex.org/W2038464048",
+    "https://openalex.org/W2038979200",
+    "https://openalex.org/W2039081830",
+    "https://openalex.org/W2039785233",
+    "https://openalex.org/W2043387105",
+    "https://openalex.org/W2046671629",
+    "https://openalex.org/W2046830558",
+    "https://openalex.org/W2049831820",
+    "https://openalex.org/W2051518864",
+    "https://openalex.org/W2051978688",
+    "https://openalex.org/W2053679663",
+    "https://openalex.org/W2053724458",
+    "https://openalex.org/W2055784794",
+    "https://openalex.org/W2057780988",
+    "https://openalex.org/W2058698726",
+    "https://openalex.org/W2063719920",
+    "https://openalex.org/W2066325414",
+    "https://openalex.org/W2066610500",
+    "https://openalex.org/W2072785870",
+    "https://openalex.org/W2073767361",
+    "https://openalex.org/W2080066761",
+    "https://openalex.org/W2082314767",
+    "https://openalex.org/W2083221797",
+    "https://openalex.org/W2093995814",
+    "https://openalex.org/W2097044443",
+    "https://openalex.org/W2097840435",
+    "https://openalex.org/W2098340665",
+    "https://openalex.org/W2100034782",
+    "https://openalex.org/W2100270576",
+    "https://openalex.org/W2100959900",
+    "https://openalex.org/W2101227285",
+    "https://openalex.org/W2101728371",
+    "https://openalex.org/W2101819268",
+    "https://openalex.org/W2102193394",
+    "https://openalex.org/W2103458796",
+    "https://openalex.org/W2103715428",
+    "https://openalex.org/W2104124430",
+    "https://openalex.org/W2104882279",
+    "https://openalex.org/W2105300539",
+    "https://openalex.org/W2105776892",
+    "https://openalex.org/W2106423417",
+    "https://openalex.org/W2107323945",
+    "https://openalex.org/W2107406649",
+    "https://openalex.org/W2108610041",
+    "https://openalex.org/W2109571910",
+    "https://openalex.org/W2110431240",
+    "https://openalex.org/W2111517663",
+    "https://openalex.org/W2112658968",
+    "https://openalex.org/W2114124859",
+    "https://openalex.org/W2114191341",
+    "https://openalex.org/W2114363693",
+    "https://openalex.org/W2116110050",
+    "https://openalex.org/W2116173875",
+    "https://openalex.org/W2117593603",
+    "https://openalex.org/W2119016061",
+    "https://openalex.org/W2120484483",
+    "https://openalex.org/W2120738100",
+    "https://openalex.org/W2120999344",
+    "https://openalex.org/W2121835830",
+    "https://openalex.org/W2122696684",
+    "https://openalex.org/W2122839350",
+    "https://openalex.org/W2123279272",
+    "https://openalex.org/W2123551785",
+    "https://openalex.org/W2123675623",
+    "https://openalex.org/W2124545752",
+    "https://openalex.org/W2124618155",
+    "https://openalex.org/W2125036506",
+    "https://openalex.org/W2125343911",
+    "https://openalex.org/W2125951552",
+    "https://openalex.org/W2125999269",
+    "https://openalex.org/W2126166995",
+    "https://openalex.org/W2126626812",
+    "https://openalex.org/W2127929486",
+    "https://openalex.org/W2128233336",
+    "https://openalex.org/W2128666163",
+    "https://openalex.org/W2129857650",
+    "https://openalex.org/W2130883460",
+    "https://openalex.org/W2130898128",
+    "https://openalex.org/W2131712385",
+    "https://openalex.org/W2132887549",
+    "https://openalex.org/W2133894309",
+    "https://openalex.org/W2135198476",
+    "https://openalex.org/W2135250985",
+    "https://openalex.org/W2135370021",
+    "https://openalex.org/W2135989251",
+    "https://openalex.org/W2136047917",
+    "https://openalex.org/W2136137167",
+    "https://openalex.org/W2136234086",
+    "https://openalex.org/W2137235241",
+    "https://openalex.org/W2137367944",
+    "https://openalex.org/W2138154779",
+    "https://openalex.org/W2138517458",
+    "https://openalex.org/W2138827327",
+    "https://openalex.org/W2139749383",
+    "https://openalex.org/W2140117423",
+    "https://openalex.org/W2141051748",
+    "https://openalex.org/W2141482658",
+    "https://openalex.org/W2142481192",
+    "https://openalex.org/W2143085507",
+    "https://openalex.org/W2143174846",
+    "https://openalex.org/W2143189463",
+    "https://openalex.org/W2143637886",
+    "https://openalex.org/W2143746453",
+    "https://openalex.org/W2143878618",
+    "https://openalex.org/W2144177913",
+    "https://openalex.org/W2146474553",
+    "https://openalex.org/W2146752379",
+    "https://openalex.org/W2146947654",
+    "https://openalex.org/W2147105902",
+    "https://openalex.org/W2148068009",
+    "https://openalex.org/W2149014999",
+    "https://openalex.org/W2149586027",
+    "https://openalex.org/W2150361830",
+    "https://openalex.org/W2150472843",
+    "https://openalex.org/W2150786161",
+    "https://openalex.org/W2151553346",
+    "https://openalex.org/W2152408529",
+    "https://openalex.org/W2153627807",
+    "https://openalex.org/W2153863197",
+    "https://openalex.org/W2154343132",
+    "https://openalex.org/W2154446978",
+    "https://openalex.org/W2154816175",
+    "https://openalex.org/W2158333206",
+    "https://openalex.org/W2158561928",
+    "https://openalex.org/W2158744032",
+    "https://openalex.org/W2159610968",
+    "https://openalex.org/W2159662550",
+    "https://openalex.org/W2160274766",
+    "https://openalex.org/W2160928200",
+    "https://openalex.org/W2161470369",
+    "https://openalex.org/W2163590173",
+    "https://openalex.org/W2163732854",
+    "https://openalex.org/W2164636917",
+    "https://openalex.org/W2166692380",
+    "https://openalex.org/W2167846874",
+    "https://openalex.org/W2168079753",
+    "https://openalex.org/W2168483093",
+    "https://openalex.org/W2169721776",
+    "https://openalex.org/W2170186889",
+    "https://openalex.org/W2170866915",
+    "https://openalex.org/W2544013977",
+    "https://openalex.org/W2544961394",
+    "https://openalex.org/W2546195536",
+    "https://openalex.org/W3104516493",
+    "https://openalex.org/W3106318554",
+    "https://openalex.org/W3141989311",
+    "https://openalex.org/W3143822685",
+    "https://openalex.org/W3151987713",
+    "https://openalex.org/W4205170104",
+    "https://openalex.org/W4237979974",
+    "https://openalex.org/W4243127898",
+    "https://openalex.org/W4247369679",
+    "https://openalex.org/W4248521920",
+    "https://openalex.org/W4296394699"
+  ],
+  "related_works": [
+    "https://openalex.org/W2901495210",
+    "https://openalex.org/W3004984807",
+    "https://openalex.org/W3045445851",
+    "https://openalex.org/W3105251098",
+    "https://openalex.org/W3132847290",
+    "https://openalex.org/W3160244858",
+    "https://openalex.org/W4212852473",
+    "https://openalex.org/W4220916329",
+    "https://openalex.org/W4226324856",
+    "https://openalex.org/W4295102877"
+  ],
+  "ngrams_url": "https://api.openalex.org/works/W2151666086/ngrams",
+  "abstract_inverted_index": {
+    "Background:": [
+      0
+    ],
+    "The": [
+      1,
+      96,
+      143
+    ],
+    "accurate": [
+      2
+    ],
+    "prediction": [
+      3,
+      48,
+      61,
+      163
+    ],
+    "of": [
+      4,
+      24,
+      32,
+      46,
+      77,
+      117,
+      161
+    ],
+    "where": [
+      5
+    ],
+    "faults": [
+      6
+    ],
+    "are": [
+      7,
+      138,
+      158,
+      172
+    ],
+    "likely": [
+      8
+    ],
+    "to": [
+      9,
+      57,
+      67,
+      88,
+      102,
+      133,
+      146,
+      150,
+      153
+    ],
+    "occur": [
+      10
+    ],
+    "in": [
+      11,
+      165
+    ],
+    "code": [
+      12
+    ],
+    "can": [
+      13
+    ],
+    "help": [
+      14
+    ],
+    "direct": [
+      15
+    ],
+    "test": [
+      16
+    ],
+    "effort,": [
+      17
+    ],
+    "reduce": [
+      18
+    ],
+    "costs,": [
+      19
+    ],
+    "and": [
+      20,
+      38,
+      74,
+      84,
+      93,
+      179,
+      185
+    ],
+    "improve": [
+      21
+    ],
+    "the": [
+      22,
+      30,
+      34,
+      39,
+      44,
+      72,
+      89
+    ],
+    "quality": [
+      23
+    ],
+    "software.": [
+      25
+    ],
+    "Objective:": [
+      26
+    ],
+    "We": [
+      27,
+      51,
+      70
+    ],
+    "investigate": [
+      28
+    ],
+    "how": [
+      29
+    ],
+    "context": [
+      31
+    ],
+    "models,": [
+      33
+    ],
+    "independent": [
+      35,
+      118
+    ],
+    "variables": [
+      36,
+      119
+    ],
+    "used,": [
+      37
+    ],
+    "modeling": [
+      40,
+      107
+    ],
+    "techniques": [
+      41,
+      108
+    ],
+    "applied": [
+      42,
+      132
+    ],
+    "influence": [
+      43
+    ],
+    "performance": [
+      45,
+      186
+    ],
+    "fault": [
+      47,
+      60,
+      162
+    ],
+    "models.": [
+      49
+    ],
+    "Method:": [
+      50
+    ],
+    "used": [
+      52,
+      122,
+      145
+    ],
+    "a": [
+      53,
+      159,
+      176
+    ],
+    "systematic": [
+      54
+    ],
+    "literature": [
+      55
+    ],
+    "review": [
+      56
+    ],
+    "identify": [
+      58
+    ],
+    "208": [
+      59
+    ],
+    "studies": [
+      62,
+      79,
+      164,
+      171
+    ],
+    "published": [
+      63
+    ],
+    "from": [
+      64
+    ],
+    "January": [
+      65
+    ],
+    "2000": [
+      66
+    ],
+    "December": [
+      68
+    ],
+    "2010.": [
+      69
+    ],
+    "synthesize": [
+      71
+    ],
+    "quantitative": [
+      73
+    ],
+    "qualitative": [
+      75
+    ],
+    "results": [
+      76
+    ],
+    "36": [
+      78
+    ],
+    "which": [
+      80,
+      166,
+      180
+    ],
+    "report": [
+      81,
+      181
+    ],
+    "sufficient": [
+      82
+    ],
+    "contextual": [
+      83
+    ],
+    "methodological": [
+      85
+    ],
+    "information": [
+      86
+    ],
+    "according": [
+      87
+    ],
+    "criteria": [
+      90
+    ],
+    "we": [
+      91
+    ],
+    "develop": [
+      92
+    ],
+    "apply.": [
+      94
+    ],
+    "Results:": [
+      95
+    ],
+    "models": [
+      97,
+      124,
+      137,
+      148
+    ],
+    "that": [
+      98,
+      125,
+      174
+    ],
+    "perform": [
+      99,
+      126
+    ],
+    "well": [
+      100
+    ],
+    "tend": [
+      101
+    ],
+    "be": [
+      103,
+      151
+    ],
+    "based": [
+      104
+    ],
+    "on": [
+      105
+    ],
+    "simple": [
+      106
+    ],
+    "such": [
+      109
+    ],
+    "as": [
+      110
+    ],
+    "Naive": [
+      111
+    ],
+    "Bayes": [
+      112
+    ],
+    "or": [
+      113
+    ],
+    "Logistic": [
+      114
+    ],
+    "Regression.": [
+      115
+    ],
+    "Combinations": [
+      116
+    ],
+    "have": [
+      120
+    ],
+    "been": [
+      121,
+      131
+    ],
+    "by": [
+      123
+    ],
+    "well.": [
+      127,
+      141
+    ],
+    "Feature": [
+      128
+    ],
+    "selection": [
+      129
+    ],
+    "has": [
+      130
+    ],
+    "these": [
+      134
+    ],
+    "combinations": [
+      135
+    ],
+    "when": [
+      136
+    ],
+    "performing": [
+      139
+    ],
+    "particularly": [
+      140
+    ],
+    "Conclusion:": [
+      142
+    ],
+    "methodology": [
+      144,
+      178
+    ],
+    "build": [
+      147
+    ],
+    "seems": [
+      149
+    ],
+    "influential": [
+      152
+    ],
+    "predictive": [
+      154
+    ],
+    "performance.": [
+      155
+    ],
+    "Although": [
+      156
+    ],
+    "there": [
+      157
+    ],
+    "set": [
+      160
+    ],
+    "confidence": [
+      167
+    ],
+    "is": [
+      168
+    ],
+    "possible,": [
+      169
+    ],
+    "more": [
+      170
+    ],
+    "needed": [
+      173
+    ],
+    "use": [
+      175
+    ],
+    "reliable": [
+      177
+    ],
+    "their": [
+      182
+    ],
+    "context,": [
+      183
+    ],
+    "methodology,": [
+      184
+    ],
+    "comprehensively.": [
+      187
+    ]
+  },
+  "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2151666086",
+  "counts_by_year": [
+    {
+      "year": 2023,
+      "cited_by_count": 19
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 76
+    },
+    {
+      "year": 2021,
+      "cited_by_count": 95
+    },
+    {
+      "year": 2020,
+      "cited_by_count": 112
+    },
+    {
+      "year": 2019,
+      "cited_by_count": 98
+    },
+    {
+      "year": 2018,
+      "cited_by_count": 95
+    },
+    {
+      "year": 2017,
+      "cited_by_count": 71
+    },
+    {
+      "year": 2016,
+      "cited_by_count": 90
+    },
+    {
+      "year": 2015,
+      "cited_by_count": 76
+    },
+    {
+      "year": 2014,
+      "cited_by_count": 51
+    },
+    {
+      "year": 2013,
+      "cited_by_count": 36
+    },
+    {
+      "year": 2012,
+      "cited_by_count": 12
+    }
+  ],
+  "updated_date": "2023-03-13T21:12:47.668618",
+  "created_date": "2016-06-24"
+}

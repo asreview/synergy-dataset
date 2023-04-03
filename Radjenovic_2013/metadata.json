@@ -4,10 +4,7 @@
     "doi": "10.1007/s10664-017-9587-0"
   },
   "publication": {
-    "doi": "10.1016/j.infsof.2013.02.009",
-    "citation": {
-      "apa": "Radjenovi\u0107, D., Heri\u010dko, M., Torkar, R., & \u017divkovi\u010d, A. (2013). Software fault prediction metrics: A systematic literature review. Information and Software Technology, 55(8), 1397\u20131418. https://doi.org/10.1016/j.infsof.2013.02.009\n"
-    }
+    "doi": "10.1016/j.infsof.2013.02.009"
   },
   "data": {
     "doi": "10.5281/zenodo.1162952",

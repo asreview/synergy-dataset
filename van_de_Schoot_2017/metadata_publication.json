@@ -1,0 +1,817 @@
+{
+  "id": "https://openalex.org/W2555629321",
+  "doi": "https://doi.org/10.1080/10705511.2016.1247646",
+  "title": "The GRoLTS-Checklist: Guidelines for Reporting on Latent Trajectory Studies",
+  "display_name": "The GRoLTS-Checklist: Guidelines for Reporting on Latent Trajectory Studies",
+  "publication_year": 2017,
+  "publication_date": "2017-05-04",
+  "ids": {
+    "openalex": "https://openalex.org/W2555629321",
+    "doi": "https://doi.org/10.1080/10705511.2016.1247646",
+    "mag": "2555629321"
+  },
+  "primary_location": {
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1080/10705511.2016.1247646",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S78020522",
+      "display_name": "Structural Equation Modeling",
+      "issn_l": "1070-5511",
+      "issn": [
+        "1532-8007",
+        "1070-5511"
+      ],
+      "host_organization": "https://openalex.org/P4310320547",
+      "host_organization_name": "Taylor & Francis",
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "version": "publishedVersion"
+  },
+  "host_venue": {
+    "id": "https://openalex.org/S78020522",
+    "issn_l": "1070-5511",
+    "issn": [
+      "1532-8007",
+      "1070-5511"
+    ],
+    "display_name": "Structural Equation Modeling",
+    "publisher": "Taylor & Francis",
+    "type": "journal",
+    "url": "https://doi.org/10.1080/10705511.2016.1247646",
+    "is_oa": true,
+    "version": "publishedVersion",
+    "license": "cc-by"
+  },
+  "type": "journal-article",
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "hybrid",
+    "oa_url": "https://doi.org/10.1080/10705511.2016.1247646"
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A2188684945",
+        "display_name": "Rens van de Schoot",
+        "orcid": "https://orcid.org/0000-0001-7736-2091"
+      },
+      "institutions": [
+        {
+          "id": null,
+          "display_name": "Utrecht University, The Netherlands, and North-West University, South Africa",
+          "ror": null,
+          "country_code": null,
+          "type": null
+        }
+      ],
+      "is_corresponding": null,
+      "raw_affiliation_string": "Utrecht University, The Netherlands, and North-West University, South Africa"
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A2016134422",
+        "display_name": "Marit Sijbrandij",
+        "orcid": "https://orcid.org/0000-0001-5430-9810"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210124285",
+          "display_name": "EMGO Institute for Health and Care Research",
+          "ror": "https://ror.org/0258apj61",
+          "country_code": "NL",
+          "type": "facility"
+        }
+      ],
+      "is_corresponding": null,
+      "raw_affiliation_string": "Vrije University Amsterdam, The Netherlands, and EMGO Institute for Health and Care Research, The Netherlands"
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A2395081994",
+        "display_name": "Sonja D. Winter",
+        "orcid": "https://orcid.org/0000-0002-2203-002X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I193662353",
+          "display_name": "Utrecht University",
+          "ror": "https://ror.org/04pp8hn57",
+          "country_code": "NL",
+          "type": "education"
+        }
+      ],
+      "is_corresponding": null,
+      "raw_affiliation_string": "UTRECHT UNIVERSITY,THE NETHERLANDS,"
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A2302361410",
+        "display_name": "Sarah Depaoli",
+        "orcid": "https://orcid.org/0000-0002-1277-0462"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I156087764",
+          "display_name": "University of California, Merced",
+          "ror": "https://ror.org/00d9ah105",
+          "country_code": "US",
+          "type": "education"
+        }
+      ],
+      "is_corresponding": null,
+      "raw_affiliation_string": "University of California Merced"
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A2126209104",
+        "display_name": "Jeroen K. Vermunt",
+        "orcid": "https://orcid.org/0000-0001-9053-9330"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I193700539",
+          "display_name": "Tilburg University",
+          "ror": "https://ror.org/04b8v1s79",
+          "country_code": "NL",
+          "type": "education"
+        }
+      ],
+      "is_corresponding": null,
+      "raw_affiliation_string": "Tilburg University, the Netherlands"
+    }
+  ],
+  "cited_by_count": 284,
+  "biblio": {
+    "volume": "24",
+    "issue": "3",
+    "first_page": "451",
+    "last_page": "467"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "concepts": [
+    {
+      "id": "https://openalex.org/C2779356329",
+      "wikidata": "https://www.wikidata.org/wiki/Q922625",
+      "display_name": "Checklist",
+      "level": 2,
+      "score": "0.7770599"
+    },
+    {
+      "id": "https://openalex.org/C51167844",
+      "wikidata": "https://www.wikidata.org/wiki/Q4422623",
+      "display_name": "Latent variable",
+      "level": 2,
+      "score": "0.6194546"
+    },
+    {
+      "id": "https://openalex.org/C71104824",
+      "wikidata": "https://www.wikidata.org/wiki/Q1476639",
+      "display_name": "Structural equation modeling",
+      "level": 2,
+      "score": "0.5901092"
+    },
+    {
+      "id": "https://openalex.org/C13662910",
+      "wikidata": "https://www.wikidata.org/wiki/Q193139",
+      "display_name": "Trajectory",
+      "level": 2,
+      "score": "0.5743393"
+    },
+    {
+      "id": "https://openalex.org/C15744967",
+      "wikidata": "https://www.wikidata.org/wiki/Q9418",
+      "display_name": "Psychology",
+      "level": 0,
+      "score": "0.53525"
+    },
+    {
+      "id": "https://openalex.org/C149782125",
+      "wikidata": "https://www.wikidata.org/wiki/Q160039",
+      "display_name": "Econometrics",
+      "level": 1,
+      "score": "0.42969346"
+    },
+    {
+      "id": "https://openalex.org/C105795698",
+      "wikidata": "https://www.wikidata.org/wiki/Q12483",
+      "display_name": "Statistics",
+      "level": 1,
+      "score": "0.38362145"
+    },
+    {
+      "id": "https://openalex.org/C75630572",
+      "wikidata": "https://www.wikidata.org/wiki/Q538904",
+      "display_name": "Applied psychology",
+      "level": 1,
+      "score": "0.36367074"
+    },
+    {
+      "id": "https://openalex.org/C180747234",
+      "wikidata": "https://www.wikidata.org/wiki/Q23373",
+      "display_name": "Cognitive psychology",
+      "level": 1,
+      "score": "0.23365736"
+    },
+    {
+      "id": "https://openalex.org/C33923547",
+      "wikidata": "https://www.wikidata.org/wiki/Q395",
+      "display_name": "Mathematics",
+      "level": 0,
+      "score": "0.21170634"
+    },
+    {
+      "id": "https://openalex.org/C121332964",
+      "wikidata": "https://www.wikidata.org/wiki/Q413",
+      "display_name": "Physics",
+      "level": 0,
+      "score": "0.0"
+    },
+    {
+      "id": "https://openalex.org/C1276947",
+      "wikidata": "https://www.wikidata.org/wiki/Q333",
+      "display_name": "Astronomy",
+      "level": 1,
+      "score": "0.0"
+    }
+  ],
+  "mesh": [],
+  "locations": [
+    {
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1080/10705511.2016.1247646",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S78020522",
+        "display_name": "Structural Equation Modeling",
+        "issn_l": "1070-5511",
+        "issn": [
+          "1532-8007",
+          "1070-5511"
+        ],
+        "host_organization": "https://openalex.org/P4310320547",
+        "host_organization_name": "Taylor & Francis",
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "version": "publishedVersion"
+    },
+    {
+      "is_oa": true,
+      "landing_page_url": "https://dspace.library.uu.nl/handle/1874/361603",
+      "pdf_url": "https://dspace.library.uu.nl/bitstream/1874/361603/1/GRoLTS.pdf",
+      "source": {
+        "id": "https://openalex.org/S4306401843",
+        "display_name": "Data Archiving and Networked Services (DANS)",
+        "issn_l": null,
+        "issn": null,
+        "host_organization": "https://openalex.org/I1322597698",
+        "host_organization_name": "DANS",
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "version": "publishedVersion"
+    },
+    {
+      "is_oa": true,
+      "landing_page_url": "https://research.tilburguniversity.edu/en/publications/712249f4-17e0-4072-9204-fea5ab1822fa",
+      "pdf_url": "https://pure.uvt.nl/ws/files/13630495/MTO_Vermunt_GRoLTS_SEM_open_access_2016.pdf",
+      "source": {
+        "id": "https://openalex.org/S4306401843",
+        "display_name": "Data Archiving and Networked Services (DANS)",
+        "issn_l": null,
+        "issn": null,
+        "host_organization": "https://openalex.org/I1322597698",
+        "host_organization_name": "DANS",
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "version": "publishedVersion"
+    },
+    {
+      "is_oa": true,
+      "landing_page_url": "https://dspace.library.uu.nl/handle/1874/361603",
+      "pdf_url": "https://dspace.library.uu.nl/bitstream/handle/1874/361603/GRoLTS.pdf?sequence=1&isAllowed=y",
+      "source": {
+        "id": "https://openalex.org/S4306401649",
+        "display_name": "Utrecht University Repository (Utrecht University)",
+        "issn_l": null,
+        "issn": null,
+        "host_organization": "https://openalex.org/I193662353",
+        "host_organization_name": "Utrecht University",
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "version": "publishedVersion"
+    }
+  ],
+  "best_oa_location": {
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1080/10705511.2016.1247646",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S78020522",
+      "display_name": "Structural Equation Modeling",
+      "issn_l": "1070-5511",
+      "issn": [
+        "1532-8007",
+        "1070-5511"
+      ],
+      "host_organization": "https://openalex.org/P4310320547",
+      "host_organization_name": "Taylor & Francis",
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "version": "publishedVersion"
+  },
+  "alternate_host_venues": [
+    {
+      "id": "https://openalex.org/S78020522",
+      "display_name": "Structural Equation Modeling",
+      "type": "journal",
+      "url": "https://doi.org/10.1080/10705511.2016.1247646",
+      "is_oa": true,
+      "version": "publishedVersion",
+      "license": "cc-by"
+    },
+    {
+      "id": "https://openalex.org/S4306401843",
+      "display_name": "Data Archiving and Networked Services (DANS)",
+      "type": "repository",
+      "url": "https://dspace.library.uu.nl/bitstream/1874/361603/1/GRoLTS.pdf",
+      "is_oa": true,
+      "version": "publishedVersion",
+      "license": "cc-by"
+    },
+    {
+      "id": "https://openalex.org/S4306401649",
+      "display_name": "Utrecht University Repository (Utrecht University)",
+      "type": "repository",
+      "url": "https://dspace.library.uu.nl/bitstream/handle/1874/361603/GRoLTS.pdf?sequence=1&isAllowed=y",
+      "is_oa": true,
+      "version": "publishedVersion",
+      "license": "cc-by"
+    }
+  ],
+  "referenced_works": [
+    "https://openalex.org/W1489326049",
+    "https://openalex.org/W1528177290",
+    "https://openalex.org/W1529485074",
+    "https://openalex.org/W1585073616",
+    "https://openalex.org/W1587682423",
+    "https://openalex.org/W1598612182",
+    "https://openalex.org/W1767470961",
+    "https://openalex.org/W1797102921",
+    "https://openalex.org/W1896691216",
+    "https://openalex.org/W1927502634",
+    "https://openalex.org/W1941999681",
+    "https://openalex.org/W1964072811",
+    "https://openalex.org/W1965961207",
+    "https://openalex.org/W1995078399",
+    "https://openalex.org/W1999405554",
+    "https://openalex.org/W2002592933",
+    "https://openalex.org/W2013071495",
+    "https://openalex.org/W2013698955",
+    "https://openalex.org/W2018516812",
+    "https://openalex.org/W2019368684",
+    "https://openalex.org/W2020559865",
+    "https://openalex.org/W2040133034",
+    "https://openalex.org/W2041960457",
+    "https://openalex.org/W2044579390",
+    "https://openalex.org/W2055903652",
+    "https://openalex.org/W2057964179",
+    "https://openalex.org/W2061736358",
+    "https://openalex.org/W2064685291",
+    "https://openalex.org/W2067829136",
+    "https://openalex.org/W2071439821",
+    "https://openalex.org/W2072221629",
+    "https://openalex.org/W2072620887",
+    "https://openalex.org/W2075344639",
+    "https://openalex.org/W2075970420",
+    "https://openalex.org/W2077931939",
+    "https://openalex.org/W2079817125",
+    "https://openalex.org/W2080725209",
+    "https://openalex.org/W2084378968",
+    "https://openalex.org/W2090330784",
+    "https://openalex.org/W2094358882",
+    "https://openalex.org/W2098223341",
+    "https://openalex.org/W2098405376",
+    "https://openalex.org/W2104876436",
+    "https://openalex.org/W2107377724",
+    "https://openalex.org/W2113788769",
+    "https://openalex.org/W2114909733",
+    "https://openalex.org/W2118079952",
+    "https://openalex.org/W2118265605",
+    "https://openalex.org/W2121236536",
+    "https://openalex.org/W2121297553",
+    "https://openalex.org/W2123866144",
+    "https://openalex.org/W2124149447",
+    "https://openalex.org/W2124295641",
+    "https://openalex.org/W2126539575",
+    "https://openalex.org/W2139347187",
+    "https://openalex.org/W2142974976",
+    "https://openalex.org/W2143893437",
+    "https://openalex.org/W2150921722",
+    "https://openalex.org/W2156267802",
+    "https://openalex.org/W2159986999",
+    "https://openalex.org/W2161483705",
+    "https://openalex.org/W2168035806",
+    "https://openalex.org/W2168175751",
+    "https://openalex.org/W2208973571",
+    "https://openalex.org/W2331818908",
+    "https://openalex.org/W2480133395",
+    "https://openalex.org/W4206072937",
+    "https://openalex.org/W4239270609",
+    "https://openalex.org/W4240144505",
+    "https://openalex.org/W4249831151",
+    "https://openalex.org/W4252881803"
+  ],
+  "related_works": [
+    "https://openalex.org/W1513412068",
+    "https://openalex.org/W1985321835",
+    "https://openalex.org/W2041696389",
+    "https://openalex.org/W2055841549",
+    "https://openalex.org/W2330693952",
+    "https://openalex.org/W2781156747",
+    "https://openalex.org/W2803568088",
+    "https://openalex.org/W2804541454",
+    "https://openalex.org/W3122938590",
+    "https://openalex.org/W3123103529"
+  ],
+  "ngrams_url": "https://api.openalex.org/works/W2555629321/ngrams",
+  "abstract_inverted_index": {
+    "Estimating": [
+      0
+    ],
+    "models": [
+      1
+    ],
+    "within": [
+      2
+    ],
+    "the": [
+      3,
+      24,
+      76
+    ],
+    "mixture": [
+      4,
+      10
+    ],
+    "model": [
+      5
+    ],
+    "framework,": [
+      6
+    ],
+    "like": [
+      7
+    ],
+    "latent": [
+      8,
+      14,
+      38,
+      79
+    ],
+    "growth": [
+      9,
+      16
+    ],
+    "modeling": [
+      11
+    ],
+    "(LGMM)": [
+      12
+    ],
+    "or": [
+      13,
+      119
+    ],
+    "class": [
+      15
+    ],
+    "analysis": [
+      17,
+      40,
+      81
+    ],
+    "(LCGA),": [
+      18
+    ],
+    "involves": [
+      19
+    ],
+    "making": [
+      20
+    ],
+    "various": [
+      21
+    ],
+    "decisions": [
+      22
+    ],
+    "throughout": [
+      23
+    ],
+    "estimation": [
+      25
+    ],
+    "process.": [
+      26
+    ],
+    "This": [
+      27
+    ],
+    "has": [
+      28
+    ],
+    "led": [
+      29
+    ],
+    "to": [
+      30,
+      67,
+      92,
+      98,
+      114,
+      123
+    ],
+    "a": [
+      31,
+      48,
+      89,
+      99,
+      130
+    ],
+    "wide": [
+      32
+    ],
+    "variety": [
+      33
+    ],
+    "in": [
+      34
+    ],
+    "how": [
+      35
+    ],
+    "results": [
+      36,
+      77,
+      107
+    ],
+    "of": [
+      37,
+      64,
+      78,
+      101,
+      126
+    ],
+    "trajectory": [
+      39,
+      80,
+      109
+    ],
+    "are": [
+      41,
+      103
+    ],
+    "reported.": [
+      42
+    ],
+    "To": [
+      43
+    ],
+    "overcome": [
+      44
+    ],
+    "this": [
+      45
+    ],
+    "issue,": [
+      46
+    ],
+    "using": [
+      47
+    ],
+    "4-round": [
+      49
+    ],
+    "Delphi": [
+      50
+    ],
+    "study,": [
+      51
+    ],
+    "we": [
+      52
+    ],
+    "developed": [
+      53
+    ],
+    "Guidelines": [
+      54
+    ],
+    "for": [
+      55,
+      108
+    ],
+    "Reporting": [
+      56
+    ],
+    "on": [
+      57
+    ],
+    "Latent": [
+      58
+    ],
+    "Trajectory": [
+      59
+    ],
+    "Studies": [
+      60
+    ],
+    "(GRoLTS).": [
+      61
+    ],
+    "The": [
+      62
+    ],
+    "purpose": [
+      63
+    ],
+    "GRoLTS": [
+      65,
+      113
+    ],
+    "is": [
+      66
+    ],
+    "present": [
+      68
+    ],
+    "criteria": [
+      69
+    ],
+    "that": [
+      70
+    ],
+    "should": [
+      71
+    ],
+    "be": [
+      72
+    ],
+    "included": [
+      73
+    ],
+    "when": [
+      74,
+      105
+    ],
+    "reporting": [
+      75,
+      106
+    ],
+    "across": [
+      82
+    ],
+    "research": [
+      83
+    ],
+    "fields.": [
+      84
+    ],
+    "We": [
+      85,
+      111
+    ],
+    "have": [
+      86
+    ],
+    "gone": [
+      87
+    ],
+    "through": [
+      88
+    ],
+    "systematic": [
+      90
+    ],
+    "process": [
+      91
+    ],
+    "identify": [
+      93
+    ],
+    "key": [
+      94
+    ],
+    "components": [
+      95
+    ],
+    "that,": [
+      96
+    ],
+    "according": [
+      97
+    ],
+    "panel": [
+      100
+    ],
+    "experts,": [
+      102
+    ],
+    "necessary": [
+      104
+    ],
+    "studies.": [
+      110
+    ],
+    "applied": [
+      112
+    ],
+    "38": [
+      115
+    ],
+    "papers": [
+      116
+    ],
+    "where": [
+      117
+    ],
+    "LGMM": [
+      118
+    ],
+    "LCGA": [
+      120
+    ],
+    "was": [
+      121
+    ],
+    "used": [
+      122
+    ],
+    "study": [
+      124
+    ],
+    "trajectories": [
+      125
+    ],
+    "posttraumatic": [
+      127
+    ],
+    "stress": [
+      128
+    ],
+    "after": [
+      129
+    ],
+    "traumatic": [
+      131
+    ],
+    "event.": [
+      132
+    ]
+  },
+  "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2555629321",
+  "counts_by_year": [
+    {
+      "year": 2023,
+      "cited_by_count": 13
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 92
+    },
+    {
+      "year": 2021,
+      "cited_by_count": 73
+    },
+    {
+      "year": 2020,
+      "cited_by_count": 53
+    },
+    {
+      "year": 2019,
+      "cited_by_count": 40
+    },
+    {
+      "year": 2018,
+      "cited_by_count": 10
+    },
+    {
+      "year": 2017,
+      "cited_by_count": 3
+    }
+  ],
+  "updated_date": "2023-03-13T13:11:58.087732",
+  "created_date": "2016-11-30"
+}

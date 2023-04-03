@@ -1,0 +1,1149 @@
+{
+  "id": "https://openalex.org/W2761720766",
+  "doi": "https://doi.org/10.1289/ehp1233",
+  "title": "Systematic Review and Meta-Analysis of Early-Life Exposure to Bisphenol A and Obesity-Related Outcomes in Rodents",
+  "display_name": "Systematic Review and Meta-Analysis of Early-Life Exposure to Bisphenol A and Obesity-Related Outcomes in Rodents",
+  "publication_year": 2017,
+  "publication_date": "2017-10-05",
+  "ids": {
+    "openalex": "https://openalex.org/W2761720766",
+    "doi": "https://doi.org/10.1289/ehp1233",
+    "mag": "2761720766",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/28982642",
+    "pmcid": "https://www.ncbi.nlm.nih.gov/pmc/articles/5933326"
+  },
+  "primary_location": {
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1289/ehp1233",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S10446503",
+      "display_name": "Environmental Health Perspectives",
+      "issn_l": "0091-6765",
+      "issn": [
+        "0091-6765",
+        "1552-9924"
+      ],
+      "host_organization": "https://openalex.org/P4310319799",
+      "host_organization_name": "National Institute of Environmental Health Sciences",
+      "type": "journal"
+    },
+    "license": "pd",
+    "version": "publishedVersion"
+  },
+  "host_venue": {
+    "id": "https://openalex.org/S10446503",
+    "issn_l": "0091-6765",
+    "issn": [
+      "0091-6765",
+      "1552-9924"
+    ],
+    "display_name": "Environmental Health Perspectives",
+    "publisher": "National Institute of Environmental Health Sciences",
+    "type": "journal",
+    "url": "https://ehp.niehs.nih.gov/doi/pdf/10.1289/EHP1233",
+    "is_oa": true,
+    "version": "publishedVersion",
+    "license": "pd"
+  },
+  "type": "journal-article",
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "gold",
+    "oa_url": "https://ehp.niehs.nih.gov/doi/pdf/10.1289/EHP1233"
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A2751433150",
+        "display_name": "Pim N.H. Wassenaar",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I865915315",
+          "display_name": "VU Amsterdam",
+          "ror": "https://ror.org/008xxew50",
+          "country_code": "NL",
+          "type": "education"
+        }
+      ],
+      "is_corresponding": false,
+      "raw_affiliation_string": "Department of Chemistry and Biology, Institute for Environmental Studies, Vrije Universiteit Amsterdam, Amsterdam, Netherlands"
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A2195845801",
+        "display_name": "Leonardo Trasande",
+        "orcid": "https://orcid.org/0000-0002-1928-597X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I57206974",
+          "display_name": "New York University",
+          "ror": "https://ror.org/0190ak572",
+          "country_code": "US",
+          "type": "education"
+        }
+      ],
+      "is_corresponding": false,
+      "raw_affiliation_string": "Department of Pediatrics, New York University School of Medicine , New York, New York, USA."
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A4358178363",
+        "display_name": "Juliette Legler",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I865915315",
+          "display_name": "VU Amsterdam",
+          "ror": "https://ror.org/008xxew50",
+          "country_code": "NL",
+          "type": "education"
+        },
+        {
+          "id": "https://openalex.org/I59433898",
+          "display_name": "Brunel University London",
+          "ror": "https://ror.org/00dn4t376",
+          "country_code": "GB",
+          "type": "education"
+        }
+      ],
+      "is_corresponding": false,
+      "raw_affiliation_string": "Department of Chemistry and Biology, Institute for Environmental Studies, Vrije Universiteit Amsterdam, Amsterdam, Netherlands; Department of Life Sciences, Division of Biosciences, Institute of Environment, Health and Societies, College of Health and Life Sciences, Brunel University London, Uxbridge, UK"
+    }
+  ],
+  "cited_by_count": 67,
+  "biblio": {
+    "volume": "125",
+    "issue": "10",
+    "first_page": "106001",
+    "last_page": "106001"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "concepts": [
+    {
+      "id": "https://openalex.org/C95190672",
+      "wikidata": "https://www.wikidata.org/wiki/Q815382",
+      "display_name": "Meta-analysis",
+      "level": 2,
+      "score": "0.74696076"
+    },
+    {
+      "id": "https://openalex.org/C511355011",
+      "wikidata": "https://www.wikidata.org/wiki/Q12174",
+      "display_name": "Obesity",
+      "level": 2,
+      "score": "0.62700355"
+    },
+    {
+      "id": "https://openalex.org/C71924100",
+      "wikidata": "https://www.wikidata.org/wiki/Q11190",
+      "display_name": "Medicine",
+      "level": 0,
+      "score": "0.6261244"
+    },
+    {
+      "id": "https://openalex.org/C44249647",
+      "wikidata": "https://www.wikidata.org/wiki/Q208498",
+      "display_name": "Confidence interval",
+      "level": 2,
+      "score": "0.60349995"
+    },
+    {
+      "id": "https://openalex.org/C2780613262",
+      "wikidata": "https://www.wikidata.org/wiki/Q223739",
+      "display_name": "Leptin",
+      "level": 3,
+      "score": "0.510833"
+    },
+    {
+      "id": "https://openalex.org/C126322002",
+      "wikidata": "https://www.wikidata.org/wiki/Q11180",
+      "display_name": "Internal medicine",
+      "level": 1,
+      "score": "0.50973433"
+    },
+    {
+      "id": "https://openalex.org/C168743327",
+      "wikidata": "https://www.wikidata.org/wiki/Q1826427",
+      "display_name": "Random effects model",
+      "level": 3,
+      "score": "0.4446321"
+    },
+    {
+      "id": "https://openalex.org/C189708586",
+      "wikidata": "https://www.wikidata.org/wiki/Q1504425",
+      "display_name": "Systematic review",
+      "level": 3,
+      "score": "0.41947657"
+    },
+    {
+      "id": "https://openalex.org/C2779473830",
+      "wikidata": "https://www.wikidata.org/wiki/Q1540899",
+      "display_name": "MEDLINE",
+      "level": 2,
+      "score": "0.25638813"
+    },
+    {
+      "id": "https://openalex.org/C86803240",
+      "wikidata": "https://www.wikidata.org/wiki/Q420",
+      "display_name": "Biology",
+      "level": 0,
+      "score": "0.18782884"
+    },
+    {
+      "id": "https://openalex.org/C55493867",
+      "wikidata": "https://www.wikidata.org/wiki/Q7094",
+      "display_name": "Biochemistry",
+      "level": 1,
+      "score": "0.0"
+    }
+  ],
+  "mesh": [
+    {
+      "descriptor_ui": "D001559",
+      "descriptor_name": "Benzhydryl Compounds",
+      "qualifier_ui": "Q000633",
+      "qualifier_name": "toxicity",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D004781",
+      "descriptor_name": "Environmental Exposure",
+      "qualifier_ui": "Q000032",
+      "qualifier_name": "analysis",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D004785",
+      "descriptor_name": "Environmental Pollutants",
+      "qualifier_ui": "Q000633",
+      "qualifier_name": "toxicity",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D010636",
+      "descriptor_name": "Phenols",
+      "qualifier_ui": "Q000633",
+      "qualifier_name": "toxicity",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D000273",
+      "descriptor_name": "Adipose Tissue",
+      "qualifier_ui": "",
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D050154",
+      "descriptor_name": "Adiposity",
+      "qualifier_ui": "",
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000818",
+      "descriptor_name": "Animals",
+      "qualifier_ui": "",
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D001559",
+      "descriptor_name": "Benzhydryl Compounds",
+      "qualifier_ui": "",
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D001835",
+      "descriptor_name": "Body Weight",
+      "qualifier_ui": "",
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D004781",
+      "descriptor_name": "Environmental Exposure",
+      "qualifier_ui": "Q000009",
+      "qualifier_name": "adverse effects",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D004781",
+      "descriptor_name": "Environmental Exposure",
+      "qualifier_ui": "",
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D004785",
+      "descriptor_name": "Environmental Pollutants",
+      "qualifier_ui": "",
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D009765",
+      "descriptor_name": "Obesity",
+      "qualifier_ui": "",
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D010636",
+      "descriptor_name": "Phenols",
+      "qualifier_ui": "",
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D051381",
+      "descriptor_name": "Rats",
+      "qualifier_ui": "",
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D014280",
+      "descriptor_name": "Triglycerides",
+      "qualifier_ui": "",
+      "qualifier_name": null,
+      "is_major_topic": false
+    }
+  ],
+  "locations": [
+    {
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1289/ehp1233",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S10446503",
+        "display_name": "Environmental Health Perspectives",
+        "issn_l": "0091-6765",
+        "issn": [
+          "0091-6765",
+          "1552-9924"
+        ],
+        "host_organization": "https://openalex.org/P4310319799",
+        "host_organization_name": "National Institute of Environmental Health Sciences",
+        "type": "journal"
+      },
+      "license": "pd",
+      "version": "publishedVersion"
+    },
+    {
+      "is_oa": true,
+      "landing_page_url": "https://europepmc.org/articles/pmc5933326",
+      "pdf_url": "https://europepmc.org/articles/pmc5933326?pdf=render",
+      "source": {
+        "id": "https://openalex.org/S4306400806",
+        "display_name": "Europe PMC (PubMed Central)",
+        "issn_l": null,
+        "issn": null,
+        "host_organization": null,
+        "host_organization_name": "PubMed Central",
+        "type": "repository"
+      },
+      "license": "pd",
+      "version": "publishedVersion"
+    },
+    {
+      "is_oa": true,
+      "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5933326",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S2764455111",
+        "display_name": "PubMed Central",
+        "issn_l": null,
+        "issn": null,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": null,
+        "type": "repository"
+      },
+      "license": null,
+      "version": "acceptedVersion"
+    }
+  ],
+  "best_oa_location": {
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1289/ehp1233",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S10446503",
+      "display_name": "Environmental Health Perspectives",
+      "issn_l": "0091-6765",
+      "issn": [
+        "0091-6765",
+        "1552-9924"
+      ],
+      "host_organization": "https://openalex.org/P4310319799",
+      "host_organization_name": "National Institute of Environmental Health Sciences",
+      "type": "journal"
+    },
+    "license": "pd",
+    "version": "publishedVersion"
+  },
+  "alternate_host_venues": [
+    {
+      "id": "https://openalex.org/S10446503",
+      "display_name": "Environmental Health Perspectives",
+      "type": "journal",
+      "url": "https://ehp.niehs.nih.gov/doi/pdf/10.1289/EHP1233",
+      "is_oa": true,
+      "version": "publishedVersion",
+      "license": "pd"
+    },
+    {
+      "id": "https://openalex.org/S4306400806",
+      "display_name": "Europe PMC (PubMed Central)",
+      "type": "repository",
+      "url": "https://europepmc.org/articles/pmc5933326?pdf=render",
+      "is_oa": true,
+      "version": "publishedVersion",
+      "license": "pd"
+    },
+    {
+      "id": "https://openalex.org/S2764455111",
+      "display_name": "PubMed Central",
+      "type": "repository",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5933326",
+      "is_oa": true,
+      "version": "acceptedVersion",
+      "license": null
+    }
+  ],
+  "referenced_works": [
+    "https://openalex.org/W784232644",
+    "https://openalex.org/W1255897152",
+    "https://openalex.org/W1501835689",
+    "https://openalex.org/W1918204060",
+    "https://openalex.org/W1970358298",
+    "https://openalex.org/W1970760886",
+    "https://openalex.org/W1975752932",
+    "https://openalex.org/W1976398349",
+    "https://openalex.org/W1978590803",
+    "https://openalex.org/W1982942271",
+    "https://openalex.org/W1991334358",
+    "https://openalex.org/W1992238779",
+    "https://openalex.org/W2017707375",
+    "https://openalex.org/W2019609198",
+    "https://openalex.org/W2028466984",
+    "https://openalex.org/W2037728383",
+    "https://openalex.org/W2041717284",
+    "https://openalex.org/W2048775918",
+    "https://openalex.org/W2049069390",
+    "https://openalex.org/W2058571677",
+    "https://openalex.org/W2059126445",
+    "https://openalex.org/W2068630231",
+    "https://openalex.org/W2074587538",
+    "https://openalex.org/W2083230171",
+    "https://openalex.org/W2093448443",
+    "https://openalex.org/W2108087765",
+    "https://openalex.org/W2108242700",
+    "https://openalex.org/W2109346853",
+    "https://openalex.org/W2114729638",
+    "https://openalex.org/W2118421727",
+    "https://openalex.org/W2136138120",
+    "https://openalex.org/W2150272037",
+    "https://openalex.org/W2157559566",
+    "https://openalex.org/W2159140746",
+    "https://openalex.org/W2164074199",
+    "https://openalex.org/W2171338004",
+    "https://openalex.org/W2205803035",
+    "https://openalex.org/W2252869040",
+    "https://openalex.org/W2334337188",
+    "https://openalex.org/W2396246576",
+    "https://openalex.org/W2403186208",
+    "https://openalex.org/W2409759722",
+    "https://openalex.org/W4236169059",
+    "https://openalex.org/W4296816736"
+  ],
+  "related_works": [
+    "https://openalex.org/W2015042281",
+    "https://openalex.org/W2129172028",
+    "https://openalex.org/W2351515880",
+    "https://openalex.org/W2353204715",
+    "https://openalex.org/W2580120351",
+    "https://openalex.org/W2734962020",
+    "https://openalex.org/W2762279224",
+    "https://openalex.org/W2785652967",
+    "https://openalex.org/W2901444000",
+    "https://openalex.org/W4293550979"
+  ],
+  "ngrams_url": "https://api.openalex.org/works/W2761720766/ngrams",
+  "abstract_inverted_index": {
+    "Early-life": [
+      0
+    ],
+    "exposure": [
+      1,
+      35,
+      266
+    ],
+    "to": [
+      2,
+      9,
+      28,
+      36,
+      117,
+      251,
+      267
+    ],
+    "bisphenol": [
+      3
+    ],
+    "A": [
+      4
+    ],
+    "(BPA)": [
+      5
+    ],
+    "has": [
+      6
+    ],
+    "been": [
+      7
+    ],
+    "implicated": [
+      8
+    ],
+    "play": [
+      10
+    ],
+    "a": [
+      11,
+      64,
+      112,
+      173,
+      186
+    ],
+    "role": [
+      12
+    ],
+    "in": [
+      13,
+      63,
+      210,
+      276
+    ],
+    "the": [
+      14,
+      30,
+      39,
+      68,
+      88,
+      96,
+      105,
+      119,
+      216,
+      227
+    ],
+    "development": [
+      15
+    ],
+    "of": [
+      16,
+      22,
+      52,
+      93,
+      99,
+      108,
+      121,
+      221,
+      254
+    ],
+    "obesity.A": [
+      17
+    ],
+    "systematic": [
+      18,
+      261
+    ],
+    "review": [
+      19,
+      262
+    ],
+    "with": [
+      20,
+      177,
+      190,
+      224
+    ],
+    "meta-analyses": [
+      21
+    ],
+    "experimental": [
+      23
+    ],
+    "rodent": [
+      24
+    ],
+    "studies": [
+      25,
+      240
+    ],
+    "was": [
+      26,
+      61,
+      115,
+      236,
+      248
+    ],
+    "conducted": [
+      27
+    ],
+    "answer": [
+      29
+    ],
+    "following": [
+      31
+    ],
+    "question:": [
+      32
+    ],
+    "does": [
+      33
+    ],
+    "early-life": [
+      34,
+      265
+    ],
+    "BPA": [
+      37,
+      150,
+      268
+    ],
+    "affect": [
+      38
+    ],
+    "obesity-related": [
+      40
+    ],
+    "outcomes": [
+      41,
+      243
+    ],
+    "body": [
+      42,
+      191
+    ],
+    "weight,": [
+      43,
+      46
+    ],
+    "fat": [
+      44,
+      152
+    ],
+    "(pad)": [
+      45
+    ],
+    "and": [
+      47,
+      49,
+      58,
+      80,
+      95,
+      111,
+      130,
+      151,
+      165,
+      172,
+      185,
+      212,
+      245,
+      272
+    ],
+    "circulating": [
+      48,
+      273
+    ],
+    "tissue": [
+      50
+    ],
+    "levels": [
+      51,
+      179,
+      275
+    ],
+    "triglycerides,": [
+      53
+    ],
+    "free": [
+      54
+    ],
+    "fatty": [
+      55
+    ],
+    "acids": [
+      56
+    ],
+    "(FFA),": [
+      57
+    ],
+    "leptin?The": [
+      59
+    ],
+    "methodology": [
+      60,
+      114
+    ],
+    "prespecified": [
+      62
+    ],
+    "rigorous": [
+      65
+    ],
+    "protocol": [
+      66
+    ],
+    "using": [
+      67,
+      104,
+      126
+    ],
+    "Systematic": [
+      69
+    ],
+    "Review": [
+      70
+    ],
+    "Centre": [
+      71
+    ],
+    "for": [
+      72,
+      206,
+      241,
+      256
+    ],
+    "Laboratory": [
+      73
+    ],
+    "Animal": [
+      74
+    ],
+    "Experimentation": [
+      75
+    ],
+    "(SYRCLE)": [
+      76
+    ],
+    "approach.": [
+      77
+    ],
+    "Using": [
+      78
+    ],
+    "PubMed": [
+      79
+    ],
+    "EMBASE,": [
+      81
+    ],
+    "we": [
+      82
+    ],
+    "identified": [
+      83
+    ],
+    "61": [
+      84
+    ],
+    "articles": [
+      85,
+      101
+    ],
+    "that": [
+      86,
+      234,
+      246,
+      264
+    ],
+    "met": [
+      87
+    ],
+    "inclusion": [
+      89
+    ],
+    "criteria.": [
+      90
+    ],
+    "The": [
+      91
+    ],
+    "risk": [
+      92,
+      253
+    ],
+    "bias": [
+      94,
+      255
+    ],
+    "methodological": [
+      97
+    ],
+    "quality": [
+      98,
+      120
+    ],
+    "these": [
+      100
+    ],
+    "were": [
+      102,
+      124,
+      141,
+      193
+    ],
+    "assessed": [
+      103,
+      244
+    ],
+    "SYRCLE": [
+      106
+    ],
+    "Risk": [
+      107
+    ],
+    "Bias": [
+      109
+    ],
+    "tool,": [
+      110
+    ],
+    "confidence-rating": [
+      113
+    ],
+    "used": [
+      116
+    ],
+    "score": [
+      118
+    ],
+    "evidence.": [
+      122
+    ],
+    "Meta-analyses": [
+      123
+    ],
+    "performed": [
+      125
+    ],
+    "random": [
+      127
+    ],
+    "effect": [
+      128
+    ],
+    "models": [
+      129
+    ],
+    "standardized": [
+      131
+    ],
+    "mean": [
+      132,
+      138
+    ],
+    "differences": [
+      133,
+      139
+    ],
+    "(SMDs),": [
+      134
+    ],
+    "or,": [
+      135
+    ],
+    "where": [
+      136
+    ],
+    "possible,": [
+      137
+    ],
+    "(MDs)": [
+      140
+    ],
+    "calculated.Overall": [
+      142
+    ],
+    "summary": [
+      143
+    ],
+    "estimates": [
+      144
+    ],
+    "indicated": [
+      145
+    ],
+    "significant": [
+      146,
+      187
+    ],
+    "positive": [
+      147,
+      175,
+      204
+    ],
+    "associations": [
+      148,
+      205
+    ],
+    "between": [
+      149
+    ],
+    "weight": [
+      153,
+      192
+    ],
+    "[SMD=0.67": [
+      154
+    ],
+    "(95%": [
+      155,
+      161,
+      168,
+      181,
+      196
+    ],
+    "CI:": [
+      156,
+      162,
+      169,
+      182,
+      197
+    ],
+    "0.53,": [
+      157,
+      163
+    ],
+    "0.81)],": [
+      158
+    ],
+    "triglycerides": [
+      159
+    ],
+    "[SMD=0.97": [
+      160
+    ],
+    "1.40)],": [
+      164
+    ],
+    "FFA": [
+      166
+    ],
+    "[SMD=0.86": [
+      167
+    ],
+    "0.50,": [
+      170
+    ],
+    "1.22)],": [
+      171
+    ],
+    "nonsignificant": [
+      174
+    ],
+    "association": [
+      176,
+      189
+    ],
+    "leptin": [
+      178
+    ],
+    "[MD=0.37": [
+      180
+    ],
+    "-0.14,": [
+      183
+    ],
+    "0.87)]": [
+      184
+    ],
+    "negative": [
+      188
+    ],
+    "estimated": [
+      194
+    ],
+    "[MD=-0.22": [
+      195
+    ],
+    "-0.37,": [
+      198
+    ],
+    "-0.06)].": [
+      199
+    ],
+    "Subgroup": [
+      200
+    ],
+    "analyses": [
+      201
+    ],
+    "revealed": [
+      202
+    ],
+    "stronger": [
+      203
+    ],
+    "most": [
+      207,
+      257
+    ],
+    "outcome": [
+      208
+    ],
+    "measures": [
+      209
+    ],
+    "males": [
+      211
+    ],
+    "at": [
+      213
+    ],
+    "doses": [
+      214,
+      225
+    ],
+    "below": [
+      215
+    ],
+    "current": [
+      217
+    ],
+    "U.S.": [
+      218
+    ],
+    "reference": [
+      219,
+      228
+    ],
+    "dose": [
+      220
+    ],
+    "50\u03bcg/kg/d": [
+      222
+    ],
+    "compared": [
+      223
+    ],
+    "above": [
+      226
+    ],
+    "dose.": [
+      229
+    ],
+    "It": [
+      230
+    ],
+    "should": [
+      231
+    ],
+    "be": [
+      232
+    ],
+    "noted": [
+      233
+    ],
+    "there": [
+      235,
+      247
+    ],
+    "substantial": [
+      237
+    ],
+    "heterogeneity": [
+      238
+    ],
+    "across": [
+      239
+    ],
+    "all": [
+      242
+    ],
+    "insufficient": [
+      249
+    ],
+    "information": [
+      250
+    ],
+    "assess": [
+      252
+    ],
+    "studies.Findings": [
+      258
+    ],
+    "from": [
+      259
+    ],
+    "our": [
+      260
+    ],
+    "suggest": [
+      263
+    ],
+    "may": [
+      269
+    ],
+    "increase": [
+      270
+    ],
+    "adiposity": [
+      271
+    ],
+    "lipid": [
+      274
+    ],
+    "rodents.": [
+      277
+    ],
+    "https://doi.org/10.1289/EHP1233.": [
+      278
+    ]
+  },
+  "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2761720766",
+  "counts_by_year": [
+    {
+      "year": 2023,
+      "cited_by_count": 3
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 9
+    },
+    {
+      "year": 2021,
+      "cited_by_count": 14
+    },
+    {
+      "year": 2020,
+      "cited_by_count": 16
+    },
+    {
+      "year": 2019,
+      "cited_by_count": 17
+    },
+    {
+      "year": 2018,
+      "cited_by_count": 7
+    },
+    {
+      "year": 2017,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2023-04-02T00:51:05.131819",
+  "created_date": "2017-10-20"
+}

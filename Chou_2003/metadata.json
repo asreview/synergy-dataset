@@ -1,10 +1,10 @@
 {
   "key": "Chou_2003",
   "publication": {
-    "doi": "10.1016/j.jpainsymman.2003.03.003",
-    "citation": {
-      "apa": "Chou, R., Clark, E., & Helfand, M. (2003). Comparative efficacy and safety of long-acting oral opioids for chronic non-cancer pain: a systematic review. Journal of Pain and Symptom Management, 26(5), 1026\u20131048. https://doi.org/10.1016/j.jpainsymman.2003.03.003\n"
-    }
+    "doi": "10.1016/j.jpainsymman.2003.03.003"
+  },
+  "collection": {
+    "doi": "10.1197/jamia.M1929"
   },
   "data": {
     "url": "https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html",

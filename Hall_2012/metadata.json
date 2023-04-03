@@ -4,10 +4,7 @@
     "doi": "10.1007/s10664-017-9587-0"
   },
   "publication": {
-    "doi": "10.1109/TSE.2011.103",
-    "citation": {
-      "apa": "Hall, T., Beecham, S., Bowes, D., Gray, D., & Counsell, S. (2012). A Systematic Literature Review on Fault Prediction Performance in Software Engineering. IEEE Transactions on Software Engineering, 38(6), 1276\u20131304. https://doi.org/10.1109/tse.2011.103\n"
-    }
+    "doi": "10.1109/TSE.2011.103"
   },
   "data": {
     "doi": "10.5281/zenodo.1162952",

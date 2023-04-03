@@ -1,0 +1,1470 @@
+{
+  "id": "https://openalex.org/W2397182203",
+  "doi": "https://doi.org/10.1186/s13643-016-0263-z",
+  "title": "SWIFT-Review: a text-mining workbench for systematic review",
+  "display_name": "SWIFT-Review: a text-mining workbench for systematic review",
+  "publication_year": 2016,
+  "publication_date": "2016-05-23",
+  "ids": {
+    "openalex": "https://openalex.org/W2397182203",
+    "doi": "https://doi.org/10.1186/s13643-016-0263-z",
+    "mag": "2397182203",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/27216467",
+    "pmcid": "https://www.ncbi.nlm.nih.gov/pmc/articles/4877757"
+  },
+  "primary_location": {
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1186/s13643-016-0263-z",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S82452678",
+      "display_name": "Systematic Reviews",
+      "issn_l": "2046-4053",
+      "issn": [
+        "2046-4053"
+      ],
+      "host_organization": "https://openalex.org/P4310319900",
+      "host_organization_name": "Springer Science+Business Media",
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "version": "publishedVersion"
+  },
+  "host_venue": {
+    "id": "https://openalex.org/S82452678",
+    "issn_l": "2046-4053",
+    "issn": [
+      "2046-4053"
+    ],
+    "display_name": "Systematic Reviews",
+    "publisher": "Springer Science+Business Media",
+    "type": "journal",
+    "url": "https://doi.org/10.1186/s13643-016-0263-z",
+    "is_oa": true,
+    "version": "publishedVersion",
+    "license": "cc-by"
+  },
+  "type": "journal-article",
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "gold",
+    "oa_url": "https://doi.org/10.1186/s13643-016-0263-z"
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A4356311246",
+        "display_name": "Brian M. Howard",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I1309191912",
+          "display_name": "Research Triangle Park Foundation",
+          "ror": "https://ror.org/03eqttr49",
+          "country_code": "US",
+          "type": "nonprofit"
+        }
+      ],
+      "is_corresponding": null,
+      "raw_affiliation_string": "Sciome LLC, Research Triangle Park, NC, USA."
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A4334364731",
+        "display_name": "Jason J. Phillips",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I1309191912",
+          "display_name": "Research Triangle Park Foundation",
+          "ror": "https://ror.org/03eqttr49",
+          "country_code": "US",
+          "type": "nonprofit"
+        }
+      ],
+      "is_corresponding": null,
+      "raw_affiliation_string": "Sciome LLC, Research Triangle Park, NC, USA."
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A4359216122",
+        "display_name": "Kyle M. Miller",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I1309191912",
+          "display_name": "Research Triangle Park Foundation",
+          "ror": "https://ror.org/03eqttr49",
+          "country_code": "US",
+          "type": "nonprofit"
+        }
+      ],
+      "is_corresponding": null,
+      "raw_affiliation_string": "Sciome LLC, Research Triangle Park, NC, USA."
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A2508120985",
+        "display_name": "Arpit Tandon",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I1309191912",
+          "display_name": "Research Triangle Park Foundation",
+          "ror": "https://ror.org/03eqttr49",
+          "country_code": "US",
+          "type": "nonprofit"
+        }
+      ],
+      "is_corresponding": null,
+      "raw_affiliation_string": "Sciome LLC, Research Triangle Park, NC, USA."
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A2017514554",
+        "display_name": "Deepak Mav",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I1309191912",
+          "display_name": "Research Triangle Park Foundation",
+          "ror": "https://ror.org/03eqttr49",
+          "country_code": "US",
+          "type": "nonprofit"
+        }
+      ],
+      "is_corresponding": null,
+      "raw_affiliation_string": "Sciome LLC, Research Triangle Park, NC, USA."
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A4358467176",
+        "display_name": "Mihir M. Shah",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I1309191912",
+          "display_name": "Research Triangle Park Foundation",
+          "ror": "https://ror.org/03eqttr49",
+          "country_code": "US",
+          "type": "nonprofit"
+        }
+      ],
+      "is_corresponding": null,
+      "raw_affiliation_string": "Sciome LLC, Research Triangle Park, NC, USA."
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A4334985206",
+        "display_name": "Stephanie Holmgren",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210095140",
+          "display_name": "National Institute of Environmental Health Sciences",
+          "ror": "https://ror.org/00j4k1h63",
+          "country_code": "US",
+          "type": "facility"
+        }
+      ],
+      "is_corresponding": null,
+      "raw_affiliation_string": "Office of Scientific Information Management, National Institute of Environmental Health Sciences, National Institutes of Health, Department of Health and Human Services, Research Triangle Park, USA"
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A4346683615",
+        "display_name": "Katherine E. Pelch",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210095140",
+          "display_name": "National Institute of Environmental Health Sciences",
+          "ror": "https://ror.org/00j4k1h63",
+          "country_code": "US",
+          "type": "facility"
+        }
+      ],
+      "is_corresponding": null,
+      "raw_affiliation_string": "Division of the National Toxicology Program, National Institute of Environmental Health Sciences, National Institutes of Health, Department of Health and Human Services, Research Triangle Park, USA"
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A2171068773",
+        "display_name": "Vickie R. Walker",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210095140",
+          "display_name": "National Institute of Environmental Health Sciences",
+          "ror": "https://ror.org/00j4k1h63",
+          "country_code": "US",
+          "type": "facility"
+        }
+      ],
+      "is_corresponding": null,
+      "raw_affiliation_string": "Division of the National Toxicology Program, National Institute of Environmental Health Sciences, National Institutes of Health, Department of Health and Human Services, Research Triangle Park, USA"
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A4339951073",
+        "display_name": "Andrew A. Rooney",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210095140",
+          "display_name": "National Institute of Environmental Health Sciences",
+          "ror": "https://ror.org/00j4k1h63",
+          "country_code": "US",
+          "type": "facility"
+        }
+      ],
+      "is_corresponding": null,
+      "raw_affiliation_string": "Division of the National Toxicology Program, National Institute of Environmental Health Sciences, National Institutes of Health, Department of Health and Human Services, Research Triangle Park, USA"
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A4356580573",
+        "display_name": "Malcolm R. Macleod",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I98677209",
+          "display_name": "University of Edinburgh",
+          "ror": "https://ror.org/01nrxwf90",
+          "country_code": "GB",
+          "type": "education"
+        }
+      ],
+      "is_corresponding": null,
+      "raw_affiliation_string": "Centre for Clinical Brain Sciences, University of Edinburgh, Scotland, UK"
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A2138062913",
+        "display_name": "Ruchir R. Shah",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I1309191912",
+          "display_name": "Research Triangle Park Foundation",
+          "ror": "https://ror.org/03eqttr49",
+          "country_code": "US",
+          "type": "nonprofit"
+        }
+      ],
+      "is_corresponding": null,
+      "raw_affiliation_string": "Sciome LLC, Research Triangle Park, NC, USA."
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A4354089224",
+        "display_name": "Kristina A. Thayer",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210095140",
+          "display_name": "National Institute of Environmental Health Sciences",
+          "ror": "https://ror.org/00j4k1h63",
+          "country_code": "US",
+          "type": "facility"
+        }
+      ],
+      "is_corresponding": null,
+      "raw_affiliation_string": "Division of the National Toxicology Program, National Institute of Environmental Health Sciences, National Institutes of Health, Department of Health and Human Services, Research Triangle Park, USA"
+    }
+  ],
+  "cited_by_count": 96,
+  "biblio": {
+    "volume": "5",
+    "issue": "1",
+    "first_page": null,
+    "last_page": null
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "concepts": [
+    {
+      "id": "https://openalex.org/C189430467",
+      "wikidata": "https://www.wikidata.org/wiki/Q7293293",
+      "display_name": "Ranking (information retrieval)",
+      "level": 2,
+      "score": "0.6686648"
+    },
+    {
+      "id": "https://openalex.org/C500882744",
+      "wikidata": "https://www.wikidata.org/wiki/Q269236",
+      "display_name": "Latent Dirichlet allocation",
+      "level": 3,
+      "score": "0.636829"
+    },
+    {
+      "id": "https://openalex.org/C116188536",
+      "wikidata": "https://www.wikidata.org/wiki/Q17118377",
+      "display_name": "Swift",
+      "level": 2,
+      "score": "0.6242219"
+    },
+    {
+      "id": "https://openalex.org/C119857082",
+      "wikidata": "https://www.wikidata.org/wiki/Q2539",
+      "display_name": "Machine learning",
+      "level": 1,
+      "score": "0.60985684"
+    },
+    {
+      "id": "https://openalex.org/C176217482",
+      "wikidata": "https://www.wikidata.org/wiki/Q860554",
+      "display_name": "Metric (unit)",
+      "level": 2,
+      "score": "0.59436643"
+    },
+    {
+      "id": "https://openalex.org/C189708586",
+      "wikidata": "https://www.wikidata.org/wiki/Q1504425",
+      "display_name": "Systematic review",
+      "level": 3,
+      "score": "0.54564774"
+    },
+    {
+      "id": "https://openalex.org/C158154518",
+      "wikidata": "https://www.wikidata.org/wiki/Q7310970",
+      "display_name": "Relevance (law)",
+      "level": 2,
+      "score": "0.52852774"
+    },
+    {
+      "id": "https://openalex.org/C94124525",
+      "wikidata": "https://www.wikidata.org/wiki/Q912550",
+      "display_name": "Categorization",
+      "level": 2,
+      "score": "0.5235276"
+    },
+    {
+      "id": "https://openalex.org/C23123220",
+      "wikidata": "https://www.wikidata.org/wiki/Q816826",
+      "display_name": "Information retrieval",
+      "level": 1,
+      "score": "0.5103218"
+    },
+    {
+      "id": "https://openalex.org/C136197465",
+      "wikidata": "https://www.wikidata.org/wiki/Q1729295",
+      "display_name": "Variety (cybernetics)",
+      "level": 2,
+      "score": "0.48760477"
+    },
+    {
+      "id": "https://openalex.org/C2522767166",
+      "wikidata": "https://www.wikidata.org/wiki/Q2374463",
+      "display_name": "Data science",
+      "level": 1,
+      "score": "0.48178813"
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": "0.47225657"
+    },
+    {
+      "id": "https://openalex.org/C71924100",
+      "wikidata": "https://www.wikidata.org/wiki/Q11190",
+      "display_name": "Medicine",
+      "level": 0,
+      "score": "0.43446693"
+    },
+    {
+      "id": "https://openalex.org/C154945302",
+      "wikidata": "https://www.wikidata.org/wiki/Q11660",
+      "display_name": "Artificial intelligence",
+      "level": 1,
+      "score": "0.4339489"
+    },
+    {
+      "id": "https://openalex.org/C124101348",
+      "wikidata": "https://www.wikidata.org/wiki/Q172491",
+      "display_name": "Data mining",
+      "level": 1,
+      "score": "0.4238127"
+    },
+    {
+      "id": "https://openalex.org/C2779473830",
+      "wikidata": "https://www.wikidata.org/wiki/Q1540899",
+      "display_name": "MEDLINE",
+      "level": 2,
+      "score": "0.31691366"
+    },
+    {
+      "id": "https://openalex.org/C171686336",
+      "wikidata": "https://www.wikidata.org/wiki/Q3532085",
+      "display_name": "Topic model",
+      "level": 2,
+      "score": "0.27919376"
+    },
+    {
+      "id": "https://openalex.org/C21547014",
+      "wikidata": "https://www.wikidata.org/wiki/Q1423657",
+      "display_name": "Operations management",
+      "level": 1,
+      "score": "0.0"
+    },
+    {
+      "id": "https://openalex.org/C17744445",
+      "wikidata": "https://www.wikidata.org/wiki/Q36442",
+      "display_name": "Political science",
+      "level": 0,
+      "score": "0.0"
+    },
+    {
+      "id": "https://openalex.org/C199539241",
+      "wikidata": "https://www.wikidata.org/wiki/Q7748",
+      "display_name": "Law",
+      "level": 1,
+      "score": "0.0"
+    },
+    {
+      "id": "https://openalex.org/C162324750",
+      "wikidata": "https://www.wikidata.org/wiki/Q8134",
+      "display_name": "Economics",
+      "level": 0,
+      "score": "0.0"
+    },
+    {
+      "id": "https://openalex.org/C199360897",
+      "wikidata": "https://www.wikidata.org/wiki/Q9143",
+      "display_name": "Programming language",
+      "level": 1,
+      "score": "0.0"
+    }
+  ],
+  "mesh": [
+    {
+      "descriptor_ui": "D000465",
+      "descriptor_name": "Algorithms",
+      "qualifier_ui": "",
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D057225",
+      "descriptor_name": "Data Mining",
+      "qualifier_ui": "",
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D000069550",
+      "descriptor_name": "Machine Learning",
+      "qualifier_ui": "",
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D012196",
+      "descriptor_name": "Review Literature as Topic",
+      "qualifier_ui": "",
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D012984",
+      "descriptor_name": "Software",
+      "qualifier_ui": "",
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D016208",
+      "descriptor_name": "Databases, Factual",
+      "qualifier_ui": "",
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": "",
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D016247",
+      "descriptor_name": "Information Storage and Retrieval",
+      "qualifier_ui": "",
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D016014",
+      "descriptor_name": "Linear Models",
+      "qualifier_ui": "",
+      "qualifier_name": null,
+      "is_major_topic": false
+    }
+  ],
+  "locations": [
+    {
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1186/s13643-016-0263-z",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S82452678",
+        "display_name": "Systematic Reviews",
+        "issn_l": "2046-4053",
+        "issn": [
+          "2046-4053"
+        ],
+        "host_organization": "https://openalex.org/P4310319900",
+        "host_organization_name": "Springer Science+Business Media",
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "version": "publishedVersion"
+    },
+    {
+      "is_oa": true,
+      "landing_page_url": "https://europepmc.org/articles/pmc4877757",
+      "pdf_url": "https://europepmc.org/articles/pmc4877757?pdf=render",
+      "source": {
+        "id": "https://openalex.org/S4306400806",
+        "display_name": "Europe PMC (PubMed Central)",
+        "issn_l": null,
+        "issn": null,
+        "host_organization": null,
+        "host_organization_name": "PubMed Central",
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "version": "publishedVersion"
+    },
+    {
+      "is_oa": true,
+      "landing_page_url": "https://www.research.ed.ac.uk/en/publications/469f810a-4e51-4955-b556-57791fe65abe",
+      "pdf_url": "https://www.pure.ed.ac.uk/ws/files/165323647/s13643_016_0263_z.pdf",
+      "source": {
+        "id": "https://openalex.org/S4306400321",
+        "display_name": "Edinburgh Research Explorer (University of Edinburgh)",
+        "issn_l": null,
+        "issn": null,
+        "host_organization": "https://openalex.org/I98677209",
+        "host_organization_name": "University of Edinburgh",
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "version": "publishedVersion"
+    },
+    {
+      "is_oa": true,
+      "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4877757",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S2764455111",
+        "display_name": "PubMed Central",
+        "issn_l": null,
+        "issn": null,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": null,
+        "type": "repository"
+      },
+      "license": null,
+      "version": "publishedVersion"
+    }
+  ],
+  "best_oa_location": {
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1186/s13643-016-0263-z",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S82452678",
+      "display_name": "Systematic Reviews",
+      "issn_l": "2046-4053",
+      "issn": [
+        "2046-4053"
+      ],
+      "host_organization": "https://openalex.org/P4310319900",
+      "host_organization_name": "Springer Science+Business Media",
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "version": "publishedVersion"
+  },
+  "alternate_host_venues": [
+    {
+      "id": "https://openalex.org/S82452678",
+      "display_name": "Systematic Reviews",
+      "type": "journal",
+      "url": "https://doi.org/10.1186/s13643-016-0263-z",
+      "is_oa": true,
+      "version": "publishedVersion",
+      "license": "cc-by"
+    },
+    {
+      "id": "https://openalex.org/S4306400806",
+      "display_name": "Europe PMC (PubMed Central)",
+      "type": "repository",
+      "url": "https://europepmc.org/articles/pmc4877757?pdf=render",
+      "is_oa": true,
+      "version": "publishedVersion",
+      "license": "cc-by"
+    },
+    {
+      "id": "https://openalex.org/S4306400321",
+      "display_name": "Edinburgh Research Explorer (University of Edinburgh)",
+      "type": "repository",
+      "url": "https://www.pure.ed.ac.uk/ws/files/165323647/s13643_016_0263_z.pdf",
+      "is_oa": true,
+      "version": "publishedVersion",
+      "license": "cc-by"
+    },
+    {
+      "id": "https://openalex.org/S2764455111",
+      "display_name": "PubMed Central",
+      "type": "repository",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4877757",
+      "is_oa": true,
+      "version": "publishedVersion",
+      "license": null
+    }
+  ],
+  "referenced_works": [
+    "https://openalex.org/W168362576",
+    "https://openalex.org/W1576855214",
+    "https://openalex.org/W1629765770",
+    "https://openalex.org/W1982663268",
+    "https://openalex.org/W2000359198",
+    "https://openalex.org/W2024932032",
+    "https://openalex.org/W2032469875",
+    "https://openalex.org/W2037771830",
+    "https://openalex.org/W2079370125",
+    "https://openalex.org/W2091538045",
+    "https://openalex.org/W2092255211",
+    "https://openalex.org/W2099883114",
+    "https://openalex.org/W2138118601",
+    "https://openalex.org/W2146668368",
+    "https://openalex.org/W2164074199",
+    "https://openalex.org/W2174706414",
+    "https://openalex.org/W4313371821"
+  ],
+  "related_works": [
+    "https://openalex.org/W1934841634",
+    "https://openalex.org/W2041353081",
+    "https://openalex.org/W2079020332",
+    "https://openalex.org/W2125703412",
+    "https://openalex.org/W2398196643",
+    "https://openalex.org/W2513723017",
+    "https://openalex.org/W2581240705",
+    "https://openalex.org/W3048366122",
+    "https://openalex.org/W4287690154",
+    "https://openalex.org/W4289552663"
+  ],
+  "ngrams_url": "https://api.openalex.org/works/W2397182203/ngrams",
+  "abstract_inverted_index": {
+    "There": [
+      0
+    ],
+    "is": [
+      1
+    ],
+    "growing": [
+      2
+    ],
+    "interest": [
+      3
+    ],
+    "in": [
+      4,
+      17,
+      173,
+      198,
+      342
+    ],
+    "using": [
+      5,
+      146,
+      234,
+      247,
+      273,
+      299
+    ],
+    "machine": [
+      6,
+      136,
+      274,
+      324
+    ],
+    "learning": [
+      7,
+      275,
+      325
+    ],
+    "approaches": [
+      8
+    ],
+    "to": [
+      9,
+      63,
+      78,
+      111,
+      166,
+      175,
+      276,
+      284,
+      334
+    ],
+    "priority": [
+      10,
+      56,
+      114
+    ],
+    "rank": [
+      11
+    ],
+    "studies": [
+      12,
+      61,
+      171,
+      182
+    ],
+    "and": [
+      13,
+      81,
+      107,
+      128,
+      131,
+      153,
+      183,
+      217,
+      223,
+      232,
+      307,
+      320,
+      323,
+      340
+    ],
+    "reduce": [
+      14,
+      335
+    ],
+    "human": [
+      15,
+      337
+    ],
+    "burden": [
+      16,
+      339
+    ],
+    "screening": [
+      18,
+      280,
+      294,
+      338
+    ],
+    "literature": [
+      19,
+      46,
+      93,
+      202
+    ],
+    "when": [
+      20,
+      298
+    ],
+    "conducting": [
+      21
+    ],
+    "systematic": [
+      22,
+      35
+    ],
+    "reviews.": [
+      23
+    ],
+    "In": [
+      24,
+      303
+    ],
+    "addition,": [
+      25,
+      304
+    ],
+    "identifying": [
+      26,
+      60
+    ],
+    "addressable": [
+      27
+    ],
+    "questions": [
+      28
+    ],
+    "during": [
+      29,
+      75,
+      315
+    ],
+    "the": [
+      30,
+      51,
+      54,
+      71,
+      113,
+      168,
+      185,
+      241,
+      248,
+      251,
+      256,
+      265,
+      282,
+      293,
+      305,
+      316,
+      336
+    ],
+    "problem": [
+      31,
+      76,
+      199,
+      321,
+      343
+    ],
+    "formulation": [
+      32,
+      77
+    ],
+    "phase": [
+      33
+    ],
+    "of": [
+      34,
+      53,
+      73,
+      105,
+      117,
+      124,
+      170,
+      179,
+      227,
+      237,
+      244,
+      262,
+      264,
+      292,
+      310,
+      318
+    ],
+    "review": [
+      36
+    ],
+    "can": [
+      37,
+      312,
+      330
+    ],
+    "be": [
+      38,
+      313,
+      331
+    ],
+    "challenging,": [
+      39
+    ],
+    "especially": [
+      40
+    ],
+    "for": [
+      41,
+      59,
+      135,
+      144,
+      196,
+      205,
+      279
+    ],
+    "topics": [
+      42
+    ],
+    "having": [
+      43
+    ],
+    "a": [
+      44,
+      64,
+      91,
+      103,
+      235
+    ],
+    "large": [
+      45,
+      92
+    ],
+    "base.": [
+      47
+    ],
+    "Here,": [
+      48
+    ],
+    "we": [
+      49
+    ],
+    "assess": [
+      50,
+      112,
+      194
+    ],
+    "performance": [
+      52,
+      116,
+      191,
+      243
+    ],
+    "SWIFT-Review": [
+      55,
+      74,
+      195,
+      214,
+      252,
+      311,
+      329
+    ],
+    "ranking": [
+      57,
+      115,
+      161,
+      253
+    ],
+    "algorithm": [
+      58,
+      148
+    ],
+    "relevant": [
+      62,
+      181
+    ],
+    "given": [
+      65
+    ],
+    "research": [
+      66,
+      83
+    ],
+    "question.": [
+      67
+    ],
+    "We": [
+      68
+    ],
+    "also": [
+      69
+    ],
+    "explore": [
+      70
+    ],
+    "use": [
+      72,
+      197
+    ],
+    "identify,": [
+      79
+    ],
+    "categorize,": [
+      80
+    ],
+    "visualize": [
+      82
+    ],
+    "areas": [
+      84
+    ],
+    "that": [
+      85,
+      149,
+      272
+    ],
+    "are": [
+      86
+    ],
+    "data": [
+      87,
+      100
+    ],
+    "rich/data": [
+      88
+    ],
+    "poor": [
+      89
+    ],
+    "within": [
+      90
+    ],
+    "corpus.Twenty": [
+      94
+    ],
+    "case": [
+      95
+    ],
+    "studies,": [
+      96
+    ],
+    "including": [
+      97
+    ],
+    "15": [
+      98,
+      263
+    ],
+    "public": [
+      99,
+      266
+    ],
+    "sets,": [
+      101
+    ],
+    "representing": [
+      102
+    ],
+    "range": [
+      104
+    ],
+    "complexity": [
+      106
+    ],
+    "size,": [
+      108
+    ],
+    "were": [
+      109,
+      133,
+      141,
+      211,
+      230
+    ],
+    "used": [
+      110,
+      134
+    ],
+    "SWIFT-Review.": [
+      118
+    ],
+    "For": [
+      119
+    ],
+    "each": [
+      120
+    ],
+    "study,": [
+      121
+    ],
+    "seed": [
+      122
+    ],
+    "sets": [
+      123
+    ],
+    "manually": [
+      125
+    ],
+    "annotated": [
+      126
+    ],
+    "included": [
+      127
+    ],
+    "excluded": [
+      129
+    ],
+    "titles": [
+      130
+    ],
+    "abstracts": [
+      132
+    ],
+    "training.": [
+      137
+    ],
+    "The": [
+      138
+    ],
+    "remaining": [
+      139
+    ],
+    "references": [
+      140
+    ],
+    "then": [
+      142
+    ],
+    "ranked": [
+      143
+    ],
+    "relevance": [
+      145
+    ],
+    "an": [
+      147
+    ],
+    "considers": [
+      150
+    ],
+    "term": [
+      151
+    ],
+    "frequency": [
+      152
+    ],
+    "latent": [
+      154
+    ],
+    "Dirichlet": [
+      155
+    ],
+    "allocation": [
+      156
+    ],
+    "(LDA)": [
+      157
+    ],
+    "topic": [
+      158
+    ],
+    "modeling.": [
+      159
+    ],
+    "This": [
+      160
+    ],
+    "was": [
+      162
+    ],
+    "evaluated": [
+      163
+    ],
+    "with": [
+      164,
+      240
+    ],
+    "respect": [
+      165
+    ],
+    "(1)": [
+      167
+    ],
+    "number": [
+      169
+    ],
+    "screened": [
+      172
+    ],
+    "order": [
+      174
+    ],
+    "identify": [
+      176
+    ],
+    "95": [
+      177
+    ],
+    "%": [
+      178,
+      291
+    ],
+    "known": [
+      180
+    ],
+    "(2)": [
+      184
+    ],
+    "\"Work": [
+      186
+    ],
+    "Saved": [
+      187
+    ],
+    "over": [
+      188
+    ],
+    "Sampling\"": [
+      189
+    ],
+    "(WSS)": [
+      190
+    ],
+    "metric.": [
+      192
+    ],
+    "To": [
+      193
+    ],
+    "formulation,": [
+      200
+    ],
+    "PubMed": [
+      201
+    ],
+    "search": [
+      203,
+      228
+    ],
+    "results": [
+      204,
+      229,
+      270
+    ],
+    "171": [
+      206
+    ],
+    "chemicals": [
+      207
+    ],
+    "implicated": [
+      208
+    ],
+    "as": [
+      209,
+      328
+    ],
+    "EDCs": [
+      210
+    ],
+    "uploaded": [
+      212
+    ],
+    "into": [
+      213
+    ],
+    "(264,588": [
+      215
+    ],
+    "studies)": [
+      216
+    ],
+    "categorized": [
+      218
+    ],
+    "based": [
+      219
+    ],
+    "on": [
+      220,
+      259,
+      286
+    ],
+    "evidence": [
+      221
+    ],
+    "stream": [
+      222
+    ],
+    "health": [
+      224
+    ],
+    "outcome.": [
+      225
+    ],
+    "Patterns": [
+      226
+    ],
+    "surveyed": [
+      231
+    ],
+    "visualized": [
+      233
+    ],
+    "variety": [
+      236
+    ],
+    "interactive": [
+      238
+    ],
+    "graphics.Compared": [
+      239
+    ],
+    "reported": [
+      242
+    ],
+    "other": [
+      245
+    ],
+    "tools": [
+      246,
+      333
+    ],
+    "same": [
+      249
+    ],
+    "datasets,": [
+      250
+    ],
+    "procedure": [
+      254
+    ],
+    "obtained": [
+      255
+    ],
+    "highest": [
+      257
+    ],
+    "scores": [
+      258
+    ],
+    "11": [
+      260
+    ],
+    "out": [
+      261
+    ],
+    "datasets.": [
+      267
+    ],
+    "Overall,": [
+      268
+    ],
+    "these": [
+      269
+    ],
+    "suggest": [
+      271
+    ],
+    "triage": [
+      277
+    ],
+    "documents": [
+      278
+    ],
+    "has": [
+      281
+    ],
+    "potential": [
+      283
+    ],
+    "save,": [
+      285
+    ],
+    "average,": [
+      287
+    ],
+    "more": [
+      288
+    ],
+    "than": [
+      289
+    ],
+    "50": [
+      290
+    ],
+    "effort": [
+      295
+    ],
+    "ordinarily": [
+      296
+    ],
+    "required": [
+      297
+    ],
+    "un-ordered": [
+      300
+    ],
+    "document": [
+      301
+    ],
+    "lists.": [
+      302
+    ],
+    "tagging": [
+      306
+    ],
+    "annotation": [
+      308
+    ],
+    "capabilities": [
+      309
+    ],
+    "useful": [
+      314
+    ],
+    "activities": [
+      317
+    ],
+    "scoping": [
+      319
+    ],
+    "formulation.Text-mining": [
+      322
+    ],
+    "software": [
+      326
+    ],
+    "such": [
+      327
+    ],
+    "valuable": [
+      332
+    ],
+    "assist": [
+      341
+    ],
+    "formulation.": [
+      344
+    ]
+  },
+  "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2397182203",
+  "counts_by_year": [
+    {
+      "year": 2023,
+      "cited_by_count": 9
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 23
+    },
+    {
+      "year": 2021,
+      "cited_by_count": 19
+    },
+    {
+      "year": 2020,
+      "cited_by_count": 16
+    },
+    {
+      "year": 2019,
+      "cited_by_count": 10
+    },
+    {
+      "year": 2018,
+      "cited_by_count": 12
+    },
+    {
+      "year": 2017,
+      "cited_by_count": 7
+    }
+  ],
+  "updated_date": "2023-03-26T00:39:57.128107",
+  "created_date": "2016-06-24"
+}

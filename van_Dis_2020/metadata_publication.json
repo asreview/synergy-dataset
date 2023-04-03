@@ -1,0 +1,1307 @@
+{
+  "id": "https://openalex.org/W2990088051",
+  "doi": "https://doi.org/10.1001/jamapsychiatry.2019.3986",
+  "title": "Long-term Outcomes of Cognitive Behavioral Therapy for Anxiety-Related Disorders",
+  "display_name": "Long-term Outcomes of Cognitive Behavioral Therapy for Anxiety-Related Disorders",
+  "publication_year": 2020,
+  "publication_date": "2020-03-01",
+  "ids": {
+    "openalex": "https://openalex.org/W2990088051",
+    "doi": "https://doi.org/10.1001/jamapsychiatry.2019.3986",
+    "mag": "2990088051",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/31758858",
+    "pmcid": "https://www.ncbi.nlm.nih.gov/pmc/articles/6902232"
+  },
+  "primary_location": {
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1001/jamapsychiatry.2019.3986",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S2495708506",
+      "display_name": "JAMA Psychiatry",
+      "issn_l": "2168-622X",
+      "issn": [
+        "2168-6238",
+        "2168-622X"
+      ],
+      "host_organization": "https://openalex.org/P4310320259",
+      "host_organization_name": "American Medical Association",
+      "type": "journal"
+    },
+    "license": null,
+    "version": "publishedVersion"
+  },
+  "host_venue": {
+    "id": "https://openalex.org/S2495708506",
+    "issn_l": "2168-622X",
+    "issn": [
+      "2168-6238",
+      "2168-622X"
+    ],
+    "display_name": "JAMA Psychiatry",
+    "publisher": "American Medical Association",
+    "type": "journal",
+    "url": "https://jamanetwork.com/journals/jamapsychiatry/articlepdf/2756136/jamapsychiatry_van_dis_2019_oi_190085.pdf",
+    "is_oa": true,
+    "version": "publishedVersion",
+    "license": null
+  },
+  "type": "journal-article",
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "bronze",
+    "oa_url": "https://jamanetwork.com/journals/jamapsychiatry/articlepdf/2756136/jamapsychiatry_van_dis_2019_oi_190085.pdf"
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A2809768362",
+        "display_name": "Eva A.M. van Dis",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I193662353",
+          "display_name": "Utrecht University",
+          "ror": "https://ror.org/04pp8hn57",
+          "country_code": "NL",
+          "type": "education"
+        }
+      ],
+      "is_corresponding": null,
+      "raw_affiliation_string": "Department of Clinical Psychology, Utrecht University, Utrecht, The Netherlands."
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A4332862312",
+        "display_name": "Suzanne C. van Veen",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I193662353",
+          "display_name": "Utrecht University",
+          "ror": "https://ror.org/04pp8hn57",
+          "country_code": "NL",
+          "type": "education"
+        }
+      ],
+      "is_corresponding": null,
+      "raw_affiliation_string": "Department of Clinical Psychology, Utrecht University, Utrecht, The Netherlands."
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A4352442250",
+        "display_name": "Muriel A. Hagenaars",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I193662353",
+          "display_name": "Utrecht University",
+          "ror": "https://ror.org/04pp8hn57",
+          "country_code": "NL",
+          "type": "education"
+        }
+      ],
+      "is_corresponding": null,
+      "raw_affiliation_string": "Department of Clinical Psychology, Utrecht University, Utrecht, The Netherlands."
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A1980582483",
+        "display_name": "Neeltje M. Batelaan",
+        "orcid": "https://orcid.org/0000-0001-6444-3781"
+      },
+      "institutions": [
+        {
+          "id": null,
+          "display_name": "Department of Psychiatry, Amsterdam Universitair Medisch Centrum, location Vrije Universiteit medisch centrum, Amsterdam, the Netherlands",
+          "ror": null,
+          "country_code": null,
+          "type": null
+        }
+      ],
+      "is_corresponding": null,
+      "raw_affiliation_string": "Department of Psychiatry, Amsterdam Universitair Medisch Centrum, location Vrije Universiteit medisch centrum, Amsterdam, the Netherlands"
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A4357254009",
+        "display_name": "Claudi L H Bockting",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": null,
+          "display_name": "Department of Psychiatry, Amsterdam Universitair Medisch Centrum, location Academisch Medisch Centrum, University of Amsterdam, Amsterdam, the Netherlands.",
+          "ror": null,
+          "country_code": null,
+          "type": null
+        }
+      ],
+      "is_corresponding": null,
+      "raw_affiliation_string": "Department of Psychiatry, Amsterdam Universitair Medisch Centrum, location Academisch Medisch Centrum, University of Amsterdam, Amsterdam, the Netherlands."
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A4213671198",
+        "display_name": "Rinske M van den Heuvel",
+        "orcid": "https://orcid.org/0000-0002-3835-4686"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I193662353",
+          "display_name": "Utrecht University",
+          "ror": "https://ror.org/04pp8hn57",
+          "country_code": "NL",
+          "type": "education"
+        }
+      ],
+      "is_corresponding": null,
+      "raw_affiliation_string": "Department of Clinical Psychology, Utrecht University, Utrecht, The Netherlands."
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A4358349910",
+        "display_name": "Pim Cuijpers",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I865915315",
+          "display_name": "VU Amsterdam",
+          "ror": "https://ror.org/008xxew50",
+          "country_code": "NL",
+          "type": "education"
+        }
+      ],
+      "is_corresponding": null,
+      "raw_affiliation_string": "Department of Clinical, Neuro-, and Developmental Psychology, Vrije Universiteit Amsterdam, Amsterdam, The Netherlands."
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A4357046981",
+        "display_name": "Iris M. Engelhard",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I193662353",
+          "display_name": "Utrecht University",
+          "ror": "https://ror.org/04pp8hn57",
+          "country_code": "NL",
+          "type": "education"
+        }
+      ],
+      "is_corresponding": null,
+      "raw_affiliation_string": "Department of Clinical Psychology, Utrecht University, Utrecht, The Netherlands."
+    }
+  ],
+  "cited_by_count": 83,
+  "biblio": {
+    "volume": "77",
+    "issue": "3",
+    "first_page": "265",
+    "last_page": "265"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "concepts": [
+    {
+      "id": "https://openalex.org/C558461103",
+      "wikidata": "https://www.wikidata.org/wiki/Q154430",
+      "display_name": "Anxiety",
+      "level": 2,
+      "score": "0.7592043"
+    },
+    {
+      "id": "https://openalex.org/C2781265626",
+      "wikidata": "https://www.wikidata.org/wiki/Q1147152",
+      "display_name": "Cognitive behavioral therapy",
+      "level": 3,
+      "score": "0.6659095"
+    },
+    {
+      "id": "https://openalex.org/C70410870",
+      "wikidata": "https://www.wikidata.org/wiki/Q199906",
+      "display_name": "Clinical psychology",
+      "level": 1,
+      "score": "0.54853743"
+    },
+    {
+      "id": "https://openalex.org/C169900460",
+      "wikidata": "https://www.wikidata.org/wiki/Q2200417",
+      "display_name": "Cognition",
+      "level": 2,
+      "score": "0.5473445"
+    },
+    {
+      "id": "https://openalex.org/C2779477915",
+      "wikidata": "https://www.wikidata.org/wiki/Q13693745",
+      "display_name": "Cognitive therapy",
+      "level": 3,
+      "score": "0.53381044"
+    },
+    {
+      "id": "https://openalex.org/C15744967",
+      "wikidata": "https://www.wikidata.org/wiki/Q9418",
+      "display_name": "Psychology",
+      "level": 0,
+      "score": "0.5278713"
+    },
+    {
+      "id": "https://openalex.org/C61797465",
+      "wikidata": "https://www.wikidata.org/wiki/Q1188986",
+      "display_name": "Term (time)",
+      "level": 2,
+      "score": "0.46835178"
+    },
+    {
+      "id": "https://openalex.org/C2910020395",
+      "wikidata": "https://www.wikidata.org/wiki/Q175854",
+      "display_name": "Phobic disorder",
+      "level": 3,
+      "score": "0.41877353"
+    },
+    {
+      "id": "https://openalex.org/C71924100",
+      "wikidata": "https://www.wikidata.org/wiki/Q11190",
+      "display_name": "Medicine",
+      "level": 0,
+      "score": "0.4117679"
+    },
+    {
+      "id": "https://openalex.org/C118552586",
+      "wikidata": "https://www.wikidata.org/wiki/Q7867",
+      "display_name": "Psychiatry",
+      "level": 1,
+      "score": "0.40891582"
+    },
+    {
+      "id": "https://openalex.org/C542102704",
+      "wikidata": "https://www.wikidata.org/wiki/Q183257",
+      "display_name": "Psychotherapist",
+      "level": 1,
+      "score": "0.37483764"
+    },
+    {
+      "id": "https://openalex.org/C121332964",
+      "wikidata": "https://www.wikidata.org/wiki/Q413",
+      "display_name": "Physics",
+      "level": 0,
+      "score": "0.0"
+    },
+    {
+      "id": "https://openalex.org/C62520636",
+      "wikidata": "https://www.wikidata.org/wiki/Q944",
+      "display_name": "Quantum mechanics",
+      "level": 1,
+      "score": "0.0"
+    }
+  ],
+  "mesh": [],
+  "locations": [
+    {
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1001/jamapsychiatry.2019.3986",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S2495708506",
+        "display_name": "JAMA Psychiatry",
+        "issn_l": "2168-622X",
+        "issn": [
+          "2168-6238",
+          "2168-622X"
+        ],
+        "host_organization": "https://openalex.org/P4310320259",
+        "host_organization_name": "American Medical Association",
+        "type": "journal"
+      },
+      "license": null,
+      "version": "publishedVersion"
+    },
+    {
+      "is_oa": true,
+      "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6902232",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S2764455111",
+        "display_name": "PubMed Central",
+        "issn_l": null,
+        "issn": null,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": null,
+        "type": "repository"
+      },
+      "license": null,
+      "version": "publishedVersion"
+    }
+  ],
+  "best_oa_location": {
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1001/jamapsychiatry.2019.3986",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S2495708506",
+      "display_name": "JAMA Psychiatry",
+      "issn_l": "2168-622X",
+      "issn": [
+        "2168-6238",
+        "2168-622X"
+      ],
+      "host_organization": "https://openalex.org/P4310320259",
+      "host_organization_name": "American Medical Association",
+      "type": "journal"
+    },
+    "license": null,
+    "version": "publishedVersion"
+  },
+  "alternate_host_venues": [
+    {
+      "id": "https://openalex.org/S2495708506",
+      "display_name": "JAMA Psychiatry",
+      "type": "journal",
+      "url": "https://jamanetwork.com/journals/jamapsychiatry/articlepdf/2756136/jamapsychiatry_van_dis_2019_oi_190085.pdf",
+      "is_oa": true,
+      "version": "publishedVersion",
+      "license": null
+    },
+    {
+      "id": "https://openalex.org/S2764455111",
+      "display_name": "PubMed Central",
+      "type": "repository",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6902232",
+      "is_oa": true,
+      "version": "publishedVersion",
+      "license": null
+    }
+  ],
+  "referenced_works": [
+    "https://openalex.org/W1160212399",
+    "https://openalex.org/W1973034665",
+    "https://openalex.org/W1973792605",
+    "https://openalex.org/W1977165561",
+    "https://openalex.org/W1978560738",
+    "https://openalex.org/W1984615306",
+    "https://openalex.org/W1989036306",
+    "https://openalex.org/W1991848381",
+    "https://openalex.org/W1995662284",
+    "https://openalex.org/W2005501262",
+    "https://openalex.org/W2017431756",
+    "https://openalex.org/W2019284559",
+    "https://openalex.org/W2020344785",
+    "https://openalex.org/W2023033852",
+    "https://openalex.org/W2033585778",
+    "https://openalex.org/W2033799919",
+    "https://openalex.org/W2037600975",
+    "https://openalex.org/W2040362267",
+    "https://openalex.org/W2041780061",
+    "https://openalex.org/W2086791094",
+    "https://openalex.org/W2105906660",
+    "https://openalex.org/W2109042404",
+    "https://openalex.org/W2120207805",
+    "https://openalex.org/W2132869325",
+    "https://openalex.org/W2145220156",
+    "https://openalex.org/W2154672619",
+    "https://openalex.org/W2157823046",
+    "https://openalex.org/W2170684975",
+    "https://openalex.org/W2270530722",
+    "https://openalex.org/W2287261023",
+    "https://openalex.org/W2539720341",
+    "https://openalex.org/W2554874129",
+    "https://openalex.org/W2754523004",
+    "https://openalex.org/W2767195986",
+    "https://openalex.org/W2783043299",
+    "https://openalex.org/W2789550774",
+    "https://openalex.org/W2802512234",
+    "https://openalex.org/W2905522132",
+    "https://openalex.org/W4235215133",
+    "https://openalex.org/W4241294122",
+    "https://openalex.org/W4245407195",
+    "https://openalex.org/W4246844796",
+    "https://openalex.org/W4248880250",
+    "https://openalex.org/W4249762511",
+    "https://openalex.org/W4252651158",
+    "https://openalex.org/W4255401126",
+    "https://openalex.org/W4297918764"
+  ],
+  "related_works": [
+    "https://openalex.org/W1123520870",
+    "https://openalex.org/W1544666977",
+    "https://openalex.org/W1972103731",
+    "https://openalex.org/W2043281462",
+    "https://openalex.org/W2078721451",
+    "https://openalex.org/W2087384689",
+    "https://openalex.org/W2087838750",
+    "https://openalex.org/W2111282535",
+    "https://openalex.org/W2754539944",
+    "https://openalex.org/W3024118414"
+  ],
+  "ngrams_url": "https://api.openalex.org/works/W2990088051/ngrams",
+  "abstract_inverted_index": {
+    "Importance": [
+      0
+    ],
+    "Cognitive": [
+      2
+    ],
+    "behavioral": [
+      3,
+      34,
+      119,
+      217,
+      366
+    ],
+    "therapy": [
+      4,
+      35,
+      120,
+      218,
+      367
+    ],
+    "is": [
+      5,
+      16,
+      371
+    ],
+    "recommended": [
+      6
+    ],
+    "for": [
+      7,
+      12,
+      50,
+      176,
+      245,
+      284,
+      305,
+      318,
+      346,
+      368,
+      394,
+      403,
+      411
+    ],
+    "anxiety-related": [
+      8,
+      369
+    ],
+    "disorders,": [
+      9,
+      52
+    ],
+    "but": [
+      10,
+      303,
+      336
+    ],
+    "evidence": [
+      11
+    ],
+    "its": [
+      13
+    ],
+    "long-term": [
+      14,
+      30
+    ],
+    "outcome": [
+      15
+    ],
+    "limited.": [
+      17
+    ],
+    "Objective": [
+      19
+    ],
+    "This": [
+      21
+    ],
+    "systematic": [
+      22
+    ],
+    "review": [
+      23
+    ],
+    "and": [
+      24,
+      57,
+      79,
+      95,
+      111,
+      148,
+      157,
+      171,
+      182,
+      192,
+      231,
+      237,
+      272,
+      299,
+      313,
+      322,
+      355,
+      398,
+      405,
+      425
+    ],
+    "meta-analysis": [
+      25,
+      362
+    ],
+    "aimed": [
+      26
+    ],
+    "to": [
+      27,
+      76,
+      185,
+      189,
+      234,
+      240,
+      329,
+      334,
+      392
+    ],
+    "assess": [
+      28
+    ],
+    "the": [
+      29
+    ],
+    "outcomes": [
+      31,
+      227,
+      375
+    ],
+    "after": [
+      32,
+      180,
+      197,
+      228,
+      327,
+      383
+    ],
+    "cognitive": [
+      33,
+      118,
+      216,
+      365
+    ],
+    "(compared": [
+      36
+    ],
+    "with": [
+      37,
+      91,
+      122,
+      127,
+      133,
+      220,
+      225,
+      254,
+      308,
+      349,
+      373,
+      377,
+      418
+    ],
+    "care": [
+      38
+    ],
+    "as": [
+      39
+    ],
+    "usual,": [
+      40
+    ],
+    "relaxation,": [
+      41
+    ],
+    "psychoeducation,": [
+      42
+    ],
+    "pill": [
+      43
+    ],
+    "placebo,": [
+      44
+    ],
+    "supportive": [
+      45
+    ],
+    "therapy,": [
+      46
+    ],
+    "or": [
+      47,
+      134,
+      143,
+      255,
+      309,
+      350,
+      408
+    ],
+    "waiting": [
+      48
+    ],
+    "list)": [
+      49
+    ],
+    "anxiety": [
+      51,
+      92,
+      129,
+      138,
+      177,
+      248,
+      261,
+      286,
+      295,
+      396,
+      400
+    ],
+    "posttraumatic": [
+      53
+    ],
+    "stress": [
+      54
+    ],
+    "disorder": [
+      55,
+      59,
+      132,
+      249,
+      253,
+      262,
+      287,
+      296,
+      307,
+      348,
+      397
+    ],
+    "(PTSD),": [
+      56
+    ],
+    "obsessive-compulsive": [
+      58
+    ],
+    "(OCD).": [
+      60
+    ],
+    "Data": [
+      62,
+      146,
+      161
+    ],
+    "Sources": [
+      63
+    ],
+    "English-language": [
+      65
+    ],
+    "publications": [
+      66
+    ],
+    "were": [
+      67,
+      162,
+      211,
+      281,
+      332,
+      337,
+      390
+    ],
+    "identified": [
+      68
+    ],
+    "from": [
+      69
+    ],
+    "PubMed,": [
+      70
+    ],
+    "PsycINFO,": [
+      71
+    ],
+    "Embase,": [
+      72
+    ],
+    "Cochrane,": [
+      73
+    ],
+    "OpenGrey": [
+      74
+    ],
+    "(1980": [
+      75
+    ],
+    "January": [
+      77
+    ],
+    "2019),": [
+      78
+    ],
+    "recent": [
+      80
+    ],
+    "reviews.": [
+      81
+    ],
+    "The": [
+      82,
+      358
+    ],
+    "search": [
+      83
+    ],
+    "strategy": [
+      84
+    ],
+    "included": [
+      85
+    ],
+    "a": [
+      86,
+      165,
+      246
+    ],
+    "combination": [
+      87
+    ],
+    "of": [
+      88,
+      117,
+      213,
+      243,
+      291,
+      360,
+      423
+    ],
+    "terms": [
+      89
+    ],
+    "associated": [
+      90,
+      224,
+      372
+    ],
+    "disorders": [
+      93,
+      370
+    ],
+    "(eg,panicorphobi*)": [
+      94
+    ],
+    "study": [
+      96,
+      159
+    ],
+    "design": [
+      97
+    ],
+    "(eg,clinical": [
+      98
+    ],
+    "trialorrandomized": [
+      99
+    ],
+    "controlled": [
+      100
+    ],
+    "trial).": [
+      101
+    ],
+    "Study": [
+      103
+    ],
+    "Selection": [
+      104
+    ],
+    "Randomized": [
+      106
+    ],
+    "clinical": [
+      107,
+      206,
+      343,
+      416
+    ],
+    "trials": [
+      108,
+      207,
+      344,
+      417
+    ],
+    "on": [
+      109
+    ],
+    "posttreatment": [
+      110
+    ],
+    "at": [
+      112,
+      183,
+      232,
+      238
+    ],
+    "least": [
+      113
+    ],
+    "1-month": [
+      114
+    ],
+    "follow-up": [
+      115,
+      244,
+      424
+    ],
+    "effects": [
+      116,
+      389
+    ],
+    "compared": [
+      121,
+      219,
+      376
+    ],
+    "control": [
+      123,
+      221,
+      378
+    ],
+    "conditions": [
+      124,
+      222,
+      379
+    ],
+    "among": [
+      125
+    ],
+    "adults": [
+      126
+    ],
+    "generalized": [
+      128,
+      247,
+      285,
+      395
+    ],
+    "disorder,": [
+      130,
+      139,
+      401
+    ],
+    "panic": [
+      131,
+      252,
+      306,
+      347
+    ],
+    "without": [
+      135,
+      256,
+      310,
+      351
+    ],
+    "agoraphobia,": [
+      136
+    ],
+    "social": [
+      137,
+      260,
+      294,
+      399
+    ],
+    "specific": [
+      140,
+      265,
+      319
+    ],
+    "phobia,": [
+      141
+    ],
+    "PTSD,": [
+      142,
+      404
+    ],
+    "OCD.": [
+      144
+    ],
+    "Extraction": [
+      147
+    ],
+    "Synthesis": [
+      149
+    ],
+    "Researchers": [
+      151
+    ],
+    "independently": [
+      152
+    ],
+    "screened": [
+      153
+    ],
+    "records,": [
+      154
+    ],
+    "extracted": [
+      155
+    ],
+    "statistics,": [
+      156
+    ],
+    "assessed": [
+      158
+    ],
+    "quality.": [
+      160
+    ],
+    "pooled": [
+      163
+    ],
+    "using": [
+      164
+    ],
+    "random-effects": [
+      166
+    ],
+    "model.": [
+      167
+    ],
+    "Main": [
+      169
+    ],
+    "Outcomes": [
+      170
+    ],
+    "Measures": [
+      172
+    ],
+    "Hedgesgwas": [
+      174
+    ],
+    "calculated": [
+      175,
+      317
+    ],
+    "symptoms": [
+      178
+    ],
+    "immediately": [
+      179
+    ],
+    "treatment": [
+      181,
+      198,
+      229,
+      384
+    ],
+    "1": [
+      184,
+      233
+    ],
+    "6": [
+      186,
+      188,
+      235,
+      239,
+      341
+    ],
+    "months,": [
+      187,
+      191,
+      388
+    ],
+    "12": [
+      190,
+      195,
+      241,
+      330,
+      381,
+      387,
+      421
+    ],
+    "more": [
+      193,
+      419
+    ],
+    "than": [
+      194,
+      420
+    ],
+    "months": [
+      196,
+      236,
+      242,
+      331,
+      382,
+      422
+    ],
+    "completion.": [
+      199,
+      385
+    ],
+    "Results": [
+      201
+    ],
+    "Of": [
+      203
+    ],
+    "69": [
+      204
+    ],
+    "randomized": [
+      205,
+      342,
+      415
+    ],
+    "(4118": [
+      208
+    ],
+    "outpatients)": [
+      209
+    ],
+    "that": [
+      210,
+      364
+    ],
+    "mainly": [
+      212
+    ],
+    "low": [
+      214
+    ],
+    "quality,": [
+      215
+    ],
+    "was": [
+      223
+    ],
+    "improved": [
+      226,
+      374
+    ],
+    "completion": [
+      230
+    ],
+    "(Hedgesg,": [
+      250,
+      258,
+      263,
+      267,
+      270,
+      274,
+      288,
+      297,
+      301
+    ],
+    "0.07-0.40),": [
+      251
+    ],
+    "agoraphobia": [
+      257,
+      311
+    ],
+    "0.22-0.35),": [
+      259
+    ],
+    "0.34-0.60),": [
+      264
+    ],
+    "phobia": [
+      266,
+      320
+    ],
+    "0.49-0.72),": [
+      268
+    ],
+    "PTSD": [
+      269,
+      300
+    ],
+    "0.59-0.72),": [
+      271
+    ],
+    "OCD": [
+      273,
+      323
+    ],
+    "0.70-0.85).": [
+      275
+    ],
+    "After": [
+      276,
+      386
+    ],
+    "12-month": [
+      277
+    ],
+    "follow-up,": [
+      278
+    ],
+    "these": [
+      279
+    ],
+    "associations": [
+      280
+    ],
+    "still": [
+      282
+    ],
+    "significant": [
+      283,
+      407
+    ],
+    "0.22;": [
+      289
+    ],
+    "number": [
+      290
+    ],
+    "studies": [
+      292
+    ],
+    "[k]\u2009=\u200910),": [
+      293
+    ],
+    "0.42;k\u2009=\u20093),": [
+      298
+    ],
+    "0.84;k\u2009=\u20095),": [
+      302
+    ],
+    "not": [
+      304,
+      315,
+      406,
+      409
+    ],
+    "(k\u2009=\u20095)": [
+      312
+    ],
+    "could": [
+      314
+    ],
+    "be": [
+      316
+    ],
+    "(k\u2009=\u20091)": [
+      321
+    ],
+    "(k\u2009=\u20090).": [
+      324
+    ],
+    "Relapse": [
+      325
+    ],
+    "rates": [
+      326,
+      428
+    ],
+    "3": [
+      328
+    ],
+    "0%": [
+      333
+    ],
+    "14%": [
+      335
+    ],
+    "reported": [
+      338,
+      426
+    ],
+    "in": [
+      339
+    ],
+    "only": [
+      340
+    ],
+    "(predominantly": [
+      345
+    ],
+    "agoraphobia).": [
+      352
+    ],
+    "Conclusions": [
+      354
+    ],
+    "Relevance": [
+      356
+    ],
+    "findings": [
+      359
+    ],
+    "this": [
+      361
+    ],
+    "suggest": [
+      363
+    ],
+    "until": [
+      380
+    ],
+    "small": [
+      391
+    ],
+    "medium": [
+      393
+    ],
+    "large": [
+      402
+    ],
+    "available": [
+      410
+    ],
+    "other": [
+      412
+    ],
+    "disorders.": [
+      413
+    ],
+    "High-quality": [
+      414
+    ],
+    "relapse": [
+      427
+    ],
+    "are": [
+      429
+    ],
+    "needed.": [
+      430
+    ]
+  },
+  "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2990088051",
+  "counts_by_year": [
+    {
+      "year": 2023,
+      "cited_by_count": 9
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 40
+    },
+    {
+      "year": 2021,
+      "cited_by_count": 21
+    },
+    {
+      "year": 2020,
+      "cited_by_count": 13
+    }
+  ],
+  "updated_date": "2023-03-29T23:52:15.442364",
+  "created_date": "2019-12-05"
+}

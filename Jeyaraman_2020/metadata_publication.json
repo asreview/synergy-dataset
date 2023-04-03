@@ -1,0 +1,1071 @@
+{
+  "id": "https://openalex.org/W3081220506",
+  "doi": "https://doi.org/10.1177/1947603520951623",
+  "title": "Does the Source of Mesenchymal Stem Cell Have an Effect in the Management of Osteoarthritis of the Knee? Meta-Analysis of Randomized Controlled Trials",
+  "display_name": "Does the Source of Mesenchymal Stem Cell Have an Effect in the Management of Osteoarthritis of the Knee? Meta-Analysis of Randomized Controlled Trials",
+  "publication_year": 2020,
+  "publication_date": "2020-08-25",
+  "ids": {
+    "openalex": "https://openalex.org/W3081220506",
+    "doi": "https://doi.org/10.1177/1947603520951623",
+    "mag": "3081220506",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/32840122"
+  },
+  "primary_location": {
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1177/1947603520951623",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S97680518",
+      "display_name": "Cartilage",
+      "issn_l": "1947-6035",
+      "issn": [
+        "1947-6035",
+        "1947-6043"
+      ],
+      "host_organization": "https://openalex.org/P4310320017",
+      "host_organization_name": "SAGE Publishing",
+      "type": "journal"
+    },
+    "license": null,
+    "version": "publishedVersion"
+  },
+  "host_venue": {
+    "id": "https://openalex.org/S97680518",
+    "issn_l": "1947-6035",
+    "issn": [
+      "1947-6035",
+      "1947-6043"
+    ],
+    "display_name": "Cartilage",
+    "publisher": "SAGE Publishing",
+    "type": "journal",
+    "url": "https://journals.sagepub.com/doi/pdf/10.1177/1947603520951623",
+    "is_oa": true,
+    "version": "publishedVersion",
+    "license": null
+  },
+  "type": "journal-article",
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "bronze",
+    "oa_url": "https://journals.sagepub.com/doi/pdf/10.1177/1947603520951623"
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A3010119166",
+        "display_name": "Madhan Jeyaraman",
+        "orcid": "https://orcid.org/0000-0002-9045-9493"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I74885063",
+          "display_name": "Sharda University",
+          "ror": "https://ror.org/03b6ffh07",
+          "country_code": "IN",
+          "type": "education"
+        }
+      ],
+      "is_corresponding": false,
+      "raw_affiliation_string": "Department of Orthopaedics, School of Medical Sciences & Research, Sharda University, Greater Noida, Uttar Pradesh, India."
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A3031231036",
+        "display_name": "Sathish Muthu",
+        "orcid": "https://orcid.org/0000-0002-7143-4354"
+      },
+      "institutions": [
+        {
+          "id": null,
+          "display_name": "Government Hospital, Velayuthampalayam, Karur, Tamil Nadu, India.",
+          "ror": null,
+          "country_code": null,
+          "type": null
+        }
+      ],
+      "is_corresponding": true,
+      "raw_affiliation_string": "Government Hospital, Velayuthampalayam, Karur, Tamil Nadu, India."
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A3081210422",
+        "display_name": "Parvez Ahmad Ganie",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I74885063",
+          "display_name": "Sharda University",
+          "ror": "https://ror.org/03b6ffh07",
+          "country_code": "IN",
+          "type": "education"
+        }
+      ],
+      "is_corresponding": false,
+      "raw_affiliation_string": "Department of Orthopaedics, School of Medical Sciences & Research, Sharda University, Greater Noida, Uttar Pradesh, India."
+    }
+  ],
+  "cited_by_count": 25,
+  "biblio": {
+    "volume": "13",
+    "issue": "1_suppl",
+    "first_page": "1532S",
+    "last_page": "1547S"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "concepts": [
+    {
+      "id": "https://openalex.org/C2776164576",
+      "wikidata": "https://www.wikidata.org/wiki/Q62736",
+      "display_name": "Osteoarthritis",
+      "level": 3,
+      "score": "0.9172131"
+    },
+    {
+      "id": "https://openalex.org/C71924100",
+      "wikidata": "https://www.wikidata.org/wiki/Q11190",
+      "display_name": "Medicine",
+      "level": 0,
+      "score": "0.89139354"
+    },
+    {
+      "id": "https://openalex.org/C2779286237",
+      "wikidata": "https://www.wikidata.org/wiki/Q3569749",
+      "display_name": "WOMAC",
+      "level": 4,
+      "score": "0.890681"
+    },
+    {
+      "id": "https://openalex.org/C198826908",
+      "wikidata": "https://www.wikidata.org/wiki/Q1922379",
+      "display_name": "Mesenchymal stem cell",
+      "level": 2,
+      "score": "0.8322333"
+    },
+    {
+      "id": "https://openalex.org/C95190672",
+      "wikidata": "https://www.wikidata.org/wiki/Q815382",
+      "display_name": "Meta-analysis",
+      "level": 2,
+      "score": "0.61363006"
+    },
+    {
+      "id": "https://openalex.org/C168563851",
+      "wikidata": "https://www.wikidata.org/wiki/Q1436668",
+      "display_name": "Randomized controlled trial",
+      "level": 2,
+      "score": "0.6086499"
+    },
+    {
+      "id": "https://openalex.org/C14184104",
+      "wikidata": "https://www.wikidata.org/wiki/Q1362526",
+      "display_name": "Visual analogue scale",
+      "level": 2,
+      "score": "0.5250002"
+    },
+    {
+      "id": "https://openalex.org/C2776478404",
+      "wikidata": "https://www.wikidata.org/wiki/Q1105187",
+      "display_name": "Cochrane Library",
+      "level": 3,
+      "score": "0.48571572"
+    },
+    {
+      "id": "https://openalex.org/C197934379",
+      "wikidata": "https://www.wikidata.org/wiki/Q2047938",
+      "display_name": "Adverse effect",
+      "level": 2,
+      "score": "0.44481793"
+    },
+    {
+      "id": "https://openalex.org/C2780007613",
+      "wikidata": "https://www.wikidata.org/wiki/Q546523",
+      "display_name": "Bone marrow",
+      "level": 2,
+      "score": "0.43337786"
+    },
+    {
+      "id": "https://openalex.org/C126322002",
+      "wikidata": "https://www.wikidata.org/wiki/Q11180",
+      "display_name": "Internal medicine",
+      "level": 1,
+      "score": "0.3524196"
+    },
+    {
+      "id": "https://openalex.org/C1862650",
+      "wikidata": "https://www.wikidata.org/wiki/Q186005",
+      "display_name": "Physical therapy",
+      "level": 1,
+      "score": "0.33927798"
+    },
+    {
+      "id": "https://openalex.org/C142724271",
+      "wikidata": "https://www.wikidata.org/wiki/Q7208",
+      "display_name": "Pathology",
+      "level": 1,
+      "score": "0.20459646"
+    },
+    {
+      "id": "https://openalex.org/C204787440",
+      "wikidata": "https://www.wikidata.org/wiki/Q188504",
+      "display_name": "Alternative medicine",
+      "level": 2,
+      "score": "0.0"
+    }
+  ],
+  "mesh": [
+    {
+      "descriptor_ui": "D045164",
+      "descriptor_name": "Mesenchymal Stem Cell Transplantation",
+      "qualifier_ui": "",
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D059630",
+      "descriptor_name": "Mesenchymal Stem Cells",
+      "qualifier_ui": "",
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D020370",
+      "descriptor_name": "Osteoarthritis, Knee",
+      "qualifier_ui": "Q000628",
+      "qualifier_name": "therapy",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D016032",
+      "descriptor_name": "Randomized Controlled Trials as Topic",
+      "qualifier_ui": "",
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D000273",
+      "descriptor_name": "Adipose Tissue",
+      "qualifier_ui": "",
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D001854",
+      "descriptor_name": "Bone Marrow Cells",
+      "qualifier_ui": "",
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D002358",
+      "descriptor_name": "Cartilage, Articular",
+      "qualifier_ui": "",
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": "",
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D007270",
+      "descriptor_name": "Injections, Intra-Articular",
+      "qualifier_ui": "",
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D045164",
+      "descriptor_name": "Mesenchymal Stem Cell Transplantation",
+      "qualifier_ui": "Q000009",
+      "qualifier_name": "adverse effects",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D059630",
+      "descriptor_name": "Mesenchymal Stem Cells",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D020370",
+      "descriptor_name": "Osteoarthritis, Knee",
+      "qualifier_ui": "",
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D016896",
+      "descriptor_name": "Treatment Outcome",
+      "qualifier_ui": "",
+      "qualifier_name": null,
+      "is_major_topic": false
+    }
+  ],
+  "locations": [
+    {
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1177/1947603520951623",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S97680518",
+        "display_name": "Cartilage",
+        "issn_l": "1947-6035",
+        "issn": [
+          "1947-6035",
+          "1947-6043"
+        ],
+        "host_organization": "https://openalex.org/P4310320017",
+        "host_organization_name": "SAGE Publishing",
+        "type": "journal"
+      },
+      "license": null,
+      "version": "publishedVersion"
+    },
+    {
+      "is_oa": true,
+      "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8808923",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S2764455111",
+        "display_name": "PubMed Central",
+        "issn_l": null,
+        "issn": null,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": null,
+        "type": "repository"
+      },
+      "license": null,
+      "version": "publishedVersion"
+    }
+  ],
+  "best_oa_location": {
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1177/1947603520951623",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S97680518",
+      "display_name": "Cartilage",
+      "issn_l": "1947-6035",
+      "issn": [
+        "1947-6035",
+        "1947-6043"
+      ],
+      "host_organization": "https://openalex.org/P4310320017",
+      "host_organization_name": "SAGE Publishing",
+      "type": "journal"
+    },
+    "license": null,
+    "version": "publishedVersion"
+  },
+  "alternate_host_venues": [
+    {
+      "id": "https://openalex.org/S97680518",
+      "display_name": "Cartilage",
+      "type": "journal",
+      "url": "https://journals.sagepub.com/doi/pdf/10.1177/1947603520951623",
+      "is_oa": true,
+      "version": "publishedVersion",
+      "license": null
+    },
+    {
+      "id": "https://openalex.org/S2764455111",
+      "display_name": "PubMed Central",
+      "type": "repository",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8808923",
+      "is_oa": true,
+      "version": "publishedVersion",
+      "license": null
+    }
+  ],
+  "referenced_works": [
+    "https://openalex.org/W246286872",
+    "https://openalex.org/W1572573965",
+    "https://openalex.org/W1967362684",
+    "https://openalex.org/W1968746947",
+    "https://openalex.org/W1984869843",
+    "https://openalex.org/W1995122819",
+    "https://openalex.org/W2006431382",
+    "https://openalex.org/W2011170585",
+    "https://openalex.org/W2017686962",
+    "https://openalex.org/W2018999466",
+    "https://openalex.org/W2028089243",
+    "https://openalex.org/W2044011855",
+    "https://openalex.org/W2064296154",
+    "https://openalex.org/W2086015290",
+    "https://openalex.org/W2088256967",
+    "https://openalex.org/W2095747552",
+    "https://openalex.org/W2120771911",
+    "https://openalex.org/W2125435699",
+    "https://openalex.org/W2126814100",
+    "https://openalex.org/W2135903352",
+    "https://openalex.org/W2139826506",
+    "https://openalex.org/W2153949260",
+    "https://openalex.org/W2156098321",
+    "https://openalex.org/W2508711224",
+    "https://openalex.org/W2508922037",
+    "https://openalex.org/W2531482076",
+    "https://openalex.org/W2561110482",
+    "https://openalex.org/W2593322983",
+    "https://openalex.org/W2598178893",
+    "https://openalex.org/W2606593883",
+    "https://openalex.org/W2608309822",
+    "https://openalex.org/W2609298444",
+    "https://openalex.org/W2625285338",
+    "https://openalex.org/W2739995361",
+    "https://openalex.org/W2800802679",
+    "https://openalex.org/W2821938306",
+    "https://openalex.org/W2885527831",
+    "https://openalex.org/W2891933433",
+    "https://openalex.org/W2897706271",
+    "https://openalex.org/W2912040253",
+    "https://openalex.org/W2914800753",
+    "https://openalex.org/W2919999424",
+    "https://openalex.org/W2929526016",
+    "https://openalex.org/W2934303176",
+    "https://openalex.org/W2947662386",
+    "https://openalex.org/W2970684805",
+    "https://openalex.org/W2977829144",
+    "https://openalex.org/W2998423630",
+    "https://openalex.org/W3003291744",
+    "https://openalex.org/W3009013307",
+    "https://openalex.org/W3009343637",
+    "https://openalex.org/W3011405158",
+    "https://openalex.org/W3022311099",
+    "https://openalex.org/W4294215472"
+  ],
+  "related_works": [
+    "https://openalex.org/W2116521994",
+    "https://openalex.org/W2184777059",
+    "https://openalex.org/W2463317312",
+    "https://openalex.org/W2884879194",
+    "https://openalex.org/W2892267812",
+    "https://openalex.org/W2894122104",
+    "https://openalex.org/W2946883195",
+    "https://openalex.org/W2953680460",
+    "https://openalex.org/W3094965590",
+    "https://openalex.org/W4226133995"
+  ],
+  "ngrams_url": "https://api.openalex.org/works/W3081220506/ngrams",
+  "abstract_inverted_index": {
+    "Study": [
+      0
+    ],
+    "Design": [
+      1
+    ],
+    "Meta-analysis.": [
+      2
+    ],
+    "Objectives": [
+      3
+    ],
+    "To": [
+      4
+    ],
+    "compare": [
+      5
+    ],
+    "the": [
+      6,
+      20,
+      32,
+      54,
+      93,
+      117,
+      120,
+      218,
+      228,
+      240
+    ],
+    "efficacy": [
+      7,
+      55
+    ],
+    "and": [
+      8,
+      16,
+      35,
+      45,
+      56,
+      89,
+      128,
+      149,
+      179,
+      231
+    ],
+    "safety": [
+      9,
+      57
+    ],
+    "of": [
+      10,
+      22,
+      24,
+      58,
+      62,
+      64,
+      116,
+      122,
+      126,
+      136,
+      217,
+      233,
+      242,
+      244
+    ],
+    "bone": [
+      11
+    ],
+    "marrow(BM)\u2013derived": [
+      12
+    ],
+    "mesenchymal": [
+      13
+    ],
+    "stem": [
+      14
+    ],
+    "cell(MSCs)": [
+      15
+    ],
+    "adipose-derived(AD)": [
+      17
+    ],
+    "MSCs": [
+      18,
+      59,
+      123,
+      219
+    ],
+    "in": [
+      19,
+      31,
+      60,
+      99,
+      170,
+      239
+    ],
+    "management": [
+      21,
+      61,
+      241
+    ],
+    "osteoarthritis": [
+      23,
+      63,
+      125,
+      243
+    ],
+    "knee": [
+      25,
+      127,
+      245
+    ],
+    "from": [
+      26,
+      42,
+      246
+    ],
+    "randomized": [
+      27
+    ],
+    "controlled": [
+      28
+    ],
+    "trials(RCTs)": [
+      29
+    ],
+    "available": [
+      30,
+      247
+    ],
+    "literature.": [
+      33,
+      248
+    ],
+    "Materials": [
+      34
+    ],
+    "Methods": [
+      36
+    ],
+    "We": [
+      37
+    ],
+    "conducted": [
+      38
+    ],
+    "electronic": [
+      39
+    ],
+    "database": [
+      40
+    ],
+    "searche": [
+      41
+    ],
+    "PubMed,": [
+      43
+    ],
+    "Embase,": [
+      44
+    ],
+    "Cochrane": [
+      46
+    ],
+    "Library": [
+      47
+    ],
+    "till": [
+      48
+    ],
+    "May": [
+      49
+    ],
+    "2020": [
+      50
+    ],
+    "for": [
+      51,
+      69,
+      113,
+      124
+    ],
+    "RCTs": [
+      52,
+      250
+    ],
+    "analyzing": [
+      53
+    ],
+    "knee.": [
+      65
+    ],
+    "Visual": [
+      66
+    ],
+    "Analog": [
+      67
+    ],
+    "Score(VAS)": [
+      68
+    ],
+    "Pain,": [
+      70
+    ],
+    "Western": [
+      71
+    ],
+    "Ontario": [
+      72
+    ],
+    "McMaster": [
+      73
+    ],
+    "Universities": [
+      74
+    ],
+    "Osteoarthritis": [
+      75,
+      86
+    ],
+    "Index(WOMAC),": [
+      76
+    ],
+    "Lysholm": [
+      77,
+      192
+    ],
+    "Knee": [
+      78,
+      85
+    ],
+    "Scale(Lysholm),": [
+      79
+    ],
+    "Whole-Organ": [
+      80
+    ],
+    "Magnetic": [
+      81
+    ],
+    "Resonance": [
+      82
+    ],
+    "Imaging": [
+      83
+    ],
+    "Score(WORMS),": [
+      84
+    ],
+    "Outcome": [
+      87
+    ],
+    "Score(KOOS),": [
+      88
+    ],
+    "adverse": [
+      90,
+      213
+    ],
+    "events": [
+      91,
+      214
+    ],
+    "were": [
+      92,
+      111,
+      130,
+      210
+    ],
+    "outcomes": [
+      94
+    ],
+    "analyzed.": [
+      95
+    ],
+    "Analysis": [
+      96
+    ],
+    "was": [
+      97,
+      201
+    ],
+    "performed": [
+      98
+    ],
+    "R": [
+      100
+    ],
+    "platform": [
+      101
+    ],
+    "using": [
+      102
+    ],
+    "OpenMeta[Analyst]": [
+      103
+    ],
+    "software.": [
+      104
+    ],
+    "Results": [
+      105
+    ],
+    "Nineteen": [
+      106
+    ],
+    "studies": [
+      107,
+      118
+    ],
+    "involving": [
+      108
+    ],
+    "811": [
+      109
+    ],
+    "patients": [
+      110
+    ],
+    "included": [
+      112
+    ],
+    "analysis.": [
+      114
+    ],
+    "None": [
+      115
+    ],
+    "compared": [
+      119,
+      157,
+      166,
+      220,
+      236
+    ],
+    "source": [
+      121
+    ],
+    "results": [
+      129
+    ],
+    "obtained": [
+      131
+    ],
+    "by": [
+      132
+    ],
+    "pooled": [
+      133
+    ],
+    "data": [
+      134
+    ],
+    "analysis": [
+      135,
+      226
+    ],
+    "both": [
+      137
+    ],
+    "sources.": [
+      138
+    ],
+    "At": [
+      139,
+      160
+    ],
+    "6": [
+      140
+    ],
+    "months,": [
+      141,
+      187
+    ],
+    "AD-MSCs": [
+      142,
+      163,
+      188
+    ],
+    "showed": [
+      143,
+      189
+    ],
+    "significantly": [
+      144,
+      190
+    ],
+    "better": [
+      145,
+      191,
+      202
+    ],
+    "VAS(": [
+      146
+    ],
+    "P&lt;0.001,": [
+      147,
+      181
+    ],
+    "P=0.069)": [
+      148
+    ],
+    "WOMAC(": [
+      150,
+      173
+    ],
+    "P=0.134,": [
+      151
+    ],
+    "P=0.441)": [
+      152
+    ],
+    "improvement": [
+      153,
+      200
+    ],
+    "than": [
+      154,
+      195
+    ],
+    "BM-MSCs,": [
+      155
+    ],
+    "respectively,": [
+      156
+    ],
+    "to": [
+      158,
+      167,
+      221,
+      237,
+      253
+    ],
+    "controls.": [
+      159,
+      223
+    ],
+    "1": [
+      161
+    ],
+    "year,": [
+      162
+    ],
+    "outperformed": [
+      164
+    ],
+    "BM-MSCs": [
+      165,
+      204
+    ],
+    "their": [
+      168,
+      222
+    ],
+    "control": [
+      169
+    ],
+    "measures": [
+      171
+    ],
+    "like": [
+      172
+    ],
+    "P=0.007,": [
+      174
+    ],
+    "P=0.150),": [
+      175
+    ],
+    "KOOS(": [
+      176
+    ],
+    "P&lt;0.001;": [
+      177
+    ],
+    "P=0.658),": [
+      178
+    ],
+    "WORMS(": [
+      180
+    ],
+    "P=0.041),": [
+      182
+    ],
+    "respectively.": [
+      183
+    ],
+    "Similarly": [
+      184
+    ],
+    "at": [
+      185,
+      205
+    ],
+    "24": [
+      186,
+      206
+    ],
+    "score(": [
+      193
+    ],
+    "P=0.037)": [
+      194
+    ],
+    "BM-MSCs(": [
+      196
+    ],
+    "P=0.807)": [
+      197
+    ],
+    "although": [
+      198
+    ],
+    "VAS": [
+      199
+    ],
+    "with": [
+      203,
+      215,
+      257
+    ],
+    "months(": [
+      207
+    ],
+    "P&lt;0.001).": [
+      208
+    ],
+    "There": [
+      209
+    ],
+    "no": [
+      211
+    ],
+    "significant": [
+      212
+    ],
+    "either": [
+      216
+    ],
+    "Conclusion": [
+      224
+    ],
+    "Our": [
+      225
+    ],
+    "establishes": [
+      227
+    ],
+    "efficacy,": [
+      229
+    ],
+    "safety,": [
+      230
+    ],
+    "superiority": [
+      232
+    ],
+    "AD-MSC": [
+      234
+    ],
+    "transplantation,": [
+      235
+    ],
+    "BM-MSC,": [
+      238
+    ],
+    "Further": [
+      249
+    ],
+    "are": [
+      251
+    ],
+    "needed": [
+      252
+    ],
+    "evaluate": [
+      254
+    ],
+    "them": [
+      255
+    ],
+    "together": [
+      256
+    ],
+    "standardized": [
+      258
+    ],
+    "doses.": [
+      259
+    ]
+  },
+  "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W3081220506",
+  "counts_by_year": [
+    {
+      "year": 2023,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 18
+    },
+    {
+      "year": 2021,
+      "cited_by_count": 5
+    }
+  ],
+  "updated_date": "2023-03-12T23:39:28.243559",
+  "created_date": "2020-09-01"
+}

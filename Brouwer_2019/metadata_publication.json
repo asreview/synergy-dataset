@@ -1,0 +1,994 @@
+{
+  "id": "https://openalex.org/W2985119860",
+  "doi": "https://doi.org/10.1016/j.cpr.2019.101773",
+  "title": "Psychological theories of depressive relapse and recurrence: A systematic review and meta-analysis of prospective studies",
+  "display_name": "Psychological theories of depressive relapse and recurrence: A systematic review and meta-analysis of prospective studies",
+  "publication_year": 2019,
+  "publication_date": "2019-11-13",
+  "ids": {
+    "openalex": "https://openalex.org/W2985119860",
+    "doi": "https://doi.org/10.1016/j.cpr.2019.101773",
+    "mag": "2985119860",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/31756681"
+  },
+  "primary_location": {
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.1016/j.cpr.2019.101773",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S4632444",
+      "display_name": "Clinical Psychology Review",
+      "issn_l": "0272-7358",
+      "issn": [
+        "1873-7811",
+        "0272-7358"
+      ],
+      "host_organization": "https://openalex.org/P4310320990",
+      "host_organization_name": "Elsevier BV",
+      "type": "journal"
+    },
+    "license": null,
+    "version": null
+  },
+  "host_venue": {
+    "id": "https://openalex.org/S4632444",
+    "issn_l": "0272-7358",
+    "issn": [
+      "1873-7811",
+      "0272-7358"
+    ],
+    "display_name": "Clinical Psychology Review",
+    "publisher": "Elsevier BV",
+    "type": "journal",
+    "url": null,
+    "is_oa": false,
+    "version": null,
+    "license": null
+  },
+  "type": "journal-article",
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "green",
+    "oa_url": "https://pure.rug.nl/ws/files/118005461/1_s2.0_S0272735819302855_main.pdf"
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A4349722813",
+        "display_name": "Maria Brouwer",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I887064364",
+          "display_name": "University of Amsterdam",
+          "ror": "https://ror.org/04dkp9463",
+          "country_code": "NL",
+          "type": "education"
+        },
+        {
+          "id": "https://openalex.org/I193662353",
+          "display_name": "Utrecht University",
+          "ror": "https://ror.org/04pp8hn57",
+          "country_code": "NL",
+          "type": "education"
+        }
+      ],
+      "is_corresponding": false,
+      "raw_affiliation_string": "Univ Amsterdam, University of Amsterdam, Amsterdam Univ Med Ctr, Locat AMC, Dept Psychiat; Univ Utrecht, University of Utrecht, Fac Behav & Social Sci, Dept Clin Psychol"
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A4337694899",
+        "display_name": "Alishia D. Williams",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I31746571",
+          "display_name": "UNSW Sydney",
+          "ror": "https://ror.org/03r8z3t63",
+          "country_code": "AU",
+          "type": "education"
+        },
+        {
+          "id": "https://openalex.org/I193662353",
+          "display_name": "Utrecht University",
+          "ror": "https://ror.org/04pp8hn57",
+          "country_code": "NL",
+          "type": "education"
+        }
+      ],
+      "is_corresponding": false,
+      "raw_affiliation_string": "Univ New South Wales, University of New South Wales Sydney, Fac Sci, Sch Psychol; Univ Utrecht, University of Utrecht, Fac Behav & Social Sci, Dept Clin Psychol"
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A2071498283",
+        "display_name": "Mitzy Kennis",
+        "orcid": "https://orcid.org/0000-0002-0729-6436"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I193662353",
+          "display_name": "Utrecht University",
+          "ror": "https://ror.org/04pp8hn57",
+          "country_code": "NL",
+          "type": "education"
+        }
+      ],
+      "is_corresponding": false,
+      "raw_affiliation_string": "Univ Utrecht, University of Utrecht, Fac Behav & Social Sci, Dept Clin Psychol"
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A2135366665",
+        "display_name": "Zhongfang Fu",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I887064364",
+          "display_name": "University of Amsterdam",
+          "ror": "https://ror.org/04dkp9463",
+          "country_code": "NL",
+          "type": "education"
+        },
+        {
+          "id": "https://openalex.org/I193662353",
+          "display_name": "Utrecht University",
+          "ror": "https://ror.org/04pp8hn57",
+          "country_code": "NL",
+          "type": "education"
+        }
+      ],
+      "is_corresponding": false,
+      "raw_affiliation_string": "Univ Amsterdam, University of Amsterdam, Amsterdam Univ Med Ctr, Locat AMC, Dept Psychiat; Univ Utrecht, University of Utrecht, Fac Behav & Social Sci, Dept Clin Psychol"
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A4357209739",
+        "display_name": "Nicola P. Klein",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": null,
+          "display_name": "Clinical Psychology and Experimental Psychopathology",
+          "ror": null,
+          "country_code": null,
+          "type": null
+        }
+      ],
+      "is_corresponding": false,
+      "raw_affiliation_string": "Clinical Psychology and Experimental Psychopathology"
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A4358349910",
+        "display_name": "Pim Cuijpers",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I865915315",
+          "display_name": "VU Amsterdam",
+          "ror": "https://ror.org/008xxew50",
+          "country_code": "NL",
+          "type": "education"
+        }
+      ],
+      "is_corresponding": false,
+      "raw_affiliation_string": "Vrije Univ Amsterdam, Vrije Universiteit Amsterdam, Amsterdam Publ Hlth Res Inst, Dept Clin Neuro & Dev Psychol"
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A4357254009",
+        "display_name": "Claudi L H Bockting",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": null,
+          "display_name": "Univ Amsterdam, University of Amsterdam, Royal Netherlands Acad Arts & Sci, Inst Adv Study, Netherlands Inst Adv Study Humanities & Social Sc",
+          "ror": null,
+          "country_code": null,
+          "type": null
+        }
+      ],
+      "is_corresponding": false,
+      "raw_affiliation_string": "Univ Amsterdam, University of Amsterdam, Royal Netherlands Acad Arts & Sci, Inst Adv Study, Netherlands Inst Adv Study Humanities & Social Sc"
+    }
+  ],
+  "cited_by_count": 15,
+  "biblio": {
+    "volume": "74",
+    "issue": null,
+    "first_page": "101773",
+    "last_page": "101773"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "concepts": [
+    {
+      "id": "https://openalex.org/C15744967",
+      "wikidata": "https://www.wikidata.org/wiki/Q9418",
+      "display_name": "Psychology",
+      "level": 0,
+      "score": "0.738661"
+    },
+    {
+      "id": "https://openalex.org/C2780051608",
+      "wikidata": "https://www.wikidata.org/wiki/Q42844",
+      "display_name": "Major depressive disorder",
+      "level": 3,
+      "score": "0.595606"
+    },
+    {
+      "id": "https://openalex.org/C70410870",
+      "wikidata": "https://www.wikidata.org/wiki/Q199906",
+      "display_name": "Clinical psychology",
+      "level": 1,
+      "score": "0.58281684"
+    },
+    {
+      "id": "https://openalex.org/C188816634",
+      "wikidata": "https://www.wikidata.org/wiki/Q2113324",
+      "display_name": "Prospective cohort study",
+      "level": 2,
+      "score": "0.53159857"
+    },
+    {
+      "id": "https://openalex.org/C187288502",
+      "wikidata": "https://www.wikidata.org/wiki/Q641118",
+      "display_name": "Personality",
+      "level": 2,
+      "score": "0.51267636"
+    },
+    {
+      "id": "https://openalex.org/C169900460",
+      "wikidata": "https://www.wikidata.org/wiki/Q2200417",
+      "display_name": "Cognition",
+      "level": 2,
+      "score": "0.4760946"
+    },
+    {
+      "id": "https://openalex.org/C95190672",
+      "wikidata": "https://www.wikidata.org/wiki/Q815382",
+      "display_name": "Meta-analysis",
+      "level": 2,
+      "score": "0.46113977"
+    },
+    {
+      "id": "https://openalex.org/C102655426",
+      "wikidata": "https://www.wikidata.org/wiki/Q940923",
+      "display_name": "Psychodynamics",
+      "level": 2,
+      "score": "0.43885377"
+    },
+    {
+      "id": "https://openalex.org/C542102704",
+      "wikidata": "https://www.wikidata.org/wiki/Q183257",
+      "display_name": "Psychotherapist",
+      "level": 1,
+      "score": "0.36779082"
+    },
+    {
+      "id": "https://openalex.org/C118552586",
+      "wikidata": "https://www.wikidata.org/wiki/Q7867",
+      "display_name": "Psychiatry",
+      "level": 1,
+      "score": "0.33712536"
+    },
+    {
+      "id": "https://openalex.org/C126322002",
+      "wikidata": "https://www.wikidata.org/wiki/Q11180",
+      "display_name": "Internal medicine",
+      "level": 1,
+      "score": "0.16949514"
+    },
+    {
+      "id": "https://openalex.org/C71924100",
+      "wikidata": "https://www.wikidata.org/wiki/Q11190",
+      "display_name": "Medicine",
+      "level": 0,
+      "score": "0.12041533"
+    },
+    {
+      "id": "https://openalex.org/C11171543",
+      "wikidata": "https://www.wikidata.org/wiki/Q41630",
+      "display_name": "Psychoanalysis",
+      "level": 1,
+      "score": "0.105006725"
+    }
+  ],
+  "mesh": [
+    {
+      "descriptor_ui": "D003865",
+      "descriptor_name": "Depressive Disorder, Major",
+      "qualifier_ui": "Q000523",
+      "qualifier_name": "psychology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D003865",
+      "descriptor_name": "Depressive Disorder, Major",
+      "qualifier_ui": "Q000503",
+      "qualifier_name": "physiopathology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D018450",
+      "descriptor_name": "Disease Progression",
+      "qualifier_ui": "",
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D011582",
+      "descriptor_name": "Psychological Theory",
+      "qualifier_ui": "",
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D003865",
+      "descriptor_name": "Depressive Disorder, Major",
+      "qualifier_ui": "",
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": "",
+      "qualifier_name": null,
+      "is_major_topic": false
+    }
+  ],
+  "locations": [
+    {
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1016/j.cpr.2019.101773",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4632444",
+        "display_name": "Clinical Psychology Review",
+        "issn_l": "0272-7358",
+        "issn": [
+          "1873-7811",
+          "0272-7358"
+        ],
+        "host_organization": "https://openalex.org/P4310320990",
+        "host_organization_name": "Elsevier BV",
+        "type": "journal"
+      },
+      "license": null,
+      "version": null
+    },
+    {
+      "is_oa": true,
+      "landing_page_url": "https://research.vu.nl/en/publications/2ee63d8b-e6c4-4c03-860d-981255da21d9",
+      "pdf_url": "https://research.vu.nl/ws/files/105027845/Psychological_theories_of_depressive_relapse_and_recurrence.pdf",
+      "source": {
+        "id": "https://openalex.org/S4306401107",
+        "display_name": "VU Research Portal (Elsevier)",
+        "issn_l": null,
+        "issn": null,
+        "host_organization": null,
+        "host_organization_name": "Elsevier",
+        "type": "repository"
+      },
+      "license": null,
+      "version": "publishedVersion"
+    },
+    {
+      "is_oa": true,
+      "landing_page_url": "https://research.rug.nl/en/publications/2fa9ffd5-c022-42bf-8580-6c2f5b1794b2",
+      "pdf_url": "https://pure.rug.nl/ws/files/118005461/1_s2.0_S0272735819302855_main.pdf",
+      "source": {
+        "id": "https://openalex.org/S4306400420",
+        "display_name": "University of Groningen research database (University of Groningen / Centre for Information Technology)",
+        "issn_l": null,
+        "issn": null,
+        "host_organization": "https://openalex.org/I169381384",
+        "host_organization_name": "University of Groningen / Centre for Information Technology",
+        "type": "repository"
+      },
+      "license": null,
+      "version": "publishedVersion"
+    }
+  ],
+  "best_oa_location": {
+    "is_oa": true,
+    "landing_page_url": "https://research.vu.nl/en/publications/2ee63d8b-e6c4-4c03-860d-981255da21d9",
+    "pdf_url": "https://research.vu.nl/ws/files/105027845/Psychological_theories_of_depressive_relapse_and_recurrence.pdf",
+    "source": {
+      "id": "https://openalex.org/S4306401107",
+      "display_name": "VU Research Portal (Elsevier)",
+      "issn_l": null,
+      "issn": null,
+      "host_organization": null,
+      "host_organization_name": "Elsevier",
+      "type": "repository"
+    },
+    "license": null,
+    "version": "publishedVersion"
+  },
+  "alternate_host_venues": [
+    {
+      "id": "https://openalex.org/S4632444",
+      "display_name": "Clinical Psychology Review",
+      "type": "journal",
+      "url": null,
+      "is_oa": false,
+      "version": null,
+      "license": null
+    },
+    {
+      "id": "https://openalex.org/S4306401107",
+      "display_name": "VU Research Portal (Elsevier)",
+      "type": "repository",
+      "url": "https://research.vu.nl/ws/files/105027845/Psychological_theories_of_depressive_relapse_and_recurrence.pdf",
+      "is_oa": true,
+      "version": "publishedVersion",
+      "license": null
+    },
+    {
+      "id": "https://openalex.org/S4306400420",
+      "display_name": "University of Groningen research database (University of Groningen / Centre for Information Technology)",
+      "type": "repository",
+      "url": "https://pure.rug.nl/ws/files/118005461/1_s2.0_S0272735819302855_main.pdf",
+      "is_oa": true,
+      "version": "publishedVersion",
+      "license": null
+    }
+  ],
+  "referenced_works": [
+    "https://openalex.org/W1900950328",
+    "https://openalex.org/W1967796141",
+    "https://openalex.org/W1978097115",
+    "https://openalex.org/W1981386178",
+    "https://openalex.org/W1984747549",
+    "https://openalex.org/W2004801402",
+    "https://openalex.org/W2009306897",
+    "https://openalex.org/W2013523345",
+    "https://openalex.org/W2024099936",
+    "https://openalex.org/W2029487046",
+    "https://openalex.org/W2031415599",
+    "https://openalex.org/W2031683787",
+    "https://openalex.org/W2032149427",
+    "https://openalex.org/W2033585778",
+    "https://openalex.org/W2057235100",
+    "https://openalex.org/W2080768567",
+    "https://openalex.org/W2085923532",
+    "https://openalex.org/W2103695158",
+    "https://openalex.org/W2104570366",
+    "https://openalex.org/W2105084981",
+    "https://openalex.org/W2112790214",
+    "https://openalex.org/W2129511280",
+    "https://openalex.org/W2131381493",
+    "https://openalex.org/W2136511536",
+    "https://openalex.org/W2139846893",
+    "https://openalex.org/W2145799505",
+    "https://openalex.org/W2148760296",
+    "https://openalex.org/W2153664481",
+    "https://openalex.org/W2154559347",
+    "https://openalex.org/W2156923987",
+    "https://openalex.org/W2157308079",
+    "https://openalex.org/W2158446004",
+    "https://openalex.org/W2165878940",
+    "https://openalex.org/W2171344924",
+    "https://openalex.org/W2260933259",
+    "https://openalex.org/W2282601687",
+    "https://openalex.org/W2317270238",
+    "https://openalex.org/W2320474352",
+    "https://openalex.org/W2338885995",
+    "https://openalex.org/W2585493186",
+    "https://openalex.org/W2782111056",
+    "https://openalex.org/W2795870103",
+    "https://openalex.org/W2795882974",
+    "https://openalex.org/W2887818419",
+    "https://openalex.org/W2891778279",
+    "https://openalex.org/W2903716417",
+    "https://openalex.org/W2936365310",
+    "https://openalex.org/W2990461417",
+    "https://openalex.org/W4253507931",
+    "https://openalex.org/W4254305393",
+    "https://openalex.org/W4294215472"
+  ],
+  "related_works": [
+    "https://openalex.org/W2008034597",
+    "https://openalex.org/W2014156409",
+    "https://openalex.org/W2025371881",
+    "https://openalex.org/W2148114478",
+    "https://openalex.org/W2148426735",
+    "https://openalex.org/W2163485803",
+    "https://openalex.org/W2766140249",
+    "https://openalex.org/W2962778310",
+    "https://openalex.org/W3123537275",
+    "https://openalex.org/W4284963962"
+  ],
+  "ngrams_url": "https://api.openalex.org/works/W2985119860/ngrams",
+  "abstract_inverted_index": {
+    "Psychological": [
+      0
+    ],
+    "factors": [
+      1,
+      39
+    ],
+    "hypothesized": [
+      2
+    ],
+    "to": [
+      3,
+      42,
+      48,
+      87
+    ],
+    "account": [
+      4,
+      197
+    ],
+    "for": [
+      5,
+      32,
+      143,
+      171,
+      198
+    ],
+    "relapse": [
+      6,
+      56,
+      107
+    ],
+    "of": [
+      7,
+      51,
+      82,
+      160,
+      182
+    ],
+    "major": [
+      8
+    ],
+    "depressive": [
+      9,
+      43,
+      55,
+      106,
+      199
+    ],
+    "disorder": [
+      10
+    ],
+    "(MDD)": [
+      11
+    ],
+    "roughly": [
+      12
+    ],
+    "originate": [
+      13
+    ],
+    "from": [
+      14
+    ],
+    "five": [
+      15
+    ],
+    "main": [
+      16
+    ],
+    "theories:": [
+      17
+    ],
+    "Cognitive,": [
+      18
+    ],
+    "diathesis-stress,": [
+      19
+    ],
+    "behavioural,": [
+      20,
+      101,
+      119,
+      191
+    ],
+    "psychodynamic,": [
+      21
+    ],
+    "and": [
+      22,
+      37,
+      53,
+      64,
+      67,
+      102,
+      105,
+      185,
+      192
+    ],
+    "personality-based.": [
+      23
+    ],
+    "In": [
+      24
+    ],
+    "a": [
+      25,
+      58,
+      62,
+      95,
+      179
+    ],
+    "meta-analysis": [
+      26
+    ],
+    "we": [
+      27
+    ],
+    "investigated": [
+      28
+    ],
+    "prospective,": [
+      29
+    ],
+    "longitudinal": [
+      30,
+      63
+    ],
+    "evidence": [
+      31,
+      187
+    ],
+    "these": [
+      33
+    ],
+    "leading": [
+      34
+    ],
+    "psychological": [
+      35
+    ],
+    "theories": [
+      36,
+      104,
+      146,
+      162,
+      194
+    ],
+    "their": [
+      38
+    ],
+    "in": [
+      40
+    ],
+    "relation": [
+      41
+    ],
+    "relapse.": [
+      44,
+      75,
+      200
+    ],
+    "Included": [
+      45
+    ],
+    "studies": [
+      46
+    ],
+    "needed": [
+      47
+    ],
+    "establish": [
+      49
+    ],
+    "history": [
+      50
+    ],
+    "MDD": [
+      52
+    ],
+    "prospective": [
+      54,
+      65,
+      183
+    ],
+    "through": [
+      57
+    ],
+    "clinical": [
+      59
+    ],
+    "interview,": [
+      60
+    ],
+    "have": [
+      61
+    ],
+    "design,": [
+      66
+    ],
+    "measure": [
+      68
+    ],
+    "at": [
+      69
+    ],
+    "least": [
+      70
+    ],
+    "one": [
+      71
+    ],
+    "theory-derived": [
+      72
+    ],
+    "factor": [
+      73
+    ],
+    "before": [
+      74
+    ],
+    "We": [
+      76
+    ],
+    "identified": [
+      77,
+      170
+    ],
+    "66": [
+      78
+    ],
+    "eligible": [
+      79
+    ],
+    "articles": [
+      80,
+      169
+    ],
+    "out": [
+      81
+    ],
+    "43,586": [
+      83
+    ],
+    "records": [
+      84
+    ],
+    "published": [
+      85
+    ],
+    "up": [
+      86
+    ],
+    "November": [
+      88
+    ],
+    "2018.": [
+      89
+    ],
+    "Pooled": [
+      90,
+      157
+    ],
+    "odds": [
+      91
+    ],
+    "ratios": [
+      92,
+      159
+    ],
+    "(OR)": [
+      93
+    ],
+    "indicated": [
+      94
+    ],
+    "significant": [
+      96
+    ],
+    "relationship": [
+      97
+    ],
+    "between": [
+      98
+    ],
+    "the": [
+      99,
+      144,
+      161,
+      172,
+      189
+    ],
+    "cognitive,": [
+      100,
+      190
+    ],
+    "personality-based": [
+      103,
+      193
+    ],
+    "(cognitive:": [
+      108
+    ],
+    "k": [
+      109,
+      120,
+      131
+    ],
+    "=": [
+      110,
+      113,
+      117,
+      121,
+      124,
+      128,
+      132,
+      135,
+      139,
+      148,
+      151,
+      155
+    ],
+    "17,": [
+      111
+    ],
+    "OR": [
+      112,
+      123,
+      134,
+      150
+    ],
+    "1.24,": [
+      114
+    ],
+    "95%": [
+      115,
+      126,
+      137,
+      153
+    ],
+    "CI": [
+      116,
+      127,
+      138,
+      154
+    ],
+    "1.10-1.40;": [
+      118
+    ],
+    "8,": [
+      122
+    ],
+    "1.15,": [
+      125
+    ],
+    "1.05-1.25;": [
+      129
+    ],
+    "personality:": [
+      130
+    ],
+    "12,": [
+      133
+    ],
+    "1.26,": [
+      136
+    ],
+    "1.02-1.54),": [
+      140
+    ],
+    "but": [
+      141
+    ],
+    "not": [
+      142,
+      164
+    ],
+    "psychodynamic": [
+      145
+    ],
+    "(k": [
+      147
+    ],
+    "4,": [
+      149
+    ],
+    "1.29,": [
+      152
+    ],
+    "0.83-1.99).": [
+      156
+    ],
+    "hazard": [
+      158
+    ],
+    "were": [
+      163,
+      167
+    ],
+    "significant.": [
+      165
+    ],
+    "There": [
+      166
+    ],
+    "no": [
+      168
+    ],
+    "diathesis-stress": [
+      173
+    ],
+    "theories.": [
+      174
+    ],
+    "To": [
+      175
+    ],
+    "conclude,": [
+      176
+    ],
+    "there": [
+      177
+    ],
+    "is": [
+      178
+    ],
+    "restricted": [
+      180
+    ],
+    "number": [
+      181
+    ],
+    "studies,": [
+      184
+    ],
+    "some": [
+      186
+    ],
+    "that": [
+      188
+    ],
+    "indeed": [
+      195
+    ],
+    "partially": [
+      196
+    ]
+  },
+  "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2985119860",
+  "counts_by_year": [
+    {
+      "year": 2023,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 7
+    },
+    {
+      "year": 2021,
+      "cited_by_count": 3
+    },
+    {
+      "year": 2020,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2019,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2023-03-31T17:40:57.088699",
+  "created_date": "2019-11-22"
+}

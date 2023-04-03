@@ -1,0 +1,1193 @@
+{
+  "id": "https://openalex.org/W2954073272",
+  "doi": "https://doi.org/10.5334/jcr.183",
+  "title": "Sleep and Microdialysis: An Experiment and a Systematic Review of Histamine and Several Amino Acids",
+  "display_name": "Sleep and Microdialysis: An Experiment and a Systematic Review of Histamine and Several Amino Acids",
+  "publication_year": 2019,
+  "publication_date": "2019-07-03",
+  "ids": {
+    "openalex": "https://openalex.org/W2954073272",
+    "doi": "https://doi.org/10.5334/jcr.183",
+    "mag": "2954073272",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/31303885",
+    "pmcid": "https://www.ncbi.nlm.nih.gov/pmc/articles/6611484"
+  },
+  "primary_location": {
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.5334/jcr.183",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S151421263",
+      "display_name": "Journal of Circadian Rhythms",
+      "issn_l": "1740-3391",
+      "issn": [
+        "1740-3391"
+      ],
+      "host_organization": "https://openalex.org/P4310320511",
+      "host_organization_name": "Ubiquity Press",
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "version": "publishedVersion"
+  },
+  "host_venue": {
+    "id": "https://openalex.org/S151421263",
+    "issn_l": "1740-3391",
+    "issn": [
+      "1740-3391"
+    ],
+    "display_name": "Journal of Circadian Rhythms",
+    "publisher": "Ubiquity Press",
+    "type": "journal",
+    "url": "http://www.jcircadianrhythms.com/articles/10.5334/jcr.183/galley/316/download/",
+    "is_oa": true,
+    "version": "publishedVersion",
+    "license": "cc-by"
+  },
+  "type": "journal-article",
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "gold",
+    "oa_url": "http://www.jcircadianrhythms.com/articles/10.5334/jcr.183/galley/316/download/"
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A4342887281",
+        "display_name": "Cathalijn H. C. Leenaars",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I34809795",
+          "display_name": "Hannover Medical School",
+          "ror": "https://ror.org/00f2yqf98",
+          "country_code": "DE",
+          "type": "education"
+        }
+      ],
+      "is_corresponding": false,
+      "raw_affiliation_string": ""
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A4339379508",
+        "display_name": "Wilhelmus Drinkenburg",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I137982388",
+          "display_name": "Janssen",
+          "ror": "https://ror.org/04yzcpd71",
+          "country_code": "BE",
+          "type": "company"
+        }
+      ],
+      "is_corresponding": false,
+      "raw_affiliation_string": "Janssen Research and Development, a division of Janssen Pharmaceutica N.V., BE."
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A2399589393",
+        "display_name": "Christ Nolten",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I137982388",
+          "display_name": "Janssen",
+          "ror": "https://ror.org/04yzcpd71",
+          "country_code": "BE",
+          "type": "company"
+        }
+      ],
+      "is_corresponding": false,
+      "raw_affiliation_string": "Janssen Research and Development, a division of Janssen Pharmaceutica N.V., BE."
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A4346052199",
+        "display_name": "Maurice Dematteis",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I899635006",
+          "display_name": "Grenoble Alpes University",
+          "ror": "https://ror.org/02rx3b187",
+          "country_code": "FR",
+          "type": "education"
+        }
+      ],
+      "is_corresponding": false,
+      "raw_affiliation_string": "Department of Addiction Medicine, Grenobles Alpes University Hospital and Grenoble Alpes University, FR."
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A4350687913",
+        "display_name": "Ruud N. J. M. A. Joosten",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I1322597698",
+          "display_name": "Royal Netherlands Academy of Arts and Sciences",
+          "ror": "https://ror.org/043c0p156",
+          "country_code": "NL",
+          "type": "government"
+        }
+      ],
+      "is_corresponding": false,
+      "raw_affiliation_string": "Netherlands Institute for Neuroscience (NIN), An Institute of the Royal Netherlands Academy of Arts and Sciences, NL."
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A4333786166",
+        "display_name": "Matthijs G. P. Feenstra",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I1322597698",
+          "display_name": "Royal Netherlands Academy of Arts and Sciences",
+          "ror": "https://ror.org/043c0p156",
+          "country_code": "NL",
+          "type": "government"
+        }
+      ],
+      "is_corresponding": false,
+      "raw_affiliation_string": "Netherlands Institute for Neuroscience (NIN), An Institute of the Royal Netherlands Academy of Arts and Sciences, NL."
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A4348994942",
+        "display_name": "Rob B. M. de Vries",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I145872427",
+          "display_name": "Radboud University Nijmegen",
+          "ror": "https://ror.org/016xsfp80",
+          "country_code": "NL",
+          "type": "education"
+        }
+      ],
+      "is_corresponding": false,
+      "raw_affiliation_string": "SYRCLE, Radboud Institute for Health Sciences, Radboud University Medical Center, NL."
+    }
+  ],
+  "cited_by_count": 5,
+  "biblio": {
+    "volume": "17",
+    "issue": "1",
+    "first_page": "7",
+    "last_page": "7"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "concepts": [
+    {
+      "id": "https://openalex.org/C50156730",
+      "wikidata": "https://www.wikidata.org/wiki/Q3856966",
+      "display_name": "Microdialysis",
+      "level": 3,
+      "score": "0.7759404"
+    },
+    {
+      "id": "https://openalex.org/C2778329153",
+      "wikidata": "https://www.wikidata.org/wiki/Q1364801",
+      "display_name": "Sleep deprivation",
+      "level": 3,
+      "score": "0.7681885"
+    },
+    {
+      "id": "https://openalex.org/C2775841894",
+      "wikidata": "https://www.wikidata.org/wiki/Q4683692",
+      "display_name": "Sleep (system call)",
+      "level": 2,
+      "score": "0.65296423"
+    },
+    {
+      "id": "https://openalex.org/C2779320081",
+      "wikidata": "https://www.wikidata.org/wiki/Q246710",
+      "display_name": "Wakefulness",
+      "level": 3,
+      "score": "0.6449714"
+    },
+    {
+      "id": "https://openalex.org/C2779349466",
+      "wikidata": "https://www.wikidata.org/wiki/Q181619",
+      "display_name": "Glutamine",
+      "level": 3,
+      "score": "0.5951438"
+    },
+    {
+      "id": "https://openalex.org/C61174792",
+      "wikidata": "https://www.wikidata.org/wiki/Q420510",
+      "display_name": "Glutamate receptor",
+      "level": 3,
+      "score": "0.5486041"
+    },
+    {
+      "id": "https://openalex.org/C2781195155",
+      "wikidata": "https://www.wikidata.org/wiki/Q18680",
+      "display_name": "Prefrontal cortex",
+      "level": 3,
+      "score": "0.51111275"
+    },
+    {
+      "id": "https://openalex.org/C1122143",
+      "wikidata": "https://www.wikidata.org/wiki/Q61233",
+      "display_name": "Histamine",
+      "level": 2,
+      "score": "0.5038311"
+    },
+    {
+      "id": "https://openalex.org/C2779701627",
+      "wikidata": "https://www.wikidata.org/wiki/Q207051",
+      "display_name": "Taurine",
+      "level": 3,
+      "score": "0.48655668"
+    },
+    {
+      "id": "https://openalex.org/C71924100",
+      "wikidata": "https://www.wikidata.org/wiki/Q11190",
+      "display_name": "Medicine",
+      "level": 0,
+      "score": "0.46426937"
+    },
+    {
+      "id": "https://openalex.org/C126322002",
+      "wikidata": "https://www.wikidata.org/wiki/Q11180",
+      "display_name": "Internal medicine",
+      "level": 1,
+      "score": "0.42504486"
+    },
+    {
+      "id": "https://openalex.org/C2777756961",
+      "wikidata": "https://www.wikidata.org/wiki/Q620730",
+      "display_name": "Glycine",
+      "level": 3,
+      "score": "0.4248731"
+    },
+    {
+      "id": "https://openalex.org/C134018914",
+      "wikidata": "https://www.wikidata.org/wiki/Q162606",
+      "display_name": "Endocrinology",
+      "level": 1,
+      "score": "0.4106702"
+    },
+    {
+      "id": "https://openalex.org/C515207424",
+      "wikidata": "https://www.wikidata.org/wiki/Q8066",
+      "display_name": "Amino acid",
+      "level": 2,
+      "score": "0.3959192"
+    },
+    {
+      "id": "https://openalex.org/C169760540",
+      "wikidata": "https://www.wikidata.org/wiki/Q207011",
+      "display_name": "Neuroscience",
+      "level": 1,
+      "score": "0.35263753"
+    },
+    {
+      "id": "https://openalex.org/C121446783",
+      "wikidata": "https://www.wikidata.org/wiki/Q208353",
+      "display_name": "Circadian rhythm",
+      "level": 2,
+      "score": "0.34563893"
+    },
+    {
+      "id": "https://openalex.org/C185592680",
+      "wikidata": "https://www.wikidata.org/wiki/Q2329",
+      "display_name": "Chemistry",
+      "level": 0,
+      "score": "0.2627297"
+    },
+    {
+      "id": "https://openalex.org/C15744967",
+      "wikidata": "https://www.wikidata.org/wiki/Q9418",
+      "display_name": "Psychology",
+      "level": 0,
+      "score": "0.2387552"
+    },
+    {
+      "id": "https://openalex.org/C513476851",
+      "wikidata": "https://www.wikidata.org/wiki/Q170304",
+      "display_name": "Dopamine",
+      "level": 2,
+      "score": "0.18801862"
+    },
+    {
+      "id": "https://openalex.org/C55493867",
+      "wikidata": "https://www.wikidata.org/wiki/Q7094",
+      "display_name": "Biochemistry",
+      "level": 1,
+      "score": "0.18188325"
+    },
+    {
+      "id": "https://openalex.org/C118552586",
+      "wikidata": "https://www.wikidata.org/wiki/Q7867",
+      "display_name": "Psychiatry",
+      "level": 1,
+      "score": "0.14827707"
+    },
+    {
+      "id": "https://openalex.org/C522805319",
+      "wikidata": "https://www.wikidata.org/wiki/Q179965",
+      "display_name": "Electroencephalography",
+      "level": 2,
+      "score": "0.1052936"
+    },
+    {
+      "id": "https://openalex.org/C169900460",
+      "wikidata": "https://www.wikidata.org/wiki/Q2200417",
+      "display_name": "Cognition",
+      "level": 2,
+      "score": "0.080045015"
+    },
+    {
+      "id": "https://openalex.org/C170493617",
+      "wikidata": "https://www.wikidata.org/wiki/Q208467",
+      "display_name": "Receptor",
+      "level": 2,
+      "score": "0.0"
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": "0.0"
+    },
+    {
+      "id": "https://openalex.org/C111919701",
+      "wikidata": "https://www.wikidata.org/wiki/Q9135",
+      "display_name": "Operating system",
+      "level": 1,
+      "score": "0.0"
+    }
+  ],
+  "mesh": [],
+  "locations": [
+    {
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.5334/jcr.183",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S151421263",
+        "display_name": "Journal of Circadian Rhythms",
+        "issn_l": "1740-3391",
+        "issn": [
+          "1740-3391"
+        ],
+        "host_organization": "https://openalex.org/P4310320511",
+        "host_organization_name": "Ubiquity Press",
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "version": "publishedVersion"
+    },
+    {
+      "is_oa": true,
+      "landing_page_url": "https://europepmc.org/articles/pmc6611484",
+      "pdf_url": "https://europepmc.org/articles/pmc6611484?pdf=render",
+      "source": {
+        "id": "https://openalex.org/S4306400806",
+        "display_name": "Europe PMC (PubMed Central)",
+        "issn_l": null,
+        "issn": null,
+        "host_organization": null,
+        "host_organization_name": "PubMed Central",
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "version": "publishedVersion"
+    },
+    {
+      "is_oa": true,
+      "landing_page_url": "https://dspace.library.uu.nl/handle/1874/391291",
+      "pdf_url": "https://dspace.library.uu.nl/bitstream/1874/391291/1/Sleep_and_Microdialysis.pdf",
+      "source": {
+        "id": "https://openalex.org/S4306401843",
+        "display_name": "Data Archiving and Networked Services (DANS)",
+        "issn_l": null,
+        "issn": null,
+        "host_organization": "https://openalex.org/I1322597698",
+        "host_organization_name": "DANS",
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "version": "publishedVersion"
+    },
+    {
+      "is_oa": true,
+      "landing_page_url": "https://dspace.library.uu.nl/handle/1874/391291",
+      "pdf_url": "https://dspace.library.uu.nl/bitstream/handle/1874/391291/Sleep_and_Microdialysis.pdf?sequence=1&isAllowed=y",
+      "source": {
+        "id": "https://openalex.org/S4306401649",
+        "display_name": "Utrecht University Repository (Utrecht University)",
+        "issn_l": null,
+        "issn": null,
+        "host_organization": "https://openalex.org/I193662353",
+        "host_organization_name": "Utrecht University",
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "version": "publishedVersion"
+    },
+    {
+      "is_oa": true,
+      "landing_page_url": "http://hdl.handle.net/2066/208834",
+      "pdf_url": "https://repository.ubn.ru.nl/bitstream/handle/2066/208834/1/208834.pdf",
+      "source": {
+        "id": "https://openalex.org/S4306401843",
+        "display_name": "Data Archiving and Networked Services (DANS)",
+        "issn_l": null,
+        "issn": null,
+        "host_organization": "https://openalex.org/I1322597698",
+        "host_organization_name": "DANS",
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "version": "publishedVersion"
+    },
+    {
+      "is_oa": true,
+      "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6611484",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S2764455111",
+        "display_name": "PubMed Central",
+        "issn_l": null,
+        "issn": null,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": null,
+        "type": "repository"
+      },
+      "license": null,
+      "version": "publishedVersion"
+    }
+  ],
+  "best_oa_location": {
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.5334/jcr.183",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S151421263",
+      "display_name": "Journal of Circadian Rhythms",
+      "issn_l": "1740-3391",
+      "issn": [
+        "1740-3391"
+      ],
+      "host_organization": "https://openalex.org/P4310320511",
+      "host_organization_name": "Ubiquity Press",
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "version": "publishedVersion"
+  },
+  "alternate_host_venues": [
+    {
+      "id": "https://openalex.org/S151421263",
+      "display_name": "Journal of Circadian Rhythms",
+      "type": "journal",
+      "url": "http://www.jcircadianrhythms.com/articles/10.5334/jcr.183/galley/316/download/",
+      "is_oa": true,
+      "version": "publishedVersion",
+      "license": "cc-by"
+    },
+    {
+      "id": "https://openalex.org/S4306400806",
+      "display_name": "Europe PMC (PubMed Central)",
+      "type": "repository",
+      "url": "https://europepmc.org/articles/pmc6611484?pdf=render",
+      "is_oa": true,
+      "version": "publishedVersion",
+      "license": "cc-by"
+    },
+    {
+      "id": "https://openalex.org/S4306401843",
+      "display_name": "Data Archiving and Networked Services (DANS)",
+      "type": "repository",
+      "url": "https://dspace.library.uu.nl/bitstream/1874/391291/1/Sleep_and_Microdialysis.pdf",
+      "is_oa": true,
+      "version": "publishedVersion",
+      "license": "cc-by"
+    },
+    {
+      "id": "https://openalex.org/S4306401649",
+      "display_name": "Utrecht University Repository (Utrecht University)",
+      "type": "repository",
+      "url": "https://dspace.library.uu.nl/bitstream/handle/1874/391291/Sleep_and_Microdialysis.pdf?sequence=1&isAllowed=y",
+      "is_oa": true,
+      "version": "publishedVersion",
+      "license": "cc-by"
+    },
+    {
+      "id": "https://openalex.org/S2764455111",
+      "display_name": "PubMed Central",
+      "type": "repository",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6611484",
+      "is_oa": true,
+      "version": "publishedVersion",
+      "license": null
+    }
+  ],
+  "referenced_works": [
+    "https://openalex.org/W264925259",
+    "https://openalex.org/W591048183",
+    "https://openalex.org/W1522509390",
+    "https://openalex.org/W1972709709",
+    "https://openalex.org/W1975946002",
+    "https://openalex.org/W1981768163",
+    "https://openalex.org/W1987835781",
+    "https://openalex.org/W1992633305",
+    "https://openalex.org/W1994675388",
+    "https://openalex.org/W2004069987",
+    "https://openalex.org/W2007735192",
+    "https://openalex.org/W2022726353",
+    "https://openalex.org/W2024775541",
+    "https://openalex.org/W2041316075",
+    "https://openalex.org/W2042513904",
+    "https://openalex.org/W2052804781",
+    "https://openalex.org/W2053103731",
+    "https://openalex.org/W2055656488",
+    "https://openalex.org/W2058571677",
+    "https://openalex.org/W2062883133",
+    "https://openalex.org/W2064915622",
+    "https://openalex.org/W2071576115",
+    "https://openalex.org/W2088367343",
+    "https://openalex.org/W2093186246",
+    "https://openalex.org/W2103704775",
+    "https://openalex.org/W2145295139",
+    "https://openalex.org/W2146359010",
+    "https://openalex.org/W2150279189",
+    "https://openalex.org/W2151189356",
+    "https://openalex.org/W2153833997",
+    "https://openalex.org/W2164074199",
+    "https://openalex.org/W2166204906",
+    "https://openalex.org/W2273601764",
+    "https://openalex.org/W2287088105",
+    "https://openalex.org/W2288655185",
+    "https://openalex.org/W2462593487",
+    "https://openalex.org/W2590862290",
+    "https://openalex.org/W2884852379",
+    "https://openalex.org/W2896033954",
+    "https://openalex.org/W2897044167",
+    "https://openalex.org/W2908597151",
+    "https://openalex.org/W4213397646",
+    "https://openalex.org/W4298023066"
+  ],
+  "related_works": [
+    "https://openalex.org/W2001438660",
+    "https://openalex.org/W2009410328",
+    "https://openalex.org/W2025114609",
+    "https://openalex.org/W2049748437",
+    "https://openalex.org/W2061769920",
+    "https://openalex.org/W2340676451",
+    "https://openalex.org/W2384851497",
+    "https://openalex.org/W2413474627",
+    "https://openalex.org/W2469191932",
+    "https://openalex.org/W3196326223"
+  ],
+  "ngrams_url": "https://api.openalex.org/works/W2954073272/ngrams",
+  "abstract_inverted_index": {
+    "Sleep": [
+      0,
+      241
+    ],
+    "seems": [
+      1
+    ],
+    "essential": [
+      2
+    ],
+    "to": [
+      3,
+      29,
+      85,
+      215,
+      222
+    ],
+    "proper": [
+      4
+    ],
+    "functioning": [
+      5
+    ],
+    "of": [
+      6,
+      13,
+      42,
+      58,
+      95,
+      161,
+      164,
+      196
+    ],
+    "the": [
+      7,
+      20,
+      30,
+      40,
+      46,
+      65,
+      77,
+      88,
+      110,
+      114,
+      162,
+      249
+    ],
+    "prefrontal": [
+      8
+    ],
+    "cortex": [
+      9
+    ],
+    "(PFC).": [
+      10
+    ],
+    "The": [
+      11
+    ],
+    "role": [
+      12
+    ],
+    "different": [
+      14,
+      210
+    ],
+    "neurotransmitters": [
+      15
+    ],
+    "has": [
+      16,
+      26
+    ],
+    "been": [
+      17,
+      27
+    ],
+    "studied,": [
+      18
+    ],
+    "mainly": [
+      19
+    ],
+    "catecholamines": [
+      21
+    ],
+    "and": [
+      22,
+      34,
+      50,
+      60,
+      70,
+      107,
+      141,
+      145,
+      150,
+      174,
+      193,
+      203,
+      228,
+      245
+    ],
+    "serotonin.": [
+      23
+    ],
+    "Less": [
+      24
+    ],
+    "attention": [
+      25
+    ],
+    "paid": [
+      28
+    ],
+    "amino": [
+      31,
+      62
+    ],
+    "acid": [
+      32
+    ],
+    "transmitters": [
+      33
+    ],
+    "histamine.": [
+      35
+    ],
+    "Here,": [
+      36
+    ],
+    "we": [
+      37,
+      74
+    ],
+    "focus": [
+      38
+    ],
+    "on": [
+      39,
+      79,
+      157
+    ],
+    "activity": [
+      41
+    ],
+    "these": [
+      43
+    ],
+    "molecules": [
+      44,
+      163
+    ],
+    "in": [
+      45,
+      64,
+      209,
+      248
+    ],
+    "PFC": [
+      47,
+      67
+    ],
+    "during": [
+      48,
+      69,
+      99,
+      102,
+      109,
+      113,
+      123,
+      127,
+      166,
+      171,
+      176,
+      186,
+      190,
+      217,
+      239
+    ],
+    "sleep": [
+      49,
+      51,
+      86,
+      147,
+      172,
+      191,
+      218
+    ],
+    "deprivation": [
+      52,
+      173,
+      192,
+      242
+    ],
+    "(SD).": [
+      53
+    ],
+    "We": [
+      54,
+      152
+    ],
+    "determined": [
+      55
+    ],
+    "extracellular": [
+      56
+    ],
+    "concentrations": [
+      57,
+      94,
+      208
+    ],
+    "histamine": [
+      59
+    ],
+    "8": [
+      61
+    ],
+    "acids": [
+      63
+    ],
+    "medial": [
+      66
+    ],
+    "before,": [
+      68
+    ],
+    "after": [
+      71
+    ],
+    "SD.": [
+      72
+    ],
+    "Additionally,": [
+      73
+    ],
+    "systematically": [
+      75
+    ],
+    "reviewed": [
+      76
+    ],
+    "literature": [
+      78
+    ],
+    "studies": [
+      80,
+      180,
+      252
+    ],
+    "reporting": [
+      81,
+      156
+    ],
+    "microdialysis": [
+      82
+    ],
+    "measurements": [
+      83
+    ],
+    "relating": [
+      84
+    ],
+    "throughout": [
+      87
+    ],
+    "brain.": [
+      89
+    ],
+    "In": [
+      90
+    ],
+    "our": [
+      91
+    ],
+    "experiment,": [
+      92
+    ],
+    "median": [
+      93
+    ],
+    "glutamate": [
+      96,
+      244
+    ],
+    "were": [
+      97,
+      137,
+      213,
+      230
+    ],
+    "higher": [
+      98,
+      108,
+      122
+    ],
+    "SD": [
+      100
+    ],
+    "than": [
+      101,
+      112,
+      126
+    ],
+    "baseline": [
+      103,
+      128
+    ],
+    "(p": [
+      104,
+      117,
+      129
+    ],
+    "=": [
+      105,
+      118,
+      130,
+      201,
+      206
+    ],
+    "0.013)": [
+      106
+    ],
+    "dark-active": [
+      111
+    ],
+    "resting": [
+      115
+    ],
+    "phase": [
+      116
+    ],
+    "0.003).": [
+      119
+    ],
+    "Glutamine": [
+      120
+    ],
+    "was": [
+      121,
+      184
+    ],
+    "post-SD": [
+      124
+    ],
+    "recovery": [
+      125,
+      149
+    ],
+    "0.010).": [
+      131
+    ],
+    "For": [
+      132
+    ],
+    "other": [
+      133
+    ],
+    "compounds,": [
+      134
+    ],
+    "no": [
+      135
+    ],
+    "differences": [
+      136
+    ],
+    "observed": [
+      138
+    ],
+    "between": [
+      139,
+      146
+    ],
+    "light": [
+      140
+    ],
+    "dark": [
+      142
+    ],
+    "circadian": [
+      143
+    ],
+    "phase,": [
+      144
+    ],
+    "deprivation,": [
+      148
+    ],
+    "baseline.": [
+      151
+    ],
+    "retrieved": [
+      153
+    ],
+    "13": [
+      154
+    ],
+    "papers": [
+      155
+    ],
+    "one": [
+      158
+    ],
+    "or": [
+      159,
+      219,
+      221
+    ],
+    "more": [
+      160
+    ],
+    "interest": [
+      165
+    ],
+    "naturally": [
+      167
+    ],
+    "occurring": [
+      168
+    ],
+    "sleep,": [
+      169,
+      187
+    ],
+    "2": [
+      170,
+      175
+    ],
+    "both.": [
+      177
+    ],
+    "Only": [
+      178
+    ],
+    "two": [
+      179
+    ],
+    "targeted": [
+      181
+    ],
+    "PFC.": [
+      182
+    ],
+    "Histamine": [
+      183
+    ],
+    "low": [
+      185
+    ],
+    "but": [
+      188,
+      236
+    ],
+    "high": [
+      189
+    ],
+    "wakefulness,": [
+      194
+    ],
+    "irrespective": [
+      195
+    ],
+    "brain": [
+      197,
+      211
+    ],
+    "area.": [
+      198
+    ],
+    "Glu": [
+      199
+    ],
+    "(k": [
+      200,
+      205
+    ],
+    "11)": [
+      202
+    ],
+    "GABA": [
+      204,
+      246
+    ],
+    "8)": [
+      207
+    ],
+    "areas": [
+      212
+    ],
+    "reported": [
+      214
+    ],
+    "peak": [
+      216
+    ],
+    "wakefulness": [
+      220
+    ],
+    "lack": [
+      223
+    ],
+    "state-dependency.": [
+      224
+    ],
+    "Aspartate,": [
+      225
+    ],
+    "glycine,": [
+      226
+    ],
+    "asparagine": [
+      227
+    ],
+    "taurine": [
+      229
+    ],
+    "less": [
+      231
+    ],
+    "often": [
+      232
+    ],
+    "studied": [
+      233
+    ],
+    "(1-2": [
+      234
+    ],
+    "times),": [
+      235
+    ],
+    "peaked": [
+      237
+    ],
+    "exclusively": [
+      238,
+      247
+    ],
+    "sleep.": [
+      240
+    ],
+    "increased": [
+      243
+    ],
+    "cortex.": [
+      250
+    ],
+    "Further": [
+      251
+    ],
+    "are": [
+      253
+    ],
+    "needed": [
+      254
+    ],
+    "for": [
+      255
+    ],
+    "drawing": [
+      256
+    ],
+    "solid": [
+      257
+    ],
+    "conclusions.": [
+      258
+    ]
+  },
+  "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2954073272",
+  "counts_by_year": [
+    {
+      "year": 2022,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2021,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2020,
+      "cited_by_count": 3
+    }
+  ],
+  "updated_date": "2023-03-30T18:45:06.108015",
+  "created_date": "2019-07-12"
+}
