@@ -250,6 +250,9 @@ version=0.1
 
   doi="10.1001/jama.288.7.872"
 
+  [datasets.collection]
+  doi="10.1197/jamia.M1929"
+
   [datasets.data]
 
   url="https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
@@ -267,6 +270,9 @@ version=0.1
   [datasets.publication]
 
   doi="10.1016/j.jpainsymman.2004.05.002"
+
+  [datasets.collection]
+  doi="10.1197/jamia.M1929"
 
   [datasets.data]
 
@@ -353,6 +359,9 @@ version=0.1
   [datasets.publication]
 
   doi="10.1016/j.jpainsymman.2003.03.003"
+
+  [datasets.collection]
+  doi="10.1197/jamia.M1929"
 
   [datasets.data]
 
