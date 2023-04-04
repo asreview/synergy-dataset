@@ -1,6 +1,6 @@
 import pandas as pd
 
-key="Valk_2021"
+key = "Valk_2021"
 
 # Load the dataset from an online source
 df = pd.read_excel("https://osf.io/download/gmjcv/")
@@ -22,6 +22,4 @@ df_new["openalex_id"] = None
 
 # Export the new dataframe with the "doi", "openalex_id", and "label_included"
 # columns
-df_new[["doi", "openalex_id", "label_included"]].to_csv(
-    f"{key}_ids.csv", index=False
-)
+df_new[["doi", "openalex_id", "label_included"]].to_csv(f"{key}_ids.csv", index=False)

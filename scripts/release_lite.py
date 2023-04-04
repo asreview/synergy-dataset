@@ -15,7 +15,9 @@ def small_zip(src_path, dest_path):
 
     # read files in zip of src_path one by one and extract them
 
-    with ZipFile(src_path, "r") as zip_full, ZipFile(dest_path, "w", ZIP_DEFLATED) as zip_lite:
+    with ZipFile(src_path, "r") as zip_full, ZipFile(
+        dest_path, "w", ZIP_DEFLATED
+    ) as zip_lite:
 
         # unzip files in zip_full one by one and load them in json format
         for fn in zip_full.namelist():
@@ -40,8 +42,13 @@ def release_lite(release_path):
             print(f.name)
             Path(release_lite_path, f.name).mkdir(exist_ok=True, parents=True)
             shutil.copyfile(f / "labels.csv", release_lite_path / f.name / "labels.csv")
-            shutil.copyfile(f / "metadata.json", release_lite_path / f.name / "metadata.json")
-            shutil.copyfile(f / "publication_metadata.json", release_lite_path / f.name / "publication_metadata.json")
+            shutil.copyfile(
+                f / "metadata.json", release_lite_path / f.name / "metadata.json"
+            )
+            shutil.copyfile(
+                f / "publication_metadata.json",
+                release_lite_path / f.name / "publication_metadata.json",
+            )
             small_zip(f / "works.zip", release_lite_path / f.name / "works.zip")
 
 

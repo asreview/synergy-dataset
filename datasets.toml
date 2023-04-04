@@ -4,12 +4,13 @@ version=0.1
 
 [[datasets]]
 
-  # Part of Yu et al. 2018 https://doi.org/10.1007/s10664-017-9587-0
-
   key="Hall_2012"
 
+  [datasets.collection]
+  doi="10.1007/s10664-017-9587-0"
+
   [datasets.publication]
-  doi= "10.1109/TSE.2011.103"
+  doi="10.1109/TSE.2011.103"
 
   [datasets.data]
   doi="10.5281/zenodo.1162952"
@@ -17,18 +18,19 @@ version=0.1
   [datasets.scripts]
   compose="compose.py Hall_2012"
 
+
 [[datasets]]
   # publication doesn't have DOI or OpenAlex reference
-
-  # Part of Yu et al. 2018 https://doi.org/10.1007/s10664-017-9587-0
 
  key="Wahono_2015"
  active=false
  note="The publication doesn't have a record in the OpenAlex database."
 
+  [datasets.collection]
+  doi="10.1007/s10664-017-9587-0"
+
  [datasets.publication]
-  # http://journal.ilmukomputer.org/index.php?journal=jse&page=article&op=view&path%5B%5D=47
- doi= ""
+  url="http://journal.ilmukomputer.org/index.php?journal=jse&page=article&op=view&path%5B%5D=47"
 
  [datasets.data]
  doi="10.5281/zenodo.1162952"
@@ -36,12 +38,13 @@ version=0.1
 
 [[datasets]]
 
-  # Part of Yu et al. 2018 https://doi.org/10.1007/s10664-017-9587-0
-
   key="Radjenovic_2013"
 
+  [datasets.collection]
+  doi="10.1007/s10664-017-9587-0"
+
   [datasets.publication]
-  doi= "10.1016/j.infsof.2013.02.009"
+  doi="10.1016/j.infsof.2013.02.009"
 
   [datasets.data]
   doi="10.5281/zenodo.1162952"
@@ -49,17 +52,19 @@ version=0.1
 
 [[datasets]]
 
- # Part of Yu et al. 2018 https://doi.org/10.1007/s10664-017-9587-0
-
   key="Kitchenham_2010"
   active=false
   note="(IEEE) URLs in the dataset don't match the original records. Reliability concern."
 
+  [datasets.collection]
+  doi="10.1007/s10664-017-9587-0"
+
   [datasets.publication]
-  doi= "10.1016/j.infsof.2010.03.006"
+  doi="10.1016/j.infsof.2010.03.006"
 
   [datasets.data]
   doi="10.5281/zenodo.1162952"
+
 
 [[datasets]]
   # Processes 1 dataset (https://osf.io/tnxju/)
@@ -68,23 +73,24 @@ version=0.1
 
   [datasets.publication]
 
-  doi= "10.1007/s40262-021-01042-w"
+  doi="10.1007/s40262-021-01042-w"
 
   [datasets.data]
 
-  doi="https://osf.io/tnxju/"
+  url="https://osf.io/tnxju/"
+
 
 [[datasets]]
 
-  key="Meijboom_2022"
+  key="Meijboom_2021"
 
   [datasets.publication]
 
-  doi= "10.1007/s40259-021-00508-4"
+  doi="10.1007/s40259-021-00508-4"
 
   [datasets.data]
 
-  doi="https://osf.io/4cdku/"
+  url="https://osf.io/4cdku/"
 [[datasets]]
 
   key="Valk_2021"
@@ -92,11 +98,12 @@ version=0.1
 
   [datasets.publication]
 
-  doi= "10.1111/obr.13376"
+  doi="10.1111/obr.13376"
 
   [datasets.data]
 
-  doi="https://osf.io/download/gmjcv/"
+  doi="10.17605/OSF.IO/WDZH5"
+
 
 [[datasets]]
 
@@ -104,11 +111,12 @@ version=0.1
 
   [datasets.publication]
 
-  doi= "10.1080/10705511.2019.1577140"
+  doi="10.1080/10705511.2019.1577140"
 
   [datasets.data]
 
-  doi="https://osf.io/gxams"
+  doi="10.17605/OSF.IO/PUQ7X"
+
 
 [[datasets]]
 
@@ -116,23 +124,25 @@ version=0.1
 
   [datasets.publication]
 
-  doi= "10.1016/j.cpr.2019.101773"
+  doi="10.1016/j.cpr.2019.101773"
 
   [datasets.data]
 
-  doi="https://osf.io/py7ek"
+  doi="10.17605/OSF.IO/R45YZ"
+
 
 [[datasets]]
 
-  key="Appenzeller-Herzog_2020"
+  key="Appenzeller-Herzog_2019"
 
   [datasets.publication]
 
-  doi= "10.1111/liv.14179"
+  doi="10.1111/liv.14179"
 
   [datasets.data]
 
   doi="10.5281/zenodo.3625931"
+
 
 [[datasets]]
 
@@ -142,11 +152,12 @@ version=0.1
 
   [datasets.publication]
 
-  doi= "10.1186/s13643-019-0942-7"
+  doi="10.1186/s13643-019-0942-7"
 
   [datasets.data]
 
-  doi="https://doi.org/10.5281/zenodo.151190"
+  doi="10.5281/zenodo.151190"
+
 
 [[datasets]]
 
@@ -154,11 +165,12 @@ version=0.1
 
   [datasets.publication]
 
-  doi= "10.1016/j.jalz.2018.04.007"
+  doi="10.1016/j.jalz.2018.04.007"
 
   [datasets.data]
 
-  doi="https://osf.io/w3kbq/"
+  url="https://osf.io/w3kbq/"
+
 
 [[datasets]]
 
@@ -166,15 +178,16 @@ version=0.1
   active=false
   note="Original publication not found"
 
-  [datasets.publication]
-  doi= "10.1197/jamia.M1929"
+  [datasets.collection]
+  doi="10.1197/jamia.M1929"
 
   [datasets.data]
 
-  doi="https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
+  url="https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
 
   [datasets.scripts]
   compose="compose.py ACEInhibitors"
+
 
 [[datasets]]
 
@@ -182,12 +195,12 @@ version=0.1
   active=false
   note="Original publication not found"
 
-  [datasets.publication]
-  doi= "10.1197/jamia.M1929"
+  [datasets.collection]
+  doi="10.1197/jamia.M1929"
 
   [datasets.data]
 
-  doi="https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
+  url="https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
 
   [datasets.scripts]
   compose="compose.py CalciumChannelBlockers"
@@ -199,12 +212,12 @@ version=0.1
   active=false
   note="Original publication not found"
 
-  [datasets.publication]
-  doi= "10.1197/jamia.M1929"
+  [datasets.collection]
+  doi="10.1197/jamia.M1929"
 
   [datasets.data]
 
-  doi="https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
+  url="https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
 
   [datasets.scripts]
   compose="compose.py ProtonPumpInhibitors"
@@ -216,15 +229,16 @@ version=0.1
   active=false
   note="Original publication not found"
 
-  [datasets.publication]
-  doi= "10.1197/jamia.M1929"
+  [datasets.collection]
+  doi="10.1197/jamia.M1929"
 
   [datasets.data]
 
-  doi="https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
+  url="https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
 
   [datasets.scripts]
   compose="compose.py ADHD"
+
 
 [[datasets]]
 
@@ -234,11 +248,14 @@ version=0.1
 
   [datasets.publication]
 
-  doi= "10.1001/jama.288.7.872"
+  doi="10.1001/jama.288.7.872"
+
+  [datasets.collection]
+  doi="10.1197/jamia.M1929"
 
   [datasets.data]
 
-  doi="https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
+  url="https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
 
   [datasets.scripts]
   compose="compose.py Estrogens --name Nelson_2002"
@@ -252,15 +269,17 @@ version=0.1
 
   [datasets.publication]
 
-  doi= "10.1016/j.jpainsymman.2004.05.002"
+  doi="10.1016/j.jpainsymman.2004.05.002"
+
+  [datasets.collection]
+  doi="10.1197/jamia.M1929"
 
   [datasets.data]
 
-  doi="https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
+  url="https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
 
   [datasets.scripts]
   compose="compose.py SkeletalMuscleRelaxants --name Chou_2004"
-
 
 
 [[datasets]]
@@ -269,15 +288,16 @@ version=0.1
   active=false
   note="Original publication not found"
 
-  [datasets.publication]
-  doi= "10.1197/jamia.M1929"
+  [datasets.collection]
+  doi="10.1197/jamia.M1929"
 
   [datasets.data]
 
-  doi="https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
+  url="https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
 
   [datasets.scripts]
   compose="compose.py Antihistamines"
+
 
 [[datasets]]
 
@@ -285,12 +305,12 @@ version=0.1
   active=false
   note="Original publication not found"
 
-  [datasets.publication]
-  doi= "10.1197/jamia.M1929"
+  [datasets.collection]
+  doi="10.1197/jamia.M1929"
 
   [datasets.data]
 
-  doi="https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
+  url="https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
 
   [datasets.scripts]
   compose="compose.py NSAIDS"
@@ -302,16 +322,15 @@ version=0.1
   active=false
   note="Original publication not found"
 
-  [datasets.publication]
-  doi= "10.1197/jamia.M1929"
+  [datasets.collection]
+  doi="10.1197/jamia.M1929"
 
   [datasets.data]
 
-  doi="https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
+  url="https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
 
   [datasets.scripts]
   compose="compose.py Statins"
-
 
 
 [[datasets]]
@@ -320,15 +339,16 @@ version=0.1
   active=false
   note="Original publication not found"
 
-  [datasets.publication]
-  doi= "10.1197/jamia.M1929"
+  [datasets.collection]
+  doi="10.1197/jamia.M1929"
 
   [datasets.data]
 
-  doi="https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
+  url="https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
 
   [datasets.scripts]
   compose="compose.py AtypicalAntipsychotics"
+
 
 [[datasets]]
 
@@ -338,11 +358,14 @@ version=0.1
 
   [datasets.publication]
 
-  doi= "10.1016/j.jpainsymman.2003.03.003"
+  doi="10.1016/j.jpainsymman.2003.03.003"
+
+  [datasets.collection]
+  doi="10.1197/jamia.M1929"
 
   [datasets.data]
 
-  doi="https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
+  url="https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
 
   [datasets.scripts]
   compose="compose.py Opioids --name Chou_2003"
@@ -354,16 +377,15 @@ version=0.1
   active=false
   note="Original publication not found"
 
-  [datasets.publication]
-  doi= "10.1197/jamia.M1929"
+  [datasets.collection]
+  doi="10.1197/jamia.M1929"
 
   [datasets.data]
 
-  doi="https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
+  url="https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
 
   [datasets.scripts]
   compose="compose.py Triptans"
-
 
 
 [[datasets]]
@@ -372,15 +394,16 @@ version=0.1
   active=false
   note="Original publication not found"
 
-  [datasets.publication]
-  doi= "10.1197/jamia.M1929"
+  [datasets.collection]
+  doi="10.1197/jamia.M1929"
 
   [datasets.data]
 
-  doi="https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
+  url="https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
 
   [datasets.scripts]
   compose="compose.py BetaBlockers"
+
 
 [[datasets]]
 
@@ -388,12 +411,12 @@ version=0.1
   active=false
   note="Original publication not found"
 
-  [datasets.publication]
-  doi= "10.1197/jamia.M1929"
+  [datasets.collection]
+  doi="10.1197/jamia.M1929"
 
   [datasets.data]
 
-  doi="https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
+  url="https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
 
   [datasets.scripts]
   compose="compose.py OralHypoglycemics"
@@ -405,15 +428,16 @@ version=0.1
   active=false
   note="Original publication not found"
 
-  [datasets.publication]
-  doi= "10.1197/jamia.M1929"
+  [datasets.collection]
+  doi="10.1197/jamia.M1929"
 
   [datasets.data]
 
-  doi="https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
+  url="https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
 
   [datasets.scripts]
   compose="compose.py UrinaryIncontinence"
+
 
 [[datasets]]
 
@@ -423,28 +447,27 @@ version=0.1
 
   [datasets.publication]
 
-  doi= "10.30636/jbpa.22.71"
+  doi="10.30636/jbpa.22.71"
 
   [datasets.data]
 
-  doi="https://doi.org/10.7910/DVN/WMGPGZ/HY6N2S"
+  doi="10.7910/DVN/WMGPGZ/HY6N2S"
 
 
 [[datasets]]
 
-  # Note that this dataset is also used for another systematic review:
+  # Note, this dataset is also used for another systematic review:
   # https://doi.org/10.1080/00273171.2017.1412293
 
   key="van_de_Schoot_2017"
-  note="Issue with year of publication (2017). 2016 or 2018?"
 
   [datasets.publication]
 
-  doi= "10.1080/10705511.2016.1247646"
+  doi="10.1080/10705511.2016.1247646"
 
   [datasets.data]
 
-  doi="https://doi.org/10.17605/OSF.IO/VW3T7"
+  doi="10.17605/OSF.IO/VW3T7"
 
 
 [[datasets]]
@@ -453,11 +476,11 @@ version=0.1
 
   [datasets.publication]
 
-  doi= "10.1001/jamapsychiatry.2019.3986"
+  doi="10.1001/jamapsychiatry.2019.3986"
 
   [datasets.data]
 
-  doi="https://osf.io/4d9tu/"
+  url="https://osf.io/4d9tu/"
 
 
 [[datasets]]
@@ -466,11 +489,11 @@ version=0.1
 
   [datasets.publication]
 
-  doi= "10.1016/j.jalz.2018.01.007"
+  doi="10.1016/j.jalz.2018.01.007"
 
   [datasets.data]
 
-  doi="https://osf.io/sxzjg/"
+  url="https://osf.io/sxzjg/"
 
 
 [[datasets]]
@@ -478,7 +501,7 @@ version=0.1
   key="Leenaars_2019"
 
   [datasets.publication]
-  doi= "10.5334/jcr.183"
+  doi="10.5334/jcr.183"
 
   [datasets.data]
   doi="10.17605/OSF.IO/PH56S"
@@ -486,10 +509,10 @@ version=0.1
 
 [[datasets]]
 
-  key="Welling_2022"
+  key="Welling_2021"
 
   [datasets.publication]
-  doi= "10.1159/000520718"
+  doi="10.1159/000520718"
 
   [datasets.data]
   doi="10.17605/OSF.IO/E5JNB"
@@ -500,20 +523,21 @@ version=0.1
   key="Menon_2022"
 
   [datasets.publication]
-  doi= "10.1080/10408444.2022.2082917"
+  doi="10.1080/10408444.2022.2082917"
 
   [datasets.data]
-  doi="https://osf.io/9jzsu"
+  url="https://osf.io/9jzsu"
+
 
 [[datasets]]
 
   key="van_der_Waal_2022"
 
   [datasets.publication]
-  doi= "https://doi.org/10.1016/j.jgo.2022.09.012"
+  doi="10.1016/j.jgo.2022.09.012"
 
   [datasets.data]
-  doi="https://doi.org/10.5281/zenodo.7308296"
+  doi="10.5281/zenodo.7308296"
 
 
 [[datasets]]
@@ -521,47 +545,128 @@ version=0.1
   key="Muthu_2021"
 
   [datasets.publication]
-  doi= "https://doi.org/10.1097/BRS.0000000000003645"
+  doi="10.1097/BRS.0000000000003645"
 
   [datasets.data]
-  doi="https://osf.io/68ezp"
+  url="https://osf.io/68ezp"
+
 
 [[datasets]]
 
   key="Muthu_2022"
 
   [datasets.publication]
-  doi= "http://doi.org/10.13105/wjma.v10.i3.162"
+  doi="http://doi.org/10.13105/wjma.v10.i3.162"
 
   [datasets.data]
-  doi="https://osf.io/e2yz3/"
+  url="https://osf.io/e2yz3/"
+
 
 [[datasets]]
 
   key="Jeyaraman_2020"
 
   [datasets.publication]
-  doi= "https://doi.org/10.1177/1947603520951623"
+  doi="10.1177/1947603520951623"
 
   [datasets.data]
-  doi="https://osf.io/8drsc/"
+  url="https://osf.io/8drsc/"
+
 
 [[datasets]]
 
-  key="Moran_2020"
+  key="Moran_2021"
 
   [datasets.publication]
-  doi= "10.1111/brv.12655"
+  doi="10.1111/brv.12655"
 
   [datasets.data]
   doi="10.17605/OSF.IO/3TPHJ"
 
+
 [[datasets]]
 
   key="Kwok_2020"
+  active=false
+  note="License issue"
 
   [datasets.publication]
-  doi= "10.3390/v12010107"
+  doi="10.3390/v12010107"
 
   [datasets.data]
   doi="10.17605/OSF.IO/5S27M"
+
+
+[[datasets]]
+
+  key="Oud_2018"
+
+  [datasets.publication]
+  doi="10.1177/0004867418791257"
+
+  [datasets.data]
+  url="https://osf.io/pjr97"
+
+
+[[datasets]]
+
+  key="Wassenaar_2017"
+
+  [datasets.publication]
+  doi="10.1289/ehp1233"
+
+  [datasets.data]
+  doi="10.1186/s13643-016-0263-z"
+
+
+[[datasets]]
+
+  key="Rooney_2015"
+
+  [datasets.collection]
+  doi="10.1186/s13643-016-0263-z"
+
+  [datasets.publication]
+  doi="10.1007/978-3-319-15518-0_16"
+
+  [datasets.data]
+  doi="10.1186/s13643-016-0263-z"
+
+
+[[datasets]]
+
+  key="Walker_2018"
+
+  [datasets.collection]
+  doi="10.1186/s13643-016-0263-z"
+
+  [datasets.publication]
+  doi="10.1016/j.envint.2017.12.032"
+
+  [datasets.data]
+  doi="10.1186/s13643-016-0263-z"
+
+
+[[datasets]]
+
+  key="Leenaars_2020"
+
+  [datasets.collection]
+  doi="10.1186/s13643-016-0263-z"
+
+  [datasets.publication]
+  doi="10.3390/ani10061047"
+
+  [datasets.data]
+  doi="10.17605/OSF.IO/T7GYR"
+
+
+[[datasets]]
+
+  key="Sep_2021"
+
+  [datasets.publication]
+  doi="10.1371/journal.pone.0249102"
+
+  [datasets.data]
+  doi="10.17605/OSF.IO/GY2MC"

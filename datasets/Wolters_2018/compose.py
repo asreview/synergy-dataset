@@ -15,12 +15,21 @@ df.drop_duplicates(inplace=True)
 
 # adjust columns and drop missing and duplicate ids
 df["doi"] = "https://doi.org/" + df["url"].str.extract(r"(10.\S+)")
-# df["doi"] = None
+
+df["pmid"] = None
+pubmed = df["accession_number"].notnull() & (
+    df["accession_number"].str.startswith("CN") == False
+)
+df.loc[pubmed, "pmid"] = (
+    "https://pubmed.ncbi.nlm.nih.gov/" + df.loc[pubmed, "accession_number"]
+)
 
 # save results to file
 df.to_csv(f"{key}_raw.csv", index=False)
 
-df_new = df[["doi", "label_included"]].copy()
+df_new = df[["pmid", "doi", "label_included"]].copy()
 df_new["openalex_id"] = None
 
-df_new[["doi", "openalex_id", "label_included"]].to_csv(f"{key}_ids.csv", index=False)
+df_new[["pmid", "doi", "openalex_id", "label_included"]].to_csv(
+    f"{key}_ids.csv", index=False
+)

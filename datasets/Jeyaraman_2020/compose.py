@@ -2,7 +2,9 @@ import pandas as pd
 
 key = "Jeyaraman_2020"
 
-df = pd.read_csv("https://osf.io/download/pkc3g/", sep="\t", encoding="windows-1252", engine="python")
+df = pd.read_csv(
+    "https://osf.io/download/pkc3g/", sep="\t", encoding="windows-1252", engine="python"
+)
 
 # rename columns
 df.rename({"Label": "label_included", "Title": "title"}, axis=1, inplace=True)
