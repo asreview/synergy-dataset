@@ -80,7 +80,7 @@ def package(dataset_name, output_folder):
             x += PAGE_SIZE
 
 
-def render_metadata(dataset_config, labels_path):
+def render_metadata(dataset_config, output_path, labels_path):
     # Add license info?
 
     config = dataset_config.copy()
@@ -90,13 +90,10 @@ def render_metadata(dataset_config, labels_path):
     except KeyError:
         pass
 
-    try:
-        print("Metadata of", dataset["key"])
+    w_pub = Works()["doi:" + dataset["publication"]["doi"]]
 
-        w = Works()["doi:" + dataset["publication"]["doi"]]
-
-    except requests.exceptions.HTTPError as err:
-        print("ERROR with metadata of {}:".format(dataset["key"]), err)
+    with open(Path(output_path, "metadata_publication.json"), "w") as f:
+        json.dump(w_pub, f, indent=2)
 
     # get the APA style citation
     r = requests.get(
@@ -104,14 +101,30 @@ def render_metadata(dataset_config, labels_path):
         headers={"accept": "text/x-bibliography; style=apa; charset=utf-8"},
     )
     r.encoding = "utf-8"
-    dataset["publication"]["citation"] = {"apa": r.text}
+    with open(Path(output_path, "CITATION.txt"), "w") as f:
+        f.write(r.text)
+
+    if "collection" in dataset:
+        w_col = Works()["doi:" + dataset["collection"]["doi"]]
+        with open(Path(output_path, "metadata_collection.json"), "w") as f:
+            json.dump(w_col, f, indent=2)
+
+        # get the APA style citation
+        r = requests.get(
+            "https://doi.org/" + dataset["collection"]["doi"],
+            headers={"accept": "text/x-bibliography; style=apa; charset=utf-8"},
+        )
+        r.encoding = "utf-8"
+        with open(Path(output_path, "CITATION_collection.txt"), "w") as f:
+            f.write(r.text)
 
     # add stats
-    n, n_included = stats(labels_path)
+    n, n_included = stats(Path(output_path, labels_path))
     config["data"]["n_records"] = n
     config["data"]["n_records_included"] = n_included
 
-    return config, dict(w)
+    with open(Path(output_path, "metadata.json"), "w") as f:
+        json.dump(config, f, indent=2)
 
 
 if __name__ == "__main__":
@@ -140,14 +153,8 @@ if __name__ == "__main__":
         output_path = Path("..", "synergy-release", dataset["key"])
         output_path.mkdir(exist_ok=True, parents=True)
 
-        if 1:
+        if 0:
             package(dataset["key"], output_path)
 
         if 1:
-            meta, works = render_metadata(dataset, Path(output_path, "labels.csv"))
-
-            with open(Path(output_path, "metadata.json"), "w") as f:
-                json.dump(meta, f, indent=2)
-
-            with open(Path(output_path, "publication_metadata.json"), "w") as f:
-                json.dump(works, f, indent=2)
+            render_metadata(dataset, output_path, "labels.csv")
