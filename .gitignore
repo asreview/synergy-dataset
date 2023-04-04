@@ -5,4 +5,9 @@ __pycache__
 *.secret
 
 datasets/*/*_raw.csv
-datasets/*/*_abstract_inverted_index.csv
+datasets/*/*_index.json
+
+abstract_inverted_index*.json
+abstracts_missing.csv
+
+scripts/invert_*.py
