@@ -4,7 +4,7 @@
 
 # SYNERGY dataset
 
-SYNERGY is a free and open dataset on study selection in systematic reviews, comprising 111095 academic works from 25 systematic reviews. Only 1.5% of the academic works in the binary classified dataset was included in the systematic review. This makes the SYNERGY dataset an interesting dataset for the development of information retrieval algorithms, especially for sparse labels. Due to the many available variables available per record (i.e. titles, abstracts, authors, references, topics), this dataset is useful for researchers in NLP, information retrieval, network analysis and more. 
+SYNERGY is a free and open dataset on study selection in systematic reviews, comprising 181482 academic works from 30 systematic reviews. Only 3274 (1.5%) of the academic works in the binary classified dataset are included in the systematic reviews. This makes the SYNERGY dataset an interesting dataset for the development of information retrieval algorithms, especially for sparse labels. Due to the many available variables available per record (i.e. titles, abstracts, authors, references, topics), this dataset is useful for researchers in NLP, information retrieval, network analysis and more. In total, the dataset contains 88,629,922 trainable data points. 
 
 [![SYNERGY-banner.png](SYNERGY-banner.png)]()
 
@@ -23,40 +23,46 @@ python -m synergy get <FOLDER_TO_DOWNLOAD>
 You can get an overview of the datasets and their properties with `synergy list` and `synergy show <DATASET_NAME>`.
 
 > ### Slow internet connection or limited resources?
-> The SYNERGY dataset is a large dataset with 50787117 datapoints. The total file size is 600Mb. It is possible to download a version of the dataset with only titles, abstracts, and labels. This dataset is smaller in size and can be rich enough for several applications. Download the dataset with `synergy get --light`
+> The SYNERGY dataset is a large dataset with 88,629,922 datapoints. The total file size is 600Mb. It is possible to download a version of the dataset with only titles, abstracts, and labels. This dataset is smaller in size and can be rich enough for several applications. Download the dataset with `synergy get --light`
 
 
 ## Datasets and variables
 
-SYNERGY is a collection of 24 systematic review datasets with in total 108853 records with 1588 total inclusions. The list of datasets and references:
+SYNERGY is a collection of 24 systematic review datasets with in total 181482 records with 3274 total inclusions. The list of datasets and references:
 
 
-|   Nr | Dataset                 | Field                         |   Records |   Included |    % |
+|   Nr | Dataset                 | Topic(s)                      |   Records |   Included |    % |
 |------|-------------------------|-------------------------------|-----------|------------|------|
-|    1 | Appenzeller-Herzog_2020 | Medicine                      |      2863 |         26 |  0.9 |
-|    2 | Bannach-Brown_2019      | Medicine, Computer science    |      1932 |        264 | 13.7 |
-|    3 | Bos_2018                | Medicine                      |      4608 |          8 |  0.2 |
-|    4 | Brouwer_2019            | Psychology, Medicine          |     38038 |         58 |  0.2 |
+|    1 | Appenzeller-Herzog_2019 | Medicine                      |      2873 |         26 |  0.9 |
+|    2 | Bannach-Brown_2019      | Medicine, Computer science    |      1934 |        266 | 13.8 |
+|    3 | Bos_2018                | Medicine                      |      4878 |         10 |  0.2 |
+|    4 | Brouwer_2019            | Psychology, Medicine          |     38114 |         62 |  0.2 |
 |    5 | Chou_2003               | Medicine                      |      1908 |         15 |  0.8 |
 |    6 | Chou_2004               | Medicine                      |      1630 |          9 |  0.6 |
-|    7 | Donners_2021            | Medicine                      |       258 |         14 |  5.4 |
-|    8 | Hall_2012               | Computer science, Engineering |      8731 |        104 |  1.2 |
-|    9 | Jeyaraman_2020          | Medicine                      |      1174 |         95 |  8.1 |
-|   10 | Leenaars_2019           | Medicine, Chemistry           |      5795 |         17 |  0.3 |
-|   11 | Meijboom_2022           | Medicine, Physics             |       882 |         36 |  4.1 |
-|   12 | Menon_2022              | Medicine, Psychology          |       971 |         73 |  7.5 |
-|   13 | Moran_2020              | Psychology, Biology           |      5203 |        107 |  2.1 |
-|   14 | Muthu_2021              | Medicine, Chemistry           |      2706 |        322 | 11.9 |
-|   15 | Muthu_2022              | Medicine                      |       284 |          6 |  2.1 |
-|   16 | Nelson_2002             | Medicine, Physics             |       364 |         78 | 21.4 |
-|   17 | Radjenovic_2013         | Computer science, Engineering |      5897 |         48 |  0.8 |
-|   18 | Smid_2020               | Computer science, Mathematics |      1980 |         24 |  1.2 |
-|   19 | Valk_2021               | Medicine, Mathematics         |       717 |         86 | 12   |
-|   20 | van_de_Schoot_2017      | Psychology, Mathematics       |      4494 |         36 |  0.8 |
-|   21 | van_der_Waal_2022       | Medicine, Political science   |      1959 |         33 |  1.7 |
-|   22 | van_Dis_2020            | Psychology, Medicine          |      8791 |         59 |  0.7 |
-|   23 | Welling_2022            | Medicine, Sociology           |      3678 |         58 |  1.6 |
-|   24 | Wolters_2018            | Medicine                      |      3990 |         12 |  0.3 |
+|    7 | Donners_2021            | Medicine                      |       258 |         15 |  5.8 |
+|    8 | Hall_2012               | Computer science, Engineering |      8793 |        104 |  1.2 |
+|    9 | Jeyaraman_2020          | Medicine                      |      1175 |         96 |  8.2 |
+|   10 | Leenaars_2019           | Medicine, Chemistry           |      5812 |         17 |  0.3 |
+|   11 | Leenaars_2020           | Medicine, Biology             |      7216 |        583 |  8.1 |
+|   12 | Meijboom_2021           | Medicine, Physics             |       882 |         37 |  4.2 |
+|   13 | Menon_2022              | Medicine, Psychology          |       975 |         74 |  7.6 |
+|   14 | Moran_2021              | Psychology, Biology           |      5214 |        111 |  2.1 |
+|   15 | Muthu_2021              | Medicine, Chemistry           |      2719 |        336 | 12.4 |
+|   16 | Muthu_2022              | Medicine                      |       285 |          6 |  2.1 |
+|   17 | Nelson_2002             | Medicine, Physics             |       366 |         80 | 21.9 |
+|   18 | Oud_2018                | Psychology, Medicine          |       952 |         20 |  2.1 |
+|   19 | Radjenovic_2013         | Computer science, Engineering |      5935 |         48 |  0.8 |
+|   20 | Rooney_2015             | Psychology, Medicine          |      6286 |         95 |  1.5 |
+|   21 | Sep_2021                | Computer science, Psychology  |       271 |         40 | 14.8 |
+|   22 | Smid_2020               | Computer science, Mathematics |      2627 |         27 |  1   |
+|   23 | Valk_2021               | Medicine, Mathematics         |       725 |         89 | 12.3 |
+|   24 | van_de_Schoot_2017      | Psychology, Mathematics       |      4544 |         38 |  0.8 |
+|   25 | van_der_Waal_2022       | Medicine, Political science   |      1970 |         33 |  1.7 |
+|   26 | van_Dis_2020            | Psychology, Medicine          |      9128 |         72 |  0.8 |
+|   27 | Walker_2018             | Psychology, Medicine          |     48375 |        762 |  1.6 |
+|   28 | Wassenaar_2017          | Medicine, Biology             |      7668 |        111 |  1.4 |
+|   29 | Welling_2021            | Medicine, Sociology           |      3689 |         73 |  2   |
+|   30 | Wolters_2018            | Medicine                      |      4280 |         19 |  0.4 |
 
 The each record in the dataset is an [OpenAlex Work object](https://docs.openalex.org/api-entities/works/work-object
 ) (Copy at [web.archive.org](https://web.archive.org/web/20230331020326/https://docs.openalex.org/api-entities/works/work-object) extracted on 2023-03-31) with following attributes:
