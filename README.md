@@ -4,7 +4,7 @@
 
 # SYNERGY dataset
 
-SYNERGY is a free and open dataset on study selection in systematic reviews, comprising 181482 academic works from 30 systematic reviews. Only 3274 (1.5%) of the academic works in the binary classified dataset are included in the systematic reviews. This makes the SYNERGY dataset an interesting dataset for the development of information retrieval algorithms, especially for sparse labels. Due to the many available variables available per record (i.e. titles, abstracts, authors, references, topics), this dataset is useful for researchers in NLP, information retrieval, network analysis and more. In total, the dataset contains 88,629,922 trainable data points. 
+SYNERGY is a free and open dataset on study selection in systematic reviews, comprising 181482 academic works from 30 systematic reviews. Only 3274 (1.8%) of the academic works in the binary classified dataset are included in the systematic reviews. This makes the SYNERGY dataset an interesting dataset for the development of information retrieval algorithms, especially for sparse labels. Due to the many available variables available per record (i.e. titles, abstracts, authors, references, topics), this dataset is useful for researchers in NLP, information retrieval, network analysis and more. In total, the dataset contains 88,629,922 trainable data points. 
 
 [![SYNERGY-banner.png](SYNERGY-banner.png)]()
 
