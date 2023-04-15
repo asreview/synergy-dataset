@@ -48,7 +48,8 @@
   "open_access": {
     "is_oa": true,
     "oa_status": "gold",
-    "oa_url": "https://www.mdpi.com/2076-2615/10/6/1047/pdf?version=1593401372"
+    "oa_url": "https://www.mdpi.com/2076-2615/10/6/1047/pdf?version=1593401372",
+    "any_repository_has_fulltext": true
   },
   "authorships": [
     {
@@ -60,11 +61,11 @@
       },
       "institutions": [
         {
-          "id": "https://openalex.org/I145872427",
-          "display_name": "Radboud University Nijmegen",
-          "ror": "https://ror.org/016xsfp80",
+          "id": "https://openalex.org/I4210109357",
+          "display_name": "Radboud Institute for Molecular Life Sciences",
+          "ror": "https://ror.org/01yb10j39",
           "country_code": "NL",
-          "type": "education"
+          "type": "facility"
         }
       ],
       "is_corresponding": true,
@@ -86,7 +87,7 @@
           "type": "education"
         }
       ],
-      "is_corresponding": null,
+      "is_corresponding": false,
       "raw_affiliation_string": "Ethics Institute, Utrecht University, 3508 TC Utrecht, the Netherlands."
     },
     {
@@ -98,14 +99,14 @@
       },
       "institutions": [
         {
-          "id": "https://openalex.org/I145872427",
-          "display_name": "Radboud University Nijmegen",
-          "ror": "https://ror.org/016xsfp80",
+          "id": "https://openalex.org/I4210109357",
+          "display_name": "Radboud Institute for Molecular Life Sciences",
+          "ror": "https://ror.org/01yb10j39",
           "country_code": "NL",
-          "type": "education"
+          "type": "facility"
         }
       ],
-      "is_corresponding": null,
+      "is_corresponding": false,
       "raw_affiliation_string": "SYRCLE, Department for Health Evidence (section HTA), Radboud Institute for Health Sciences, Radboud University Medical Centre, 6525 GA Nijmegen, The Netherlands."
     },
     {
@@ -117,14 +118,14 @@
       },
       "institutions": [
         {
-          "id": "https://openalex.org/I145872427",
-          "display_name": "Radboud University Nijmegen",
-          "ror": "https://ror.org/016xsfp80",
+          "id": "https://openalex.org/I4210109357",
+          "display_name": "Radboud Institute for Molecular Life Sciences",
+          "ror": "https://ror.org/01yb10j39",
           "country_code": "NL",
-          "type": "education"
+          "type": "facility"
         }
       ],
-      "is_corresponding": null,
+      "is_corresponding": false,
       "raw_affiliation_string": "SYRCLE, Department for Health Evidence (section HTA), Radboud Institute for Health Sciences, Radboud University Medical Centre, 6525 GA Nijmegen, The Netherlands."
     },
     {
@@ -136,14 +137,14 @@
       },
       "institutions": [
         {
-          "id": "https://openalex.org/I145872427",
-          "display_name": "Radboud University Nijmegen",
-          "ror": "https://ror.org/016xsfp80",
+          "id": "https://openalex.org/I4210109357",
+          "display_name": "Radboud Institute for Molecular Life Sciences",
+          "ror": "https://ror.org/01yb10j39",
           "country_code": "NL",
-          "type": "education"
+          "type": "facility"
         }
       ],
-      "is_corresponding": null,
+      "is_corresponding": false,
       "raw_affiliation_string": "SYRCLE, Department for Health Evidence (section HTA), Radboud Institute for Health Sciences, Radboud University Medical Centre, 6525 GA Nijmegen, The Netherlands."
     },
     {
@@ -162,7 +163,7 @@
           "type": "education"
         }
       ],
-      "is_corresponding": null,
+      "is_corresponding": false,
       "raw_affiliation_string": "Central Animal Facility, Leiden University Medical Centre, 2300 RC Leiden, The Netherlands."
     },
     {
@@ -181,7 +182,7 @@
           "type": "facility"
         }
       ],
-      "is_corresponding": null,
+      "is_corresponding": false,
       "raw_affiliation_string": "Biological Research Facility, The Francis Crick Institute, London NW1 1AT, UK."
     },
     {
@@ -193,14 +194,14 @@
       },
       "institutions": [
         {
-          "id": "https://openalex.org/I145872427",
-          "display_name": "Radboud University Nijmegen",
-          "ror": "https://ror.org/016xsfp80",
+          "id": "https://openalex.org/I4210109357",
+          "display_name": "Radboud Institute for Molecular Life Sciences",
+          "ror": "https://ror.org/01yb10j39",
           "country_code": "NL",
-          "type": "education"
+          "type": "facility"
         }
       ],
-      "is_corresponding": null,
+      "is_corresponding": false,
       "raw_affiliation_string": "SYRCLE, Department for Health Evidence (section HTA), Radboud Institute for Health Sciences, Radboud University Medical Centre, 6525 GA Nijmegen, The Netherlands."
     },
     {
@@ -212,14 +213,14 @@
       },
       "institutions": [
         {
-          "id": "https://openalex.org/I145872427",
-          "display_name": "Radboud University Nijmegen",
-          "ror": "https://ror.org/016xsfp80",
+          "id": "https://openalex.org/I4210109357",
+          "display_name": "Radboud Institute for Molecular Life Sciences",
+          "ror": "https://ror.org/01yb10j39",
           "country_code": "NL",
-          "type": "education"
+          "type": "facility"
         }
       ],
-      "is_corresponding": null,
+      "is_corresponding": false,
       "raw_affiliation_string": "SYRCLE, Department for Health Evidence (section HTA), Radboud Institute for Health Sciences, Radboud University Medical Centre, 6525 GA Nijmegen, The Netherlands."
     },
     {
@@ -238,7 +239,7 @@
           "type": "education"
         }
       ],
-      "is_corresponding": null,
+      "is_corresponding": false,
       "raw_affiliation_string": "Institute for Laboratory Animal Science, Hannover Medical School, 30625 Hannover, Germany."
     },
     {
@@ -250,14 +251,14 @@
       },
       "institutions": [
         {
-          "id": "https://openalex.org/I145872427",
-          "display_name": "Radboud University Nijmegen",
-          "ror": "https://ror.org/016xsfp80",
+          "id": "https://openalex.org/I4210109357",
+          "display_name": "Radboud Institute for Molecular Life Sciences",
+          "ror": "https://ror.org/01yb10j39",
           "country_code": "NL",
-          "type": "education"
+          "type": "facility"
         }
       ],
-      "is_corresponding": null,
+      "is_corresponding": false,
       "raw_affiliation_string": "SYRCLE, Department for Health Evidence (section HTA), Radboud Institute for Health Sciences, Radboud University Medical Centre, 6525 GA Nijmegen, The Netherlands."
     },
     {
@@ -276,7 +277,7 @@
           "type": "education"
         }
       ],
-      "is_corresponding": null,
+      "is_corresponding": false,
       "raw_affiliation_string": "Department of Population Health Science, unit Animals in Science and Society, Utrecht University, 3508 TD Utrecht, The Netherlands."
     },
     {
@@ -288,14 +289,14 @@
       },
       "institutions": [
         {
-          "id": "https://openalex.org/I145872427",
-          "display_name": "Radboud University Nijmegen",
-          "ror": "https://ror.org/016xsfp80",
+          "id": "https://openalex.org/I4210109357",
+          "display_name": "Radboud Institute for Molecular Life Sciences",
+          "ror": "https://ror.org/01yb10j39",
           "country_code": "NL",
-          "type": "education"
+          "type": "facility"
         }
       ],
-      "is_corresponding": null,
+      "is_corresponding": false,
       "raw_affiliation_string": "SYRCLE, Department for Health Evidence (section HTA), Radboud Institute for Health Sciences, Radboud University Medical Centre, 6525 GA Nijmegen, The Netherlands."
     }
   ],
@@ -562,7 +563,7 @@
         "type": "repository"
       },
       "license": null,
-      "version": "publishedVersion"
+      "version": "acceptedVersion"
     }
   ],
   "best_oa_location": {
@@ -626,7 +627,7 @@
       "type": "repository",
       "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7341304",
       "is_oa": true,
-      "version": "publishedVersion",
+      "version": "acceptedVersion",
       "license": null
     }
   ],
@@ -1158,6 +1159,6 @@
       "cited_by_count": 2
     }
   ],
-  "updated_date": "2023-03-26T07:39:00.650995",
+  "updated_date": "2023-04-09T07:07:10.967578",
   "created_date": "2020-06-25"
 }
