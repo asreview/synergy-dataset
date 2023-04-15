@@ -4,7 +4,7 @@
 
 # SYNERGY dataset
 
-SYNERGY is a free and open dataset on study selection in systematic reviews, comprising 181482 academic works from 30 systematic reviews. Only 3274 (1.8%) of the academic works in the binary classified dataset are included in the systematic reviews. This makes the SYNERGY dataset an interesting dataset for the development of information retrieval algorithms, especially for sparse labels. Due to the many available variables available per record (i.e. titles, abstracts, authors, references, topics), this dataset is useful for researchers in NLP, information retrieval, network analysis and more. In total, the dataset contains 88,629,922 trainable data points. 
+SYNERGY is a free and open dataset on study selection in systematic reviews, comprising 169,288 academic works from 26 systematic reviews. Only 2834 (1.67%) of the academic works in the binary classified dataset are included in the systematic reviews. This makes the SYNERGY dataset an interesting dataset for the development of information retrieval algorithms, especially for sparse labels. Due to the many available variables available per record (i.e. titles, abstracts, authors, references, topics), this dataset is useful for researchers in NLP, information retrieval, network analysis and more. In total, the dataset contains 82,668,134 trainable data points. 
 
 [![SYNERGY-banner.png](SYNERGY-banner.png)]()
 
@@ -24,41 +24,36 @@ You can get an overview of the datasets and their properties with `synergy_datas
 
 ## Datasets and variables
 
-SYNERGY is a collection of 24 systematic review datasets with in total 181482 records with 3274 total inclusions. The list of datasets and references:
-
+SYNERGY is a collection of 24 systematic review datasets with in total 169,288 records with 2834 total inclusions. The list of datasets and references:
 
 |   Nr | Dataset                 | Topic(s)                      |   Records |   Included |    % |
 |------|-------------------------|-------------------------------|-----------|------------|------|
 |    1 | Appenzeller-Herzog_2019 | Medicine                      |      2873 |         26 |  0.9 |
-|    2 | Bannach-Brown_2019      | Medicine, Computer science    |      1934 |        266 | 13.8 |
-|    3 | Bos_2018                | Medicine                      |      4878 |         10 |  0.2 |
-|    4 | Brouwer_2019            | Psychology, Medicine          |     38114 |         62 |  0.2 |
-|    5 | Chou_2003               | Medicine                      |      1908 |         15 |  0.8 |
-|    6 | Chou_2004               | Medicine                      |      1630 |          9 |  0.6 |
-|    7 | Donners_2021            | Medicine                      |       258 |         15 |  5.8 |
-|    8 | Hall_2012               | Computer science, Engineering |      8793 |        104 |  1.2 |
-|    9 | Jeyaraman_2020          | Medicine                      |      1175 |         96 |  8.2 |
-|   10 | Leenaars_2019           | Medicine, Chemistry           |      5812 |         17 |  0.3 |
-|   11 | Leenaars_2020           | Medicine, Biology             |      7216 |        583 |  8.1 |
-|   12 | Meijboom_2021           | Medicine, Physics             |       882 |         37 |  4.2 |
-|   13 | Menon_2022              | Medicine, Psychology          |       975 |         74 |  7.6 |
-|   14 | Moran_2021              | Psychology, Biology           |      5214 |        111 |  2.1 |
-|   15 | Muthu_2021              | Medicine, Chemistry           |      2719 |        336 | 12.4 |
-|   16 | Muthu_2022              | Medicine                      |       285 |          6 |  2.1 |
-|   17 | Nelson_2002             | Medicine, Physics             |       366 |         80 | 21.9 |
-|   18 | Oud_2018                | Psychology, Medicine          |       952 |         20 |  2.1 |
-|   19 | Radjenovic_2013         | Computer science, Engineering |      5935 |         48 |  0.8 |
-|   20 | Rooney_2015             | Psychology, Medicine          |      6286 |         95 |  1.5 |
-|   21 | Sep_2021                | Computer science, Psychology  |       271 |         40 | 14.8 |
-|   22 | Smid_2020               | Computer science, Mathematics |      2627 |         27 |  1   |
-|   23 | Valk_2021               | Medicine, Mathematics         |       725 |         89 | 12.3 |
-|   24 | van_de_Schoot_2017      | Psychology, Mathematics       |      4544 |         38 |  0.8 |
-|   25 | van_der_Waal_2022       | Medicine, Political science   |      1970 |         33 |  1.7 |
-|   26 | van_Dis_2020            | Psychology, Medicine          |      9128 |         72 |  0.8 |
-|   27 | Walker_2018             | Psychology, Medicine          |     48375 |        762 |  1.6 |
-|   28 | Wassenaar_2017          | Medicine, Biology             |      7668 |        111 |  1.4 |
-|   29 | Welling_2021            | Medicine, Sociology           |      3689 |         73 |  2   |
-|   30 | Wolters_2018            | Medicine                      |      4280 |         19 |  0.4 |
+|    2 | Bos_2018                | Medicine                      |      4878 |         10 |  0.2 |
+|    3 | Brouwer_2019            | Psychology, Medicine          |     38114 |         62 |  0.2 |
+|    4 | Chou_2003               | Medicine                      |      1908 |         15 |  0.8 |
+|    5 | Chou_2004               | Medicine                      |      1630 |          9 |  0.6 |
+|    6 | Donners_2021            | Medicine                      |       258 |         15 |  5.8 |
+|    7 | Hall_2012               | Computer science, Engineering |      8793 |        104 |  1.2 |
+|    8 | Jeyaraman_2020          | Medicine                      |      1175 |         96 |  8.2 |
+|    9 | Leenaars_2019           | Medicine, Chemistry           |      5812 |         17 |  0.3 |
+|   10 | Leenaars_2020           | Medicine, Biology             |      7216 |        583 |  8.1 |
+|   11 | Meijboom_2021           | Medicine, Physics             |       882 |         37 |  4.2 |
+|   12 | Menon_2022              | Medicine, Psychology          |       975 |         74 |  7.6 |
+|   13 | Moran_2021              | Psychology, Biology           |      5214 |        111 |  2.1 |
+|   14 | Muthu_2021              | Medicine, Chemistry           |      2719 |        336 | 12.4 |
+|   15 | Nelson_2002             | Medicine, Physics             |       366 |         80 | 21.9 |
+|   16 | Oud_2018                | Psychology, Medicine          |       952 |         20 |  2.1 |
+|   17 | Radjenovic_2013         | Computer science, Engineering |      5935 |         48 |  0.8 |
+|   18 | Sep_2021                | Computer science, Psychology  |       271 |         40 | 14.8 |
+|   19 | Smid_2020               | Computer science, Mathematics |      2627 |         27 |  1   |
+|   20 | van_de_Schoot_2018      | Computer science, Mathematics |      4544 |         38 |  0.8 |
+|   21 | Valk_2021               | Medicine, Mathematics         |       725 |         89 | 12.3 |
+|   22 | van_der_Waal_2022       | Medicine, Political science   |      1970 |         33 |  1.7 |
+|   23 | van_Dis_2020            | Psychology, Medicine          |      9128 |         72 |  0.8 |
+|   24 | Walker_2018             | Psychology, Medicine          |     48375 |        762 |  1.6 |
+|   25 | Wassenaar_2017          | Medicine, Biology             |      7668 |        111 |  1.4 |
+|   26 | Wolters_2018            | Medicine                      |      4280 |         19 |  0.4 |
 
 The each record in the dataset is an [OpenAlex Work object](https://docs.openalex.org/api-entities/works/work-object
 ) (Copy at [web.archive.org](https://web.archive.org/web/20230331020326/https://docs.openalex.org/api-entities/works/work-object) extracted on 2023-03-31) with following attributes:
