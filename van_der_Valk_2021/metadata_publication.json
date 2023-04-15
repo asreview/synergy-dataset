@@ -25,6 +25,10 @@
       ],
       "host_organization": "https://openalex.org/P4310320503",
       "host_organization_name": "Wiley-Blackwell",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320503",
+        "https://openalex.org/P4310320595"
+      ],
       "type": "journal"
     },
     "license": null,
@@ -49,7 +53,8 @@
   "open_access": {
     "is_oa": true,
     "oa_status": "green",
-    "oa_url": "https://pure.eur.nl/ws/files/50500868/Obesity_Reviews_2021_Valk_Cross_sectional_relation_of_long_term_glucocorticoids_in_hair_with_anthropometric.pdf"
+    "oa_url": "https://pure.eur.nl/ws/files/50500868/Obesity_Reviews_2021_Valk_Cross_sectional_relation_of_long_term_glucocorticoids_in_hair_with_anthropometric.pdf",
+    "any_repository_has_fulltext": true
   },
   "authorships": [
     {
@@ -61,11 +66,18 @@
       },
       "institutions": [
         {
-          "id": null,
-          "display_name": "Obesity Center CGG, Erasmus MC, University Medical Center Rotterdam, Rotterdam, The Netherlands.",
-          "ror": null,
-          "country_code": null,
-          "type": null
+          "id": "https://openalex.org/I913958620",
+          "display_name": "Erasmus University Rotterdam",
+          "ror": "https://ror.org/057w15z03",
+          "country_code": "NL",
+          "type": "education"
+        },
+        {
+          "id": "https://openalex.org/I2801952686",
+          "display_name": "Erasmus MC",
+          "ror": "https://ror.org/018906e22",
+          "country_code": "NL",
+          "type": "healthcare"
         }
       ],
       "is_corresponding": false,
@@ -80,22 +92,22 @@
       },
       "institutions": [
         {
+          "id": "https://openalex.org/I4210142620",
+          "display_name": "Erasmus MC - Sophia Children\u2019s Hospital",
+          "ror": "https://ror.org/047afsm11",
+          "country_code": "NL",
+          "type": "healthcare"
+        },
+        {
           "id": "https://openalex.org/I2801952686",
           "display_name": "Erasmus MC",
           "ror": "https://ror.org/018906e22",
           "country_code": "NL",
           "type": "healthcare"
-        },
-        {
-          "id": null,
-          "display_name": "Obesity Center CGG, Erasmus MC University Medical Center Rotterdam  Rotterdam The Netherlands",
-          "ror": null,
-          "country_code": null,
-          "type": null
         }
       ],
       "is_corresponding": false,
-      "raw_affiliation_string": "Department of Pediatrics, Division of Endocrinology Erasmus MC-Sophia Children's Hospital, University Medical Center Rotterdam Rotterdam The Netherlands; Obesity Center CGG, Erasmus MC University Medical Center Rotterdam  Rotterdam The Netherlands"
+      "raw_affiliation_string": "Obesity Center CGG, Erasmus MC University Medical Center Rotterdam  Rotterdam The Netherlands; Department of Pediatrics, Division of Endocrinology Erasmus MC-Sophia Children's Hospital, University Medical Center Rotterdam Rotterdam The Netherlands"
     },
     {
       "author_position": "middle",
@@ -106,11 +118,18 @@
       },
       "institutions": [
         {
-          "id": null,
-          "display_name": "Obesity Center CGG, Erasmus MC, University Medical Center Rotterdam, Rotterdam, The Netherlands.",
-          "ror": null,
-          "country_code": null,
-          "type": null
+          "id": "https://openalex.org/I913958620",
+          "display_name": "Erasmus University Rotterdam",
+          "ror": "https://ror.org/057w15z03",
+          "country_code": "NL",
+          "type": "education"
+        },
+        {
+          "id": "https://openalex.org/I2801952686",
+          "display_name": "Erasmus MC",
+          "ror": "https://ror.org/018906e22",
+          "country_code": "NL",
+          "type": "healthcare"
         }
       ],
       "is_corresponding": false,
@@ -125,11 +144,18 @@
       },
       "institutions": [
         {
-          "id": null,
-          "display_name": "Obesity Center CGG, Erasmus MC, University Medical Center Rotterdam, Rotterdam, The Netherlands.",
-          "ror": null,
-          "country_code": null,
-          "type": null
+          "id": "https://openalex.org/I913958620",
+          "display_name": "Erasmus University Rotterdam",
+          "ror": "https://ror.org/057w15z03",
+          "country_code": "NL",
+          "type": "education"
+        },
+        {
+          "id": "https://openalex.org/I2801952686",
+          "display_name": "Erasmus MC",
+          "ror": "https://ror.org/018906e22",
+          "country_code": "NL",
+          "type": "healthcare"
         }
       ],
       "is_corresponding": false,
@@ -144,11 +170,18 @@
       },
       "institutions": [
         {
-          "id": null,
-          "display_name": "Obesity Center CGG, Erasmus MC, University Medical Center Rotterdam, Rotterdam, The Netherlands.",
-          "ror": null,
-          "country_code": null,
-          "type": null
+          "id": "https://openalex.org/I913958620",
+          "display_name": "Erasmus University Rotterdam",
+          "ror": "https://ror.org/057w15z03",
+          "country_code": "NL",
+          "type": "education"
+        },
+        {
+          "id": "https://openalex.org/I2801952686",
+          "display_name": "Erasmus MC",
+          "ror": "https://ror.org/018906e22",
+          "country_code": "NL",
+          "type": "healthcare"
         }
       ],
       "is_corresponding": false,
@@ -163,22 +196,22 @@
       },
       "institutions": [
         {
+          "id": "https://openalex.org/I4210142620",
+          "display_name": "Erasmus MC - Sophia Children\u2019s Hospital",
+          "ror": "https://ror.org/047afsm11",
+          "country_code": "NL",
+          "type": "healthcare"
+        },
+        {
           "id": "https://openalex.org/I2801952686",
           "display_name": "Erasmus MC",
           "ror": "https://ror.org/018906e22",
           "country_code": "NL",
           "type": "healthcare"
-        },
-        {
-          "id": null,
-          "display_name": "Obesity Center CGG, Erasmus MC University Medical Center Rotterdam Rotterdam The Netherlands",
-          "ror": null,
-          "country_code": null,
-          "type": null
         }
       ],
       "is_corresponding": false,
-      "raw_affiliation_string": "Department of Pediatrics, division of Endocrinology, Erasmus MC-Sophia Children's Hospital University Medical Center Rotterdam Rotterdam The Netherlands; Obesity Center CGG, Erasmus MC University Medical Center Rotterdam Rotterdam The Netherlands"
+      "raw_affiliation_string": "Obesity Center CGG, Erasmus MC University Medical Center Rotterdam Rotterdam The Netherlands; Department of Pediatrics, division of Endocrinology, Erasmus MC-Sophia Children's Hospital University Medical Center Rotterdam Rotterdam The Netherlands"
     },
     {
       "author_position": "middle",
@@ -189,11 +222,18 @@
       },
       "institutions": [
         {
-          "id": null,
-          "display_name": "Obesity Center CGG, Erasmus MC, University Medical Center Rotterdam, Rotterdam, The Netherlands.",
-          "ror": null,
-          "country_code": null,
-          "type": null
+          "id": "https://openalex.org/I913958620",
+          "display_name": "Erasmus University Rotterdam",
+          "ror": "https://ror.org/057w15z03",
+          "country_code": "NL",
+          "type": "education"
+        },
+        {
+          "id": "https://openalex.org/I2801952686",
+          "display_name": "Erasmus MC",
+          "ror": "https://ror.org/018906e22",
+          "country_code": "NL",
+          "type": "healthcare"
         }
       ],
       "is_corresponding": false,
@@ -208,22 +248,22 @@
       },
       "institutions": [
         {
+          "id": "https://openalex.org/I4210142620",
+          "display_name": "Erasmus MC - Sophia Children\u2019s Hospital",
+          "ror": "https://ror.org/047afsm11",
+          "country_code": "NL",
+          "type": "healthcare"
+        },
+        {
           "id": "https://openalex.org/I2801952686",
           "display_name": "Erasmus MC",
           "ror": "https://ror.org/018906e22",
           "country_code": "NL",
           "type": "healthcare"
-        },
-        {
-          "id": null,
-          "display_name": "Obesity Center CGG, Erasmus MC University Medical Center Rotterdam  Rotterdam The Netherlands",
-          "ror": null,
-          "country_code": null,
-          "type": null
         }
       ],
       "is_corresponding": false,
-      "raw_affiliation_string": "Department of Pediatrics, Division of Endocrinology Erasmus MC-Sophia Children's Hospital, University Medical Center Rotterdam Rotterdam The Netherlands; Obesity Center CGG, Erasmus MC University Medical Center Rotterdam  Rotterdam The Netherlands"
+      "raw_affiliation_string": "Obesity Center CGG, Erasmus MC University Medical Center Rotterdam  Rotterdam The Netherlands; Department of Pediatrics, Division of Endocrinology Erasmus MC-Sophia Children's Hospital, University Medical Center Rotterdam Rotterdam The Netherlands"
     },
     {
       "author_position": "middle",
@@ -272,11 +312,11 @@
       },
       "institutions": [
         {
-          "id": null,
-          "display_name": "Department of Clinical Chemistry, Erasmus MC, University Medical Center Rotterdam , Rotterdam, The Netherlands.",
-          "ror": null,
-          "country_code": null,
-          "type": null
+          "id": "https://openalex.org/I2801952686",
+          "display_name": "Erasmus MC",
+          "ror": "https://ror.org/018906e22",
+          "country_code": "NL",
+          "type": "healthcare"
         }
       ],
       "is_corresponding": false,
@@ -310,11 +350,18 @@
       },
       "institutions": [
         {
-          "id": null,
-          "display_name": "Obesity Center CGG, Erasmus MC, University Medical Center Rotterdam, Rotterdam, The Netherlands.",
-          "ror": null,
-          "country_code": null,
-          "type": null
+          "id": "https://openalex.org/I913958620",
+          "display_name": "Erasmus University Rotterdam",
+          "ror": "https://ror.org/057w15z03",
+          "country_code": "NL",
+          "type": "education"
+        },
+        {
+          "id": "https://openalex.org/I2801952686",
+          "display_name": "Erasmus MC",
+          "ror": "https://ror.org/018906e22",
+          "country_code": "NL",
+          "type": "healthcare"
         }
       ],
       "is_corresponding": true,
@@ -566,6 +613,10 @@
         ],
         "host_organization": "https://openalex.org/P4310320503",
         "host_organization_name": "Wiley-Blackwell",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320503",
+          "https://openalex.org/P4310320595"
+        ],
         "type": "journal"
       },
       "license": null,
@@ -582,6 +633,9 @@
         "issn": null,
         "host_organization": "https://openalex.org/I1322597698",
         "host_organization_name": "DANS",
+        "host_organization_lineage": [
+          "https://openalex.org/I1322597698"
+        ],
         "type": "repository"
       },
       "license": "cc-by",
@@ -598,10 +652,13 @@
         "issn": null,
         "host_organization": "https://openalex.org/I1299303238",
         "host_organization_name": null,
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
         "type": "repository"
       },
       "license": null,
-      "version": "publishedVersion"
+      "version": "acceptedVersion"
     }
   ],
   "best_oa_location": {
@@ -615,6 +672,9 @@
       "issn": null,
       "host_organization": "https://openalex.org/I1322597698",
       "host_organization_name": "DANS",
+      "host_organization_lineage": [
+        "https://openalex.org/I1322597698"
+      ],
       "type": "repository"
     },
     "license": "cc-by",
@@ -645,7 +705,7 @@
       "type": "repository",
       "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9285618",
       "is_oa": true,
-      "version": "publishedVersion",
+      "version": "acceptedVersion",
       "license": null
     }
   ],
@@ -1377,6 +1437,6 @@
       "cited_by_count": 1
     }
   ],
-  "updated_date": "2023-03-29T21:59:21.682720",
+  "updated_date": "2023-04-13T13:17:09.601938",
   "created_date": "2021-12-06"
 }
