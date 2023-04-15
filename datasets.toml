@@ -90,8 +90,7 @@ version=1.0
 
 [[datasets]]
 
-  key="Valk_2021"
-  note="Should be Van der Valk"
+  key="van_der_Valk_2021"
 
   [datasets.publication]
   doi="10.1111/obr.13376"
@@ -617,9 +616,6 @@ version=1.0
 [[datasets]]
 
   key="Leenaars_2020"
-
-  [datasets.collection]
-  doi="10.1186/s13643-016-0263-z"
 
   [datasets.publication]
   doi="10.3390/ani10061047"
