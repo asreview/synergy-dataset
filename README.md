@@ -13,18 +13,14 @@ SYNERGY is a free and open dataset on study selection in systematic reviews, com
 The easiest way to get the SYNERGY dataset is via the `synergy-dataset` Python package.
 
 ```bash
-pip install synergy-dataset
+pip install --pre synergy-dataset
 ```
 
 ```python
-python -m synergy get <FOLDER_TO_DOWNLOAD>
+python -m synergy_dataset get
 ```
 
-You can get an overview of the datasets and their properties with `synergy list` and `synergy show <DATASET_NAME>`.
-
-> ### Slow internet connection or limited resources?
-> The SYNERGY dataset is a large dataset with 88,629,922 datapoints. The total file size is 600Mb. It is possible to download a version of the dataset with only titles, abstracts, and labels. This dataset is smaller in size and can be rich enough for several applications. Download the dataset with `synergy get --light`
-
+You can get an overview of the datasets and their properties with `synergy_dataset list` and `synergy_dataset show <DATASET_NAME>`.
 
 ## Datasets and variables
 
