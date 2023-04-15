@@ -68,15 +68,15 @@
           "type": "education"
         }
       ],
-      "is_corresponding": null,
+      "is_corresponding": false,
       "raw_affiliation_string": "University Medical Library, University of Basel, Basel, Switzerland."
     },
     {
       "author_position": "middle",
       "author": {
-        "id": "https://openalex.org/A2578731183",
+        "id": "https://openalex.org/A4341894379",
         "display_name": "Tim Mathes",
-        "orcid": "https://orcid.org/0000-0002-5304-1717"
+        "orcid": null
       },
       "institutions": [
         {
@@ -87,7 +87,7 @@
           "type": "education"
         }
       ],
-      "is_corresponding": null,
+      "is_corresponding": false,
       "raw_affiliation_string": "Institute for Research in Operative Medicine, Faculty of Health - School of Medicine, Witten/Herdecke University, Cologne, Germany"
     },
     {
@@ -104,17 +104,24 @@
           "ror": "https://ror.org/05fqypv61",
           "country_code": "NL",
           "type": "healthcare"
+        },
+        {
+          "id": "https://openalex.org/I3018483916",
+          "display_name": "University Medical Center Utrecht",
+          "ror": "https://ror.org/0575yy874",
+          "country_code": "NL",
+          "type": "healthcare"
         }
       ],
-      "is_corresponding": null,
+      "is_corresponding": false,
       "raw_affiliation_string": "Wilhelmina Children's Hospital, University Medical Center Utrecht Utrecht The Netherlands"
     },
     {
       "author_position": "middle",
       "author": {
-        "id": "https://openalex.org/A2636364748",
+        "id": "https://openalex.org/A4355334320",
         "display_name": "Karl Heinz Weiss",
-        "orcid": "https://orcid.org/0000-0002-6336-9935"
+        "orcid": null
       },
       "institutions": [
         {
@@ -125,15 +132,15 @@
           "type": "education"
         }
       ],
-      "is_corresponding": null,
+      "is_corresponding": false,
       "raw_affiliation_string": "Department of Internal Medicine IV Medical University of Heidelberg Heidelberg Germany"
     },
     {
       "author_position": "middle",
       "author": {
-        "id": "https://openalex.org/A720436777",
+        "id": "https://openalex.org/A4337754478",
         "display_name": "Roderick H. J. Houwen",
-        "orcid": "https://orcid.org/0000-0001-6124-7937"
+        "orcid": null
       },
       "institutions": [
         {
@@ -142,9 +149,16 @@
           "ror": "https://ror.org/05fqypv61",
           "country_code": "NL",
           "type": "healthcare"
+        },
+        {
+          "id": "https://openalex.org/I3018483916",
+          "display_name": "University Medical Center Utrecht",
+          "ror": "https://ror.org/0575yy874",
+          "country_code": "NL",
+          "type": "healthcare"
         }
       ],
-      "is_corresponding": null,
+      "is_corresponding": false,
       "raw_affiliation_string": "Wilhelmina Children's Hospital, University Medical Center Utrecht Utrecht The Netherlands"
     },
     {
@@ -170,7 +184,7 @@
           "type": "education"
         }
       ],
-      "is_corresponding": null,
+      "is_corresponding": false,
       "raw_affiliation_string": "Basel Institute for Clinical Epidemiology and Biostatistics, Department of Clinical Research, University Hospital Basel and University of Basel, Basel, Switzerland.; University Medical Library, University of Basel, Basel, Switzerland."
     }
   ],
@@ -1156,6 +1170,6 @@
       "cited_by_count": 6
     }
   ],
-  "updated_date": "2023-03-15T11:12:34.701848",
+  "updated_date": "2023-04-06T23:59:58.421661",
   "created_date": "2019-06-27"
 }

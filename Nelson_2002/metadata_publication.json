@@ -68,13 +68,13 @@
           "type": "education"
         }
       ],
-      "is_corresponding": null,
+      "is_corresponding": false,
       "raw_affiliation_string": "Oregon Health and Science University, Mail Code BICC 504, 3181 SW Sam Jackson Park Rd, Portland, OR 97201, USA."
     },
     {
       "author_position": "middle",
       "author": {
-        "id": "https://openalex.org/A2142419502",
+        "id": "https://openalex.org/A4333538171",
         "display_name": "Linda Humphrey",
         "orcid": null
       },
@@ -87,7 +87,7 @@
           "type": null
         }
       ],
-      "is_corresponding": null,
+      "is_corresponding": false,
       "raw_affiliation_string": "Medical Informatics & Clinical Epidemiology"
     },
     {
@@ -106,13 +106,13 @@
           "type": "education"
         }
       ],
-      "is_corresponding": null,
+      "is_corresponding": false,
       "raw_affiliation_string": "Oregon Health & Science University"
     },
     {
       "author_position": "middle",
       "author": {
-        "id": "https://openalex.org/A1775359918",
+        "id": "https://openalex.org/A4349298256",
         "display_name": "Steven M. Teutsch",
         "orcid": null
       },
@@ -125,13 +125,13 @@
           "type": null
         }
       ],
-      "is_corresponding": null,
+      "is_corresponding": false,
       "raw_affiliation_string": "MERCK"
     },
     {
       "author_position": "last",
       "author": {
-        "id": "https://openalex.org/A2468071707",
+        "id": "https://openalex.org/A4349184562",
         "display_name": "Janet D. Allan",
         "orcid": null
       },
@@ -144,7 +144,7 @@
           "type": "education"
         }
       ],
-      "is_corresponding": null,
+      "is_corresponding": false,
       "raw_affiliation_string": "University of Texas at San Antonio,#TAB#"
     }
   ],
@@ -1751,6 +1751,6 @@
       "cited_by_count": 51
     }
   ],
-  "updated_date": "2023-03-15T15:14:55.942008",
+  "updated_date": "2023-04-05T10:50:22.120870",
   "created_date": "2016-06-24"
 }

@@ -48,7 +48,8 @@
   "open_access": {
     "is_oa": true,
     "oa_status": "hybrid",
-    "oa_url": "https://www.tandfonline.com/doi/pdf/10.1080/10408444.2022.2082917?needAccess=true"
+    "oa_url": "https://www.tandfonline.com/doi/pdf/10.1080/10408444.2022.2082917?needAccess=true",
+    "any_repository_has_fulltext": false
   },
   "authorships": [
     {
@@ -113,7 +114,7 @@
         }
       ],
       "is_corresponding": true,
-      "raw_affiliation_string": "Evidence-Based Toxicology Collaboration, Johns Hopkins Bloomberg School of Public Health, Baltimore, MD, USA; Lancaster Environment Centre, Lancaster University, Lancaster, UK"
+      "raw_affiliation_string": "Lancaster Environment Centre, Lancaster University, Lancaster, UK; Evidence-Based Toxicology Collaboration, Johns Hopkins Bloomberg School of Public Health, Baltimore, MD, USA"
     }
   ],
   "cited_by_count": 2,
@@ -965,6 +966,6 @@
       "cited_by_count": 1
     }
   ],
-  "updated_date": "2023-03-30T06:05:24.270229",
+  "updated_date": "2023-04-10T00:22:23.546938",
   "created_date": "2022-07-06"
 }

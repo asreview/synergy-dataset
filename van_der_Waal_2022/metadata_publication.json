@@ -48,7 +48,8 @@
   "open_access": {
     "is_oa": false,
     "oa_status": "closed",
-    "oa_url": null
+    "oa_url": null,
+    "any_repository_has_fulltext": false
   },
   "authorships": [
     {
@@ -70,7 +71,7 @@
         "orcid": null
       },
       "institutions": [],
-      "is_corresponding": null,
+      "is_corresponding": false,
       "raw_affiliation_string": ""
     },
     {
@@ -81,7 +82,7 @@
         "orcid": null
       },
       "institutions": [],
-      "is_corresponding": null,
+      "is_corresponding": false,
       "raw_affiliation_string": ""
     },
     {
@@ -92,7 +93,7 @@
         "orcid": null
       },
       "institutions": [],
-      "is_corresponding": null,
+      "is_corresponding": false,
       "raw_affiliation_string": ""
     },
     {
@@ -103,7 +104,7 @@
         "orcid": null
       },
       "institutions": [],
-      "is_corresponding": null,
+      "is_corresponding": false,
       "raw_affiliation_string": ""
     },
     {
@@ -114,7 +115,7 @@
         "orcid": null
       },
       "institutions": [],
-      "is_corresponding": null,
+      "is_corresponding": false,
       "raw_affiliation_string": ""
     }
   ],
@@ -806,6 +807,6 @@
   },
   "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4304695229",
   "counts_by_year": [],
-  "updated_date": "2023-03-28T23:25:02.905342",
+  "updated_date": "2023-04-09T06:47:38.792636",
   "created_date": "2022-10-12"
 }

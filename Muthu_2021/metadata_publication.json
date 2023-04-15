@@ -25,6 +25,10 @@
       ],
       "host_organization": "https://openalex.org/P4310315671",
       "host_organization_name": "Lippincott Williams & Wilkins",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310315671",
+        "https://openalex.org/P4310318547"
+      ],
       "type": "journal"
     },
     "license": null,
@@ -49,7 +53,8 @@
   "open_access": {
     "is_oa": false,
     "oa_status": "closed",
-    "oa_url": null
+    "oa_url": null,
+    "any_repository_has_fulltext": false
   },
   "authorships": [
     {
@@ -61,11 +66,11 @@
       },
       "institutions": [
         {
-          "id": null,
-          "display_name": "Government Hospital, Velayuthampalayam, Karur, Tamil Nadu, India.",
-          "ror": null,
-          "country_code": null,
-          "type": null
+          "id": "https://openalex.org/I4210136170",
+          "display_name": "Government Medical College and Hospital",
+          "ror": "https://ror.org/04f6gef75",
+          "country_code": "IN",
+          "type": "other"
         }
       ],
       "is_corresponding": false,
@@ -85,6 +90,13 @@
           "ror": "https://ror.org/05qkf9y72",
           "country_code": "IN",
           "type": "healthcare"
+        },
+        {
+          "id": "https://openalex.org/I159337121",
+          "display_name": "Madras Medical College",
+          "ror": "https://ror.org/050ztxn78",
+          "country_code": "IN",
+          "type": "education"
         }
       ],
       "is_corresponding": false,
@@ -160,6 +172,10 @@
         ],
         "host_organization": "https://openalex.org/P4310315671",
         "host_organization_name": "Lippincott Williams & Wilkins",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310315671",
+          "https://openalex.org/P4310318547"
+        ],
         "type": "journal"
       },
       "license": null,
@@ -1049,6 +1065,6 @@
       "cited_by_count": 1
     }
   ],
-  "updated_date": "2023-04-01T15:01:19.814117",
+  "updated_date": "2023-04-12T15:47:06.473310",
   "created_date": "2020-08-18"
 }

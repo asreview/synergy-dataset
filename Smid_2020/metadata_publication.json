@@ -54,26 +54,26 @@
     {
       "author_position": "first",
       "author": {
-        "id": "https://openalex.org/A2895159788",
+        "id": "https://openalex.org/A4333187710",
         "display_name": "Sanne C. Smid",
-        "orcid": "https://orcid.org/0000-0001-6451-202X"
+        "orcid": null
       },
       "institutions": [
         {
-          "id": "https://openalex.org/I147164307",
-          "display_name": "University College Utrecht",
-          "ror": null,
+          "id": "https://openalex.org/I193662353",
+          "display_name": "Utrecht University",
+          "ror": "https://ror.org/04pp8hn57",
           "country_code": "NL",
-          "type": null
+          "type": "education"
         }
       ],
-      "is_corresponding": null,
+      "is_corresponding": false,
       "raw_affiliation_string": "Utrecht University"
     },
     {
       "author_position": "middle",
       "author": {
-        "id": null,
+        "id": "https://openalex.org/A4354619950",
         "display_name": "Daniel McNeish",
         "orcid": null
       },
@@ -86,34 +86,34 @@
           "type": "education"
         }
       ],
-      "is_corresponding": null,
+      "is_corresponding": false,
       "raw_affiliation_string": "Arizona State University**"
     },
     {
       "author_position": "middle",
       "author": {
-        "id": "https://openalex.org/A598460729",
+        "id": "https://openalex.org/A4337419148",
         "display_name": "Milica Mio\u010devi\u0107",
-        "orcid": "https://orcid.org/0000-0001-8487-3666"
+        "orcid": null
       },
       "institutions": [
         {
-          "id": "https://openalex.org/I147164307",
-          "display_name": "University College Utrecht",
-          "ror": null,
+          "id": "https://openalex.org/I193662353",
+          "display_name": "Utrecht University",
+          "ror": "https://ror.org/04pp8hn57",
           "country_code": "NL",
-          "type": null
+          "type": "education"
         }
       ],
-      "is_corresponding": null,
+      "is_corresponding": false,
       "raw_affiliation_string": "Utrecht University"
     },
     {
       "author_position": "last",
       "author": {
-        "id": null,
+        "id": "https://openalex.org/A2188684945",
         "display_name": "Rens van de Schoot",
-        "orcid": null
+        "orcid": "https://orcid.org/0000-0001-7736-2091"
       },
       "institutions": [
         {
@@ -124,14 +124,14 @@
           "type": "education"
         },
         {
-          "id": "https://openalex.org/I147164307",
-          "display_name": "University College Utrecht",
-          "ror": null,
+          "id": "https://openalex.org/I193662353",
+          "display_name": "Utrecht University",
+          "ror": "https://ror.org/04pp8hn57",
           "country_code": "NL",
-          "type": null
+          "type": "education"
         }
       ],
-      "is_corresponding": null,
+      "is_corresponding": false,
       "raw_affiliation_string": "North-West University.; Utrecht University"
     }
   ],
@@ -360,7 +360,6 @@
     "https://openalex.org/W1971638368",
     "https://openalex.org/W1981747359",
     "https://openalex.org/W1984077870",
-    "https://openalex.org/W1984862890",
     "https://openalex.org/W1987411318",
     "https://openalex.org/W1987445317",
     "https://openalex.org/W1995391475",
@@ -380,7 +379,6 @@
     "https://openalex.org/W2102890221",
     "https://openalex.org/W2106343834",
     "https://openalex.org/W2114783003",
-    "https://openalex.org/W2138430982",
     "https://openalex.org/W2146336951",
     "https://openalex.org/W2150847344",
     "https://openalex.org/W2153281140",
@@ -410,6 +408,8 @@
     "https://openalex.org/W2904739430",
     "https://openalex.org/W3022903699",
     "https://openalex.org/W3104819369",
+    "https://openalex.org/W3121762057",
+    "https://openalex.org/W3215598180",
     "https://openalex.org/W4231324690",
     "https://openalex.org/W4240033369",
     "https://openalex.org/W4241629678",
@@ -419,6 +419,7 @@
     "https://openalex.org/W4294215472"
   ],
   "related_works": [
+    "https://openalex.org/W1971976127",
     "https://openalex.org/W2018450662",
     "https://openalex.org/W2029186061",
     "https://openalex.org/W2124921287",
@@ -426,7 +427,6 @@
     "https://openalex.org/W2153216061",
     "https://openalex.org/W2182557359",
     "https://openalex.org/W3104776319",
-    "https://openalex.org/W4225555917",
     "https://openalex.org/W4288711847",
     "https://openalex.org/W4297513322"
   ],
@@ -536,6 +536,6 @@
       "cited_by_count": 2
     }
   ],
-  "updated_date": "2023-03-23T00:40:48.184844",
+  "updated_date": "2023-04-05T05:17:34.262556",
   "created_date": "2019-05-29"
 }

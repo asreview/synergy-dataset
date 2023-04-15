@@ -50,7 +50,8 @@
   "open_access": {
     "is_oa": true,
     "oa_status": "bronze",
-    "oa_url": "https://jamanetwork.com/journals/jamapsychiatry/articlepdf/2756136/jamapsychiatry_van_dis_2019_oi_190085.pdf"
+    "oa_url": "https://jamanetwork.com/journals/jamapsychiatry/articlepdf/2756136/jamapsychiatry_van_dis_2019_oi_190085.pdf",
+    "any_repository_has_fulltext": true
   },
   "authorships": [
     {
@@ -69,7 +70,7 @@
           "type": "education"
         }
       ],
-      "is_corresponding": null,
+      "is_corresponding": false,
       "raw_affiliation_string": "Department of Clinical Psychology, Utrecht University, Utrecht, The Netherlands."
     },
     {
@@ -88,7 +89,7 @@
           "type": "education"
         }
       ],
-      "is_corresponding": null,
+      "is_corresponding": false,
       "raw_affiliation_string": "Department of Clinical Psychology, Utrecht University, Utrecht, The Netherlands."
     },
     {
@@ -107,7 +108,7 @@
           "type": "education"
         }
       ],
-      "is_corresponding": null,
+      "is_corresponding": false,
       "raw_affiliation_string": "Department of Clinical Psychology, Utrecht University, Utrecht, The Netherlands."
     },
     {
@@ -126,7 +127,7 @@
           "type": null
         }
       ],
-      "is_corresponding": null,
+      "is_corresponding": false,
       "raw_affiliation_string": "Department of Psychiatry, Amsterdam Universitair Medisch Centrum, location Vrije Universiteit medisch centrum, Amsterdam, the Netherlands"
     },
     {
@@ -145,7 +146,7 @@
           "type": null
         }
       ],
-      "is_corresponding": null,
+      "is_corresponding": false,
       "raw_affiliation_string": "Department of Psychiatry, Amsterdam Universitair Medisch Centrum, location Academisch Medisch Centrum, University of Amsterdam, Amsterdam, the Netherlands."
     },
     {
@@ -164,7 +165,7 @@
           "type": "education"
         }
       ],
-      "is_corresponding": null,
+      "is_corresponding": false,
       "raw_affiliation_string": "Department of Clinical Psychology, Utrecht University, Utrecht, The Netherlands."
     },
     {
@@ -183,7 +184,7 @@
           "type": "education"
         }
       ],
-      "is_corresponding": null,
+      "is_corresponding": false,
       "raw_affiliation_string": "Department of Clinical, Neuro-, and Developmental Psychology, Vrije Universiteit Amsterdam, Amsterdam, The Netherlands."
     },
     {
@@ -202,7 +203,7 @@
           "type": "education"
         }
       ],
-      "is_corresponding": null,
+      "is_corresponding": false,
       "raw_affiliation_string": "Department of Clinical Psychology, Utrecht University, Utrecht, The Netherlands."
     }
   ],
@@ -1302,6 +1303,6 @@
       "cited_by_count": 13
     }
   ],
-  "updated_date": "2023-03-29T23:52:15.442364",
+  "updated_date": "2023-04-09T18:17:49.661997",
   "created_date": "2019-12-05"
 }

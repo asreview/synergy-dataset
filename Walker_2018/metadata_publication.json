@@ -49,7 +49,8 @@
   "open_access": {
     "is_oa": false,
     "oa_status": "closed",
-    "oa_url": null
+    "oa_url": null,
+    "any_repository_has_fulltext": false
   },
   "authorships": [
     {
@@ -1410,6 +1411,6 @@
       "cited_by_count": 2
     }
   ],
-  "updated_date": "2023-03-30T17:12:06.796095",
+  "updated_date": "2023-04-10T06:48:45.520409",
   "created_date": "2018-03-29"
 }

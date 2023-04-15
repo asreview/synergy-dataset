@@ -56,9 +56,9 @@
     {
       "author_position": "first",
       "author": {
-        "id": "https://openalex.org/A2121123409",
+        "id": "https://openalex.org/A4358437630",
         "display_name": "Trevor J. Hall",
-        "orcid": "https://orcid.org/0000-0002-0427-6325"
+        "orcid": null
       },
       "institutions": [
         {
@@ -69,15 +69,15 @@
           "type": "education"
         }
       ],
-      "is_corresponding": null,
+      "is_corresponding": false,
       "raw_affiliation_string": "Dept of Inf. Syst. & Comput., Brunel Univ., Uxbridge, UK"
     },
     {
       "author_position": "middle",
       "author": {
-        "id": "https://openalex.org/A2077460100",
-        "display_name": "Sarah Beecham",
-        "orcid": "https://orcid.org/0000-0003-1584-5447"
+        "id": "https://openalex.org/A4357049062",
+        "display_name": "Simon Beecham",
+        "orcid": null
       },
       "institutions": [
         {
@@ -88,13 +88,13 @@
           "type": "education"
         }
       ],
-      "is_corresponding": null,
+      "is_corresponding": false,
       "raw_affiliation_string": "LERO - The Irish Software Engineering Research Centre, University of Limerick, Limerick, Ireland"
     },
     {
       "author_position": "middle",
       "author": {
-        "id": "https://openalex.org/A2142735317",
+        "id": "https://openalex.org/A4350018187",
         "display_name": "David Bowes",
         "orcid": null
       },
@@ -107,14 +107,14 @@
           "type": "education"
         }
       ],
-      "is_corresponding": null,
+      "is_corresponding": false,
       "raw_affiliation_string": "Sci. & Technol. Res. Inst., Univ. of Hertfordshire, Hatfield, UK"
     },
     {
       "author_position": "middle",
       "author": {
-        "id": "https://openalex.org/A2157183814",
-        "display_name": "David Gray",
+        "id": "https://openalex.org/A2117642300",
+        "display_name": "Derek W. R. Gray",
         "orcid": null
       },
       "institutions": [
@@ -126,15 +126,15 @@
           "type": "education"
         }
       ],
-      "is_corresponding": null,
+      "is_corresponding": false,
       "raw_affiliation_string": "Sci. & Technol. Res. Inst., Univ. of Hertfordshire, Hatfield, UK"
     },
     {
       "author_position": "last",
       "author": {
-        "id": "https://openalex.org/A2005397871",
+        "id": "https://openalex.org/A4357993668",
         "display_name": "Serena J. Counsell",
-        "orcid": "https://orcid.org/0000-0002-8033-5673"
+        "orcid": null
       },
       "institutions": [
         {
@@ -145,7 +145,7 @@
           "type": "education"
         }
       ],
-      "is_corresponding": null,
+      "is_corresponding": false,
       "raw_affiliation_string": "Dept of Inf. Syst. & Comput., Brunel Univ., Uxbridge, UK"
     }
   ],
@@ -329,22 +329,6 @@
         "type": "repository"
       },
       "license": "pd",
-      "version": "publishedVersion"
-    },
-    {
-      "is_oa": true,
-      "landing_page_url": "http://hdl.handle.net/10344/1772",
-      "pdf_url": "https://researchrepository.ul.ie/articles/online_resource/A_Systematic_literature_review_on_fault_prediction_performance_in_software_engineering/19848790/1/files/35264761.pdf",
-      "source": {
-        "id": "https://openalex.org/S4306401530",
-        "display_name": "University of Limerick Institutional Repository (University of Limerick)",
-        "issn_l": null,
-        "issn": null,
-        "host_organization": "https://openalex.org/I230495080",
-        "host_organization_name": "University of Limerick",
-        "type": "repository"
-      },
-      "license": "cc-by-nc-sa",
       "version": "publishedVersion"
     },
     {
@@ -1129,6 +1113,6 @@
       "cited_by_count": 12
     }
   ],
-  "updated_date": "2023-03-13T21:12:47.668618",
+  "updated_date": "2023-04-03T22:48:53.916978",
   "created_date": "2016-06-24"
 }

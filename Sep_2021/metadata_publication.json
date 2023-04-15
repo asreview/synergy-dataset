@@ -65,6 +65,13 @@
           "ror": "https://ror.org/04pp8hn57",
           "country_code": "NL",
           "type": "education"
+        },
+        {
+          "id": "https://openalex.org/I3018483916",
+          "display_name": "University Medical Center Utrecht",
+          "ror": "https://ror.org/0575yy874",
+          "country_code": "NL",
+          "type": "healthcare"
         }
       ],
       "is_corresponding": true,
@@ -84,9 +91,16 @@
           "ror": "https://ror.org/04pp8hn57",
           "country_code": "NL",
           "type": "education"
+        },
+        {
+          "id": "https://openalex.org/I3018483916",
+          "display_name": "University Medical Center Utrecht",
+          "ror": "https://ror.org/0575yy874",
+          "country_code": "NL",
+          "type": "healthcare"
         }
       ],
-      "is_corresponding": null,
+      "is_corresponding": false,
       "raw_affiliation_string": "Department of Translational Neuroscience, UMC Utrecht Brain Center, Utrecht University, Utrecht, The Netherlands"
     },
     {
@@ -103,9 +117,16 @@
           "ror": "https://ror.org/04pp8hn57",
           "country_code": "NL",
           "type": "education"
+        },
+        {
+          "id": "https://openalex.org/I3018483916",
+          "display_name": "University Medical Center Utrecht",
+          "ror": "https://ror.org/0575yy874",
+          "country_code": "NL",
+          "type": "healthcare"
         }
       ],
-      "is_corresponding": null,
+      "is_corresponding": false,
       "raw_affiliation_string": "Department of Translational Neuroscience, UMC Utrecht Brain Center, Utrecht University, Utrecht, The Netherlands"
     },
     {
@@ -124,15 +145,29 @@
           "type": "education"
         },
         {
+          "id": "https://openalex.org/I3018483916",
+          "display_name": "University Medical Center Utrecht",
+          "ror": "https://ror.org/0575yy874",
+          "country_code": "NL",
+          "type": "healthcare"
+        },
+        {
           "id": "https://openalex.org/I1334415907",
           "display_name": "University Medical Center Groningen",
           "ror": "https://ror.org/03cv38k47",
           "country_code": "NL",
           "type": "healthcare"
+        },
+        {
+          "id": "https://openalex.org/I169381384",
+          "display_name": "University of Groningen",
+          "ror": "https://ror.org/012p63287",
+          "country_code": "NL",
+          "type": "education"
         }
       ],
-      "is_corresponding": null,
-      "raw_affiliation_string": "Department of Translational Neuroscience, UMC Utrecht Brain Center, Utrecht University, Utrecht, The Netherlands.; University of Groningen, University Medical Center Groningen, Groningen, The Netherlands."
+      "is_corresponding": false,
+      "raw_affiliation_string": "University of Groningen, University Medical Center Groningen, Groningen, The Netherlands.; Department of Translational Neuroscience, UMC Utrecht Brain Center, Utrecht University, Utrecht, The Netherlands."
     }
   ],
   "cited_by_count": 4,
@@ -301,6 +336,22 @@
       "version": "publishedVersion"
     },
     {
+      "is_oa": false,
+      "landing_page_url": "https://doaj.org/article/6fe255eaf9bc4a169b1d482cc8f65a51",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401280",
+        "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "issn_l": null,
+        "issn": null,
+        "host_organization": null,
+        "host_organization_name": "DOAJ: Directory of Open Access Journals",
+        "type": "repository"
+      },
+      "license": null,
+      "version": null
+    },
+    {
       "is_oa": true,
       "landing_page_url": "https://research.rug.nl/en/publications/bbb93333-c7ec-4c21-8d69-c9d89fc77c16",
       "pdf_url": "https://pure.rug.nl/ws/files/177418575/The_rodent_object_in_context_task_A_systematic_review_and_meta_analysis_of_important_variables.pdf",
@@ -330,7 +381,7 @@
         "type": "repository"
       },
       "license": null,
-      "version": "publishedVersion"
+      "version": "acceptedVersion"
     }
   ],
   "best_oa_location": {
@@ -376,7 +427,7 @@
       "type": "repository",
       "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8284613",
       "is_oa": true,
-      "version": "publishedVersion",
+      "version": "acceptedVersion",
       "license": null
     }
   ],
@@ -991,6 +1042,6 @@
       "cited_by_count": 3
     }
   ],
-  "updated_date": "2023-03-28T22:59:17.515702",
+  "updated_date": "2023-04-06T14:42:28.411427",
   "created_date": "2021-07-19"
 }

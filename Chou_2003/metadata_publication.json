@@ -55,9 +55,9 @@
     {
       "author_position": "first",
       "author": {
-        "id": "https://openalex.org/A2112892034",
+        "id": "https://openalex.org/A4347721767",
         "display_name": "Roger Chou",
-        "orcid": "https://orcid.org/0000-0001-9889-8610"
+        "orcid": null
       },
       "institutions": [
         {
@@ -68,14 +68,14 @@
           "type": "education"
         }
       ],
-      "is_corresponding": null,
+      "is_corresponding": false,
       "raw_affiliation_string": "Department of Medicine, Oregon Health & Science University, and Oregon Evidence-Based Practice Center, Portland, Oregon, USA."
     },
     {
       "author_position": "middle",
       "author": {
-        "id": null,
-        "display_name": "Elizabeth Clark",
+        "id": "https://openalex.org/A4353337782",
+        "display_name": "Elizabeth A. Clark",
         "orcid": null
       },
       "institutions": [
@@ -87,26 +87,26 @@
           "type": "education"
         }
       ],
-      "is_corresponding": null,
+      "is_corresponding": false,
       "raw_affiliation_string": "Oregon Health & Science University"
     },
     {
       "author_position": "last",
       "author": {
-        "id": "https://openalex.org/A3024231905",
+        "id": "https://openalex.org/A4347779724",
         "display_name": "Mark Helfand",
         "orcid": null
       },
       "institutions": [
         {
-          "id": null,
-          "display_name": "Medical Informatics & Clinical Epidemiology",
-          "ror": null,
-          "country_code": null,
-          "type": null
+          "id": "https://openalex.org/I4210163477",
+          "display_name": "Institute for Medical Informatics and Biostatistics",
+          "ror": "https://ror.org/04e79zk25",
+          "country_code": "CH",
+          "type": "facility"
         }
       ],
-      "is_corresponding": null,
+      "is_corresponding": false,
       "raw_affiliation_string": "Medical Informatics & Clinical Epidemiology"
     }
   ],
@@ -984,6 +984,6 @@
       "cited_by_count": 6
     }
   ],
-  "updated_date": "2023-03-23T16:21:50.262826",
+  "updated_date": "2023-04-06T08:29:51.784775",
   "created_date": "2016-06-24"
 }

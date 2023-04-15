@@ -55,9 +55,9 @@
     {
       "author_position": "first",
       "author": {
-        "id": "https://openalex.org/A2112892034",
+        "id": "https://openalex.org/A4347721767",
         "display_name": "Roger Chou",
-        "orcid": "https://orcid.org/0000-0001-9889-8610"
+        "orcid": null
       },
       "institutions": [
         {
@@ -68,13 +68,13 @@
           "type": "education"
         }
       ],
-      "is_corresponding": null,
+      "is_corresponding": false,
       "raw_affiliation_string": "Department of Medicine, Oregon Health And Science University, Portland, Oregon, USA."
     },
     {
       "author_position": "middle",
       "author": {
-        "id": "https://openalex.org/A2096886059",
+        "id": "https://openalex.org/A4346978726",
         "display_name": "Kim Peterson",
         "orcid": null
       },
@@ -87,13 +87,13 @@
           "type": "education"
         }
       ],
-      "is_corresponding": null,
+      "is_corresponding": false,
       "raw_affiliation_string": "Oregon Health & Science University"
     },
     {
       "author_position": "last",
       "author": {
-        "id": "https://openalex.org/A3024231905",
+        "id": "https://openalex.org/A4347779724",
         "display_name": "Mark Helfand",
         "orcid": null
       },
@@ -106,7 +106,7 @@
           "type": null
         }
       ],
-      "is_corresponding": null,
+      "is_corresponding": false,
       "raw_affiliation_string": "Medical Informatics & Clinical Epidemiology"
     }
   ],
@@ -1353,6 +1353,6 @@
       "cited_by_count": 5
     }
   ],
-  "updated_date": "2023-03-15T15:33:24.899259",
+  "updated_date": "2023-04-05T11:10:51.874878",
   "created_date": "2016-06-24"
 }

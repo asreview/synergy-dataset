@@ -25,6 +25,9 @@
       ],
       "host_organization": "https://openalex.org/P4310320017",
       "host_organization_name": "SAGE Publishing",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320017"
+      ],
       "type": "journal"
     },
     "license": null,
@@ -49,7 +52,8 @@
   "open_access": {
     "is_oa": true,
     "oa_status": "bronze",
-    "oa_url": "https://journals.sagepub.com/doi/pdf/10.1177/1947603520951623"
+    "oa_url": "https://journals.sagepub.com/doi/pdf/10.1177/1947603520951623",
+    "any_repository_has_fulltext": true
   },
   "authorships": [
     {
@@ -74,9 +78,9 @@
     {
       "author_position": "middle",
       "author": {
-        "id": "https://openalex.org/A3031231036",
+        "id": "https://openalex.org/A4354303501",
         "display_name": "Sathish Muthu",
-        "orcid": "https://orcid.org/0000-0002-7143-4354"
+        "orcid": null
       },
       "institutions": [
         {
@@ -110,7 +114,7 @@
       "raw_affiliation_string": "Department of Orthopaedics, School of Medical Sciences & Research, Sharda University, Greater Noida, Uttar Pradesh, India."
     }
   ],
-  "cited_by_count": 25,
+  "cited_by_count": 26,
   "biblio": {
     "volume": "13",
     "issue": "1_suppl",
@@ -327,6 +331,9 @@
         ],
         "host_organization": "https://openalex.org/P4310320017",
         "host_organization_name": "SAGE Publishing",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320017"
+        ],
         "type": "journal"
       },
       "license": null,
@@ -343,6 +350,9 @@
         "issn": null,
         "host_organization": "https://openalex.org/I1299303238",
         "host_organization_name": null,
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
         "type": "repository"
       },
       "license": null,
@@ -363,6 +373,9 @@
       ],
       "host_organization": "https://openalex.org/P4310320017",
       "host_organization_name": "SAGE Publishing",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320017"
+      ],
       "type": "journal"
     },
     "license": null,
@@ -1066,6 +1079,6 @@
       "cited_by_count": 5
     }
   ],
-  "updated_date": "2023-03-12T23:39:28.243559",
+  "updated_date": "2023-04-13T11:19:47.772137",
   "created_date": "2020-09-01"
 }

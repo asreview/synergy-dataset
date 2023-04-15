@@ -75,8 +75,8 @@
           "type": "education"
         }
       ],
-      "is_corresponding": null,
-      "raw_affiliation_string": "Department of Epidemiology, Harvard T.H. Chan School of Public Health, Boston, MA, USA; Department of Neurology, Erasmus Medical Centre, Rotterdam, The Netherlands"
+      "is_corresponding": false,
+      "raw_affiliation_string": "Department of Neurology, Erasmus Medical Centre, Rotterdam, The Netherlands; Department of Epidemiology, Harvard T.H. Chan School of Public Health, Boston, MA, USA"
     },
     {
       "author_position": "middle",
@@ -94,7 +94,7 @@
           "type": "education"
         }
       ],
-      "is_corresponding": null,
+      "is_corresponding": false,
       "raw_affiliation_string": "Department of Gerontology and Geriatrics Leiden University Medical Centre Leiden The Netherlands"
     },
     {
@@ -120,8 +120,8 @@
           "type": "education"
         }
       ],
-      "is_corresponding": null,
-      "raw_affiliation_string": "Department of Epidemiology, Harvard T.H. Chan School of Public Health, Boston, MA, USA; Department of Neurology, Erasmus Medical Centre, Rotterdam, The Netherlands"
+      "is_corresponding": false,
+      "raw_affiliation_string": "Department of Neurology, Erasmus Medical Centre, Rotterdam, The Netherlands; Department of Epidemiology, Harvard T.H. Chan School of Public Health, Boston, MA, USA"
     },
     {
       "author_position": "middle",
@@ -146,8 +146,8 @@
           "type": "education"
         }
       ],
-      "is_corresponding": null,
-      "raw_affiliation_string": "Department of Epidemiology, Harvard T.H. Chan School of Public Health, Boston, MA, USA; Department of Radiology and Nuclear Medicine, Erasmus Medical Centre, Rotterdam, The Netherlands"
+      "is_corresponding": false,
+      "raw_affiliation_string": "Department of Radiology and Nuclear Medicine, Erasmus Medical Centre, Rotterdam, The Netherlands; Department of Epidemiology, Harvard T.H. Chan School of Public Health, Boston, MA, USA"
     },
     {
       "author_position": "middle",
@@ -165,7 +165,7 @@
           "type": "education"
         }
       ],
-      "is_corresponding": null,
+      "is_corresponding": false,
       "raw_affiliation_string": "Department of Radiology and Nuclear Medicine, Erasmus Medical Centre, Rotterdam, The Netherlands"
     },
     {
@@ -191,7 +191,7 @@
           "type": "education"
         }
       ],
-      "is_corresponding": null,
+      "is_corresponding": false,
       "raw_affiliation_string": "Department of Gerontology and Geriatrics, Leiden University Medical Centre, Leiden, The Netherlands; Department of Neurology, Feinberg School of Medicine, Northwestern University, Chicago, IL, USA"
     },
     {
@@ -217,7 +217,7 @@
           "type": "education"
         }
       ],
-      "is_corresponding": null,
+      "is_corresponding": false,
       "raw_affiliation_string": "Department of Epidemiology, Erasmus Medical Centre, Rotterdam, The Netherlands; Department of Epidemiology, Harvard T.H. Chan School of Public Health, Boston, MA, USA"
     },
     {
@@ -236,7 +236,7 @@
           "type": "education"
         }
       ],
-      "is_corresponding": null,
+      "is_corresponding": false,
       "raw_affiliation_string": "Department of Epidemiology, Erasmus Medical Centre, Rotterdam, The Netherlands."
     }
   ],
@@ -859,6 +859,6 @@
       "cited_by_count": 4
     }
   ],
-  "updated_date": "2023-03-24T21:51:07.522695",
+  "updated_date": "2023-04-05T20:15:45.583971",
   "created_date": "2018-03-29"
 }

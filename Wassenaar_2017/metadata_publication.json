@@ -26,6 +26,10 @@
       ],
       "host_organization": "https://openalex.org/P4310319799",
       "host_organization_name": "National Institute of Environmental Health Sciences",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310319799",
+        "https://openalex.org/P4310316754"
+      ],
       "type": "journal"
     },
     "license": "pd",
@@ -50,7 +54,8 @@
   "open_access": {
     "is_oa": true,
     "oa_status": "gold",
-    "oa_url": "https://ehp.niehs.nih.gov/doi/pdf/10.1289/EHP1233"
+    "oa_url": "https://ehp.niehs.nih.gov/doi/pdf/10.1289/EHP1233",
+    "any_repository_has_fulltext": true
   },
   "authorships": [
     {
@@ -115,10 +120,10 @@
         }
       ],
       "is_corresponding": false,
-      "raw_affiliation_string": "Department of Chemistry and Biology, Institute for Environmental Studies, Vrije Universiteit Amsterdam, Amsterdam, Netherlands; Department of Life Sciences, Division of Biosciences, Institute of Environment, Health and Societies, College of Health and Life Sciences, Brunel University London, Uxbridge, UK"
+      "raw_affiliation_string": "Department of Life Sciences, Division of Biosciences, Institute of Environment, Health and Societies, College of Health and Life Sciences, Brunel University London, Uxbridge, UK; Department of Chemistry and Biology, Institute for Environmental Studies, Vrije Universiteit Amsterdam, Amsterdam, Netherlands"
     }
   ],
-  "cited_by_count": 67,
+  "cited_by_count": 68,
   "biblio": {
     "volume": "125",
     "issue": "10",
@@ -335,6 +340,10 @@
         ],
         "host_organization": "https://openalex.org/P4310319799",
         "host_organization_name": "National Institute of Environmental Health Sciences",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310319799",
+          "https://openalex.org/P4310316754"
+        ],
         "type": "journal"
       },
       "license": "pd",
@@ -351,6 +360,7 @@
         "issn": null,
         "host_organization": null,
         "host_organization_name": "PubMed Central",
+        "host_organization_lineage": [],
         "type": "repository"
       },
       "license": "pd",
@@ -367,6 +377,9 @@
         "issn": null,
         "host_organization": "https://openalex.org/I1299303238",
         "host_organization_name": null,
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
         "type": "repository"
       },
       "license": null,
@@ -387,6 +400,10 @@
       ],
       "host_organization": "https://openalex.org/P4310319799",
       "host_organization_name": "National Institute of Environmental Health Sciences",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310319799",
+        "https://openalex.org/P4310316754"
+      ],
       "type": "journal"
     },
     "license": "pd",
@@ -1144,6 +1161,6 @@
       "cited_by_count": 1
     }
   ],
-  "updated_date": "2023-04-02T00:51:05.131819",
+  "updated_date": "2023-04-12T13:01:45.174227",
   "created_date": "2017-10-20"
 }

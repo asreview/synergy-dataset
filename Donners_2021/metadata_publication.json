@@ -67,6 +67,13 @@
           "ror": "https://ror.org/04pp8hn57",
           "country_code": "NL",
           "type": "education"
+        },
+        {
+          "id": "https://openalex.org/I3018483916",
+          "display_name": "University Medical Center Utrecht",
+          "ror": "https://ror.org/0575yy874",
+          "country_code": "NL",
+          "type": "healthcare"
         }
       ],
       "is_corresponding": true,
@@ -86,9 +93,16 @@
           "ror": "https://ror.org/04pp8hn57",
           "country_code": "NL",
           "type": "education"
+        },
+        {
+          "id": "https://openalex.org/I3018483916",
+          "display_name": "University Medical Center Utrecht",
+          "ror": "https://ror.org/0575yy874",
+          "country_code": "NL",
+          "type": "healthcare"
         }
       ],
-      "is_corresponding": null,
+      "is_corresponding": false,
       "raw_affiliation_string": "Department of Clinical Pharmacy, University Medical Center Utrecht, Utrecht University, Utrecht, The Netherlands,"
     },
     {
@@ -105,9 +119,16 @@
           "ror": "https://ror.org/04pp8hn57",
           "country_code": "NL",
           "type": "education"
+        },
+        {
+          "id": "https://openalex.org/I3018483916",
+          "display_name": "University Medical Center Utrecht",
+          "ror": "https://ror.org/0575yy874",
+          "country_code": "NL",
+          "type": "healthcare"
         }
       ],
-      "is_corresponding": null,
+      "is_corresponding": false,
       "raw_affiliation_string": "Department of Clinical Pharmacy, University Medical Center Utrecht, Utrecht University, Utrecht, The Netherlands,"
     },
     {
@@ -126,14 +147,28 @@
           "type": "education"
         },
         {
-          "id": "https://openalex.org/I2898336195",
-          "display_name": "Netherlands Cancer Institute",
+          "id": "https://openalex.org/I3018483916",
+          "display_name": "University Medical Center Utrecht",
+          "ror": "https://ror.org/0575yy874",
+          "country_code": "NL",
+          "type": "healthcare"
+        },
+        {
+          "id": "https://openalex.org/I4210111138",
+          "display_name": "Oncode Institute",
+          "ror": "https://ror.org/01n92vv28",
+          "country_code": "NL",
+          "type": "education"
+        },
+        {
+          "id": "https://openalex.org/I4210124352",
+          "display_name": "Antoni van Leeuwenhoek Hospital",
           "ror": "https://ror.org/03xqtf034",
           "country_code": "NL",
           "type": "healthcare"
         }
       ],
-      "is_corresponding": null,
+      "is_corresponding": false,
       "raw_affiliation_string": "Department of Clinical Pharmacy, University Medical Center Utrecht, Utrecht University, Utrecht, The Netherlands; Department of Pharmacy and Pharmacology, Netherlands Cancer Institute, Amsterdam, The Netherlands"
     },
     {
@@ -152,7 +187,7 @@
           "type": "education"
         }
       ],
-      "is_corresponding": null,
+      "is_corresponding": false,
       "raw_affiliation_string": ""
     },
     {
@@ -171,7 +206,7 @@
           "type": "education"
         }
       ],
-      "is_corresponding": null,
+      "is_corresponding": false,
       "raw_affiliation_string": "Department of Pharmacoepidemiology and Clinical Pharmacology, Utrecht Institute for Pharmaceutical Sciences, Faculty of Science, Utrecht University, Utrecht, The Netherlands"
     },
     {
@@ -190,7 +225,7 @@
           "type": "education"
         }
       ],
-      "is_corresponding": null,
+      "is_corresponding": false,
       "raw_affiliation_string": ""
     }
   ],
@@ -361,6 +396,22 @@
       },
       "license": null,
       "version": "publishedVersion"
+    },
+    {
+      "is_oa": true,
+      "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8585815",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S2764455111",
+        "display_name": "PubMed Central",
+        "issn_l": null,
+        "issn": null,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": null,
+        "type": "repository"
+      },
+      "license": null,
+      "version": "acceptedVersion"
     }
   ],
   "best_oa_location": {
@@ -399,6 +450,15 @@
       "url": "https://dspace.library.uu.nl/bitstream/handle/1874/416223/Donners2021_Article_PharmacokineticsAndAssociatedE.pdf?sequence=1&isAllowed=y",
       "is_oa": true,
       "version": "publishedVersion",
+      "license": null
+    },
+    {
+      "id": "https://openalex.org/S2764455111",
+      "display_name": "PubMed Central",
+      "type": "repository",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8585815",
+      "is_oa": true,
+      "version": "acceptedVersion",
       "license": null
     }
   ],
@@ -1032,6 +1092,6 @@
       "cited_by_count": 5
     }
   ],
-  "updated_date": "2023-03-27T18:50:50.828267",
+  "updated_date": "2023-04-04T21:40:43.894226",
   "created_date": "2021-08-16"
 }

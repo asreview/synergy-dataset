@@ -76,7 +76,7 @@
         }
       ],
       "is_corresponding": false,
-      "raw_affiliation_string": "Department of Epidemiology, Harvard T.H. Chan School of Public Health, Boston, MA, USA; Department of Radiology and Nuclear Medicine, Erasmus MC \u2013 University Medical Center Rotterdam, Rotterdam, The Netherlands"
+      "raw_affiliation_string": "Department of Radiology and Nuclear Medicine, Erasmus MC \u2013 University Medical Center Rotterdam, Rotterdam, The Netherlands; Department of Epidemiology, Harvard T.H. Chan School of Public Health, Boston, MA, USA"
     },
     {
       "author_position": "middle",
@@ -87,11 +87,11 @@
       },
       "institutions": [
         {
-          "id": "https://openalex.org/I913958620",
-          "display_name": "Erasmus University Rotterdam",
-          "ror": "https://ror.org/057w15z03",
+          "id": "https://openalex.org/I2801952686",
+          "display_name": "Erasmus MC",
+          "ror": "https://ror.org/018906e22",
           "country_code": "NL",
-          "type": "education"
+          "type": "healthcare"
         },
         {
           "id": "https://openalex.org/I136199984",
@@ -102,7 +102,7 @@
         }
       ],
       "is_corresponding": false,
-      "raw_affiliation_string": "Department of Epidemiology, Erasmus MC \u2013 University Medical Center Rotterdam, Rotterdam, The Netherlands; Department of Epidemiology, Harvard T.H. Chan School of Public Health, Boston, MA, USA"
+      "raw_affiliation_string": "Department of Epidemiology, Harvard T.H. Chan School of Public Health, Boston, MA, USA; Department of Epidemiology, Erasmus MC \u2013 University Medical Center Rotterdam, Rotterdam, The Netherlands"
     },
     {
       "author_position": "middle",
@@ -113,11 +113,11 @@
       },
       "institutions": [
         {
-          "id": "https://openalex.org/I913958620",
-          "display_name": "Erasmus University Rotterdam",
-          "ror": "https://ror.org/057w15z03",
+          "id": "https://openalex.org/I2801952686",
+          "display_name": "Erasmus MC",
+          "ror": "https://ror.org/018906e22",
           "country_code": "NL",
-          "type": "education"
+          "type": "healthcare"
         },
         {
           "id": "https://openalex.org/I136199984",
@@ -128,7 +128,7 @@
         }
       ],
       "is_corresponding": false,
-      "raw_affiliation_string": "Department of Epidemiology, Erasmus MC \u2013 University Medical Center Rotterdam, Rotterdam, The Netherlands; Department of Epidemiology, Harvard T.H. Chan School of Public Health, Boston, MA, USA"
+      "raw_affiliation_string": "Department of Epidemiology, Harvard T.H. Chan School of Public Health, Boston, MA, USA; Department of Epidemiology, Erasmus MC \u2013 University Medical Center Rotterdam, Rotterdam, The Netherlands"
     },
     {
       "author_position": "middle",
@@ -165,15 +165,15 @@
           "type": "education"
         },
         {
-          "id": null,
-          "display_name": "Janssen Prevention Center, Leiden, the Netherlands",
-          "ror": null,
-          "country_code": null,
-          "type": null
+          "id": "https://openalex.org/I4210154236",
+          "display_name": "Janssen",
+          "ror": "https://ror.org/04cxegr21",
+          "country_code": "NL",
+          "type": "company"
         }
       ],
       "is_corresponding": false,
-      "raw_affiliation_string": "Faculty of Medicine, School of Public Health, Imperial College London, London, UK; Janssen Prevention Center, Leiden, the Netherlands"
+      "raw_affiliation_string": "Janssen Prevention Center, Leiden, the Netherlands; Faculty of Medicine, School of Public Health, Imperial College London, London, UK"
     },
     {
       "author_position": "middle",
@@ -854,6 +854,6 @@
       "cited_by_count": 2
     }
   ],
-  "updated_date": "2023-03-30T23:20:48.602487",
+  "updated_date": "2023-04-07T02:30:04.060470",
   "created_date": "2018-06-01"
 }

@@ -48,7 +48,8 @@
   "open_access": {
     "is_oa": true,
     "oa_status": "gold",
-    "oa_url": "http://www.jcircadianrhythms.com/articles/10.5334/jcr.183/galley/316/download/"
+    "oa_url": "http://www.jcircadianrhythms.com/articles/10.5334/jcr.183/galley/316/download/",
+    "any_repository_has_fulltext": true
   },
   "authorships": [
     {
@@ -399,6 +400,22 @@
       "version": "publishedVersion"
     },
     {
+      "is_oa": false,
+      "landing_page_url": "https://doaj.org/article/fb3e1445d49a49bc872004faa9652f04",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401280",
+        "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "issn_l": null,
+        "issn": null,
+        "host_organization": null,
+        "host_organization_name": "DOAJ: Directory of Open Access Journals",
+        "type": "repository"
+      },
+      "license": null,
+      "version": null
+    },
+    {
       "is_oa": true,
       "landing_page_url": "https://europepmc.org/articles/pmc6611484",
       "pdf_url": "https://europepmc.org/articles/pmc6611484?pdf=render",
@@ -425,22 +442,6 @@
         "issn": null,
         "host_organization": "https://openalex.org/I1322597698",
         "host_organization_name": "DANS",
-        "type": "repository"
-      },
-      "license": "cc-by",
-      "version": "publishedVersion"
-    },
-    {
-      "is_oa": true,
-      "landing_page_url": "https://dspace.library.uu.nl/handle/1874/391291",
-      "pdf_url": "https://dspace.library.uu.nl/bitstream/handle/1874/391291/Sleep_and_Microdialysis.pdf?sequence=1&isAllowed=y",
-      "source": {
-        "id": "https://openalex.org/S4306401649",
-        "display_name": "Utrecht University Repository (Utrecht University)",
-        "issn_l": null,
-        "issn": null,
-        "host_organization": "https://openalex.org/I193662353",
-        "host_organization_name": "Utrecht University",
         "type": "repository"
       },
       "license": "cc-by",
@@ -1188,6 +1189,6 @@
       "cited_by_count": 3
     }
   ],
-  "updated_date": "2023-03-30T18:45:06.108015",
+  "updated_date": "2023-04-10T08:55:10.215980",
   "created_date": "2019-07-12"
 }
