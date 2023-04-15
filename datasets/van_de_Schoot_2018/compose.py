@@ -2,7 +2,7 @@ import pandas as pd
 from asreview import ASReviewData
 
 # Set a key to identify the data files
-key = "van_de_Schoot_2017"
+key = "van_de_Schoot_2018"
 
 # Load the RIS files into ASReviewData objects
 asr_inclusions = ASReviewData.from_file("https://osf.io/fg93a/download")
