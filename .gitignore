@@ -1,13 +1,18 @@
-
-__pycache__/
-__pycache__
-
-*.secret
-
 datasets/*/*_raw.csv
 datasets/*/*_index.json
 
 abstract_inverted_index*.json
 abstracts_missing.csv
+abstracts_missing_inclusions_manual.xlsx
 
 scripts/invert_*.py
+
+*.secret
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter
+.ipynb_checkpoints
