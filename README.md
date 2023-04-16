@@ -131,7 +131,7 @@ Marlies L.S. Heeres, Marijn Vellinga, P Whaley, Mostafa Mohseni, P.M.J. Welsing,
 
 Run `synergy_dataset attribution` or see [ATTRIBUTION.md](ATTRIBUTION.md) for a complete attribution including references. 
 
-SYNERGY dataset is released under the [CC0 1.0](LICENSE). SYNERGY consists of metadata works of OpenAlex published under the [CC0 1.0 License](https://docs.openalex.org/additional-help/faq#how-is-openalex-licensed). [The Lens](https://www.lens.org/) was used for data quality checks and imputing some missing variables. 
+SYNERGY dataset is released under the [CC0 1.0](LICENSE) license. SYNERGY consists of [CC0 1.0 licensed](https://docs.openalex.org/additional-help/faq#how-is-openalex-licensed) metadata works published by OpenAlex. [The Lens](https://www.lens.org/) was used for data quality checks and imputing some missing variables. 
 
 ## Citing SYNERGY dataset
 
