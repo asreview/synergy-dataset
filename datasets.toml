@@ -1,4 +1,4 @@
-version=0.1
+version=1.0
 
 
 
@@ -72,11 +72,9 @@ version=0.1
   key="Donners_2021"
 
   [datasets.publication]
-
   doi="10.1007/s40262-021-01042-w"
 
   [datasets.data]
-
   url="https://osf.io/tnxju/"
 
 
@@ -85,23 +83,19 @@ version=0.1
   key="Meijboom_2021"
 
   [datasets.publication]
-
   doi="10.1007/s40259-021-00508-4"
 
   [datasets.data]
-
   url="https://osf.io/4cdku/"
+
 [[datasets]]
 
-  key="Valk_2021"
-  note="Should be Van der Valk"
+  key="van_der_Valk_2021"
 
   [datasets.publication]
-
   doi="10.1111/obr.13376"
 
   [datasets.data]
-
   doi="10.17605/OSF.IO/WDZH5"
 
 
@@ -110,11 +104,9 @@ version=0.1
   key="Smid_2020"
 
   [datasets.publication]
-
   doi="10.1080/10705511.2019.1577140"
 
   [datasets.data]
-
   doi="10.17605/OSF.IO/PUQ7X"
 
 
@@ -123,11 +115,9 @@ version=0.1
   key="Brouwer_2019"
 
   [datasets.publication]
-
   doi="10.1016/j.cpr.2019.101773"
 
   [datasets.data]
-
   doi="10.17605/OSF.IO/R45YZ"
 
 
@@ -136,11 +126,9 @@ version=0.1
   key="Appenzeller-Herzog_2019"
 
   [datasets.publication]
-
   doi="10.1111/liv.14179"
 
   [datasets.data]
-
   doi="10.5281/zenodo.3625931"
 
 
@@ -149,13 +137,13 @@ version=0.1
   # original study https://doi.org/10.1002/ebm2.24
 
   key="Bannach-Brown_2019"
+  active=false
+  note="Make for machine learning purposes"
 
   [datasets.publication]
-
   doi="10.1186/s13643-019-0942-7"
 
   [datasets.data]
-
   doi="10.5281/zenodo.151190"
 
 
@@ -164,11 +152,9 @@ version=0.1
   key="Bos_2018"
 
   [datasets.publication]
-
   doi="10.1016/j.jalz.2018.04.007"
 
   [datasets.data]
-
   url="https://osf.io/w3kbq/"
 
 
@@ -182,7 +168,6 @@ version=0.1
   doi="10.1197/jamia.M1929"
 
   [datasets.data]
-
   url="https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
 
   [datasets.scripts]
@@ -199,7 +184,6 @@ version=0.1
   doi="10.1197/jamia.M1929"
 
   [datasets.data]
-
   url="https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
 
   [datasets.scripts]
@@ -216,7 +200,6 @@ version=0.1
   doi="10.1197/jamia.M1929"
 
   [datasets.data]
-
   url="https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
 
   [datasets.scripts]
@@ -233,7 +216,6 @@ version=0.1
   doi="10.1197/jamia.M1929"
 
   [datasets.data]
-
   url="https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
 
   [datasets.scripts]
@@ -247,14 +229,12 @@ version=0.1
   key="Nelson_2002"
 
   [datasets.publication]
-
   doi="10.1001/jama.288.7.872"
 
   [datasets.collection]
   doi="10.1197/jamia.M1929"
 
   [datasets.data]
-
   url="https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
 
   [datasets.scripts]
@@ -268,14 +248,12 @@ version=0.1
   key="Chou_2004"
 
   [datasets.publication]
-
   doi="10.1016/j.jpainsymman.2004.05.002"
 
   [datasets.collection]
   doi="10.1197/jamia.M1929"
 
   [datasets.data]
-
   url="https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
 
   [datasets.scripts]
@@ -292,7 +270,6 @@ version=0.1
   doi="10.1197/jamia.M1929"
 
   [datasets.data]
-
   url="https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
 
   [datasets.scripts]
@@ -309,7 +286,6 @@ version=0.1
   doi="10.1197/jamia.M1929"
 
   [datasets.data]
-
   url="https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
 
   [datasets.scripts]
@@ -326,7 +302,6 @@ version=0.1
   doi="10.1197/jamia.M1929"
 
   [datasets.data]
-
   url="https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
 
   [datasets.scripts]
@@ -343,7 +318,6 @@ version=0.1
   doi="10.1197/jamia.M1929"
 
   [datasets.data]
-
   url="https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
 
   [datasets.scripts]
@@ -357,14 +331,12 @@ version=0.1
   key="Chou_2003"
 
   [datasets.publication]
-
   doi="10.1016/j.jpainsymman.2003.03.003"
 
   [datasets.collection]
   doi="10.1197/jamia.M1929"
 
   [datasets.data]
-
   url="https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
 
   [datasets.scripts]
@@ -381,7 +353,6 @@ version=0.1
   doi="10.1197/jamia.M1929"
 
   [datasets.data]
-
   url="https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
 
   [datasets.scripts]
@@ -398,7 +369,6 @@ version=0.1
   doi="10.1197/jamia.M1929"
 
   [datasets.data]
-
   url="https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
 
   [datasets.scripts]
@@ -415,7 +385,6 @@ version=0.1
   doi="10.1197/jamia.M1929"
 
   [datasets.data]
-
   url="https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
 
   [datasets.scripts]
@@ -432,7 +401,6 @@ version=0.1
   doi="10.1197/jamia.M1929"
 
   [datasets.data]
-
   url="https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
 
   [datasets.scripts]
@@ -446,27 +414,23 @@ version=0.1
   note="Dataset technically corrupted."
 
   [datasets.publication]
-
   doi="10.30636/jbpa.22.71"
 
   [datasets.data]
-
   doi="10.7910/DVN/WMGPGZ/HY6N2S"
 
 
 [[datasets]]
 
   # Note, this dataset is also used for another systematic review:
-  # https://doi.org/10.1080/00273171.2017.1412293
+  # https://doi.org/10.1080/10705511.2016.1247646
 
-  key="van_de_Schoot_2017"
+  key="van_de_Schoot_2018"
 
   [datasets.publication]
-
-  doi="10.1080/10705511.2016.1247646"
+  doi="10.1080/00273171.2017.1412293"
 
   [datasets.data]
-
   doi="10.17605/OSF.IO/VW3T7"
 
 
@@ -475,11 +439,9 @@ version=0.1
   key="van_Dis_2020"
 
   [datasets.publication]
-
   doi="10.1001/jamapsychiatry.2019.3986"
 
   [datasets.data]
-
   url="https://osf.io/4d9tu/"
 
 
@@ -488,11 +450,9 @@ version=0.1
   key="Wolters_2018"
 
   [datasets.publication]
-
   doi="10.1016/j.jalz.2018.01.007"
 
   [datasets.data]
-
   url="https://osf.io/sxzjg/"
 
 
@@ -510,6 +470,8 @@ version=0.1
 [[datasets]]
 
   key="Welling_2021"
+  active=false
+  note="Systematic review only for introduction."
 
   [datasets.publication]
   doi="10.1159/000520718"
@@ -554,6 +516,8 @@ version=0.1
 [[datasets]]
 
   key="Muthu_2022"
+  active=false
+  note="Review scores"
 
   [datasets.publication]
   doi="http://doi.org/10.13105/wjma.v10.i3.162"
@@ -622,6 +586,8 @@ version=0.1
 [[datasets]]
 
   key="Rooney_2015"
+  active=false
+  note="Book chapter, not peer reviewed."
 
   [datasets.collection]
   doi="10.1186/s13643-016-0263-z"
@@ -650,9 +616,6 @@ version=0.1
 [[datasets]]
 
   key="Leenaars_2020"
-
-  [datasets.collection]
-  doi="10.1186/s13643-016-0263-z"
 
   [datasets.publication]
   doi="10.3390/ani10061047"
