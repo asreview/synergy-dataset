@@ -62,62 +62,21 @@ Some of the notable variables are:
 
 | Variable                 | Type                         |   Description |
 |------|-------------------------|-------------------------------|
+| id | String | The OpenAlex ID for this work. |
+| doi | String | The DOI identifier of the object if available |
 | label_included | Bin | 1 for included records, 0 for excluded records after full text screening |
 | title | String | The title of this work. |
-| title | String | The title of this work. |
-| title | String | The title of this work. |
-| title | String | The title of this work. |
-| title | String | The title of this work. |
-
+| abstract | String | The abstract of this work. Stored as `abstract_inverted_index`, but available as plaintext abstract for machine learning purposes. |
+| authorships | List | List of Authorship objects, each representing an author and their institution. |
+| type | String | The type or genre of the work as defined by https://api.crossref.org/types. |
+| publication_year | Integer | The year this work was published. |
+| referenced_works | List | List of OpenAlex IDs for works that this work cites. |
+| concepts | List | List of wikidata concept objects. |
+| best_oa_location | Object | An object with the best available open access location for this work. |
+| cited_by_count | Integer | The number of citations to this work at April 1st, 2023. | 
 
 
 For the full list of variables, see this persistent copy of the OpenAlex Work Object documention: https://web.archive.org/web/20230104092916/https://docs.openalex.org/api-entities/works/work-object
-
-| Variable | Type  |  Description |
-|---|---|---|
-| abstract_inverted_index |  |  |
-| authorships |  |  |
-| best_oa_location |  |  |
-| biblio |  |  |
-| cited_by_api_url |  |  |
-| cited_by_count |  |  |
-| concepts |  |  |
-| counts_by_year |  |  |
-| created_date |  |  |
-| display_name |  |  |
-| doi |  |  |
-| id |  |  |
-| ids |  |  |
-| is_paratext |  |  |
-| is_retracted |  |  |
-| locations |  |  |
-| mesh |  |  |
-| ngrams_url |  |  |
-| open_access |  |  |
-| primary_location |  |  |
-| publication_date |  |  |
-| publication_year |  |  |
-| referenced_works |  |  |
-| related_works |  |  |
-| title |  |  |
-| type |  |  |
-| updated_date |  |  |
-| author |  |  |
-| author_position |  |  |
-| institutions |  |  |
-| raw_affiliation_string |  |  |
-| is_oa |  |  |
-| license |  |  |
-| url |  |  |
-| version |  |  |
-| ngram |  |  |
-| ngram_count |  |  |
-| ngram_tokens |  |  |
-| token_frequency |  |  |
-| is_oa |  |  |
-| oa_status |  |  |
-| oa_url |  |  |
-
 
 ## Benchmark
 
