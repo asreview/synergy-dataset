@@ -24,7 +24,7 @@ You can get an overview of the datasets and their properties with `synergy_datas
 
 ## Datasets and variables
 
-The SYNERGY dataset comprises the study selection of 26 systematic reviews. The dataset contains 169,288 records of which 2,834 records are labeled as inclusion. The list of systematic review and basic properties:
+The SYNERGY dataset comprises the study selection of 26 systematic reviews. The dataset contains 169,288 records of which 2,834 records are manually labeled as inclusion by the authors of the systematic review. The list of systematic review and basic properties:
 
 |   Nr | Dataset                 | Topic(s)                      |   Records |   Included |    % |
 |------|-------------------------|-------------------------------|-----------|------------|------|
