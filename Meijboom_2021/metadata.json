@@ -6,6 +6,17 @@
   "data": {
     "url": "https://osf.io/4cdku/",
     "n_records": 882,
-    "n_records_included": 37
+    "n_records_included": 37,
+    "concepts": {
+      "included": [
+        {
+          "id": "https://openalex.org/C71924100",
+          "wikidata": "https://www.wikidata.org/wiki/Q11190",
+          "display_name": "Medicine",
+          "level": 0,
+          "score": 0.893434
+        }
+      ]
+    }
   }
 }

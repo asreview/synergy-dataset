@@ -6,6 +6,17 @@
   "data": {
     "doi": "10.5281/zenodo.7308296",
     "n_records": 1970,
-    "n_records_included": 33
+    "n_records_included": 33,
+    "concepts": {
+      "included": [
+        {
+          "id": "https://openalex.org/C71924100",
+          "wikidata": "https://www.wikidata.org/wiki/Q11190",
+          "display_name": "Medicine",
+          "level": 0,
+          "score": 0.7504991
+        }
+      ]
+    }
   }
 }

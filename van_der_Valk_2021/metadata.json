@@ -7,6 +7,24 @@
   "data": {
     "doi": "10.17605/OSF.IO/WDZH5",
     "n_records": 725,
-    "n_records_included": 89
+    "n_records_included": 89,
+    "concepts": {
+      "included": [
+        {
+          "id": "https://openalex.org/C71924100",
+          "wikidata": "https://www.wikidata.org/wiki/Q11190",
+          "display_name": "Medicine",
+          "level": 0,
+          "score": 0.5531
+        },
+        {
+          "id": "https://openalex.org/C15744967",
+          "wikidata": "https://www.wikidata.org/wiki/Q9418",
+          "display_name": "Psychology",
+          "level": 0,
+          "score": 0.2118365
+        }
+      ]
+    }
   }
 }

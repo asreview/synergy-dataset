@@ -9,6 +9,17 @@
   "data": {
     "url": "https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html",
     "n_records": 366,
-    "n_records_included": 80
+    "n_records_included": 80,
+    "concepts": {
+      "included": [
+        {
+          "id": "https://openalex.org/C71924100",
+          "wikidata": "https://www.wikidata.org/wiki/Q11190",
+          "display_name": "Medicine",
+          "level": 0,
+          "score": 0.8827009
+        }
+      ]
+    }
   }
 }

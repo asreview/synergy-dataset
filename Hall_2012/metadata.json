@@ -9,6 +9,17 @@
   "data": {
     "doi": "10.5281/zenodo.1162952",
     "n_records": 8793,
-    "n_records_included": 104
+    "n_records_included": 104,
+    "concepts": {
+      "included": [
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.6947671
+        }
+      ]
+    }
   }
 }

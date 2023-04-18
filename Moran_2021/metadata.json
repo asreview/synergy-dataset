@@ -6,6 +6,24 @@
   "data": {
     "doi": "10.17605/OSF.IO/3TPHJ",
     "n_records": 5214,
-    "n_records_included": 111
+    "n_records_included": 111,
+    "concepts": {
+      "included": [
+        {
+          "id": "https://openalex.org/C86803240",
+          "wikidata": "https://www.wikidata.org/wiki/Q420",
+          "display_name": "Biology",
+          "level": 0,
+          "score": 0.3381772
+        },
+        {
+          "id": "https://openalex.org/C71924100",
+          "wikidata": "https://www.wikidata.org/wiki/Q11190",
+          "display_name": "Medicine",
+          "level": 0,
+          "score": 0.2148669
+        }
+      ]
+    }
   }
 }

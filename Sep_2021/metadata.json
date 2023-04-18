@@ -6,6 +6,17 @@
   "data": {
     "doi": "10.17605/OSF.IO/GY2MC",
     "n_records": 271,
-    "n_records_included": 40
+    "n_records_included": 40,
+    "concepts": {
+      "included": [
+        {
+          "id": "https://openalex.org/C15744967",
+          "wikidata": "https://www.wikidata.org/wiki/Q9418",
+          "display_name": "Psychology",
+          "level": 0,
+          "score": 0.5163698
+        }
+      ]
+    }
   }
 }

@@ -6,6 +6,24 @@
   "data": {
     "doi": "10.17605/OSF.IO/VW3T7",
     "n_records": 4544,
-    "n_records_included": 38
+    "n_records_included": 38,
+    "concepts": {
+      "included": [
+        {
+          "id": "https://openalex.org/C15744967",
+          "wikidata": "https://www.wikidata.org/wiki/Q9418",
+          "display_name": "Psychology",
+          "level": 0,
+          "score": 0.4397641
+        },
+        {
+          "id": "https://openalex.org/C71924100",
+          "wikidata": "https://www.wikidata.org/wiki/Q11190",
+          "display_name": "Medicine",
+          "level": 0,
+          "score": 0.3850265
+        }
+      ]
+    }
   }
 }

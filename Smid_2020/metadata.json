@@ -6,6 +6,24 @@
   "data": {
     "doi": "10.17605/OSF.IO/PUQ7X",
     "n_records": 2627,
-    "n_records_included": 27
+    "n_records_included": 27,
+    "concepts": {
+      "included": [
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.3962187
+        },
+        {
+          "id": "https://openalex.org/C33923547",
+          "wikidata": "https://www.wikidata.org/wiki/Q395",
+          "display_name": "Mathematics",
+          "level": 0,
+          "score": 0.3527853
+        }
+      ]
+    }
   }
 }

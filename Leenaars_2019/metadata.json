@@ -6,6 +6,31 @@
   "data": {
     "doi": "10.17605/OSF.IO/PH56S",
     "n_records": 5812,
-    "n_records_included": 17
+    "n_records_included": 17,
+    "concepts": {
+      "included": [
+        {
+          "id": "https://openalex.org/C15744967",
+          "wikidata": "https://www.wikidata.org/wiki/Q9418",
+          "display_name": "Psychology",
+          "level": 0,
+          "score": 0.2564284
+        },
+        {
+          "id": "https://openalex.org/C185592680",
+          "wikidata": "https://www.wikidata.org/wiki/Q2329",
+          "display_name": "Chemistry",
+          "level": 0,
+          "score": 0.2457996
+        },
+        {
+          "id": "https://openalex.org/C71924100",
+          "wikidata": "https://www.wikidata.org/wiki/Q11190",
+          "display_name": "Medicine",
+          "level": 0,
+          "score": 0.2436852
+        }
+      ]
+    }
   }
 }
