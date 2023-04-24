@@ -118,7 +118,7 @@ We are welcoming contributions of all kinds. Some examples are:
 
 - Do you have an openly published systematic review dataset? Read about our ambition to develop [SYNERGY+ (SYNERGY Plus)](https://github.com/asreview/synergy-dataset/discussions/97), a much larger dataset with lots of new features. 
 - Write an [example or tutorial](examples) on how to use SYNERGY and all of its hidden capebilities. 
-- Write integration to load SYNERGY into existing software like Spacy, Gensim, Tensorflow, Docker. 
+- Write integration to load SYNERGY into existing software like Spacy, Gensim, Tensorflow, Docker, Hugging Face. 
 
 ## Contact
 
