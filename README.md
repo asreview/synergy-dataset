@@ -92,18 +92,7 @@ SYNERGY dataset is released under the [CC0 1.0](LICENSE) license. SYNERGY consis
 
 ## Citing SYNERGY dataset
 
-If you use SYNERGY in a scientific publication, we would appreciate references to:
-
-Biblatex entry:
-
-```bib
-@online{xxx,
-  author       = {xxx},
-  title        = {xxx},
-  date         = {xxx},
-  year         = {2023},
-}
-```
+If you use SYNERGY in a scientific publication, we would appreciate references to this github repository. A proper reference to this dataset will follow soon.
 
 ## Contributing
 
