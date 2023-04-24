@@ -92,7 +92,23 @@ SYNERGY dataset is released under the [CC0 1.0](LICENSE) license. SYNERGY consis
 
 ## Citing SYNERGY dataset
 
-If you use SYNERGY in a scientific publication, we would appreciate references to this github repository. A proper reference to this dataset will follow soon.
+If you use SYNERGY in a scientific publication, we would appreciate references to:
+
+> De Bruin, Jonathan; Ma, Yongchao; Ferdinands, Gerbrich; Teijema, Jelle; Van de Schoot, Rens, 2023, "SYNERGY - Open machine learning dataset on study selection in systematic reviews", https://doi.org/10.34894/HE6NAQ, DataverseNL, V1
+
+BibTeX reference:
+
+```bib
+@data{HE6NAQ_2023,
+  author = {De Bruin, Jonathan and Ma, Yongchao and Ferdinands, Gerbrich and Teijema, Jelle and Van de Schoot, Rens},
+  publisher = {DataverseNL},
+  title = {{SYNERGY - Open machine learning dataset on study selection in systematic reviews}},
+  year = {2023},
+  version = {V1},
+  doi = {10.34894/HE6NAQ},
+  url = {https://doi.org/10.34894/HE6NAQ}
+}
+```
 
 ## Contributing
 
