@@ -1,7 +1,3 @@
-
-# :exclamation: This is work in progress, please do NOT use. Public release under open license will follow soon. Questions? Contact j.debruin1@uu.nl.
-
-
 # SYNERGY dataset
 
 SYNERGY is a free and open dataset on study selection in systematic reviews, comprising 169,288 academic works from 26 systematic reviews. Only 2,834 (1.67%) of the academic works in the binary classified dataset are included in the systematic reviews. This makes the SYNERGY dataset an unique dataset for the development of information retrieval algorithms, especially for sparse labels. Due to the many available variables available per record (i.e. titles, abstracts, authors, references, topics), this dataset is useful for researchers in NLP, machine learning, network analysis and more. In total, the dataset contains 82,668,134 trainable data points. 
@@ -10,50 +6,52 @@ SYNERGY is a free and open dataset on study selection in systematic reviews, com
 
 ## Get the data
 
-The easiest way to get the SYNERGY dataset is via the `synergy-dataset` Python package.
+The easiest way to get the SYNERGY dataset is via the `synergy-dataset` Python package. Install the package with:
 
 ```bash
-pip install --pre synergy-dataset
+pip install synergy-dataset
 ```
+
+To download and build the SYNERGY dataset, run the following command in the command line:
 
 ```python
 python -m synergy_dataset get
 ```
 
-You can get an overview of the datasets and their properties with `synergy_dataset list` and `synergy_dataset show <DATASET_NAME>`.
+To get an overview of the datasets and their properties, use `synergy_dataset list` and `synergy_dataset show <DATASET_NAME>`.
 
 ## Datasets and variables
 
 The SYNERGY dataset comprises the study selection of 26 systematic reviews. The dataset contains 169,288 records of which 2,834 records are manually labeled as inclusion by the authors of the systematic review. The list of systematic review and basic properties:
 
-|   Nr | Dataset                 | Topic(s)                      |   Records |   Included |    % |
-|------|-------------------------|-------------------------------|-----------|------------|------|
-|    1 | Appenzeller-Herzog_2019 | Medicine                      |      2873 |         26 |  0.9 |
-|    2 | Bos_2018                | Medicine                      |      4878 |         10 |  0.2 |
-|    3 | Brouwer_2019            | Psychology, Medicine          |     38114 |         62 |  0.2 |
-|    4 | Chou_2003               | Medicine                      |      1908 |         15 |  0.8 |
-|    5 | Chou_2004               | Medicine                      |      1630 |          9 |  0.6 |
-|    6 | Donners_2021            | Medicine                      |       258 |         15 |  5.8 |
-|    7 | Hall_2012               | Computer science, Engineering |      8793 |        104 |  1.2 |
-|    8 | Jeyaraman_2020          | Medicine                      |      1175 |         96 |  8.2 |
-|    9 | Leenaars_2019           | Medicine, Chemistry           |      5812 |         17 |  0.3 |
-|   10 | Leenaars_2020           | Medicine, Biology             |      7216 |        583 |  8.1 |
-|   11 | Meijboom_2021           | Medicine, Physics             |       882 |         37 |  4.2 |
-|   12 | Menon_2022              | Medicine, Psychology          |       975 |         74 |  7.6 |
-|   13 | Moran_2021              | Psychology, Biology           |      5214 |        111 |  2.1 |
-|   14 | Muthu_2021              | Medicine, Chemistry           |      2719 |        336 | 12.4 |
-|   15 | Nelson_2002             | Medicine, Physics             |       366 |         80 | 21.9 |
-|   16 | Oud_2018                | Psychology, Medicine          |       952 |         20 |  2.1 |
-|   17 | Radjenovic_2013         | Computer science, Engineering |      5935 |         48 |  0.8 |
-|   18 | Sep_2021                | Computer science, Psychology  |       271 |         40 | 14.8 |
-|   19 | Smid_2020               | Computer science, Mathematics |      2627 |         27 |  1   |
-|   20 | van_de_Schoot_2018      | Computer science, Mathematics |      4544 |         38 |  0.8 |
-|   21 | Valk_2021               | Medicine, Mathematics         |       725 |         89 | 12.3 |
-|   22 | van_der_Waal_2022       | Medicine, Political science   |      1970 |         33 |  1.7 |
-|   23 | van_Dis_2020            | Psychology, Medicine          |      9128 |         72 |  0.8 |
-|   24 | Walker_2018             | Psychology, Medicine          |     48375 |        762 |  1.6 |
-|   25 | Wassenaar_2017          | Medicine, Biology             |      7668 |        111 |  1.4 |
-|   26 | Wolters_2018            | Medicine                      |      4280 |         19 |  0.4 |
+|   Nr | Dataset                 | Topic(s)                        |   Records |   Included |    % |
+|------|-------------------------|---------------------------------|-----------|------------|------|
+|    1 | Appenzeller-Herzog_2019 | Medicine                        |      2873 |         26 |  0.9 |
+|    2 | Bos_2018                | Medicine                        |      4878 |         10 |  0.2 |
+|    3 | Brouwer_2019            | Psychology, Medicine            |     38114 |         62 |  0.2 |
+|    4 | Chou_2003               | Medicine                        |      1908 |         15 |  0.8 |
+|    5 | Chou_2004               | Medicine                        |      1630 |          9 |  0.6 |
+|    6 | Donners_2021            | Medicine                        |       258 |         15 |  5.8 |
+|    7 | Hall_2012               | Computer science                |      8793 |        104 |  1.2 |
+|    8 | Jeyaraman_2020          | Medicine                        |      1175 |         96 |  8.2 |
+|    9 | Leenaars_2019           | Psychology, Chemistry, Medicine |      5812 |         17 |  0.3 |
+|   10 | Leenaars_2020           | Medicine                        |      7216 |        583 |  8.1 |
+|   11 | Meijboom_2021           | Medicine                        |       882 |         37 |  4.2 |
+|   12 | Menon_2022              | Medicine                        |       975 |         74 |  7.6 |
+|   13 | Moran_2021              | Biology, Medicine               |      5214 |        111 |  2.1 |
+|   14 | Muthu_2021              | Medicine                        |      2719 |        336 | 12.4 |
+|   15 | Nelson_2002             | Medicine                        |       366 |         80 | 21.9 |
+|   16 | Oud_2018                | Psychology, Medicine            |       952 |         20 |  2.1 |
+|   17 | Radjenovic_2013         | Computer science                |      5935 |         48 |  0.8 |
+|   18 | Sep_2021                | Psychology                      |       271 |         40 | 14.8 |
+|   19 | Smid_2020               | Computer science, Mathematics   |      2627 |         27 |  1   |
+|   20 | van_de_Schoot_2018      | Psychology, Medicine            |      4544 |         38 |  0.8 |
+|   21 | Valk_2021               | Medicine, Psychology            |       725 |         89 | 12.3 |
+|   22 | van_der_Waal_2022       | Medicine                        |      1970 |         33 |  1.7 |
+|   23 | van_Dis_2020            | Psychology, Medicine            |      9128 |         72 |  0.8 |
+|   24 | Walker_2018             | Biology, Medicine               |     48375 |        762 |  1.6 |
+|   25 | Wassenaar_2017          | Medicine, Biology, Chemistry    |      7668 |        111 |  1.4 |
+|   26 | Wolters_2018            | Medicine                        |      4280 |         19 |  0.4 | 
 
 The each record in the dataset is an [OpenAlex Work object](https://docs.openalex.org/api-entities/works/work-object
 ) (Copy at [web.archive.org](https://web.archive.org/web/20230331020326/https://docs.openalex.org/api-entities/works/work-object) extracted on 2023-03-31) with following attributes:
@@ -71,7 +69,7 @@ Some of the notable variables are:
 | type | String | The type or genre of the work as defined by https://api.crossref.org/types. |
 | publication_year | Integer | The year this work was published. |
 | referenced_works | List | List of OpenAlex IDs for works that this work cites. |
-| concepts | List | List of wikidata concept objects. |
+| concepts | List | List of wikidata concept objects (or topics). |
 | best_oa_location | Object | An object with the best available open access location for this work. |
 | cited_by_count | Integer | The number of citations to this work at April 1st, 2023. | 
 
@@ -117,5 +115,5 @@ We are welcoming contributions of all kinds. Some examples are:
 
 ## Contact
 
-Reach out on the [Discussion forum](https://github.com/asreview/systematic-review-datasets/discussions).
+Reach out on the [Discussion forum](https://github.com/asreview/synergy-dataset/discussions).
 
