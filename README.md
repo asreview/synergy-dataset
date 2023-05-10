@@ -2,7 +2,7 @@
 
 [![DOI](https://img.shields.io/badge/DOI-10.34894/HE6NAQ-green.svg)](https://doi.org/10.34894/HE6NAQ) ![PyPI](https://img.shields.io/pypi/v/synergy-dataset)
 
-SYNERGY is a free and open dataset on study selection in systematic reviews, comprising 169,288 academic works from 26 systematic reviews. Only 2,834 (1.67%) of the academic works in the binary classified dataset are included in the systematic reviews. This makes the SYNERGY dataset a unique dataset for the development of information retrieval algorithms, especially for sparse labels. Due to the many available variables available per record (i.e. titles, abstracts, authors, references, topics), this dataset is useful for researchers in NLP, machine learning, network analysis, and more. In total, the dataset contains 82,668,134 trainable data points. 
+SYNERGY is a free and open dataset on study selection in systematic reviews, comprising 169,288 academic works from 26 systematic reviews. Only 2,834 (1.67%) of the academic works in the binary classified dataset are included in the systematic reviews. This makes the SYNERGY dataset a unique dataset for the development of information retrieval algorithms, especially for sparse labels. Due to the many variables available per record (i.e. titles, abstracts, authors, references, topics), this dataset is useful for researchers in NLP, machine learning, network analysis, and more. In total, the dataset contains 82,668,134 trainable data points. 
 
 [![SYNERGY-banner.png](SYNERGY-banner.png)]()
 
@@ -55,8 +55,8 @@ The SYNERGY dataset comprises the study selection of 26 systematic reviews. The 
 |   25 | Wassenaar_2017          | Medicine, Biology, Chemistry    |      7668 |        111 |  1.4 |
 |   26 | Wolters_2018            | Medicine                        |      4280 |         19 |  0.4 | 
 
-The each record in the dataset is an [OpenAlex Work object](https://docs.openalex.org/api-entities/works/work-object
-) (Copy at [web.archive.org](https://web.archive.org/web/20230331020326/https://docs.openalex.org/api-entities/works/work-object) extracted on 2023-03-31) with following attributes:
+Each record in the dataset is an [OpenAlex Work object](https://docs.openalex.org/api-entities/works/work-object
+) (Copy at [web.archive.org](https://web.archive.org/web/20230331020326/https://docs.openalex.org/api-entities/works/work-object) extracted on 2023-03-31). 
 
 Some of the notable variables are: 
 
@@ -84,7 +84,7 @@ Work in progress.
 
 ## Attribution & License
 
-We would like to thank the following authors for openly sharing the data correponding their systematic review:
+We would like to thank the following authors for openly sharing the data correponding to their systematic review:
 
 Marlies L.S. Heeres, Marijn Vellinga, P Whaley, Mostafa Mohseni, P.M.J. Welsing, Marleen L.M. Hermens, Richard Torkar, [Holger Schielzeth](https://orcid.org/0000-0002-9124-2261), Marjan Hericko, Arnoud Arntz, Lisanne A. H. Bevers, [Christian Appenzeller-Herzog](https://orcid.org/0000-0001-7430-294X), Michael J. DeVito, Juliette Legler, [Rosalie W. M. Kempkes](https://orcid.org/0000-0002-6232-5295), Daniel Bos, Sanne C. Smid, Robyn B. Blain, Carin M. A. Rademaker, David De Jong, Antoine C. G. Egberts, Tijmen Geurts, Sathish Muthu, Suzanne C. van Veen, Janet D. Allan, Pamela Hartman, Eline S van der Valk, [Mitzy Kennis](https://orcid.org/0000-0002-0729-6436), Wilhelmus Drinkenburg, R. Angela Sarabdjitsingh, Nicola P. Klein, Helga Gardarsdottir, Anouk A. M. T. Donners, [Sonja D. Winter](https://orcid.org/0000-0002-2203-002X), Muriel A. Hagenaars, Erica L T van den Akker, Amir Abdelmoumen, Derek W. R. Gray, Kim Peterson, Eswar Ramakrishnan, Trevor J. Hall, Maurice Dematteis, [Merel Ritskes-Hoitinga](https://orcid.org/0000-0001-5315-284X), Andrew A. Shapiro, Meike W. Vernooij, Maria Brouwer, Katherine E. Pelch, Milica Miočević, Eva A.M. van Dis, [Ozair Abawi](https://orcid.org/0000-0002-1343-6562), Dimitrije Radjenović, Daniel McNeish, Peggy Nygren, Maikel van Berlo, [Alwin D. R. Huitema](https://orcid.org/0000-0003-1939-4639), Nicholas P. Moran, Chad R. Blystone, Alishia D. Williams, Ruud N. J. M. A. Joosten, Klaus Reinhold, Pim N.H. Wassenaar, Sanne E. Hoeks, Anand Krishnan V. Iyer, Sjoerd A.A. van den Berg, Tim Kendall, Lieke H. van Huis, [Rens van de Schoot](https://orcid.org/0000-0001-7736-2091), Nancy E. E. Van Loey, [Julia M.L. Menon](https://orcid.org/0000-0002-3467-1908), Cathalijn H. C. Leenaars, [Rogier E. J. Verhoef](https://orcid.org/0000-0002-0876-1926), [Sarah Depaoli](https://orcid.org/0000-0002-1277-0462), Frank de Wolf, M.E. Hamaker, [Rinske M van den Heuvel](https://orcid.org/0000-0002-3835-4686), [Leonardo Trasande](https://orcid.org/0000-0002-1928-597X), Miranda Olff, Alfredo Sánchez-Tójar, M.H. Emmelot-Vonk, Kristina A. Thayer, Steven M. Teutsch, Elisabeth F.C. van Rossum, [Bibian van der Voorn](https://orcid.org/0000-0003-1299-0067), Stephanie Holmgren, [André Bleich](https://orcid.org/0000-0002-3438-0254), M.S. van der Waal, Frank J. Wolters, [Hannah Ewald](https://orcid.org/0000-0002-5081-1093), Marian Joëls, Franck L. B. Meijboom, Yolanda B. de Rijke, Tobias Stalder, M. Arfan Ikram, P.A.L. Seghers, [Marit Sijbrandij](https://orcid.org/0000-0001-5430-9810), Vincent L. Wester, Behnam Sabayan, Tim Mathes, Parvez Ahmad Ganie, Matthijs G. P. Feenstra, Abee L. Boyles, [Matthijs Oud](https://orcid.org/0000-0001-8194-3614), Andrew A. Rooney, [Rosanne W. Meijboom](https://orcid.org/0000-0002-7370-0695), Karl Heinz Weiss, [Jan-Bas Prins](https://orcid.org/0000-0002-1831-8522), F. Struijs, David Bowes, [Neeltje M. Batelaan](https://orcid.org/0000-0001-6444-3781), Reffat A. Segufa, Serena J. Counsell, Milou S. C. Sep, Aleš Živkovič, [Madhan Jeyaraman](https://orcid.org/0000-0002-9045-9493), Sirwan K.L. Darweesh, Tineke Coenen-de Roo, Heidi Nelson, Roger Chou, Vickie R. Walker, Albert Hofman, [Roger E. G. Schutgens](https://orcid.org/0000-0002-2762-6033), Rob B. M. de Vries, Zhongfang Fu, Pim Cuijpers, Christ Nolten, Krista Fischer, [Janneke Elzinga](https://orcid.org/0000-0002-4819-9499), Roderick H. J. Houwen, Iris M. Engelhard, Linda Humphrey, Frans A. Stafleu, Simon Beecham, Mark Helfand, [Thijs J. Giezen](https://orcid.org/0000-0002-4087-033X), Retha R. Newbold, Claudi L H Bockting, Sanaz Sedaghat, Elizabeth A. Clark 
 
@@ -117,7 +117,7 @@ BibTeX reference:
 We are welcoming contributions of all kinds. Some examples are:
 
 - Do you have an openly published systematic review dataset? Read about our ambition to develop [SYNERGY+ (SYNERGY Plus)](https://github.com/asreview/synergy-dataset/discussions/97), a much larger dataset with lots of new features. 
-- Write an [example or tutorial](examples) on how to use SYNERGY and all of its hidden capebilities. 
+- Write an [example or tutorial](examples) on how to use SYNERGY and all of its hidden capabilities. 
 - Write integration to load SYNERGY into existing software like Spacy, Gensim, Tensorflow, Docker, Hugging Face. 
 
 ## Contact
