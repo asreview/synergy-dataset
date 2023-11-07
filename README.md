@@ -48,7 +48,7 @@ The SYNERGY dataset comprises the study selection of 26 systematic reviews. The 
 |   18 | Sep_2021                | Psychology                      |       271 |         40 | 14.8 |
 |   19 | Smid_2020               | Computer science, Mathematics   |      2627 |         27 |  1   |
 |   20 | van_de_Schoot_2018      | Psychology, Medicine            |      4544 |         38 |  0.8 |
-|   21 | Valk_2021               | Medicine, Psychology            |       725 |         89 | 12.3 |
+|   21 | van_der_Valk_2021       | Medicine, Psychology            |       725 |         89 | 12.3 |
 |   22 | van_der_Waal_2022       | Medicine                        |      1970 |         33 |  1.7 |
 |   23 | van_Dis_2020            | Psychology, Medicine            |      9128 |         72 |  0.8 |
 |   24 | Walker_2018             | Biology, Medicine               |     48375 |        762 |  1.6 |
