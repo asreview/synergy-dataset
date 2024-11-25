@@ -4,6 +4,20 @@ version=1.0
 
 [[datasets]]
 
+  key="Wijnen_2024"
+
+  [datasets.publication]
+  doi="doi.org/10.5194/gc-7-91-2024"
+
+  [datasets.data]
+  doi="10.5281/zenodo.13957522"
+
+  [datasets.scripts]
+  compose="compose.py Wijnen_2024"
+
+
+[[datasets]]
+
   key="Hall_2012"
 
   [datasets.collection]
