@@ -12,9 +12,6 @@ version=1.0
   [datasets.data]
   doi="10.5281/zenodo.13957522"
 
-  [datasets.scripts]
-  compose="compose.py Wijnen_2024"
-
 
 [[datasets]]
 
