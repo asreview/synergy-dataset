@@ -11,7 +11,7 @@ search["label_included"] = 0
 search["label_abstract_included"] = 0
 
 ti_ab_exclude = ASReviewData.from_file("https://zenodo.org/records/13957522/files/Excluded%20first%20round.ris").df
-ti_ab = search[~search[['primary_title']].apply(lambda x: np.in1d(x,ti_ab_exclude).all(),axis=1)].reset_index(drop=True)
+ti_ab = search[~search['primary_title'].isin(ti_ab_exclude['primary_title'])].reset_index(drop=True)
 ti_ab["label_included"] = 0
 ti_ab["label_abstract_included"] = 1
 
@@ -28,10 +28,9 @@ df["title"] = df["primary_title"]
 
 df.drop_duplicates(subset=["doi","title","year"], inplace=True, ignore_index=True)
 
-# save results to file
-#df.to_csv(f"{key}_raw.csv", index=False)
+# save results to file(s)
+df.to_csv(f"{key}_raw.csv", index=False)
 
-df_new = df[["doi", "title", "year", "label_included", "label_abstract_included"]].copy()
-df_new["openalex_id"] = None
+df["openalex_id"] = None
 
-df_new.to_csv(f"{key}_ids.csv", index=False)
+df[["openalex_id", "doi", "label_included", "label_abstract_included"]].to_csv(f"{key}_ids.csv", index=False)
