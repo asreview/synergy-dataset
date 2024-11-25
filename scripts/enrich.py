@@ -260,9 +260,8 @@ if __name__ == "__main__":
                     df[subset][id_type].tolist(), id_type=id_type
                 )
 
-                df.loc[subset, "doi"] = doi
                 df.loc[subset, "openalex_id"] = oaid
-                df.loc[subset, "pmid"] = pmid
+                df.loc[subset, "method"] = f"id_retrieval_{id_type}"
 
             if args.title_search:
 
