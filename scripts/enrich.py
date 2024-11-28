@@ -153,13 +153,9 @@ def openalex_work_by_id(
         for w in res:
             if id_type == "pmid":
                 if "pmid" in w["ids"]:
-                    results[w["ids"]["pmid"]] = (w["doi"], w["ids"]["pmid"], w["id"])
+                    results[w["ids"]["pmid"]] = w["id"]
             elif id_type == "doi":
-                results[w["doi"]] = (
-                    w["doi"],
-                    w["ids"]["pmid"] if "pmid" in w["ids"] else None,
-                    w["id"],
-                )
+                results[w["doi"]] = w["id"]
             else:
                 raise ValueError("Id type not found.")
 
@@ -168,37 +164,15 @@ def openalex_work_by_id(
     # ugly
     store = []
     for x in id_list:
-
         try:
-            doi = results[unquote_url(x)][0]
-
-        except KeyError:
-            if id_type == "doi":
-                doi = x
-            else:
-                doi = None
-
-        try:
-            pmid = results[unquote_url(x)][1]
-        except KeyError:
-            if id_type == "pmid":
-                pmid = x
-            else:
-                pmid = None
-
-        try:
-            oaid = results[unquote_url(x)][2]
+            oaid = results[unquote_url(x)]
         except KeyError:
             oaid = None
 
-        store.append((doi, pmid, oaid))
+        store.append(oaid)
 
-    return (
-        list(map(lambda x: x[0], store)),
-        list(map(lambda x: x[1], store)),
-        list(map(lambda x: x[2], store)),
-    )
-
+    return (list(store))
+    
 
 if __name__ == "__main__":
 
@@ -256,20 +230,11 @@ if __name__ == "__main__":
                 if df[subset].empty:
                     continue
 
-                doi, pmid, oaid = openalex_work_by_id(
+                oaid = openalex_work_by_id(
                     df[subset][id_type].tolist(), id_type=id_type
                 )
 
-                # If the search did not find a doi, keep it from the input data
-                if id_type != "doi":
-                    dois = df[subset]["doi"].tolist()
-                    for i, d in enumerate(doi):
-                        if d == None:
-                            doi[i] = dois[i]
-
                 df.loc[subset, "openalex_id"] = oaid
-                df.loc[subset, "doi"] = doi
-                df.loc[subset, "pmid"] = pmid
                 df.loc[subset, "method"] = f"id_retrieval_{id_type}"
 
             if args.title_search:
@@ -309,9 +274,6 @@ if __name__ == "__main__":
                             print("Found new work:", doi)
                             df.loc[index, "openalex_id"] = openalex_id
                             df.loc[index, "method"] = retrieval_method
-
-                        if doi:
-                            df.loc[index, "doi"] = doi
 
         except KeyboardInterrupt as err:
             print("Stop and write results so far.")
