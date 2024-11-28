@@ -260,7 +260,16 @@ if __name__ == "__main__":
                     df[subset][id_type].tolist(), id_type=id_type
                 )
 
+                # If the search did not find a doi, keep it from the input data
+                if id_type != "doi":
+                    dois = df[subset]["doi"].tolist()
+                    for i, d in enumerate(doi):
+                        if d == None:
+                            doi[i] = dois[i]
+
                 df.loc[subset, "openalex_id"] = oaid
+                df.loc[subset, "doi"] = doi
+                df.loc[subset, "pmid"] = pmid
                 df.loc[subset, "method"] = f"id_retrieval_{id_type}"
 
             if args.title_search:
