@@ -1,11 +1,13 @@
 # This script contains functionality to simplify compose scripts for new datasets
 
+import pandas as pd
+
 # All ID's we use to search in OpenAlex
 ID_SET = ["doi", "pmid", "title", "year"]
 
 
 # Sets labels and creates a unique combined dataframe of the records 
-def combine_datafiles(search: pd.DataFrame, ti_ab: pd.DataFrame, ft: pd.DataFrame):
+def combine_datafiles(search: pd.DataFrame, ft: pd.DataFrame, ti_ab: pd.DataFrame = pd.DataFrame()):
     
     # Set labels
     if not ti_ab.empty:
