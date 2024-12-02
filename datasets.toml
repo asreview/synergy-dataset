@@ -1,635 +1,670 @@
-version=1.0
-
-
+version = 1.0
 
 [[datasets]]
+key = "Hall_2012"
 
-  key="Hall_2012"
+[datasets.collection]
+doi = "10.1007/s10664-017-9587-0"
 
-  [datasets.collection]
-  doi="10.1007/s10664-017-9587-0"
+[datasets.publication]
+doi = "10.1109/TSE.2011.103"
+eligibility_criteria = """
+To be included in this review, a study must be reported in a paper published in English as either a Journal paper or Conference proceedings. The criteria for studies to be included in our SLR are based on the inclusion and exclusion criteria presented in Table 2. Before accepting a paper into the review, we excluded repeated studies. If the same study appeared in several publications we included only the most comprehensive or most recent.
 
-  [datasets.publication]
-  doi="10.1109/TSE.2011.103"
+Table 2.
+Inclusion criteria (a paper must be. . . )
+- An empirical study
+- Focused on predicting faults in units of a software system
+- Faults in code is the main output (dependent variable)
 
-  [datasets.data]
-  doi="10.5281/zenodo.1162952"
+Exclusion criteria (a paper must not be. . . )
+- Focused on: testing, fault injection, inspections, reliability modelling, aspects, effort estimation, debugging, faults relating to memory leakage, nano-computing, fault tolerance.
+- About the detection or localisation of existing individual known faults."""
 
-  [datasets.scripts]
-  compose="compose.py Hall_2012"
+[datasets.data]
+doi = "10.5281/zenodo.1162952"
 
-
-[[datasets]]
-  # publication doesn't have DOI or OpenAlex reference
-
- key="Wahono_2015"
- active=false
- note="The publication doesn't have a record in the OpenAlex database."
-
-  [datasets.collection]
-  doi="10.1007/s10664-017-9587-0"
-
- [datasets.publication]
-  url="http://journal.ilmukomputer.org/index.php?journal=jse&page=article&op=view&path%5B%5D=47"
-
- [datasets.data]
- doi="10.5281/zenodo.1162952"
-
+[datasets.scripts]
+compose = "compose.py Hall_2012"
 
 [[datasets]]
+key = "Wahono_2015"
+active = false
+note = "The publication doesn't have a record in the OpenAlex database."
 
-  key="Radjenovic_2013"
+[datasets.collection]
+doi = "10.1007/s10664-017-9587-0"
 
-  [datasets.collection]
-  doi="10.1007/s10664-017-9587-0"
+[datasets.publication]
+url = "http://journal.ilmukomputer.org/index.php?journal=jse&page=article&op=view&path%5B%5D=47"
 
-  [datasets.publication]
-  doi="10.1016/j.infsof.2013.02.009"
-
-  [datasets.data]
-  doi="10.5281/zenodo.1162952"
-
-
-[[datasets]]
-
-  key="Kitchenham_2010"
-  active=false
-  note="(IEEE) URLs in the dataset don't match the original records. Reliability concern."
-
-  [datasets.collection]
-  doi="10.1007/s10664-017-9587-0"
-
-  [datasets.publication]
-  doi="10.1016/j.infsof.2010.03.006"
-
-  [datasets.data]
-  doi="10.5281/zenodo.1162952"
-
+[datasets.data]
+doi = "10.5281/zenodo.1162952"
 
 [[datasets]]
-  # Processes 1 dataset (https://osf.io/tnxju/)
+key = "Radjenovic_2013"
 
-  key="Donners_2021"
+[datasets.collection]
+doi = "10.1007/s10664-017-9587-0"
 
-  [datasets.publication]
-  doi="10.1007/s40262-021-01042-w"
+[datasets.publication]
+doi = "10.1016/j.infsof.2013.02.009"
+eligibility_criteria = """
+The search was not limited by the year of publication. Journal papers and conference proceedings were included. The search was limited to English.
 
-  [datasets.data]
-  url="https://osf.io/tnxju/"
+During the systematic review, we included empirical studies validating and assessing software metrics in the area of software fault prediction. For the selection of primary studies, the following inclusion and exclusion criteria were used.
 
+Inclusion criteria:
+_x0002_- Empirical studies (academic and industry) using large and small scale data sets AND.
+_x0002_- Studies comparing software metrics performance in the area of software fault prediction.
 
-[[datasets]]
+Exclusion criteria:
+- Studies without an empirical validation or including experimental results of software metrics in fault prediction OR.
+ - Studies discussing software metrics in a context other than software fault prediction (e.g. maintainability) OR.
+ - Studies discussing modeling techniques (e.g. Naive Bayes, Random Forest) and not software metrics.
+ - Studies discussing and comparing prediction techniques were excluded from the review, Studies proposing new software metrics and not empirically validating them were also excluded"""
 
-  key="Meijboom_2021"
-
-  [datasets.publication]
-  doi="10.1007/s40259-021-00508-4"
-
-  [datasets.data]
-  url="https://osf.io/4cdku/"
-
-[[datasets]]
-
-  key="van_der_Valk_2021"
-
-  [datasets.publication]
-  doi="10.1111/obr.13376"
-
-  [datasets.data]
-  doi="10.17605/OSF.IO/WDZH5"
-
+[datasets.data]
+doi = "10.5281/zenodo.1162952"
 
 [[datasets]]
+key = "Kitchenham_2010"
+active = false
+note = "(IEEE) URLs in the dataset don't match the original records. Reliability concern."
 
-  key="Smid_2020"
+[datasets.collection]
+doi = "10.1007/s10664-017-9587-0"
 
-  [datasets.publication]
-  doi="10.1080/10705511.2019.1577140"
+[datasets.publication]
+doi = "10.1016/j.infsof.2010.03.006"
 
-  [datasets.data]
-  doi="10.17605/OSF.IO/PUQ7X"
-
-
-[[datasets]]
-
-  key="Brouwer_2019"
-
-  [datasets.publication]
-  doi="10.1016/j.cpr.2019.101773"
-
-  [datasets.data]
-  doi="10.17605/OSF.IO/R45YZ"
-
+[datasets.data]
+doi = "10.5281/zenodo.1162952"
 
 [[datasets]]
+key = "Donners_2021"
 
-  key="Appenzeller-Herzog_2019"
+[datasets.publication]
+doi = "10.1007/s40262-021-01042-w"
+eligibility_criteria = "The following inclusion criteria were applied: emicizumab studies providing (1) data on humans, (2) original PK data or modeled PK data or PK/PD relationships, and (3) access to the abstract and the full text in English."
 
-  [datasets.publication]
-  doi="10.1111/liv.14179"
-
-  [datasets.data]
-  doi="10.5281/zenodo.3625931"
-
-
-[[datasets]]
-
-  # original study https://doi.org/10.1002/ebm2.24
-
-  key="Bannach-Brown_2019"
-  active=false
-  note="Make for machine learning purposes"
-
-  [datasets.publication]
-  doi="10.1186/s13643-019-0942-7"
-
-  [datasets.data]
-  doi="10.5281/zenodo.151190"
-
+[datasets.data]
+url = "https://osf.io/tnxju/"
 
 [[datasets]]
+key = "Meijboom_2021"
 
-  key="Bos_2018"
+[datasets.publication]
+doi = "10.1007/s40259-021-00508-4"
+eligibility_criteria = """
+Only original research articles were included. Congress abstracts, reviews, editorials, and other opinion articles were excluded. 
 
-  [datasets.publication]
-  doi="10.1016/j.jalz.2018.04.007"
+Articles were included if they met the following criteria: (1) study involved transitioning from a TNFα inhibitor (including etanercept, infliximab, and adalimumab) originator to a biosimilar, (2) the number of patients who retransitioned was reported or could be calculated, (3) the article was an original research article published in a peer-reviewed journal, (4) the article included baseline characteristics of the patients who transitioned, (5) the article was written in English, and (6) the full-text version of the article could be obtained"""
 
-  [datasets.data]
-  url="https://osf.io/w3kbq/"
-
-
-[[datasets]]
-
-  key="Cohen_2006_ACEInhibitors"
-  active=false
-  note="Original publication not found"
-
-  [datasets.collection]
-  doi="10.1197/jamia.M1929"
-
-  [datasets.data]
-  url="https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
-
-  [datasets.scripts]
-  compose="compose.py ACEInhibitors"
-
+[datasets.data]
+url = "https://osf.io/4cdku/"
 
 [[datasets]]
+key = "van_der_Valk_2021"
 
-  key="Cohen_2006_CalciumChannelBlockers"
-  active=false
-  note="Original publication not found"
+[datasets.publication]
+doi = "10.1111/obr.13376"
+eligibility_criteria = ""
 
-  [datasets.collection]
-  doi="10.1197/jamia.M1929"
-
-  [datasets.data]
-  url="https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
-
-  [datasets.scripts]
-  compose="compose.py CalciumChannelBlockers"
-
+[datasets.data]
+doi = "10.17605/OSF.IO/WDZH5"
 
 [[datasets]]
+key = "Smid_2020"
 
-  key="Cohen_2006_ProtonPumpInhibitors"
-  active=false
-  note="Original publication not found"
+[datasets.publication]
+doi = "10.1080/10705511.2019.1577140"
+eligibility_criteria = """
+We included papers in which a simulation study was used to investigate and compare the performance of Bayesian estimation to frequentist methods in structural equation models with a small sample size. We only included peer-reviewed papers in the field of social sciences. Non-English references were excluded, as well as books, book chapters, conference talks and software manuals. We used the following definitions of the inclusion criteria:
 
-  [datasets.collection]
-  doi="10.1197/jamia.M1929"
+- Simulation study. Multiple replicated datasets were analyzed, and results were summarized for all simulated data sets.
+- Bayesian estimation was compared to frequentist estimation methods. The performance of Bayesian and frequentist estimation was investigated for the exact same model, so that the results can be compared across the two estimation methods.
+- Structural equation models. Models of interest fall under the umbrella of structural equation models including mediation, CFA, latent growth, multilevel, and mixture models. Network analysis, machine learning,
+meta-analysis and item response theory were excluded.
+- Small sample size. The original authors stated that at least one of the sample sizes in the simulation study represent a small sample size for their specific model. Small sample conditions must have been reported explicitly; aggregated results including small sample conditions were excluded."""
 
-  [datasets.data]
-  url="https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
-
-  [datasets.scripts]
-  compose="compose.py ProtonPumpInhibitors"
-
-
-[[datasets]]
-
-  key="Cohen_2006_ADHD"
-  active=false
-  note="Original publication not found"
-
-  [datasets.collection]
-  doi="10.1197/jamia.M1929"
-
-  [datasets.data]
-  url="https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
-
-  [datasets.scripts]
-  compose="compose.py ADHD"
-
+[datasets.data]
+doi = "10.17605/OSF.IO/PUQ7X"
 
 [[datasets]]
+key = "Brouwer_2019"
 
-  # Part of Cohen et al. 2006 https://doi.org/10.1197/jamia.M1929
+[datasets.publication]
+doi = "10.1016/j.cpr.2019.101773"
+eligibility_criteria = "Criteria for studies to be included in the review were: (1) Presence of a diagnostic status of MDD (MDD absence and/or presence) for all participants, as determined through a clinical interview (e.g., SCID, KSADS from DSM, CIDI from ICD) or by a clinician at the start of the study; (2) At some point during the study, participants needed to be in (partial) remission or recovery as determined by a clinical interview or clinician assessment; and (3) relapse or recurrence was diagnosed through a clinical interview or by a clinician. (4) The study design was longitudinal and prospective; (5) The theory-derived predictor (i.e., the proposed factors) was assessed before the relapse or recurrence of MDD; (6) The predictor was derived from one of the leading psychological theories; (7) Sufficient information was reported to calculate effect sizes (or was made available upon request). Exclusion criteria were the presence of bipolar disorder, dysthymia, seasonal affective disorder, postpartum depression, late-life MDD, or MDD due to medical disorders. Studies that solely included people with a first onset MDD when they were older than 65 years, were excluded due to potential etiological differences between late-life onset MDD and MDD at younger ages (Devanand et al., 2004; Herrmann, Goodwin, & Ebmeier, 2007; Korten, Comijs, Lamers, & Penninx, 2012). Language was restricted to English. When multiple publications from the same study cohort were available, with exactly the same factors, we included the publication with the longest follow-up time, or the largest number of participants in case of equal follow-up time."
 
-  key="Nelson_2002"
-
-  [datasets.publication]
-  doi="10.1001/jama.288.7.872"
-
-  [datasets.collection]
-  doi="10.1197/jamia.M1929"
-
-  [datasets.data]
-  url="https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
-
-  [datasets.scripts]
-  compose="compose.py Estrogens --name Nelson_2002"
-
+[datasets.data]
+doi = "10.17605/OSF.IO/R45YZ"
 
 [[datasets]]
+key = "Appenzeller-Herzog_2019"
 
-  # Part of Cohen et al. 2006 https://doi.org/10.1197/jamia.M1929
+[datasets.publication]
+doi = "10.1111/liv.14179"
+eligibility_criteria = "We included WD patients of any age or stage. The study drug had to be one of four established therapies, namely DPen, trientine, TTM or Zn. The control could be placebo, no treatment or any other treatment that does not include the respective study drug (eg Zn vs trientine was allowed, Zn 50 mg vs Zn 100 mg was not allowed). Concomitant therapies had to be identical in the compared treatment arms (eg trientine plus Zn vs TTM plus Zn). Comparisons between monotherapy and combination therapy regimens that included the respective monotherapy drug (eg DPen plus Zn vs Zn) have been analysed elsewhere and were not considered any further here. We included studies that reported all‐cause mortality, orthotopic liver transplantation (OLT), neurological symptoms (eg dystonia, dysarthria, cognitive decline, drooling, tremor, gait disturbance, chorea, seizure, psychosis), liver‐related symptoms (eg icterus, ascites, steatosis, fibrosis, mild hepatitis, acute liver failure, cirrhosis, serum transaminases), adverse effects (eg dermatological manifestations, nephrotoxicity, pulmonary toxicity, autoimmune disorders, anaemia, neutrophilic agranulocytosis, thrombocytopenia, hypothyroidism, liver dysfunction, colitis, status dystonicus, myasthenia gravis, arthropathy, macromastia, early neurological deterioration, gastrointestinal irritation), and frequency of treatment discontinuation (ie switching to another drug, stopping or changing the treatment). We included prospective and retrospective studies, including randomized, non‐randomized controlled trials and comparative observational studies that were written in English, German, Dutch, French, Spanish or Portuguese. Animal studies, case reports, case series, cross‐sectional studies, before‐after studies, reviews, letters, abstract‐only publications, editorials, diagnostic or other testing studies and non‐controlled studies were excluded. No publication date restrictions were applied."
 
-  key="Chou_2004"
-
-  [datasets.publication]
-  doi="10.1016/j.jpainsymman.2004.05.002"
-
-  [datasets.collection]
-  doi="10.1197/jamia.M1929"
-
-  [datasets.data]
-  url="https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
-
-  [datasets.scripts]
-  compose="compose.py SkeletalMuscleRelaxants --name Chou_2004"
-
+[datasets.data]
+doi = "10.5281/zenodo.3625931"
 
 [[datasets]]
+key = "Bannach-Brown_2019"
+active = false
+note = "Make for machine learning purposes"
 
-  key="Cohen_2006_Antihistamines"
-  active=false
-  note="Original publication not found"
+[datasets.publication]
+doi = "10.1186/s13643-019-0942-7"
 
-  [datasets.collection]
-  doi="10.1197/jamia.M1929"
-
-  [datasets.data]
-  url="https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
-
-  [datasets.scripts]
-  compose="compose.py Antihistamines"
-
+[datasets.data]
+doi = "10.5281/zenodo.151190"
 
 [[datasets]]
+key = "Bos_2018"
 
-  key="Cohen_2006_NSAIDS"
-  active=false
-  note="Original publication not found"
+[datasets.publication]
+doi = "10.1016/j.jalz.2018.04.007"
+eligibility_criteria = "For the current review, we used the following inclusion criteria: (1) all studies had to be prospective population-based cohort studies. Inherent to the nature of population-based studies this meant that except for a selection criterion of age, no other selection criteria were applied; (2) cerebral imaging had to be performed (either magnetic resonance imaging [MRI] or computed tomography) for the visualization of white matter hyperintensities, covert brain infarcts, or microbleeds; (3) all studies had to have investigated the association of any of the three pathologies with the risk of incident all-dementia or AD. We specifically note that we chose all-dementia as primary outcome measure, given that the syndrome diagnosis of dementia can be defined with high consistency across studies and is less dependent on advanced diagnostic testing, which is often not feasible in large population-based studies. Still, we acknowledge the importance of various neuropathologies underlying the clinical manifestation of dementia. To provide additional insight into the association of cerebral small vessel disease with dementia independent of manifest cerebrovascular disease, we also highlighted the associations with a diagnosis of AD (if available in the study) as a secondary outcome measure. We restricted our inclusion to original articles that were written in English and excluded review articles, case reports, conference papers, and editorials."
 
-  [datasets.collection]
-  doi="10.1197/jamia.M1929"
-
-  [datasets.data]
-  url="https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
-
-  [datasets.scripts]
-  compose="compose.py NSAIDS"
-
+[datasets.data]
+url = "https://osf.io/w3kbq/"
 
 [[datasets]]
+key = "Cohen_2006_ACEInhibitors"
+active = false
+note = "Original publication not found"
 
-  key="Cohen_2006_Statins"
-  active=false
-  note="Original publication not found"
+[datasets.collection]
+doi = "10.1197/jamia.M1929"
 
-  [datasets.collection]
-  doi="10.1197/jamia.M1929"
+[datasets.data]
+url = "https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
 
-  [datasets.data]
-  url="https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
-
-  [datasets.scripts]
-  compose="compose.py Statins"
-
+[datasets.scripts]
+compose = "compose.py ACEInhibitors"
 
 [[datasets]]
+key = "Cohen_2006_CalciumChannelBlockers"
+active = false
+note = "Original publication not found"
 
-  key="Cohen_2006_AtypicalAntipsychotics"
-  active=false
-  note="Original publication not found"
+[datasets.collection]
+doi = "10.1197/jamia.M1929"
 
-  [datasets.collection]
-  doi="10.1197/jamia.M1929"
+[datasets.data]
+url = "https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
 
-  [datasets.data]
-  url="https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
-
-  [datasets.scripts]
-  compose="compose.py AtypicalAntipsychotics"
-
+[datasets.scripts]
+compose = "compose.py CalciumChannelBlockers"
 
 [[datasets]]
+key = "Cohen_2006_ProtonPumpInhibitors"
+active = false
+note = "Original publication not found"
 
-  # Part of Cohen et al. 2006 https://doi.org/10.1197/jamia.M1929
+[datasets.collection]
+doi = "10.1197/jamia.M1929"
 
-  key="Chou_2003"
+[datasets.data]
+url = "https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
 
-  [datasets.publication]
-  doi="10.1016/j.jpainsymman.2003.03.003"
-
-  [datasets.collection]
-  doi="10.1197/jamia.M1929"
-
-  [datasets.data]
-  url="https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
-
-  [datasets.scripts]
-  compose="compose.py Opioids --name Chou_2003"
-
+[datasets.scripts]
+compose = "compose.py ProtonPumpInhibitors"
 
 [[datasets]]
+key = "Cohen_2006_ADHD"
+active = false
+note = "Original publication not found"
 
-  key="Cohen_2006_Triptans"
-  active=false
-  note="Original publication not found"
+[datasets.collection]
+doi = "10.1197/jamia.M1929"
 
-  [datasets.collection]
-  doi="10.1197/jamia.M1929"
+[datasets.data]
+url = "https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
 
-  [datasets.data]
-  url="https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
-
-  [datasets.scripts]
-  compose="compose.py Triptans"
-
+[datasets.scripts]
+compose = "compose.py ADHD"
 
 [[datasets]]
+key = "Nelson_2002"
 
-  key="Cohen_2006_BetaBlockers"
-  active=false
-  note="Original publication not found"
+[datasets.publication]
+doi = "10.1001/jama.288.7.872"
+eligibility_criteria = """
+We used only published data in meta-analyses.
 
-  [datasets.collection]
-  doi="10.1197/jamia.M1929"
+Inclusion and exclusion criteria were developed by the investigators for each topic. In general, studies were included if they contained a comparison group of HRT nonusers and reported data relating to HRT use and clinical outcomes of interest. Studies were excluded if the population was selected according to prior events or presence of conditions associated with higher risks for targeted outcomes.
 
-  [datasets.data]
-  url="https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
+All relevant English-language studies were identified"""
 
-  [datasets.scripts]
-  compose="compose.py BetaBlockers"
+[datasets.collection]
+doi = "10.1197/jamia.M1929"
 
+[datasets.data]
+url = "https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
 
-[[datasets]]
-
-  key="Cohen_2006_OralHypoglycemics"
-  active=false
-  note="Original publication not found"
-
-  [datasets.collection]
-  doi="10.1197/jamia.M1929"
-
-  [datasets.data]
-  url="https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
-
-  [datasets.scripts]
-  compose="compose.py OralHypoglycemics"
-
+[datasets.scripts]
+compose = "compose.py Estrogens --name Nelson_2002"
 
 [[datasets]]
+key = "Chou_2004"
 
-  key="Cohen_2006_UrinaryIncontinence"
-  active=false
-  note="Original publication not found"
+[datasets.publication]
+doi = "10.1016/j.jpainsymman.2004.05.002"
+eligibility_criteria = """
+All English-language titles and abstracts and suggested additional citations that met the following eligibility criteria were included:
 
-  [datasets.collection]
-  doi="10.1197/jamia.M1929"
+Population. The population included in this review is adult or pediatric patients with spasticity or a musculoskeletal condition. We defined spasticity as muscle spasms associated with an upper motor neuron syndrome. Musculoskeletal conditions were defined as peripheral conditions resulting in muscle or soft tissue pain or spasms. We excluded obstetric and dialysis patients, and patients with restless legs syndrome or nocturnal myoclonus. Senate Bill specifically excludes patients with HIV and patients with cancer.
 
-  [datasets.data]
-  url="https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
+Drugs. We included the following oral drugs classified as skeletal muscle relaxants: baclofen, carisoprodol, chlorzoxazone, cyclobenzaprine, dantrolene, metaxalone, methocarbamol, orphenadrine, and tizanidine. Other medications used for spasticity but considered to be in another drug class, such as benzodiazepines, quinine, tricyclic antidepressants, gabapentin, and clonidine, were not considered primary drugs in this report, but were reviewed when they were directly compared to an included skeletal muscle relaxant. We excluded trials in which an included skeletal muscle relaxant was combined with an analgesic medication unless the comparison arm included the same analgesic medication and dose, trials which evaluated skeletal muscle relaxants not approved in the United States, and trials which only compared one dose of an included skeletal muscle relaxant with another dose.
 
-  [datasets.scripts]
-  compose="compose.py UrinaryIncontinence"
+Outcomes. The main efficacy measures were relief of muscle spasms or pain, functional status, quality of life, withdrawal rates, and adverse effects (including sedation, weakness, addiction, and abuse). We excluded non-clinical outcomes such as electromyogram measurements or spring tension measurements.
 
+Study Types. We included the following study types: Systematic reviews of the clinical efficacy or adverse event rates of skeletal muscle relaxants for spasticity or musculoskeletal conditions, OR Randomized controlled trials that compared one of the included skeletal muscle relaxants listed to another included skeletal muscle relaxant, an antispasticity medication from a different drug class, or placebo in adult patients with spasticity or musculoskeletal conditions, OR Randomized controlled trials and large, high quality observational studies that reported adverse event rates for an included skeletal muscle relaxant. We did not systematically review case reports and case series in which the proportion of patients suffering an adverse event could not be calculated. We excluded “single-dose” studies, abstracts and unpublished trials unless a pharmaceutical company submitted the full data."""
 
-[[datasets]]
+[datasets.collection]
+doi = "10.1197/jamia.M1929"
 
-  key="Nagtegaal_2019"
-  active=false
-  note="Dataset technically corrupted."
+[datasets.data]
+url = "https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
 
-  [datasets.publication]
-  doi="10.30636/jbpa.22.71"
-
-  [datasets.data]
-  doi="10.7910/DVN/WMGPGZ/HY6N2S"
-
+[datasets.scripts]
+compose = "compose.py SkeletalMuscleRelaxants --name Chou_2004"
 
 [[datasets]]
+key = "Cohen_2006_Antihistamines"
+active = false
+note = "Original publication not found"
 
-  # Note, this dataset is also used for another systematic review:
-  # https://doi.org/10.1080/10705511.2016.1247646
+[datasets.collection]
+doi = "10.1197/jamia.M1929"
 
-  key="van_de_Schoot_2018"
+[datasets.data]
+url = "https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
 
-  [datasets.publication]
-  doi="10.1080/00273171.2017.1412293"
-
-  [datasets.data]
-  doi="10.17605/OSF.IO/VW3T7"
-
-
-[[datasets]]
-
-  key="van_Dis_2020"
-
-  [datasets.publication]
-  doi="10.1001/jamapsychiatry.2019.3986"
-
-  [datasets.data]
-  url="https://osf.io/4d9tu/"
-
+[datasets.scripts]
+compose = "compose.py Antihistamines"
 
 [[datasets]]
+key = "Cohen_2006_NSAIDS"
+active = false
+note = "Original publication not found"
 
-  key="Wolters_2018"
+[datasets.collection]
+doi = "10.1197/jamia.M1929"
 
-  [datasets.publication]
-  doi="10.1016/j.jalz.2018.01.007"
+[datasets.data]
+url = "https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
 
-  [datasets.data]
-  url="https://osf.io/sxzjg/"
-
-
-[[datasets]]
-
-  key="Leenaars_2019"
-
-  [datasets.publication]
-  doi="10.5334/jcr.183"
-
-  [datasets.data]
-  doi="10.17605/OSF.IO/PH56S"
-
+[datasets.scripts]
+compose = "compose.py NSAIDS"
 
 [[datasets]]
+key = "Cohen_2006_Statins"
+active = false
+note = "Original publication not found"
 
-  key="Welling_2021"
-  active=false
-  note="Systematic review only for introduction."
+[datasets.collection]
+doi = "10.1197/jamia.M1929"
 
-  [datasets.publication]
-  doi="10.1159/000520718"
+[datasets.data]
+url = "https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
 
-  [datasets.data]
-  doi="10.17605/OSF.IO/E5JNB"
-
-
-[[datasets]]
-
-  key="Menon_2022"
-
-  [datasets.publication]
-  doi="10.1080/10408444.2022.2082917"
-
-  [datasets.data]
-  url="https://osf.io/9jzsu"
-
+[datasets.scripts]
+compose = "compose.py Statins"
 
 [[datasets]]
+key = "Cohen_2006_AtypicalAntipsychotics"
+active = false
+note = "Original publication not found"
 
-  key="van_der_Waal_2022"
+[datasets.collection]
+doi = "10.1197/jamia.M1929"
 
-  [datasets.publication]
-  doi="10.1016/j.jgo.2022.09.012"
+[datasets.data]
+url = "https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
 
-  [datasets.data]
-  doi="10.5281/zenodo.7308296"
-
-
-[[datasets]]
-
-  key="Muthu_2021"
-
-  [datasets.publication]
-  doi="10.1097/BRS.0000000000003645"
-
-  [datasets.data]
-  url="https://osf.io/68ezp"
-
+[datasets.scripts]
+compose = "compose.py AtypicalAntipsychotics"
 
 [[datasets]]
+key = "Chou_2003"
 
-  key="Muthu_2022"
-  active=false
-  note="Review scores"
+[datasets.publication]
+doi = "10.1016/j.jpainsymman.2003.03.003"
+eligibility_criteria = """
+All English-language titles and abstracts and suggested additional citations were reviewed for inclusion using criteria developed by the research team with input from the subcommittee. We obtained full-text articles if the title and abstract review met the following eligibility criteria:
 
-  [datasets.publication]
-  doi="http://doi.org/10.13105/wjma.v10.i3.162"
+1. Systematic reviews of the clinical efficacy or adverse event rates of long-acting opioids in patients with chronic non-cancer pain, OR 
 
-  [datasets.data]
-  url="https://osf.io/e2yz3/"
+2. Randomized controlled trials that compared one of the long-acting opioids listed above to another long-acting opioid, a short-acting opioid, a non-opioid, or placebo in adult patients with chronic non-cancer pain, OR
 
+3. Randomized controlled trials and observational studies that reported adverse event rates for one of the long-acting opioids listed above."""
 
-[[datasets]]
+[datasets.collection]
+doi = "10.1197/jamia.M1929"
 
-  key="Jeyaraman_2020"
+[datasets.data]
+url = "https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
 
-  [datasets.publication]
-  doi="10.1177/1947603520951623"
-
-  [datasets.data]
-  url="https://osf.io/8drsc/"
-
-
-[[datasets]]
-
-  key="Moran_2021"
-
-  [datasets.publication]
-  doi="10.1111/brv.12655"
-
-  [datasets.data]
-  doi="10.17605/OSF.IO/3TPHJ"
-
+[datasets.scripts]
+compose = "compose.py Opioids --name Chou_2003"
 
 [[datasets]]
+key = "Cohen_2006_Triptans"
+active = false
+note = "Original publication not found"
 
-  key="Kwok_2020"
-  active=false
-  note="License issue"
+[datasets.collection]
+doi = "10.1197/jamia.M1929"
 
-  [datasets.publication]
-  doi="10.3390/v12010107"
+[datasets.data]
+url = "https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
 
-  [datasets.data]
-  doi="10.17605/OSF.IO/5S27M"
-
-
-[[datasets]]
-
-  key="Oud_2018"
-
-  [datasets.publication]
-  doi="10.1177/0004867418791257"
-
-  [datasets.data]
-  url="https://osf.io/pjr97"
-
+[datasets.scripts]
+compose = "compose.py Triptans"
 
 [[datasets]]
+key = "Cohen_2006_BetaBlockers"
+active = false
+note = "Original publication not found"
 
-  key="Wassenaar_2017"
+[datasets.collection]
+doi = "10.1197/jamia.M1929"
 
-  [datasets.publication]
-  doi="10.1289/ehp1233"
+[datasets.data]
+url = "https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
 
-  [datasets.data]
-  doi="10.1186/s13643-016-0263-z"
-
-
-[[datasets]]
-
-  key="Rooney_2015"
-  active=false
-  note="Book chapter, not peer reviewed."
-
-  [datasets.collection]
-  doi="10.1186/s13643-016-0263-z"
-
-  [datasets.publication]
-  doi="10.1007/978-3-319-15518-0_16"
-
-  [datasets.data]
-  doi="10.1186/s13643-016-0263-z"
-
+[datasets.scripts]
+compose = "compose.py BetaBlockers"
 
 [[datasets]]
+key = "Cohen_2006_OralHypoglycemics"
+active = false
+note = "Original publication not found"
 
-  key="Walker_2018"
+[datasets.collection]
+doi = "10.1197/jamia.M1929"
 
-  [datasets.collection]
-  doi="10.1186/s13643-016-0263-z"
+[datasets.data]
+url = "https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
 
-  [datasets.publication]
-  doi="10.1016/j.envint.2017.12.032"
-
-  [datasets.data]
-  doi="10.1186/s13643-016-0263-z"
-
-
-[[datasets]]
-
-  key="Leenaars_2020"
-
-  [datasets.publication]
-  doi="10.3390/ani10061047"
-
-  [datasets.data]
-  doi="10.17605/OSF.IO/T7GYR"
-
+[datasets.scripts]
+compose = "compose.py OralHypoglycemics"
 
 [[datasets]]
+key = "Cohen_2006_UrinaryIncontinence"
+active = false
+note = "Original publication not found"
 
-  key="Sep_2021"
+[datasets.collection]
+doi = "10.1197/jamia.M1929"
 
-  [datasets.publication]
-  doi="10.1371/journal.pone.0249102"
+[datasets.data]
+url = "https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
 
-  [datasets.data]
-  doi="10.17605/OSF.IO/GY2MC"
+[datasets.scripts]
+compose = "compose.py UrinaryIncontinence"
+
+[[datasets]]
+key = "Nagtegaal_2019"
+active = false
+note = "Dataset technically corrupted."
+
+[datasets.publication]
+doi = "10.30636/jbpa.22.71"
+
+[datasets.data]
+doi = "10.7910/DVN/WMGPGZ/HY6N2S"
+
+[[datasets]]
+key = "van_de_Schoot_2018"
+
+[datasets.publication]
+doi = "10.1080/00273171.2017.1412293"
+eligibility_criteria = ""
+
+[datasets.data]
+doi = "10.17605/OSF.IO/VW3T7"
+
+[[datasets]]
+key = "van_Dis_2020"
+
+[datasets.publication]
+doi = "10.1001/jamapsychiatry.2019.3986"
+eligibility_criteria = """
+Randomized clinical trials were included that examined effects of CBT(ie, any therapy with cognitive restructuring and/or a behavioral therapy, such as exposure, as core component), including third generation CBTs (ie, acceptance and commitment therapy and metacognitive therapy), at least 1 month after treatment completion, in an individual, group, or internet treatment format. Comparison groups included care as usual (ie, anything patients would normally receive as long as it was not a structured type of psychotherapy, such as primary care at medical centers or case management with educational groups), relaxation, psychoeducation, pill placebo, supportive therapy, or waiting list. Studies were included if they tested adult patients (or samples consisting mostly of adults but also some adolescents aged ≥16 years) who received a diagnosis of GAD, PD, SAD, specific phobia, PTSD, or OCD based on results of a structured diagnostic interview. Studies were excluded if they did not use CBT (eg, applied relaxation, eye movement desensitization and reprocessing, or interpersonal therapy) or did not report symptoms separately for each disorder. To reduce clinical heterogeneity, studies were also excluded if they had done any of the following: (1) used self-guided therapy without any guidance, (2) used CBT combined with medication or pill placebo, or (3) tested inpatients.
+
+English language articles only"""
+
+[datasets.data]
+url = "https://osf.io/4d9tu/"
+
+[[datasets]]
+key = "Wolters_2018"
+
+[datasets.publication]
+doi = "10.1016/j.jalz.2018.01.007"
+eligibility_criteria = """
+the following inclusion criteria: (1) cohort studies or longitudinal studies conducted with routinely collected health care data (e.g., national medical registries or insurance databases); (2) determinant CHD (i.e., myocardial infarction with or without angina or coronary revascularization) or CHF; and (3) report of incident dementia diagnosis as the outcome (i.e., at least all-cause dementia or AD as its most common subtype). We chose all-cause dementia as the main outcome measure of interest for this meta-analysis because a syndrome diagnosis of dementia can be defined with high consistency across studies and is less dependent on advanced diagnostic testing that is often not feasible in large (population-based) studies. 
+
+To provide more insight into the association of CHDandCHFwithdementiaindependentofmanifestcerebrovascular disease, we therefore adopted a clinical diagnosis of AD (per study protocol) as a secondary outcome measure. If multiple results were reported for the same cohort, we preferred the longer follow-up duration [10, 11], longer follow-up along with more comprehensive assessment of exposure [12, 13], larger number of incident dementia cases [14–17], most contemporary data [13], or the study in which selection bias was considered least likely [18]. I"""
+
+[datasets.data]
+url = "https://osf.io/sxzjg/"
+
+[[datasets]]
+key = "Leenaars_2019"
+
+[datasets.publication]
+doi = "10.5334/jcr.183"
+eligibility_criteria = """
+For our mapping review, we excluded (1) studies on other techniques than microdialysis (e.g. biosensors and microdialysis precursors such as push-pull perfusion), (2) studies measuring other substances than Hist and the amino acids Asn, Asp, GABA, Glu, Gln, Gly, Pro and Tau, (3) retro-dialysis studies, (4)- microdialysis studies that did not report baseline values without the specified molecules in the perfusion fluid,  (5) extra-cerebral microdialysis studies, (6) human and in vitro studies, and (7) papers not containing primary study data. Within publications, experiments using techniques other than microdialysis were also ignored (e.g. in [22]), as well as data on amino acids other than those we searched for (e.g. in [23]). Tagged studies were subsequently screened for inclusion in this review based on the following criterion (besides being included in our mapping): studies measuring one or more of the molecules of interest during (1) naturally occurring sleep stages that were validated with polysomnographic measurements and/or (2) during sleep deprivation. 
+To ensure capturing all relevant studies, we searched for studies with the terms “*sleep*”, “*REM*”, “*rest*”, “*fatig*”, and “*somn*” in the title within the studies included in our mapping review."""
+
+[datasets.data]
+doi = "10.17605/OSF.IO/PH56S"
+
+[[datasets]]
+key = "Welling_2021"
+active = false
+note = "Systematic review only for introduction."
+
+[datasets.publication]
+doi = "10.1159/000520718"
+
+[datasets.data]
+doi = "10.17605/OSF.IO/E5JNB"
+
+[[datasets]]
+key = "Menon_2022"
+
+[datasets.publication]
+doi = "10.1080/10408444.2022.2082917"
+eligibility_criteria = """
+To be eligible for inclusion in the SR sample, documents had to fulfil the following criteria:
+
+1. identify explicitly as a “systematic review” in their title;
+2. assess the effect of a non-acute, non-communicable, environmental exposure on a health outcome;
+3. include studies in people or mammalian models;
+4. be available in HTML format;
+5. be published between 1 January 2019 and 30 June 2020.
+
+We excluded umbrella reviews and review protocols, SRs of the wrong population (e.g. plants), and SRs of the following exposures: pathogens; poisons; smoking and tobacco related products, except for exposure to second-hand smoke (to prevent our sample being dominated by studies of direct tobacco exposure); social, psychological, or behavioural risk factors; housing conditions; SRs of exposure only (e.g. biomonitoring); and protocols for SRs. We did include diet and addiction as exposures, as these are considered by some researchers as being environmental exposures. SRs had to be available in HTML format to allow copy-pasting of manuscripts into a uniform format stripped of visual cues, and allow easy removal of identifying information, as per our blinding strategy."""
+
+[datasets.data]
+url = "https://osf.io/9jzsu"
+
+[[datasets]]
+key = "van_der_Waal_2022"
+
+[datasets.publication]
+doi = "10.1016/j.jgo.2022.09.012"
+eligibility_criteria = """
+Language was limited to English and date range was set from January 2008 until June 2021.
+
+Studies included in this review were performed among adults (defined as eighteen years and older) with cancer treated in research centres that are part of a western healthcare system (including: European Union, United Kingdom, United States of America, Canada, Japan, Australia, and New Zealand). Japan was included, as previous studies have shown that the Japanese healthcare system is comparable to the western health care system [9,10]. We excluded conference abstracts, non-original research, studies on paediatric population (defined as younger than eighteen years old), as well as studies addressing specific ethnographic subgroups within western healthcare systems. For meta analysis purposes, studies were filtered on reporting data from the Control Preference Scale (CPS), which is a questionnaire to assess the patients’ preference for their role in treatment decision making (Table 1)"""
+
+[datasets.data]
+doi = "10.5281/zenodo.7308296"
+
+[[datasets]]
+key = "Muthu_2021"
+
+[datasets.publication]
+doi = "10.1097/BRS.0000000000003645"
+eligibility_criteria = """
+Inclusion Criteria 
+
+To be included in our study, a study should meet the following criteria:
+1. The study should be an RCT with 1:1 parallel twoarm design.
+2. The study must be related to spine surgery involving preoperative or intraoperative or postoperative variables.
+3. The study must have a dichotomous primary or secondary outcome.
+
+Exclusion Criteria
+1. Studies not involving human subjects.
+2. Studies with continuous variable outcomes like pain scores, Oswestry Disability Index scores, time to union without predefined clinical success criteria.
+3. Studies that did not report a statistically significant primary or secondary outcome measure."""
+
+[datasets.data]
+url = "https://osf.io/68ezp"
+
+[[datasets]]
+key = "Muthu_2022"
+active = false
+note = "Review scores"
+
+[datasets.publication]
+doi = "http://doi.org/10.13105/wjma.v10.i3.162"
+
+[datasets.data]
+url = "https://osf.io/e2yz3/"
+
+[[datasets]]
+key = "Jeyaraman_2020"
+
+[datasets.publication]
+doi = "10.1177/1947603520951623"
+eligibility_criteria = """
+Inclusion Criteria
+Studies were included for quantitative review if they met the following criteria:
+Population: Patients with knee osteoarthritis
+Intervention: MSC therapy
+Comparator: Usual care
+Outcomes: Visual Analog Score (VAS) for Pain, Western Ontario McMaster Universities Osteoarthritis Index (WOMAC), Lysholm Knee Scale (Lysholm), Whole-Organ Magnetic Resonance Imaging Score (WORMS), Knee Osteoarthritis Outcome Score (KOOS), and adverse events Study Design: Randomized controlled trials
+
+Exclusion Criteria
+Trials were excluded if they had the following characteristics:
+1. Observational studies and interventional studies without a comparator group
+2. Animal studies involving stem cell therapy for knee osteoarthritis models
+3. Review articles and in-vitro studies involving stem cell therapy"""
+
+[datasets.data]
+url = "https://osf.io/8drsc/"
+
+[[datasets]]
+key = "Moran_2021"
+
+[datasets.publication]
+doi = "10.1111/brv.12655"
+eligibility_criteria = "We screened records to find original experimental studies that manipulated the condition of animals in independent treatment groups through their diet, via both dietary quantity (i.e. partial restriction, complete deprivation or enrichment) or quality treatments (e.g. protein restriction or enrichment), and including both short-term and longer-term manipulations up to extended periods of weeks to months. We screened for studies that then subjected those animals to behavioural observations in contexts relating to risk (e.g. novel environments, novel object, risk-sensitive foraging, predator response) in independent trials (for inclusion and exclusion decision trees see Appendix S1). we excluded studies using species with compromised genetic diversity and/or evolved adaptive responses (e.g. domesticated animals, laboratory breeds, genetically modified organisms; as per Kelly et al., 2018) as well as studies on humans. Studies manipulating the micronutrient content of diets, or subjecting animals to high-fat diets were also excluded as the relationship between these diet manipulations and body condition is not clear and was considered beyond the scope of this review. Dietary treatments were excluded as ‘non-independent’: (i) where the behaviour was measured in the presence of high and low food availability, or dietary treatments such as periods of deprivation were applied within the novel environment (i.e. non-independence of treatments from the behavioural assay); (ii) where the dietary treatments were coupled with additional non-dietary factors (e.g. temperature; i.e. non-independence of the diet factor within treatments); or, (iii) the dietary treatments were applied longitudinally (within individuals) rather than crosssectionally (i.e. non-independence between high and low treatments)."
+
+[datasets.data]
+doi = "10.17605/OSF.IO/3TPHJ"
+
+[[datasets]]
+key = "Kwok_2020"
+active = false
+note = "License issue"
+
+[datasets.publication]
+doi = "10.3390/v12010107"
+
+[datasets.data]
+doi = "10.17605/OSF.IO/5S27M"
+
+[[datasets]]
+key = "Oud_2018"
+
+[datasets.publication]
+doi = "10.1177/0004867418791257"
+eligibility_criteria = "We included RCTs on four specialized psychotherapies (DBT, MBT, TFP and ST) for adults (18 years and older) with BPD, which included an individual psychotherapy component and had a duration of 16 weeks or more. Eligible comparison groups were other protocolized and specialized psychotherapies, or control groups, for example, treatment as usual (TAU), waiting list, attention control or community treatment by experts (CTBE). Studies were excluded with an arbitrary cut-off of <66% of the participants having BPD, unless disaggregated data were provided. Also, studies were excluded that tested incomplete versions of specialized treatment, for example, studies that investigated only skills training instead of the full DBT program."
+
+[datasets.data]
+url = "https://osf.io/pjr97"
+
+[[datasets]]
+key = "Wassenaar_2017"
+
+[datasets.publication]
+doi = "10.1289/ehp1233"
+eligibility_criteria = "Studies were included in this systematic review when they met all of the following criteria: a) original full paper that presented unique data; b) exposure to BPA; c) obesity-related article or at least one of the outcome measures was examined (body weight, fat pad weights, triglyceride levels, FFA levels, or leptin levels); d) experimental rodent study; e) perinatal exposure via maternal or direct pup exposure [during gestation and/or lactation up to postnatal day (PND) 21]. Studies were excluded if they met one of the following criteria: a) not an original paper; b) exposure to a chemical other than BPA; c) no disease or outcome of interest (no obesity-related outcome); d) not a rodent study; e) not perinatal exposure (paternal exposure, exposure after PND21, and measurements in unborn fetuses were excluded); f) outcomes not measured in F1 generation; g) unhealthy or genetically altered rodents (data measured after ovariectomy were considered unhealthy and were not extracted); h) outcomes were measured after diet was altered to high-fat diet during follow-up. In addition, selection was restricted to English-language articles."
+
+[datasets.data]
+doi = "10.1186/s13643-016-0263-z"
+
+[[datasets]]
+key = "Rooney_2015"
+active = false
+note = "Book chapter, not peer reviewed."
+
+[datasets.collection]
+doi = "10.1186/s13643-016-0263-z"
+
+[datasets.publication]
+doi = "10.1007/978-3-319-15518-0_16"
+
+[datasets.data]
+doi = "10.1186/s13643-016-0263-z"
+
+[[datasets]]
+key = "Walker_2018"
+
+[datasets.collection]
+doi = "10.1186/s13643-016-0263-z"
+
+[datasets.publication]
+doi = "10.1016/j.envint.2017.12.032"
+eligibility_criteria = """
+In order to be eligible for inclusion, studies had to satisfy eligibility criteria specified by the PECO statement (Table 1). 
+
+Population: Human or animal (whole organism) without restriction based on age, sex, or life stage at exposure or outcome assessment
+
+Exposure: Any exposure/stressors at any life stage as long as the study design (i.e., outcome measurement stage) was transgenerational in nature (Fig. 1)
+Comparators Humans: a comparison population exposed to lower levels (or no exposure/exposure below detection levels) of the stressor than the more highly exposed subjects
+
+Animals: comparable animal populations exposed to vehicle-only treatment in experimental studies or a comparison animal population exposed to lower levels (or no exposure/exposure below detection levels) of the stressor than more highly exposed animals in wildlife/farm animals. Note: the comparison groups are defined at the time of exposure and therefore apply to the F0 generation (which in a gestational exposure would include exposure of the offspring (F1) and its gametes (F2); see Fig. 1)
+
+Outcomes: Inherited diseases were excluded. No other restrictions on health outcome or effect measures
+
+The following additional criteria were also used for exclusion:
+• articles without original data (i.e., reviews, editorials, commentaries)
+• studies of non-animal organisms (e.g., plants, fungi)
+• in vitro exposure studies
+• non-English publications"""
+
+[datasets.data]
+doi = "10.1186/s13643-016-0263-z"
+
+[[datasets]]
+key = "Leenaars_2020"
+
+[datasets.publication]
+doi = "10.3390/ani10061047"
+eligibility_criteria = "We included all studies in which MTX was administered to RA patients or RA animal models in our ongoing review. We excluded studies on other diseases than RA, studies that were not in vivo, studies that did not administer MTX (or only had treatment groups co-administering MTX with other experimental drugs), studies that did not analyse efficacy (e.g., safety studies), and publications that did not contain new data (e.g., reviews and editorials)."
+
+[datasets.data]
+doi = "10.17605/OSF.IO/T7GYR"
+
+[[datasets]]
+key = "Sep_2021"
+
+[datasets.publication]
+doi = "10.1371/journal.pone.0249102"
+eligibility_criteria = "Inclusion criteria for the systematic review were: (1) original article in the English language, (2) OIC task, (3) rodents, (4) control animals (no treatment, saline injection, or sham operation). Studies had to comply with the inclusion criteria above and report the sample size and (the data to calculate) the DR-with the corresponding standard error- to be included in the meta-analysis. Exclusion criteria were: 1) no primary literature in English; 2) other measures of context-dependent memory, like modified versions of the OIC task (e.g. combinations of context and location measures, context-dependent memory based on odors, classical fear conditioning or operant conditioning paradigms); 3) non-rodent species, 4) no control group tested. Note, genetic modification was not an exclusion criterium."
+
+[datasets.data]
+doi = "10.17605/OSF.IO/GY2MC"
