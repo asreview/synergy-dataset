@@ -171,7 +171,7 @@ def openalex_work_by_id(
 
         store.append(oaid)
 
-    return (list(store))
+    return list(store)
     
 
 if __name__ == "__main__":
