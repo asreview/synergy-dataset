@@ -1,13 +1,12 @@
-# This script contains functionality to simplify compose scripts for new datasets
+"""This script contains functionality to simplify compose scripts for new datasets"""
 
 import pandas as pd
 
 # All ID's we use to search in OpenAlex
-ID_SET = ["doi", "pmid", "title", "year"]
+ID_SET = {"doi", "pmid", "title", "year"}
 
-
-# Sets labels and creates a unique combined dataframe of the records 
 def combine_datafiles(search: pd.DataFrame, ft: pd.DataFrame, ti_ab: pd.DataFrame = pd.DataFrame()):
+    """Sets labels and creates a unique combined dataframe of the records"""
     
     # Set labels
     if not ti_ab.empty:
@@ -23,10 +22,9 @@ def combine_datafiles(search: pd.DataFrame, ft: pd.DataFrame, ti_ab: pd.DataFram
     # Merge
     df = pd.concat([ft,ti_ab,search], ignore_index=True)
 
-    # Make unique
-    for id in ID_SET:
-        if id not in list(df):
-            df[id] = None
-    df.drop_duplicates(subset=ID_SET, inplace=True, ignore_index=True)
-    
-    return df
+    # Add missing ID columns
+    for id in ID_SET.difference(list(df)): 
+        df[id] = None 
+
+    # Drop duplicates
+    return df.drop_duplicates(subset=ID_SET, ignore_index=True)
