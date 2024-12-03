@@ -31,3 +31,24 @@ def combine_datafiles(
 
     # Drop duplicates
     return df.drop_duplicates(subset=ID_SET, ignore_index=True)
+
+
+def write_ids_files(key: str, df: pd.DataFrame):
+    """Writes _ids file and raw_ids file"""
+
+    df.to_csv(f"{key}_raw.csv", index=False)
+
+    IDS = {
+        "openalex_id",
+        "doi",
+        "pmid",
+        "label_included",
+        "label_abstract_included",
+        "method",
+    }
+
+    # Add missing ID columns
+    for id in IDS.difference(list(df)):
+        df[id] = None
+
+    df[IDS].to_csv(f"{key}_ids.csv", index=False)
