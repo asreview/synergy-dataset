@@ -109,7 +109,7 @@ key = "van_der_Valk_2021"
 
 [datasets.publication]
 doi = "10.1111/obr.13376"
-eligibility_criteria = ""
+eligibility_criteria = "We included studies that reported cross-sectional associations between HairGC and measurements of obesity. We excluded case reports, animal studies, review articles, non-English or nonpeer reviewed studies, and studies in which hair sampling and weight measurements were not performed simultaneously (Figure 1). Pediatric studies that only included children younger than age 2 years were also excluded because BMI-based definitions of obesity are not available for this age group"
 
 [datasets.data]
 doi = "10.17605/OSF.IO/WDZH5"
@@ -425,7 +425,7 @@ key = "van_de_Schoot_2018"
 
 [datasets.publication]
 doi = "10.1080/00273171.2017.1412293"
-eligibility_criteria = ""
+eligibility_criteria = "In the second round, the full-text articles were independently read and screened by RvdS and MS for the following inclusion criteria: (a) longitudinal studies with at least three measurement waves measuring PTSD, (b) studies that measured PTSD on a continuous scale via an interview or questionnaire, (c) and studies that used a clustering method (LGMM, LCGA, hierarchical cluster analysis), (d) traumatic stress symptoms following events that appeared to fulfill DSM-IV criterion A1 for PTSD or acute stress disorder."
 
 [datasets.data]
 doi = "10.17605/OSF.IO/VW3T7"
