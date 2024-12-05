@@ -5,6 +5,16 @@ import pandas as pd
 # All ID's we use to search in OpenAlex
 ID_SET = {"doi", "pmid", "title", "year"}
 
+# The set of columns we want to see in the output of the compose file
+OUTPUT_ID_SET = [
+    "openalex_id",
+    "doi",
+    "pmid",
+    "label_included",
+    "label_abstract_included",
+    "method",
+]
+
 
 def combine_datafiles(
     search: pd.DataFrame, ft: pd.DataFrame, ti_ab: pd.DataFrame = pd.DataFrame()
@@ -37,18 +47,4 @@ def write_ids_files(key: str, df: pd.DataFrame):
     """Writes _ids file and raw_ids file"""
 
     df.to_csv(f"{key}_raw.csv", index=False)
-
-    IDS = {
-        "openalex_id",
-        "doi",
-        "pmid",
-        "label_included",
-        "label_abstract_included",
-        "method",
-    }
-
-    # Add missing ID columns
-    for id in IDS.difference(list(df)):
-        df[id] = None
-
-    df[IDS].to_csv(f"{key}_ids.csv", index=False)
+    df.reindex(columns=OUTPUT_ID_SET).to_csv(f"{key}_ids.csv", index=False)
