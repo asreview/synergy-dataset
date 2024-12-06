@@ -51,7 +51,9 @@ def write_ids_files(key: str, df: pd.DataFrame):
     df.reindex(columns=OUTPUT_ID_SET).to_csv(f"{key}_ids.csv", index=False)
 
 
-def extract_data(df: pd.DataFrame, doi: str = "", pmid: str = "", title: str="", year: str=""):
+def extract_data(
+    df: pd.DataFrame, doi: str = "", pmid: str = "", title: str = "", year: str = ""
+):
     """
     Takes column names as input for where to find data.
     For each row of the identifier that is empty: copy the data in there.
@@ -63,16 +65,16 @@ def extract_data(df: pd.DataFrame, doi: str = "", pmid: str = "", title: str="",
         df[id] = None
 
     if doi:
-        df['doi'] = np.where(df['doi'].isnull(), extract_doi(df[doi]), df['doi'])
+        df["doi"] = np.where(df["doi"].isnull(), extract_doi(df[doi]), df["doi"])
 
     if pmid:
-        df['pmid'] = np.where(df['pmid'].isnull(), extract_pmid(df[pmid]), df['pmid'])
+        df["pmid"] = np.where(df["pmid"].isnull(), extract_pmid(df[pmid]), df["pmid"])
 
     if title:
-        df['title'] = np.where(df['title'].isnull(), df[title], df['title'])
+        df["title"] = np.where(df["title"].isnull(), df[title], df["title"])
 
     if year:
-        df['year'] = np.where(df['year'].isnull(), extract_year(df[year]), df['year'])
+        df["year"] = np.where(df["year"].isnull(), extract_year(df[year]), df["year"])
 
     return df
 
@@ -95,4 +97,4 @@ def extract_year(x):
     if isinstance(x, str):
         return x.extract(r"(\d+)")
 
-    return x 
+    return x
