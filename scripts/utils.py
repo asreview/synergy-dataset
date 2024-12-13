@@ -1,7 +1,6 @@
 """This script contains functionality to simplify compose scripts for new datasets"""
 
 import pandas as pd
-import numpy as np
 
 # All ID's we use to search in OpenAlex
 ID_SET = {"doi", "pmid", "title", "year"}
