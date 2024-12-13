@@ -51,50 +51,21 @@ def write_ids_files(key: str, df: pd.DataFrame):
     df.reindex(columns=OUTPUT_ID_SET).to_csv(f"{key}_ids.csv", index=False)
 
 
-def extract_data(
+def rename_columns(
     df: pd.DataFrame, doi: str = "", pmid: str = "", title: str = "", year: str = ""
 ):
-    """
-    Takes column names as input for where to find data.
-    For each row of the identifier that is empty: copy the data in there.
-    May apply a regex selection to get data in the right format.
-    """
-
-    # Add missing ID columns
-    for id in ID_SET.difference(list(df)):
-        df[id] = None
+    """Creates new columns for each argument provided, copying data from the input column name"""
 
     if doi:
-        df["doi"] = np.where(df["doi"].isnull(), extract_doi(df[doi]), df["doi"])
+        df["doi"] = df[doi]
 
     if pmid:
-        df["pmid"] = np.where(df["pmid"].isnull(), extract_pmid(df[pmid]), df["pmid"])
+        df["pmid"] = df[pmid]
 
     if title:
-        df["title"] = np.where(df["title"].isnull(), df[title], df["title"])
+        df["title"] = df[title]
 
     if year:
-        df["year"] = np.where(df["year"].isnull(), extract_year(df[year]), df["year"])
+        df["year"] = df[year]
 
     return df
-
-
-def extract_doi(s: str):
-    """Extracts doi from a string using regex, to be implemented"""
-
-    return s
-
-
-def extract_pmid(s: str):
-    """Extracts pmid from a string using regex, to be implemented"""
-
-    return s
-
-
-def extract_year(x):
-    """Extracts year from a string using regex"""
-
-    if isinstance(x, str):
-        return x.extract(r"(\d+)")
-
-    return x
