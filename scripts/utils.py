@@ -1,6 +1,7 @@
 """This script contains functionality to simplify compose scripts for new datasets"""
 
 import pandas as pd
+from pandas.api.types import is_string_dtype
 
 # All ID's we use to search in OpenAlex
 ID_SET = {"doi", "pmid", "title", "year"}
@@ -82,7 +83,7 @@ def extract_doi(
 
     return df
 
-10\.[^&]*
+
 def extract_pmid(
     df: pd.DataFrame,
     col_in: str,
@@ -113,7 +114,7 @@ def extract_year(df: pd.DataFrame, col_in: str, overwrite: bool = False):
 
     if ("year" not in list(df)) or overwrite:
         df["year"] = df[col_in].str.extract(regex)
-    elif df[col_in].dtype == "object":
+    elif is_string_dtype(df[col_in].dtype):
         # Only overwrite rows that did not have a year yet + convert to float
         df["year"] = df["year"].mask(
             df["year"].isnull(), df[col_in].str.extract(regex)[0].astype(float)
