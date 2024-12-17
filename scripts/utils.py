@@ -39,16 +39,6 @@ def combine_datafiles(
     for id in ID_SET.difference(list(df)):
         df[id] = None
 
-    # Drop duplicates
-    return df.drop_duplicates(subset=ID_SET, ignore_index=True)
-
-
-def write_ids_files(key: str, df: pd.DataFrame):
-    """Writes _ids file and raw_ids file"""
-
-    df.to_csv(f"{key}_raw.csv", index=False)
-    df.reindex(columns=OUTPUT_ID_SET).to_csv(f"{key}_ids.csv", index=False)
-
 
 def rename_columns(
     df: pd.DataFrame, doi: str = "", pmid: str = "", title: str = "", year: str = ""
@@ -68,3 +58,15 @@ def rename_columns(
         df["year"] = df[year]
 
     return df
+
+
+def drop_duplicates(df: pd.DataFrame):
+    """Input dataframe should be sorted FT -> Ti-Ab -> search. Uses the full identifier set as key."""
+    return df.drop_duplicates(subset=ID_SET, ignore_index=True)
+
+
+def write_ids_files(key: str, df: pd.DataFrame):
+    """Writes _ids file and raw_ids file"""
+
+    df.to_csv(f"{key}_raw.csv", index=False)
+    df.reindex(columns=OUTPUT_ID_SET).to_csv(f"{key}_ids.csv", index=False)
