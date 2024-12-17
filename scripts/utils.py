@@ -60,6 +60,65 @@ def rename_columns(
     return df
 
 
+def extract_doi(df: pd.DataFrame, col_in:str, pre:str = "", post:str = "", overwrite:bool = False):
+    """Extracts doi with regex taking into account pre and post. Stores it in doi column with doi.org prefix."""
+
+    regex = rf"{pre}(10\.[^{post}]*)" if post else rf"{pre}(10.\S+)"
+    url_prefix = "https://doi.org/"
+
+    if ("doi" not in list(df)) or overwrite:
+        df["doi"] = url_prefix + df[col_in].str.extract(regex)[0]
+    else:
+        # Only overwrite rows that did not have a doi yet.
+        df["doi"] = df["doi"].mask(df["doi"].isnull(), url_prefix + df[col_in].str.extract(regex)[0])
+
+    return df
+
+
+def extract_pmid(df: pd.DataFrame, col_in:str, pre:str = "", post:str = "", overwrite:bool = False):
+    """Extracts pmid with regex taking into account pre and post. Stores it in pmid column with pubmed prefix."""
+
+    regex = rf"{pre}(\d+[^{post}]*)" if post else rf"{pre}(\d+)"
+    url_prefix = "https://pubmed.ncbi.nlm.nih.gov/"
+
+    if ("pmid" not in list(df)) or overwrite:
+        df["pmid"] = url_prefix + df[col_in].str.extract(regex)[0]
+    else:
+        # Only overwrite rows that did not have a pmid yet.
+        df["pmid"] = df["pmid"].mask(df["pmid"].isnull(), url_prefix + df[col_in].str.extract(regex)[0])
+
+    return df
+
+
+def extract_year(df: pd.DataFrame, col_in:str, overwrite:bool = False):
+    """Extracts the number from the input column and stores it in year column."""
+
+    regex = r"(\d+)"
+
+    if ("year" not in list(df)) or overwrite:
+        df["year"] = df[col_in].str.extract(regex)
+    elif df[col_in].dtype == "object":
+        # Only overwrite rows that did not have a year yet + convert to float
+        df["year"] = df["year"].mask(df["year"].isnull(), df[col_in].str.extract(regex)[0].astype(float))
+    else:
+        # Only overwrite rows that did not have a year yet.
+        df["year"] = df["year"].mask(df["year"].isnull(), df[col_in])
+
+    return df
+
+
+def extract_title(df: pd.DataFrame, col_in:str, overwrite:bool = False):
+    """Copies the title from the input column and stores it in title column."""
+
+    if ("title" not in list(df)) or overwrite:
+        df["title"] = df[col_in]
+    else:
+        # Only overwrite rows that did not have a title yet.
+        df["title"] = df["title"].mask(df["title"].isnull(), df[col_in])
+
+    return df
+
+
 def drop_duplicates(df: pd.DataFrame):
     """Input dataframe should be sorted FT -> Ti-Ab -> search. Uses the full identifier set as key."""
     return df.drop_duplicates(subset=ID_SET, ignore_index=True)
