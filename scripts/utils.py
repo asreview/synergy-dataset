@@ -48,3 +48,23 @@ def write_ids_files(key: str, df: pd.DataFrame):
 
     df.to_csv(f"{key}_raw.csv", index=False)
     df.reindex(columns=OUTPUT_ID_SET).to_csv(f"{key}_ids.csv", index=False)
+
+
+def rename_columns(
+    df: pd.DataFrame, doi: str = "", pmid: str = "", title: str = "", year: str = ""
+):
+    """Creates new columns for each argument provided, copying data from the input column name"""
+
+    if doi:
+        df["doi"] = df[doi]
+
+    if pmid:
+        df["pmid"] = df[pmid]
+
+    if title:
+        df["title"] = df[title]
+
+    if year:
+        df["year"] = df[year]
+
+    return df
