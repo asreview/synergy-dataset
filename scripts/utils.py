@@ -69,7 +69,7 @@ def extract_doi(
 ):
     """Extracts doi with regex taking into account pre and post. Stores it in doi column with doi.org prefix."""
 
-    regex = rf"{pre}(10\.[^{post}]*)" if post else rf"{pre}(10.\S+)"
+    regex = rf"{pre}(10\.[^{post}]*)" if post else rf"{pre}(10\.\S+)"
     url_prefix = "https://doi.org/"
 
     if ("doi" not in list(df)) or overwrite:
@@ -82,7 +82,7 @@ def extract_doi(
 
     return df
 
-
+10\.[^&]*
 def extract_pmid(
     df: pd.DataFrame,
     col_in: str,
