@@ -37,12 +37,19 @@ def combine_datafiles(
     df = pd.concat([ft, ti_ab, search], ignore_index=True)
 
     # Add missing ID columns
-    for id in ID_SET.difference(list(df)):
-        df[id] = None
+    df = df.reindex(columns=list(df) + list(ID_SET.difference(list(df))))
+
+    return df
 
 
 def rename_columns(
-    df: pd.DataFrame, doi: str = "", pmid: str = "", title: str = "", year: str = ""
+    df: pd.DataFrame,
+    doi: str = "",
+    pmid: str = "",
+    title: str = "",
+    year: str = "",
+    ft_label: str = "",
+    ti_ab_label: str = "",
 ):
     """Creates new columns for each argument provided, copying data from the input column name"""
 
@@ -57,6 +64,12 @@ def rename_columns(
 
     if year:
         df["year"] = df[year]
+
+    if ft_label:
+        df["label_included"] = df[ft_label]
+
+    if ti_ab_label:
+        df["label_abstract_included"] = df[ti_ab_label]
 
     return df
 
@@ -95,6 +108,9 @@ def extract_pmid(
 
     regex = rf"{pre}(\d+[^{post}]*)" if post else rf"{pre}(\d+)"
     url_prefix = "https://pubmed.ncbi.nlm.nih.gov/"
+
+    # In case only numbers exist in the column, convert it to string
+    df[col_in] = df[col_in].astype("string")
 
     if ("pmid" not in list(df)) or overwrite:
         df["pmid"] = url_prefix + df[col_in].str.extract(regex)[0]
@@ -140,6 +156,9 @@ def extract_title(df: pd.DataFrame, col_in: str, overwrite: bool = False):
 
 def drop_duplicates(df: pd.DataFrame):
     """Input dataframe should be sorted FT -> Ti-Ab -> search. Uses the full identifier set as key."""
+
+    df = df.reindex(columns=list(df) + list(ID_SET.difference(list(df))))
+
     return df.drop_duplicates(subset=ID_SET, ignore_index=True)
 
 
