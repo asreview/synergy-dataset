@@ -2,7 +2,6 @@ version=1.0
 
 
 [[datasets]]
-  # The doi is invalid, but the paper is indexed in OpenAlex
 
   key="van_Ballegooien_2024"
 
