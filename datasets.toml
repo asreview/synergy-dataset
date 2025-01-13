@@ -4,6 +4,19 @@ version=1.0
 [[datasets]]
   # The doi is invalid, but the paper is indexed in OpenAlex
 
+  key="van_Ballegooien_2024"
+
+  [datasets.publication]
+  doi="10.1001/jamapsychiatry.2024.2854"
+  eligibility_criteria = "Studies were included if they met the following criteria: (1) had a randomized design comparing 2 or more groups; (2) examined psychotherapy (the use of psychological methods to change behavior or overcome problems) targeting any mental health problem and delivered in any setting (including guided digital treatments); (3) compared the intervention with a control group (such as care as usual, enhanced care as usual, or waiting list); (4) reported suicidal ideation (SI), suicide attempts (SA), or self-harm leading to hospitalization (only included if the authors’ definition of self-harm included suicide attempts). Studies were excluded if they (1) used an intervention that did not involve any psychotherapeutic technique or support (eg, unguided self-help and community intervention) and (2) measured SI on a categorical scale, such as a single item of a questionnaire for depression. We included studies on all age groups."
+
+  [datasets.data]
+  url="https://surfdrive.surf.nl/files/index.php/s/UcfIYP3K612w0oA"
+
+
+[[datasets]]
+  # The doi is invalid, but the paper is indexed in OpenAlex
+
   key="Giesen_2021"
 
   [datasets.publication]
