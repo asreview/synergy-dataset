@@ -3,7 +3,7 @@ version=1.0
 
 [[datasets]]
 
-  key="van_Ballegooien_2024"
+  key="van_Ballegooijen_2024"
 
   [datasets.publication]
   doi="10.1001/jamapsychiatry.2024.2854"
