@@ -1,6 +1,19 @@
 version=1.0
 
 
+[[datasets]]
+  # The doi is invalid, but the paper is indexed in OpenAlex
+
+  key="Giesen_2021"
+
+  [datasets.publication]
+  doi="10.29011/26889501.101265"
+  url="https://www.gavinpublishers.com/article/view/overview-of-pain-interventions-for-hospital-and-community-care-nurses-a-systematic-scoping-review"
+  eligibility_criteria = "Original research articles written in English or Dutch, published in peer journals in or after 2010 were eligible. We chose only to select studies published after 2010 to ensure inclusion of recent and up-to-date scientific nursing outcomes. According to the guidance of the Cochrane Effective Practice and Organization of Care group, studies were included if the data could be compared with a control or baseline measure, such as randomised controlled trials, controlled before-and-after studies or interrupted time series methods. In addition, the studies had to include interventions of a Western origin, be focused on pain care performed by a nurse and include adult patients >18 years. Finally, studies had to be conducted in a hospital or community care setting or contain an intervention transferable to these settings and executed in an Organisation for Economic Co-operation and Development country. Studies involving women in labour or breastfeeding and/or Chinese, alternative or non-Western interventions were excluded."
+
+  [datasets.data]
+  url="https://osf.io/gnyt4/"
+
 
 [[datasets]]
 
