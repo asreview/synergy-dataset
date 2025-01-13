@@ -1,6 +1,17 @@
 version=1.0
 
 
+[[datasets]]
+  # The doi is invalid, but the paper is indexed in OpenAlex
+
+  key="Giesen_2021"
+
+  [datasets.publication]
+  url="https://www.gavinpublishers.com/article/view/overview-of-pain-interventions-for-hospital-and-community-care-nurses-a-systematic-scoping-review"
+
+  [datasets.data]
+  url="https://osf.io/gnyt4/"
+
 
 [[datasets]]
 

@@ -72,8 +72,12 @@ def search_record(title, year=None, label_included=None):
 
     # clean title to prevent zero hits in openalex due to bad special char
     # handling.
-    for x in SPECIAL_TOKENS:
-        title = title.replace(x, "")
+    #for x in SPECIAL_TOKENS:
+    #    title = title.replace(x, "")
+
+    #title = title.replace(",", "").replace(":", "").replace("|", "")
+
+    print(f"searching for title: {title}")
 
     # search for the work on OpenAlex
     try:
@@ -81,6 +85,8 @@ def search_record(title, year=None, label_included=None):
     except requests.exceptions.JSONDecodeError:
         sleep(5)
         r = Works().search(title).get()
+
+    print(f"nr results: {len(r)}")
 
     matches = []
     for work in r:
@@ -92,9 +98,11 @@ def search_record(title, year=None, label_included=None):
         ):
             matches.append(work)
 
+    print(f"matches: {len(matches)}")
+
     # print(f"N={len(matches)}:", title)
     if len(matches) == 1:
-        return matches[0]["doi"], matches[0]["id"], "search_title"
+        return matches[0]["doi"], matches[0]["publication_year"], "search_title"
 
     # if there was no match of more than one match, go to this step.
     # we match year as well.
@@ -128,7 +136,7 @@ def search_record(title, year=None, label_included=None):
             print(doi)
             openalex_id = Works()["doi:" + doi]["id"]
             print(openalex_id)
-            return None, openalex_id, "lens_lookup"
+            return doi, openalex_id, "lens_lookup"
         except Exception as err:
             print(err)
 
@@ -155,7 +163,8 @@ def openalex_work_by_id(
                 if "pmid" in w["ids"]:
                     results[w["ids"]["pmid"]] = w["id"]
             elif id_type == "doi":
-                results[w["doi"]] = w["id"]
+                results[w["doi"]] = w["publication_year"]
+                results[w["id"]] = w["publication_year"]
             else:
                 raise ValueError("Id type not found.")
 
@@ -274,6 +283,7 @@ if __name__ == "__main__":
                             print("Found new work:", doi)
                             df.loc[index, "openalex_id"] = openalex_id
                             df.loc[index, "method"] = retrieval_method
+                            df.loc[index, "doi"] = doi
 
         except KeyboardInterrupt as err:
             print("Stop and write results so far.")
