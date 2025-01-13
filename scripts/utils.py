@@ -2,6 +2,10 @@
 
 import pandas as pd
 from pandas.api.types import is_string_dtype
+from io import BytesIO
+from zipfile import ZipFile
+from urllib.request import urlopen
+import os
 
 # All ID's we use to search in OpenAlex
 ID_SET = {"doi", "pmid", "title", "year"}
@@ -15,6 +19,30 @@ OUTPUT_ID_SET = [
     "label_abstract_included",
     "method",
 ]
+
+
+def unzip(zip_path, filename="", new_filename=""):
+    """Unzips a zip, stored either locally or online. Can target a specific file and possible rename it."""
+
+    # Load zip file, either local or online
+    if os.path.isfile(zip_path):
+        zip_file = ZipFile(zip_path, "r")
+    else:
+        resp = urlopen(zip_path)
+        zip_file = ZipFile(BytesIO(resp.read()))
+
+    # Do the extraction
+    if filename:
+        if not os.path.isfile(filename):
+            zip_file.extract(filename)
+    else:
+        zip_file.extractall()
+
+    zip_file.close()
+
+    # Rename
+    if new_filename and not os.path.isfile(new_filename):
+        os.rename(filename, new_filename)
 
 
 def combine_datafiles(
