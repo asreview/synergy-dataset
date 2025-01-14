@@ -182,6 +182,22 @@ def extract_title(df: pd.DataFrame, col_in: str, overwrite: bool = False):
     return df
 
 
+def extract_labels(
+    df: pd.DataFrame,
+    ft_col: str,
+    ft_value: str,
+    ti_ab_col: str = None,
+    ti_ab_value: str = "",
+):
+    """Create the label columns by converting given values to 1 of input columns."""
+
+    df["label_included"] = (df[ft_col] == ft_value).astype(int)
+    if ti_ab_col is not None:
+        df["label_abstract_included"] = (df[ti_ab_col] == ti_ab_value).astype(int)
+
+    return df
+
+
 def drop_duplicates(df: pd.DataFrame):
     """Input dataframe should be sorted FT -> Ti-Ab -> search. Uses the full identifier set as key."""
 
