@@ -66,7 +66,7 @@ Some of the notable variables are:
 |------|-------------------------|-------------------------------|
 | id | String | The OpenAlex ID for this work. |
 | doi | String | The DOI identifier of the object if available |
-| label_included | Bin | 1 for included records, 0 for excluded records after full text screening |
+| label_included | Integer | 1 for included records, 0 for excluded records after full text screening |
 | title | String | The title of this work. |
 | abstract | String | The abstract of this work. Stored as `abstract_inverted_index`, but available as plaintext abstract for machine learning purposes. |
 | authorships | List | List of Authorship objects, each representing an author and their institution. |
