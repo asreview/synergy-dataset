@@ -1,0 +1,50 @@
+{"dataset_id": "Appenzeller-Herzog_2019", "prior_inclusions": [2714], "prior_exclusions": [1656, 457, 2705]}
+{"dataset_id": "Bos_2018", "prior_inclusions": [2039], "prior_exclusions": [4862, 4042, 549, 4670, 2858, 730]}
+{"dataset_id": "Brouwer_2019", "prior_inclusions": [16870, 30807], "prior_exclusions": [13872, 32982]}
+{"dataset_id": "Chou_2003", "prior_inclusions": [111, 1672], "prior_exclusions": [245, 1569]}
+{"dataset_id": "Donners_2021", "prior_inclusions": [65], "prior_exclusions": [134, 201]}
+{"dataset_id": "Hall_2012", "prior_inclusions": [1928, 1551, 2686], "prior_exclusions": [3944]}
+{"dataset_id": "Jeyaraman_2020", "prior_inclusions": [637], "prior_exclusions": [1025, 1044]}
+{"dataset_id": "Leenaars_2019", "prior_inclusions": [1648, 5721], "prior_exclusions": [1790, 220, 951]}
+{"dataset_id": "Leenaars_2020", "prior_inclusions": [5158], "prior_exclusions": [2310]}
+{"dataset_id": "Meijboom_2021", "prior_inclusions": [194, 282], "prior_exclusions": [4]}
+{"dataset_id": "Menon_2022", "prior_inclusions": [46], "prior_exclusions": [880, 794, 655]}
+{"dataset_id": "Moran_2021_corrected", "prior_inclusions": [976], "prior_exclusions": [229]}
+{"dataset_id": "Muthu_2021", "prior_inclusions": [676, 107], "prior_exclusions": [2316]}
+{"dataset_id": "Nelson_2002", "prior_inclusions": [266, 189], "prior_exclusions": [346, 328]}
+{"dataset_id": "Oud_2018", "prior_inclusions": [228], "prior_exclusions": [112]}
+{"dataset_id": "Radjenovic_2013", "prior_inclusions": [5506], "prior_exclusions": [488]}
+{"dataset_id": "Sep_2021", "prior_inclusions": [77], "prior_exclusions": [118, 11]}
+{"dataset_id": "Smid_2020", "prior_inclusions": [810], "prior_exclusions": [793]}
+{"dataset_id": "van_de_Schoot_2018", "prior_inclusions": [462, 4201, 2740], "prior_exclusions": [1655]}
+{"dataset_id": "van_der_Valk_2021", "prior_inclusions": [444, 103], "prior_exclusions": [246, 649]}
+{"dataset_id": "van_der_Waal_2022", "prior_inclusions": [872], "prior_exclusions": [1180, 138, 767, 1564]}
+{"dataset_id": "van_Dis_2020", "prior_inclusions": [21, 3158], "prior_exclusions": [3792]}
+{"dataset_id": "Walker_2018", "prior_inclusions": [28348, 31118], "prior_exclusions": [17602, 24220, 47724, 8258]}
+{"dataset_id": "Wassenaar_2017", "prior_inclusions": [6110], "prior_exclusions": [354, 71, 4399]}
+{"dataset_id": "Wolters_2018", "prior_inclusions": [2007], "prior_exclusions": [413, 4045, 192]}
+{"dataset_id": "Appenzeller-Herzog_2019", "prior_inclusions": [2280], "prior_exclusions": [1343, 2764, 1147, 244]}
+{"dataset_id": "Bos_2018", "prior_inclusions": [4614], "prior_exclusions": [4033]}
+{"dataset_id": "Brouwer_2019", "prior_inclusions": [20513], "prior_exclusions": [33558, 24285]}
+{"dataset_id": "Chou_2003", "prior_inclusions": [1237, 814], "prior_exclusions": [786, 1542]}
+{"dataset_id": "Donners_2021", "prior_inclusions": [89], "prior_exclusions": [217, 154]}
+{"dataset_id": "Hall_2012", "prior_inclusions": [3689, 7797, 1216], "prior_exclusions": [1608, 5202]}
+{"dataset_id": "Jeyaraman_2020", "prior_inclusions": [102, 30, 422], "prior_exclusions": [960]}
+{"dataset_id": "Leenaars_2019", "prior_inclusions": [2579, 16, 5721, 3085, 3926], "prior_exclusions": [1699, 2354, 1031, 3121]}
+{"dataset_id": "Leenaars_2020", "prior_inclusions": [6293], "prior_exclusions": [5630]}
+{"dataset_id": "Meijboom_2021", "prior_inclusions": [707, 247], "prior_exclusions": [148, 61, 97, 752, 42]}
+{"dataset_id": "Menon_2022", "prior_inclusions": [418], "prior_exclusions": [248]}
+{"dataset_id": "Moran_2021_corrected", "prior_inclusions": [3772], "prior_exclusions": [3949, 2913, 5293, 518]}
+{"dataset_id": "Muthu_2021", "prior_inclusions": [804], "prior_exclusions": [679]}
+{"dataset_id": "Nelson_2002", "prior_inclusions": [282, 183], "prior_exclusions": [94, 261, 69]}
+{"dataset_id": "Oud_2018", "prior_inclusions": [641, 478], "prior_exclusions": [646]}
+{"dataset_id": "Radjenovic_2013", "prior_inclusions": [3626, 758, 624], "prior_exclusions": [2795]}
+{"dataset_id": "Sep_2021", "prior_inclusions": [253], "prior_exclusions": [221, 25, 169]}
+{"dataset_id": "Smid_2020", "prior_inclusions": [1820, 763, 526], "prior_exclusions": [635, 1520]}
+{"dataset_id": "van_de_Schoot_2018", "prior_inclusions": [1033, 4377], "prior_exclusions": [4205, 1595]}
+{"dataset_id": "van_der_Valk_2021", "prior_inclusions": [666], "prior_exclusions": [467, 175, 472, 271]}
+{"dataset_id": "van_der_Waal_2022", "prior_inclusions": [1516, 501, 1283], "prior_exclusions": [533]}
+{"dataset_id": "van_Dis_2020", "prior_inclusions": [4943], "prior_exclusions": [3871]}
+{"dataset_id": "Walker_2018", "prior_inclusions": [33380, 23265, 35171, 36109, 9265, 17720, 47664, 44304], "prior_exclusions": [8153]}
+{"dataset_id": "Wassenaar_2017", "prior_inclusions": [7228], "prior_exclusions": [477]}
+{"dataset_id": "Wolters_2018", "prior_inclusions": [4260, 749, 3330, 1777, 2468, 3295, 3326, 4072, 422], "prior_exclusions": [2336]}
