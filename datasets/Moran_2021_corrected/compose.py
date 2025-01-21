@@ -6,7 +6,7 @@ key = "Moran_2021_corrected"
 
 def unquote_nan(x):
     try:
-        return urllib.parse.unquote(urllib.parse.unquote(x))
+        return urllib.parse.unquote(x)
     except Exception:
         return None
 
