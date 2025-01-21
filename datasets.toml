@@ -577,6 +577,20 @@ version=1.0
 
   key="Moran_2021"
 
+  active=false
+  note="Data from github seems incorrect. Use osf (corrected) instead."
+
+  [datasets.publication]
+  doi="10.1111/brv.12655"
+
+  [datasets.data]
+  doi="10.17605/OSF.IO/3TPHJ"
+
+
+[[datasets]]
+
+  key="Moran_2021_corrected"
+
   [datasets.publication]
   doi="10.1111/brv.12655"
 
