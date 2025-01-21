@@ -1,12 +1,12 @@
 import pandas as pd
 
-key = "Moran_2021"
+key = "Moran_2021_corrected"
 
 df_labels = pd.read_excel("https://osf.io/gmvxy/download")
 df_abstracts = pd.read_excel("https://osf.io/5zw46/download")
 
 df_labels["title"] = df_labels["Title"]
-df_labels["label_included"] = (df_labels["Final Decision"] == "Include").astype(int)
+df_labels["label_included"] = (df_labels["Final Decision"].str.startswith("Include")).astype(int)
 df_labels["label_abstract_included"] = 1
 df_labels = df_labels.reindex(columns=["title", "label_included", "label_abstract_included"])
 
