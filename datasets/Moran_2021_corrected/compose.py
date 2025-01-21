@@ -10,7 +10,7 @@ df_labels["label_included"] = (df_labels["Final Decision"].str.startswith("Inclu
 df_labels["label_abstract_included"] = 1
 df_labels = df_labels.reindex(columns=["title", "label_included", "label_abstract_included"])
 
-df = pd.merge(df_abstracts, df_labels, how="outer", on="title")
+df = pd.merge(df_abstracts, df_labels, how="left", on="title")
 
 df["doi"] = "https://doi.org/" + df["url"].str.extract(r"(10\.[^&]*)")[0]
 df['label_included'] = df['label_included'].fillna(0).astype(int)
