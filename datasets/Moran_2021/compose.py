@@ -1,25 +1,46 @@
 import pandas as pd
+import urllib.parse
 
 key = "Moran_2021"
 
-df_search = pd.read_csv(
-    "https://raw.githubusercontent.com/NPMoran/metah06_condition-dependence-of-boldness_OSF/master/screening_ref_data_rayyan.csv"
-)
-df_inclusions = pd.read_csv(
-    "https://raw.githubusercontent.com/NPMoran/metah06_condition-dependence-of-boldness_OSF/master/screening_ref_data_rayyan_final.csv"
+
+def unquote_nan(x):
+    try:
+        return urllib.parse.unquote(x)
+    except Exception:
+        return None
+
+
+df_labels = pd.read_excel("https://osf.io/gmvxy/download")
+df_abstracts = pd.read_excel("https://osf.io/5zw46/download")
+
+df_labels["title"] = df_labels["Title"]
+df_labels["label_included"] = (
+    df_labels["Final Decision"].str.startswith("Include")
+).astype(int)
+df_labels["label_abstract_included"] = 1
+
+df = pd.merge(
+    df_abstracts,
+    df_labels.reindex(columns=["title", "label_included", "label_abstract_included"]),
+    how="left",
+    on="title",
 )
 
-# set labels and turn into single dataframe
-df_inclusions["label_included"] = 1
-df_search["label_included"] = 0
-df = pd.concat([df_inclusions, df_search], ignore_index=True)
+df["doi"] = "https://doi.org/" + df["url"].str.extract(r"(10\.[^&]*)")[0].apply(
+    unquote_nan
+)
+df["label_included"] = df["label_included"].fillna(0).astype(int)
+df["label_abstract_included"] = df["label_abstract_included"].fillna(0).astype(int)
 
 # save results to file
 df.to_csv(f"{key}_raw.csv", index=False)
-
-df["doi"] = "https://doi.org/" + df["url"].str.extract(r"(10.\S+)")
-
-df_new = df[["doi", "label_included"]].copy()
-df_new["openalex_id"] = None
-
-df_new[["doi", "openalex_id", "label_included"]].to_csv(f"{key}_ids.csv", index=False)
+df.reindex(
+    columns=[
+        "openalex_id",
+        "doi",
+        "label_included",
+        "label_abstract_included",
+        "method",
+    ]
+).to_csv(f"{key}_ids.csv", index=False)
