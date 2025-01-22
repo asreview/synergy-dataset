@@ -22,7 +22,7 @@ df_labels["label_abstract_included"] = 1
 
 df = pd.merge(
     df_abstracts,
-    df_labels.reindex(columns=["title", "label_included", "label_abstract_included"]),
+    df_labels[["title", "label_included", "label_abstract_included"]],
     how="left",
     on="title",
 )
@@ -35,6 +35,7 @@ df["label_abstract_included"] = df["label_abstract_included"].fillna(0).astype(i
 
 # save results to file
 df.to_csv(f"{key}_raw.csv", index=False)
+df.sample(frac=1, random_state=535).to_csv(f"{key}_shuffled_raw.csv", index=False)
 df.reindex(
     columns=[
         "openalex_id",
