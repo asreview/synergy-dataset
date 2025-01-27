@@ -6,6 +6,7 @@ from io import BytesIO
 from zipfile import ZipFile
 from urllib.request import urlopen
 import os
+import urllib.parse
 
 # All ID's we use to search in OpenAlex
 ID_SET = {"doi", "pmid", "title", "year"}
@@ -19,6 +20,13 @@ OUTPUT_ID_SET = [
     "label_abstract_included",
     "method",
 ]
+
+
+def unquote_nan(x):
+    try:
+        return urllib.parse.unquote(x)
+    except Exception:
+        return None
 
 
 def unzip(zip_path, filename="", new_filename=""):
@@ -108,6 +116,7 @@ def extract_doi(
     pre: str = "",
     post: str = "",
     overwrite: bool = False,
+    unquote: bool = True,
 ):
     """Extracts doi with regex taking into account pre and post. Stores it in doi column with doi.org prefix."""
 
@@ -121,6 +130,9 @@ def extract_doi(
         df["doi"] = df["doi"].mask(
             df["doi"].isnull(), url_prefix + df[col_in].str.extract(regex)[0]
         )
+
+    if unquote:
+        df["doi"] = df["doi"].apply(unquote_nan)
 
     return df
 
