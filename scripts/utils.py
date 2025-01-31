@@ -141,17 +141,22 @@ def extract_pmid(
     df: pd.DataFrame,
     col_in: str,
     pre: str = "",
-    post: str = "",
     overwrite: bool = False,
+    numbers_only: bool = False
 ):
     """Extracts pmid with regex taking into account pre and post. Stores it in pmid column with pubmed prefix."""
 
-    regex = rf"{pre}(\d+[^{post}]*)" if post else rf"{pre}(\d+)"
-    url_prefix = "https://pubmed.ncbi.nlm.nih.gov/"
+    if numbers_only:
+        mask = df[col_in].notnull() & df[col_in].str.isdigit()
+        df.loc[mask, "new_col_in"] = df.loc[mask, col_in]
+        df[col_in] = df["new_col_in"]
 
     # In case only numbers exist in the column, convert it to string
     df[col_in] = df[col_in].astype("string")
 
+    regex = rf"{pre}(\d+)"
+    url_prefix = "https://pubmed.ncbi.nlm.nih.gov/"
+        
     if ("pmid" not in list(df)) or overwrite:
         df["pmid"] = url_prefix + df[col_in].str.extract(regex)[0]
     else:
