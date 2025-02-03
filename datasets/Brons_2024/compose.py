@@ -13,7 +13,7 @@ df = utils.extract_labels(df, ft_col="Reason", ft_value="Included")
 df["label_abstract_included"] = 0
 df.loc[df["Reason"] != "Abstract", "label_abstract_included"] = 1
 df = df.drop(columns=["Unnamed: 0", "Reason"])
-df= utils.drop_duplicates(df)
+df = utils.drop_duplicates(df)
 
 # Write output
 utils.write_ids_files("Brons_2024", df)

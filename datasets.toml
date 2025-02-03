@@ -669,3 +669,13 @@ version=1.0
 
   [datasets.data]
   doi="10.17605/OSF.IO/GY2MC"
+
+[[datasets]]
+
+  key="Brons_2024"
+
+  [datasets.publication]
+  doi="10.2196/47774"
+
+  [datasets.data]
+  doi="10.17605/OSF.IO/VJQ59"
