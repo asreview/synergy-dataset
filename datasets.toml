@@ -669,3 +669,16 @@ version=1.0
 
   [datasets.data]
   doi="10.17605/OSF.IO/GY2MC"
+
+[[datasets]]
+
+  key="Brons_2024"
+
+  [datasets.publication]
+  doi="10.2196/47774"
+  eligibility_criteria = “Studies were included if they met the following criteria: (1) Articles: peer-reviewed articles, conference proceedings, or book chapters on qualitative, quantitative, and mixed method studies or protocols; (2) Language: English; (3) Application: digital intervention, either stand-alone or hybrid with a health care provider, with at least one personalized persuasive strategy; (4) Machine learning (ML) technique: supervised ML, unsupervised ML, or reinforcement learning; (5) Health behavior promoted by the intervention: physical activity (including walking, running, cycling, performing exercises, and performing sports activities) either alone or as part of several health behaviors. Studies were excluded if they (1) Articles: conference abstracts, reviews, letters, editorials, comments, non–peer-reviewed articles or book chapters, white papers, or articles with no full text available; (2) Language: all other languages; (3) Application: nonadaptive intervention or persuasive strategy not specified; (4) ML technique: rule-based if-then systems, predefined formulas, manual personalization, ML method not specified, computer vision, natural language processing, or robotics; (5) Health behavior promoted by the intervention: health behaviors other than physical activity. ”
+
+  [datasets.data]
+  doi="10.17605/OSF.IO/VJQ59"
+
+
