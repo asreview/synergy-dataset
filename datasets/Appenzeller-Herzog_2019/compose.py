@@ -1,34 +1,27 @@
-import pandas as pd
 from asreview import ASReviewData
+import sys
 
-key = "Appenzeller-Herzog_2019"
+sys.path.append("../../scripts")
+import utils
 
 # load RIS into ASReviewData object
-asr_inclusions = ASReviewData.from_file(
+ft = ASReviewData.from_file(
     "https://zenodo.org/record/3625931/files/DOKU_All%20Included_20200116_cap.txt"
-)
-asr_search = ASReviewData.from_file(
+).df
+ti_ab = ASReviewData.from_file(
+    "https://zenodo.org/record/3625931/files/DOKU_All%20FT-Screening_20200116_cap.txt"
+).df
+search = ASReviewData.from_file(
     "https://zenodo.org/record/3625931/files/DOKU_All%20TiAb-Screening_20200116_cap.txt"
-)
+).df
 
 # set labels and turn into single dataframe
-asr_inclusions.df["label_included"] = 1
-asr_search.df["label_included"] = 0
-df = pd.concat([asr_inclusions.df, asr_search.df], ignore_index=True)
-df.drop_duplicates(inplace=True)
+df = utils.combine_datafiles(search, ft, ti_ab)
 
 # adjust columns and drop missing and duplicate ids
-df["doi"] = "https://doi.org/" + df["doi"].str.extract(r"(10.\S+)")
-df["pmid"] = "https://pubmed.ncbi.nlm.nih.gov/" + df["url"].str.extract(
-    r"id\=pmid\:(\d+)"
-)
+df = utils.extract_doi(df, "doi", "", "", True)
+df = utils.extract_pmid(df, "url", r"id\=pmid\:")
+df = utils.drop_duplicates(df)
 
-# save results to file
-df.to_csv(f"{key}_raw.csv", index=False)
-
-df_new = df[["doi", "pmid", "label_included"]].copy()
-df_new["openalex_id"] = None
-
-df_new[["doi", "pmid", "openalex_id", "label_included"]].to_csv(
-    f"{key}_ids.csv", index=False
-)
+# Write output
+utils.write_ids_files("Appenzeller-Herzog_2019", df)

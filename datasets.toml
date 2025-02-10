@@ -51,9 +51,6 @@ version=1.0
   [datasets.data]
   doi="10.5281/zenodo.1162952"
 
-  [datasets.scripts]
-  compose="compose.py Hall_2012"
-
 
 [[datasets]]
   # publication doesn't have DOI or OpenAlex reference
@@ -273,9 +270,6 @@ version=1.0
   [datasets.data]
   url="https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
 
-  [datasets.scripts]
-  compose="compose.py Estrogens --name Nelson_2002"
-
 
 [[datasets]]
 
@@ -291,9 +285,6 @@ version=1.0
 
   [datasets.data]
   url="https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
-
-  [datasets.scripts]
-  compose="compose.py SkeletalMuscleRelaxants --name Chou_2004"
 
 
 [[datasets]]
@@ -374,9 +365,6 @@ version=1.0
 
   [datasets.data]
   url="https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
-
-  [datasets.scripts]
-  compose="compose.py Opioids --name Chou_2003"
 
 
 [[datasets]]

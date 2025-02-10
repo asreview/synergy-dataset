@@ -1,29 +1,20 @@
 import pandas as pd
+import sys
 
-key = "Muthu_2021"
+sys.path.append("../../scripts")
+import utils
 
 df = pd.read_csv("https://osf.io/download/v3qjd/", sep="\t", encoding="windows-1252")
 
-# adjust columns
-dois = df["Url"].str.startswith("https://doi.org")
-df.loc[dois, "doi"] = df.loc[dois, "Url"]
-df["Url"] = df["Url"].str.replace(
-    "https://www.ncbi.nlm.nih.gov/pubmed/",
-    "https://pubmed.ncbi.nlm.nih.gov/",
-    regex=False,
+df = utils.extract_doi(df, "Url", "https://doi.org/")
+df = utils.extract_pmid(df, "Url", "https://www.ncbi.nlm.nih.gov/pubmed/")
+df = utils.rename_columns(
+    df,
+    title="Title",
+    year="Publication Year",
+    ft_label="Label",
 )
-pmids = df["Url"].str.startswith("https://pubmed.ncbi.nlm.nih.gov")
-df.loc[pmids, "pmid"] = df.loc[pmids, "Url"]
+df = utils.drop_duplicates(df)
 
-# rename columns
-df.rename({"Label": "label_included", "Title": "title"}, axis=1, inplace=True)
-
-# export
-df.to_csv(f"{key}_raw.csv", index=False)
-
-df_new = df[["pmid", "doi", "label_included"]].copy()
-df_new["openalex_id"] = None
-
-df_new[["pmid", "doi", "openalex_id", "label_included"]].to_csv(
-    f"{key}_ids.csv", index=False
-)
+# Write output
+utils.write_ids_files("Muthu_2021", df)

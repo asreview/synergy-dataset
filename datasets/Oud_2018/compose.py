@@ -1,21 +1,17 @@
-import pandas as pd
 from asreview import ASReviewData
+import sys
 
-key = "Oud_2018"
+sys.path.append("../../scripts")
+import utils
 
 # load RIS into ASReviewData object
-asr_all = ASReviewData.from_file(
+df = ASReviewData.from_file(
     "https://osf.io/download/7shuv/?view_only=f30f6eb898e24a6f8a19734e8b1fc19b"
-)
-df = asr_all.df.rename({"included": "label_included"}, axis=1)
+).df
 
-# adjust columns and drop missing and duplicate ids
-df["doi"] = "https://doi.org/" + df["doi"].str.extract(r"(10.\S+)")
+df = utils.extract_doi(df, "doi", "", "", True)
+df = utils.rename_columns(df, ft_label="included")
+df = utils.drop_duplicates(df)
 
-# save results to file
-df.to_csv(f"{key}_raw.csv", index=False)
-
-df_new = df[["doi", "label_included"]].copy()
-df_new["openalex_id"] = None
-
-df_new[["doi", "openalex_id", "label_included"]].to_csv(f"{key}_ids.csv", index=False)
+# Write output
+utils.write_ids_files("Oud_2018", df)

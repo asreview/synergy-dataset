@@ -1,36 +1,31 @@
 from asreview import ASReviewData
-import pandas as pd
-from pathlib import Path
-import numpy as np
 
-key = "Wijnen_2024"
+import sys
 
-# Data comes from: https://zenodo.org/records/13957522
-search = ASReviewData.from_file("https://zenodo.org/records/13957522/files/Initial%20search%20(outreach%20included).ris").df
-search["label_included"] = 0
-search["label_abstract_included"] = 0
+sys.path.append("../../scripts")
+import utils
 
-ti_ab_exclude = ASReviewData.from_file("https://zenodo.org/records/13957522/files/Excluded%20first%20round.ris").df
-ti_ab = search[~search['primary_title'].isin(ti_ab_exclude['primary_title'])].reset_index(drop=True)
-ti_ab["label_included"] = 0
-ti_ab["label_abstract_included"] = 1
+# Get input data
+search = ASReviewData.from_file(
+    "https://zenodo.org/records/13957522/files/Initial%20search%20(outreach%20included).ris"
+).df
+ti_ab_exclude = ASReviewData.from_file(
+    "https://zenodo.org/records/13957522/files/Excluded%20first%20round.ris"
+).df
+ti_ab = search[
+    ~search["primary_title"].isin(ti_ab_exclude["primary_title"])
+].reset_index(drop=True)
+ft = ASReviewData.from_file(
+    "https://zenodo.org/records/13957522/files/Included%20papers.ris"
+).df
 
-ft = ASReviewData.from_file("https://zenodo.org/records/13957522/files/Included%20papers.ris").df
-ft["label_included"] = 1
-ft["label_abstract_included"] = 1
+df = utils.combine_datafiles(search, ft, ti_ab)
 
-# Merge and clean up files and drop duplicates (based on ID_SET)
-df = pd.concat([ft,ti_ab,search], ignore_index=True)
+# Process data
+df = utils.extract_doi(df, "doi", "", "", True)
+df = utils.extract_year(df, "publication_year")
+df = utils.rename_columns(df, title="primary_title")
+df = utils.drop_duplicates(df)
 
-df["doi"] = "https://doi.org/" + df["doi"].str.extract(r"(10.\S+)")
-df["year"] = df["publication_year"].str.extract(r"(\d+)")
-df["title"] = df["primary_title"]
-
-df.drop_duplicates(subset=["doi","title","year"], inplace=True, ignore_index=True)
-
-# save results to file(s)
-df.to_csv(f"{key}_raw.csv", index=False)
-
-df["openalex_id"] = None
-
-df[["openalex_id", "doi", "label_included", "label_abstract_included"]].to_csv(f"{key}_ids.csv", index=False)
+# Write output
+utils.write_ids_files("Wijnen_2024", df)
