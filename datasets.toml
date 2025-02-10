@@ -681,4 +681,13 @@ version=1.0
   [datasets.data]
   doi="10.17605/OSF.IO/VJQ59"
 
+[[datasets]]
 
+  key="Pinos-Cisneros"
+
+  [datasets.publication]
+  doi="10.2196/44904"
+  eligibility_criteria = "Studies were included if they met the following criteria: (1) It is an academic article that describes a primary study; (2) Children until 18 years old are part of the participant group; (3)The participant group should include or the intervention should be intended for children with Cerebral Palsy (3) Focus is on UL or UE and it includes hand therapy; (4) Focus on fine motor skills, movement of hands; (5) Play, playfulness, game or gamification are used as part of the therapy; (6) Theapy uses new technologies (e.g. PCs, sensors, video games, robots, smart-toys); (7) Published between 2009 and 2019; (8) Paper is written in English; (9) Focus on activities related to therapy
+
+  [datasets.data]
+  doi ="10.2196/44904"
