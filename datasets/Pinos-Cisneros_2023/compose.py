@@ -8,11 +8,7 @@ import utils
 df = pd.read_excel("https://osf.io/dwxeh/download")
 
 # Process data
-df.rename(columns={"Title": "title"}, inplace=True)
-df.rename(columns={"Included": "label_included"}, inplace=True)
-df.rename(columns={"Year": "year"}, inplace=True)
-df["year"] = df["year"].fillna(0).astype(int).astype(str)
-df = df.drop(df.columns[3:12], axis=1)  
+df = utils.rename_columns(df, title="Title", ft_label="Included", year="Year")
 df = utils.drop_duplicates(df)
 
 # Write output
