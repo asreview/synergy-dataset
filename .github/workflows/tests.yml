@@ -1,7 +1,7 @@
 name: Test Dataset.toml tests
 on: [push, pull_request]
 jobs:
-  ruff:
+  toml:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
