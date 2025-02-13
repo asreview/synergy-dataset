@@ -14,6 +14,7 @@ df = utils.rename_columns(
     year="Publication Year",
     ft_label="Label",
 )
+df.sort_values(by=["label_included"], ascending=False, inplace=True)
 df = utils.drop_duplicates(df)
 
 # Write output
