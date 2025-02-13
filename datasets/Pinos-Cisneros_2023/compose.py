@@ -9,6 +9,7 @@ df = pd.read_excel("https://osf.io/dwxeh/download")
 
 # Process data
 df = utils.rename_columns(df, title="Title", ft_label="Included", year="Year")
+df = utils.extract_doi(df, col_in = 'SCOPUS & WoS ()')
 df = utils.drop_duplicates(df)
 
 # Write output
