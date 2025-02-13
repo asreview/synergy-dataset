@@ -1,26 +1,23 @@
 import pandas as pd
+import sys
 
-key = "Sep_2021"
+sys.path.append("../../scripts")
+import utils
 
 df_old = pd.read_csv("https://osf.io/download/j7sfm/", sep=";")
 df_new = pd.read_csv("https://osf.io/download/bz3sj/", sep=";")[
     ["PMID", "final.inclusion.screening"]
 ]
 
-df_old["label_included"] = df_old["inclusie_july2020"].replace({"yes": 1, "no": 0})
-df_new["label_included"] = df_new["final.inclusion.screening"].replace(
-    {"Yes": 1, "No": 0}
-)
+df_old = utils.extract_labels(df_old, "inclusie_july2020", "yes")
+df_new = utils.extract_labels(df_new, "final.inclusion.screening", "Yes")
 
 df = pd.concat(
     [df_old[["PMID", "label_included"]], df_new[["PMID", "label_included"]]], axis=0
 )
-df = df.drop_duplicates()
-df["doi"] = None
-df["pmid"] = "https://pubmed.ncbi.nlm.nih.gov/" + df["PMID"].astype(str)
 
-df["openalex_id"] = None
+df = utils.extract_pmid(df, "PMID")
+df = utils.drop_duplicates(df)
 
-df[["pmid", "doi", "openalex_id", "label_included"]].to_csv(
-    f"{key}_ids.csv", index=False
-)
+# Write output
+utils.write_ids_files("Sep_2021", df)
