@@ -29,6 +29,18 @@ version=1.0
 
 [[datasets]]
 
+  key="Bakker-Jacobs_2021"
+
+  [datasets.publication]
+  doi="10.29011/2688-9501.101268"
+  eligibility_criteria = "Original research written in English or Dutch and published in peer journals in or after 2010 was considered eligible. We chose only to select studies published after 2010 to ensure inclusion of recent and up-to-date scientific nursing outcomes. According to the guidance of the Cochrane Effective Practice and Organization of Care group, studies were included if data could be compared with a control or baseline measure, such as randomised controlled trials, controlled before-and-after studies or interrupted time series methods. In addition, the interventions in the studies had to be of Western origin and had to be focused on wound care performed by a nurse on adult patients (>18 years). Finally, the studies had to be conducted in a hospital or community care setting of an Organisation for Economic Co-operation and Development country. Studies involving interventions aimed at wounds due to labour or breastfeeding as well as papers involving burns or special pressure-relieving mattresses were excluded. Studies concerning Chinese, alternative or non-Western medicine were also excluded."
+
+  [datasets.data]
+  url="https://osf.io/qhk3v/"
+
+
+[[datasets]]
+
   key="Wijnen_2024"
 
   [datasets.publication]
