@@ -20,4 +20,4 @@ df = utils.extract_year(df, "publication_year")
 df = utils.drop_duplicates(df)
 
 # Write output
-utils.write_ids_files("Bakker-Jacobs_2021", df)
+utils.write_ids_files("Bakker-Jacobs_2022", df)
