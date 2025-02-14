@@ -33,9 +33,23 @@ version=1.0
 
   [datasets.publication]
   doi="10.5194/gc-7-91-2024"
+  eligibility_criteria = "Studies were included if they met the following criteria: (1) Original full-text publications in English in a peer-reviewed journal; (2) Participants were adult burn survivors with any level of burn severity treated at a health care facility (both inpatient and outpatient samples were eligible); (3) in the case of mixed-trauma populations, separate statistics for burn survivors needed to be available; (4) a non-selective sampling method was used (e.g., including all consecutive burn survivors at a certain burn facility or after a disaster); (5) PTSD (or PTSD symptomatology) was assessed by a (semi) structured interview based on recognised diagnostic criteria for PTSD or a validated self-report PTSD questionnaire; and (6) sufficient information was provided to calculate prevalence rates and their standard error (i.e., the sample size and the number or percentage of PTSD cases).
+
+Studies of paediatric burns populations were excluded to focus on a homogeneous sample. Studies that reported the combined prevalence of a wider population (e.g., ‘injuries’) and studies with likely epidemiologically selective samples, such as qualitative studies, case reports, randomised controlled trials, effect studies, reviews, studies with sample sizes of fewer than ten participants, or studies including only combat casualties or complex multi-trauma survivors were also excluded. After the quality appraisal and data extraction, one post-hoc exclusion criterium was applied for the meta-analysis: studies that did not measure PTSD prevalence within 3 months around a specified time point following the event leading to the burn or discharge from hospital, and study estimates after 24 months post-burn, were excluded from the meta-analysis (see statistical analyses)."
 
   [datasets.data]
   doi="10.5281/zenodo.13957522"
+
+
+[[datasets]]
+
+  key="Boersma-van_Dam_2024"
+
+  [datasets.publication]
+  doi="https://doi.org/10.1080/17437199.2024.2423725"
+
+  [datasets.data]
+  doi="https://osf.io/wjnbz/"
 
 
 [[datasets]]
