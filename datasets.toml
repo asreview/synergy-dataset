@@ -95,6 +95,19 @@ version=1.0
 
 [[datasets]]
 
+  key="Cozim-Melges_2024"
+
+  [datasets.publication]
+  doi="10.1038/s44185-023-00034-2"
+  eligibility_criteria = "Criteria of inclusion: (I1) English text and; (I2) published and peer-reviewed and; (I3) with discriminated agricultural practices and; (I4) with specific targeted species and; (I5) on a scale ranging from farm to landscape and; (I6) focused on the biodiversity of agroecosystems and; (I7) sampled data from real life scenarios. Criteria of exclusion: (E1) no methods to calculate statistical significance or; (E2) laboratory studies or Greenhouse Studies or; (E3) no explicit methodology and a varying control object (e.g. crops) or targeted species of the study or; (E4) no control group established or relatable to our reference or; (E5) no discrimination between practices impacts on surrogate species."
+
+  [datasets.data]
+  # data is in supplemental material of paper
+  doi="10.1038/s44185-023-00034-2"
+
+
+[[datasets]]
+
   key="Radjenovic_2013"
 
   [datasets.collection]
