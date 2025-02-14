@@ -25,6 +25,16 @@ version=1.0
   url="https://osf.io/tg56j/"
 
 
+  key="Maciel_2024"
+
+  [datasets.publication]
+  doi="10.1080/07481187.2024.2419605"
+  eligibility_criteria = "Studies were included if they (a) reported primary empirical data, (b) were written in English, Portuguese, Spanish or French, (c) had adult participants (mean age > 18 years), (d) reported quantitative assessments of suicidal ideation or suicide attempt, investigated either by dichotomous questions or validated scales, (e) used validated instruments to assess adult attachment styles, either self-report or interview measures, categorical or dimensional. There were no restrictions on study design, setting, or sample characteristics other than age."
+
+  [datasets.data]
+  url="https://osf.io/e4pn9/"
+
+
 [[datasets]]
   # The doi is invalid, but the paper is indexed in OpenAlex
 
@@ -41,6 +51,18 @@ version=1.0
 
 [[datasets]]
 
+  key="Bakker-Jacobs_2022"
+
+  [datasets.publication]
+  doi="10.29011/2688-9501.101268"
+  eligibility_criteria = "Original research written in English or Dutch and published in peer journals in or after 2010 was considered eligible. We chose only to select studies published after 2010 to ensure inclusion of recent and up-to-date scientific nursing outcomes. According to the guidance of the Cochrane Effective Practice and Organization of Care group, studies were included if data could be compared with a control or baseline measure, such as randomised controlled trials, controlled before-and-after studies or interrupted time series methods. In addition, the interventions in the studies had to be of Western origin and had to be focused on wound care performed by a nurse on adult patients (>18 years). Finally, the studies had to be conducted in a hospital or community care setting of an Organisation for Economic Co-operation and Development country. Studies involving interventions aimed at wounds due to labour or breastfeeding as well as papers involving burns or special pressure-relieving mattresses were excluded. Studies concerning Chinese, alternative or non-Western medicine were also excluded."
+
+  [datasets.data]
+  url="https://osf.io/qhk3v/"
+
+
+[[datasets]]
+
   key="Wijnen_2024"
 
   [datasets.publication]
@@ -48,6 +70,18 @@ version=1.0
 
   [datasets.data]
   doi="10.5281/zenodo.13957522"
+
+
+[[datasets]]
+
+  key="Boersma-van_Dam_2024"
+
+  [datasets.publication]
+  doi="https://doi.org/10.1080/17437199.2024.2423725"
+  eligibility_criteria = "Studies were included if they met the following criteria: (1) Original full-text publications in English in a peer-reviewed journal; (2) Participants were adult burn survivors with any level of burn severity treated at a health care facility (both inpatient and outpatient samples were eligible); (3) in the case of mixed-trauma populations, separate statistics for burn survivors needed to be available; (4) a non-selective sampling method was used (e.g., including all consecutive burn survivors at a certain burn facility or after a disaster); (5) PTSD (or PTSD symptomatology) was assessed by a (semi) structured interview based on recognised diagnostic criteria for PTSD or a validated self-report PTSD questionnaire; and (6) sufficient information was provided to calculate prevalence rates and their standard error (i.e., the sample size and the number or percentage of PTSD cases). Studies of paediatric burns populations were excluded to focus on a homogeneous sample. Studies that reported the combined prevalence of a wider population (e.g., ‘injuries’) and studies with likely epidemiologically selective samples, such as qualitative studies, case reports, randomised controlled trials, effect studies, reviews, studies with sample sizes of fewer than ten participants, or studies including only combat casualties or complex multi-trauma survivors were also excluded. After the quality appraisal and data extraction, one post-hoc exclusion criterium was applied for the meta-analysis: studies that did not measure PTSD prevalence within 3 months around a specified time point following the event leading to the burn or discharge from hospital, and study estimates after 24 months post-burn, were excluded from the meta-analysis (see statistical analyses)."
+
+  [datasets.data]
+  doi="https://osf.io/wjnbz/"
 
 
 [[datasets]]
@@ -79,6 +113,19 @@ version=1.0
 
  [datasets.data]
  doi="10.5281/zenodo.1162952"
+
+
+[[datasets]]
+
+  key="Cozim-Melges_2024"
+
+  [datasets.publication]
+  doi="10.1038/s44185-023-00034-2"
+  eligibility_criteria = "Criteria of inclusion: (I1) English text and; (I2) published and peer-reviewed and; (I3) with discriminated agricultural practices and; (I4) with specific targeted species and; (I5) on a scale ranging from farm to landscape and; (I6) focused on the biodiversity of agroecosystems and; (I7) sampled data from real life scenarios. Criteria of exclusion: (E1) no methods to calculate statistical significance or; (E2) laboratory studies or Greenhouse Studies or; (E3) no explicit methodology and a varying control object (e.g. crops) or targeted species of the study or; (E4) no control group established or relatable to our reference or; (E5) no discrimination between practices impacts on surrogate species."
+
+  [datasets.data]
+  # data is in supplemental material of paper
+  doi="10.1038/s44185-023-00034-2"
 
 
 [[datasets]]
