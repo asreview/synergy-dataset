@@ -15,6 +15,18 @@ version=1.0
 
 [[datasets]]
 
+  key="Sanchez-Gomez_2024"
+
+  [datasets.publication]
+  doi="10.3390/bs14040308"
+  eligibility_criteria = "The first filter (abstract level) verified the following criteria: (i) empirical studies; (ii) narrative skills assessed in children or adolescents; (iii) were not case studies; (iv) published between 2010 and 2023; and (v) manuscript written in English or Spanish. Empirical studies included descriptive studies, experiments, quasi-experimental studies, ex post facto designs, and instrumental studies. In a second filter (full text), the selection was limited to those studies in which (i) statistics on the measurements are included and (ii) oral narratives are assessed (e.g., written narratives were excluded). Finally, regarding the target population, all the studies that considered participants who were children or adolescents with ID were include, even if they also included adults, TD participants, or participants with other diagnosis (e.g., studies with participant with autism but without ID were excluded, participants with autism and ID were included). The final criterion applied was the inclusion of participants with ID (third filter)."
+
+  [datasets.data]
+  url="https://osf.io/tg56j/"
+
+
+[[datasets]]
+
   key="Maciel_2024"
 
   [datasets.publication]
