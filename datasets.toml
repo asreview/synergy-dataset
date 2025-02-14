@@ -27,7 +27,6 @@ version=1.0
 
 [[datasets]]
 
-
   key="Maciel_2024"
 
   [datasets.publication]
