@@ -13,4 +13,4 @@ df = utils.extract_doi(df, col_in = 'SCOPUS & WoS ()')
 df = utils.drop_duplicates(df)
 
 # Write output
-utils.write_ids_files("Pinos_Cisneros_2023", df)
+utils.write_ids_files("Pinos-Cisneros_2023", df)
