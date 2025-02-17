@@ -3,6 +3,18 @@ version=1.0
 
 [[datasets]]
 
+  key="Abgaz_2023"
+
+  [datasets.publication]
+  doi="10.1109/tse.2023.3287297"
+  eligibility_criteria="Studies were screened by applying the following exclusion criteria (EC): (EC1) Duplicate Study, (EC2) Books and Patents, (EC3) Non-peer-reviewed Study, (EC4) Secondary Study, (EC5) Study written in languages other than English, and (EC6) Study published before 2015. Note that there is an additional step at the end of the process to protect against oversight of significant pre-2015 published material (details of which are provided at the end of this subsection). Further studies that did not satisfy the inclusion criteria were removed. The three inclusion criteria (IC) are: (IC1) the primary objective of the study should be the decomposition of monolith applications into microservices, (IC2) the study should include structured and preferably automatic or semi-automatic decomposition approaches, and (IC3) the study should sufficiently describe the decomposition method, code, algorithm, and its evaluation (i.e., abstracts and extended abstracts are not included)."
+  
+  [datasets.data]
+  doi="10.5281/zenodo.7899996"
+
+
+[[datasets]]
+
   key="van_Ballegooijen_2024"
 
   [datasets.publication]
