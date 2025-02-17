@@ -3,6 +3,18 @@ version=1.0
 
 [[datasets]]
 
+  key="Hanlon_2022"
+
+  [datasets.publication]
+  doi="10.12688/wellcomeopenres.17208.2"
+  eligibility_criteria="Criteria for inclusion, defined according to PECOS (Population, Exposure, Comparator, Outcome, Setting and Study design)14, including outcomes of interest are detailed in Table 1. Criteria were deliberately broad in terms of setting, frailty definition, and outcomes. Briefly, studies must include adults (≥18 years) with rheumatoid arthritis and assess frailty, although we expect studies may mainly involve ‘older’ populations. Studies were considered regardless of frailty measure, to allow comparison between different methods of identifying frailty. These could include validated measures of frailty (e.g. frailty phenotype or frailty index), adaptations of these measures where the adaptation was described, or unvalidated measures intended to capture frailty as long as the criteria used to define frailty within the study were fully described. We did not exclude studies on the basis of the criteria used to define rheumatoid arthritis (i.e. validated criteria, physician diagnosis, medical record/clinical codes or self-reported definitions were all eligible for inclusion). We included studies in any setting (community, outpatient, or inpatient). Observational studies with cross-sectional or cohort designs were eligible for inclusion. Experimental studies were excluded. When examining the association between frailty and clinical outcomes in those with rheumatoid arthritis, studies were expected to report the association between frailty and the outcome of interest. As in previous reviews of frailty15,16, considered studies that describe this either as the association with the presence or absence of frailty or the association between the degree of frailty and the outcome."
+  
+  [datasets.data]
+  doi="10.5281/zenodo.6966157"
+
+
+[[datasets]]
+
   key="Abgaz_2023"
 
   [datasets.publication]
