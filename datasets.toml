@@ -125,23 +125,6 @@ version=1.0
 
 
 [[datasets]]
-  # publication doesn't have DOI or OpenAlex reference
-
- key="Wahono_2015"
- active=false
- note="The publication doesn't have a record in the OpenAlex database."
-
-  [datasets.collection]
-  doi="10.1007/s10664-017-9587-0"
-
- [datasets.publication]
-  url="http://journal.ilmukomputer.org/index.php?journal=jse&page=article&op=view&path%5B%5D=47"
-
- [datasets.data]
- doi="10.5281/zenodo.1162952"
-
-
-[[datasets]]
 
   key="Cozim-Melges_2024"
 
@@ -252,21 +235,6 @@ version=1.0
 
 [[datasets]]
 
-  # original study https://doi.org/10.1002/ebm2.24
-
-  key="Bannach-Brown_2019"
-  active=false
-  note="Make for machine learning purposes"
-
-  [datasets.publication]
-  doi="10.1186/s13643-019-0942-7"
-
-  [datasets.data]
-  doi="10.5281/zenodo.151190"
-
-
-[[datasets]]
-
   key="Bos_2018"
 
   [datasets.publication]
@@ -274,70 +242,6 @@ version=1.0
 
   [datasets.data]
   url="https://osf.io/w3kbq/"
-
-
-[[datasets]]
-
-  key="Cohen_2006_ACEInhibitors"
-  active=false
-  note="Original publication not found"
-
-  [datasets.collection]
-  doi="10.1197/jamia.M1929"
-
-  [datasets.data]
-  url="https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
-
-  [datasets.scripts]
-  compose="compose.py ACEInhibitors"
-
-
-[[datasets]]
-
-  key="Cohen_2006_CalciumChannelBlockers"
-  active=false
-  note="Original publication not found"
-
-  [datasets.collection]
-  doi="10.1197/jamia.M1929"
-
-  [datasets.data]
-  url="https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
-
-  [datasets.scripts]
-  compose="compose.py CalciumChannelBlockers"
-
-
-[[datasets]]
-
-  key="Cohen_2006_ProtonPumpInhibitors"
-  active=false
-  note="Original publication not found"
-
-  [datasets.collection]
-  doi="10.1197/jamia.M1929"
-
-  [datasets.data]
-  url="https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
-
-  [datasets.scripts]
-  compose="compose.py ProtonPumpInhibitors"
-
-
-[[datasets]]
-
-  key="Cohen_2006_ADHD"
-  active=false
-  note="Original publication not found"
-
-  [datasets.collection]
-  doi="10.1197/jamia.M1929"
-
-  [datasets.data]
-  url="https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
-
-  [datasets.scripts]
-  compose="compose.py ADHD"
 
 
 [[datasets]]
@@ -360,86 +264,6 @@ version=1.0
 
   # Part of Cohen et al. 2006 https://doi.org/10.1197/jamia.M1929
 
-  key="Chou_2004"
-
-  [datasets.publication]
-  doi="10.1016/j.jpainsymman.2004.05.002"
-
-  [datasets.collection]
-  doi="10.1197/jamia.M1929"
-
-  [datasets.data]
-  url="https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
-
-
-[[datasets]]
-
-  key="Cohen_2006_Antihistamines"
-  active=false
-  note="Original publication not found"
-
-  [datasets.collection]
-  doi="10.1197/jamia.M1929"
-
-  [datasets.data]
-  url="https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
-
-  [datasets.scripts]
-  compose="compose.py Antihistamines"
-
-
-[[datasets]]
-
-  key="Cohen_2006_NSAIDS"
-  active=false
-  note="Original publication not found"
-
-  [datasets.collection]
-  doi="10.1197/jamia.M1929"
-
-  [datasets.data]
-  url="https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
-
-  [datasets.scripts]
-  compose="compose.py NSAIDS"
-
-
-[[datasets]]
-
-  key="Cohen_2006_Statins"
-  active=false
-  note="Original publication not found"
-
-  [datasets.collection]
-  doi="10.1197/jamia.M1929"
-
-  [datasets.data]
-  url="https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
-
-  [datasets.scripts]
-  compose="compose.py Statins"
-
-
-[[datasets]]
-
-  key="Cohen_2006_AtypicalAntipsychotics"
-  active=false
-  note="Original publication not found"
-
-  [datasets.collection]
-  doi="10.1197/jamia.M1929"
-
-  [datasets.data]
-  url="https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
-
-  [datasets.scripts]
-  compose="compose.py AtypicalAntipsychotics"
-
-
-[[datasets]]
-
-  # Part of Cohen et al. 2006 https://doi.org/10.1197/jamia.M1929
-
   key="Chou_2003"
 
   [datasets.publication]
@@ -450,83 +274,6 @@ version=1.0
 
   [datasets.data]
   url="https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
-
-
-[[datasets]]
-
-  key="Cohen_2006_Triptans"
-  active=false
-  note="Original publication not found"
-
-  [datasets.collection]
-  doi="10.1197/jamia.M1929"
-
-  [datasets.data]
-  url="https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
-
-  [datasets.scripts]
-  compose="compose.py Triptans"
-
-
-[[datasets]]
-
-  key="Cohen_2006_BetaBlockers"
-  active=false
-  note="Original publication not found"
-
-  [datasets.collection]
-  doi="10.1197/jamia.M1929"
-
-  [datasets.data]
-  url="https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
-
-  [datasets.scripts]
-  compose="compose.py BetaBlockers"
-
-
-[[datasets]]
-
-  key="Cohen_2006_OralHypoglycemics"
-  active=false
-  note="Original publication not found"
-
-  [datasets.collection]
-  doi="10.1197/jamia.M1929"
-
-  [datasets.data]
-  url="https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
-
-  [datasets.scripts]
-  compose="compose.py OralHypoglycemics"
-
-
-[[datasets]]
-
-  key="Cohen_2006_UrinaryIncontinence"
-  active=false
-  note="Original publication not found"
-
-  [datasets.collection]
-  doi="10.1197/jamia.M1929"
-
-  [datasets.data]
-  url="https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
-
-  [datasets.scripts]
-  compose="compose.py UrinaryIncontinence"
-
-
-[[datasets]]
-
-  key="Nagtegaal_2019"
-  active=false
-  note="Dataset technically corrupted."
-
-  [datasets.publication]
-  doi="10.30636/jbpa.22.71"
-
-  [datasets.data]
-  doi="10.7910/DVN/WMGPGZ/HY6N2S"
 
 
 [[datasets]]
@@ -578,19 +325,6 @@ version=1.0
 
 [[datasets]]
 
-  key="Welling_2021"
-  active=false
-  note="Systematic review only for introduction."
-
-  [datasets.publication]
-  doi="10.1159/000520718"
-
-  [datasets.data]
-  doi="10.17605/OSF.IO/E5JNB"
-
-
-[[datasets]]
-
   key="Menon_2022"
 
   [datasets.publication]
@@ -624,19 +358,6 @@ version=1.0
 
 [[datasets]]
 
-  key="Muthu_2022"
-  active=false
-  note="Review scores"
-
-  [datasets.publication]
-  doi="http://doi.org/10.13105/wjma.v10.i3.162"
-
-  [datasets.data]
-  url="https://osf.io/e2yz3/"
-
-
-[[datasets]]
-
   key="Jeyaraman_2020"
 
   [datasets.publication]
@@ -659,19 +380,6 @@ version=1.0
 
 [[datasets]]
 
-  key="Kwok_2020"
-  active=false
-  note="License issue"
-
-  [datasets.publication]
-  doi="10.3390/v12010107"
-
-  [datasets.data]
-  doi="10.17605/OSF.IO/5S27M"
-
-
-[[datasets]]
-
   key="Oud_2018"
 
   [datasets.publication]
@@ -687,22 +395,6 @@ version=1.0
 
   [datasets.publication]
   doi="10.1289/ehp1233"
-
-  [datasets.data]
-  doi="10.1186/s13643-016-0263-z"
-
-
-[[datasets]]
-
-  key="Rooney_2015"
-  active=false
-  note="Book chapter, not peer reviewed."
-
-  [datasets.collection]
-  doi="10.1186/s13643-016-0263-z"
-
-  [datasets.publication]
-  doi="10.1007/978-3-319-15518-0_16"
 
   [datasets.data]
   doi="10.1186/s13643-016-0263-z"
