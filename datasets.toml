@@ -152,22 +152,6 @@ version=1.0
 
 
 [[datasets]]
-
-  key="Kitchenham_2010"
-  active=false
-  note="(IEEE) URLs in the dataset don't match the original records. Reliability concern."
-
-  [datasets.collection]
-  doi="10.1007/s10664-017-9587-0"
-
-  [datasets.publication]
-  doi="10.1016/j.infsof.2010.03.006"
-
-  [datasets.data]
-  doi="10.5281/zenodo.1162952"
-
-
-[[datasets]]
   # Processes 1 dataset (https://osf.io/tnxju/)
 
   key="Donners_2021"
