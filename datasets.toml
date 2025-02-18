@@ -264,6 +264,22 @@ version=1.0
 
   # Part of Cohen et al. 2006 https://doi.org/10.1197/jamia.M1929
 
+  key="Chou_2004"
+
+  [datasets.publication]
+  doi="10.1016/j.jpainsymman.2004.05.002"
+
+  [datasets.collection]
+  doi="10.1197/jamia.M1929"
+
+  [datasets.data]
+  url="https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
+
+
+[[datasets]]
+
+  # Part of Cohen et al. 2006 https://doi.org/10.1197/jamia.M1929
+
   key="Chou_2003"
 
   [datasets.publication]
