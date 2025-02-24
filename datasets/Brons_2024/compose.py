@@ -5,8 +5,7 @@ sys.path.append("../../scripts")
 import utils
 
 # Load the data
-# df = pd.read_excel("https://osf.io/9am46/download")
-df = pd.read_excel("data/Data ASReview.xlsx")
+df = pd.read_excel("https://osf.io/9am46/download")
 
 # Process data
 df.rename(columns={"Title": "title"}, inplace=True)
