@@ -381,6 +381,18 @@ eligibility_criteria = "We included RCTs on four specialized psychotherapies (DB
 
 [[datasets]]
 
+  key="Pijls_2017"
+
+  [datasets.publication]
+  doi="10.1177/0284185117719575"
+  eligibility_criteria="All bibliographic records identified through the electronic searches were collected in an electronic reference database and subjected to the following inclusion criteria: (i) patient report or patient series of patients diagnosed with Ribbing disease/multiple diaphyseal sclerosis; and (ii) clinical data on diagnosis and/or treatment."
+  
+  [datasets.data]
+  url="https://osf.io/krngx"
+
+
+[[datasets]]
+
   key="Pinos-Cisneros_2023"
 
   [datasets.publication]
