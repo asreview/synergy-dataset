@@ -397,13 +397,7 @@ eligibility_criteria = "We included RCTs on four specialized psychotherapies (DB
 
   [datasets.publication]
   doi="10.1080/17453674.2018.1443635"
-  eligibility_criteria="The inclusion criteria
-were: (1) primary TKR, and (2) MTPM. MTPM is the unit
-of measurement for the largest 3D migration of any point on
-the prosthesis surface (Ryd et al. 1995). Migration pattern was
-defi ned as at least 2 postoperative follow-up moments within
-the fi rst 2 years of follow-up.
-Non-clinical studies (animal, phantom) were excluded"
+  eligibility_criteria="The inclusion criteria were: (1) primary TKR, and (2) MTPM. MTPM is the unit of measurement for the largest 3D migration of any point on the prosthesis surface (Ryd et al. 1995). Migration pattern was defined as at least 2 postoperative follow-up moments within the first 2 years of follow-up. Non-clinical studies (animal, phantom) were excluded"
   
   [datasets.data]
   url="https://osf.io/krngx"
