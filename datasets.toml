@@ -197,6 +197,21 @@ eligibility_criteria = "The following inclusion criteria were applied: emicizuma
 
 
 [[datasets]]
+
+  key="Endedijk_2021"
+
+  [datasets.collection]
+  doi="10.1007/s10648-024-09862-5"
+
+  [datasets.publication]
+  doi="10.3102/00346543211051428"
+  eligibility_criteria="There were five inclusion criteria. First, the study had to be an empirical study; second, the sample had to be drawn from preschool, primary, or (middle or) secondary education (ages 3–18 years); third, the study had to report measures of affective aspects of both the teacher–student relationship or interactions and peer relationships; fourth, analyses had to be performed at the level of the individual student, such that individual scores were included for each participant on both teacher–student relationships and peer relationships; and fifth, peer relationships had to be assessed in terms of relationships with classmates."
+  
+  [datasets.data]
+  doi="10.17605/OSF.IO/UYB7X"
+
+
+[[datasets]]
   # The doi is invalid, but the paper is indexed in OpenAlex
 
   key="Giesen_2021"
