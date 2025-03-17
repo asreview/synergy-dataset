@@ -405,6 +405,33 @@ All relevant English-language studies were identified"""
 
 [[datasets]]
 
+  key="Noetel_2021"
+
+  [datasets.collection]
+  doi="10.1007/s10648-024-09862-5"
+
+  [datasets.publication]
+  doi="10.3102/00346543211052329"
+  eligibility_criteria="""1. 
+Design: We included systematic reviews, meta-analyses, or similar reviews characterized by Grant and Booth (2009), which includes rapid reviews, scoping reviews, state-of-the-art reviews, systematic searches with review, systematized reviews, mapping reviews, or systematic maps. All these methods have focused research questions and reproducible methods for sourcing and evaluating research, so are less likely to be subject to biases like selective reporting. For these reasons, we excluded non–systematic reviews, primary studies, theory papers, or narrative reviews (e.g., Sweller, 2010).
+2.  
+Interventions: We included any modification to a multimedia intervention designed to influence learning or cognitive load. We excluded reviews only comparing the effects of multimedia against other instructional technologies (e.g., multimedia vs. nothing, multimedia vs. tutoring; e.g., Baker et al., 2018; Noetel et al., 2021).
+3.  
+Comparisons: We included reviews that compared multimedia with and without a multimedia design feature (e.g., with and without signaling). To be eligible, the participants did not need to be randomized in all primary studies (e.g., we included reviews that contained pre-post or quasi-experimental primary studies).
+4.  
+Outcome: We only included reviews that reported learning, achievement, or cognitive load. We excluded reviews that only reported effects on other outcomes (e.g., health; Hirschey et al., 2020; or enjoyment), but extracted all outcomes from reviews that met criteria.
+5.  
+Participants/context: Reviews on any participants were eligible for inclusion. Similarly, reviews on learning in any context (e.g., schools, universities, adult learning, public health) were eligible for inclusion; as presented below, results were moderated by the context in which they were observed (where reported).
+6.  
+Finally, reviews published in any language were eligible, but searches were limited to post-1989 when systematic forms of review were introduced (Smith et al., 2011).
+"""
+  
+  [datasets.data]
+  doi="10.17605/OSF.IO/UYB7X"
+
+
+[[datasets]]
+
   key="Oud_2018"
 
   [datasets.publication]
