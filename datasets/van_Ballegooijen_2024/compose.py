@@ -7,12 +7,12 @@ sys.path.append("../../scripts")
 import utils
 
 # Get input files
-utils.unzip("https://surfdrive.surf.nl/files/index.php/s/UcfIYP3K612w0oA/download")
-
 search_1 = ASReviewData.from_file(
-    "ASReview/search results/My EndNote Library_vanBallegooijen_20210409.txt"
+    "https://zenodo.org/records/15063583/files/My%20EndNote%20Library_vanBallegooijen_20210409.txt?download=1"
 ).df
-search_2 = pd.read_csv("ASReview/search results/update 2024 search results.csv")
+search_2 = pd.read_csv(
+    "https://zenodo.org/records/15063583/files/update%202024%20search%20results.csv?download=1"
+)
 col_names = [
     "type",
     "authors",
@@ -30,14 +30,18 @@ col_names = [
     "abstract",
 ]
 search_3 = pd.read_excel(
-    "ASReview/search results/vanBallegooijen_20220506_databaseSuicidepreventie.xlsx",
+    "https://zenodo.org/records/15063583/files/vanBallegooijen_20220506_databaseSuicidepreventie.xlsx?download=1",
     header=None,
     names=col_names,
 )
 search = pd.concat([search_1, search_2, search_3])
 
-ft_exclusions = pd.read_csv("ASReview/review_63783_excluded_csv_20241003192320.csv")
-ft = pd.read_csv("ASReview/full_text_inclusions.csv")
+ft_exclusions = pd.read_csv(
+    "https://zenodo.org/records/15063583/files/review_63783_excluded_csv_20241003192320.csv?download=1"
+)
+ft = pd.read_csv(
+    "https://zenodo.org/records/15063583/files/full_text_inclusions.csv?download=1"
+)
 ti_ab = pd.concat([ft, ft_exclusions])
 
 df = utils.combine_datafiles(search, ft, ti_ab)
