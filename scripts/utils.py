@@ -9,7 +9,7 @@ import os
 import urllib.parse
 
 # All ID's we use to search in OpenAlex
-ID_SET = {"doi", "pmid", "title", "year"}
+ID_SET = {"openalex_id","doi", "pmid", "title", "year"}
 
 # The set of columns we want to see in the output of the compose file
 OUTPUT_ID_SET = [
