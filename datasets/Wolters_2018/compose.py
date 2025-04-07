@@ -9,6 +9,12 @@ ft = ASReviewData.from_file("https://osf.io/hy8qe/download").df
 search = ASReviewData.from_file("https://osf.io/a26sz/download").df
 
 df = utils.combine_datafiles(search, ft)
+
+df["urls"] = df["urls"].astype("string")
+df["urls"] = df["urls"].mask(
+    df["urls"].notnull(), df["urls"].str.split("', '").str.join(";")
+)
+
 df = utils.extract_doi(df, "doi", "", "", True)
 df = utils.extract_doi(df, "urls", "", "'")
 df = utils.extract_pmid(df, "accession_number", "", False, True)
