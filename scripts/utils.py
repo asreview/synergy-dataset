@@ -120,6 +120,9 @@ def extract_doi(
 ):
     """Extracts doi with regex taking into account pre and post. Stores it in doi column with doi.org prefix."""
 
+    # Sometimes the column is a list, we need it to be a string
+    df[col_in] = df[col_in].astype("string")
+
     regex = rf"{pre}(10\.[^{post}]*)" if post else rf"{pre}(10\.\S+)"
     url_prefix = "https://doi.org/"
 
