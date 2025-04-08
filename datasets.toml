@@ -212,6 +212,21 @@ eligibility_criteria = "The following inclusion criteria were applied: emicizuma
 
 
 [[datasets]]
+
+  key="Fong_2021"
+
+  [datasets.collection]
+  doi="10.1007/s10648-024-09862-5"
+
+  [datasets.publication]
+  doi="10.1016/j.edurev.2021.100407"
+  eligibility_criteria="Once potentially relevant studies were identified, titles and abstracts were evaluated using the following inclusion criteria: (1) use of LASSI, (2) an achievement outcome (GPA, grade, achievement test, persistence), and (3) an effect size measure. There was no restriction on language of publication; we included studies written in any language."
+  
+  [datasets.data]
+  doi="10.17605/OSF.IO/UYB7X"
+
+
+[[datasets]]
   # The doi is invalid, but the paper is indexed in OpenAlex
 
   key="Giesen_2021"
