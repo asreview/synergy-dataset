@@ -581,6 +581,32 @@ meta-analysis and item response theory were excluded.
 
 [[datasets]]
 
+  key="Taschner_2023"
+
+  [datasets.collection]
+  doi="10.1007/s10648-024-09862-5"
+
+  [datasets.publication]
+  doi="10.3102/00346543231221499"
+  eligibility_criteria="""1) The study is an empirical primary study that implemented some form of intervention (e.g., internship, classroom management training, coaching). Purely longitudinal studies were excluded.
+2) Sample characteristics:
+a. The sample consists mainly of pre-service teachers, teacher students, or in-service teachers for elementary, middle, high, or vocational schools. Studies with samples consisting mainly of teachers for pre-school, higher education, or special education were excluded.
+b. The sample size is at least 10 persons.
+3) Teacher self-efficacy is the outcome variable.
+4) The measure of teacher self-efficacy:
+a. Studies used the TSES from Tschannen-Moran and Woolfolk Hoy (2001) to measure teacher self-efficacy
+b. Studies with scales with at least one subscale comparable to the three subscales of the TSES were also included. In this case, all items of the scale used for measuring teacher self-efficacy must be available.
+5) The study provides a pre- and post-measure of teacher self-efficacy.
+6) The study provides sufficient quantitative data to calculate the standardized mean change, that is, M, SD, n for pre- and post-test (mixed-methods studies are included).
+7) The study is written in English or German.
+8) The study is available in full text."""
+  
+  [datasets.data]
+  doi="10.17605/OSF.IO/UYB7X"
+
+
+[[datasets]]
+
   key="van_Ballegooijen_2024"
 
   [datasets.publication]
