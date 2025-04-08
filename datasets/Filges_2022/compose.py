@@ -5,8 +5,7 @@ sys.path.append("../../scripts")
 import utils
 
 # get search
-# search = pd.read_csv("https://osf.io/mjygr/download")
-search = pd.read_csv("data/06_Filges et al. (2022).csv")
+search = pd.read_csv("https://osf.io/mjygr/download")
 search.rename(columns={"label_included": "label_abstract_included"}, inplace=True)
 search = utils.extract_doi(search, "DOI")
 search["url"] = search["url"].astype(str)
