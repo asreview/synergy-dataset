@@ -717,3 +717,18 @@ To provide more insight into the association of CHDandCHFwithdementiaindependent
   [datasets.data]
   url="https://osf.io/sxzjg/"
 
+
+[[datasets]]
+
+  key="Zinsser_2022"
+
+  [datasets.collection]
+  doi="10.1007/s10648-024-09862-5"
+
+  [datasets.publication]
+  doi="10.3102/00346543211070047"
+  eligibility_criteria="To address our specified research questions, studies were screened to ensure they met our inclusion criteria. Specifically, studies were included if they (1) included a sample of either children under the age of 6 living in the United States or early childhood care and education programs located in the United States; (2) included a measure of exclusion (e.g., suspension, early pick-ups, or expulsion) or exclusion risk (e.g., teachers’ requests of expulsion or perceived expulsion risk); and (3) were published in English in a peer-reviewed academic journal."
+  
+  [datasets.data]
+  doi="10.17605/OSF.IO/UYB7X"
+
