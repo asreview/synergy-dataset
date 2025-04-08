@@ -581,6 +581,25 @@ meta-analysis and item response theory were excluded.
 
 [[datasets]]
 
+  key="Theobald_2021"
+
+  [datasets.collection]
+  doi="10.1007/s10648-024-09862-5"
+
+  [datasets.publication]
+  doi="10.1016/j.cedpsych.2021.101976"
+  eligibility_criteria="""First, training programs had to target SRL and had to include direct strategy instruction; training programs encompassed a direct strategy instruction of cognitive, metacognitive, or resource management strategies. Studies without explicit strategy instruction that supported SRL processes indirectly (e.g., by providing prompts without direct strategy instruction) or through instructional practices (e.g., by implementing cooperative learning arrangements) were excluded. These indirect interventions did not inform students about SRL strategies or how to apply SRL strategies. As this meta-analysis aimed to test the effectiveness of informed SRL trainings, this restriction served to enhance the comparability across training studies. Further, only extended SRL training programs (conducted in real classrooms) were included to distinguish between training programs and one-time experiments.
+Moreover, training programs had to target university students (on campus or distance education). Training studies that tested school children, workers, trainees, or students suffering from learning disabilities were excluded.
+Studies had to report sufficient information to compute effect sizes (N, M, SD). If information on means and standard deviations was not available, effect sizes were computed based on the respective F-values of the interaction term of group (control vs. training) and time (pre vs. post training).
+Only studies using experimental or quasi-experimental pre-post control group designs were included. This was done to assure a comparable methodological standard and to reduce the problem of garbage in garbage out. If pretest means were not reported, studies were only included if they had tested that there were no significant differences between groups before starting the training. Moreover, samples had to include at least ten participants per group to assure that effect sizes were approximately normally distributed (Hedges & Olkin, 1985).
+Finally, studies had to report at least one of five outcome measures: students’ academic performance, cognitive strategies, metacognitive strategies, resource management strategies, or motivational outcomes."""
+  
+  [datasets.data]
+  doi="10.17605/OSF.IO/UYB7X"
+
+
+[[datasets]]
+
   key="van_Ballegooijen_2024"
 
   [datasets.publication]
