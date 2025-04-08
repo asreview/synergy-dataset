@@ -726,6 +726,45 @@ To provide more insight into the association of CHDandCHFwithdementiaindependent
 
 [[datasets]]
 
+  key="Xu_2022"
+
+  [datasets.collection]
+  doi="10.1007/s10648-024-09862-5"
+
+  [datasets.publication]
+  doi="10.1016/j.edurev.2022.100474"
+  eligibility_criteria="""2.2. Inclusion criteria
+a.
+The participants in the study were diploma-seeking undergraduate and/or graduate international students enrolled in non-domestic international higher education;
+b.
+The study investigated students' needs, expectations, motivations, satisfaction and/or experiences related to international higher education;
+c.
+The study focused on students' perspectives on international higher education;
+d.
+The research outcomes could be used by host institutions to improve their international higher education to optimally meet students' needs and expectations.
+2.3. Exclusion criteria
+a.
+The participants of the study were not diploma-seeking undergraduate and/or graduate international students studying abroad, students from outside the field of higher education, but, for instance, PhD students, vocational students, short-term exchange students, or domestic international students (i.e. students participating in an international study in their home countries);
+b.
+The study did not include any empirical investigation among students;
+c.
+The study went beyond the local, host institutional level to investigate students' expectations of international higher education and focused, for example, on the national or global level;
+d.
+The study did not focus on students' perspectives on international higher education;
+e.
+The study did not address international higher education;
+f.
+Internationalization was only a minor aspect of the study;
+g.
+The study focused only on a specific aspect of internationalization, such as internationalization of the curriculum or distance learning;
+h.
+The study was published as an abstract (paper or poster abstract), a dissertation abstracts, an editorial, a letter, a book review, a literature review or a paper or abstract in proceedings of a conference."""
+  
+  [datasets.data]
+  doi="10.17605/OSF.IO/UYB7X"
+
+[[datasets]]
+
   key="Zinsser_2022"
 
   [datasets.collection]
