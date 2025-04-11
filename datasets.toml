@@ -538,6 +538,21 @@ Exclusion criteria:
 
 [[datasets]]
 
+  key="Ruggeri_2019"
+
+  [datasets.collection]
+  doi="https://doi.org/10.1017/rsm.2024.16"
+
+  [datasets.publication]
+  doi="10.1177/1362361319885215"
+  eligibility_criteria="Studies were included based on the following criteria: (1) group study designs included cohort studies and clinical trials; (2) participants included were children with ASD from birth to 21 years, and if other diagnoses were included, the results of participants with ASD were statistically analyzed separately; (3) all types of motor and physical activity interventions; (4) motor outcome of body structure and function, activity, or societal participation was measured using an objective outcome measure and statistically analyzed; (5) published in English; and (6) the study investigated either (a) the effects of a motor intervention on a motor outcome or (b) the effects of a motor learning variable on motor skill acquisition, transfer, and/or retention. Studies were excluded based on the following criteria: abstracts, conference proceedings, and dissertations. In addition, we did not include studies published before 2000, in order to focus on current research that used contemporary methods to diagnose ASD, such as the Autism Diagnosis Observation Schedule (ADOS), Diagnostic and Statistical Manual of Mental Disorders-IV (DSM-IV), or Diagnostic and Statistical Manual of Mental Disorders-V (DSM-V)."
+  
+  [datasets.data]
+  doi="10.25340/R4/VB85L1"
+
+
+[[datasets]]
+
   key="Sanchez-Gomez_2024"
 
   [datasets.publication]
