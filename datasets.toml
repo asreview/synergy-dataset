@@ -581,6 +581,21 @@ meta-analysis and item response theory were excluded.
 
 [[datasets]]
 
+  key="Toffalini_2021"
+
+  [datasets.collection]
+  doi="https://doi.org/10.1017/rsm.2024.16"
+
+  [datasets.publication]
+  doi="10.3758/s13428-021-01549-x"
+  eligibility_criteria="We considered any study reporting quantitative data concerning treatment efficacy on individuals with dyslexia/reading disorder. The following criteria had to be met for inclusion: (a) the treatment approach can be of any type, but it must aim to improve reading performance as its ultimate goal; (b) the manuscript must be written in English or any other language understood by one of the authors (including Spanish, French, Italian, Portuguese, and Hungarian); (c) participants must either be clinically diagnosed with developmental dyslexia (or reading disability or reading disorder) or having a profile compatible with a reading disorder as reported by the authors; in the latter case, participants must have reading performance either below the 25th percentile or one standard deviation below the population mean as assessed using standardized tests in their mother tongue; (d) participants must be described as having normal intelligence or an IQ not below 70 (if reported); (e) any comorbidity or co-occurring condition is acceptable, but they must be compatible with dyslexia status (e.g., deafness, neurological conditions, intellectual disability in one or more participants, or low socioeconomic status as a predominant condition of the entire sample, are exclusion criteria); (f) the study must include at least one control group comprising individuals with dyslexia, who must either be untreated, waiting list, or active control (e.g., a placebo condition; no comparisons between alternative/competing treatments were considered); (g) group allocation must be randomized; however, studies which did not explicitly mention whether the allocation was randomized were still included and labelled as “unclear”; the analyses were later performed both with and without these studies; (h) participants’ reading ability must be assessed at least twice, including before (pre-test score) and after treatment (post-test score)."
+  
+  [datasets.data]
+  doi="10.25340/R4/VB85L1"
+
+
+[[datasets]]
+
   key="van_Ballegooijen_2024"
 
   [datasets.publication]
