@@ -681,6 +681,21 @@ The following additional criteria were also used for exclusion:
 
 [[datasets]]
 
+  key="Ward_2020"
+
+  [datasets.collection]
+  doi="https://doi.org/10.1017/rsm.2024.16"
+
+  [datasets.publication]
+  doi="10.1177/1087054720972801"
+  eligibility_criteria="Inclusion and exclusion criteria were determined to address the research questions (see Table 2). Teacher training interventions that were primarily or solely comprised of psychoeducation and/ or behavioral strategies to address ADHD specifically were the focus of this review and meta-analysis, and interventions where ADHD formed a minor part of the content, or more broadly focused interventions for problem behaviors, were excluded. If the study sample included a mixture of teachers from both mainstream and special education settings, the study was only included if it was possible to obtain and extract the data for mainstream teachers only."
+  
+  [datasets.data]
+  doi="10.25340/R4/VB85L1"
+
+
+[[datasets]]
+
   key="Wassenaar_2017"
 
   [datasets.publication]
