@@ -447,6 +447,21 @@ Finally, reviews published in any language were eligible, but searches were limi
 
 [[datasets]]
 
+  key="Oliveira_2021"
+
+  [datasets.collection]
+  doi="10.1017/rsm.2024.16"
+
+  [datasets.publication]
+  doi="10.3389/fpsyg.2021.677217"
+  eligibility_criteria="In order to address our research questions with quality and consistency, the studies were required to present an empirical study (with quasi-experimental or experimental designs) on the efficacy of a SEL intervention for in-service preK-12 teachers in their personal and / or occupational outcomes. Thus, papers targeting university and / or pre-service teachers and those that did not access impacts on teacher-level variables were excluded. For the meta-analysis procedures to be possible, studies were only considered when sufficient information was reported to calculate the effect sizes of the interventions' impacts. Additionally, studies were included whenever the full-text version was available and published in Psychology or Educational peer-reviewed journals, after 1995, thus excluding papers published in non-peer reviewed journals and gray literature. No language constraints were applied."
+  
+  [datasets.data]
+  doi="10.25340/R4/VB85L1"
+
+
+[[datasets]]
+
   key="Oud_2018"
 
   [datasets.publication]
