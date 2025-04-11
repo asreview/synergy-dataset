@@ -59,4 +59,4 @@ df = utils.combine_datafiles(search, ft)
 df = utils.drop_duplicates(df)
 
 # Write output
-utils.write_ids_files("van_Hoorn", df)
+utils.write_ids_files("van_Hoorn_2020", df)
