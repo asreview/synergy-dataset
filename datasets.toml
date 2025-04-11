@@ -650,6 +650,21 @@ English language articles only"""
 
 [[datasets]]
 
+  key="van_Hoorn_2020"
+
+  [datasets.collection]
+  doi="https://doi.org/10.1017/rsm.2024.16"
+
+  [datasets.publication]
+  doi="10.1111/dmcn.14781"
+  eligibility_criteria="In order to be included in the review, studies had to fulfil the following criteria: (1) they had to address children with DCD: children who met the diagnostic criteria for DCD according to the Diagnostic and Statistical Manual of Mental Disorders (DSM), Fourth or Fifth Editions, or children with motor impairment as assessed with a standardized motor test (e.g. Movement Assessment Battery for Children [MABC] score below the 16th centile as a cut-off) or another appropriate, valid, reliable, and standardized motor test (appropriately norm-referenced). Also, articles in which children with probable DCD were identified by means of questionnaires like the DCD Questionnaire were included; (2) the participants’ mean age had to be between 5 and 13 years; (3) studies addressed associations between DCD (or motor impairment) and early life factors (i.e. pregnancy-related factors, birth factors, child factors, or sociodemographic determinants). Early life factors were defined as factors occurring in the period ranging from pregnancy until 3 months post-term, since the latter age is characterized by a major neurodevelopmental transition.16 We excluded studies that: (1) included fewer than 10 participants; (2) were reviews or case-reports; and (3) specifically addressed the effect of drugs (e.g. caffeine) or nutritional supplements (e.g. vitamin D and vitamin A). The application of the DSM-5 criteria for inclusion also implied that studies that included children with a neurological disorder such as cerebral palsy (CP) were excluded. Studies that addressed the follow-up of specific groups of infants at increased risk of neurodevelopmental disorders (e.g. infants with neonatal hypoxic ischaemic encephalopathy or infants born preterm with a lesion of the brain but no diagnosis of CP) were eligible for our study."
+  
+  [datasets.data]
+  doi="10.25340/R4/VB85L1"
+
+
+[[datasets]]
+
   key="Walker_2018"
 
   [datasets.collection]
