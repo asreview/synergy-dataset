@@ -584,7 +584,7 @@ meta-analysis and item response theory were excluded.
   key="Toffalini_2021"
 
   [datasets.collection]
-  doi="https://doi.org/10.1017/rsm.2024.16"
+  doi="10.1017/rsm.2024.16"
 
   [datasets.publication]
   doi="10.3758/s13428-021-01549-x"
