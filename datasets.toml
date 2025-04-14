@@ -653,7 +653,7 @@ English language articles only"""
   key="van_Hoorn_2020"
 
   [datasets.collection]
-  doi="https://doi.org/10.1017/rsm.2024.16"
+  doi="10.1017/rsm.2024.16"
 
   [datasets.publication]
   doi="10.1111/dmcn.14781"
