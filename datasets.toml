@@ -146,32 +146,6 @@ All English-language titles and abstracts and suggested additional citations wer
 
 [[datasets]]
 
-  # Part of Cohen et al. 2006 https://doi.org/10.1197/jamia.M1929
-
-  key="Chou_2004"
-
-  [datasets.publication]
-  doi="10.1016/j.jpainsymman.2004.05.002"
-eligibility_criteria = """
-All English-language titles and abstracts and suggested additional citations that met the following eligibility criteria were included:
-
-Population. The population included in this review is adult or pediatric patients with spasticity or a musculoskeletal condition. We defined spasticity as muscle spasms associated with an upper motor neuron syndrome. Musculoskeletal conditions were defined as peripheral conditions resulting in muscle or soft tissue pain or spasms. We excluded obstetric and dialysis patients, and patients with restless legs syndrome or nocturnal myoclonus. Senate Bill specifically excludes patients with HIV and patients with cancer.
-
-Drugs. We included the following oral drugs classified as skeletal muscle relaxants: baclofen, carisoprodol, chlorzoxazone, cyclobenzaprine, dantrolene, metaxalone, methocarbamol, orphenadrine, and tizanidine. Other medications used for spasticity but considered to be in another drug class, such as benzodiazepines, quinine, tricyclic antidepressants, gabapentin, and clonidine, were not considered primary drugs in this report, but were reviewed when they were directly compared to an included skeletal muscle relaxant. We excluded trials in which an included skeletal muscle relaxant was combined with an analgesic medication unless the comparison arm included the same analgesic medication and dose, trials which evaluated skeletal muscle relaxants not approved in the United States, and trials which only compared one dose of an included skeletal muscle relaxant with another dose.
-
-Outcomes. The main efficacy measures were relief of muscle spasms or pain, functional status, quality of life, withdrawal rates, and adverse effects (including sedation, weakness, addiction, and abuse). We excluded non-clinical outcomes such as electromyogram measurements or spring tension measurements.
-
-Study Types. We included the following study types: Systematic reviews of the clinical efficacy or adverse event rates of skeletal muscle relaxants for spasticity or musculoskeletal conditions, OR Randomized controlled trials that compared one of the included skeletal muscle relaxants listed to another included skeletal muscle relaxant, an antispasticity medication from a different drug class, or placebo in adult patients with spasticity or musculoskeletal conditions, OR Randomized controlled trials and large, high quality observational studies that reported adverse event rates for an included skeletal muscle relaxant. We did not systematically review case reports and case series in which the proportion of patients suffering an adverse event could not be calculated. We excluded “single-dose” studies, abstracts and unpublished trials unless a pharmaceutical company submitted the full data."""
-
-  [datasets.collection]
-  doi="10.1197/jamia.M1929"
-
-  [datasets.data]
-  url="https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
-
-
-[[datasets]]
-
   key="Cozim-Melges_2024"
 
   [datasets.publication]
