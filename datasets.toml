@@ -172,6 +172,21 @@ Study Types. We included the following study types: Systematic reviews of the cl
 
 [[datasets]]
 
+  key="Cinquin_2018"
+
+  [datasets.collection]
+  doi="10.1017/rsm.2024.16"
+
+  [datasets.publication]
+  doi="10.1016/j.compedu.2018.12.004"
+  eligibility_criteria="Only studies that focused on online e-learning accessibility for individuals with cognitive impairment were included in the review. No publication period nor participant age limitations were specified. Following Clark and Mayer (2016), we defined e-learning as instruction delivered via a digital device intended to support learning. As we wanted to focus on online e-learning, we only included studies that explicitly refer to client/server architecture such as the web. To be as descriptive as possible, we only included studies that proposed guidelines or a framework, and those with a purpose of intervention instead of instruction if they explicitly expected a possible transfer for learning. Finally, we only included studies that explicitly refer to people with cognitive impairments exclusively (for instance, studies focusing on people with attention disorders) or people with cognitive impairments along with other impairments (studies not focusing on a specific disability but considering cognitive impairments)."
+  
+  [datasets.data]
+  doi="10.25340/R4/VB85L1"
+
+
+[[datasets]]
+
   key="Cozim-Melges_2024"
 
   [datasets.publication]
