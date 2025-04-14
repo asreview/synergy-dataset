@@ -265,30 +265,6 @@ Exclusion criteria (a paper must not be. . . )
 
 [[datasets]]
 
-  key="Jeyaraman_2020"
-
-  [datasets.publication]
-  doi="10.1177/1947603520951623"
-eligibility_criteria = """
-Inclusion Criteria
-Studies were included for quantitative review if they met the following criteria:
-Population: Patients with knee osteoarthritis
-Intervention: MSC therapy
-Comparator: Usual care
-Outcomes: Visual Analog Score (VAS) for Pain, Western Ontario McMaster Universities Osteoarthritis Index (WOMAC), Lysholm Knee Scale (Lysholm), Whole-Organ Magnetic Resonance Imaging Score (WORMS), Knee Osteoarthritis Outcome Score (KOOS), and adverse events Study Design: Randomized controlled trials
-
-Exclusion Criteria
-Trials were excluded if they had the following characteristics:
-1. Observational studies and interventional studies without a comparator group
-2. Animal studies involving stem cell therapy for knee osteoarthritis models
-3. Review articles and in-vitro studies involving stem cell therapy"""
-
-  [datasets.data]
-  url="https://osf.io/8drsc/"
-
-
-[[datasets]]
-
   key="Leenaars_2019"
 
   [datasets.publication]
