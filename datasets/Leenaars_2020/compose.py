@@ -13,8 +13,8 @@ ft = pd.read_excel("https://osf.io/download/r94qm/", sheet_name="FT_included")[
 ]
 
 df_pubmed = utils.extract_pmid(df_pubmed, "accession_number")
-df_embase = utils.extract_doi(df_embase, "url", "doi\/", "&")
-df_embase = utils.extract_pmid(df_embase, "url", "pmid\/")
+df_embase = utils.extract_doi(df_embase, "urls", "doi\/", "&")
+df_embase = utils.extract_pmid(df_embase, "urls", "pmid\/")
 
 # set labels and turn into single dataframe
 search = pd.concat([df_pubmed, df_embase], ignore_index=True)
