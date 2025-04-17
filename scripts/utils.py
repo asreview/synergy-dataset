@@ -9,7 +9,7 @@ import os
 import urllib.parse
 
 # All ID's we use to search in OpenAlex
-ID_SET = {"doi", "pmid", "title", "year"}
+ID_SET = {"openalex_id","doi", "pmid", "title", "year"}
 
 # The set of columns we want to see in the output of the compose file
 OUTPUT_ID_SET = [
@@ -119,6 +119,9 @@ def extract_doi(
     unquote: bool = True,
 ):
     """Extracts doi with regex taking into account pre and post. Stores it in doi column with doi.org prefix."""
+
+    # Sometimes the column is a list, we need it to be a string
+    df[col_in] = df[col_in].astype("string")
 
     regex = rf"{pre}(10\.[^{post}]*)" if post else rf"{pre}(10\.\S+)"
     url_prefix = "https://doi.org/"

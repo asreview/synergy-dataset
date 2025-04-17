@@ -146,32 +146,6 @@ All English-language titles and abstracts and suggested additional citations wer
 
 [[datasets]]
 
-  # Part of Cohen et al. 2006 https://doi.org/10.1197/jamia.M1929
-
-  key="Chou_2004"
-
-  [datasets.publication]
-  doi="10.1016/j.jpainsymman.2004.05.002"
-eligibility_criteria = """
-All English-language titles and abstracts and suggested additional citations that met the following eligibility criteria were included:
-
-Population. The population included in this review is adult or pediatric patients with spasticity or a musculoskeletal condition. We defined spasticity as muscle spasms associated with an upper motor neuron syndrome. Musculoskeletal conditions were defined as peripheral conditions resulting in muscle or soft tissue pain or spasms. We excluded obstetric and dialysis patients, and patients with restless legs syndrome or nocturnal myoclonus. Senate Bill specifically excludes patients with HIV and patients with cancer.
-
-Drugs. We included the following oral drugs classified as skeletal muscle relaxants: baclofen, carisoprodol, chlorzoxazone, cyclobenzaprine, dantrolene, metaxalone, methocarbamol, orphenadrine, and tizanidine. Other medications used for spasticity but considered to be in another drug class, such as benzodiazepines, quinine, tricyclic antidepressants, gabapentin, and clonidine, were not considered primary drugs in this report, but were reviewed when they were directly compared to an included skeletal muscle relaxant. We excluded trials in which an included skeletal muscle relaxant was combined with an analgesic medication unless the comparison arm included the same analgesic medication and dose, trials which evaluated skeletal muscle relaxants not approved in the United States, and trials which only compared one dose of an included skeletal muscle relaxant with another dose.
-
-Outcomes. The main efficacy measures were relief of muscle spasms or pain, functional status, quality of life, withdrawal rates, and adverse effects (including sedation, weakness, addiction, and abuse). We excluded non-clinical outcomes such as electromyogram measurements or spring tension measurements.
-
-Study Types. We included the following study types: Systematic reviews of the clinical efficacy or adverse event rates of skeletal muscle relaxants for spasticity or musculoskeletal conditions, OR Randomized controlled trials that compared one of the included skeletal muscle relaxants listed to another included skeletal muscle relaxant, an antispasticity medication from a different drug class, or placebo in adult patients with spasticity or musculoskeletal conditions, OR Randomized controlled trials and large, high quality observational studies that reported adverse event rates for an included skeletal muscle relaxant. We did not systematically review case reports and case series in which the proportion of patients suffering an adverse event could not be calculated. We excluded “single-dose” studies, abstracts and unpublished trials unless a pharmaceutical company submitted the full data."""
-
-  [datasets.collection]
-  doi="10.1197/jamia.M1929"
-
-  [datasets.data]
-  url="https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
-
-
-[[datasets]]
-
   key="Cozim-Melges_2024"
 
   [datasets.publication]
@@ -206,6 +180,36 @@ eligibility_criteria = "The following inclusion criteria were applied: emicizuma
   [datasets.publication]
   doi="10.3102/00346543211051428"
   eligibility_criteria="There were five inclusion criteria. First, the study had to be an empirical study; second, the sample had to be drawn from preschool, primary, or (middle or) secondary education (ages 3–18 years); third, the study had to report measures of affective aspects of both the teacher–student relationship or interactions and peer relationships; fourth, analyses had to be performed at the level of the individual student, such that individual scores were included for each participant on both teacher–student relationships and peer relationships; and fifth, peer relationships had to be assessed in terms of relationships with classmates."
+  
+  [datasets.data]
+  doi="10.17605/OSF.IO/UYB7X"
+
+
+[[datasets]]
+
+  key="Fong_2021"
+
+  [datasets.collection]
+  doi="10.1007/s10648-024-09862-5"
+
+  [datasets.publication]
+  doi="10.1016/j.edurev.2021.100407"
+  eligibility_criteria="Once potentially relevant studies were identified, titles and abstracts were evaluated using the following inclusion criteria: (1) use of LASSI, (2) an achievement outcome (GPA, grade, achievement test, persistence), and (3) an effect size measure. There was no restriction on language of publication; we included studies written in any language."
+  
+  [datasets.data]
+  doi="10.17605/OSF.IO/UYB7X"
+
+
+[[datasets]]
+
+  key="Filges_2018"
+
+  [datasets.collection]
+  doi="10.1007/s10648-024-09862-5"
+
+  [datasets.publication]
+  doi="10.4073/csr.2018.10"
+  eligibility_criteria="The intervention of interest was a reduction in class size. We included children in grades kindergarten to 12 (or the equivalent in European countries) in general education. The primary focus was on measures of academic achievement. All study designs that used a well-defined control group were eligible for inclusion. Studies that utilized qualitative approaches were not included."
   
   [datasets.data]
   doi="10.17605/OSF.IO/UYB7X"
@@ -276,30 +280,6 @@ Exclusion criteria (a paper must not be. . . )
   
   [datasets.data]
   doi="10.5281/zenodo.6966157"
-
-
-[[datasets]]
-
-  key="Jeyaraman_2020"
-
-  [datasets.publication]
-  doi="10.1177/1947603520951623"
-eligibility_criteria = """
-Inclusion Criteria
-Studies were included for quantitative review if they met the following criteria:
-Population: Patients with knee osteoarthritis
-Intervention: MSC therapy
-Comparator: Usual care
-Outcomes: Visual Analog Score (VAS) for Pain, Western Ontario McMaster Universities Osteoarthritis Index (WOMAC), Lysholm Knee Scale (Lysholm), Whole-Organ Magnetic Resonance Imaging Score (WORMS), Knee Osteoarthritis Outcome Score (KOOS), and adverse events Study Design: Randomized controlled trials
-
-Exclusion Criteria
-Trials were excluded if they had the following characteristics:
-1. Observational studies and interventional studies without a comparator group
-2. Animal studies involving stem cell therapy for knee osteoarthritis models
-3. Review articles and in-vitro studies involving stem cell therapy"""
-
-  [datasets.data]
-  url="https://osf.io/8drsc/"
 
 
 [[datasets]]
@@ -596,6 +576,32 @@ meta-analysis and item response theory were excluded.
 
 [[datasets]]
 
+  key="Taschner_2024"
+
+  [datasets.collection]
+  doi="10.1007/s10648-024-09862-5"
+
+  [datasets.publication]
+  doi="10.3102/00346543231221499"
+  eligibility_criteria="""1) The study is an empirical primary study that implemented some form of intervention (e.g., internship, classroom management training, coaching). Purely longitudinal studies were excluded.
+2) Sample characteristics:
+a. The sample consists mainly of pre-service teachers, teacher students, or in-service teachers for elementary, middle, high, or vocational schools. Studies with samples consisting mainly of teachers for pre-school, higher education, or special education were excluded.
+b. The sample size is at least 10 persons.
+3) Teacher self-efficacy is the outcome variable.
+4) The measure of teacher self-efficacy:
+a. Studies used the TSES from Tschannen-Moran and Woolfolk Hoy (2001) to measure teacher self-efficacy
+b. Studies with scales with at least one subscale comparable to the three subscales of the TSES were also included. In this case, all items of the scale used for measuring teacher self-efficacy must be available.
+5) The study provides a pre- and post-measure of teacher self-efficacy.
+6) The study provides sufficient quantitative data to calculate the standardized mean change, that is, M, SD, n for pre- and post-test (mixed-methods studies are included).
+7) The study is written in English or German.
+8) The study is available in full text."""
+  
+  [datasets.data]
+  doi="10.17605/OSF.IO/UYB7X"
+
+
+[[datasets]]
+
   key="van_Ballegooijen_2024"
 
   [datasets.publication]
@@ -661,6 +667,21 @@ English language articles only"""
 
   [datasets.data]
   url="https://osf.io/4d9tu/"
+
+
+[[datasets]]
+
+  key="van_Hoorn_2020"
+
+  [datasets.collection]
+  doi="10.1017/rsm.2024.16"
+
+  [datasets.publication]
+  doi="10.1111/dmcn.14781"
+  eligibility_criteria="In order to be included in the review, studies had to fulfil the following criteria: (1) they had to address children with DCD: children who met the diagnostic criteria for DCD according to the Diagnostic and Statistical Manual of Mental Disorders (DSM), Fourth or Fifth Editions, or children with motor impairment as assessed with a standardized motor test (e.g. Movement Assessment Battery for Children [MABC] score below the 16th centile as a cut-off) or another appropriate, valid, reliable, and standardized motor test (appropriately norm-referenced). Also, articles in which children with probable DCD were identified by means of questionnaires like the DCD Questionnaire were included; (2) the participants’ mean age had to be between 5 and 13 years; (3) studies addressed associations between DCD (or motor impairment) and early life factors (i.e. pregnancy-related factors, birth factors, child factors, or sociodemographic determinants). Early life factors were defined as factors occurring in the period ranging from pregnancy until 3 months post-term, since the latter age is characterized by a major neurodevelopmental transition.16 We excluded studies that: (1) included fewer than 10 participants; (2) were reviews or case-reports; and (3) specifically addressed the effect of drugs (e.g. caffeine) or nutritional supplements (e.g. vitamin D and vitamin A). The application of the DSM-5 criteria for inclusion also implied that studies that included children with a neurological disorder such as cerebral palsy (CP) were excluded. Studies that addressed the follow-up of specific groups of infants at increased risk of neurodevelopmental disorders (e.g. infants with neonatal hypoxic ischaemic encephalopathy or infants born preterm with a lesion of the brain but no diagnosis of CP) were eligible for our study."
+  
+  [datasets.data]
+  doi="10.25340/R4/VB85L1"
 
 
 [[datasets]]
@@ -731,4 +752,58 @@ To provide more insight into the association of CHDandCHFwithdementiaindependent
 
   [datasets.data]
   url="https://osf.io/sxzjg/"
+
+
+[[datasets]]
+
+  key="Xu_2022"
+
+  [datasets.collection]
+  doi="10.1007/s10648-024-09862-5"
+
+  [datasets.publication]
+  doi="10.1016/j.edurev.2022.100474"
+  eligibility_criteria="""2.2. Inclusion criteria
+a.
+The participants in the study were diploma-seeking undergraduate and/or graduate international students enrolled in non-domestic international higher education;
+b.
+The study investigated students' needs, expectations, motivations, satisfaction and/or experiences related to international higher education;
+c.
+The study focused on students' perspectives on international higher education;
+d.
+The research outcomes could be used by host institutions to improve their international higher education to optimally meet students' needs and expectations.
+2.3. Exclusion criteria
+a.
+The participants of the study were not diploma-seeking undergraduate and/or graduate international students studying abroad, students from outside the field of higher education, but, for instance, PhD students, vocational students, short-term exchange students, or domestic international students (i.e. students participating in an international study in their home countries);
+b.
+The study did not include any empirical investigation among students;
+c.
+The study went beyond the local, host institutional level to investigate students' expectations of international higher education and focused, for example, on the national or global level;
+d.
+The study did not focus on students' perspectives on international higher education;
+e.
+The study did not address international higher education;
+f.
+Internationalization was only a minor aspect of the study;
+g.
+The study focused only on a specific aspect of internationalization, such as internationalization of the curriculum or distance learning;
+h.
+The study was published as an abstract (paper or poster abstract), a dissertation abstracts, an editorial, a letter, a book review, a literature review or a paper or abstract in proceedings of a conference."""
+  
+  [datasets.data]
+  doi="10.17605/OSF.IO/UYB7X"
+
+[[datasets]]
+
+  key="Zinsser_2022"
+
+  [datasets.collection]
+  doi="10.1007/s10648-024-09862-5"
+
+  [datasets.publication]
+  doi="10.3102/00346543211070047"
+  eligibility_criteria="To address our specified research questions, studies were screened to ensure they met our inclusion criteria. Specifically, studies were included if they (1) included a sample of either children under the age of 6 living in the United States or early childhood care and education programs located in the United States; (2) included a measure of exclusion (e.g., suspension, early pick-ups, or expulsion) or exclusion risk (e.g., teachers’ requests of expulsion or perceived expulsion risk); and (3) were published in English in a peer-reviewed academic journal."
+  
+  [datasets.data]
+  doi="10.17605/OSF.IO/UYB7X"
 
