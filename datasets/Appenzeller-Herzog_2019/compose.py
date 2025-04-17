@@ -20,7 +20,7 @@ df = utils.combine_datafiles(search, ft, ti_ab)
 
 # adjust columns and drop missing and duplicate ids
 df = utils.extract_doi(df, "doi", "", "", True)
-df = utils.extract_pmid(df, "url", r"id\=pmid\:")
+df = utils.extract_pmid(df, "urls", r"id\=pmid\:")
 df = utils.drop_duplicates(df)
 
 # Write output
