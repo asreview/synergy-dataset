@@ -31,8 +31,8 @@ ft = pd.DataFrame(inclusions)
 asr_pubmed = ASReviewData.from_file("https://osf.io/download/m523q/").df
 asr_embase = ASReviewData.from_file("https://osf.io/download/exm3a/").df
 
-asr_embase = utils.extract_doi(asr_embase, "url", "doi\/", "&")
-asr_embase = utils.extract_pmid(asr_embase, "url", "pmid\/")
+asr_embase = utils.extract_doi(asr_embase, "urls", "doi\/", "&")
+asr_embase = utils.extract_pmid(asr_embase, "urls", "pmid\/")
 
 search = pd.concat([asr_embase, asr_pubmed])
 
