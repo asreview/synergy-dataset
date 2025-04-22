@@ -14,6 +14,31 @@ version=1.0
 
 [[datasets]]
 
+  key="Adamo_2021"
+
+  [datasets.publication]
+  doi="10.1007/s10270-020-00847-w"
+  eligibility_criteria="""IC 1: The paper proposes a meta-model of business processes or BPMLs.
+IC 2: The meta-model is either originally developed or originally adapted by the authors.
+IC 3: The paper focuses mainly / exclusively on business process aspects.
+EC 1: The paper is not available.
+EC 2: The paper is a duplicate.
+EC 3: The paper is not in English.
+EC 4: The paper does not belong to the BPM field.
+EC 5: The paper does not mainly consider the business process view, but rather it is focused on organizational
+entrepreneurial
+software engineering aspects without touching the business process level.
+EC 6: The paper either was not under peer-review, or it is a technical report.
+EC 7: The paper is almost the “same copy” of others of the same author(s).
+EC 8: The paper either does not include a wide analysis of related works or is not clearly positioned in the state of the art.
+EC 9: The paper is not long enough to present a complete meta-model."""
+  
+  [datasets.data]
+  doi="10.5281/zenodo.4280896"
+
+
+[[datasets]]
+
   key="Anmarkrud_2021"
 
   [datasets.collection]
