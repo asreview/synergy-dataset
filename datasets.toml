@@ -407,6 +407,22 @@ eligibility_criteria = "We screened records to find original experimental studie
 
 [[datasets]]
 
+  key="Morteza_2023"
+
+  [datasets.publication]
+  doi="10.1145/3596908"
+  eligibility_criteria = """• EC1: Duplicated resources: Some articles were indexed by more than one digital library. We kept one copy of each duplicated paper.
+• EC2: Non-English resources: We removed manuscripts written in languages other than English. We observed that none of them provided a new public dataset, including code smell.
+• EC3: Non-primary studies: All secondary and tertiary studies were removed. We discussed them as related work to our SLR in Section 2.
+• EC4: Full-text availability: Articles whose full-text was not available or less than two pages were removed.
+• EC5: Irrelevant papers: Articles focused on other software engineering topics rather than code smells. Our search string terms such as “code smell” and “dataset” only appeared in the related works section of these articles, or each term appeared in a different article section. For instance, the word “dataset” did not point to a code smells dataset in the paper."""
+
+  [datasets.data]
+  doi="10.5281/zenodo.7533578"
+
+
+[[datasets]]
+
   key="Muthu_2021"
 
   [datasets.publication]
