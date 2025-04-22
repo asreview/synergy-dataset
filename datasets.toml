@@ -21,7 +21,7 @@ version=1.0
   eligibility_criteria="Given that the Publish or Perish software categorises the retrieved items according to their type, a decision was made to limit the research to articles and conference papers due to their relevance as a channel for broadcasting scientific knowledge. In addition, records whose title is not in English or Spanish were deleted. This was followed by an individual review of the retrieved items through assessing the abstract to determine whether or not they relate to the area under investigation."
   
   [datasets.data]
-  doi="https://zenodo.org/records/7973865"
+  doi="10.5281/zenodo.7973865"
 
 
 [[datasets]]
