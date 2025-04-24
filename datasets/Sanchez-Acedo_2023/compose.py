@@ -18,4 +18,4 @@ df = utils.rename_columns(df, title="Title", year="Year")
 df = utils.drop_duplicates(df)
 
 # Write output
-utils.write_ids_files("Alberto_2023", df)
+utils.write_ids_files("Sanchez-Acedo_2023", df)
