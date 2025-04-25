@@ -843,6 +843,21 @@ English language articles only"""
 
 [[datasets]]
 
+  key="Viguie_2020"
+
+  [datasets.publication]
+  doi="10.1088/1748-9326/abc044"
+  eligibility_criteria="""Candidate papers must deal explicitly with energy demand, consumption need or use by the human population (e.g. papers dealing with the metabolic energy demand of plants are excluded).
+Candidate papers must deal with climate change effects (e.g. papers about the impact of temperature on AC adoption and/or energy use are excluded if they do not specifically consider climate change scenarios; likewise for papers about current trends without explicitly considering climate change).
+Candidate papers must deal with the impact of climate change on energy (and not the other way around) (e.g. papers dealing with the impacts of energy consumption on climate change magnitude are out of scope).
+Candidate papers must deal with energy demand (e.g. impacts of climate change on renewable electricity production potential or physical impact of climate change on electricity transport network are out of scope)."""
+  
+  [datasets.data]
+  doi="10.5281/zenodo.4452046"
+
+
+[[datasets]]
+
   key="Walker_2018"
 
   [datasets.collection]
