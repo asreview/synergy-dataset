@@ -14,6 +14,25 @@ version=1.0
 
 [[datasets]]
 
+  key="Ali_2024"
+
+  [datasets.publication]
+  doi="10.1007/s12599-024-00868-5"
+  eligibility_criteria="""Exclusion Criteria
+EC1: The paper is digitally inaccessible  
+EC2: The paper is written in language other than English  
+EC3: The paper is a duplicate  
+EC4: The paper is published in a non-peer-reviewed journal or other source
+Inclusion Criteria
+IC1: The paper presents/demonstrates a method, approach or technique to identify/analyze waiting times in business processes  
+IC2: The method, approach or technique presented/demonstrated in the paper uses event logs"""
+  
+  [datasets.data]
+  doi="10.5281/zenodo.10698027"
+
+
+[[datasets]]
+
   key="Anmarkrud_2021"
 
   [datasets.collection]
