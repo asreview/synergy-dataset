@@ -205,6 +205,18 @@ All English-language titles and abstracts and suggested additional citations wer
 
 [[datasets]]
 
+  key="Clarinval_2021"
+
+  [datasets.publication]
+  doi="10.1109/tits.2021.3092036"
+  eligibility_criteria="1) Articles not written in English. 2) Duplicated articles 3) Articles published before 2008 4) Secondary studies 5) Articles published in poster, challenge, or demo tracks 6) Articles that do not provide any figure representing the proposed visualizations 7) Articles proposing visualizations not directly destined to any end-user 8) Traffic beyond the city scale"
+  
+  [datasets.data]
+  doi="10.5281/zenodo.4287513"
+
+
+[[datasets]]
+
   key="Clark_2021"
 
   [datasets.collection]
