@@ -391,6 +391,18 @@ eligibility_criteria = "We included all studies in which MTX was administered to
 
 [[datasets]]
 
+  key="Low_2023"
+
+  [datasets.publication]
+  doi="10.1016/j.agsy.2023.103606"
+eligibility_criteria = "The three inclusion criteria were: 1) the paper is set in the developed economies of Europe (EU28), Northern America, Australasia, and Eastern Asia (excluding China); 2) the paper has a focus on agricultural and/or food production, or on agricultural supply and/or value chains; and 3) the paper can specify a mixed farming or agroforestry system."
+
+  [datasets.data]
+  doi="10.5281/zenodo.10468688"
+
+
+[[datasets]]
+
   key="Maciel_2024"
 
   [datasets.publication]
