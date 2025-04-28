@@ -364,6 +364,19 @@ Exclusion criteria (a paper must not be. . . )
 
 
 [[datasets]]
+  # Processes 1 dataset (https://osf.io/tnxju/)
+
+  key="Kapuka_2021"
+
+  [datasets.publication]
+  doi="10.1002/ecs2.3860"
+eligibility_criteria = "which explicitly provided information about (1) climate change-related impacts on ecosystems, species, or populations, (2) provided evident characteristics of these ecological units, and (3) informed about management actions supporting adaptation to climate change."
+
+  [datasets.data]
+  doi="10.5281/zenodo.5558905"
+
+
+[[datasets]]
 
   key="Leenaars_2019"
 
