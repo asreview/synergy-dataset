@@ -17,7 +17,7 @@ search = utils.extract_doi(search, "DOI")
 tiab = utils.rename_columns(tiab, title="Tittle", year="Year of publication")
 tiab = utils.extract_doi(tiab, "DOI")
 
-# FT taken from paper references
+# FT taken from data (colorcoded)
 inclusions = [
     {"doi": "https://doi.org/10.2989/1814232X.2011.637354"},
     {"doi": "https://doi.org/10.1111/acv.12124"},
