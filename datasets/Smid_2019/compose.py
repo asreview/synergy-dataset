@@ -15,4 +15,4 @@ df = utils.rename_columns(df, ft_label="included")
 df = utils.drop_duplicates(df)
 
 # Write output
-utils.write_ids_files("Smid_2020", df)
+utils.write_ids_files("Smid_2019", df)

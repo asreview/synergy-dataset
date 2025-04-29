@@ -27,4 +27,4 @@ df["label_abstract_included"] = df["label_abstract_included"].fillna(0).astype(i
 df = utils.drop_duplicates(df)
 
 # save results to file
-utils.write_ids_files("Moran_2021", df)
+utils.write_ids_files("Moran_2020", df)
