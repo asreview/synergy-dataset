@@ -10,7 +10,7 @@ jobs:
           python-version: "3.13"
       - name: Install dependencies
         run: |
-          pip install pytest
+          pip install pytest pyalex
       - name: Test Dataset.toml
         run: |
           pytest tests/test_datasets_toml.py
