@@ -473,6 +473,18 @@ Articles were included if they met the following criteria: (1) study involved tr
 
 [[datasets]]
 
+  key="Mejean_2024"
+
+  [datasets.publication]
+  doi="10.1088/1748-9326/ad376e"
+eligibility_criteria = "After careful review, 72 papers were excluded, because one or several of the following categories applied: (i) literature review, meta-analysis of existing papers, or purely theoretical paper, (ii) absence of a mention of distribution issues, (iii) absence of sentence linking climate change to the frequency or intensity of the studied physical manifestation of climate change, (iv) paper centered on adaptation, (v) paper centered on mitigation, (vi) inequality treated as a driver of another variable of interest, not as an outcome, (vii) focus on energy poverty only."
+
+  [datasets.data]
+  url="10.5281/zenodo.10894327"
+
+
+[[datasets]]
+
   key="Menon_2022"
 
   [datasets.publication]
