@@ -27,9 +27,6 @@ def test_dataset_keys():
 
         work = pyalex.Works()["https://doi.org/" + dataset["publication"]["doi"]]
 
-        # print(work["publication_year"])
-        # print(work["authorships"][0]["author"]["display_name"])
-
         surname = work["authorships"][0]["author"]["display_name"].split(" ")[-1]
         surname = surname.replace("‐", "-").replace("–", "-").replace("—", "-").replace("−", "-")
         surname = ''.join(
