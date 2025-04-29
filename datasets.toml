@@ -7,7 +7,7 @@ version=1.0
   [datasets.publication]
   doi="10.1109/tse.2023.3287297"
   eligibility_criteria="Studies were screened by applying the following exclusion criteria (EC): (EC1) Duplicate Study, (EC2) Books and Patents, (EC3) Non-peer-reviewed Study, (EC4) Secondary Study, (EC5) Study written in languages other than English, and (EC6) Study published before 2015. Note that there is an additional step at the end of the process to protect against oversight of significant pre-2015 published material (details of which are provided at the end of this subsection). Further studies that did not satisfy the inclusion criteria were removed. The three inclusion criteria (IC) are: (IC1) the primary objective of the study should be the decomposition of monolith applications into microservices, (IC2) the study should include structured and preferably automatic or semi-automatic decomposition approaches, and (IC3) the study should sufficiently describe the decomposition method, code, algorithm, and its evaluation (i.e., abstracts and extended abstracts are not included)."
-  
+
   [datasets.data]
   doi="10.5281/zenodo.7899996"
 
@@ -32,7 +32,7 @@ EC 6: The paper either was not under peer-review, or it is a technical report.
 EC 7: The paper is almost the “same copy” of others of the same author(s).
 EC 8: The paper either does not include a wide analysis of related works or is not clearly positioned in the state of the art.
 EC 9: The paper is not long enough to present a complete meta-model."""
-  
+
   [datasets.data]
   doi="10.5281/zenodo.4280896"
 
@@ -44,17 +44,17 @@ EC 9: The paper is not long enough to present a complete meta-model."""
   [datasets.publication]
   doi="10.1007/s12599-024-00868-5"
   eligibility_criteria="""Exclusion Criteria
-EC1: The paper is digitally inaccessible  
-EC2: The paper is written in language other than English  
-EC3: The paper is a duplicate  
+EC1: The paper is digitally inaccessible
+EC2: The paper is written in language other than English
+EC3: The paper is a duplicate
 EC4: The paper is published in a non-peer-reviewed journal or other source
 Inclusion Criteria
-IC1: The paper presents/demonstrates a method, approach or technique to identify/analyze waiting times in business processes  
+IC1: The paper presents/demonstrates a method, approach or technique to identify/analyze waiting times in business processes
 IC2: The method, approach or technique presented/demonstrated in the paper uses event logs"""
-  
+
   [datasets.data]
   doi="10.5281/zenodo.10698027"
-  
+
 
 [[datasets]]
 
@@ -87,7 +87,7 @@ The studies should have a quantitative design and report results through numeric
 
 7.
 The studies should be published in English."""
-  
+
   [datasets.data]
   doi="10.17605/OSF.IO/UYB7X"
 
@@ -175,7 +175,7 @@ eligibility_criteria = "Criteria for studies to be included in the review were: 
 eligibility_criteria = """
 All English-language titles and abstracts and suggested additional citations were reviewed for inclusion using criteria developed by the research team with input from the subcommittee. We obtained full-text articles if the title and abstract review met the following eligibility criteria:
 
-1. Systematic reviews of the clinical efficacy or adverse event rates of long-acting opioids in patients with chronic non-cancer pain, OR 
+1. Systematic reviews of the clinical efficacy or adverse event rates of long-acting opioids in patients with chronic non-cancer pain, OR
 
 2. Randomized controlled trials that compared one of the long-acting opioids listed above to another long-acting opioid, a short-acting opioid, a non-opioid, or placebo in adult patients with chronic non-cancer pain, OR
 
@@ -198,7 +198,7 @@ All English-language titles and abstracts and suggested additional citations wer
   [datasets.publication]
   doi="10.1016/j.compedu.2018.12.004"
   eligibility_criteria="Only studies that focused on online e-learning accessibility for individuals with cognitive impairment were included in the review. No publication period nor participant age limitations were specified. Following Clark and Mayer (2016), we defined e-learning as instruction delivered via a digital device intended to support learning. As we wanted to focus on online e-learning, we only included studies that explicitly refer to client/server architecture such as the web. To be as descriptive as possible, we only included studies that proposed guidelines or a framework, and those with a purpose of intervention instead of instruction if they explicitly expected a possible transfer for learning. Finally, we only included studies that explicitly refer to people with cognitive impairments exclusively (for instance, studies focusing on people with attention disorders) or people with cognitive impairments along with other impairments (studies not focusing on a specific disability but considering cognitive impairments)."
-  
+
   [datasets.data]
   doi="10.25340/R4/VB85L1"
 
@@ -210,7 +210,7 @@ All English-language titles and abstracts and suggested additional citations wer
   [datasets.publication]
   doi="10.1109/tits.2021.3092036"
   eligibility_criteria="1) Articles not written in English. 2) Duplicated articles 3) Articles published before 2008 4) Secondary studies 5) Articles published in poster, challenge, or demo tracks 6) Articles that do not provide any figure representing the proposed visualizations 7) Articles proposing visualizations not directly destined to any end-user 8) Traffic beyond the city scale"
-  
+
   [datasets.data]
   doi="10.5281/zenodo.4287513"
 
@@ -232,7 +232,7 @@ palsy), (c) outcomes that include word learning, (d) an experimental or quasi-ex
 identified, an attempt was made to search the gray literature (e.g., find conference presentations); however, no relevant studies were found so the a priori criteria to focus on
 peer-reviewed published studies was followed. Exclusion
 criteria were (a) outcome measures solely targeting reading or spelling ability and (b) adult populations."""
-  
+
   [datasets.data]
   doi="10.25340/R4/VB85L1"
 
@@ -273,7 +273,7 @@ eligibility_criteria = "The following inclusion criteria were applied: emicizuma
   [datasets.publication]
   doi="10.3102/00346543211051428"
   eligibility_criteria="There were five inclusion criteria. First, the study had to be an empirical study; second, the sample had to be drawn from preschool, primary, or (middle or) secondary education (ages 3–18 years); third, the study had to report measures of affective aspects of both the teacher–student relationship or interactions and peer relationships; fourth, analyses had to be performed at the level of the individual student, such that individual scores were included for each participant on both teacher–student relationships and peer relationships; and fifth, peer relationships had to be assessed in terms of relationships with classmates."
-  
+
   [datasets.data]
   doi="10.17605/OSF.IO/UYB7X"
 
@@ -288,7 +288,7 @@ eligibility_criteria = "The following inclusion criteria were applied: emicizuma
   [datasets.publication]
   doi="10.1016/j.edurev.2021.100407"
   eligibility_criteria="Once potentially relevant studies were identified, titles and abstracts were evaluated using the following inclusion criteria: (1) use of LASSI, (2) an achievement outcome (GPA, grade, achievement test, persistence), and (3) an effect size measure. There was no restriction on language of publication; we included studies written in any language."
-  
+
   [datasets.data]
   doi="10.17605/OSF.IO/UYB7X"
 
@@ -303,7 +303,7 @@ eligibility_criteria = "The following inclusion criteria were applied: emicizuma
   [datasets.publication]
   doi="10.4073/csr.2018.10"
   eligibility_criteria="The intervention of interest was a reduction in class size. We included children in grades kindergarten to 12 (or the equivalent in European countries) in general education. The primary focus was on measures of academic achievement. All study designs that used a well-defined control group were eligible for inclusion. Studies that utilized qualitative approaches were not included."
-  
+
   [datasets.data]
   doi="10.17605/OSF.IO/UYB7X"
 
@@ -318,7 +318,7 @@ eligibility_criteria = "The following inclusion criteria were applied: emicizuma
   [datasets.publication]
   doi="10.1002/cl2.1210"
   eligibility_criteria="The intervention was service learning which can be described as a curriculum-based community service that integrates classroom instruction (such as classroom discussions, presentations, or directed writing) with community service activities. We included children in primary and secondary education (grades kindergarten to 12) in general education. Our primary focus was on measures of academic success and NEET status. A secondary focus was on measures of personal and social skills, and risk behaviour (such as drug and alcohol use, violent behaviour, sexual risk taking). All study designs that used a well-defined control group were eligible for inclusion. Studies that utilised qualitative approaches were not included."
-  
+
   [datasets.data]
   doi="10.17605/OSF.IO/UYB7X"
 
@@ -339,7 +339,7 @@ eligibility_criteria = "The following inclusion criteria were applied: emicizuma
 
 [[datasets]]
 
-  key="Hall_2012"
+  key="Hall_2011"
 
   [datasets.collection]
   doi="10.1007/s10664-017-9587-0"
@@ -370,7 +370,7 @@ Exclusion criteria (a paper must not be. . . )
   [datasets.publication]
   doi="10.12688/wellcomeopenres.17208.2"
   eligibility_criteria = "Criteria for inclusion, defined according to PECOS (Population, Exposure, Comparator, Outcome, Setting and Study design)14, including outcomes of interest are detailed in Table 1. Criteria were deliberately broad in terms of setting, frailty definition, and outcomes. Briefly, studies must include adults (≥18 years) with rheumatoid arthritis and assess frailty, although we expect studies may mainly involve ‘older’ populations. Studies were considered regardless of frailty measure, to allow comparison between different methods of identifying frailty. These could include validated measures of frailty (e.g. frailty phenotype or frailty index), adaptations of these measures where the adaptation was described, or unvalidated measures intended to capture frailty as long as the criteria used to define frailty within the study were fully described. We did not exclude studies on the basis of the criteria used to define rheumatoid arthritis (i.e. validated criteria, physician diagnosis, medical record/clinical codes or self-reported definitions were all eligible for inclusion). We included studies in any setting (community, outpatient, or inpatient). Observational studies with cross-sectional or cohort designs were eligible for inclusion. Experimental studies were excluded. When examining the association between frailty and clinical outcomes in those with rheumatoid arthritis, studies were expected to report the association between frailty and the outcome of interest. As in previous reviews of frailty15,16, considered studies that describe this either as the association with the presence or absence of frailty or the association between the degree of frailty and the outcome."
-  
+
   [datasets.data]
   doi="10.5281/zenodo.6966157"
 
@@ -394,7 +394,7 @@ eligibility_criteria = "which explicitly provided information about (1) climate 
   [datasets.publication]
   doi="10.5334/jcr.183"
 eligibility_criteria = """
-For our mapping review, we excluded (1) studies on other techniques than microdialysis (e.g. biosensors and microdialysis precursors such as push-pull perfusion), (2) studies measuring other substances than Hist and the amino acids Asn, Asp, GABA, Glu, Gln, Gly, Pro and Tau, (3) retro-dialysis studies, (4)- microdialysis studies that did not report baseline values without the specified molecules in the perfusion fluid,  (5) extra-cerebral microdialysis studies, (6) human and in vitro studies, and (7) papers not containing primary study data. Within publications, experiments using techniques other than microdialysis were also ignored (e.g. in [22]), as well as data on amino acids other than those we searched for (e.g. in [23]). Tagged studies were subsequently screened for inclusion in this review based on the following criterion (besides being included in our mapping): studies measuring one or more of the molecules of interest during (1) naturally occurring sleep stages that were validated with polysomnographic measurements and/or (2) during sleep deprivation. 
+For our mapping review, we excluded (1) studies on other techniques than microdialysis (e.g. biosensors and microdialysis precursors such as push-pull perfusion), (2) studies measuring other substances than Hist and the amino acids Asn, Asp, GABA, Glu, Gln, Gly, Pro and Tau, (3) retro-dialysis studies, (4)- microdialysis studies that did not report baseline values without the specified molecules in the perfusion fluid,  (5) extra-cerebral microdialysis studies, (6) human and in vitro studies, and (7) papers not containing primary study data. Within publications, experiments using techniques other than microdialysis were also ignored (e.g. in [22]), as well as data on amino acids other than those we searched for (e.g. in [23]). Tagged studies were subsequently screened for inclusion in this review based on the following criterion (besides being included in our mapping): studies measuring one or more of the molecules of interest during (1) naturally occurring sleep stages that were validated with polysomnographic measurements and/or (2) during sleep deprivation.
 To ensure capturing all relevant studies, we searched for studies with the terms “*sleep*”, “*REM*”, “*rest*”, “*fatig*”, and “*somn*” in the title within the studies included in our mapping review."""
 
   [datasets.data]
@@ -444,7 +444,7 @@ eligibility_criteria = "The three inclusion criteria were: 1) the paper is set i
   [datasets.publication]
   doi="10.1007/s40259-021-00508-4"
 eligibility_criteria = """
-Only original research articles were included. Congress abstracts, reviews, editorials, and other opinion articles were excluded. 
+Only original research articles were included. Congress abstracts, reviews, editorials, and other opinion articles were excluded.
 
 Articles were included if they met the following criteria: (1) study involved transitioning from a TNFα inhibitor (including etanercept, infliximab, and adalimumab) originator to a biosimilar, (2) the number of patients who retransitioned was reported or could be calculated, (3) the article was an original research article published in a peer-reviewed journal, (4) the article included baseline characteristics of the patients who transitioned, (5) the article was written in English, and (6) the full-text version of the article could be obtained"""
 
@@ -475,7 +475,7 @@ We excluded umbrella reviews and review protocols, SRs of the wrong population (
 
 [[datasets]]
 
-  key="Moran_2021"
+  key="Moran_2020"
 
   [datasets.publication]
   doi="10.1111/brv.12655"
@@ -487,12 +487,12 @@ eligibility_criteria = "We screened records to find original experimental studie
 
 [[datasets]]
 
-  key="Muthu_2021"
+  key="Muthu_2020"
 
   [datasets.publication]
   doi="10.1097/BRS.0000000000003645"
 eligibility_criteria = """
-Inclusion Criteria 
+Inclusion Criteria
 
 To be included in our study, a study should meet the following criteria:
 1. The study should be an RCT with 1:1 parallel twoarm design.
@@ -539,20 +539,20 @@ All relevant English-language studies were identified"""
 
   [datasets.publication]
   doi="10.3102/00346543211052329"
-  eligibility_criteria="""1. 
+  eligibility_criteria="""1.
 Design: We included systematic reviews, meta-analyses, or similar reviews characterized by Grant and Booth (2009), which includes rapid reviews, scoping reviews, state-of-the-art reviews, systematic searches with review, systematized reviews, mapping reviews, or systematic maps. All these methods have focused research questions and reproducible methods for sourcing and evaluating research, so are less likely to be subject to biases like selective reporting. For these reasons, we excluded non–systematic reviews, primary studies, theory papers, or narrative reviews (e.g., Sweller, 2010).
-2.  
+2.
 Interventions: We included any modification to a multimedia intervention designed to influence learning or cognitive load. We excluded reviews only comparing the effects of multimedia against other instructional technologies (e.g., multimedia vs. nothing, multimedia vs. tutoring; e.g., Baker et al., 2018; Noetel et al., 2021).
-3.  
+3.
 Comparisons: We included reviews that compared multimedia with and without a multimedia design feature (e.g., with and without signaling). To be eligible, the participants did not need to be randomized in all primary studies (e.g., we included reviews that contained pre-post or quasi-experimental primary studies).
-4.  
+4.
 Outcome: We only included reviews that reported learning, achievement, or cognitive load. We excluded reviews that only reported effects on other outcomes (e.g., health; Hirschey et al., 2020; or enjoyment), but extracted all outcomes from reviews that met criteria.
-5.  
+5.
 Participants/context: Reviews on any participants were eligible for inclusion. Similarly, reviews on learning in any context (e.g., schools, universities, adult learning, public health) were eligible for inclusion; as presented below, results were moderated by the context in which they were observed (where reported).
-6.  
+6.
 Finally, reviews published in any language were eligible, but searches were limited to post-1989 when systematic forms of review were introduced (Smith et al., 2011).
 """
-  
+
   [datasets.data]
   doi="10.17605/OSF.IO/UYB7X"
 
@@ -567,7 +567,7 @@ Finally, reviews published in any language were eligible, but searches were limi
   [datasets.publication]
   doi="10.3389/fpsyg.2021.677217"
   eligibility_criteria="In order to address our research questions with quality and consistency, the studies were required to present an empirical study (with quasi-experimental or experimental designs) on the efficacy of a SEL intervention for in-service preK-12 teachers in their personal and / or occupational outcomes. Thus, papers targeting university and / or pre-service teachers and those that did not access impacts on teacher-level variables were excluded. For the meta-analysis procedures to be possible, studies were only considered when sufficient information was reported to calculate the effect sizes of the interventions' impacts. Additionally, studies were included whenever the full-text version was available and published in Psychology or Educational peer-reviewed journals, after 1995, thus excluding papers published in non-peer reviewed journals and gray literature. No language constraints were applied."
-  
+
   [datasets.data]
   doi="10.25340/R4/VB85L1"
 
@@ -591,7 +591,7 @@ eligibility_criteria = "We included RCTs on four specialized psychotherapies (DB
   [datasets.publication]
   doi="10.1177/0284185117719575"
   eligibility_criteria="All bibliographic records identified through the electronic searches were collected in an electronic reference database and subjected to the following inclusion criteria: (i) patient report or patient series of patients diagnosed with Ribbing disease/multiple diaphyseal sclerosis; and (ii) clinical data on diagnosis and/or treatment."
-  
+
   [datasets.data]
   url="https://osf.io/krngx"
 
@@ -603,7 +603,7 @@ eligibility_criteria = "We included RCTs on four specialized psychotherapies (DB
   [datasets.publication]
   doi="10.1080/17453674.2018.1443635"
   eligibility_criteria="The inclusion criteria were: (1) primary TKR, and (2) MTPM. MTPM is the unit of measurement for the largest 3D migration of any point on the prosthesis surface (Ryd et al. 1995). Migration pattern was defined as at least 2 postoperative follow-up moments within the first 2 years of follow-up. Non-clinical studies (animal, phantom) were excluded"
-  
+
   [datasets.data]
   url="https://osf.io/krngx"
 
@@ -615,7 +615,7 @@ eligibility_criteria = "We included RCTs on four specialized psychotherapies (DB
   [datasets.publication]
   doi="10.2196/44904"
   eligibility_criteria="The inclusion criteria for the analyzed articles were as follows: (1) study participants were children (aged 0-18 years) with spastic CP; (2) the therapy described was focused on hands or upper limbs motor skills; (3) the therapy used innovative technology (ie, electronic tools, systems, and devices); (4) the therapy used playful elements such as video games or toys; and (5) the publications consisted of peer-reviewed academic articles or conference proceedings that were published between 2009 and 2022. The exclusion criteria included (1) insufficient information about the game or play activity or referred to traditional therapies without the support of technologies (eg, bimanual, constrained-induced movement, and Pirate Therapy), (2) lack of focus on the treatment used, (3) written in a different language than English, (4) unavailability to access the full text at the time of analysis, and (5) incomplete inclusion criteria. Disagreements between reviewers with regard to the exclusion criteria were resolved through discussion."
-  
+
   [datasets.data]
   doi="10.17605/OSF.IO/MK76S"
 
@@ -658,7 +658,7 @@ Exclusion criteria:
   [datasets.publication]
   doi="10.3102/00346543211051423"
   eligibility_criteria="We organized our inclusion criteria based on the following characteristics of the published articles identified in our search: (a) study, (b) student, and (c) intervention. In each section below, we specifically detail the inclusion criteria utilized in our literature search. As an overview, the included sample of recent reading intervention studies met What Works Clearinghouse quality standards (IES, 2020) and were composed of targeted K–3 SWRD interventions, whose sample was not solely composed of English learners (EL), and who received instruction delivered in English, in the United States, by a human instructor."
-  
+
   [datasets.data]
   doi="10.17605/OSF.IO/UYB7X"
 
@@ -673,7 +673,7 @@ Exclusion criteria:
   [datasets.publication]
   doi="10.1177/1362361319885215"
   eligibility_criteria="Studies were included based on the following criteria: (1) group study designs included cohort studies and clinical trials; (2) participants included were children with ASD from birth to 21 years, and if other diagnoses were included, the results of participants with ASD were statistically analyzed separately; (3) all types of motor and physical activity interventions; (4) motor outcome of body structure and function, activity, or societal participation was measured using an objective outcome measure and statistically analyzed; (5) published in English; and (6) the study investigated either (a) the effects of a motor intervention on a motor outcome or (b) the effects of a motor learning variable on motor skill acquisition, transfer, and/or retention. Studies were excluded based on the following criteria: abstracts, conference proceedings, and dissertations. In addition, we did not include studies published before 2000, in order to focus on current research that used contemporary methods to diagnose ASD, such as the Autism Diagnosis Observation Schedule (ADOS), Diagnostic and Statistical Manual of Mental Disorders-IV (DSM-IV), or Diagnostic and Statistical Manual of Mental Disorders-V (DSM-V)."
-  
+
   [datasets.data]
   doi="10.25340/R4/VB85L1"
 
@@ -685,10 +685,10 @@ Exclusion criteria:
   [datasets.publication]
   doi="10.3390/mti7100096"
   eligibility_criteria="Given that the Publish or Perish software categorises the retrieved items according to their type, a decision was made to limit the research to articles and conference papers due to their relevance as a channel for broadcasting scientific knowledge. In addition, records whose title is not in English or Spanish were deleted. This was followed by an individual review of the retrieved items through assessing the abstract to determine whether or not they relate to the area under investigation."
-  
+
   [datasets.data]
   doi="10.5281/zenodo.7973865"
-  
+
 
 [[datasets]]
 
@@ -716,7 +716,7 @@ eligibility_criteria = "Inclusion criteria for the systematic review were: (1) o
 
 [[datasets]]
 
-  key="Smid_2020"
+  key="Smid_2019"
 
   [datasets.publication]
   doi="10.1080/10705511.2019.1577140"
@@ -754,7 +754,7 @@ b. Studies with scales with at least one subscale comparable to the three subsca
 6) The study provides sufficient quantitative data to calculate the standardized mean change, that is, M, SD, n for pre- and post-test (mixed-methods studies are included).
 7) The study is written in English or German.
 8) The study is available in full text."""
-  
+
   [datasets.data]
   doi="10.17605/OSF.IO/UYB7X"
 
@@ -773,7 +773,7 @@ Moreover, training programs had to target university students (on campus or dist
 Studies had to report sufficient information to compute effect sizes (N, M, SD). If information on means and standard deviations was not available, effect sizes were computed based on the respective F-values of the interaction term of group (control vs. training) and time (pre vs. post training).
 Only studies using experimental or quasi-experimental pre-post control group designs were included. This was done to assure a comparable methodological standard and to reduce the problem of garbage in garbage out. If pretest means were not reported, studies were only included if they had tested that there were no significant differences between groups before starting the training. Moreover, samples had to include at least ten participants per group to assure that effect sizes were approximately normally distributed (Hedges & Olkin, 1985).
 Finally, studies had to report at least one of five outcome measures: students’ academic performance, cognitive strategies, metacognitive strategies, resource management strategies, or motivational outcomes."""
-  
+
   [datasets.data]
   doi="10.17605/OSF.IO/UYB7X"
 
@@ -788,7 +788,7 @@ Finally, studies had to report at least one of five outcome measures: students�
   [datasets.publication]
   doi="10.3758/s13428-021-01549-x"
   eligibility_criteria="We considered any study reporting quantitative data concerning treatment efficacy on individuals with dyslexia/reading disorder. The following criteria had to be met for inclusion: (a) the treatment approach can be of any type, but it must aim to improve reading performance as its ultimate goal; (b) the manuscript must be written in English or any other language understood by one of the authors (including Spanish, French, Italian, Portuguese, and Hungarian); (c) participants must either be clinically diagnosed with developmental dyslexia (or reading disability or reading disorder) or having a profile compatible with a reading disorder as reported by the authors; in the latter case, participants must have reading performance either below the 25th percentile or one standard deviation below the population mean as assessed using standardized tests in their mother tongue; (d) participants must be described as having normal intelligence or an IQ not below 70 (if reported); (e) any comorbidity or co-occurring condition is acceptable, but they must be compatible with dyslexia status (e.g., deafness, neurological conditions, intellectual disability in one or more participants, or low socioeconomic status as a predominant condition of the entire sample, are exclusion criteria); (f) the study must include at least one control group comprising individuals with dyslexia, who must either be untreated, waiting list, or active control (e.g., a placebo condition; no comparisons between alternative/competing treatments were considered); (g) group allocation must be randomized; however, studies which did not explicitly mention whether the allocation was randomized were still included and labelled as “unclear”; the analyses were later performed both with and without these studies; (h) participants’ reading ability must be assessed at least twice, including before (pre-test score) and after treatment (post-test score)."
-  
+
   [datasets.data]
   doi="10.25340/R4/VB85L1"
 
@@ -800,7 +800,7 @@ Finally, studies had to report at least one of five outcome measures: students�
   [datasets.publication]
   doi="10.1016/j.neubiorev.2018.07.016"
   eligibility_criteria="The systematic review included studies that met the following seven criteria: (1) report STM performance defined as ≤5 min memory (Heisenberg, 2003; Yildizoglu et al., 2015); (2) measure STM in adult Drosophila melanogaster; (3) focus on homozygous loss-of-function mutations, including broad RNA interference (RNAi) knockdown mutants; (4) use the T-maze assay; (5) report the full PI score for control and experimental flies; (6) use mutants with intact locomotor activity, olfactory acuity, and brain development processes; (7) the T-maze assay uses electric shock to condition one of two odors, and memory is tested in an odor-choice assay"
-  
+
   [datasets.data]
   doi="10.5281/zenodo.1307117"
 
@@ -861,7 +861,7 @@ Studies included in this review were performed among adults (defined as eighteen
 
 [[datasets]]
 
-  key="van_Dis_2020"
+  key="van_Dis_2019"
 
   [datasets.publication]
   doi="10.1001/jamapsychiatry.2019.3986"
@@ -884,7 +884,7 @@ English language articles only"""
   [datasets.publication]
   doi="10.1111/dmcn.14781"
   eligibility_criteria="In order to be included in the review, studies had to fulfil the following criteria: (1) they had to address children with DCD: children who met the diagnostic criteria for DCD according to the Diagnostic and Statistical Manual of Mental Disorders (DSM), Fourth or Fifth Editions, or children with motor impairment as assessed with a standardized motor test (e.g. Movement Assessment Battery for Children [MABC] score below the 16th centile as a cut-off) or another appropriate, valid, reliable, and standardized motor test (appropriately norm-referenced). Also, articles in which children with probable DCD were identified by means of questionnaires like the DCD Questionnaire were included; (2) the participants’ mean age had to be between 5 and 13 years; (3) studies addressed associations between DCD (or motor impairment) and early life factors (i.e. pregnancy-related factors, birth factors, child factors, or sociodemographic determinants). Early life factors were defined as factors occurring in the period ranging from pregnancy until 3 months post-term, since the latter age is characterized by a major neurodevelopmental transition.16 We excluded studies that: (1) included fewer than 10 participants; (2) were reviews or case-reports; and (3) specifically addressed the effect of drugs (e.g. caffeine) or nutritional supplements (e.g. vitamin D and vitamin A). The application of the DSM-5 criteria for inclusion also implied that studies that included children with a neurological disorder such as cerebral palsy (CP) were excluded. Studies that addressed the follow-up of specific groups of infants at increased risk of neurodevelopmental disorders (e.g. infants with neonatal hypoxic ischaemic encephalopathy or infants born preterm with a lesion of the brain but no diagnosis of CP) were eligible for our study."
-  
+
   [datasets.data]
   doi="10.25340/R4/VB85L1"
 
@@ -899,7 +899,7 @@ English language articles only"""
 Candidate papers must deal with climate change effects (e.g. papers about the impact of temperature on AC adoption and/or energy use are excluded if they do not specifically consider climate change scenarios; likewise for papers about current trends without explicitly considering climate change).
 Candidate papers must deal with the impact of climate change on energy (and not the other way around) (e.g. papers dealing with the impacts of energy consumption on climate change magnitude are out of scope).
 Candidate papers must deal with energy demand (e.g. impacts of climate change on renewable electricity production potential or physical impact of climate change on electricity transport network are out of scope)."""
-  
+
   [datasets.data]
   doi="10.5281/zenodo.4452046"
 
@@ -914,7 +914,7 @@ Candidate papers must deal with energy demand (e.g. impacts of climate change on
   [datasets.publication]
   doi="10.1016/j.envint.2017.12.032"
 eligibility_criteria = """
-In order to be eligible for inclusion, studies had to satisfy eligibility criteria specified by the PECO statement (Table 1). 
+In order to be eligible for inclusion, studies had to satisfy eligibility criteria specified by the PECO statement (Table 1).
 
 Population: Human or animal (whole organism) without restriction based on age, sex, or life stage at exposure or outcome assessment
 
@@ -945,7 +945,7 @@ The following additional criteria were also used for exclusion:
   [datasets.publication]
   doi="10.1177/1087054720972801"
   eligibility_criteria="Inclusion and exclusion criteria were determined to address the research questions (see Table 2). Teacher training interventions that were primarily or solely comprised of psychoeducation and/ or behavioral strategies to address ADHD specifically were the focus of this review and meta-analysis, and interventions where ADHD formed a minor part of the content, or more broadly focused interventions for problem behaviors, were excluded. If the study sample included a mixture of teachers from both mainstream and special education settings, the study was only included if it was possible to obtain and extract the data for mainstream teachers only."
-  
+
   [datasets.data]
   doi="10.25340/R4/VB85L1"
 
@@ -981,7 +981,7 @@ eligibility_criteria = "Studies were included in this systematic review when the
   [datasets.publication]
   doi="10.1016/j.jalz.2018.01.007"
 eligibility_criteria = """
-the following inclusion criteria: (1) cohort studies or longitudinal studies conducted with routinely collected health care data (e.g., national medical registries or insurance databases); (2) determinant CHD (i.e., myocardial infarction with or without angina or coronary revascularization) or CHF; and (3) report of incident dementia diagnosis as the outcome (i.e., at least all-cause dementia or AD as its most common subtype). We chose all-cause dementia as the main outcome measure of interest for this meta-analysis because a syndrome diagnosis of dementia can be defined with high consistency across studies and is less dependent on advanced diagnostic testing that is often not feasible in large (population-based) studies. 
+the following inclusion criteria: (1) cohort studies or longitudinal studies conducted with routinely collected health care data (e.g., national medical registries or insurance databases); (2) determinant CHD (i.e., myocardial infarction with or without angina or coronary revascularization) or CHF; and (3) report of incident dementia diagnosis as the outcome (i.e., at least all-cause dementia or AD as its most common subtype). We chose all-cause dementia as the main outcome measure of interest for this meta-analysis because a syndrome diagnosis of dementia can be defined with high consistency across studies and is less dependent on advanced diagnostic testing that is often not feasible in large (population-based) studies.
 
 To provide more insight into the association of CHDandCHFwithdementiaindependentofmanifestcerebrovascular disease, we therefore adopted a clinical diagnosis of AD (per study protocol) as a secondary outcome measure. If multiple results were reported for the same cohort, we preferred the longer follow-up duration [10, 11], longer follow-up along with more comprehensive assessment of exposure [12, 13], larger number of incident dementia cases [14–17], most contemporary data [13], or the study in which selection bias was considered least likely [18]. I"""
 
@@ -1024,14 +1024,14 @@ g.
 The study focused only on a specific aspect of internationalization, such as internationalization of the curriculum or distance learning;
 h.
 The study was published as an abstract (paper or poster abstract), a dissertation abstracts, an editorial, a letter, a book review, a literature review or a paper or abstract in proceedings of a conference."""
-  
+
   [datasets.data]
   doi="10.17605/OSF.IO/UYB7X"
 
 
 [[datasets]]
 
-  key="Zakeri‐Nasrabadi_2023a"
+  key="Zakeri-Nasrabadi_2023a"
 
   [datasets.publication]
   doi="10.1145/3596908"
@@ -1047,7 +1047,7 @@ The study was published as an abstract (paper or poster abstract), a dissertatio
 
 [[datasets]]
 
-  key="Zakeri‐Nasrabadi_2023b"
+  key="Zakeri-Nasrabadi_2023b"
 
   [datasets.publication]
   doi="10.1016/j.jss.2023.111796"
@@ -1064,7 +1064,7 @@ The study was published as an abstract (paper or poster abstract), a dissertatio
 
   [datasets.data]
   doi="10.5281/zenodo.7993619"
-  
+
 
 [[datasets]]
 
@@ -1076,7 +1076,6 @@ The study was published as an abstract (paper or poster abstract), a dissertatio
   [datasets.publication]
   doi="10.3102/00346543211070047"
   eligibility_criteria="To address our specified research questions, studies were screened to ensure they met our inclusion criteria. Specifically, studies were included if they (1) included a sample of either children under the age of 6 living in the United States or early childhood care and education programs located in the United States; (2) included a measure of exclusion (e.g., suspension, early pick-ups, or expulsion) or exclusion risk (e.g., teachers’ requests of expulsion or perceived expulsion risk); and (3) were published in English in a peer-reviewed academic journal."
-  
+
   [datasets.data]
   doi="10.17605/OSF.IO/UYB7X"
-

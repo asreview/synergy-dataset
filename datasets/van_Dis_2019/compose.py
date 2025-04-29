@@ -23,4 +23,4 @@ df = utils.extract_pmid(df, "Ref", "", False, True)
 df = utils.drop_duplicates(df)
 
 # Write output
-utils.write_ids_files("van_Dis_2020", df)
+utils.write_ids_files("van_Dis_2019", df)
