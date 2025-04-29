@@ -205,6 +205,18 @@ All English-language titles and abstracts and suggested additional citations wer
 
 [[datasets]]
 
+  key="Clarinval_2021"
+
+  [datasets.publication]
+  doi="10.1109/tits.2021.3092036"
+  eligibility_criteria="1) Articles not written in English. 2) Duplicated articles 3) Articles published before 2008 4) Secondary studies 5) Articles published in poster, challenge, or demo tracks 6) Articles that do not provide any figure representing the proposed visualizations 7) Articles proposing visualizations not directly destined to any end-user 8) Traffic beyond the city scale"
+  
+  [datasets.data]
+  doi="10.5281/zenodo.4287513"
+
+
+[[datasets]]
+
   key="Clark_2021"
 
   [datasets.collection]
@@ -384,6 +396,18 @@ We excluded trials comparing drugs or nutritional supplementations, acupuncture,
 
 [[datasets]]
 
+  key="Kapuka_2021"
+
+  [datasets.publication]
+  doi="10.1002/ecs2.3860"
+eligibility_criteria = "which explicitly provided information about (1) climate change-related impacts on ecosystems, species, or populations, (2) provided evident characteristics of these ecological units, and (3) informed about management actions supporting adaptation to climate change."
+
+  [datasets.data]
+  doi="10.5281/zenodo.5558905"
+
+
+[[datasets]]
+
   key="Leenaars_2019"
 
   [datasets.publication]
@@ -406,6 +430,18 @@ eligibility_criteria = "We included all studies in which MTX was administered to
 
   [datasets.data]
   doi="10.17605/OSF.IO/T7GYR"
+
+
+[[datasets]]
+
+  key="Low_2023"
+
+  [datasets.publication]
+  doi="10.1016/j.agsy.2023.103606"
+eligibility_criteria = "The three inclusion criteria were: 1) the paper is set in the developed economies of Europe (EU28), Northern America, Australasia, and Eastern Asia (excluding China); 2) the paper has a focus on agricultural and/or food production, or on agricultural supply and/or value chains; and 3) the paper can specify a mixed farming or agroforestry system."
+
+  [datasets.data]
+  doi="10.5281/zenodo.10468688"
 
 
 [[datasets]]
@@ -778,6 +814,18 @@ Finally, studies had to report at least one of five outcome measures: students�
 
 [[datasets]]
 
+  key="Tumkaya_2018"
+
+  [datasets.publication]
+  doi="10.1016/j.neubiorev.2018.07.016"
+  eligibility_criteria="The systematic review included studies that met the following seven criteria: (1) report STM performance defined as ≤5 min memory (Heisenberg, 2003; Yildizoglu et al., 2015); (2) measure STM in adult Drosophila melanogaster; (3) focus on homozygous loss-of-function mutations, including broad RNA interference (RNAi) knockdown mutants; (4) use the T-maze assay; (5) report the full PI score for control and experimental flies; (6) use mutants with intact locomotor activity, olfactory acuity, and brain development processes; (7) the T-maze assay uses electric shock to condition one of two odors, and memory is tested in an odor-choice assay"
+  
+  [datasets.data]
+  doi="10.5281/zenodo.1307117"
+
+
+[[datasets]]
+
   key="van_Ballegooijen_2024"
 
   [datasets.publication]
@@ -1002,7 +1050,7 @@ The study was published as an abstract (paper or poster abstract), a dissertatio
 
 [[datasets]]
 
-  key="Zakeri‐Nasrabadi_2023"
+  key="Zakeri‐Nasrabadi_2023a"
 
   [datasets.publication]
   doi="10.1145/3596908"
@@ -1014,6 +1062,27 @@ The study was published as an abstract (paper or poster abstract), a dissertatio
 
   [datasets.data]
   doi="10.5281/zenodo.7533578"
+
+
+[[datasets]]
+
+  key="Zakeri‐Nasrabadi_2023b"
+
+  [datasets.publication]
+  doi="10.1016/j.jss.2023.111796"
+  eligibility_criteria = """• EC1: The articles repeated in citation databases were removed. We kept only one version of each duplicated article.
+• EC2: Articles whose main text was written in any language other than English or only their abstract and keywords were in English were eliminated.
+• EC3: Articles whose total text was less than three pages were removed. After reviewing them, we removed these articles and ensured they did not contain significant contributions. If there are good clues in these articles to find other suitable topics and articles, we consider these clues while applying the inclusion criteria and snowballing phases.
+• EC4: Articles that did not directly discuss a source code similarity measurement approach in their abstract were removed. For example, some papers have discussed binary code similarity.
+• EC5: The papers that had not proposed an automated approach for source code similarity measurement were removed. We excluded these articles since the similarity measurement technique was necessary when classifying methods.
+• EC6: Theses, books, journal covers and metadata, secondary, tertiary, empirical, and case studies were removed.
+• IC1: At least one keyword of the article existed in our search string.
+• IC2: The title or abstract of the article is about the measurement or application of the source code similarity.
+• IC3: The article has been cited at least once. This criterion was considered only for articles that were published before 2021. Using this condition, we could ensure other researchers in the community have considered the paper.
+• IC4: The conference paper is considered if it does not have any journal extension. Otherwise, only its journal extension was included since articles published in a journal often offer more complete descriptions than their conferences counterpart."""
+
+  [datasets.data]
+  doi="10.5281/zenodo.7993619"
   
 
 [[datasets]]
