@@ -33,6 +33,6 @@ def test_dataset_keys():
             c for c in unicodedata.normalize('NFD', surname) if unicodedata.category(c) != 'Mn'
         )
 
-        openalex_key = f"{surname}_{work["publication_year"]}"
+        openalex_key = f"{surname}_{work['publication_year']}"
 
         assert openalex_key in dataset["key"]
