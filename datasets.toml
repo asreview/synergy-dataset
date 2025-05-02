@@ -190,6 +190,35 @@ All English-language titles and abstracts and suggested additional citations wer
 
 [[datasets]]
 
+  key="Chueca_2023"
+
+  [datasets.publication]
+  doi="10.1016/j.infsof.2023.107330"
+  eligibility_criteria="""The following criteria state when we excluded a study from our
+study:
+• Studies that were duplicates of other studies.
+• Studies that were not written in English.
+• Studies that were not published online between 2009 to 2021.
+• Studies presenting non-peer-reviewed material.
+• Studies presenting peer-reviewed but not published in journals,
+conferences, or workshops.
+• Studies that were summaries of conferences/editorials.
+• Non-primary studies.
+The following criteria state when we included a study in the study:
+• Studies that were not focused on the social and educational
+impact of video games, such as serious games.
+• Studies that were not focused on Artificial Intelligence (AI).
+• Studies that were not focused on Content Creation.
+• Studies that were in the field of Software Engineering.
+• Studies that were focused on software engineering applied to
+industry-scale computer games development."""
+
+  [datasets.data]
+  doi="10.5281/zenodo.8242657"
+
+
+[[datasets]]
+
   key="Cinquin_2018"
 
   [datasets.collection]
