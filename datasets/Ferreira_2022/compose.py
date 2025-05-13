@@ -30,6 +30,7 @@ inclusions = [
 ft = pd.DataFrame(inclusions)
 
 # Process data
+search = utils.extract_doi(search, "url", "doi=", "&")
 search = utils.extract_pmid(search, "pubmed_id")
 search = utils.extract_pmid(search, "url", "https://pubmed.ncbi.nlm.nih.gov/")
 
