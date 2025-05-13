@@ -312,7 +312,7 @@ eligibility_criteria = "The following inclusion criteria were applied: emicizuma
   key="Ferreira_2022"
 
   [datasets.publication]
-  doi="https://doi.org/10.1017/s0007114522003506"
+  doi="10.1017/s0007114522003506"
   eligibility_criteria="""Animal model of interest. Study designs to be included.
 All experimental studies with a control group, randomized or non-randomized, will be included. Case reports, reviews, dissertations, theses, letters, and editorials will be excluded, as well as, in vitro, in silico, ex vivo, and before-after studies without a control group.
 Studies with experimental animal models of class Mammalia (mammals), order Rodentia (rodents) comprising healthy individuals of both sexes subjected to Se supplementation will be included. Studies with animal models of other designations and/or with induced diseases or clinical conditions of any nature will be excluded, and so will be non-experimental models (wild or pet animals), pregnant, weaned, and pubescent animal models.
@@ -327,7 +327,7 @@ Outcome measures.
 The fasting plasma glucose (FPG) concentration will be considered the primary outcome. Secondary outcomes include other glycemic markers and Se biomarkers (Table 2). All markers unrelated to Se status and glycemic control will be excluded."""
 
   [datasets.data]
-  doi="https://doi.org/10.5281/zenodo.6363743"
+  doi="10.5281/zenodo.6363743"
 
 
 [[datasets]]
