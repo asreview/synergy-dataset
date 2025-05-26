@@ -799,6 +799,19 @@ Exclusion criteria:
 
 [[datasets]]
 
+  key="Seghers_2022"
+
+  [datasets.publication]
+  doi="10.3390/cancers14051147"
+eligibility_criteria = """We included original publications on the comparison of outcome priorities after a diagnosis of cancer; this included both studies in actual cancer patients and studies performed on other subjects asked to state their priority in the hypothetical situation of a cancer diagnosis. Studies were only included if they addressed at least three of the possible six outcome categories that were defined, which were transient short-term side effects, severe and persistent side effects, quality of life (including functioning), treatment response, progression- and disease-free survival, and overall survival (see Appendix B).
+All methods of preference elicitation were allowed, as long as the studies provided a form of prioritization of the individual outcome categories. Therefore, studies were excluded if the relative importance of outcome categories could not be elucidated due to the way the results were elicited or reported."""
+
+  [datasets.data]
+  doi="10.5281/zenodo.7194756"
+
+
+[[datasets]]
+
   key="Sep_2021"
 
   [datasets.publication]
