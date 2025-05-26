@@ -417,6 +417,18 @@ Exclusion criteria (a paper must not be. . . )
 
 [[datasets]]
 
+  key="Hamaker_2022"
+
+  [datasets.publication]
+  doi="10.1016/j.jgo.2022.04.008"
+  eligibility_criteria = "Studies were included if they fulfilled the inclusion criteria for one or more of four outcome measures. The first outcome measure was any alteration in oncologic treatment plan after the geriatric assessment. For this outcome measure, studies were included if a treatment plan was determined both prior to and after the geriatric assessment or if a comparison was made between treatment choice in patient cohorts with and without a geriatric assessment. The second outcome measure was the number and type of recommendations for non-oncologic interventions directly resulting from the findings of the geriatric assessment. The third outcome measure was the effect of the geriatric assessment on patient-doctor communication, for example differences in the content of doctor-patient conversations, care planning, or patient satisfaction with the communication process. The final outcome measure was the effect of the geriatric assessment on outcome of treatment, i.e., toxicity or treatment-related complications, treatment completion, quality of life or physical functioning, mortality, and health care utilisation (such as hospitalisation, length of stay). For both effect on communication and on outcome of treatment, studies were only included if they had a control group which did not undergo a geriatric assessment, and/or if the study had a control group that did not receive geriatric interventions or follow-up whilst the intervention group did. The control groups had to be either based on randomisation or historic/matched cohorts. Studies using a control group that was likely to be subject to confounding or selection bias were excluded (for example, if only vulnerable patients were referred for a geriatric assessment and the control group consisted of non-vulnerable patients). These studies could still be included for other outcome measures."
+
+  [datasets.data]
+  doi="10.5281/zenodo.7143942"
+
+
+[[datasets]]
+
   key="Hanlon_2022"
 
   [datasets.publication]
