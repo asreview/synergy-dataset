@@ -558,6 +558,33 @@ We excluded umbrella reviews and review protocols, SRs of the wrong population (
 
 [[datasets]]
 
+  key="Mohamed_2023"
+
+  [datasets.publication]
+  doi="10.1093/carcin/bgad091"
+eligibility_criteria = """Inclusion criteria 
+• Human studies 
+• Mentioned the method of analysis 
+• Human subjects more than 10 to calculate the statistics  
+• Mentioned the cut-off value of the antigen and healthy volunteers’ inclusion 
+• Measurement of biomarkers in body fluids including blood (serum or plasma), urine, sputum, pleural effusion, and bronchial lavage 
+• Studies focuses on NSCLC and high-risk individuals are considered for further analysis
+
+Exclusion criteria 
+• Animal studies 
+• Cell-line studies 
+• Workshop and conferences 
+• Reviews
+• Unrelated studies such as those that use antigen as a vaccine or immunotherapy 
+• Omics data such as proteomic and transcriptomics that haven’t mentioned the sensitivity /specificity/AUC of biomarkers identified
+• SCLC is excluded as it constitutes about 20% of LC"""
+
+  [datasets.data]
+  url="10.5281/zenodo.7007869"
+
+
+[[datasets]]
+
   key="Moran_2020"
 
   [datasets.publication]
