@@ -6,7 +6,7 @@ import utils
 
 # Read input
 search_in = pd.read_excel(
-    "https://zenodo.org/records/7007870/files/Whole%20systematic%20review%20for%20lung%20ca%20v7%20080221.xlsx?download=1",
+    "https://zenodo.org/records/10005252/files/Supplementary%20Data%20II%20SLR.xlsx?download=1",
     engine="openpyxl",
     sheet_name="all ref from endnote",
     header=None,
@@ -61,7 +61,25 @@ search_3.columns = [
 ]
 search_3 = utils.extract_doi(search_3, "DOI")
 
-search = pd.concat([search_1, search_2, search_3])
+# data from search 4 is comma seperated instead of ;. luckily they all start with the pmid
+search_4 = search_in.iloc[6556:7052, :].copy()
+search_4.columns = [
+    "type",
+    "the_rest",
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F",
+    "G",
+    "H",
+    "I",
+    "J",
+]
+search_4 = utils.extract_pmid(search_4, "the_rest")
+
+search = pd.concat([search_1, search_2, search_3, search_4])
 
 # FT taken from paper references
 inclusions = [
