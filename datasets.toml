@@ -324,7 +324,7 @@ EC7 Other conducted literature reviews."""
   key="Eggmann_2023"
 
   [datasets.publication]
-  doi="doi.org/10.3390/ma16072580"
+  doi="10.3390/ma16072580"
   eligibility_criteria="""2.3. Inclusion Criteria
 In vitro/laboratory study
 Use of pre-irradiation or post-irradiation bonding with a resin-based dental biomaterial (i.e., dental adhesives, resin-based composites, resin-based luting materials, resin-modified glass ionomer cements, compomers, resin-based sealants, and blocks made from resin-based composite for use in computer-aided design and computer-aided manufacturing)
