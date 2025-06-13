@@ -321,6 +321,32 @@ EC7 Other conducted literature reviews."""
 
 [[datasets]]
 
+  key="Eggmann_2023"
+
+  [datasets.publication]
+  doi="doi.org/10.3390/ma16072580"
+  eligibility_criteria="""2.3. Inclusion Criteria
+In vitro/laboratory study
+Use of pre-irradiation or post-irradiation bonding with a resin-based dental biomaterial (i.e., dental adhesives, resin-based composites, resin-based luting materials, resin-modified glass ionomer cements, compomers, resin-based sealants, and blocks made from resin-based composite for use in computer-aided design and computer-aided manufacturing)
+Data on adhesive performance in terms of bond strength, marginal discoloration, microleakage, marginal adaptation, debonding, or interfacial fracture toughness
+Specimens made from or featuring human or bovine enamel, dentin, or both
+2.4. Exclusion Criteria
+In silico study
+Clinical study
+Animal study
+Case report
+Review article
+Study assessing laser irradiation as surface pretreatment
+Study assessing irradiation as disinfection method
+Poster
+Abstract-only paper"""
+
+  [datasets.data]
+  doi="10.5281/zenodo.7662399"
+
+
+[[datasets]]
+
   key="Endedijk_2021"
 
   [datasets.collection]
