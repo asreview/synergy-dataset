@@ -309,6 +309,30 @@ criteria were (a) outcome measures solely targeting reading or spelling ability 
 
 
 [[datasets]]
+
+  key="Deckers_2022"
+
+  [datasets.publication]
+  doi="10.1016/j.jss.2022.111415"
+eligibility_criteria = """Inclusion criteria.
+We run our search queries on Google Scholar, because it covers all well-known scientific publication sources, like ACM, Springer, and IEEE. Our inclusion criteria are:
+(I1) Research publications subject to scientific peer review. Studies that were not submitted to scientific peer review might have claims that are not objectively verified on credibility. So, journal papers, PhD theses, and papers in conference or workshop proceedings, are considered. Also books and technical reports issued by respected institutes or authors are taken into account. But white papers, or articles in commercial magazines, are discarded.
+(I2) Studies written in English.
+(I3) Studies available online as full text. Exceptions can be made for well-known books on the subject.
+Exclusion criteria.
+The exclusion criteria are:
+(E1) Studies that do not contribute any specification technique for DO specifications, which includes DMs, DSLs, domain-based specifications, and DO integration specifications. For example, we exclude studies in which specifications, like requirements or DSL definitions, are only used as an example, while they do not explain how to make them.
+(E2) Studies that focus on techniques for testing, reviewing, or checking specifications. We are looking for techniques in the context of system development, i.e., the creation and maintenance of domain-oriented specifications.
+(E3) Studies that focus on techniques for human behavior or on how to organize the specification process. For example, SCRUM prescribes the specification of all work items, but it does not address how to specify them or how to apply them correctly.
+(E4) Secondary and tertiary studies (e.g., systematic literature reviews, surveys, etc.). It is important to note that, though secondary studies are excluded, we may use them for precisely scoping the contribution of this SLR and for checking the completeness of the set of selected primary studies.
+(E5) Studies that describe an approach for creating a DS and that do not comply with our notion of DM as explained in Section 2.1. As such we exclude studies that consider a domain as a set of systems or applications. We are interested in studies that see a domain specification as a language, and not as a framework to specify applications and systems. Of course, we will include a study if parts of it offer specification techniques that do comply with our notion of DM.
+(E6) Studies that mainly focus on implementing DSs in a target environment without using an explicit DS of that environment. Transformation specifications from a source DS to a target DS are in scope. But transformations from a source domain to program code, without an explicit DS of the targeted software environment, are excluded."""
+
+  [datasets.data]
+  doi="10.5281/zenodo.6635964"
+
+
+[[datasets]]
   # Processes 1 dataset (https://osf.io/tnxju/)
 
   key="Donners_2021"
