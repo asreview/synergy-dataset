@@ -1126,6 +1126,44 @@ English language articles only"""
 
 [[datasets]]
 
+  key="van_Heugten_Breurkes_2022"
+
+  [datasets.publication]
+  doi="10.1145/3530019.3530028"
+  eligibility_criteria="""the focus of the the paper is not primarily on automated
+software testing
+• topic is teaching-specific
+• not software testing, e.g., system, hardware, deployment
+configuration
+• manual testing
+• model checking and symbolic execution
+• optimisation or prioritisation (of testing execution)
+• in-line code assertions instead of test cases
+• test data generation (test case generation and assertion generation were included)
+• experience report with no qualitative or quantitative analysis
+• not software (e.g., testing in a manufacturing context)
+• not reporting results properly (i.e. not following commonly
+accepted guidelines [42])
+• behind a paywall (typically other than ACM, IEEE, Springer,
+Elsevier, Wiley)
+• not written in English
+selecting papers from the
+MS pool that met any of the following inclusion criteria:
+• papers that mine data from existing software repositories to
+understand practices used
+• surveys, interviews and focus groups used to understand
+industry practices
+• empirical studies with industrial applications
+• techniques proposed or discussed by industry
+• academic case studies or experiments in which industry
+representatives participated"""
+
+  [datasets.data]
+  doi="10.5281/zenodo.6400077"
+
+
+[[datasets]]
+
   key="van_Hoorn_2020"
 
   [datasets.collection]
