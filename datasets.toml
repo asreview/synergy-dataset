@@ -473,6 +473,30 @@ The fasting plasma glucose (FPG) concentration will be considered the primary ou
 
 [[datasets]]
 
+  key="Greca_2023"
+
+  [datasets.publication]
+  doi="10.1145/3579851"
+  eligibility_criteria = """to be included in the review, a paper must satisfy at least one of these inclusion criteria:
+• It introduces a new regression testing technique and provides evidence that it addresses a real-world concern or provides substantial benefits in experiments performed with real software;
+• It introduces and/or discusses a metric for evaluating regression testing techniques with evidence that it might be valuable in practice; or
+• It provides a case study of how regression testing is done in a certain team or company and provides some insight into the actual needs of practitioners.
+We also want to avoid certain topics that are related to regression testing but would increase the scope of the review beyond necessary. A paper should be excluded according to following criteria:
+• It is regarding software testing education, as this is a completely different challenge;
+• It proposes a technique for test suite generation, which is a related albeit distinct problem from TSA 4;
+• It is concerning security testing, because it typically requires specific types of techniques [35]; or
+• It is concerning software product lines or highly configurable software, as these also present quite different challenges from typical regression testing [29].
+The writing and presentation quality should not hinder comprehension;
+• A paper should provide evidence that they address a problem found in real-world software development and/or that the technique was evaluated on real-world software;
+• The metrics used for evaluation should be clear and the authors should provide some reasoning as to why they are relevant; and
+• In case there are multiple papers by the same group of authors that reference versions of the same work, we keep the most extensive one, avoiding, for instance, a conference paper and a journal paper that address the same research (if they are equivalent, we keep the most recent one)."""
+
+  [datasets.data]
+  doi="10.5281/zenodo.7514250"
+
+
+[[datasets]]
+
   key="Hall_2011"
 
   [datasets.collection]
