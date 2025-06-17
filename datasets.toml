@@ -166,6 +166,35 @@ eligibility_criteria = "Criteria for studies to be included in the review were: 
 
 [[datasets]]
 
+  key="Chakraborty_2023"
+
+  [datasets.publication]
+  doi="10.1007/s10270-023-01117-1"
+eligibility_criteria = """1. It is clear from the title that modelling/diagrams are not a contribution.
+2. The conference/journal is from a different field of science.
+3. The paper is not peer reviewed.
+4. The paper discusses properties of modelling languages or compares languages.
+5. The paper has a prose title, or clearly points into a different direction than investigated in our review.
+6. The paper is about descriptive models of a scientific or real-life concept, as opposed to a system. For instance, process improvement models such as CMMI, or models of course curricula.
+7. Modelling in a different domain of computer science, e.g. database models, machine learning models, or neural network models.
+8. Extended abstracts for tool demos or posters.
+9. Meta studies such as literature reviews, or comparative studies such as controlled experiments.
+1. Creation of models is not clearly mentioned in the abstract.
+2.It is clear from the abstract that the paper focuses on any of the following.
+(a) Language design/meta modelling
+(b) Model transformations
+(c) Secondary studies such as SLRs
+(d) Controlled experiments or other comparative studies
+(e) Descriptive models of a scientific or real-life concept, as opposed to a software system
+(f) Architectural styles or design patterns
+(g) AI-based modelling guidance"""
+
+  [datasets.data]
+  doi="10.5281/zenodo.7685694"
+
+
+[[datasets]]
+
   # Part of Cohen et al. 2006 https://doi.org/10.1197/jamia.M1929
 
   key="Chou_2003"
