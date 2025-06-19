@@ -604,7 +604,7 @@ eligibility_criteria = "We included all studies in which MTX was administered to
 
 [[datasets]]
 
-  key="Lewowski_2022"
+  key="Lewowski_2021"
 
   [datasets.publication]
   doi="10.1016/j.infsof.2021.106783"

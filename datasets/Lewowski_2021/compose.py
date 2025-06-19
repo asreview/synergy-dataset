@@ -15,4 +15,4 @@ df = utils.extract_labels(df, "Final result", "Accepted", "include decision", "Y
 df = utils.drop_duplicates(df)
 
 # Write output
-utils.write_ids_files("Lewowski_2022", df)
+utils.write_ids_files("Lewowski_2021", df)
