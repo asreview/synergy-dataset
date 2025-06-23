@@ -1014,6 +1014,29 @@ Exclusion criteria:
 
 [[datasets]]
 
+  key="Santos_2018"
+
+  [datasets.publication]
+  doi="10.1016/j.jss.2018.07.035"
+  eligibility_criteria = """As the inclusion criteria, we only included:
+• Papers written in English.
+• Papers from journal, conference or workshop. We did not consider gray literature, such as technical reports or Ph.D. thesis.
+• Full papers. This criterion was proposed after in-depth readings. We considered that the short papers constraint of space makes difficult a consistent presentation of empirical results. We defined short paper as a paper with less than five pages. 
+We removed a paper if it was:
+• Not from software engineering. Once we adopted some generic terms, we noticed that many papers were related to other fields of engineering on science. For example, it was common to find papers addressing smells, in the sense of odor.
+• Not addressing smell effect. An example of a papers removed because of this criterion was a paper investigating component modularity (Yu and Ramaswamy, 2009), where the authors only declared to be related to smell, but they did not investigate the smell effect.
+• Focused on evaluation of automatic detection tools and heuristics. Their findings were usually related to the quality of their heuristics in comparison with other strategy of smell detection or human perception.
+• Focused on refactoring issues. Some papers evaluated refactoring tools or strategies. We also found papers investigating types of refactoring being used.
+• Focused on visualization tools. In these cases, the findings point to effectiveness of the tools. Due to this, we considered them out of scope of our SR.
+• Focused on metrics for smells. Also in these cases, the findings are not related to smell effect, but to the quality of metrics.
+• Not focused on smells for code design. We found papers using the term smell, but not related to code design."""
+
+  [datasets.data]
+  doi="10.5281/zenodo.1188977"
+
+
+[[datasets]]
+
   key="Seghers_2022"
 
   [datasets.publication]
