@@ -21,4 +21,4 @@ df = utils.combine_datafiles(search, ft)
 df = utils.drop_duplicates(df)
 
 # Write output
-utils.write_ids_files("Kingsley_2022", df)
+utils.write_ids_files("Attai_2022", df)

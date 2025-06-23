@@ -106,6 +106,27 @@ eligibility_criteria = "We included WD patients of any age or stage. The study d
 
 [[datasets]]
 
+  key="Attai_2022"
+
+  [datasets.publication]
+  doi="10.3390/tropicalmed7120398"
+eligibility_criteria = """In our study, the following inclusion criteria were considered during the literature review:
+Relevance of the topic of each study to the tropical disease diagnosis concepts
+The level of comprehensiveness and evaluation followed in the study
+Whether the study was peer-reviewed
+In this study, the following exclusion criteria were considered during the literature review:
+Conference/poster abstract
+Duplicate instances of the same study
+Focus of the study does not answer RQs
+Focus is not ML for tropical disease
+Not written in English"""
+
+  [datasets.data]
+  doi="10.5281/zenodo.7243307"
+
+
+[[datasets]]
+
   key="Bakker-Jacobs_2022"
 
   [datasets.publication]
@@ -598,27 +619,6 @@ eligibility_criteria = "which explicitly provided information about (1) climate 
 
   [datasets.data]
   doi="10.5281/zenodo.5558905"
-
-
-[[datasets]]
-
-  key="Kingsley_2022"
-
-  [datasets.publication]
-  doi="10.3390/tropicalmed7120398"
-eligibility_criteria = """In our study, the following inclusion criteria were considered during the literature review:
-Relevance of the topic of each study to the tropical disease diagnosis concepts
-The level of comprehensiveness and evaluation followed in the study
-Whether the study was peer-reviewed
-In this study, the following exclusion criteria were considered during the literature review:
-Conference/poster abstract
-Duplicate instances of the same study
-Focus of the study does not answer RQs
-Focus is not ML for tropical disease
-Not written in English"""
-
-  [datasets.data]
-  doi="10.5281/zenodo.7243307"
 
 
 [[datasets]]
