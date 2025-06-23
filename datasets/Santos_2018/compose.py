@@ -41,6 +41,7 @@ ft_ids["label_included"] = 1
 
 df = search.join(ft_ids.set_index("In this Spreadsheet"), on="ID Paper")
 df = df.sort_values(by=["label_included"])
+df['label_included'] = df['label_included'].fillna(value=0)
 df = utils.drop_duplicates(df)
 
 # Write output
