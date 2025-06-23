@@ -920,6 +920,31 @@ eligibility_criteria = "We included RCTs on four specialized psychotherapies (DB
 
 [[datasets]]
 
+  key="Quevedo_2023"
+
+  [datasets.publication]
+  doi="10.1109/access.2023.3333946"
+eligibility_criteria = """Our inclusion criteria in this paper are:
+Papers investigating the application of NLP techniques on the legal domain in general.
+Papers investigating the performance of NLP algorithms applied to any subdomain of the legal domain.
+Papers investigating the results of NLP algorithms applied to a legal domain dataset.
+Papers investigating the results of NLP algorithm using legal hand-made or automatically extracted ontologies.
+Papers investigating the limitation of some NLP areas on the legal domain or NLP in general.
+On the other hand, our exclusion criteria to exclude studies irrelevant to our goals were:
+Papers not in English.
+Short papers (less than four pages), opinions papers, vision or roadmap or plan papers.
+Secondary studies, like existing SMS or SLR.
+Duplicate papers. In case of duplication, the most recent version was selected.
+Case Studies without generalization.
+Non peer-reviewed.
+No full text available."""
+
+  [datasets.data]
+  doi="10.5281/zenodo.7626621"
+
+
+[[datasets]]
+
   key="Radjenovic_2013"
 
   [datasets.collection]
