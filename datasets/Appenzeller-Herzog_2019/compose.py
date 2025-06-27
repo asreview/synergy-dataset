@@ -1,19 +1,19 @@
-from asreview import ASReviewData
+from asreview import data
 import sys
 
 sys.path.append("../../scripts")
 import utils
 
 # load RIS into ASReviewData object
-ft = ASReviewData.from_file(
+ft = data.RISReader.read_data(
     "https://zenodo.org/record/3625931/files/DOKU_All%20Included_20200116_cap.txt"
-).df
-ti_ab = ASReviewData.from_file(
+)
+ti_ab = data.RISReader.read_data(
     "https://zenodo.org/record/3625931/files/DOKU_All%20FT-Screening_20200116_cap.txt"
-).df
-search = ASReviewData.from_file(
+)
+search = data.RISReader.read_data(
     "https://zenodo.org/record/3625931/files/DOKU_All%20TiAb-Screening_20200116_cap.txt"
-).df
+)
 
 # set labels and turn into single dataframe
 df = utils.combine_datafiles(search, ft, ti_ab)

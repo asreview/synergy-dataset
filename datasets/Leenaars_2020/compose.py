@@ -1,4 +1,4 @@
-from asreview import ASReviewData
+from asreview import data
 import pandas as pd
 import sys
 
@@ -6,8 +6,8 @@ sys.path.append("../../scripts")
 import utils
 
 # load RIS files into ASReviewData object
-df_pubmed = ASReviewData.from_file("https://osf.io/download/435yd/").df
-df_embase = ASReviewData.from_file("https://osf.io/download/q2bca/").df
+df_pubmed = data.RISReader.read_data("https://osf.io/download/435yd/")
+df_embase = data.RISReader.read_data("https://osf.io/download/q2bca/")
 ft = pd.read_excel("https://osf.io/download/r94qm/", sheet_name="FT_included")[
     ["title"]
 ]

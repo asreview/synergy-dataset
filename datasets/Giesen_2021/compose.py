@@ -1,4 +1,4 @@
-from asreview import ASReviewData
+from asreview import data
 import sys
 
 sys.path.append("../../scripts")
@@ -8,10 +8,10 @@ import utils
 utils.unzip("https://osf.io/6nwg7/download", "articles.ris", "search.ris")
 utils.unzip("https://osf.io/vchfj/download", "articles.ris", "ti_ab.ris")
 
-search = ASReviewData.from_file("search.ris").df
-ti_ab = ASReviewData.from_file("ti_ab.ris").df
+search = data.RISReader.read_data("search.ris")
+ti_ab = data.RISReader.read_data("ti_ab.ris")
 
-ft = ASReviewData.from_file("https://osf.io/5djeu/download").df
+ft = data.CSVReader.read_data("https://osf.io/5djeu/download")
 
 df = utils.combine_datafiles(search, ft, ti_ab)
 

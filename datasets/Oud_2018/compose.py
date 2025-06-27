@@ -1,13 +1,13 @@
-from asreview import ASReviewData
+from asreview import data
 import sys
 
 sys.path.append("../../scripts")
 import utils
 
 # load RIS into ASReviewData object
-df = ASReviewData.from_file(
+df = data.RISReader.read_data(
     "https://osf.io/download/7shuv/?view_only=f30f6eb898e24a6f8a19734e8b1fc19b"
-).df
+)
 
 df = utils.extract_doi(df, "doi", "", "", True)
 df = utils.rename_columns(df, ft_label="included")

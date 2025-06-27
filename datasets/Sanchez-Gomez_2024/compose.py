@@ -1,13 +1,13 @@
-from asreview import ASReviewData
+from asreview import data
 import sys
 
 sys.path.append("../../scripts")
 import utils
 
 # Data comes from: https://osf.io/tg56j/
-search = ASReviewData.from_file("https://osf.io/uvf9q/download").df
-ti_ab = ASReviewData.from_file("https://osf.io/35m6h/download").df
-ft = ASReviewData.from_file("https://osf.io/z4tpn/download").df
+search = data.RISReader.read_data("https://osf.io/uvf9q/download")
+ti_ab = data.RISReader.read_data("https://osf.io/35m6h/download")
+ft = data.RISReader.read_data("https://osf.io/z4tpn/download")
 
 df = utils.combine_datafiles(search, ft, ti_ab)
 df = utils.extract_doi(df, "doi", "", "", True)

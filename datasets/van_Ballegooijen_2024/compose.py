@@ -1,4 +1,4 @@
-from asreview import ASReviewData
+from asreview import data
 import pandas as pd
 
 import sys
@@ -7,9 +7,9 @@ sys.path.append("../../scripts")
 import utils
 
 # Get input files
-search_1 = ASReviewData.from_file(
+search_1 = data.RISReader.read_data(
     "https://zenodo.org/records/15063583/files/My%20EndNote%20Library_vanBallegooijen_20210409.txt?download=1"
-).df
+)
 search_2 = pd.read_csv(
     "https://zenodo.org/records/15063583/files/update%202024%20search%20results.csv?download=1"
 )

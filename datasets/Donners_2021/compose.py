@@ -1,12 +1,12 @@
-from asreview import ASReviewData
+from asreview import data
 import sys
 
 sys.path.append("../../scripts")
 import utils
 
 # Read input
-ft = ASReviewData.from_file("https://osf.io/download/j8stn/").df
-search = ASReviewData.from_file("https://osf.io/download/zf95a/").df
+ft = data.RISReader.read_data("https://osf.io/download/j8stn/")
+search = data.RISReader.read_data("https://osf.io/download/zf95a/")
 
 df = utils.combine_datafiles(search, ft)
 
