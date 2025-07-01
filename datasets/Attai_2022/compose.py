@@ -11,13 +11,13 @@ sheets = pd.read_excel(
     sheet_name=None,
 )
 
-search = sheets["Exclude_Papers"]
+exclusions = sheets["Exclude_Papers"]
 ft = sheets["Included_Papers"]
 
-search = utils.rename_columns(search, title="Title")
+exclusions = utils.rename_columns(exclusions, title="Title")
 ft = utils.rename_columns(ft, title="Title", year="Year")
 
-df = utils.combine_datafiles(search, ft)
+df = utils.combine_datafiles(exclusions, ft)
 df = utils.drop_duplicates(df)
 
 # Write output
