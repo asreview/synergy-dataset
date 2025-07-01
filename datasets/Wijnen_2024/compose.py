@@ -1,4 +1,4 @@
-from asreview import data
+from asreview.data import RISReader
 
 import sys
 
@@ -6,16 +6,16 @@ sys.path.append("../../scripts")
 import utils
 
 # Get input data
-search = data.RISReader.read_data(
+search = RISReader.read_data(
     "https://zenodo.org/records/13957522/files/Initial%20search%20(outreach%20included).ris"
 )
-ti_ab_exclude = data.RISReader.read_data(
+ti_ab_exclude = RISReader.read_data(
     "https://zenodo.org/records/13957522/files/Excluded%20first%20round.ris"
 )
 ti_ab = search[
     ~search["primary_title"].isin(ti_ab_exclude["primary_title"])
 ].reset_index(drop=True)
-ft = data.RISReader.read_data(
+ft = RISReader.read_data(
     "https://zenodo.org/records/13957522/files/Included%20papers.ris"
 )
 

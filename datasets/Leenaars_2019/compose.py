@@ -1,5 +1,5 @@
 import pandas as pd
-from asreview import data
+from asreview.data import RISReader
 import sys
 
 sys.path.append("../../scripts")
@@ -28,8 +28,8 @@ inclusions = [
 ft = pd.DataFrame(inclusions)
 
 # load RIS files into ASReviewData object
-asr_pubmed = data.RISReader.read_data("https://osf.io/download/m523q/")
-asr_embase = data.RISReader.read_data("https://osf.io/download/exm3a/")
+asr_pubmed = RISReader.read_data("https://osf.io/download/m523q/")
+asr_embase = RISReader.read_data("https://osf.io/download/exm3a/")
 
 asr_embase = utils.extract_doi(asr_embase, "urls", "doi\/", "&")
 asr_embase = utils.extract_pmid(asr_embase, "urls", "pmid\/")

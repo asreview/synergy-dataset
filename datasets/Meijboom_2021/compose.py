@@ -1,12 +1,12 @@
-from asreview import data
+from asreview.data import RISReader
 import sys
 
 sys.path.append("../../scripts")
 import utils
 
 # load RIS from OSF into ASReviewData object
-ft = data.RISReader.read_data("https://osf.io/download/642gv/")
-search = data.RISReader.read_data("https://osf.io/download/tnvsw/")
+ft = RISReader.read_data("https://osf.io/download/642gv/")
+search = RISReader.read_data("https://osf.io/download/tnvsw/")
 
 df = utils.combine_datafiles(search, ft)
 df = utils.extract_doi(df, "doi", "", "", True)

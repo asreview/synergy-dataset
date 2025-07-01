@@ -1,11 +1,11 @@
-from asreview import data
+from asreview.data import RISReader
 import sys
 
 sys.path.append("../../scripts")
 import utils
 
 # load RIS into ASReviewData object
-df = data.RISReader.read_data(
+df = RISReader.read_data(
     "https://osf.io/download/7shuv/?view_only=f30f6eb898e24a6f8a19734e8b1fc19b"
 )
 

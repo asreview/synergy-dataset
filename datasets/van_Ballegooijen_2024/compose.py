@@ -1,4 +1,4 @@
-from asreview import data
+from asreview.data import RISReader
 import pandas as pd
 
 import sys
@@ -7,7 +7,7 @@ sys.path.append("../../scripts")
 import utils
 
 # Get input files
-search_1 = data.RISReader.read_data(
+search_1 = RISReader.read_data(
     "https://zenodo.org/records/15063583/files/My%20EndNote%20Library_vanBallegooijen_20210409.txt?download=1"
 )
 search_2 = pd.read_csv(

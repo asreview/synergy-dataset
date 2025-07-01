@@ -1,17 +1,17 @@
-from asreview import data
+from asreview.data import RISReader
 import sys
 
 sys.path.append("../../scripts")
 import utils
 
 # load RIS into ASReviewData object
-ft = data.RISReader.read_data(
+ft = RISReader.read_data(
     "https://zenodo.org/record/3625931/files/DOKU_All%20Included_20200116_cap.txt"
 )
-ti_ab = data.RISReader.read_data(
+ti_ab = RISReader.read_data(
     "https://zenodo.org/record/3625931/files/DOKU_All%20FT-Screening_20200116_cap.txt"
 )
-search = data.RISReader.read_data(
+search = RISReader.read_data(
     "https://zenodo.org/record/3625931/files/DOKU_All%20TiAb-Screening_20200116_cap.txt"
 )
 
