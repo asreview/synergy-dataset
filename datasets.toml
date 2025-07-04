@@ -436,6 +436,18 @@ Abstract-only paper"""
 
 [[datasets]]
 
+  key="Fejza_2023"
+
+  [datasets.publication]
+  doi="10.3389/fimmu.2023.1270981"
+  eligibility_criteria= "Original research articles written in English and published before 20 January 2023 were eligible for inclusion. We included studies reporting any relation between ECM molecules and the immune traits of the tumors, as well as the response to immune checkpoint inhibition. We included studies regarding patients diagnosed with cancer, regardless of the cancer type, disease staging and PD-L1 expression status. Our inclusion criteria did not involve any age restrictions, since we wished to comprise both young and older patients. Articles not published in English, whose full text was not available, letters to the editor, case reports, and poster presentations were excluded."
+
+  [datasets.data]
+  doi="10.5281/zenodo.8348665"
+
+
+[[datasets]]
+
   key="Ferreira_2022"
 
   [datasets.publication]
