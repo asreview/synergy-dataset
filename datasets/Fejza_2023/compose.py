@@ -71,15 +71,12 @@ for filename in pubs:
     next_entry_nr = 1
     # loop over lines and concatenate separate entries to 1 line so we can extract from it
     for line in file:
-        line = str(line)
-        line = line.replace("b'", "")
-        line = line.replace('b"', "")
-        line = line.replace("\\r\\n'", " ")
+        line = line.decode("utf-8").strip()
         if line.startswith(str(next_entry_nr) + ": "):
             if next_entry_nr > 1:
                 # Do the extraction for previous line
                 if "PMID" in current_entry_text:
-                    pm = re.search(r"PMID: (\d+)", current_entry_text)
+                    pm = re.search(r"PMID:\s*(\d+)", current_entry_text)
                     if pm:
                         pmids.append(pm.group(1))
             current_entry_text = line
@@ -89,7 +86,7 @@ for filename in pubs:
 
     # process final line
     if "PMID" in current_entry_text:
-        pm = re.search(r"PMID: (\d+)", current_entry_text)
+        pm = re.search(r"PMID:\s*(\d+)", current_entry_text)
         if pm:
             pmids.append(pm.group(1))
     file.close()
