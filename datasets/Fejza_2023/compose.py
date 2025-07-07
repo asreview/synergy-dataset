@@ -67,29 +67,29 @@ pmids = []
 # files are in pubmed txt file, we aim to just extract the pmid
 for filename in pubs:
     file = urlopen(filename)
-    current_line = ""
-    current_nr = 1
+    current_entry_text = ""
+    next_entry_nr = 1
     # loop over lines and concatenate separate entries to 1 line so we can extract from it
     for line in file:
         line = str(line)
         line = line.replace("b'", "")
         line = line.replace('b"', "")
         line = line.replace("\\r\\n'", " ")
-        if line.startswith(str(current_nr) + ": "):
-            if current_nr > 1:
-                # To the extraction for previous line
-                if "PMID" in current_line:
-                    pm = re.search("PMID: (\d+)", current_line)
+        if line.startswith(str(next_entry_nr) + ": "):
+            if next_entry_nr > 1:
+                # Do the extraction for previous line
+                if "PMID" in current_entry_text:
+                    pm = re.search("PMID: (\d+)", current_entry_text)
                 if pm:
                     pmids.append(pm.group(1))
-            current_line = line
-            current_nr += 1
+            current_entry_text = line
+            next_entry_nr += 1
         else:
-            current_line += line
+            current_entry_text += line
 
     # process final line
-    if "PMID" in current_line:
-        pm = re.search("PMID: (\d+)", current_line)
+    if "PMID" in current_entry_text:
+        pm = re.search("PMID: (\d+)", current_entry_text)
     if pm:
         pmids.append(pm.group(1))
     file.close()
