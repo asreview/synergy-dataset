@@ -79,9 +79,9 @@ for filename in pubs:
             if next_entry_nr > 1:
                 # Do the extraction for previous line
                 if "PMID" in current_entry_text:
-                    pm = re.search("PMID: (\d+)", current_entry_text)
-                if pm:
-                    pmids.append(pm.group(1))
+                    pm = re.search(r"PMID: (\d+)", current_entry_text)
+                    if pm:
+                        pmids.append(pm.group(1))
             current_entry_text = line
             next_entry_nr += 1
         else:
@@ -89,9 +89,9 @@ for filename in pubs:
 
     # process final line
     if "PMID" in current_entry_text:
-        pm = re.search("PMID: (\d+)", current_entry_text)
-    if pm:
-        pmids.append(pm.group(1))
+        pm = re.search(r"PMID: (\d+)", current_entry_text)
+        if pm:
+            pmids.append(pm.group(1))
     file.close()
 
 data = {"PMID": pmids}
