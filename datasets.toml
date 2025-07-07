@@ -592,6 +592,22 @@ Exclusion criteria (a paper must not be. . . )
 
 [[datasets]]
 
+  key="Harms_2024"
+
+  [datasets.publication]
+  doi="10.1186/s42854-024-00066-2"
+  eligibility_criteria = """Type: Peer-reviewed original empirical articles
+Language: English
+Publication: 2016–2022
+Geography: Europe
+Content: Is the spatial context of cities addressed? Is planning addressed as a field of action? Is any kind of nature addressed?"""
+
+  [datasets.data]
+  doi="10.5281/zenodo.8359022"
+
+
+[[datasets]]
+
   key="Hilfiker_2017"
 
   [datasets.publication]
