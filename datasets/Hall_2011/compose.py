@@ -6,6 +6,7 @@ import utils
 # Read input
 df = pd.read_csv("https://zenodo.org/record/1162952/files/Hall.csv")
 
+df = utils.rename_columns(df, title="Document Title", year="Year")
 df = utils.extract_labels(df, "label", "yes")
 
 # Write output
