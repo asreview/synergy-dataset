@@ -45,7 +45,7 @@ def package(dataset_name, output_folder):
     df["order"] = order_rows
 
     result = (
-        df.sort_values("label_included", ascending=False)
+        df.sort_values(["label_included", "label_abstract_included"], ascending=False)
         .dropna(subset="openalex_id", axis=0)
         .drop_duplicates("openalex_id")
         .sort_values("order")
@@ -55,7 +55,7 @@ def package(dataset_name, output_folder):
     if "pmid" not in list(df):
         result["pmid"] = None
 
-    result = result[["openalex_id", "doi", "pmid", "label_included"]]
+    result = result[["openalex_id", "doi", "pmid", "label_included", "label_abstract_included"]]
 
     if len(result) == 0:
         raise ValueError("No records in dataset after deduplication. Check dataset.")
@@ -153,7 +153,7 @@ if __name__ == "__main__":
         output_path = Path("..", "synergy-release", dataset["key"])
         output_path.mkdir(exist_ok=True, parents=True)
 
-        if 0:
+        if 1:
             package(dataset["key"], output_path)
 
         if 1:
