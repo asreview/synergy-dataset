@@ -683,6 +683,30 @@ eligibility_criteria = "which explicitly provided information about (1) climate 
 
 [[datasets]]
 
+  key="Kerschbaumer_2024a"
+
+  [datasets.publication]
+  doi="10.1136/ard-2024-225534"
+eligibility_criteria = "For efficacy, only randomised controlled trials (RCTs) investigating non-steroidal anti-inflammatory drugs (NSAIDs), cs, biological (b) or targeted synthetic (ts) DMARDs in adult patients classified as having PsA were eligible for inclusion. Phase 2 studies were eligible for inclusion, if no phase 3 studies were available, as efficacy but also safety profiles of new molecules, targeting similar pathways as currently licensed drugs, might be informative. Patient populations of interest were defined as patients classified as having PsA; patients could be either DMARD-naïve, or with intolerance and/or insufficient response (IR) to csDMARDs, patients who were bDMARD-IR and/or tsDMARD-IR or mixed populations with previous IR to cs-DMARDs or/and bDMARDs; in some studies patients with IR to NSAIDs were also eligible. Efficacy outcomes included composite measures of state (such as Disease Activity Index for Psoriatic Arthritis (DAPSA) or minimal disease activity (MDA)) and of improvement (such as ACR criteria), individual core-set measures of signs and symptoms, patient-reported outcomes (including fatigue, physical function)."
+
+  [datasets.data]
+  url="https://osf.io/t8knj/"
+
+
+[[datasets]]
+
+  key="Kerschbaumer_2024b"
+
+  [datasets.publication]
+  doi="10.1136/ard-2024-225534"
+eligibility_criteria = "For safety, data of identified RCTs as well as long-term extensions studies of RCTs with adequately defined comparator arms (placebo (PBO) or active therapy) were eligible. In addition to RCT safety data (including long-term extensions with adequate comparator arms) also observational studies (including registry analyses, claims data, cohort studies and case–control studies) with adequately defined controls were eligible for inclusion. Patient populations of interest were defined as patients classified as having PsA; patients could be either DMARD-naïve, or with intolerance and/or insufficient response (IR) to csDMARDs, patients who were bDMARD-IR and/or tsDMARD-IR or mixed populations with previous IR to cs-DMARDs or/and bDMARDs; in some studies patients with IR to NSAIDs were also eligible. Safety outcomes included infections (serious infections, herpes zoster (HZ), opportunistic and fungal infections, tuberculosis (Tb)); malignancies; major adverse cardiovascular events (MACEs); venous thromboembolic events (VTE); liver disease; gastrointestinal side effects; incidence of inflammatory bowel disease (IBD), uveitis; depression, suicidal ideation and behaviour"
+
+  [datasets.data]
+  url="https://osf.io/t8knj/"
+
+
+[[datasets]]
+
   key="Leenaars_2019"
 
   [datasets.publication]
