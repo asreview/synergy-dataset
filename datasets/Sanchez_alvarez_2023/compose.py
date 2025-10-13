@@ -15,4 +15,4 @@ df = df.sort_values(by=['label_included'], ascending=False)
 df = utils.drop_duplicates(df)
 
 # Write output
-utils.write_ids_files("Sanchez_alvarez_2023", df)
+utils.write_ids_files("Sanchez-Alvarez_2023", df)
