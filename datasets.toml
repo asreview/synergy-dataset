@@ -1642,6 +1642,18 @@ The study was published as an abstract (paper or poster abstract), a dissertatio
 
 [[datasets]]
 
+  key="Zanframundo_2022"
+
+  [datasets.publication]
+  doi="10.55563/clinexprheumatol/8xj0b9"
+  eligibility_criteria="People with suspected ASSD (adults). Patients with confirmed ASSD (adults). Definition of ASSD by clinical, laboratory, imaging, instrumental testing, and histology features (alone or combined). Systematic literature reviews, metaanalyses, RCTs, controlled trials, noncontrolled trials, diagnostic accuracy studies, cohort studies, cross-sectional studies, and case-control studies, Sensitivity Specificity Positive and negative predictive values Positive and negative likelihood ratios Diagnostic Odds Ratio"
+
+  [datasets.data]
+  url="https://osf.io/t8knj/"
+
+
+[[datasets]]
+
   key="Zinsser_2022"
 
   [datasets.collection]
