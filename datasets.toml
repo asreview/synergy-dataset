@@ -355,6 +355,18 @@ The exclusion criteria are:
 
 [[datasets]]
 
+  key="Demirkaya_2015"
+
+  [datasets.publication]
+  doi="10.1007/s00296-015-3408-9"
+eligibility_criteria = "(1) regarding the type of study, only randomized controlled trials or quasicontrolled trials were accepted, (2) the patients studied had to be diagnosed with definite FMF, (3) the interventions could be any medication or agent to control FMF or amyloidosis, (4) the studies had to contain data on any of the following outcomes: severity, relapse rate, frequency of attacks, attacks duration, improvement in arthritis, abdominal pain, serositis, erysipelas-like erythema, changes in proteinuria, kidney function, and/or safety."
+
+  [datasets.data]
+  url="https://osf.io/t8knj/"
+
+
+[[datasets]]
+
   key="Dolinska_2022"
 
   [datasets.publication]
