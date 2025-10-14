@@ -1132,6 +1132,18 @@ Exclusion criteria:
 
 [[datasets]]
 
+  key="Sanchez-Alvarez_2023"
+
+  [datasets.publication]
+  doi="10.1136/rmdopen-2023-003233"
+  eligibility_criteria = "The population included patients with GCA, any intervention or comparator was considered and the outcomes addressed were: (1) disease activity state, namely active disease and remission; (2) change of disease activity state, namely response, improvement, worsening and relapse. Criteria or descriptors reflecting disease activity state assessment and change thereof were collected with their definitions. RCTs and LOS with more than 20 subjects, and qualitative studies without a limit of participants were included."
+
+  [datasets.data]
+  url="https://osf.io/t8knj/"
+
+
+[[datasets]]
+
   key="Sanchez-Gomez_2024"
 
   [datasets.publication]
