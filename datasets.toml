@@ -211,6 +211,18 @@ eligibility_criteria = "Criteria for studies to be included in the review were: 
 
 [[datasets]]
 
+  key="Burska_2023"
+
+  [datasets.publication]
+  doi="10.1136/rmdopen-2022-002876"
+eligibility_criteria = "(1) presented data on human patients with RMDs (with or without healthy controls); (2) design as cross-sectional; randomised control trials, case–control studies, non-controlled trials, diagnostic accuracy studies, cohort studies, intervention studies; (3) studies that described results on biological material derived from peripheral blood (ie, serum, whole blood, cell subsets); (4) written in English. Exclusion criteria were: (1) non-human studies; (2) conference abstracts, case studies, non-original articles such as editorials, review, opinion pieces, (3) articles that did not specify the type of IFN that the assay measures; (4) papers that did not describe their results as an assay, biomarker, test, score or similar in the abstract, (5) studies purely on IFN-I pathway genetics"
+
+  [datasets.data]
+  url="https://osf.io/t8knj/"
+
+
+[[datasets]]
+
   key="Chakraborty_2023"
 
   [datasets.publication]
