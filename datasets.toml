@@ -707,6 +707,18 @@ eligibility_criteria = "For safety, data of identified RCTs as well as long-term
 
 [[datasets]]
 
+  key="Lauper_2021"
+
+  [datasets.publication]
+  doi="10.1136/rmdopen-2021-001818"
+eligibility_criteria = "Studies were included if they were original longitudinal observational CER studies with ≥100 participants and exploring effectiveness of different drugs, even if treatment was not the main exposure, nor effectiveness the only outcome. We decided a priori not to include smaller studies (<100 participants), because they could have additional methodological issues that were felt to be out of the scope for this Task Force. Furthermore, studies evaluating extra-articular organ damage were not included as it was felt that this would be a different outcome and thus may need different type of analyses or reporting, as reversibility is rarely achievable."
+
+  [datasets.data]
+  url="https://osf.io/t8knj/"
+
+
+[[datasets]]
+
   key="Leenaars_2019"
 
   [datasets.publication]
