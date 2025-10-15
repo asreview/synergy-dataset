@@ -151,6 +151,18 @@ Not written in English"""
 
 [[datasets]]
 
+  key="Bech_2019"
+
+  [datasets.publication]
+  doi="10.1136/annrheumdis-2019-215458"
+  eligibility_criteria = "Only studies providing evidence of higher level than the first recommendations and additional knowledge about rheumatology nursing, were considered."
+  
+  [datasets.data]
+  url="https://osf.io/t8knj/"
+
+
+[[datasets]]
+
   key="Bindoli_2024a"
 
   [datasets.publication]
