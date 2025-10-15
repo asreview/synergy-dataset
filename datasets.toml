@@ -223,6 +223,18 @@ eligibility_criteria = "Criteria for studies to be included in the review were: 
 
 [[datasets]]
 
+  key="Butink_2023"
+
+  [datasets.publication]
+  doi="10.1136/rmdopen-2022-002903"
+eligibility_criteria = "Population, Intervention, Comparator and Outcome were specified to identify eligible randomised controlled trials (RCTs) and longitudinal observational studies (LOS) with any follow-up duration evaluating non-pharmacological interventions (ie, non-drug, non-surgical) in people with any RMD (except studies that considered only or a majority (≥50%) of people with low back pain or work-related musculoskeletal injuries).17 Active treatment, usual care, waiting list and no intervention were eligible comparators. Work outcome domains included sick leave, work status (eg, being (un)employed/work disabled/retired for any reason) and presenteeism (eg, loss of work ability/productivity while at work due to ill health). There were no restrictions in language, publication year or country."
+
+  [datasets.data]
+  url="https://osf.io/t8knj/"
+
+
+[[datasets]]
+
   key="Chakraborty_2023"
 
   [datasets.publication]
