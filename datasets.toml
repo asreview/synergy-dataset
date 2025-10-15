@@ -94,6 +94,18 @@ The studies should be published in English."""
 
 [[datasets]]
 
+  key="Aouad_2024"
+
+  [datasets.publication]
+  doi="10.1136/ard-2024-225567"
+eligibility_criteria = "We included all types of articles reporting PRP involvement in all types of research, including trials and observational studies, qualitative studies, mixed-methods studies and reports of meetings, opinion papers and reviews. We did not exclude published articles from any country, aiming to enhance the generalisability of our findings. Recommendations and guidelines on PRPs were also analysed and were used as supportive information. Articles not focused on rheumatology research or not bringing any information on PRPs (ie, not answering one or more research questions), as well as not in English, were excluded. Articles only mentioning PRPs or their involvement, without providing any details (eg, on their roles, contributions or barriers/facilitators), were excluded as well. Articles with duplicate information (ie, multiple publications reporting on a single study) were excluded if they did not provide additional information relevant to our research questions."
+
+  [datasets.data]
+  url="https://osf.io/t8knj/"
+
+
+[[datasets]]
+
   key="Appenzeller-Herzog_2019"
 
   [datasets.publication]
@@ -135,6 +147,30 @@ Not written in English"""
 
   [datasets.data]
   url="https://osf.io/qhk3v/"
+
+
+[[datasets]]
+
+  key="Bindoli_2024a"
+
+  [datasets.publication]
+  doi="10.1136/ard-2024-225854"
+  eligibility_criteria = "For treatment in Still's disease, the included population were patients with sJIA and AOSD. Interventions considered were: (1) GCs (prednisone, methylprednisolone and dexamethasone); (2) NSAIDs; (3) csDMARDs: MTX, CsA, leflunomide (LEF), azathioprine (AZA), sulfasalazine (SSZ) and hydroxychloroquine (HCQ); (4) bDMARDs: anakinra (ANK), canakinumab (CAM), rilonacept (RIL), tocilizumab (TCZ), sarilumab, siltuximab, etanercept (ETA), adalimumab (ADA), infliximab (IFX), secukinumab, ixekizumab, certolizumab pegol and golimumab; (5) targeted synthetic (ts) DMARDs: Janus-Kinases inhibitors (JAKi): ruxolitinib (RUX), tofacitinib (TOF), baricitinib (BAR), filgotinib and upadacitinib; (6) intravenous immunoglobulins (IVIGs); (7) colchicine; (8) thalidomide; (9) IL-18 binding protein (BP): tadekinig-alpha; (10) emapalumab; and (11) etoposide (VP-16). All doses, formulations, regimens (eg, on-demand or continuous), duration and any combination were evaluated. Comparators were defined as any other active drug or placebo. The outcomes of interest were all relevant efficacy information."
+
+  [datasets.data]
+  url="https://osf.io/t8knj/"
+
+
+[[datasets]]
+
+  key="Bindoli_2024b"
+
+  [datasets.publication]
+  doi="10.1136/ard-2024-225854"
+  eligibility_criteria = "For treatment in Still's disease, the included population were patients with sJIA and AOSD. Interventions considered were: (1) GCs (prednisone, methylprednisolone and dexamethasone); (2) NSAIDs; (3) csDMARDs: MTX, CsA, leflunomide (LEF), azathioprine (AZA), sulfasalazine (SSZ) and hydroxychloroquine (HCQ); (4) bDMARDs: anakinra (ANK), canakinumab (CAM), rilonacept (RIL), tocilizumab (TCZ), sarilumab, siltuximab, etanercept (ETA), adalimumab (ADA), infliximab (IFX), secukinumab, ixekizumab, certolizumab pegol and golimumab; (5) targeted synthetic (ts) DMARDs: Janus-Kinases inhibitors (JAKi): ruxolitinib (RUX), tofacitinib (TOF), baricitinib (BAR), filgotinib and upadacitinib; (6) intravenous immunoglobulins (IVIGs); (7) colchicine; (8) thalidomide; (9) IL-18 binding protein (BP): tadekinig-alpha; (10) emapalumab; and (11) etoposide (VP-16). All doses, formulations, regimens (eg, on-demand or continuous), duration and any combination were evaluated. Comparators were defined as any other active drug or placebo. The outcomes of interest were all relevant safety information."
+
+  [datasets.data]
+  url="https://osf.io/t8knj/"
 
 
 [[datasets]]
@@ -688,6 +724,26 @@ eligibility_criteria = "which explicitly provided information about (1) climate 
   [datasets.publication]
   doi="10.1136/ard-2022-223365"
 eligibility_criteria = "The main research questions involved the efficacy of csDMARD, bDMARD and tsDMARDs, efficacy differences between different DMARDs; differences between combination therapy versus monotherapy, switching between bDMARDs and tsDMARDs, evidence on different treatment strategies as well as DMARD dose reduction and treatment discontinuation in patients with ongoing therapy. Patient populations were defined as follows: DMARD-naïve patients, patients with insufficient response (IR) to csDMARD, patients who were bDMARD-IR and/or tsDMARD-IR. Comparator arms were required to include patients, receiving placebo or active therapy. These research questions covered the areas of the efficacy of csDMARDs, csDMARD combination therapies, bDMARDs and tsDMARDs (with and without concomitant csDMARDs), head-to-head comparisons of different bDMARDs and tsDMARDs, DMARD switching as well as DMARD tapering and stopping, and studies on biosimilars."
+  
+[[datasets]]
+
+  key="Kerschbaumer_2024a"
+
+  [datasets.publication]
+  doi="10.1136/ard-2024-225534"
+eligibility_criteria = "For efficacy, only randomised controlled trials (RCTs) investigating non-steroidal anti-inflammatory drugs (NSAIDs), cs, biological (b) or targeted synthetic (ts) DMARDs in adult patients classified as having PsA were eligible for inclusion. Phase 2 studies were eligible for inclusion, if no phase 3 studies were available, as efficacy but also safety profiles of new molecules, targeting similar pathways as currently licensed drugs, might be informative. Patient populations of interest were defined as patients classified as having PsA; patients could be either DMARD-naïve, or with intolerance and/or insufficient response (IR) to csDMARDs, patients who were bDMARD-IR and/or tsDMARD-IR or mixed populations with previous IR to cs-DMARDs or/and bDMARDs; in some studies patients with IR to NSAIDs were also eligible. Efficacy outcomes included composite measures of state (such as Disease Activity Index for Psoriatic Arthritis (DAPSA) or minimal disease activity (MDA)) and of improvement (such as ACR criteria), individual core-set measures of signs and symptoms, patient-reported outcomes (including fatigue, physical function)."
+
+  [datasets.data]
+  url="https://osf.io/t8knj/"
+
+
+[[datasets]]
+
+  key="Kerschbaumer_2024b"
+
+  [datasets.publication]
+  doi="10.1136/ard-2024-225534"
+eligibility_criteria = "For safety, data of identified RCTs as well as long-term extensions studies of RCTs with adequately defined comparator arms (placebo (PBO) or active therapy) were eligible. In addition to RCT safety data (including long-term extensions with adequate comparator arms) also observational studies (including registry analyses, claims data, cohort studies and case–control studies) with adequately defined controls were eligible for inclusion. Patient populations of interest were defined as patients classified as having PsA; patients could be either DMARD-naïve, or with intolerance and/or insufficient response (IR) to csDMARDs, patients who were bDMARD-IR and/or tsDMARD-IR or mixed populations with previous IR to cs-DMARDs or/and bDMARDs; in some studies patients with IR to NSAIDs were also eligible. Safety outcomes included infections (serious infections, herpes zoster (HZ), opportunistic and fungal infections, tuberculosis (Tb)); malignancies; major adverse cardiovascular events (MACEs); venous thromboembolic events (VTE); liver disease; gastrointestinal side effects; incidence of inflammatory bowel disease (IBD), uveitis; depression, suicidal ideation and behaviour"
 
   [datasets.data]
   url="https://osf.io/t8knj/"
@@ -1116,6 +1172,18 @@ Exclusion criteria:
 
   [datasets.data]
   doi="10.5281/zenodo.7973865"
+
+
+[[datasets]]
+
+  key="Sanchez-Alvarez_2023"
+
+  [datasets.publication]
+  doi="10.1136/rmdopen-2023-003233"
+  eligibility_criteria = "The population included patients with GCA, any intervention or comparator was considered and the outcomes addressed were: (1) disease activity state, namely active disease and remission; (2) change of disease activity state, namely response, improvement, worsening and relapse. Criteria or descriptors reflecting disease activity state assessment and change thereof were collected with their definitions. RCTs and LOS with more than 20 subjects, and qualitative studies without a limit of participants were included."
+
+  [datasets.data]
+  url="https://osf.io/t8knj/"
 
 
 [[datasets]]
@@ -1578,6 +1646,18 @@ The study was published as an abstract (paper or poster abstract), a dissertatio
 
   [datasets.data]
   doi="10.5281/zenodo.7993619"
+
+
+[[datasets]]
+
+  key="Zanframundo_2022"
+
+  [datasets.publication]
+  doi="10.55563/clinexprheumatol/8xj0b9"
+  eligibility_criteria="People with suspected ASSD (adults). Patients with confirmed ASSD (adults). Definition of ASSD by clinical, laboratory, imaging, instrumental testing, and histology features (alone or combined). Systematic literature reviews, metaanalyses, RCTs, controlled trials, noncontrolled trials, diagnostic accuracy studies, cohort studies, cross-sectional studies, and case-control studies, Sensitivity Specificity Positive and negative predictive values Positive and negative likelihood ratios Diagnostic Odds Ratio"
+
+  [datasets.data]
+  url="https://osf.io/t8knj/"
 
 
 [[datasets]]
