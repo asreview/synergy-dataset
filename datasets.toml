@@ -850,6 +850,18 @@ eligibility_criteria = "The three inclusion criteria were: 1) the paper is set i
 
 [[datasets]]
 
+  key="Marques_2021"
+
+  [datasets.publication]
+  doi="10.1136/rmdopen-2021-001647"
+  eligibility_criteria = "A study was eligible for inclusion if the participants included were adults (≥18 years) with IA (specifically, RA, PsA, AS, ax-SpA or UA). To maximise precision, only studies in which patients were formally diagnosed with IA or who satisfied current disease criteria, were included.13–16 Studies focusing on the information regarding patients with other concomitant diseases, whether these were rheumatic or not, were excluded from the synthesis. With regards to eligible interventions, these had to be defined explicitly as ‘self-management’, in other words, the individual patient ability and competence regarding the management of symptoms, treatment, physical and psychosocial consequences and the lifestyle changes inherent in living with a chronic condition17; or they had to include at least one component from each of the following: biological, psychological and social management. Interventions must consist of disease information, medication management, management of the physical activity, disease-related problem solving, cognitive symptom management, management of emotions, communication skills and use of community resources.18 Additionally, these interventions should be promoted by, or result from interaction with a programme leader who is a health professional. They may be delivered face to face or online, with direct or indirect trained support provided. The comparator was placebo or usual care (standard care). Concerning outcomes, the core concept in self-management is the realisation of self-efficacy; that is, confidence in oneself to carry out the required behaviour to acquire the desired goal.19 We accepted other patient-reported outcome measures that were quantitative measures of the impact of the disease, such as pain, functional disability, fatigue, emotional well-being, sleep, coping and physical well-being (eg, Visual Analogue Scale, Health Assessment Questionnaire, Functional Assessment of Chronic Illness Therapy, Rheumatoid Arthritis Impact of Disease).20 21 Health-related quality of life (eg, 36-Item Short Form Survey, EuroQol-5 Dimension).22 Self-efficacy should be measured by a validated tool (eg, General Self-Efficacy Scale or Stanford Self-Efficacy Scale]. Eligible designs were only SR and randomised controlled trials (RCTs) or controlled clinical trials because they are the most robust designs and represent the highest evidence."
+
+  [datasets.data]
+  url="https://osf.io/t8knj/"
+
+
+[[datasets]]
+
   key="Meijboom_2021"
 
   [datasets.publication]
