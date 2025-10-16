@@ -427,6 +427,30 @@ The exclusion criteria are:
 
 [[datasets]]
 
+  key="de_Matteis_2024a"
+
+  [datasets.publication]
+  doi="10.1136/ard-2024-225853"
+eligibility_criteria = "To be included, patients with sJIA had to meet the International League of Associations for Rheumatology (ILAR) criteria or at least one of the earlier historical classification criteria (American College of Rheumatology (ACR) 1972 criteria or Durban's first revision of ILAR criteria), or the Paediatric Rheumatology INternational Trials Organisation (PRINTO) criteria. Patients with AOSD had to meet Yamaguchi, Fautrel, or Medsger and Christy classification criteria. We also retained studies that used criteria for at least one of the above-mentioned classifications, but the final diagnosis was from the physician."
+
+  [datasets.data]
+  url="https://osf.io/t8knj/"
+
+
+[[datasets]]
+
+  key="de_Matteis_2024b"
+
+  [datasets.publication]
+  doi="10.1136/ard-2024-225853"
+eligibility_criteria = "Here we sought to include studies reporting diagnostic biomarkers for sJIA and/or AOSD. We included only studies with data on accuracy (ie, reporting receiver operating characteristic (ROC) curve values, area under the ROC curve (AUC) and/or sensitivity and specificity)."
+  
+  [datasets.data]
+  url="https://osf.io/t8knj/"
+  
+  
+[[datasets]]
+  
   key="Demirkaya_2015"
 
   [datasets.publication]
