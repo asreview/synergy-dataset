@@ -94,6 +94,18 @@ The studies should be published in English."""
 
 [[datasets]]
 
+  key="Aouad_2024"
+
+  [datasets.publication]
+  doi="10.1136/ard-2024-225567"
+eligibility_criteria = "We included all types of articles reporting PRP involvement in all types of research, including trials and observational studies, qualitative studies, mixed-methods studies and reports of meetings, opinion papers and reviews. We did not exclude published articles from any country, aiming to enhance the generalisability of our findings. Recommendations and guidelines on PRPs were also analysed and were used as supportive information. Articles not focused on rheumatology research or not bringing any information on PRPs (ie, not answering one or more research questions), as well as not in English, were excluded. Articles only mentioning PRPs or their involvement, without providing any details (eg, on their roles, contributions or barriers/facilitators), were excluded as well. Articles with duplicate information (ie, multiple publications reporting on a single study) were excluded if they did not provide additional information relevant to our research questions."
+
+  [datasets.data]
+  url="https://osf.io/t8knj/"
+
+
+[[datasets]]
+
   key="Appenzeller-Herzog_2019"
 
   [datasets.publication]
@@ -135,6 +147,42 @@ Not written in English"""
 
   [datasets.data]
   url="https://osf.io/qhk3v/"
+
+
+[[datasets]]
+
+  key="Bech_2019"
+
+  [datasets.publication]
+  doi="10.1136/annrheumdis-2019-215458"
+  eligibility_criteria = "Only studies providing evidence of higher level than the first recommendations and additional knowledge about rheumatology nursing, were considered."
+  
+  [datasets.data]
+  url="https://osf.io/t8knj/"
+
+
+[[datasets]]
+
+  key="Bindoli_2024a"
+
+  [datasets.publication]
+  doi="10.1136/ard-2024-225854"
+  eligibility_criteria = "For treatment in Still's disease, the included population were patients with sJIA and AOSD. Interventions considered were: (1) GCs (prednisone, methylprednisolone and dexamethasone); (2) NSAIDs; (3) csDMARDs: MTX, CsA, leflunomide (LEF), azathioprine (AZA), sulfasalazine (SSZ) and hydroxychloroquine (HCQ); (4) bDMARDs: anakinra (ANK), canakinumab (CAM), rilonacept (RIL), tocilizumab (TCZ), sarilumab, siltuximab, etanercept (ETA), adalimumab (ADA), infliximab (IFX), secukinumab, ixekizumab, certolizumab pegol and golimumab; (5) targeted synthetic (ts) DMARDs: Janus-Kinases inhibitors (JAKi): ruxolitinib (RUX), tofacitinib (TOF), baricitinib (BAR), filgotinib and upadacitinib; (6) intravenous immunoglobulins (IVIGs); (7) colchicine; (8) thalidomide; (9) IL-18 binding protein (BP): tadekinig-alpha; (10) emapalumab; and (11) etoposide (VP-16). All doses, formulations, regimens (eg, on-demand or continuous), duration and any combination were evaluated. Comparators were defined as any other active drug or placebo. The outcomes of interest were all relevant efficacy information."
+
+  [datasets.data]
+  url="https://osf.io/t8knj/"
+
+
+[[datasets]]
+
+  key="Bindoli_2024b"
+
+  [datasets.publication]
+  doi="10.1136/ard-2024-225854"
+  eligibility_criteria = "For treatment in Still's disease, the included population were patients with sJIA and AOSD. Interventions considered were: (1) GCs (prednisone, methylprednisolone and dexamethasone); (2) NSAIDs; (3) csDMARDs: MTX, CsA, leflunomide (LEF), azathioprine (AZA), sulfasalazine (SSZ) and hydroxychloroquine (HCQ); (4) bDMARDs: anakinra (ANK), canakinumab (CAM), rilonacept (RIL), tocilizumab (TCZ), sarilumab, siltuximab, etanercept (ETA), adalimumab (ADA), infliximab (IFX), secukinumab, ixekizumab, certolizumab pegol and golimumab; (5) targeted synthetic (ts) DMARDs: Janus-Kinases inhibitors (JAKi): ruxolitinib (RUX), tofacitinib (TOF), baricitinib (BAR), filgotinib and upadacitinib; (6) intravenous immunoglobulins (IVIGs); (7) colchicine; (8) thalidomide; (9) IL-18 binding protein (BP): tadekinig-alpha; (10) emapalumab; and (11) etoposide (VP-16). All doses, formulations, regimens (eg, on-demand or continuous), duration and any combination were evaluated. Comparators were defined as any other active drug or placebo. The outcomes of interest were all relevant safety information."
+
+  [datasets.data]
+  url="https://osf.io/t8knj/"
 
 
 [[datasets]]
@@ -183,6 +231,30 @@ eligibility_criteria = "Criteria for studies to be included in the review were: 
 
   [datasets.data]
   doi="10.17605/OSF.IO/R45YZ"
+
+
+[[datasets]]
+
+  key="Burska_2023"
+
+  [datasets.publication]
+  doi="10.1136/rmdopen-2022-002876"
+eligibility_criteria = "(1) presented data on human patients with RMDs (with or without healthy controls); (2) design as cross-sectional; randomised control trials, case–control studies, non-controlled trials, diagnostic accuracy studies, cohort studies, intervention studies; (3) studies that described results on biological material derived from peripheral blood (ie, serum, whole blood, cell subsets); (4) written in English. Exclusion criteria were: (1) non-human studies; (2) conference abstracts, case studies, non-original articles such as editorials, review, opinion pieces, (3) articles that did not specify the type of IFN that the assay measures; (4) papers that did not describe their results as an assay, biomarker, test, score or similar in the abstract, (5) studies purely on IFN-I pathway genetics"
+  
+  [datasets.data]
+  url="https://osf.io/t8knj/"
+  
+  
+[[datasets]]
+
+  key="Butink_2023"
+  
+  [datasets.publication]
+  doi="10.1136/rmdopen-2022-002903"
+eligibility_criteria = "Population, Intervention, Comparator and Outcome were specified to identify eligible randomised controlled trials (RCTs) and longitudinal observational studies (LOS) with any follow-up duration evaluating non-pharmacological interventions (ie, non-drug, non-surgical) in people with any RMD (except studies that considered only or a majority (≥50%) of people with low back pain or work-related musculoskeletal injuries).17 Active treatment, usual care, waiting list and no intervention were eligible comparators. Work outcome domains included sick leave, work status (eg, being (un)employed/work disabled/retired for any reason) and presenteeism (eg, loss of work ability/productivity while at work due to ill health). There were no restrictions in language, publication year or country."
+
+  [datasets.data]
+  url="https://osf.io/t8knj/"
 
 
 [[datasets]]
@@ -351,6 +423,42 @@ The exclusion criteria are:
 
   [datasets.data]
   doi="10.5281/zenodo.6635964"
+
+
+[[datasets]]
+
+  key="de_Matteis_2024a"
+
+  [datasets.publication]
+  doi="10.1136/ard-2024-225853"
+eligibility_criteria = "To be included, patients with sJIA had to meet the International League of Associations for Rheumatology (ILAR) criteria or at least one of the earlier historical classification criteria (American College of Rheumatology (ACR) 1972 criteria or Durban's first revision of ILAR criteria), or the Paediatric Rheumatology INternational Trials Organisation (PRINTO) criteria. Patients with AOSD had to meet Yamaguchi, Fautrel, or Medsger and Christy classification criteria. We also retained studies that used criteria for at least one of the above-mentioned classifications, but the final diagnosis was from the physician."
+
+  [datasets.data]
+  url="https://osf.io/t8knj/"
+
+
+[[datasets]]
+
+  key="de_Matteis_2024b"
+
+  [datasets.publication]
+  doi="10.1136/ard-2024-225853"
+eligibility_criteria = "Here we sought to include studies reporting diagnostic biomarkers for sJIA and/or AOSD. We included only studies with data on accuracy (ie, reporting receiver operating characteristic (ROC) curve values, area under the ROC curve (AUC) and/or sensitivity and specificity)."
+  
+  [datasets.data]
+  url="https://osf.io/t8knj/"
+  
+  
+[[datasets]]
+  
+  key="Demirkaya_2015"
+
+  [datasets.publication]
+  doi="10.1007/s00296-015-3408-9"
+eligibility_criteria = "(1) regarding the type of study, only randomized controlled trials or quasicontrolled trials were accepted, (2) the patients studied had to be diagnosed with definite FMF, (3) the interventions could be any medication or agent to control FMF or amyloidosis, (4) the studies had to contain data on any of the following outcomes: severity, relapse rate, frequency of attacks, attacks duration, improvement in arthritis, abdominal pain, serositis, erysipelas-like erythema, changes in proteinuria, kidney function, and/or safety."
+
+  [datasets.data]
+  url="https://osf.io/t8knj/"
 
 
 [[datasets]]
@@ -683,6 +791,50 @@ eligibility_criteria = "which explicitly provided information about (1) climate 
 
 [[datasets]]
 
+  key="Kerschbaumer_2022"
+
+  [datasets.publication]
+  doi="10.1136/ard-2022-223365"
+eligibility_criteria = "The main research questions involved the efficacy of csDMARD, bDMARD and tsDMARDs, efficacy differences between different DMARDs; differences between combination therapy versus monotherapy, switching between bDMARDs and tsDMARDs, evidence on different treatment strategies as well as DMARD dose reduction and treatment discontinuation in patients with ongoing therapy. Patient populations were defined as follows: DMARD-naïve patients, patients with insufficient response (IR) to csDMARD, patients who were bDMARD-IR and/or tsDMARD-IR. Comparator arms were required to include patients, receiving placebo or active therapy. These research questions covered the areas of the efficacy of csDMARDs, csDMARD combination therapies, bDMARDs and tsDMARDs (with and without concomitant csDMARDs), head-to-head comparisons of different bDMARDs and tsDMARDs, DMARD switching as well as DMARD tapering and stopping, and studies on biosimilars."
+  
+[[datasets]]
+
+  key="Kerschbaumer_2024a"
+
+  [datasets.publication]
+  doi="10.1136/ard-2024-225534"
+eligibility_criteria = "For efficacy, only randomised controlled trials (RCTs) investigating non-steroidal anti-inflammatory drugs (NSAIDs), cs, biological (b) or targeted synthetic (ts) DMARDs in adult patients classified as having PsA were eligible for inclusion. Phase 2 studies were eligible for inclusion, if no phase 3 studies were available, as efficacy but also safety profiles of new molecules, targeting similar pathways as currently licensed drugs, might be informative. Patient populations of interest were defined as patients classified as having PsA; patients could be either DMARD-naïve, or with intolerance and/or insufficient response (IR) to csDMARDs, patients who were bDMARD-IR and/or tsDMARD-IR or mixed populations with previous IR to cs-DMARDs or/and bDMARDs; in some studies patients with IR to NSAIDs were also eligible. Efficacy outcomes included composite measures of state (such as Disease Activity Index for Psoriatic Arthritis (DAPSA) or minimal disease activity (MDA)) and of improvement (such as ACR criteria), individual core-set measures of signs and symptoms, patient-reported outcomes (including fatigue, physical function)."
+
+  [datasets.data]
+  url="https://osf.io/t8knj/"
+
+
+[[datasets]]
+
+  key="Kerschbaumer_2024b"
+
+  [datasets.publication]
+  doi="10.1136/ard-2024-225534"
+eligibility_criteria = "For safety, data of identified RCTs as well as long-term extensions studies of RCTs with adequately defined comparator arms (placebo (PBO) or active therapy) were eligible. In addition to RCT safety data (including long-term extensions with adequate comparator arms) also observational studies (including registry analyses, claims data, cohort studies and case–control studies) with adequately defined controls were eligible for inclusion. Patient populations of interest were defined as patients classified as having PsA; patients could be either DMARD-naïve, or with intolerance and/or insufficient response (IR) to csDMARDs, patients who were bDMARD-IR and/or tsDMARD-IR or mixed populations with previous IR to cs-DMARDs or/and bDMARDs; in some studies patients with IR to NSAIDs were also eligible. Safety outcomes included infections (serious infections, herpes zoster (HZ), opportunistic and fungal infections, tuberculosis (Tb)); malignancies; major adverse cardiovascular events (MACEs); venous thromboembolic events (VTE); liver disease; gastrointestinal side effects; incidence of inflammatory bowel disease (IBD), uveitis; depression, suicidal ideation and behaviour"
+
+  [datasets.data]
+  url="https://osf.io/t8knj/"
+
+
+[[datasets]]
+
+  key="Lauper_2021"
+
+  [datasets.publication]
+  doi="10.1136/rmdopen-2021-001818"
+eligibility_criteria = "Studies were included if they were original longitudinal observational CER studies with ≥100 participants and exploring effectiveness of different drugs, even if treatment was not the main exposure, nor effectiveness the only outcome. We decided a priori not to include smaller studies (<100 participants), because they could have additional methodological issues that were felt to be out of the scope for this Task Force. Furthermore, studies evaluating extra-articular organ damage were not included as it was felt that this would be a different outcome and thus may need different type of analyses or reporting, as reversibility is rarely achievable."
+
+  [datasets.data]
+  url="https://osf.io/t8knj/"
+
+
+[[datasets]]
+
   key="Leenaars_2019"
 
   [datasets.publication]
@@ -754,6 +906,18 @@ eligibility_criteria = "The three inclusion criteria were: 1) the paper is set i
 
   [datasets.data]
   url="https://osf.io/e4pn9/"
+
+
+[[datasets]]
+
+  key="Marques_2021"
+
+  [datasets.publication]
+  doi="10.1136/rmdopen-2021-001647"
+  eligibility_criteria = "A study was eligible for inclusion if the participants included were adults (≥18 years) with IA (specifically, RA, PsA, AS, ax-SpA or UA). To maximise precision, only studies in which patients were formally diagnosed with IA or who satisfied current disease criteria, were included.13–16 Studies focusing on the information regarding patients with other concomitant diseases, whether these were rheumatic or not, were excluded from the synthesis. With regards to eligible interventions, these had to be defined explicitly as ‘self-management’, in other words, the individual patient ability and competence regarding the management of symptoms, treatment, physical and psychosocial consequences and the lifestyle changes inherent in living with a chronic condition17; or they had to include at least one component from each of the following: biological, psychological and social management. Interventions must consist of disease information, medication management, management of the physical activity, disease-related problem solving, cognitive symptom management, management of emotions, communication skills and use of community resources.18 Additionally, these interventions should be promoted by, or result from interaction with a programme leader who is a health professional. They may be delivered face to face or online, with direct or indirect trained support provided. The comparator was placebo or usual care (standard care). Concerning outcomes, the core concept in self-management is the realisation of self-efficacy; that is, confidence in oneself to carry out the required behaviour to acquire the desired goal.19 We accepted other patient-reported outcome measures that were quantitative measures of the impact of the disease, such as pain, functional disability, fatigue, emotional well-being, sleep, coping and physical well-being (eg, Visual Analogue Scale, Health Assessment Questionnaire, Functional Assessment of Chronic Illness Therapy, Rheumatoid Arthritis Impact of Disease).20 21 Health-related quality of life (eg, 36-Item Short Form Survey, EuroQol-5 Dimension).22 Self-efficacy should be measured by a validated tool (eg, General Self-Efficacy Scale or Stanford Self-Efficacy Scale]. Eligible designs were only SR and randomised controlled trials (RCTs) or controlled clinical trials because they are the most robust designs and represent the highest evidence."
+
+  [datasets.data]
+  url="https://osf.io/t8knj/"
 
 
 [[datasets]]
@@ -1108,6 +1272,18 @@ Exclusion criteria:
 
 [[datasets]]
 
+  key="Sanchez-Alvarez_2023"
+
+  [datasets.publication]
+  doi="10.1136/rmdopen-2023-003233"
+  eligibility_criteria = "The population included patients with GCA, any intervention or comparator was considered and the outcomes addressed were: (1) disease activity state, namely active disease and remission; (2) change of disease activity state, namely response, improvement, worsening and relapse. Criteria or descriptors reflecting disease activity state assessment and change thereof were collected with their definitions. RCTs and LOS with more than 20 subjects, and qualitative studies without a limit of participants were included."
+
+  [datasets.data]
+  url="https://osf.io/t8knj/"
+
+
+[[datasets]]
+
   key="Sanchez-Gomez_2024"
 
   [datasets.publication]
@@ -1167,13 +1343,25 @@ eligibility_criteria = "Inclusion criteria for the systematic review were: (1) o
 
 
 [[datasets]]
+  
+  key="Sepriano_2020"
+
+  [datasets.publication]
+  doi="10.1136/annrheumdis-2019-216653"
+eligibility_criteria = "The literature search addressed the safety of DMARDs. Observational studies, namely, cohort studies or registries with >30 cases were the main study type. Participants were adults (≥18 years old) with a clinical diagnosis of RA. Studies including patients with other diagnoses were eligible only if results from patients with RA were presented separately. The intervention was any DMARD (csDMARD, bDMARD—including biosimilars—or tsDMARD), including all drugs (methotrexate, leflunomide, hydroxychloroquine, sulfasalazine, gold, azathioprine, chlorambucil, chloroquine, ciclosporin, cyclophosphamide, mycophenolate, minocycline, penicillamine, tacrolimus, anakinra, infliximab, etanercept, adalimumab, golimumab, certolizumab pegol, rituximab, abatacept, tocilizumab, sarilumab, sirukumab, olokizumab, ixekizumab, guselkumab, ustekinumab, mavrilimumab, tofacitinib, baricitinib, peficitinib, filgotinib, upadacitinib or fostamatinib), formulations and duration. Glucocorticoids were also included. The comparator was another bDMARD, sDMARD, glucocorticoid, combination therapy or the general population. Studies were only eligible if they included a comparator group. All safety outcomes were considered, namely, infections (including serious infections (SIs), opportunistic infections (OIs) such as tuberculosis and herpes zoster (HZ)), malignancies, mortality, major cardiovascular events (MACEs) including venous thromboembolism/pulmonary embolism (VTE/PE), change in lipid levels, elevation of creatine phosphokinase, impairment in renal function, elevation of liver enzymes, haematological abnormalities, gastrointestinal side effects, demyelinating disease, induction of autoimmune disease and teratogenicity."
+
+  [datasets.data]
+  url="https://osf.io/t8knj/"
+
+
+[[datasets]]
 
   key="Sepriano_2022"
 
   [datasets.publication]
   doi="10.1136/ard-2022-223357"
 eligibility_criteria = "The literature search addressed the safety of DMARDs. Observational studies, namely cohort studies/registries with >50 cases were the main study type. Participants were adults (≥18 years old) with a clinical diagnosis of RA. Studies including patients with other diagnoses were eligible only if results from patients with RA were presented separately. The intervention was any DMARD (csDMARD, bDMARD—including biosimilars—or tsDMARD), including all drugs (chloroquine, hydroxychloroquine, leflunomide, methotrexate, sulfasalazine, abatacept, anakinra, adalimumab, brodalumab, certolizumab pegol, etanercept, golimumab, guselkumab, infliximab, ixekizumab, mavrilimumab, ocrelizumab, ofatumumab, olokizumab, otilimab, rituximab, sarilumab, sirukumab, tabalumab, tocilizumab, ustekinumab, apremilast, baricitinib, decernotinib, evobrutinib, fenebrutinib, filgotinib, fostamatinib, peficitinib, ruxolitinib, tofacitinib, upadacitinib), formulations and duration. Studies were only eligible if they included a comparator group (either another DMARD, combination therapy, or the general population). Studies on glucocorticoids were excluded, as they were dealt with in a separate SLR.10 The following safety outcomes were considered: infections (including serious infections, opportunistic infections such as tuberculosis (TB) and herpes zoster (HZ)), malignancies, mortality, major adverse cardiovascular events (MACEs), venous thromboembolism (VTE) including pulmonary embolism/deep venous thrombosis, changes in lipid levels, elevations of creatine phosphokinase, impairments in renal function, elevations of liver enzymes, haematological abnormalities, gastrointestinal side effects, demyelinating disease, induction of autoimmune disease, teratogenicity, fertility and pregnancy outcomes. For the risk of infection by SARS-CoV-2, only studies published after 31 May 2021 (the limit date of an SLR informing EULAR recommendations focusing on the topic) were considered.12 13 RCTs with a primary safety outcome were included. In addition, RCTs and long-term extensions (LTEs), selected in the accompanying SLR addressing efficacy,9 were also included to assess the safety of drugs without, or with limited real-world data available."
-
+  
   [datasets.data]
   url="https://osf.io/t8knj/"
 
@@ -1578,6 +1766,18 @@ The study was published as an abstract (paper or poster abstract), a dissertatio
 
   [datasets.data]
   doi="10.5281/zenodo.7993619"
+
+
+[[datasets]]
+
+  key="Zanframundo_2022"
+
+  [datasets.publication]
+  doi="10.55563/clinexprheumatol/8xj0b9"
+  eligibility_criteria="People with suspected ASSD (adults). Patients with confirmed ASSD (adults). Definition of ASSD by clinical, laboratory, imaging, instrumental testing, and histology features (alone or combined). Systematic literature reviews, metaanalyses, RCTs, controlled trials, noncontrolled trials, diagnostic accuracy studies, cohort studies, cross-sectional studies, and case-control studies, Sensitivity Specificity Positive and negative predictive values Positive and negative likelihood ratios Diagnostic Odds Ratio"
+
+  [datasets.data]
+  url="https://osf.io/t8knj/"
 
 
 [[datasets]]
