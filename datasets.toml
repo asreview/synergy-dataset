@@ -58,6 +58,18 @@ IC2: The method, approach or technique presented/demonstrated in the paper uses 
 
 [[datasets]]
 
+  key="Alunno_2020"
+
+  [datasets.publication]
+  doi="10.1136/rmdopen-2020-001330"
+  eligibility_criteria="The population consisted of medical doctors in speciality training (also referred to as trainees or fellows) in rheumatology or other related specialities. Instruments of interest included any assessment strategy or method, while the measurement properties of interest were validity, discrimination (including both reliability and sensitivity to change) and feasibility; at least one of them was required to be reported."
+
+  [datasets.data]
+  url="https://osf.io/t8knj/"
+
+
+[[datasets]]
+
   key="Anmarkrud_2021"
 
   [datasets.collection]
