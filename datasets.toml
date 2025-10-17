@@ -576,6 +576,18 @@ Abstract-only paper"""
 
 [[datasets]]
 
+  key="Erer_2015"
+
+  [datasets.publication]
+  doi="10.1007/s00296-015-3413-z"
+  eligibility_criteria=""
+
+  [datasets.data]
+  url="https://osf.io/t8knj/"
+
+
+[[datasets]]
+
   key="Fejza_2023"
 
   [datasets.publication]
