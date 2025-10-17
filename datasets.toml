@@ -1009,6 +1009,18 @@ eligibility_criteria = "We screened records to find original experimental studie
 
 [[datasets]]
 
+  key="Moseng_2024"
+
+  [datasets.publication]
+  doi="10.1136/ard-2023-225041"
+eligibility_criteria = "Studies were included if they were SRs, including a meta-analysis of two or more RCTs on people diagnosed with hip or knee OA or with persisting knee pain in people 45 years or older and investigating non-pharmacological core management strategies. Relevant comparisons were no intervention, usual care or any other intervention. Relevant outcomes were pain, physical function, quality of life (QoL), patient global assessment of target joint, adverse effects or cost-effectiveness."
+
+  [datasets.data]
+  url="https://osf.io/t8knj/"
+
+
+[[datasets]]
+
   key="Muthu_2020"
 
   [datasets.publication]
