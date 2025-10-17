@@ -1412,6 +1412,28 @@ b. Studies with scales with at least one subscale comparable to the three subsca
 
 [[datasets]]
 
+  key="Tektonidou_2019"
+
+  [datasets.publication]
+  doi="10.1136/rmdopen-2019-000924"
+  eligibility_criteria="""1.  Exclusion criteria for the systematic literature review
+• Animal studies
+• Basic science studies, laboratory definition studies
+• Pediatric studies
+• Narrative review, editorials, letters
+• Case reports 
+• Conference abstracts
+• Non-English language publications
+• Not related to PICO questions (unrelated topic) 
+• Publications on the same cohort (same cohorts)
+• Other (other disorder or not related to prevention or management topics in APS)"""
+
+  [datasets.data]
+  url="https://osf.io/t8knj/"
+
+
+[[datasets]]
+
   key="Theobald_2021"
 
   [datasets.collection]
