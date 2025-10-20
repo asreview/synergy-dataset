@@ -1580,6 +1580,22 @@ representatives participated"""
 
 [[datasets]]
 
+  key="Verdugo-Castro_2022"
+
+  [datasets.publication]
+  doi="10.1016/j.heliyon.2022.e10300"
+  eligibility_criteria="""• Population: Gender gap in the STEM sector.
+• Intervention: Studies conducted, and proposals related to the gender gap in the STEM education sector
+• Comparison: No comparison.
+• Outcomes: Results of studies conducted in relation to the gender gap in the STEM education sector.
+• Context: Students integrated in the European educational field, especially in the STEM sector, with a special focus on EQF levels 5, 6, 7, and 8 (European Qualifications Framework for Lifelong Learning)."""
+
+  [datasets.data]
+  doi="10.5281/zenodo.5775211"
+
+
+[[datasets]]
+
   key="Viguie_2020"
 
   [datasets.publication]
