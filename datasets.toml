@@ -965,11 +965,23 @@ eligibility_criteria = "We included RCTs on four specialized psychotherapies (DB
 
 [[datasets]]
 
-  key="Parodis_2023"
+  key="Parodis_2023a"
 
   [datasets.publication]
   doi="10.1136/rmdopen-2023-003297"
-eligibility_criteria = "These RQs concerned the aims of non-pharmacological management (RQ1), types of interventions (RQ2), efficacy of interventions (RQ3), health-related domains or organ systems assessed (RQ4), outcome measures used (RQ5), time points of assessment (RQ6), patients’ needs, expectations and preferences (RQ7), educational needs for patients as well as healthcare providers (RQ8), and facilitators and barriers to the non-pharmacological management of SLE and SSc (RQ9). For all research questions, the populations of interest were adult patients with SLE or SSc"
+  eligibility_criteria = "The populations of interest were adult patients with SLE [systemic lupus erythematosus]. These RQs concerned the aims of non-pharmacological management (RQ1), types of interventions (RQ2), efficacy of interventions (RQ3), health-related domains or organ systems assessed (RQ4), outcome measures used (RQ5), time points of assessment (RQ6), patients’ needs, expectations and preferences (RQ7), educational needs for patients as well as healthcare providers (RQ8), and facilitators and barriers to the non-pharmacological management of SLE and SSc (RQ9). For all research questions, the populations of interest were adult patients with SLE or SSc"
+
+  [datasets.data]
+  url="https://osf.io/t8knj/"
+
+
+[[datasets]]
+
+  key="Parodis_2023b"
+
+  [datasets.publication]
+  doi="10.1136/rmdopen-2023-003297"
+  eligibility_criteria = "The populations of interest were adult patients with SSc[systemic sclerosis]. These RQs concerned the aims of non-pharmacological management (RQ1), types of interventions (RQ2), efficacy of interventions (RQ3), health-related domains or organ systems assessed (RQ4), outcome measures used (RQ5), time points of assessment (RQ6), patients’ needs, expectations and preferences (RQ7), educational needs for patients as well as healthcare providers (RQ8), and facilitators and barriers to the non-pharmacological management of SLE and SSc (RQ9). For all research questions, the populations of interest were adult patients with SLE or SSc"
 
   [datasets.data]
   url="https://osf.io/t8knj/"
