@@ -1653,6 +1653,18 @@ eligibility_criteria = "Studies were included in this systematic review when the
 
 [[datasets]]
 
+  key="Webers_2022"
+
+  [datasets.publication]
+  doi="10.1136/ard-2022-223298"
+  eligibility_criteria = "Eligible study designs included randomised controlled trials (RCTs), strategy trials and observational studies (the latter only for safety and extra-musculoskeletal manifestations). All relevant efficacy/safety outcomes were included."
+
+  [datasets.data]
+  url="https://osf.io/t8knj/"
+
+
+[[datasets]]
+
   key="Wijnen_2024"
 
   [datasets.publication]
