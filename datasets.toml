@@ -1568,17 +1568,19 @@ Finally, studies had to report at least one of five outcome measures: studentsâ€
 
 [[datasets]]
 
-  # Note, this dataset is also used for another systematic review:
-  # https://doi.org/10.1080/10705511.2016.1247646
-
-  key="van_de_Schoot_2018"
+  key="van_de_Schoot_2025"
 
   [datasets.publication]
-  doi="10.1080/00273171.2017.1412293"
-eligibility_criteria = "In the second round, the full-text articles were independently read and screened by RvdS and MS for the following inclusion criteria: (a) longitudinal studies with at least three measurement waves measuring PTSD, (b) studies that measured PTSD on a continuous scale via an interview or questionnaire, (c) and studies that used a clustering method (LGMM, LCGA, hierarchical cluster analysis), (d) traumatic stress symptoms following events that appeared to fulfill DSM-IV criterion A1 for PTSD or acute stress disorder."
+  doi="10.1080/20008066.2025.2546214"
+  eligibility_criteria = """The eligibility criteria for this study mirror those from the 2016 systematic review:
+PTSS is measured at a minimum of three time points;
+PTSS is assessed following a traumatic event;
+PTSS is evaluated using a validated scale;
+LGMM is applied to PTSS data.
+In addition to population-based/cohort studies, we also included clinical studies, which is new compared to the initial dataset."""
 
   [datasets.data]
-  doi="10.17605/OSF.IO/VW3T7"
+  doi="10.34894/CRE6ZC"
 
 
 [[datasets]]
