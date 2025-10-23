@@ -627,6 +627,18 @@ Abstract-only paper"""
 
 [[datasets]]
 
+  key="Farisogullari_2023"
+
+  [datasets.publication]
+  doi="10.1136/rmdopen-2023-003349"
+  eligibility_criteria= "A study was eligible for inclusion if the included participants were adults (aged 18 years or over) with I-RMD, specifically, RA, axSpA, peripheral SpA, PsA, gout, SLE, SSc, SjS, IIM (dermatomyositis, polymyositis, immune-mediated necrotising myopathy, antisynthetase syndrome, inclusion body myositis) and primary systemic vasculitis (large-vessel vasculitis: giant cell arteritis (GCA) (and the related condition polymyalgia rheumatica), Takayasu’s arteritis; medium-vessel vasculitis: polyarteritis nodosa; small-vessel vasculitis limited to the antineutrophilic cytoplasmic antibody (ANCA)-associated vasculitis: granulomatosis with polyangiitis (GPA, previously named Wegener’s granulomatosis), microscopic polyangiitis (MPA) and eosinophilic GPA (previously named Churg-Strauss); and variable-vessel vasculitis: Behçet syndrome, also known as Behçet disease). Only studies in which patients were formally diagnosed with I-RMDs or who satisfied internationally accepted disease classification criteria were included to maximise accuracy. Regarding the eligible interventions, all pharmacological interventions were included. Pharmacological interventions were classified as medicinal products in accordance with the EU Directive 2001/83/EEC (EU 2001),25 which states: ‘any substance or combination of substances which may be used in or administered to human beings either with a view to restoring, correcting or modifying physiological functions by exerting a pharmacological, immunological or metabolic action, or to making a medical diagnosis’.25 The comparator was placebo or usual care (standard care). Regarding outcomes, the core concept was fatigue. Only SRs and randomised controlled trials (RCTs) or controlled clinical trials were eligible because they are considered the most robust study designs and represent the strongest evidence. Regarding the context, there were no constraints."
+
+  [datasets.data]
+  url="https://osf.io/t8knj/"
+
+
+[[datasets]]
+
   key="Fejza_2023"
 
   [datasets.publication]
