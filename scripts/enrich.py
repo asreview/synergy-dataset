@@ -218,11 +218,12 @@ if __name__ == "__main__":
         if "method" not in list(df):
             df["method"] = None
 
+        # OpenAlex always uses lowercase doi's and matches case specific.
         df["doi"] = df['doi'].str.lower()
         
         try:
 
-            for id_type in ["doi"]:
+            for id_type in ["pmid", "doi"]:
 
                 if id_type not in list(df):
                     continue
@@ -239,7 +240,7 @@ if __name__ == "__main__":
                 df.loc[subset, "openalex_id"] = oaid
                 df.loc[subset, "method"] = f"id_retrieval_{id_type}"
 
-            if False and args.title_search:
+            if args.title_search:
 
                 try:
                     dataset_key = "_".join(ds_glob.stem.split("_")[0:-1])
