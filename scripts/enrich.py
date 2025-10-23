@@ -218,6 +218,9 @@ if __name__ == "__main__":
         if "method" not in list(df):
             df["method"] = None
 
+        # OpenAlex always uses lowercase doi's and matches case specific.
+        df["doi"] = df['doi'].str.lower()
+        
         try:
 
             for id_type in ["pmid", "doi"]:
@@ -249,8 +252,14 @@ if __name__ == "__main__":
                 df_raw.rename({"Publication Year": "year"}, axis=1, inplace=True)
 
                 # Update dois from title
+                total_count = len(df[df["openalex_id"].isnull()])
+                print(f"searching {total_count} records via title/year\n")
+                found = 0
+                searched = 0
                 for index, row in df.iterrows():
-
+                    if searched % 10 == 0:
+                        print(f"\r searched: {searched}/{total_count}, found: {found}")
+                    
                     if (
                         args.inclusions_only
                         and df_raw.iloc[index]["label_included"] == 0
@@ -260,6 +269,7 @@ if __name__ == "__main__":
                     if pd.isnull(row["openalex_id"]) and pd.notnull(
                         df_raw.iloc[index]["title"]
                     ):
+                        searched += 1
                         try:
                             year = df_raw.iloc[index]["year"]
                         except Exception:
@@ -271,7 +281,8 @@ if __name__ == "__main__":
                         )
 
                         if openalex_id:
-                            print("Found new work:", doi)
+                            #print("Found new work:", doi)
+                            found += 1
                             df.loc[index, "openalex_id"] = openalex_id
                             df.loc[index, "method"] = retrieval_method
 
