@@ -1,4 +1,5 @@
 from asreview.data import RISReader
+import pandas as pd
 import sys
 
 sys.path.append("../../scripts")
@@ -10,8 +11,7 @@ utils.unzip("https://osf.io/5bmy3/download", "articles.ris", "ti_ab.ris")
 
 search = RISReader.read_data("search.ris")
 ti_ab = RISReader.read_data("ti_ab.ris")
-
-ft = RISReader.read_data("https://osf.io/9k2xs/download")
+ft = pd.read_csv("https://osf.io/9k2xs/download", encoding="windows-1252")
 
 df = utils.combine_datafiles(search, ft, ti_ab)
 
