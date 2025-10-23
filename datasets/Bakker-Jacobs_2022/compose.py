@@ -5,8 +5,8 @@ sys.path.append("../../scripts")
 import utils
 
 # Read input
-#utils.unzip("https://osf.io/tgv4b/download", "articles.ris", "search.ris")
-#utils.unzip("https://osf.io/5bmy3/download", "articles.ris", "ti_ab.ris")
+utils.unzip("https://osf.io/tgv4b/download", "articles.ris", "search.ris")
+utils.unzip("https://osf.io/5bmy3/download", "articles.ris", "ti_ab.ris")
 
 search = RISReader.read_data("search.ris")
 ti_ab = RISReader.read_data("ti_ab.ris")
