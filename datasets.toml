@@ -223,6 +223,21 @@ eligibility_criteria = "For the current review, we used the following inclusion 
 
 [[datasets]]
 
+  key="Bosch_2023"
+
+  [datasets.publication]
+  doi="10.1136/rmdopen-2023-003379"
+  eligibility_criteria = """They comprised the use of different imaging techniques for LVV in (1) diagnostics, (2) monitoring, (3) outcome prediction and (4) technical aspects that should be considered when using them (online supplemental tables S1a–d). Apart from the studies on imaging techniques included in the previous SLR (ultrasound, MRI, FDG-PET and CT),2 studies on optical coherence tomography (OCT) and fluoresceine angiography (FA) were also included in this review, as studies reporting the diagnostic value of these imaging techniques had recently been published.
+The population of interest was adults (≥18 years) with suspected primary LVV (for diagnostic accuracy studies) or with established primary LVV (for monitoring, prediction and technical aspects studies), particularly GCA, TAK and isolated aortitis. For diagnostic studies, the intervention was the imaging findings (=index test) and the comparator was either the clinical diagnosis or temporal artery biopsy (TAB) results (=reference standard). The outcome was test performance, including sensitivity, specificity, positive likelihood ratio (LR+) and negative LR (LR−). For monitoring studies, intervention and comparator were ‘performing imaging’ and ‘not performing imaging’, respectively, and the outcome was disease activity. For prediction studies, intervention and comparator were ‘positive imaging’ and ‘negative imaging’, respectively, with a variety of outcomes such as disease complications, cumulative glucocorticoid dose and disease activity. Lastly, studies on technical aspects compared different imaging settings regarding ‘optimal results’ (not prespecified).
+Only full research articles (excluding commentaries and letters) were eligible. These included prospective cohort studies involving >20 patients, with <50% lost to follow-up. Cross-sectional studies were only included for studies of diagnostic accuracy and technical aspects. Case–control and retrospective studies were excluded."
+"""
+
+  [datasets.data]
+  url="https://osf.io/t8knj/"
+
+
+[[datasets]]
+
   key="Brons_2024"
 
   [datasets.publication]
