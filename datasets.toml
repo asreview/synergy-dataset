@@ -223,6 +223,18 @@ eligibility_criteria = "For the current review, we used the following inclusion 
 
 [[datasets]]
 
+  key="Bosch_2021"
+
+  [datasets.publication]
+  doi="10.1136/rmdopen-2021-001864"
+  eligibility_criteria = "Eligible studies were full research articles, short reports and research letters of prospective and retrospective studies. The following studies were excluded from the analysis: studies of interventions on tumours, vessels or glands, studies on vertebroplasty/arthroplasty, studies of interventions with the aim to perform anaesthesia and studies investigating methods not used in routine clinical practice. We also excluded studies not answering any of the PICO questions, for example, due to wrong population or missing comparator."
+  
+  [datasets.data]
+  url="https://osf.io/t8knj/"
+  
+  
+[[datasets]]
+
   key="Bosch_2023"
 
   [datasets.publication]
