@@ -58,6 +58,18 @@ IC2: The method, approach or technique presented/demonstrated in the paper uses 
 
 [[datasets]]
 
+  key="Alunno_2020"
+
+  [datasets.publication]
+  doi="10.1136/rmdopen-2020-001330"
+  eligibility_criteria="The population consisted of medical doctors in speciality training (also referred to as trainees or fellows) in rheumatology or other related specialities. Instruments of interest included any assessment strategy or method, while the measurement properties of interest were validity, discrimination (including both reliability and sensitivity to change) and feasibility; at least one of them was required to be reported."
+
+  [datasets.data]
+  url="https://osf.io/t8knj/"
+
+
+[[datasets]]
+
   key="Anmarkrud_2021"
 
   [datasets.collection]
@@ -216,6 +228,21 @@ eligibility_criteria = "For the current review, we used the following inclusion 
   [datasets.publication]
   doi="10.1136/rmdopen-2021-001864"
   eligibility_criteria = "Eligible studies were full research articles, short reports and research letters of prospective and retrospective studies. The following studies were excluded from the analysis: studies of interventions on tumours, vessels or glands, studies on vertebroplasty/arthroplasty, studies of interventions with the aim to perform anaesthesia and studies investigating methods not used in routine clinical practice. We also excluded studies not answering any of the PICO questions, for example, due to wrong population or missing comparator."
+  
+  [datasets.data]
+  url="https://osf.io/t8knj/"
+  
+  
+[[datasets]]
+
+  key="Bosch_2023"
+
+  [datasets.publication]
+  doi="10.1136/rmdopen-2023-003379"
+  eligibility_criteria = """They comprised the use of different imaging techniques for LVV in (1) diagnostics, (2) monitoring, (3) outcome prediction and (4) technical aspects that should be considered when using them (online supplemental tables S1a–d). Apart from the studies on imaging techniques included in the previous SLR (ultrasound, MRI, FDG-PET and CT),2 studies on optical coherence tomography (OCT) and fluoresceine angiography (FA) were also included in this review, as studies reporting the diagnostic value of these imaging techniques had recently been published.
+The population of interest was adults (≥18 years) with suspected primary LVV (for diagnostic accuracy studies) or with established primary LVV (for monitoring, prediction and technical aspects studies), particularly GCA, TAK and isolated aortitis. For diagnostic studies, the intervention was the imaging findings (=index test) and the comparator was either the clinical diagnosis or temporal artery biopsy (TAB) results (=reference standard). The outcome was test performance, including sensitivity, specificity, positive likelihood ratio (LR+) and negative LR (LR−). For monitoring studies, intervention and comparator were ‘performing imaging’ and ‘not performing imaging’, respectively, and the outcome was disease activity. For prediction studies, intervention and comparator were ‘positive imaging’ and ‘negative imaging’, respectively, with a variety of outcomes such as disease complications, cumulative glucocorticoid dose and disease activity. Lastly, studies on technical aspects compared different imaging settings regarding ‘optimal results’ (not prespecified).
+Only full research articles (excluding commentaries and letters) were eligible. These included prospective cohort studies involving >20 patients, with <50% lost to follow-up. Cross-sectional studies were only included for studies of diagnostic accuracy and technical aspects. Case–control and retrospective studies were excluded."
+"""
 
   [datasets.data]
   url="https://osf.io/t8knj/"
@@ -584,6 +611,18 @@ Abstract-only paper"""
 
   [datasets.data]
   doi="10.17605/OSF.IO/UYB7X"
+
+
+[[datasets]]
+
+  key="Erer_2015"
+
+  [datasets.publication]
+  doi="10.1007/s00296-015-3413-z"
+  eligibility_criteria=" (i) FMF patients of any age; (ii) measured CRP, ESR, or SAA; (iii) included amyloidosis as the outcome variable; and (iv) were longitudinal observational or diagnostic studies."
+
+  [datasets.data]
+  url="https://osf.io/t8knj/"
 
 
 [[datasets]]
@@ -1021,6 +1060,18 @@ eligibility_criteria = "We screened records to find original experimental studie
 
 [[datasets]]
 
+  key="Moseng_2024"
+
+  [datasets.publication]
+  doi="10.1136/ard-2023-225041"
+eligibility_criteria = "Studies were included if they were SRs, including a meta-analysis of two or more RCTs on people diagnosed with hip or knee OA or with persisting knee pain in people 45 years or older and investigating non-pharmacological core management strategies. Relevant comparisons were no intervention, usual care or any other intervention. Relevant outcomes were pain, physical function, quality of life (QoL), patient global assessment of target joint, adverse effects or cost-effectiveness."
+
+  [datasets.data]
+  url="https://osf.io/t8knj/"
+
+
+[[datasets]]
+
   key="Muthu_2020"
 
   [datasets.publication]
@@ -1230,6 +1281,19 @@ Exclusion criteria:
 
 [[datasets]]
 
+  key="Ramiro_2015"
+
+  [datasets.publication]
+  doi="10.1136/annrheumdis-2015-208466"
+  eligibility_criteria="""Patients were defined as adults (≥18 years old) with a clinical diagnosis of PsA. The intervention was defined as any disease modifying antirheumatic drug (DMARD), either biological (bDMARD) or synthetic (sDMARD), the latter in turn including conventional (csDMARD) and targeted (tsDMARD) sDMARDs;10 systemic glucocorticoids; non-steroidal anti-inflammatory drugs (NSAIDs) or any combination of them. The following bDMARDs were included: anakinra, infliximab, etanercept, adalimumab, rituximab, abatacept, tocilizumab, golimumab, certolizumab pegol, ustekinumab (UST), secukinumab (SEC), brodalumab, ixekizumab, in all formulations, and duration, as well as biosimilars if data were available. Similarly, all sDMARDs were considered, including csDMARDs previously analysed in PsA: methotrexate (MTX), leflunomide, hydroxychloroquine, sulfasalazine, gold/auranofin, azathioprine, chlorambucil, chloroquine, ciclosporine, cyclophosphamide, mycophenolate, minocycline or penicillamine, but also the tsDMARDs apremilast (APR) and tofacitinib. The comparator was any bDMARD, sDMARD, glucocorticoid, NSAID, combination of any of these or placebo (PBO).
+The outcomes were divided into efficacy and safety. For efficacy, we report on the primary outcomes of the respective trials, but focus on the American College of Rheumatology 20% improvement (ACR20), as this was frequently the primary end point in trials. For safety, the primary outcome was withdrawals due to adverse events (AEs). Secondary efficacy outcomes collected were ACR50, ACR70, Psoriasis Area Severity Index (PASI)50–70–90, PsA response criteria (PsARC), EULAR good or moderate response, improvement in the 28-joint count Disease Activity Score or its components (swollen joint count (SJC), tender joint count, patient's global assessment of disease activity, and erythrocyte sedimentation rate or C reactive protein), minimum disease activity state,11 improvement in functional disability, improvement in enthesitis, dactylitis and nail involvement, absenteeism, work productivity, cost-efficacy and structural damage. Secondary safety outcomes were serious AEs (SAEs), serious infections, tuberculosis, candidiasis, malignancies, skin exacerbation and demyelinating disease. Only RCTs published after 2010, either phase III or IV (including long-term extensions) as well as strategy trials were included.""""
+
+  [datasets.data]
+  url="https://osf.io/t8knj/"
+
+
+[[datasets]]
+
   key="Rinne_2021"
 
   [datasets.publication]
@@ -1420,6 +1484,28 @@ b. Studies with scales with at least one subscale comparable to the three subsca
 
   [datasets.data]
   doi="10.17605/OSF.IO/UYB7X"
+
+
+[[datasets]]
+
+  key="Tektonidou_2019"
+
+  [datasets.publication]
+  doi="10.1136/rmdopen-2019-000924"
+  eligibility_criteria="""1.  Exclusion criteria for the systematic literature review
+• Animal studies
+• Basic science studies, laboratory definition studies
+• Pediatric studies
+• Narrative review, editorials, letters
+• Case reports 
+• Conference abstracts
+• Non-English language publications
+• Not related to PICO questions (unrelated topic) 
+• Publications on the same cohort (same cohorts)
+• Other (other disorder or not related to prevention or management topics in APS)"""
+
+  [datasets.data]
+  url="https://osf.io/t8knj/"
 
 
 [[datasets]]
