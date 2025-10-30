@@ -154,11 +154,10 @@ def search_record(title, year=None, label_included=None):
     # smart = words start at first normal character untill a special character
     title_smart = strip_title_till_special(copy.copy(title))
 
-    # Combine title_smart with title_stripped if title_stripped > 3.
+    # Combine title_smart with title_stripped if title_stripped >= 3.
     if len(title_stripped.split(" ")) < 3:
         title_stripped = ""
     title_combined = title_stripped + "|" + title_smart
-
 
     works = titlesearch_openalex(title_combined)
 
