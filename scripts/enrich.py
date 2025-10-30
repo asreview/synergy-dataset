@@ -69,9 +69,9 @@ def strip_title(title):
     clean_title =  ' '.join(clean_words)
     return clean_title
 
-# Strips words untill they reach a special character. 
+# Strips words from the point where they have a special character. 
 # Also, start by removing special characters from start.
-def strip_title_till_special(title):
+def strip_title_from_special(title):
     words = title.split(" ")
     clean_words = []
     for word in words:
@@ -109,9 +109,10 @@ def titlesearch_openalex(title):
     try:
         r = Works(params={"filter": {"title.search": title}}).version(2).get()
     except requests.exceptions.JSONDecodeError:
-        r = []
+        sleep(5)
+        r = Works(params={"filter": {"title.search": title}}).version(2).get()
     except requests.exceptions.RetryError:
-        r = []
+        print("retry error for " + title)
     return r
 
 
