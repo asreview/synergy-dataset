@@ -17,6 +17,12 @@ from time import sleep
 import pyalex
 from pyalex import Works
 
+# Ensure we can use version 2 of OpenAlex (Walden)
+def version(self, v):
+    self._add_params("data-version", str(v))
+    return self
+
+Works.version = version
 
 import logging
 
@@ -53,6 +59,38 @@ def compare_titles(s1, s2):
     return s1_clean == s2_clean
 
 
+# Removes all words from the title that contain a special character
+def strip_title(title):
+    words = title.split(" ")
+    clean_words = []
+    for word in words:
+        if all(char.isalnum() for char in word):
+            clean_words.append(word)
+    clean_title =  ' '.join(clean_words)
+    return clean_title
+
+# Strips words from the point where they have a special character. 
+# Also, start by removing special characters from start.
+def strip_title_from_special(title):
+    words = title.split(" ")
+    clean_words = []
+    for word in words:
+        clean_chars = []
+        started = False
+        for char in word:
+            if char.isalnum():
+                started = True
+                clean_chars.append(char)
+            else:
+                if started:
+                    break
+        if len(clean_chars) > 0:
+            clean_words.append(''.join(clean_chars))
+
+    clean_title =  ' '.join(clean_words)
+    return clean_title
+
+
 def compare_year(y1, y2):
 
     return y1 == y2
@@ -66,38 +104,34 @@ def unquote_url(s):
     return urllib.parse.unquote(s.lower())
 
 
-def search_record(title, year=None, label_included=None):
-
-    title_raw = copy.copy(title)
-
-    # clean title to prevent zero hits in openalex due to bad special char
-    # handling.
-    for x in SPECIAL_TOKENS:
-        title = title.replace(x, "")
-
-    # search for the work on OpenAlex
+# Does a single query on OpenAlex for 1 title.
+def titlesearch_openalex(title):
     try:
-        r = Works().search(title).get()
+        r = Works(params={"filter": {"title.search": title}}).version(2).get()
     except requests.exceptions.JSONDecodeError:
         sleep(5)
-        r = Works().search(title).get()
+        r = Works(params={"filter": {"title.search": title}}).version(2).get()
+    except requests.exceptions.RetryError:
+        print("retry error for " + title)
+    return r
 
-    matches = []
-    for work in r:
+
+# Filters list of OpenAlex works based on given title
+def match_title(matches, title):
+    matches_title = []
+    for work in matches:
         if (
             "title" in work
             and work["title"]
             and title
             and compare_titles(work["title"], title)
         ):
-            matches.append(work)
+            matches_title.append(work)
+    return matches_title
 
-    # print(f"N={len(matches)}:", title)
-    if len(matches) == 1:
-        return matches[0]["doi"], matches[0]["id"], "search_title"
 
-    # if there was no match of more than one match, go to this step.
-    # we match year as well.
+# Filters list of OpenAlex works based on given year
+def match_year(matches, year):
     matches_year = []
     for work in matches:
         if (
@@ -108,31 +142,40 @@ def search_record(title, year=None, label_included=None):
         ):
             matches_year.append(work)
 
+    return matches_year
+
+
+def search_record(title, year=None, label_included=None):
+
+    title_raw = copy.copy(title)
+
+    # stripped = words with special chars stripped away
+    title_stripped = strip_title(copy.copy(title))
+    works = titlesearch_openalex(title_stripped)
+
+    matches_title = match_title(works, title)
+    if len(matches_title) == 1:
+        return matches_title[0]["doi"], matches_title[0]["id"], "search_title"
+
+    matches_year = match_year(matches_title, year)
     if len(matches_year) == 1:
         return matches_year[0]["doi"], matches_year[0]["id"], "search_title_year"
 
-    if LENS_TOKEN and label_included == 1:
-        print("Search with Lens")
+    # If stripped title has < 5 words, do a different search as well. 
+    if len(title_stripped.split(" ")) < 5:
+        title_smart = strip_title_till_special(copy.copy(title))
+        works = titlesearch_openalex(title_smart)
 
-        title_quote = urllib.parse.quote(title)
-        url = f"https://api.lens.org/scholarly/search?query=title:({title_quote})&include=external_ids,title,year_published,lens_id&size=1&token={LENS_TOKEN}"
+        matches_title = match_title(works, title)
+        if len(matches_title) == 1:
+            return matches_title[0]["doi"], matches_title[0]["id"], "search_title_extra"
 
-        r = requests.get(url)
-        rdata = r.json()
-        print(title)
-        print(rdata)
-        try:
-            sleep(6)
-            ids = rdata["data"][0]["external_ids"]
-            doi = filter(lambda x: x["type"] == "doi", ids).__next__()["value"]
-            print(doi)
-            openalex_id = Works()["doi:" + doi]["id"]
-            print(openalex_id)
-            return None, openalex_id, "lens_lookup"
-        except Exception as err:
-            print(err)
+        matches_year = match_year(matches_title, year)
+        if len(matches_year) == 1:
+            return matches_year[0]["doi"], matches_year[0]["id"], "search_title_year_extra"
 
-    return None, None, None
+    # added str(len(matches_title)) for now, because the next step is to look at cases with 2+ records.
+    return None, None, str(len(matches_title))
 
 
 def openalex_work_by_id(
@@ -219,6 +262,7 @@ if __name__ == "__main__":
             df["method"] = None
 
         # OpenAlex always uses lowercase doi's and matches case specific.
+        df['doi'] = df['doi'].astype("string")
         df["doi"] = df['doi'].str.lower()
         
         try:
@@ -253,38 +297,38 @@ if __name__ == "__main__":
 
                 # Update dois from title
                 total_count = len(df[df["openalex_id"].isnull()])
-                print(f"searching {total_count} records via title/year\n")
-                found = 0
+                print(f"searching {total_count} records via title/year")
                 searched = 0
-                for index, row in df.iterrows():
-                    if searched % 10 == 0:
-                        print(f"\r searched: {searched}/{total_count}, found: {found}")
-                    
+                has_title = 0
+                found = 0
+                for index, row in df.iterrows():                    
                     if (
                         args.inclusions_only
                         and df_raw.iloc[index]["label_included"] == 0
                     ):
                         continue
 
-                    if pd.isnull(row["openalex_id"]) and pd.notnull(
-                        df_raw.iloc[index]["title"]
-                    ):
+                    if pd.isnull(row["openalex_id"]):
                         searched += 1
-                        try:
-                            year = df_raw.iloc[index]["year"]
-                        except Exception:
-                            year = None
-                        doi, openalex_id, retrieval_method = search_record(
-                            df_raw.iloc[index]["title"],
-                            year,
-                            df_raw.iloc[index]["label_included"],
-                        )
+                        if pd.notnull(df_raw.iloc[index]["title"]):
+                            has_title += 1
+                            try:
+                                year = df_raw.iloc[index]["year"]
+                            except Exception:
+                                year = None
+                            doi, openalex_id, retrieval_method = search_record(
+                                df_raw.iloc[index]["title"],
+                                year,
+                                df_raw.iloc[index]["label_included"],
+                            )
 
-                        if openalex_id:
-                            #print("Found new work:", doi)
-                            found += 1
-                            df.loc[index, "openalex_id"] = openalex_id
+                            if openalex_id:
+                                found += 1
+                                df.loc[index, "openalex_id"] = openalex_id
                             df.loc[index, "method"] = retrieval_method
+                                
+                        if searched % 10 == 0:
+                            print(f"\rsearched: {searched}/{total_count}, has title: {has_title}, found: {found}")
 
         except KeyboardInterrupt as err:
             print("Stop and write results so far.")
