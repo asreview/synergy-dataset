@@ -150,16 +150,7 @@ def search_record(title, year=None, label_included=None):
 
     # stripped = words with special chars stripped away
     title_stripped = strip_title(copy.copy(title))
-
-    # smart = words start at first normal character untill a special character
-    title_smart = strip_title_till_special(copy.copy(title))
-
-    # Combine title_smart with title_stripped if title_stripped >= 3.
-    if len(title_stripped.split(" ")) < 3:
-        title_stripped = ""
-    title_combined = title_stripped + "|" + title_smart
-
-    works = titlesearch_openalex(title_combined)
+    works = titlesearch_openalex(title_stripped)
 
     matches_title = match_title(works, title)
     if len(matches_title) == 1:
@@ -169,6 +160,20 @@ def search_record(title, year=None, label_included=None):
     if len(matches_year) == 1:
         return matches_year[0]["doi"], matches_year[0]["id"], "search_title_year"
 
+    # If stripped title has < 5 words, do a different search as well. 
+    if len(title_stripped.split(" ")) < 5:
+        title_smart = strip_title_till_special(copy.copy(title))
+        works = titlesearch_openalex(title_smart)
+
+        matches_title = match_title(works, title)
+        if len(matches_title) == 1:
+            return matches_title[0]["doi"], matches_title[0]["id"], "search_title_extra"
+
+        matches_year = match_year(matches_title, year)
+        if len(matches_year) == 1:
+            return matches_year[0]["doi"], matches_year[0]["id"], "search_title_year_extra"
+
+    # added str(len(matches_title)) for now, because the next step is to look at cases with 2+ records.
     return None, None, str(len(matches_title))
 
 
