@@ -2,23 +2,23 @@ version=1.0
 
 [[datasets]]
 
-  key="Abgaz_2023"
+  key = "Abgaz_2023"
 
   [datasets.publication]
-  doi="10.1109/tse.2023.3287297"
-  eligibility_criteria="Studies were screened by applying the following exclusion criteria (EC): (EC1) Duplicate Study, (EC2) Books and Patents, (EC3) Non-peer-reviewed Study, (EC4) Secondary Study, (EC5) Study written in languages other than English, and (EC6) Study published before 2015. Note that there is an additional step at the end of the process to protect against oversight of significant pre-2015 published material (details of which are provided at the end of this subsection). Further studies that did not satisfy the inclusion criteria were removed. The three inclusion criteria (IC) are: (IC1) the primary objective of the study should be the decomposition of monolith applications into microservices, (IC2) the study should include structured and preferably automatic or semi-automatic decomposition approaches, and (IC3) the study should sufficiently describe the decomposition method, code, algorithm, and its evaluation (i.e., abstracts and extended abstracts are not included)."
+  doi = "10.1109/tse.2023.3287297"
+  eligibility_criteria = "Studies were screened by applying the following exclusion criteria (EC): (EC1) Duplicate Study, (EC2) Books and Patents, (EC3) Non-peer-reviewed Study, (EC4) Secondary Study, (EC5) Study written in languages other than English, and (EC6) Study published before 2015. Note that there is an additional step at the end of the process to protect against oversight of significant pre-2015 published material (details of which are provided at the end of this subsection). Further studies that did not satisfy the inclusion criteria were removed. The three inclusion criteria (IC) are: (IC1) the primary objective of the study should be the decomposition of monolith applications into microservices, (IC2) the study should include structured and preferably automatic or semi-automatic decomposition approaches, and (IC3) the study should sufficiently describe the decomposition method, code, algorithm, and its evaluation (i.e., abstracts and extended abstracts are not included)."
 
   [datasets.data]
-  doi="10.5281/zenodo.7899996"
+  doi = "10.5281/zenodo.7899996"
 
 
 [[datasets]]
 
-  key="Adamo_2021"
+  key = "Adamo_2021"
 
   [datasets.publication]
-  doi="10.1007/s10270-020-00847-w"
-  eligibility_criteria="""IC 1: The paper proposes a meta-model of business processes or BPMLs.
+  doi = "10.1007/s10270-020-00847-w"
+  eligibility_criteria = """IC 1: The paper proposes a meta-model of business processes or BPMLs.
 IC 2: The meta-model is either originally developed or originally adapted by the authors.
 IC 3: The paper focuses mainly / exclusively on business process aspects.
 EC 1: The paper is not available.
@@ -34,16 +34,16 @@ EC 8: The paper either does not include a wide analysis of related works or is n
 EC 9: The paper is not long enough to present a complete meta-model."""
 
   [datasets.data]
-  doi="10.5281/zenodo.4280896"
+  doi = "10.5281/zenodo.4280896"
 
 
 [[datasets]]
 
-  key="Ali_2024"
+  key = "Ali_2024"
 
   [datasets.publication]
-  doi="10.1007/s12599-024-00868-5"
-  eligibility_criteria="""Exclusion Criteria
+  doi = "10.1007/s12599-024-00868-5"
+  eligibility_criteria = """Exclusion Criteria
 EC1: The paper is digitally inaccessible
 EC2: The paper is written in language other than English
 EC3: The paper is a duplicate
@@ -53,31 +53,31 @@ IC1: The paper presents/demonstrates a method, approach or technique to identify
 IC2: The method, approach or technique presented/demonstrated in the paper uses event logs"""
 
   [datasets.data]
-  doi="10.5281/zenodo.10698027"
+  doi = "10.5281/zenodo.10698027"
 
 
 [[datasets]]
 
-  key="Alunno_2020"
+  key = "Alunno_2020"
 
   [datasets.publication]
-  doi="10.1136/rmdopen-2020-001330"
-  eligibility_criteria="The population consisted of medical doctors in speciality training (also referred to as trainees or fellows) in rheumatology or other related specialities. Instruments of interest included any assessment strategy or method, while the measurement properties of interest were validity, discrimination (including both reliability and sensitivity to change) and feasibility; at least one of them was required to be reported."
+  doi = "10.1136/rmdopen-2020-001330"
+  eligibility_criteria = "The population consisted of medical doctors in speciality training (also referred to as trainees or fellows) in rheumatology or other related specialities. Instruments of interest included any assessment strategy or method, while the measurement properties of interest were validity, discrimination (including both reliability and sensitivity to change) and feasibility; at least one of them was required to be reported."
 
   [datasets.data]
-  url="https://osf.io/t8knj/"
+  doi = "10.17605/OSF.IO/T8KNJ"
 
 
 [[datasets]]
 
-  key="Anmarkrud_2021"
+  key = "Anmarkrud_2021"
 
   [datasets.collection]
-  doi="10.1007/s10648-024-09862-5"
+  doi = "10.1007/s10648-024-09862-5"
 
   [datasets.publication]
-  doi="10.1007/s10648-021-09640-7"
-  eligibility_criteria="""To be eligible for the review, the studies had to fulfill the following inclusion criteria:
+  doi = "10.1007/s10648-021-09640-7"
+  eligibility_criteria = """To be eligible for the review, the studies had to fulfill the following inclusion criteria:
 
 1.
 The studies should examine the comprehension or evaluation of written resources, either text alone or text in combination with other representations.
@@ -101,40 +101,40 @@ The studies should have a quantitative design and report results through numeric
 The studies should be published in English."""
 
   [datasets.data]
-  doi="10.17605/OSF.IO/UYB7X"
+  doi = "10.17605/OSF.IO/UYB7X"
 
 
 [[datasets]]
 
-  key="Aouad_2024"
+  key = "Aouad_2024"
 
   [datasets.publication]
-  doi="10.1136/ard-2024-225567"
-eligibility_criteria = "We included all types of articles reporting PRP involvement in all types of research, including trials and observational studies, qualitative studies, mixed-methods studies and reports of meetings, opinion papers and reviews. We did not exclude published articles from any country, aiming to enhance the generalisability of our findings. Recommendations and guidelines on PRPs were also analysed and were used as supportive information. Articles not focused on rheumatology research or not bringing any information on PRPs (ie, not answering one or more research questions), as well as not in English, were excluded. Articles only mentioning PRPs or their involvement, without providing any details (eg, on their roles, contributions or barriers/facilitators), were excluded as well. Articles with duplicate information (ie, multiple publications reporting on a single study) were excluded if they did not provide additional information relevant to our research questions."
+  doi = "10.1136/ard-2024-225567"
+  eligibility_criteria = "We included all types of articles reporting PRP involvement in all types of research, including trials and observational studies, qualitative studies, mixed-methods studies and reports of meetings, opinion papers and reviews. We did not exclude published articles from any country, aiming to enhance the generalisability of our findings. Recommendations and guidelines on PRPs were also analysed and were used as supportive information. Articles not focused on rheumatology research or not bringing any information on PRPs (ie, not answering one or more research questions), as well as not in English, were excluded. Articles only mentioning PRPs or their involvement, without providing any details (eg, on their roles, contributions or barriers/facilitators), were excluded as well. Articles with duplicate information (ie, multiple publications reporting on a single study) were excluded if they did not provide additional information relevant to our research questions."
 
   [datasets.data]
-  url="https://osf.io/t8knj/"
+  doi = "10.17605/OSF.IO/T8KNJ"
 
 
 [[datasets]]
 
-  key="Appenzeller-Herzog_2019"
+  key = "Appenzeller-Herzog_2019"
 
   [datasets.publication]
-  doi="10.1111/liv.14179"
-eligibility_criteria = "We included WD patients of any age or stage. The study drug had to be one of four established therapies, namely DPen, trientine, TTM or Zn. The control could be placebo, no treatment or any other treatment that does not include the respective study drug (eg Zn vs trientine was allowed, Zn 50 mg vs Zn 100 mg was not allowed). Concomitant therapies had to be identical in the compared treatment arms (eg trientine plus Zn vs TTM plus Zn). Comparisons between monotherapy and combination therapy regimens that included the respective monotherapy drug (eg DPen plus Zn vs Zn) have been analysed elsewhere and were not considered any further here. We included studies that reported all‐cause mortality, orthotopic liver transplantation (OLT), neurological symptoms (eg dystonia, dysarthria, cognitive decline, drooling, tremor, gait disturbance, chorea, seizure, psychosis), liver‐related symptoms (eg icterus, ascites, steatosis, fibrosis, mild hepatitis, acute liver failure, cirrhosis, serum transaminases), adverse effects (eg dermatological manifestations, nephrotoxicity, pulmonary toxicity, autoimmune disorders, anaemia, neutrophilic agranulocytosis, thrombocytopenia, hypothyroidism, liver dysfunction, colitis, status dystonicus, myasthenia gravis, arthropathy, macromastia, early neurological deterioration, gastrointestinal irritation), and frequency of treatment discontinuation (ie switching to another drug, stopping or changing the treatment). We included prospective and retrospective studies, including randomized, non‐randomized controlled trials and comparative observational studies that were written in English, German, Dutch, French, Spanish or Portuguese. Animal studies, case reports, case series, cross‐sectional studies, before‐after studies, reviews, letters, abstract‐only publications, editorials, diagnostic or other testing studies and non‐controlled studies were excluded. No publication date restrictions were applied."
+  doi = "10.1111/liv.14179"
+  eligibility_criteria = "We included WD patients of any age or stage. The study drug had to be one of four established therapies, namely DPen, trientine, TTM or Zn. The control could be placebo, no treatment or any other treatment that does not include the respective study drug (eg Zn vs trientine was allowed, Zn 50 mg vs Zn 100 mg was not allowed). Concomitant therapies had to be identical in the compared treatment arms (eg trientine plus Zn vs TTM plus Zn). Comparisons between monotherapy and combination therapy regimens that included the respective monotherapy drug (eg DPen plus Zn vs Zn) have been analysed elsewhere and were not considered any further here. We included studies that reported all‐cause mortality, orthotopic liver transplantation (OLT), neurological symptoms (eg dystonia, dysarthria, cognitive decline, drooling, tremor, gait disturbance, chorea, seizure, psychosis), liver‐related symptoms (eg icterus, ascites, steatosis, fibrosis, mild hepatitis, acute liver failure, cirrhosis, serum transaminases), adverse effects (eg dermatological manifestations, nephrotoxicity, pulmonary toxicity, autoimmune disorders, anaemia, neutrophilic agranulocytosis, thrombocytopenia, hypothyroidism, liver dysfunction, colitis, status dystonicus, myasthenia gravis, arthropathy, macromastia, early neurological deterioration, gastrointestinal irritation), and frequency of treatment discontinuation (ie switching to another drug, stopping or changing the treatment). We included prospective and retrospective studies, including randomized, non‐randomized controlled trials and comparative observational studies that were written in English, German, Dutch, French, Spanish or Portuguese. Animal studies, case reports, case series, cross‐sectional studies, before‐after studies, reviews, letters, abstract‐only publications, editorials, diagnostic or other testing studies and non‐controlled studies were excluded. No publication date restrictions were applied."
 
   [datasets.data]
-  doi="10.5281/zenodo.3625931"
+  doi = "10.5281/zenodo.3625931"
 
 
 [[datasets]]
 
-  key="Attai_2022"
+  key = "Attai_2022"
 
   [datasets.publication]
-  doi="10.3390/tropicalmed7120398"
-eligibility_criteria = """In our study, the following inclusion criteria were considered during the literature review:
+  doi = "10.3390/tropicalmed7120398"
+  eligibility_criteria = """In our study, the following inclusion criteria were considered during the literature review:
 Relevance of the topic of each study to the tropical disease diagnosis concepts
 The level of comprehensiveness and evaluation followed in the study
 Whether the study was peer-reviewed
@@ -146,163 +146,162 @@ Focus is not ML for tropical disease
 Not written in English"""
 
   [datasets.data]
-  doi="10.5281/zenodo.7243307"
+  doi = "10.5281/zenodo.7243307"
 
 
 [[datasets]]
 
-  key="Bakker-Jacobs_2022"
+  key = "Bakker-Jacobs_2022"
 
   [datasets.publication]
-  doi="10.29011/2688-9501.101268"
+  doi = "10.29011/2688-9501.101268"
   eligibility_criteria = "Original research written in English or Dutch and published in peer journals in or after 2010 was considered eligible. We chose only to select studies published after 2010 to ensure inclusion of recent and up-to-date scientific nursing outcomes. According to the guidance of the Cochrane Effective Practice and Organization of Care group, studies were included if data could be compared with a control or baseline measure, such as randomised controlled trials, controlled before-and-after studies or interrupted time series methods. In addition, the interventions in the studies had to be of Western origin and had to be focused on wound care performed by a nurse on adult patients (>18 years). Finally, the studies had to be conducted in a hospital or community care setting of an Organisation for Economic Co-operation and Development country. Studies involving interventions aimed at wounds due to labour or breastfeeding as well as papers involving burns or special pressure-relieving mattresses were excluded. Studies concerning Chinese, alternative or non-Western medicine were also excluded."
 
   [datasets.data]
-  url="https://osf.io/qhk3v/"
+  url = "https://osf.io/qhk3v/"
 
 
 [[datasets]]
 
-  key="Bech_2019"
+  key = "Bech_2019"
 
   [datasets.publication]
-  doi="10.1136/annrheumdis-2019-215458"
+  doi = "10.1136/annrheumdis-2019-215458"
   eligibility_criteria = "Only studies providing evidence of higher level than the first recommendations and additional knowledge about rheumatology nursing, were considered."
   
   [datasets.data]
-  url="https://osf.io/t8knj/"
+  doi = "10.17605/OSF.IO/T8KNJ"
 
 
 [[datasets]]
 
-  key="Bindoli_2024a"
+  key = "Bindoli_2024a"
 
   [datasets.publication]
-  doi="10.1136/ard-2024-225854"
+  doi = "10.1136/ard-2024-225854"
   eligibility_criteria = "For treatment in Still's disease, the included population were patients with sJIA and AOSD. Interventions considered were: (1) GCs (prednisone, methylprednisolone and dexamethasone); (2) NSAIDs; (3) csDMARDs: MTX, CsA, leflunomide (LEF), azathioprine (AZA), sulfasalazine (SSZ) and hydroxychloroquine (HCQ); (4) bDMARDs: anakinra (ANK), canakinumab (CAM), rilonacept (RIL), tocilizumab (TCZ), sarilumab, siltuximab, etanercept (ETA), adalimumab (ADA), infliximab (IFX), secukinumab, ixekizumab, certolizumab pegol and golimumab; (5) targeted synthetic (ts) DMARDs: Janus-Kinases inhibitors (JAKi): ruxolitinib (RUX), tofacitinib (TOF), baricitinib (BAR), filgotinib and upadacitinib; (6) intravenous immunoglobulins (IVIGs); (7) colchicine; (8) thalidomide; (9) IL-18 binding protein (BP): tadekinig-alpha; (10) emapalumab; and (11) etoposide (VP-16). All doses, formulations, regimens (eg, on-demand or continuous), duration and any combination were evaluated. Comparators were defined as any other active drug or placebo. The outcomes of interest were all relevant efficacy information."
 
   [datasets.data]
-  url="https://osf.io/t8knj/"
+  doi = "10.17605/OSF.IO/T8KNJ"
 
 
 [[datasets]]
 
-  key="Bindoli_2024b"
+  key = "Bindoli_2024b"
 
   [datasets.publication]
-  doi="10.1136/ard-2024-225854"
+  doi = "10.1136/ard-2024-225854"
   eligibility_criteria = "For treatment in Still's disease, the included population were patients with sJIA and AOSD. Interventions considered were: (1) GCs (prednisone, methylprednisolone and dexamethasone); (2) NSAIDs; (3) csDMARDs: MTX, CsA, leflunomide (LEF), azathioprine (AZA), sulfasalazine (SSZ) and hydroxychloroquine (HCQ); (4) bDMARDs: anakinra (ANK), canakinumab (CAM), rilonacept (RIL), tocilizumab (TCZ), sarilumab, siltuximab, etanercept (ETA), adalimumab (ADA), infliximab (IFX), secukinumab, ixekizumab, certolizumab pegol and golimumab; (5) targeted synthetic (ts) DMARDs: Janus-Kinases inhibitors (JAKi): ruxolitinib (RUX), tofacitinib (TOF), baricitinib (BAR), filgotinib and upadacitinib; (6) intravenous immunoglobulins (IVIGs); (7) colchicine; (8) thalidomide; (9) IL-18 binding protein (BP): tadekinig-alpha; (10) emapalumab; and (11) etoposide (VP-16). All doses, formulations, regimens (eg, on-demand or continuous), duration and any combination were evaluated. Comparators were defined as any other active drug or placebo. The outcomes of interest were all relevant safety information."
 
   [datasets.data]
-  url="https://osf.io/t8knj/"
+  doi = "10.17605/OSF.IO/T8KNJ"
 
 
 [[datasets]]
 
-  key="Boersma-van_Dam_2024"
+  key = "Boersma-van_Dam_2024"
 
   [datasets.publication]
-  doi="https://doi.org/10.1080/17437199.2024.2423725"
+  doi = "https://doi.org/10.1080/17437199.2024.2423725"
   eligibility_criteria = "Studies were included if they met the following criteria: (1) Original full-text publications in English in a peer-reviewed journal; (2) Participants were adult burn survivors with any level of burn severity treated at a health care facility (both inpatient and outpatient samples were eligible); (3) in the case of mixed-trauma populations, separate statistics for burn survivors needed to be available; (4) a non-selective sampling method was used (e.g., including all consecutive burn survivors at a certain burn facility or after a disaster); (5) PTSD (or PTSD symptomatology) was assessed by a (semi) structured interview based on recognised diagnostic criteria for PTSD or a validated self-report PTSD questionnaire; and (6) sufficient information was provided to calculate prevalence rates and their standard error (i.e., the sample size and the number or percentage of PTSD cases). Studies of paediatric burns populations were excluded to focus on a homogeneous sample. Studies that reported the combined prevalence of a wider population (e.g., ‘injuries’) and studies with likely epidemiologically selective samples, such as qualitative studies, case reports, randomised controlled trials, effect studies, reviews, studies with sample sizes of fewer than ten participants, or studies including only combat casualties or complex multi-trauma survivors were also excluded. After the quality appraisal and data extraction, one post-hoc exclusion criterium was applied for the meta-analysis: studies that did not measure PTSD prevalence within 3 months around a specified time point following the event leading to the burn or discharge from hospital, and study estimates after 24 months post-burn, were excluded from the meta-analysis (see statistical analyses)."
 
   [datasets.data]
-  doi="https://osf.io/wjnbz/"
+  doi = "https://osf.io/wjnbz/"
 
 
 [[datasets]]
 
-  key="Bos_2018"
+  key = "Bos_2018"
 
   [datasets.publication]
-  doi="10.1016/j.jalz.2018.04.007"
-eligibility_criteria = "For the current review, we used the following inclusion criteria: (1) all studies had to be prospective population-based cohort studies. Inherent to the nature of population-based studies this meant that except for a selection criterion of age, no other selection criteria were applied; (2) cerebral imaging had to be performed (either magnetic resonance imaging [MRI] or computed tomography) for the visualization of white matter hyperintensities, covert brain infarcts, or microbleeds; (3) all studies had to have investigated the association of any of the three pathologies with the risk of incident all-dementia or AD. We specifically note that we chose all-dementia as primary outcome measure, given that the syndrome diagnosis of dementia can be defined with high consistency across studies and is less dependent on advanced diagnostic testing, which is often not feasible in large population-based studies. Still, we acknowledge the importance of various neuropathologies underlying the clinical manifestation of dementia. To provide additional insight into the association of cerebral small vessel disease with dementia independent of manifest cerebrovascular disease, we also highlighted the associations with a diagnosis of AD (if available in the study) as a secondary outcome measure. We restricted our inclusion to original articles that were written in English and excluded review articles, case reports, conference papers, and editorials."
+  doi = "10.1016/j.jalz.2018.04.007"
+  eligibility_criteria = "For the current review, we used the following inclusion criteria: (1) all studies had to be prospective population-based cohort studies. Inherent to the nature of population-based studies this meant that except for a selection criterion of age, no other selection criteria were applied; (2) cerebral imaging had to be performed (either magnetic resonance imaging [MRI] or computed tomography) for the visualization of white matter hyperintensities, covert brain infarcts, or microbleeds; (3) all studies had to have investigated the association of any of the three pathologies with the risk of incident all-dementia or AD. We specifically note that we chose all-dementia as primary outcome measure, given that the syndrome diagnosis of dementia can be defined with high consistency across studies and is less dependent on advanced diagnostic testing, which is often not feasible in large population-based studies. Still, we acknowledge the importance of various neuropathologies underlying the clinical manifestation of dementia. To provide additional insight into the association of cerebral small vessel disease with dementia independent of manifest cerebrovascular disease, we also highlighted the associations with a diagnosis of AD (if available in the study) as a secondary outcome measure. We restricted our inclusion to original articles that were written in English and excluded review articles, case reports, conference papers, and editorials."
 
   [datasets.data]
-  url="https://osf.io/w3kbq/"
+  url = "https://osf.io/w3kbq/"
 
 
 [[datasets]]
 
-  key="Bosch_2021"
+  key = "Bosch_2021"
 
   [datasets.publication]
-  doi="10.1136/rmdopen-2021-001864"
+  doi = "10.1136/rmdopen-2021-001864"
   eligibility_criteria = "Eligible studies were full research articles, short reports and research letters of prospective and retrospective studies. The following studies were excluded from the analysis: studies of interventions on tumours, vessels or glands, studies on vertebroplasty/arthroplasty, studies of interventions with the aim to perform anaesthesia and studies investigating methods not used in routine clinical practice. We also excluded studies not answering any of the PICO questions, for example, due to wrong population or missing comparator."
   
   [datasets.data]
-  url="https://osf.io/t8knj/"
+  doi = "10.17605/OSF.IO/T8KNJ"
   
   
 [[datasets]]
 
-  key="Bosch_2023"
+  key = "Bosch_2023"
 
   [datasets.publication]
-  doi="10.1136/rmdopen-2023-003379"
+  doi = "10.1136/rmdopen-2023-003379"
   eligibility_criteria = """They comprised the use of different imaging techniques for LVV in (1) diagnostics, (2) monitoring, (3) outcome prediction and (4) technical aspects that should be considered when using them (online supplemental tables S1a–d). Apart from the studies on imaging techniques included in the previous SLR (ultrasound, MRI, FDG-PET and CT),2 studies on optical coherence tomography (OCT) and fluoresceine angiography (FA) were also included in this review, as studies reporting the diagnostic value of these imaging techniques had recently been published.
 The population of interest was adults (≥18 years) with suspected primary LVV (for diagnostic accuracy studies) or with established primary LVV (for monitoring, prediction and technical aspects studies), particularly GCA, TAK and isolated aortitis. For diagnostic studies, the intervention was the imaging findings (=index test) and the comparator was either the clinical diagnosis or temporal artery biopsy (TAB) results (=reference standard). The outcome was test performance, including sensitivity, specificity, positive likelihood ratio (LR+) and negative LR (LR−). For monitoring studies, intervention and comparator were ‘performing imaging’ and ‘not performing imaging’, respectively, and the outcome was disease activity. For prediction studies, intervention and comparator were ‘positive imaging’ and ‘negative imaging’, respectively, with a variety of outcomes such as disease complications, cumulative glucocorticoid dose and disease activity. Lastly, studies on technical aspects compared different imaging settings regarding ‘optimal results’ (not prespecified).
-Only full research articles (excluding commentaries and letters) were eligible. These included prospective cohort studies involving >20 patients, with <50% lost to follow-up. Cross-sectional studies were only included for studies of diagnostic accuracy and technical aspects. Case–control and retrospective studies were excluded."
-"""
+Only full research articles (excluding commentaries and letters) were eligible. These included prospective cohort studies involving >20 patients, with <50% lost to follow-up. Cross-sectional studies were only included for studies of diagnostic accuracy and technical aspects. Case–control and retrospective studies were excluded."""
 
   [datasets.data]
-  url="https://osf.io/t8knj/"
+  doi = "10.17605/OSF.IO/T8KNJ"
 
 
 [[datasets]]
 
-  key="Brons_2024"
+  key = "Brons_2024"
 
   [datasets.publication]
-  doi="10.2196/47774"
-  eligibility_criteria="Studies were included if they met the following criteria: (1) Articles: peer-reviewed articles, conference proceedings, or book chapters on qualitative, quantitative, and mixed method studies or protocols; (2) Language: English; (3) Application: digital intervention, either stand-alone or hybrid with a health care provider, with at least one personalized persuasive strategy; (4) Machine learning (ML) technique: supervised ML, unsupervised ML, or reinforcement learning; (5) Health behavior promoted by the intervention: physical activity (including walking, running, cycling, performing exercises, and performing sports activities) either alone or as part of several health behaviors. Studies were excluded if they (1) Articles: conference abstracts, reviews, letters, editorials, comments, non–peer-reviewed articles or book chapters, white papers, or articles with no full text available; (2) Language: all other languages; (3) Application: nonadaptive intervention or persuasive strategy not specified; (4) ML technique: rule-based if-then systems, predefined formulas, manual personalization, ML method not specified, computer vision, natural language processing, or robotics; (5) Health behavior promoted by the intervention: health behaviors other than physical activity."
+  doi = "10.2196/47774"
+  eligibility_criteria = "Studies were included if they met the following criteria: (1) Articles: peer-reviewed articles, conference proceedings, or book chapters on qualitative, quantitative, and mixed method studies or protocols; (2) Language: English; (3) Application: digital intervention, either stand-alone or hybrid with a health care provider, with at least one personalized persuasive strategy; (4) Machine learning (ML) technique: supervised ML, unsupervised ML, or reinforcement learning; (5) Health behavior promoted by the intervention: physical activity (including walking, running, cycling, performing exercises, and performing sports activities) either alone or as part of several health behaviors. Studies were excluded if they (1) Articles: conference abstracts, reviews, letters, editorials, comments, non–peer-reviewed articles or book chapters, white papers, or articles with no full text available; (2) Language: all other languages; (3) Application: nonadaptive intervention or persuasive strategy not specified; (4) ML technique: rule-based if-then systems, predefined formulas, manual personalization, ML method not specified, computer vision, natural language processing, or robotics; (5) Health behavior promoted by the intervention: health behaviors other than physical activity."
 
   [datasets.data]
-  doi="10.17605/OSF.IO/VJQ59"
+  doi = "10.17605/OSF.IO/VJQ59"
 
 
 [[datasets]]
 
-  key="Brouwer_2019"
+  key = "Brouwer_2019"
 
   [datasets.publication]
-  doi="10.1016/j.cpr.2019.101773"
-eligibility_criteria = "Criteria for studies to be included in the review were: (1) Presence of a diagnostic status of MDD (MDD absence and/or presence) for all participants, as determined through a clinical interview (e.g., SCID, KSADS from DSM, CIDI from ICD) or by a clinician at the start of the study; (2) At some point during the study, participants needed to be in (partial) remission or recovery as determined by a clinical interview or clinician assessment; and (3) relapse or recurrence was diagnosed through a clinical interview or by a clinician. (4) The study design was longitudinal and prospective; (5) The theory-derived predictor (i.e., the proposed factors) was assessed before the relapse or recurrence of MDD; (6) The predictor was derived from one of the leading psychological theories; (7) Sufficient information was reported to calculate effect sizes (or was made available upon request). Exclusion criteria were the presence of bipolar disorder, dysthymia, seasonal affective disorder, postpartum depression, late-life MDD, or MDD due to medical disorders. Studies that solely included people with a first onset MDD when they were older than 65 years, were excluded due to potential etiological differences between late-life onset MDD and MDD at younger ages (Devanand et al., 2004; Herrmann, Goodwin, & Ebmeier, 2007; Korten, Comijs, Lamers, & Penninx, 2012). Language was restricted to English. When multiple publications from the same study cohort were available, with exactly the same factors, we included the publication with the longest follow-up time, or the largest number of participants in case of equal follow-up time."
+  doi = "10.1016/j.cpr.2019.101773"
+  eligibility_criteria = "Criteria for studies to be included in the review were: (1) Presence of a diagnostic status of MDD (MDD absence and/or presence) for all participants, as determined through a clinical interview (e.g., SCID, KSADS from DSM, CIDI from ICD) or by a clinician at the start of the study; (2) At some point during the study, participants needed to be in (partial) remission or recovery as determined by a clinical interview or clinician assessment; and (3) relapse or recurrence was diagnosed through a clinical interview or by a clinician. (4) The study design was longitudinal and prospective; (5) The theory-derived predictor (i.e., the proposed factors) was assessed before the relapse or recurrence of MDD; (6) The predictor was derived from one of the leading psychological theories; (7) Sufficient information was reported to calculate effect sizes (or was made available upon request). Exclusion criteria were the presence of bipolar disorder, dysthymia, seasonal affective disorder, postpartum depression, late-life MDD, or MDD due to medical disorders. Studies that solely included people with a first onset MDD when they were older than 65 years, were excluded due to potential etiological differences between late-life onset MDD and MDD at younger ages (Devanand et al., 2004; Herrmann, Goodwin, & Ebmeier, 2007; Korten, Comijs, Lamers, & Penninx, 2012). Language was restricted to English. When multiple publications from the same study cohort were available, with exactly the same factors, we included the publication with the longest follow-up time, or the largest number of participants in case of equal follow-up time."
 
   [datasets.data]
-  doi="10.17605/OSF.IO/R45YZ"
+  doi = "10.17605/OSF.IO/R45YZ"
 
 
 [[datasets]]
 
-  key="Burska_2023"
+  key = "Burska_2023"
 
   [datasets.publication]
-  doi="10.1136/rmdopen-2022-002876"
-eligibility_criteria = "(1) presented data on human patients with RMDs (with or without healthy controls); (2) design as cross-sectional; randomised control trials, case–control studies, non-controlled trials, diagnostic accuracy studies, cohort studies, intervention studies; (3) studies that described results on biological material derived from peripheral blood (ie, serum, whole blood, cell subsets); (4) written in English. Exclusion criteria were: (1) non-human studies; (2) conference abstracts, case studies, non-original articles such as editorials, review, opinion pieces, (3) articles that did not specify the type of IFN that the assay measures; (4) papers that did not describe their results as an assay, biomarker, test, score or similar in the abstract, (5) studies purely on IFN-I pathway genetics"
+  doi = "10.1136/rmdopen-2022-002876"
+  eligibility_criteria = "(1) presented data on human patients with RMDs (with or without healthy controls); (2) design as cross-sectional; randomised control trials, case–control studies, non-controlled trials, diagnostic accuracy studies, cohort studies, intervention studies; (3) studies that described results on biological material derived from peripheral blood (ie, serum, whole blood, cell subsets); (4) written in English. Exclusion criteria were: (1) non-human studies; (2) conference abstracts, case studies, non-original articles such as editorials, review, opinion pieces, (3) articles that did not specify the type of IFN that the assay measures; (4) papers that did not describe their results as an assay, biomarker, test, score or similar in the abstract, (5) studies purely on IFN-I pathway genetics"
   
   [datasets.data]
-  url="https://osf.io/t8knj/"
+  doi = "10.17605/OSF.IO/T8KNJ"
   
   
 [[datasets]]
 
-  key="Butink_2023"
+  key = "Butink_2023"
   
   [datasets.publication]
-  doi="10.1136/rmdopen-2022-002903"
-eligibility_criteria = "Population, Intervention, Comparator and Outcome were specified to identify eligible randomised controlled trials (RCTs) and longitudinal observational studies (LOS) with any follow-up duration evaluating non-pharmacological interventions (ie, non-drug, non-surgical) in people with any RMD (except studies that considered only or a majority (≥50%) of people with low back pain or work-related musculoskeletal injuries).17 Active treatment, usual care, waiting list and no intervention were eligible comparators. Work outcome domains included sick leave, work status (eg, being (un)employed/work disabled/retired for any reason) and presenteeism (eg, loss of work ability/productivity while at work due to ill health). There were no restrictions in language, publication year or country."
+  doi = "10.1136/rmdopen-2022-002903"
+  eligibility_criteria = "Population, Intervention, Comparator and Outcome were specified to identify eligible randomised controlled trials (RCTs) and longitudinal observational studies (LOS) with any follow-up duration evaluating non-pharmacological interventions (ie, non-drug, non-surgical) in people with any RMD (except studies that considered only or a majority (≥50%) of people with low back pain or work-related musculoskeletal injuries).17 Active treatment, usual care, waiting list and no intervention were eligible comparators. Work outcome domains included sick leave, work status (eg, being (un)employed/work disabled/retired for any reason) and presenteeism (eg, loss of work ability/productivity while at work due to ill health). There were no restrictions in language, publication year or country."
 
   [datasets.data]
-  url="https://osf.io/t8knj/"
+  doi = "10.17605/OSF.IO/T8KNJ"
 
 
 [[datasets]]
 
-  key="Chakraborty_2023"
+  key = "Chakraborty_2023"
 
   [datasets.publication]
-  doi="10.1007/s10270-023-01117-1"
-eligibility_criteria = """1. It is clear from the title that modelling/diagrams are not a contribution.
+  doi = "10.1007/s10270-023-01117-1"
+  eligibility_criteria = """1. It is clear from the title that modelling/diagrams are not a contribution.
 2. The conference/journal is from a different field of science.
 3. The paper is not peer reviewed.
 4. The paper discusses properties of modelling languages or compares languages.
@@ -322,18 +321,16 @@ eligibility_criteria = """1. It is clear from the title that modelling/diagrams 
 (g) AI-based modelling guidance"""
 
   [datasets.data]
-  doi="10.5281/zenodo.7685694"
+  doi = "10.5281/zenodo.7685694"
 
 
 [[datasets]]
 
-  # Part of Cohen et al. 2006 https://doi.org/10.1197/jamia.M1929
-
-  key="Chou_2003"
+  key = "Chou_2003"
 
   [datasets.publication]
-  doi="10.1016/j.jpainsymman.2003.03.003"
-eligibility_criteria = """
+  doi = "10.1016/j.jpainsymman.2003.03.003"
+  eligibility_criteria = """
 All English-language titles and abstracts and suggested additional citations were reviewed for inclusion using criteria developed by the research team with input from the subcommittee. We obtained full-text articles if the title and abstract review met the following eligibility criteria:
 
 1. Systematic reviews of the clinical efficacy or adverse event rates of long-acting opioids in patients with chronic non-cancer pain, OR
@@ -343,19 +340,19 @@ All English-language titles and abstracts and suggested additional citations wer
 3. Randomized controlled trials and observational studies that reported adverse event rates for one of the long-acting opioids listed above."""
 
   [datasets.collection]
-  doi="10.1197/jamia.M1929"
+  doi = "10.1197/jamia.M1929"
 
   [datasets.data]
-  url="https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
+  url = "https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
 
 
 [[datasets]]
 
-  key="Chueca_2023"
+  key = "Chueca_2023"
 
   [datasets.publication]
-  doi="10.1016/j.infsof.2023.107330"
-  eligibility_criteria="""The following criteria state when we excluded a study from our
+  doi = "10.1016/j.infsof.2023.107330"
+  eligibility_criteria = """The following criteria state when we excluded a study from our
 study:
 • Studies that were duplicates of other studies.
 • Studies that were not written in English.
@@ -375,46 +372,46 @@ impact of video games, such as serious games.
 industry-scale computer games development."""
 
   [datasets.data]
-  doi="10.5281/zenodo.8242657"
+  doi = "10.5281/zenodo.8242657"
 
 
 [[datasets]]
 
-  key="Cinquin_2018"
+  key = "Cinquin_2018"
 
   [datasets.collection]
-  doi="10.1017/rsm.2024.16"
+  doi = "10.1017/rsm.2024.16"
 
   [datasets.publication]
-  doi="10.1016/j.compedu.2018.12.004"
-  eligibility_criteria="Only studies that focused on online e-learning accessibility for individuals with cognitive impairment were included in the review. No publication period nor participant age limitations were specified. Following Clark and Mayer (2016), we defined e-learning as instruction delivered via a digital device intended to support learning. As we wanted to focus on online e-learning, we only included studies that explicitly refer to client/server architecture such as the web. To be as descriptive as possible, we only included studies that proposed guidelines or a framework, and those with a purpose of intervention instead of instruction if they explicitly expected a possible transfer for learning. Finally, we only included studies that explicitly refer to people with cognitive impairments exclusively (for instance, studies focusing on people with attention disorders) or people with cognitive impairments along with other impairments (studies not focusing on a specific disability but considering cognitive impairments)."
+  doi = "10.1016/j.compedu.2018.12.004"
+  eligibility_criteria = "Only studies that focused on online e-learning accessibility for individuals with cognitive impairment were included in the review. No publication period nor participant age limitations were specified. Following Clark and Mayer (2016), we defined e-learning as instruction delivered via a digital device intended to support learning. As we wanted to focus on online e-learning, we only included studies that explicitly refer to client/server architecture such as the web. To be as descriptive as possible, we only included studies that proposed guidelines or a framework, and those with a purpose of intervention instead of instruction if they explicitly expected a possible transfer for learning. Finally, we only included studies that explicitly refer to people with cognitive impairments exclusively (for instance, studies focusing on people with attention disorders) or people with cognitive impairments along with other impairments (studies not focusing on a specific disability but considering cognitive impairments)."
 
   [datasets.data]
-  doi="10.25340/R4/VB85L1"
+  doi = "10.25340/R4/VB85L1"
 
 
 [[datasets]]
 
-  key="Clarinval_2021"
+  key = "Clarinval_2021"
 
   [datasets.publication]
-  doi="10.1109/tits.2021.3092036"
-  eligibility_criteria="1) Articles not written in English. 2) Duplicated articles 3) Articles published before 2008 4) Secondary studies 5) Articles published in poster, challenge, or demo tracks 6) Articles that do not provide any figure representing the proposed visualizations 7) Articles proposing visualizations not directly destined to any end-user 8) Traffic beyond the city scale"
+  doi = "10.1109/tits.2021.3092036"
+  eligibility_criteria = "1) Articles not written in English. 2) Duplicated articles 3) Articles published before 2008 4) Secondary studies 5) Articles published in poster, challenge, or demo tracks 6) Articles that do not provide any figure representing the proposed visualizations 7) Articles proposing visualizations not directly destined to any end-user 8) Traffic beyond the city scale"
 
   [datasets.data]
-  doi="10.5281/zenodo.4287513"
+  doi = "10.5281/zenodo.4287513"
 
 
 [[datasets]]
 
-  key="Clark_2021"
+  key = "Clark_2021"
 
   [datasets.collection]
-  doi="10.1017/rsm.2024.16"
+  doi = "10.1017/rsm.2024.16"
 
   [datasets.publication]
-  doi="10.1044/2021_lshss-20-00123"
-  eligibility_criteria="""Studies were included if they fit the inclusion criteria
+  doi = "10.1044/2021_lshss-20-00123"
+  eligibility_criteria = """Studies were included if they fit the inclusion criteria
 and were group studies, randomized controlled trials, single case experimental design studies, case series, and/or
 multiple case studies. Inclusion criteria were (a) participants under age 18 years, (b) participants belonging to a
 clinical category (i.e., DLD, ASD, Down syndrome, dyslexia, intellectual disability, hearing impairment, or cerebral
@@ -424,29 +421,29 @@ peer-reviewed published studies was followed. Exclusion
 criteria were (a) outcome measures solely targeting reading or spelling ability and (b) adult populations."""
 
   [datasets.data]
-  doi="10.25340/R4/VB85L1"
+  doi = "10.25340/R4/VB85L1"
 
 
 [[datasets]]
 
-  key="Cozim-Melges_2024"
+  key = "Cozim-Melges_2024"
 
   [datasets.publication]
-  doi="10.1038/s44185-023-00034-2"
+  doi = "10.1038/s44185-023-00034-2"
   eligibility_criteria = "Criteria of inclusion: (I1) English text and; (I2) published and peer-reviewed and; (I3) with discriminated agricultural practices and; (I4) with specific targeted species and; (I5) on a scale ranging from farm to landscape and; (I6) focused on the biodiversity of agroecosystems and; (I7) sampled data from real life scenarios. Criteria of exclusion: (E1) no methods to calculate statistical significance or; (E2) laboratory studies or Greenhouse Studies or; (E3) no explicit methodology and a varying control object (e.g. crops) or targeted species of the study or; (E4) no control group established or relatable to our reference or; (E5) no discrimination between practices impacts on surrogate species."
 
   [datasets.data]
   # data is in supplemental material of paper
-  doi="10.1038/s44185-023-00034-2"
+  doi = "10.1038/s44185-023-00034-2"
 
 
 [[datasets]]
 
-  key="Deckers_2022"
+  key = "Deckers_2022"
 
   [datasets.publication]
-  doi="10.1016/j.jss.2022.111415"
-eligibility_criteria = """Inclusion criteria.
+  doi = "10.1016/j.jss.2022.111415"
+  eligibility_criteria = """Inclusion criteria.
 We run our search queries on Google Scholar, because it covers all well-known scientific publication sources, like ACM, Springer, and IEEE. Our inclusion criteria are:
 (I1) Research publications subject to scientific peer review. Studies that were not submitted to scientific peer review might have claims that are not objectively verified on credibility. So, journal papers, PhD theses, and papers in conference or workshop proceedings, are considered. Also books and technical reports issued by respected institutes or authors are taken into account. But white papers, or articles in commercial magazines, are discarded.
 (I2) Studies written in English.
@@ -461,52 +458,52 @@ The exclusion criteria are:
 (E6) Studies that mainly focus on implementing DSs in a target environment without using an explicit DS of that environment. Transformation specifications from a source DS to a target DS are in scope. But transformations from a source domain to program code, without an explicit DS of the targeted software environment, are excluded."""
 
   [datasets.data]
-  doi="10.5281/zenodo.6635964"
+  doi = "10.5281/zenodo.6635964"
 
 
 [[datasets]]
 
-  key="de_Matteis_2024a"
+  key = "de_Matteis_2024a"
 
   [datasets.publication]
-  doi="10.1136/ard-2024-225853"
-eligibility_criteria = "To be included, patients with sJIA had to meet the International League of Associations for Rheumatology (ILAR) criteria or at least one of the earlier historical classification criteria (American College of Rheumatology (ACR) 1972 criteria or Durban's first revision of ILAR criteria), or the Paediatric Rheumatology INternational Trials Organisation (PRINTO) criteria. Patients with AOSD had to meet Yamaguchi, Fautrel, or Medsger and Christy classification criteria. We also retained studies that used criteria for at least one of the above-mentioned classifications, but the final diagnosis was from the physician."
+  doi = "10.1136/ard-2024-225853"
+  eligibility_criteria = "To be included, patients with sJIA had to meet the International League of Associations for Rheumatology (ILAR) criteria or at least one of the earlier historical classification criteria (American College of Rheumatology (ACR) 1972 criteria or Durban's first revision of ILAR criteria), or the Paediatric Rheumatology INternational Trials Organisation (PRINTO) criteria. Patients with AOSD had to meet Yamaguchi, Fautrel, or Medsger and Christy classification criteria. We also retained studies that used criteria for at least one of the above-mentioned classifications, but the final diagnosis was from the physician."
 
   [datasets.data]
-  url="https://osf.io/t8knj/"
+  doi = "10.17605/OSF.IO/T8KNJ"
 
 
 [[datasets]]
 
-  key="de_Matteis_2024b"
+  key = "de_Matteis_2024b"
 
   [datasets.publication]
-  doi="10.1136/ard-2024-225853"
-eligibility_criteria = "Here we sought to include studies reporting diagnostic biomarkers for sJIA and/or AOSD. We included only studies with data on accuracy (ie, reporting receiver operating characteristic (ROC) curve values, area under the ROC curve (AUC) and/or sensitivity and specificity)."
+  doi = "10.1136/ard-2024-225853"
+  eligibility_criteria = "Here we sought to include studies reporting diagnostic biomarkers for sJIA and/or AOSD. We included only studies with data on accuracy (ie, reporting receiver operating characteristic (ROC) curve values, area under the ROC curve (AUC) and/or sensitivity and specificity)."
   
   [datasets.data]
-  url="https://osf.io/t8knj/"
+  doi = "10.17605/OSF.IO/T8KNJ"
   
   
 [[datasets]]
   
-  key="Demirkaya_2015"
+  key = "Demirkaya_2015"
 
   [datasets.publication]
-  doi="10.1007/s00296-015-3408-9"
-eligibility_criteria = "(1) regarding the type of study, only randomized controlled trials or quasicontrolled trials were accepted, (2) the patients studied had to be diagnosed with definite FMF, (3) the interventions could be any medication or agent to control FMF or amyloidosis, (4) the studies had to contain data on any of the following outcomes: severity, relapse rate, frequency of attacks, attacks duration, improvement in arthritis, abdominal pain, serositis, erysipelas-like erythema, changes in proteinuria, kidney function, and/or safety."
+  doi = "10.1007/s00296-015-3408-9"
+  eligibility_criteria = "(1) regarding the type of study, only randomized controlled trials or quasicontrolled trials were accepted, (2) the patients studied had to be diagnosed with definite FMF, (3) the interventions could be any medication or agent to control FMF or amyloidosis, (4) the studies had to contain data on any of the following outcomes: severity, relapse rate, frequency of attacks, attacks duration, improvement in arthritis, abdominal pain, serositis, erysipelas-like erythema, changes in proteinuria, kidney function, and/or safety."
 
   [datasets.data]
-  url="https://osf.io/t8knj/"
+  doi = "10.17605/OSF.IO/T8KNJ"
 
 
 [[datasets]]
 
-  key="Dolinska_2022"
+  key = "Dolinska_2022"
 
   [datasets.publication]
-  doi="10.1016/j.xfnr.2022.12.001"
-eligibility_criteria = """Inclusion criteria
+  doi = "10.1016/j.xfnr.2022.12.001"
+  eligibility_criteria = """Inclusion criteria
 English-language articles
 Noninvasive biomarkers of any kind
 Primary research articles
@@ -529,28 +526,27 @@ Lack of laparoscopy in the control group
 Blood biomarkers only: most cases (>80%) were diagnosed with stage I-II OR stage III–IV endometriosis in accordance with the ASRM or rAFS grading system OR lack of stage specification"""
 
   [datasets.data]
-  doi="10.1016/j.xfnr.2022.12.001"
+  doi = "10.1016/j.xfnr.2022.12.001"
 
 
 [[datasets]]
-  # Processes 1 dataset (https://osf.io/tnxju/)
 
-  key="Donners_2021"
+  key = "Donners_2021"
 
   [datasets.publication]
-  doi="10.1007/s40262-021-01042-w"
-eligibility_criteria = "The following inclusion criteria were applied: emicizumab studies providing (1) data on humans, (2) original PK data or modeled PK data or PK/PD relationships, and (3) access to the abstract and the full text in English."
+  doi = "10.1007/s40262-021-01042-w"
+  eligibility_criteria = "The following inclusion criteria were applied: emicizumab studies providing (1) data on humans, (2) original PK data or modeled PK data or PK/PD relationships, and (3) access to the abstract and the full text in English."
 
   [datasets.data]
-  url="https://osf.io/tnxju/"
+  url = "https://osf.io/tnxju/"
 
 
 [[datasets]]
-  key="Dornauer_2023"
+  key = "Dornauer_2023"
 
   [datasets.publication]
-  doi="10.1109/mobilsoft59058.2023.00017"
-eligibility_criteria = """IC1 The study considers only web apps (including PWA, mobile
+  doi = "10.1109/mobilsoft59058.2023.00017"
+  eligibility_criteria = """IC1 The study considers only web apps (including PWA, mobile
 websites) accessed via mobile devices.
 IC2 The energy-savings are accomplished on client-side.
 IC3 The paper should describe the methods used to measure
@@ -569,16 +565,16 @@ described in the paper are not clear.
 EC7 Other conducted literature reviews."""
 
   [datasets.data]
-  doi="10.5281/zenodo.7698283"
+  doi = "10.5281/zenodo.7698283"
 
 
 [[datasets]]
 
-  key="Eggmann_2023"
+  key = "Eggmann_2023"
 
   [datasets.publication]
-  doi="10.3390/ma16072580"
-  eligibility_criteria="""2.3. Inclusion Criteria
+  doi = "10.3390/ma16072580"
+  eligibility_criteria = """2.3. Inclusion Criteria
 In vitro/laboratory study
 Use of pre-irradiation or post-irradiation bonding with a resin-based dental biomaterial (i.e., dental adhesives, resin-based composites, resin-based luting materials, resin-modified glass ionomer cements, compomers, resin-based sealants, and blocks made from resin-based composite for use in computer-aided design and computer-aided manufacturing)
 Data on adhesive performance in terms of bond strength, marginal discoloration, microleakage, marginal adaptation, debonding, or interfacial fracture toughness
@@ -595,67 +591,67 @@ Poster
 Abstract-only paper"""
 
   [datasets.data]
-  doi="10.5281/zenodo.7662399"
+  doi = "10.5281/zenodo.7662399"
 
 
 [[datasets]]
 
-  key="Endedijk_2021"
+  key = "Endedijk_2021"
 
   [datasets.collection]
-  doi="10.1007/s10648-024-09862-5"
+  doi = "10.1007/s10648-024-09862-5"
 
   [datasets.publication]
-  doi="10.3102/00346543211051428"
-  eligibility_criteria="There were five inclusion criteria. First, the study had to be an empirical study; second, the sample had to be drawn from preschool, primary, or (middle or) secondary education (ages 3–18 years); third, the study had to report measures of affective aspects of both the teacher–student relationship or interactions and peer relationships; fourth, analyses had to be performed at the level of the individual student, such that individual scores were included for each participant on both teacher–student relationships and peer relationships; and fifth, peer relationships had to be assessed in terms of relationships with classmates."
+  doi = "10.3102/00346543211051428"
+  eligibility_criteria = "There were five inclusion criteria. First, the study had to be an empirical study; second, the sample had to be drawn from preschool, primary, or (middle or) secondary education (ages 3–18 years); third, the study had to report measures of affective aspects of both the teacher–student relationship or interactions and peer relationships; fourth, analyses had to be performed at the level of the individual student, such that individual scores were included for each participant on both teacher–student relationships and peer relationships; and fifth, peer relationships had to be assessed in terms of relationships with classmates."
 
   [datasets.data]
-  doi="10.17605/OSF.IO/UYB7X"
+  doi = "10.17605/OSF.IO/UYB7X"
 
 
 [[datasets]]
 
-  key="Erer_2015"
+  key = "Erer_2015"
 
   [datasets.publication]
-  doi="10.1007/s00296-015-3413-z"
-  eligibility_criteria=" (i) FMF patients of any age; (ii) measured CRP, ESR, or SAA; (iii) included amyloidosis as the outcome variable; and (iv) were longitudinal observational or diagnostic studies."
+  doi = "10.1007/s00296-015-3413-z"
+  eligibility_criteria = " (i) FMF patients of any age; (ii) measured CRP, ESR, or SAA; (iii) included amyloidosis as the outcome variable; and (iv) were longitudinal observational or diagnostic studies."
 
   [datasets.data]
-  url="https://osf.io/t8knj/"
+  doi = "10.17605/OSF.IO/T8KNJ"
 
 
 [[datasets]]
 
-  key="Farisogullari_2023"
+  key = "Farisogullari_2023"
 
   [datasets.publication]
-  doi="10.1136/rmdopen-2023-003349"
+  doi = "10.1136/rmdopen-2023-003349"
   eligibility_criteria= "A study was eligible for inclusion if the included participants were adults (aged 18 years or over) with I-RMD, specifically, RA, axSpA, peripheral SpA, PsA, gout, SLE, SSc, SjS, IIM (dermatomyositis, polymyositis, immune-mediated necrotising myopathy, antisynthetase syndrome, inclusion body myositis) and primary systemic vasculitis (large-vessel vasculitis: giant cell arteritis (GCA) (and the related condition polymyalgia rheumatica), Takayasu’s arteritis; medium-vessel vasculitis: polyarteritis nodosa; small-vessel vasculitis limited to the antineutrophilic cytoplasmic antibody (ANCA)-associated vasculitis: granulomatosis with polyangiitis (GPA, previously named Wegener’s granulomatosis), microscopic polyangiitis (MPA) and eosinophilic GPA (previously named Churg-Strauss); and variable-vessel vasculitis: Behçet syndrome, also known as Behçet disease). Only studies in which patients were formally diagnosed with I-RMDs or who satisfied internationally accepted disease classification criteria were included to maximise accuracy. Regarding the eligible interventions, all pharmacological interventions were included. Pharmacological interventions were classified as medicinal products in accordance with the EU Directive 2001/83/EEC (EU 2001),25 which states: ‘any substance or combination of substances which may be used in or administered to human beings either with a view to restoring, correcting or modifying physiological functions by exerting a pharmacological, immunological or metabolic action, or to making a medical diagnosis’.25 The comparator was placebo or usual care (standard care). Regarding outcomes, the core concept was fatigue. Only SRs and randomised controlled trials (RCTs) or controlled clinical trials were eligible because they are considered the most robust study designs and represent the strongest evidence. Regarding the context, there were no constraints."
 
   [datasets.data]
-  url="https://osf.io/t8knj/"
+  doi = "10.17605/OSF.IO/T8KNJ"
 
 
 [[datasets]]
 
-  key="Fejza_2023"
+  key = "Fejza_2023"
 
   [datasets.publication]
-  doi="10.3389/fimmu.2023.1270981"
+  doi = "10.3389/fimmu.2023.1270981"
   eligibility_criteria= "Original research articles written in English and published before 20 January 2023 were eligible for inclusion. We included studies reporting any relation between ECM molecules and the immune traits of the tumors, as well as the response to immune checkpoint inhibition. We included studies regarding patients diagnosed with cancer, regardless of the cancer type, disease staging and PD-L1 expression status. Our inclusion criteria did not involve any age restrictions, since we wished to comprise both young and older patients. Articles not published in English, whose full text was not available, letters to the editor, case reports, and poster presentations were excluded."
 
   [datasets.data]
-  doi="10.5281/zenodo.8348665"
+  doi = "10.5281/zenodo.8348665"
 
 
 [[datasets]]
 
-  key="Ferreira_2022"
+  key = "Ferreira_2022"
 
   [datasets.publication]
-  doi="10.1017/s0007114522003506"
-  eligibility_criteria="""Animal model of interest. Study designs to be included.
+  doi = "10.1017/s0007114522003506"
+  eligibility_criteria = """Animal model of interest. Study designs to be included.
 All experimental studies with a control group, randomized or non-randomized, will be included. Case reports, reviews, dissertations, theses, letters, and editorials will be excluded, as well as, in vitro, in silico, ex vivo, and before-after studies without a control group.
 Studies with experimental animal models of class Mammalia (mammals), order Rodentia (rodents) comprising healthy individuals of both sexes subjected to Se supplementation will be included. Studies with animal models of other designations and/or with induced diseases or clinical conditions of any nature will be excluded, and so will be non-experimental models (wild or pet animals), pregnant, weaned, and pubescent animal models.
 
@@ -669,74 +665,74 @@ Outcome measures.
 The fasting plasma glucose (FPG) concentration will be considered the primary outcome. Secondary outcomes include other glycemic markers and Se biomarkers (Table 2). All markers unrelated to Se status and glycemic control will be excluded."""
 
   [datasets.data]
-  doi="10.5281/zenodo.6363743"
+  doi = "10.5281/zenodo.6363743"
 
 
 [[datasets]]
 
-  key="Fong_2021"
+  key = "Fong_2021"
 
   [datasets.collection]
-  doi="10.1007/s10648-024-09862-5"
+  doi = "10.1007/s10648-024-09862-5"
 
   [datasets.publication]
-  doi="10.1016/j.edurev.2021.100407"
-  eligibility_criteria="Once potentially relevant studies were identified, titles and abstracts were evaluated using the following inclusion criteria: (1) use of LASSI, (2) an achievement outcome (GPA, grade, achievement test, persistence), and (3) an effect size measure. There was no restriction on language of publication; we included studies written in any language."
+  doi = "10.1016/j.edurev.2021.100407"
+  eligibility_criteria = "Once potentially relevant studies were identified, titles and abstracts were evaluated using the following inclusion criteria: (1) use of LASSI, (2) an achievement outcome (GPA, grade, achievement test, persistence), and (3) an effect size measure. There was no restriction on language of publication; we included studies written in any language."
 
   [datasets.data]
-  doi="10.17605/OSF.IO/UYB7X"
+  doi = "10.17605/OSF.IO/UYB7X"
 
 
 [[datasets]]
 
-  key="Filges_2018"
+  key = "Filges_2018"
 
   [datasets.collection]
-  doi="10.1007/s10648-024-09862-5"
+  doi = "10.1007/s10648-024-09862-5"
 
   [datasets.publication]
-  doi="10.4073/csr.2018.10"
-  eligibility_criteria="The intervention of interest was a reduction in class size. We included children in grades kindergarten to 12 (or the equivalent in European countries) in general education. The primary focus was on measures of academic achievement. All study designs that used a well-defined control group were eligible for inclusion. Studies that utilized qualitative approaches were not included."
+  doi = "10.4073/csr.2018.10"
+  eligibility_criteria = "The intervention of interest was a reduction in class size. We included children in grades kindergarten to 12 (or the equivalent in European countries) in general education. The primary focus was on measures of academic achievement. All study designs that used a well-defined control group were eligible for inclusion. Studies that utilized qualitative approaches were not included."
 
   [datasets.data]
-  doi="10.17605/OSF.IO/UYB7X"
+  doi = "10.17605/OSF.IO/UYB7X"
 
 
 [[datasets]]
 
-  key="Filges_2022"
+  key = "Filges_2022"
 
   [datasets.collection]
-  doi="10.1007/s10648-024-09862-5"
+  doi = "10.1007/s10648-024-09862-5"
 
   [datasets.publication]
-  doi="10.1002/cl2.1210"
-  eligibility_criteria="The intervention was service learning which can be described as a curriculum-based community service that integrates classroom instruction (such as classroom discussions, presentations, or directed writing) with community service activities. We included children in primary and secondary education (grades kindergarten to 12) in general education. Our primary focus was on measures of academic success and NEET status. A secondary focus was on measures of personal and social skills, and risk behaviour (such as drug and alcohol use, violent behaviour, sexual risk taking). All study designs that used a well-defined control group were eligible for inclusion. Studies that utilised qualitative approaches were not included."
+  doi = "10.1002/cl2.1210"
+  eligibility_criteria = "The intervention was service learning which can be described as a curriculum-based community service that integrates classroom instruction (such as classroom discussions, presentations, or directed writing) with community service activities. We included children in primary and secondary education (grades kindergarten to 12) in general education. Our primary focus was on measures of academic success and NEET status. A secondary focus was on measures of personal and social skills, and risk behaviour (such as drug and alcohol use, violent behaviour, sexual risk taking). All study designs that used a well-defined control group were eligible for inclusion. Studies that utilised qualitative approaches were not included."
 
   [datasets.data]
-  doi="10.17605/OSF.IO/UYB7X"
+  doi = "10.17605/OSF.IO/UYB7X"
 
 
 [[datasets]]
   # The doi is invalid, but the paper is indexed in OpenAlex
 
-  key="Giesen_2021"
+  key = "Giesen_2021"
 
   [datasets.publication]
-  doi="10.29011/26889501.101265"
-  url="https://www.gavinpublishers.com/article/view/overview-of-pain-interventions-for-hospital-and-community-care-nurses-a-systematic-scoping-review"
+  doi = "10.29011/26889501.101265"
+  url = "https://www.gavinpublishers.com/article/view/overview-of-pain-interventions-for-hospital-and-community-care-nurses-a-systematic-scoping-review"
   eligibility_criteria = "Original research articles written in English or Dutch, published in peer journals in or after 2010 were eligible. We chose only to select studies published after 2010 to ensure inclusion of recent and up-to-date scientific nursing outcomes. According to the guidance of the Cochrane Effective Practice and Organization of Care group, studies were included if the data could be compared with a control or baseline measure, such as randomised controlled trials, controlled before-and-after studies or interrupted time series methods. In addition, the studies had to include interventions of a Western origin, be focused on pain care performed by a nurse and include adult patients >18 years. Finally, studies had to be conducted in a hospital or community care setting or contain an intervention transferable to these settings and executed in an Organisation for Economic Co-operation and Development country. Studies involving women in labour or breastfeeding and/or Chinese, alternative or non-Western interventions were excluded."
 
   [datasets.data]
-  url="https://osf.io/gnyt4/"
+  url = "https://osf.io/gnyt4/"
 
 
 [[datasets]]
 
-  key="Greca_2023"
+  key = "Greca_2023"
 
   [datasets.publication]
-  doi="10.1145/3579851"
+  doi = "10.1145/3579851"
   eligibility_criteria = """to be included in the review, a paper must satisfy at least one of these inclusion criteria:
 • It introduces a new regression testing technique and provides evidence that it addresses a real-world concern or provides substantial benefits in experiments performed with real software;
 • It introduces and/or discusses a metric for evaluating regression testing techniques with evidence that it might be valuable in practice; or
@@ -752,19 +748,19 @@ The writing and presentation quality should not hinder comprehension;
 • In case there are multiple papers by the same group of authors that reference versions of the same work, we keep the most extensive one, avoiding, for instance, a conference paper and a journal paper that address the same research (if they are equivalent, we keep the most recent one)."""
 
   [datasets.data]
-  doi="10.5281/zenodo.7514250"
+  doi = "10.5281/zenodo.7514250"
 
 
 [[datasets]]
 
-  key="Hall_2011"
+  key = "Hall_2011"
 
   [datasets.collection]
-  doi="10.1007/s10664-017-9587-0"
+  doi = "10.1007/s10664-017-9587-0"
 
   [datasets.publication]
-  doi="10.1109/TSE.2011.103"
-eligibility_criteria = """
+  doi = "10.1109/TSE.2011.103"
+  eligibility_criteria = """
 To be included in this review, a study must be reported in a paper published in English as either a Journal paper or Conference proceedings. The criteria for studies to be included in our SLR are based on the inclusion and exclusion criteria presented in Table 2. Before accepting a paper into the review, we excluded repeated studies. If the same study appeared in several publications we included only the most comprehensive or most recent.
 
 Table 2.
@@ -778,39 +774,39 @@ Exclusion criteria (a paper must not be. . . )
 - About the detection or localisation of existing individual known faults."""
 
   [datasets.data]
-  doi="10.5281/zenodo.1162952"
+  doi = "10.5281/zenodo.1162952"
 
 
 [[datasets]]
 
-  key="Hamaker_2022"
+  key = "Hamaker_2022"
 
   [datasets.publication]
-  doi="10.1016/j.jgo.2022.04.008"
+  doi = "10.1016/j.jgo.2022.04.008"
   eligibility_criteria = "Studies were included if they fulfilled the inclusion criteria for one or more of four outcome measures. The first outcome measure was any alteration in oncologic treatment plan after the geriatric assessment. For this outcome measure, studies were included if a treatment plan was determined both prior to and after the geriatric assessment or if a comparison was made between treatment choice in patient cohorts with and without a geriatric assessment. The second outcome measure was the number and type of recommendations for non-oncologic interventions directly resulting from the findings of the geriatric assessment. The third outcome measure was the effect of the geriatric assessment on patient-doctor communication, for example differences in the content of doctor-patient conversations, care planning, or patient satisfaction with the communication process. The final outcome measure was the effect of the geriatric assessment on outcome of treatment, i.e., toxicity or treatment-related complications, treatment completion, quality of life or physical functioning, mortality, and health care utilisation (such as hospitalisation, length of stay). For both effect on communication and on outcome of treatment, studies were only included if they had a control group which did not undergo a geriatric assessment, and/or if the study had a control group that did not receive geriatric interventions or follow-up whilst the intervention group did. The control groups had to be either based on randomisation or historic/matched cohorts. Studies using a control group that was likely to be subject to confounding or selection bias were excluded (for example, if only vulnerable patients were referred for a geriatric assessment and the control group consisted of non-vulnerable patients). These studies could still be included for other outcome measures."
 
   [datasets.data]
-  doi="10.5281/zenodo.7143942"
+  doi = "10.5281/zenodo.7143942"
 
 
 [[datasets]]
 
-  key="Hanlon_2022"
+  key = "Hanlon_2022"
 
   [datasets.publication]
-  doi="10.12688/wellcomeopenres.17208.2"
+  doi = "10.12688/wellcomeopenres.17208.2"
   eligibility_criteria = "Criteria for inclusion, defined according to PECOS (Population, Exposure, Comparator, Outcome, Setting and Study design)14, including outcomes of interest are detailed in Table 1. Criteria were deliberately broad in terms of setting, frailty definition, and outcomes. Briefly, studies must include adults (≥18 years) with rheumatoid arthritis and assess frailty, although we expect studies may mainly involve ‘older’ populations. Studies were considered regardless of frailty measure, to allow comparison between different methods of identifying frailty. These could include validated measures of frailty (e.g. frailty phenotype or frailty index), adaptations of these measures where the adaptation was described, or unvalidated measures intended to capture frailty as long as the criteria used to define frailty within the study were fully described. We did not exclude studies on the basis of the criteria used to define rheumatoid arthritis (i.e. validated criteria, physician diagnosis, medical record/clinical codes or self-reported definitions were all eligible for inclusion). We included studies in any setting (community, outpatient, or inpatient). Observational studies with cross-sectional or cohort designs were eligible for inclusion. Experimental studies were excluded. When examining the association between frailty and clinical outcomes in those with rheumatoid arthritis, studies were expected to report the association between frailty and the outcome of interest. As in previous reviews of frailty15,16, considered studies that describe this either as the association with the presence or absence of frailty or the association between the degree of frailty and the outcome."
 
   [datasets.data]
-  doi="10.5281/zenodo.6966157"
+  doi = "10.5281/zenodo.6966157"
 
 
 [[datasets]]
 
-  key="Harms_2024"
+  key = "Harms_2024"
 
   [datasets.publication]
-  doi="10.1186/s42854-024-00066-2"
+  doi = "10.1186/s42854-024-00066-2"
   eligibility_criteria = """Type: Peer-reviewed original empirical articles
 Language: English
 Publication: 2016–2022
@@ -818,15 +814,15 @@ Geography: Europe
 Content: Is the spatial context of cities addressed? Is planning addressed as a field of action? Is any kind of nature addressed?"""
 
   [datasets.data]
-  doi="10.5281/zenodo.8359022"
+  doi = "10.5281/zenodo.8359022"
 
 
 [[datasets]]
 
-  key="Hilfiker_2017"
+  key = "Hilfiker_2017"
 
   [datasets.publication]
-  doi="10.1136/bjsports-2016-096422"
+  doi = "10.1136/bjsports-2016-096422"
   eligibility_criteria = """Inclusion criteria for study selection
 Published randomised or quasi-randomised trials evaluating the effect of all kind of exercise or other non-pharmaceutical interventions such as cognitive–behavioural or relaxation interventions on CRF or vitality in patients with CRF during or after active cancer treatments were eligible for inclusion. All cancer types were included, because we assumed that CRF is a general cancer problem and that the working mechanisms and effects of the different interventions targeting CRF would be similar across all cancer diagnoses.
 
@@ -834,113 +830,116 @@ Exclusion criteria
 We excluded trials comparing drugs or nutritional supplementations, acupuncture, electroacupuncture, acupressure, moxibustion or healing without touching the patients (eg, Reiki or healing over the phone), as well as expressive writing intervention because we focused on exercise and conventional physiotherapy-related interventions (eg, movement therapy, relaxation or massage). Studies with an intervention duration of <3 weeks as well as interventions aiming to improve sleep quality were also excluded."""
   
   [datasets.collection]
-  doi="10.3233/SHTI200171"
+  doi = "10.3233/SHTI200171"
 
   [datasets.data]
-  doi="10.5281/zenodo.10423427"
+  doi = "10.5281/zenodo.10423427"
 
 
 [[datasets]]
 
-  key="Improve_todo"
+  key = "Improve_todo"
 
   [datasets.publication]
-  doi="todo"
+  doi = "todo"
   eligibility_criteria = "todo"
 
   [datasets.data]
-  doi="10.34894/EVYU9X"
+  doi = "10.34894/EVYU9X"
 
 
 [[datasets]]
 
-  key="Kapuka_2021"
+  key = "Kapuka_2021"
 
   [datasets.publication]
-  doi="10.1002/ecs2.3860"
-eligibility_criteria = "which explicitly provided information about (1) climate change-related impacts on ecosystems, species, or populations, (2) provided evident characteristics of these ecological units, and (3) informed about management actions supporting adaptation to climate change."
+  doi = "10.1002/ecs2.3860"
+  eligibility_criteria = "which explicitly provided information about (1) climate change-related impacts on ecosystems, species, or populations, (2) provided evident characteristics of these ecological units, and (3) informed about management actions supporting adaptation to climate change."
 
   [datasets.data]
-  doi="10.5281/zenodo.5558905"
+  doi = "10.5281/zenodo.5558905"
 
 
 [[datasets]]
 
-  key="Kerschbaumer_2022"
+  key = "Kerschbaumer_2022"
 
   [datasets.publication]
-  doi="10.1136/ard-2022-223365"
-eligibility_criteria = "The main research questions involved the efficacy of csDMARD, bDMARD and tsDMARDs, efficacy differences between different DMARDs; differences between combination therapy versus monotherapy, switching between bDMARDs and tsDMARDs, evidence on different treatment strategies as well as DMARD dose reduction and treatment discontinuation in patients with ongoing therapy. Patient populations were defined as follows: DMARD-naïve patients, patients with insufficient response (IR) to csDMARD, patients who were bDMARD-IR and/or tsDMARD-IR. Comparator arms were required to include patients, receiving placebo or active therapy. These research questions covered the areas of the efficacy of csDMARDs, csDMARD combination therapies, bDMARDs and tsDMARDs (with and without concomitant csDMARDs), head-to-head comparisons of different bDMARDs and tsDMARDs, DMARD switching as well as DMARD tapering and stopping, and studies on biosimilars."
+  doi = "10.1136/ard-2022-223365"
+  eligibility_criteria = "The main research questions involved the efficacy of csDMARD, bDMARD and tsDMARDs, efficacy differences between different DMARDs; differences between combination therapy versus monotherapy, switching between bDMARDs and tsDMARDs, evidence on different treatment strategies as well as DMARD dose reduction and treatment discontinuation in patients with ongoing therapy. Patient populations were defined as follows: DMARD-naïve patients, patients with insufficient response (IR) to csDMARD, patients who were bDMARD-IR and/or tsDMARD-IR. Comparator arms were required to include patients, receiving placebo or active therapy. These research questions covered the areas of the efficacy of csDMARDs, csDMARD combination therapies, bDMARDs and tsDMARDs (with and without concomitant csDMARDs), head-to-head comparisons of different bDMARDs and tsDMARDs, DMARD switching as well as DMARD tapering and stopping, and studies on biosimilars."
   
+  [datasets.data]
+  doi = "10.17605/OSF.IO/T8KNJ"
+
+
 [[datasets]]
 
-  key="Kerschbaumer_2024a"
+  key = "Kerschbaumer_2024a"
 
   [datasets.publication]
-  doi="10.1136/ard-2024-225534"
-eligibility_criteria = "For efficacy, only randomised controlled trials (RCTs) investigating non-steroidal anti-inflammatory drugs (NSAIDs), cs, biological (b) or targeted synthetic (ts) DMARDs in adult patients classified as having PsA were eligible for inclusion. Phase 2 studies were eligible for inclusion, if no phase 3 studies were available, as efficacy but also safety profiles of new molecules, targeting similar pathways as currently licensed drugs, might be informative. Patient populations of interest were defined as patients classified as having PsA; patients could be either DMARD-naïve, or with intolerance and/or insufficient response (IR) to csDMARDs, patients who were bDMARD-IR and/or tsDMARD-IR or mixed populations with previous IR to cs-DMARDs or/and bDMARDs; in some studies patients with IR to NSAIDs were also eligible. Efficacy outcomes included composite measures of state (such as Disease Activity Index for Psoriatic Arthritis (DAPSA) or minimal disease activity (MDA)) and of improvement (such as ACR criteria), individual core-set measures of signs and symptoms, patient-reported outcomes (including fatigue, physical function)."
+  doi = "10.1136/ard-2024-225534"
+  eligibility_criteria = "For efficacy, only randomised controlled trials (RCTs) investigating non-steroidal anti-inflammatory drugs (NSAIDs), cs, biological (b) or targeted synthetic (ts) DMARDs in adult patients classified as having PsA were eligible for inclusion. Phase 2 studies were eligible for inclusion, if no phase 3 studies were available, as efficacy but also safety profiles of new molecules, targeting similar pathways as currently licensed drugs, might be informative. Patient populations of interest were defined as patients classified as having PsA; patients could be either DMARD-naïve, or with intolerance and/or insufficient response (IR) to csDMARDs, patients who were bDMARD-IR and/or tsDMARD-IR or mixed populations with previous IR to cs-DMARDs or/and bDMARDs; in some studies patients with IR to NSAIDs were also eligible. Efficacy outcomes included composite measures of state (such as Disease Activity Index for Psoriatic Arthritis (DAPSA) or minimal disease activity (MDA)) and of improvement (such as ACR criteria), individual core-set measures of signs and symptoms, patient-reported outcomes (including fatigue, physical function)."
 
   [datasets.data]
-  url="https://osf.io/t8knj/"
+  doi = "10.17605/OSF.IO/T8KNJ"
 
 
 [[datasets]]
 
-  key="Kerschbaumer_2024b"
+  key = "Kerschbaumer_2024b"
 
   [datasets.publication]
-  doi="10.1136/ard-2024-225534"
-eligibility_criteria = "For safety, data of identified RCTs as well as long-term extensions studies of RCTs with adequately defined comparator arms (placebo (PBO) or active therapy) were eligible. In addition to RCT safety data (including long-term extensions with adequate comparator arms) also observational studies (including registry analyses, claims data, cohort studies and case–control studies) with adequately defined controls were eligible for inclusion. Patient populations of interest were defined as patients classified as having PsA; patients could be either DMARD-naïve, or with intolerance and/or insufficient response (IR) to csDMARDs, patients who were bDMARD-IR and/or tsDMARD-IR or mixed populations with previous IR to cs-DMARDs or/and bDMARDs; in some studies patients with IR to NSAIDs were also eligible. Safety outcomes included infections (serious infections, herpes zoster (HZ), opportunistic and fungal infections, tuberculosis (Tb)); malignancies; major adverse cardiovascular events (MACEs); venous thromboembolic events (VTE); liver disease; gastrointestinal side effects; incidence of inflammatory bowel disease (IBD), uveitis; depression, suicidal ideation and behaviour"
+  doi = "10.1136/ard-2024-225534"
+  eligibility_criteria = "For safety, data of identified RCTs as well as long-term extensions studies of RCTs with adequately defined comparator arms (placebo (PBO) or active therapy) were eligible. In addition to RCT safety data (including long-term extensions with adequate comparator arms) also observational studies (including registry analyses, claims data, cohort studies and case–control studies) with adequately defined controls were eligible for inclusion. Patient populations of interest were defined as patients classified as having PsA; patients could be either DMARD-naïve, or with intolerance and/or insufficient response (IR) to csDMARDs, patients who were bDMARD-IR and/or tsDMARD-IR or mixed populations with previous IR to cs-DMARDs or/and bDMARDs; in some studies patients with IR to NSAIDs were also eligible. Safety outcomes included infections (serious infections, herpes zoster (HZ), opportunistic and fungal infections, tuberculosis (Tb)); malignancies; major adverse cardiovascular events (MACEs); venous thromboembolic events (VTE); liver disease; gastrointestinal side effects; incidence of inflammatory bowel disease (IBD), uveitis; depression, suicidal ideation and behaviour"
 
   [datasets.data]
-  url="https://osf.io/t8knj/"
+  doi = "10.17605/OSF.IO/T8KNJ"
 
 
 [[datasets]]
 
-  key="Lauper_2021"
+  key = "Lauper_2021"
 
   [datasets.publication]
-  doi="10.1136/rmdopen-2021-001818"
-eligibility_criteria = "Studies were included if they were original longitudinal observational CER studies with ≥100 participants and exploring effectiveness of different drugs, even if treatment was not the main exposure, nor effectiveness the only outcome. We decided a priori not to include smaller studies (<100 participants), because they could have additional methodological issues that were felt to be out of the scope for this Task Force. Furthermore, studies evaluating extra-articular organ damage were not included as it was felt that this would be a different outcome and thus may need different type of analyses or reporting, as reversibility is rarely achievable."
+  doi = "10.1136/rmdopen-2021-001818"
+  eligibility_criteria = "Studies were included if they were original longitudinal observational CER studies with ≥100 participants and exploring effectiveness of different drugs, even if treatment was not the main exposure, nor effectiveness the only outcome. We decided a priori not to include smaller studies (<100 participants), because they could have additional methodological issues that were felt to be out of the scope for this Task Force. Furthermore, studies evaluating extra-articular organ damage were not included as it was felt that this would be a different outcome and thus may need different type of analyses or reporting, as reversibility is rarely achievable."
 
   [datasets.data]
-  url="https://osf.io/t8knj/"
+  doi = "10.17605/OSF.IO/T8KNJ"
 
 
 [[datasets]]
 
-  key="Leenaars_2019"
+  key = "Leenaars_2019"
 
   [datasets.publication]
-  doi="10.5334/jcr.183"
-eligibility_criteria = """
-For our mapping review, we excluded (1) studies on other techniques than microdialysis (e.g. biosensors and microdialysis precursors such as push-pull perfusion), (2) studies measuring other substances than Hist and the amino acids Asn, Asp, GABA, Glu, Gln, Gly, Pro and Tau, (3) retro-dialysis studies, (4)- microdialysis studies that did not report baseline values without the specified molecules in the perfusion fluid,  (5) extra-cerebral microdialysis studies, (6) human and in vitro studies, and (7) papers not containing primary study data. Within publications, experiments using techniques other than microdialysis were also ignored (e.g. in [22]), as well as data on amino acids other than those we searched for (e.g. in [23]). Tagged studies were subsequently screened for inclusion in this review based on the following criterion (besides being included in our mapping): studies measuring one or more of the molecules of interest during (1) naturally occurring sleep stages that were validated with polysomnographic measurements and/or (2) during sleep deprivation.
+  doi = "10.5334/jcr.183"
+  eligibility_criteria = """For our mapping review, we excluded (1) studies on other techniques than microdialysis (e.g. biosensors and microdialysis precursors such as push-pull perfusion), (2) studies measuring other substances than Hist and the amino acids Asn, Asp, GABA, Glu, Gln, Gly, Pro and Tau, (3) retro-dialysis studies, (4)- microdialysis studies that did not report baseline values without the specified molecules in the perfusion fluid,  (5) extra-cerebral microdialysis studies, (6) human and in vitro studies, and (7) papers not containing primary study data. Within publications, experiments using techniques other than microdialysis were also ignored (e.g. in [22]), as well as data on amino acids other than those we searched for (e.g. in [23]). Tagged studies were subsequently screened for inclusion in this review based on the following criterion (besides being included in our mapping): studies measuring one or more of the molecules of interest during (1) naturally occurring sleep stages that were validated with polysomnographic measurements and/or (2) during sleep deprivation.
 To ensure capturing all relevant studies, we searched for studies with the terms “*sleep*”, “*REM*”, “*rest*”, “*fatig*”, and “*somn*” in the title within the studies included in our mapping review."""
 
   [datasets.data]
-  doi="10.17605/OSF.IO/PH56S"
+  doi = "10.17605/OSF.IO/PH56S"
 
 
 [[datasets]]
 
-  key="Leenaars_2020"
+  key = "Leenaars_2020"
 
   [datasets.publication]
-  doi="10.3390/ani10061047"
-eligibility_criteria = "We included all studies in which MTX was administered to RA patients or RA animal models in our ongoing review. We excluded studies on other diseases than RA, studies that were not in vivo, studies that did not administer MTX (or only had treatment groups co-administering MTX with other experimental drugs), studies that did not analyse efficacy (e.g., safety studies), and publications that did not contain new data (e.g., reviews and editorials)."
+  doi = "10.3390/ani10061047"
+  eligibility_criteria = "We included all studies in which MTX was administered to RA patients or RA animal models in our ongoing review. We excluded studies on other diseases than RA, studies that were not in vivo, studies that did not administer MTX (or only had treatment groups co-administering MTX with other experimental drugs), studies that did not analyse efficacy (e.g., safety studies), and publications that did not contain new data (e.g., reviews and editorials)."
 
   [datasets.data]
-  doi="10.17605/OSF.IO/T7GYR"
+  doi = "10.17605/OSF.IO/T7GYR"
 
 
 [[datasets]]
 
-  key="Lewowski_2021"
+  key = "Lewowski_2021"
 
   [datasets.publication]
-  doi="10.1016/j.infsof.2021.106783"
-eligibility_criteria = """A paper would be further processed (i.e., relevant data would be extracted from it) only if all of the following statements would be true regarding it:
+  doi = "10.1016/j.infsof.2021.106783"
+  eligibility_criteria = """A paper would be further processed (i.e., relevant data would be extracted from it) only if all of the following statements would be true regarding it:
 1. The entry is a single journal paper, chapter of a book or conference proceedings paper which requires peer review (i.e., it is not an editorial, abstract, technical report etc.).
 2. The paper is written in English.
 3. The paper was published in 1999 or later.
@@ -956,79 +955,78 @@ eligibility_criteria = """A paper would be further processed (i.e., relevant dat
 13. Full text of the paper is available."""
 
   [datasets.data]
-  doi="10.5281/zenodo.5647093"
+  doi = "10.5281/zenodo.5647093"
 
 
 [[datasets]]
 
-  key="Low_2023"
+  key = "Low_2023"
 
   [datasets.publication]
-  doi="10.1016/j.agsy.2023.103606"
-eligibility_criteria = "The three inclusion criteria were: 1) the paper is set in the developed economies of Europe (EU28), Northern America, Australasia, and Eastern Asia (excluding China); 2) the paper has a focus on agricultural and/or food production, or on agricultural supply and/or value chains; and 3) the paper can specify a mixed farming or agroforestry system."
+  doi = "10.1016/j.agsy.2023.103606"
+  eligibility_criteria = "The three inclusion criteria were: 1) the paper is set in the developed economies of Europe (EU28), Northern America, Australasia, and Eastern Asia (excluding China); 2) the paper has a focus on agricultural and/or food production, or on agricultural supply and/or value chains; and 3) the paper can specify a mixed farming or agroforestry system."
 
   [datasets.data]
-  doi="10.5281/zenodo.10468688"
+  doi = "10.5281/zenodo.10468688"
 
 
 [[datasets]]
 
-  key="Maciel_2024"
+  key = "Maciel_2024"
 
   [datasets.publication]
-  doi="10.1080/07481187.2024.2419605"
+  doi = "10.1080/07481187.2024.2419605"
   eligibility_criteria = "Studies were included if they (a) reported primary empirical data, (b) were written in English, Portuguese, Spanish or French, (c) had adult participants (mean age > 18 years), (d) reported quantitative assessments of suicidal ideation or suicide attempt, investigated either by dichotomous questions or validated scales, (e) used validated instruments to assess adult attachment styles, either self-report or interview measures, categorical or dimensional. There were no restrictions on study design, setting, or sample characteristics other than age."
 
   [datasets.data]
-  url="https://osf.io/e4pn9/"
+  url = "https://osf.io/e4pn9/"
 
 
 [[datasets]]
 
-  key="Marques_2021"
+  key = "Marques_2021"
 
   [datasets.publication]
-  doi="10.1136/rmdopen-2021-001647"
+  doi = "10.1136/rmdopen-2021-001647"
   eligibility_criteria = "A study was eligible for inclusion if the participants included were adults (≥18 years) with IA (specifically, RA, PsA, AS, ax-SpA or UA). To maximise precision, only studies in which patients were formally diagnosed with IA or who satisfied current disease criteria, were included.13–16 Studies focusing on the information regarding patients with other concomitant diseases, whether these were rheumatic or not, were excluded from the synthesis. With regards to eligible interventions, these had to be defined explicitly as ‘self-management’, in other words, the individual patient ability and competence regarding the management of symptoms, treatment, physical and psychosocial consequences and the lifestyle changes inherent in living with a chronic condition17; or they had to include at least one component from each of the following: biological, psychological and social management. Interventions must consist of disease information, medication management, management of the physical activity, disease-related problem solving, cognitive symptom management, management of emotions, communication skills and use of community resources.18 Additionally, these interventions should be promoted by, or result from interaction with a programme leader who is a health professional. They may be delivered face to face or online, with direct or indirect trained support provided. The comparator was placebo or usual care (standard care). Concerning outcomes, the core concept in self-management is the realisation of self-efficacy; that is, confidence in oneself to carry out the required behaviour to acquire the desired goal.19 We accepted other patient-reported outcome measures that were quantitative measures of the impact of the disease, such as pain, functional disability, fatigue, emotional well-being, sleep, coping and physical well-being (eg, Visual Analogue Scale, Health Assessment Questionnaire, Functional Assessment of Chronic Illness Therapy, Rheumatoid Arthritis Impact of Disease).20 21 Health-related quality of life (eg, 36-Item Short Form Survey, EuroQol-5 Dimension).22 Self-efficacy should be measured by a validated tool (eg, General Self-Efficacy Scale or Stanford Self-Efficacy Scale]. Eligible designs were only SR and randomised controlled trials (RCTs) or controlled clinical trials because they are the most robust designs and represent the highest evidence."
 
   [datasets.data]
-  url="https://osf.io/t8knj/"
+  doi = "10.17605/OSF.IO/T8KNJ"
 
 
 [[datasets]]
 
-  key="Meijboom_2021"
+  key = "Meijboom_2021"
 
   [datasets.publication]
-  doi="10.1007/s40259-021-00508-4"
-eligibility_criteria = """
-Only original research articles were included. Congress abstracts, reviews, editorials, and other opinion articles were excluded.
+  doi = "10.1007/s40259-021-00508-4"
+  eligibility_criteria = """Only original research articles were included. Congress abstracts, reviews, editorials, and other opinion articles were excluded.
 
 Articles were included if they met the following criteria: (1) study involved transitioning from a TNFα inhibitor (including etanercept, infliximab, and adalimumab) originator to a biosimilar, (2) the number of patients who retransitioned was reported or could be calculated, (3) the article was an original research article published in a peer-reviewed journal, (4) the article included baseline characteristics of the patients who transitioned, (5) the article was written in English, and (6) the full-text version of the article could be obtained"""
 
   [datasets.data]
-  url="https://osf.io/4cdku/"
+  url = "https://osf.io/4cdku/"
 
 
 [[datasets]]
 
-  key="Mejean_2024"
+  key = "Mejean_2024"
 
   [datasets.publication]
-  doi="10.1088/1748-9326/ad376e"
-eligibility_criteria = "After careful review, 72 papers were excluded, because one or several of the following categories applied: (i) literature review, meta-analysis of existing papers, or purely theoretical paper, (ii) absence of a mention of distribution issues, (iii) absence of sentence linking climate change to the frequency or intensity of the studied physical manifestation of climate change, (iv) paper centered on adaptation, (v) paper centered on mitigation, (vi) inequality treated as a driver of another variable of interest, not as an outcome, (vii) focus on energy poverty only."
+  doi = "10.1088/1748-9326/ad376e"
+  eligibility_criteria = "After careful review, 72 papers were excluded, because one or several of the following categories applied: (i) literature review, meta-analysis of existing papers, or purely theoretical paper, (ii) absence of a mention of distribution issues, (iii) absence of sentence linking climate change to the frequency or intensity of the studied physical manifestation of climate change, (iv) paper centered on adaptation, (v) paper centered on mitigation, (vi) inequality treated as a driver of another variable of interest, not as an outcome, (vii) focus on energy poverty only."
 
   [datasets.data]
-  url="10.5281/zenodo.10894327"
+  url = "10.5281/zenodo.10894327"
 
 
 [[datasets]]
 
-  key="Menon_2022"
+  key = "Menon_2022"
 
   [datasets.publication]
-  doi="10.1080/10408444.2022.2082917"
-eligibility_criteria = """
+  doi = "10.1080/10408444.2022.2082917"
+  eligibility_criteria = """
 To be eligible for inclusion in the SR sample, documents had to fulfil the following criteria:
 
 1. identify explicitly as a “systematic review” in their title;
@@ -1040,16 +1038,16 @@ To be eligible for inclusion in the SR sample, documents had to fulfil the follo
 We excluded umbrella reviews and review protocols, SRs of the wrong population (e.g. plants), and SRs of the following exposures: pathogens; poisons; smoking and tobacco related products, except for exposure to second-hand smoke (to prevent our sample being dominated by studies of direct tobacco exposure); social, psychological, or behavioural risk factors; housing conditions; SRs of exposure only (e.g. biomonitoring); and protocols for SRs. We did include diet and addiction as exposures, as these are considered by some researchers as being environmental exposures. SRs had to be available in HTML format to allow copy-pasting of manuscripts into a uniform format stripped of visual cues, and allow easy removal of identifying information, as per our blinding strategy."""
 
   [datasets.data]
-  url="https://osf.io/9jzsu"
+  url = "https://osf.io/9jzsu"
 
 
 [[datasets]]
 
-  key="Mohamed_2023"
+  key = "Mohamed_2023"
 
   [datasets.publication]
-  doi="10.1093/carcin/bgad091"
-eligibility_criteria = """Inclusion criteria 
+  doi = "10.1093/carcin/bgad091"
+  eligibility_criteria = """Inclusion criteria 
 • Human studies 
 • Mentioned the method of analysis 
 • Human subjects more than 10 to calculate the statistics  
@@ -1067,40 +1065,40 @@ Exclusion criteria
 • SCLC is excluded as it constitutes about 20% of LC"""
 
   [datasets.data]
-  url="10.5281/zenodo.8240294"
+  url = "10.5281/zenodo.8240294"
 
 
 [[datasets]]
 
-  key="Moran_2020"
+  key = "Moran_2020"
 
   [datasets.publication]
-  doi="10.1111/brv.12655"
-eligibility_criteria = "We screened records to find original experimental studies that manipulated the condition of animals in independent treatment groups through their diet, via both dietary quantity (i.e. partial restriction, complete deprivation or enrichment) or quality treatments (e.g. protein restriction or enrichment), and including both short-term and longer-term manipulations up to extended periods of weeks to months. We screened for studies that then subjected those animals to behavioural observations in contexts relating to risk (e.g. novel environments, novel object, risk-sensitive foraging, predator response) in independent trials (for inclusion and exclusion decision trees see Appendix S1). we excluded studies using species with compromised genetic diversity and/or evolved adaptive responses (e.g. domesticated animals, laboratory breeds, genetically modified organisms; as per Kelly et al., 2018) as well as studies on humans. Studies manipulating the micronutrient content of diets, or subjecting animals to high-fat diets were also excluded as the relationship between these diet manipulations and body condition is not clear and was considered beyond the scope of this review. Dietary treatments were excluded as ‘non-independent’: (i) where the behaviour was measured in the presence of high and low food availability, or dietary treatments such as periods of deprivation were applied within the novel environment (i.e. non-independence of treatments from the behavioural assay); (ii) where the dietary treatments were coupled with additional non-dietary factors (e.g. temperature; i.e. non-independence of the diet factor within treatments); or, (iii) the dietary treatments were applied longitudinally (within individuals) rather than crosssectionally (i.e. non-independence between high and low treatments)."
+  doi = "10.1111/brv.12655"
+  eligibility_criteria = "We screened records to find original experimental studies that manipulated the condition of animals in independent treatment groups through their diet, via both dietary quantity (i.e. partial restriction, complete deprivation or enrichment) or quality treatments (e.g. protein restriction or enrichment), and including both short-term and longer-term manipulations up to extended periods of weeks to months. We screened for studies that then subjected those animals to behavioural observations in contexts relating to risk (e.g. novel environments, novel object, risk-sensitive foraging, predator response) in independent trials (for inclusion and exclusion decision trees see Appendix S1). we excluded studies using species with compromised genetic diversity and/or evolved adaptive responses (e.g. domesticated animals, laboratory breeds, genetically modified organisms; as per Kelly et al., 2018) as well as studies on humans. Studies manipulating the micronutrient content of diets, or subjecting animals to high-fat diets were also excluded as the relationship between these diet manipulations and body condition is not clear and was considered beyond the scope of this review. Dietary treatments were excluded as ‘non-independent’: (i) where the behaviour was measured in the presence of high and low food availability, or dietary treatments such as periods of deprivation were applied within the novel environment (i.e. non-independence of treatments from the behavioural assay); (ii) where the dietary treatments were coupled with additional non-dietary factors (e.g. temperature; i.e. non-independence of the diet factor within treatments); or, (iii) the dietary treatments were applied longitudinally (within individuals) rather than crosssectionally (i.e. non-independence between high and low treatments)."
 
   [datasets.data]
-  doi="10.17605/OSF.IO/3TPHJ"
+  doi = "10.17605/OSF.IO/3TPHJ"
 
 
 [[datasets]]
 
-  key="Moseng_2024"
+  key = "Moseng_2024"
 
   [datasets.publication]
-  doi="10.1136/ard-2023-225041"
-eligibility_criteria = "Studies were included if they were SRs, including a meta-analysis of two or more RCTs on people diagnosed with hip or knee OA or with persisting knee pain in people 45 years or older and investigating non-pharmacological core management strategies. Relevant comparisons were no intervention, usual care or any other intervention. Relevant outcomes were pain, physical function, quality of life (QoL), patient global assessment of target joint, adverse effects or cost-effectiveness."
+  doi = "10.1136/ard-2023-225041"
+  eligibility_criteria = "Studies were included if they were SRs, including a meta-analysis of two or more RCTs on people diagnosed with hip or knee OA or with persisting knee pain in people 45 years or older and investigating non-pharmacological core management strategies. Relevant comparisons were no intervention, usual care or any other intervention. Relevant outcomes were pain, physical function, quality of life (QoL), patient global assessment of target joint, adverse effects or cost-effectiveness."
 
   [datasets.data]
-  url="https://osf.io/t8knj/"
+  doi = "10.17605/OSF.IO/T8KNJ"
 
 
 [[datasets]]
 
-  key="Muthu_2020"
+  key = "Muthu_2020"
 
   [datasets.publication]
-  doi="10.1097/BRS.0000000000003645"
-eligibility_criteria = """
+  doi = "10.1097/BRS.0000000000003645"
+  eligibility_criteria = """
 Inclusion Criteria
 
 To be included in our study, a study should meet the following criteria:
@@ -1114,38 +1112,35 @@ Exclusion Criteria
 3. Studies that did not report a statistically significant primary or secondary outcome measure."""
 
   [datasets.data]
-  url="https://osf.io/68ezp"
+  url = "https://osf.io/68ezp"
 
 
 [[datasets]]
 
-  # Part of Cohen et al. 2006 https://doi.org/10.1197/jamia.M1929
-
-  key="Nelson_2002"
+  key = "Nelson_2002"
 
   [datasets.publication]
-  doi="10.1001/jama.288.7.872"
-eligibility_criteria = """
-We used only published data in meta-analyses.
+  doi = "10.1001/jama.288.7.872"
+  eligibility_criteria = """We used only published data in meta-analyses.
 
 Inclusion and exclusion criteria were developed by the investigators for each topic. In general, studies were included if they contained a comparison group of HRT nonusers and reported data relating to HRT use and clinical outcomes of interest. Studies were excluded if the population was selected according to prior events or presence of conditions associated with higher risks for targeted outcomes.
 
 All relevant English-language studies were identified"""
 
   [datasets.collection]
-  doi="10.1197/jamia.M1929"
+  doi = "10.1197/jamia.M1929"
 
   [datasets.data]
-  url="https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
+  url = "https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
 
 
 [[datasets]]
 
-  key="Nobrega-Dos_Santos_2023"
+  key = "Nobrega-Dos_Santos_2023"
 
   [datasets.publication]
-  doi="10.1145/3613372.3613404"
-  eligibility_criteria="""Inclusion Criteria. The inclusion criteria to select papers to be
+  doi = "10.1145/3613372.3613404"
+  eligibility_criteria = """Inclusion Criteria. The inclusion criteria to select papers to be
 considered are (i) Studies written in English; (ii) Studies published
 within the field of computer science and engineering & software
 engineering; (iii) Studies focusing on ASD; (iv) Studies discussing
@@ -1157,19 +1152,19 @@ not presenting a TWQ instrument used in ASD; (ii) Studies with
 insufficient sample size or inadequate research methodology."""
 
   [datasets.data]
-  doi="10.5281/zenodo.8153272"
+  doi = "10.5281/zenodo.8153272"
 
 
 [[datasets]]
 
-  key="Noetel_2021"
+  key = "Noetel_2021"
 
   [datasets.collection]
-  doi="10.1007/s10648-024-09862-5"
+  doi = "10.1007/s10648-024-09862-5"
 
   [datasets.publication]
-  doi="10.3102/00346543211052329"
-  eligibility_criteria="""1.
+  doi = "10.3102/00346543211052329"
+  eligibility_criteria = """1.
 Design: We included systematic reviews, meta-analyses, or similar reviews characterized by Grant and Booth (2009), which includes rapid reviews, scoping reviews, state-of-the-art reviews, systematic searches with review, systematized reviews, mapping reviews, or systematic maps. All these methods have focused research questions and reproducible methods for sourcing and evaluating research, so are less likely to be subject to biases like selective reporting. For these reasons, we excluded non–systematic reviews, primary studies, theory papers, or narrative reviews (e.g., Sweller, 2010).
 2.
 Interventions: We included any modification to a multimedia intervention designed to influence learning or cognitive load. We excluded reviews only comparing the effects of multimedia against other instructional technologies (e.g., multimedia vs. nothing, multimedia vs. tutoring; e.g., Baker et al., 2018; Noetel et al., 2021).
@@ -1180,107 +1175,106 @@ Outcome: We only included reviews that reported learning, achievement, or cognit
 5.
 Participants/context: Reviews on any participants were eligible for inclusion. Similarly, reviews on learning in any context (e.g., schools, universities, adult learning, public health) were eligible for inclusion; as presented below, results were moderated by the context in which they were observed (where reported).
 6.
-Finally, reviews published in any language were eligible, but searches were limited to post-1989 when systematic forms of review were introduced (Smith et al., 2011).
-"""
+Finally, reviews published in any language were eligible, but searches were limited to post-1989 when systematic forms of review were introduced (Smith et al., 2011)."""
 
   [datasets.data]
-  doi="10.17605/OSF.IO/UYB7X"
+  doi = "10.17605/OSF.IO/UYB7X"
 
 
 [[datasets]]
 
-  key="Oliveira_2021"
+  key = "Oliveira_2021"
 
   [datasets.collection]
-  doi="10.1017/rsm.2024.16"
+  doi = "10.1017/rsm.2024.16"
 
   [datasets.publication]
-  doi="10.3389/fpsyg.2021.677217"
-  eligibility_criteria="In order to address our research questions with quality and consistency, the studies were required to present an empirical study (with quasi-experimental or experimental designs) on the efficacy of a SEL intervention for in-service preK-12 teachers in their personal and / or occupational outcomes. Thus, papers targeting university and / or pre-service teachers and those that did not access impacts on teacher-level variables were excluded. For the meta-analysis procedures to be possible, studies were only considered when sufficient information was reported to calculate the effect sizes of the interventions' impacts. Additionally, studies were included whenever the full-text version was available and published in Psychology or Educational peer-reviewed journals, after 1995, thus excluding papers published in non-peer reviewed journals and gray literature. No language constraints were applied."
+  doi = "10.3389/fpsyg.2021.677217"
+  eligibility_criteria = "In order to address our research questions with quality and consistency, the studies were required to present an empirical study (with quasi-experimental or experimental designs) on the efficacy of a SEL intervention for in-service preK-12 teachers in their personal and / or occupational outcomes. Thus, papers targeting university and / or pre-service teachers and those that did not access impacts on teacher-level variables were excluded. For the meta-analysis procedures to be possible, studies were only considered when sufficient information was reported to calculate the effect sizes of the interventions' impacts. Additionally, studies were included whenever the full-text version was available and published in Psychology or Educational peer-reviewed journals, after 1995, thus excluding papers published in non-peer reviewed journals and gray literature. No language constraints were applied."
 
   [datasets.data]
-  doi="10.25340/R4/VB85L1"
+  doi = "10.25340/R4/VB85L1"
 
 
 [[datasets]]
 
-  key="Oud_2018"
+  key = "Oud_2018"
 
   [datasets.publication]
-  doi="10.1177/0004867418791257"
-eligibility_criteria = "We included RCTs on four specialized psychotherapies (DBT, MBT, TFP and ST) for adults (18 years and older) with BPD, which included an individual psychotherapy component and had a duration of 16 weeks or more. Eligible comparison groups were other protocolized and specialized psychotherapies, or control groups, for example, treatment as usual (TAU), waiting list, attention control or community treatment by experts (CTBE). Studies were excluded with an arbitrary cut-off of <66% of the participants having BPD, unless disaggregated data were provided. Also, studies were excluded that tested incomplete versions of specialized treatment, for example, studies that investigated only skills training instead of the full DBT program."
+  doi = "10.1177/0004867418791257"
+  eligibility_criteria = "We included RCTs on four specialized psychotherapies (DBT, MBT, TFP and ST) for adults (18 years and older) with BPD, which included an individual psychotherapy component and had a duration of 16 weeks or more. Eligible comparison groups were other protocolized and specialized psychotherapies, or control groups, for example, treatment as usual (TAU), waiting list, attention control or community treatment by experts (CTBE). Studies were excluded with an arbitrary cut-off of <66% of the participants having BPD, unless disaggregated data were provided. Also, studies were excluded that tested incomplete versions of specialized treatment, for example, studies that investigated only skills training instead of the full DBT program."
 
   [datasets.data]
-  url="https://osf.io/pjr97"
+  url = "https://osf.io/pjr97"
 
 
 [[datasets]]
 
-  key="Parodis_2023a"
+  key = "Parodis_2023a"
 
   [datasets.publication]
-  doi="10.1136/rmdopen-2023-003297"
+  doi = "10.1136/rmdopen-2023-003297"
   eligibility_criteria = "The populations of interest were adult patients with SLE [systemic lupus erythematosus]. These RQs concerned the aims of non-pharmacological management (RQ1), types of interventions (RQ2), efficacy of interventions (RQ3), health-related domains or organ systems assessed (RQ4), outcome measures used (RQ5), time points of assessment (RQ6), patients’ needs, expectations and preferences (RQ7), educational needs for patients as well as healthcare providers (RQ8), and facilitators and barriers to the non-pharmacological management of SLE and SSc (RQ9). For all research questions, the populations of interest were adult patients with SLE or SSc"
 
   [datasets.data]
-  url="https://osf.io/t8knj/"
+  doi = "10.17605/OSF.IO/T8KNJ"
 
 
 [[datasets]]
 
-  key="Parodis_2023b"
+  key = "Parodis_2023b"
 
   [datasets.publication]
-  doi="10.1136/rmdopen-2023-003297"
+  doi = "10.1136/rmdopen-2023-003297"
   eligibility_criteria = "The populations of interest were adult patients with SSc[systemic sclerosis]. These RQs concerned the aims of non-pharmacological management (RQ1), types of interventions (RQ2), efficacy of interventions (RQ3), health-related domains or organ systems assessed (RQ4), outcome measures used (RQ5), time points of assessment (RQ6), patients’ needs, expectations and preferences (RQ7), educational needs for patients as well as healthcare providers (RQ8), and facilitators and barriers to the non-pharmacological management of SLE and SSc (RQ9). For all research questions, the populations of interest were adult patients with SLE or SSc"
 
   [datasets.data]
-  url="https://osf.io/t8knj/"
+  doi = "10.17605/OSF.IO/T8KNJ"
 
 
 [[datasets]]
 
-  key="Pijls_2017"
+  key = "Pijls_2017"
 
   [datasets.publication]
-  doi="10.1177/0284185117719575"
-  eligibility_criteria="All bibliographic records identified through the electronic searches were collected in an electronic reference database and subjected to the following inclusion criteria: (i) patient report or patient series of patients diagnosed with Ribbing disease/multiple diaphyseal sclerosis; and (ii) clinical data on diagnosis and/or treatment."
+  doi = "10.1177/0284185117719575"
+  eligibility_criteria = "All bibliographic records identified through the electronic searches were collected in an electronic reference database and subjected to the following inclusion criteria: (i) patient report or patient series of patients diagnosed with Ribbing disease/multiple diaphyseal sclerosis; and (ii) clinical data on diagnosis and/or treatment."
 
   [datasets.data]
-  url="https://osf.io/krngx"
+  url = "https://osf.io/krngx"
 
 
 [[datasets]]
 
-  key="Pijls_2018"
+  key = "Pijls_2018"
 
   [datasets.publication]
-  doi="10.1080/17453674.2018.1443635"
-  eligibility_criteria="The inclusion criteria were: (1) primary TKR, and (2) MTPM. MTPM is the unit of measurement for the largest 3D migration of any point on the prosthesis surface (Ryd et al. 1995). Migration pattern was defined as at least 2 postoperative follow-up moments within the first 2 years of follow-up. Non-clinical studies (animal, phantom) were excluded"
+  doi = "10.1080/17453674.2018.1443635"
+  eligibility_criteria = "The inclusion criteria were: (1) primary TKR, and (2) MTPM. MTPM is the unit of measurement for the largest 3D migration of any point on the prosthesis surface (Ryd et al. 1995). Migration pattern was defined as at least 2 postoperative follow-up moments within the first 2 years of follow-up. Non-clinical studies (animal, phantom) were excluded"
 
   [datasets.data]
-  url="https://osf.io/krngx"
+  url = "https://osf.io/krngx"
 
 
 [[datasets]]
 
-  key="Pinos-Cisneros_2023"
+  key = "Pinos-Cisneros_2023"
 
   [datasets.publication]
-  doi="10.2196/44904"
-  eligibility_criteria="The inclusion criteria for the analyzed articles were as follows: (1) study participants were children (aged 0-18 years) with spastic CP; (2) the therapy described was focused on hands or upper limbs motor skills; (3) the therapy used innovative technology (ie, electronic tools, systems, and devices); (4) the therapy used playful elements such as video games or toys; and (5) the publications consisted of peer-reviewed academic articles or conference proceedings that were published between 2009 and 2022. The exclusion criteria included (1) insufficient information about the game or play activity or referred to traditional therapies without the support of technologies (eg, bimanual, constrained-induced movement, and Pirate Therapy), (2) lack of focus on the treatment used, (3) written in a different language than English, (4) unavailability to access the full text at the time of analysis, and (5) incomplete inclusion criteria. Disagreements between reviewers with regard to the exclusion criteria were resolved through discussion."
+  doi = "10.2196/44904"
+  eligibility_criteria = "The inclusion criteria for the analyzed articles were as follows: (1) study participants were children (aged 0-18 years) with spastic CP; (2) the therapy described was focused on hands or upper limbs motor skills; (3) the therapy used innovative technology (ie, electronic tools, systems, and devices); (4) the therapy used playful elements such as video games or toys; and (5) the publications consisted of peer-reviewed academic articles or conference proceedings that were published between 2009 and 2022. The exclusion criteria included (1) insufficient information about the game or play activity or referred to traditional therapies without the support of technologies (eg, bimanual, constrained-induced movement, and Pirate Therapy), (2) lack of focus on the treatment used, (3) written in a different language than English, (4) unavailability to access the full text at the time of analysis, and (5) incomplete inclusion criteria. Disagreements between reviewers with regard to the exclusion criteria were resolved through discussion."
 
   [datasets.data]
-  doi="10.17605/OSF.IO/MK76S"
+  doi = "10.17605/OSF.IO/MK76S"
 
 
 [[datasets]]
 
-  key="Quevedo_2023"
+  key = "Quevedo_2023"
 
   [datasets.publication]
-  doi="10.1109/access.2023.3333946"
-eligibility_criteria = """Our inclusion criteria in this paper are:
+  doi = "10.1109/access.2023.3333946"
+  eligibility_criteria = """Our inclusion criteria in this paper are:
 Papers investigating the application of NLP techniques on the legal domain in general.
 Papers investigating the performance of NLP algorithms applied to any subdomain of the legal domain.
 Papers investigating the results of NLP algorithms applied to a legal domain dataset.
@@ -1296,20 +1290,19 @@ Non peer-reviewed.
 No full text available."""
 
   [datasets.data]
-  doi="10.5281/zenodo.7626621"
+  doi = "10.5281/zenodo.7626621"
 
 
 [[datasets]]
 
-  key="Radjenovic_2013"
+  key = "Radjenovic_2013"
 
   [datasets.collection]
-  doi="10.1007/s10664-017-9587-0"
+  doi = "10.1007/s10664-017-9587-0"
 
   [datasets.publication]
-  doi="10.1016/j.infsof.2013.02.009"
-eligibility_criteria = """
-The search was not limited by the year of publication. Journal papers and conference proceedings were included. The search was limited to English.
+  doi = "10.1016/j.infsof.2013.02.009"
+  eligibility_criteria = """The search was not limited by the year of publication. Journal papers and conference proceedings were included. The search was limited to English.
 
 During the systematic review, we included empirical studies validating and assessing software metrics in the area of software fault prediction. For the selection of primary studies, the following inclusion and exclusion criteria were used.
 
@@ -1319,111 +1312,111 @@ Inclusion criteria:
 
 Exclusion criteria:
 - Studies without an empirical validation or including experimental results of software metrics in fault prediction OR.
- - Studies discussing software metrics in a context other than software fault prediction (e.g. maintainability) OR.
- - Studies discussing modeling techniques (e.g. Naive Bayes, Random Forest) and not software metrics.
- - Studies discussing and comparing prediction techniques were excluded from the review, Studies proposing new software metrics and not empirically validating them were also excluded"""
+- Studies discussing software metrics in a context other than software fault prediction (e.g. maintainability) OR.
+- Studies discussing modeling techniques (e.g. Naive Bayes, Random Forest) and not software metrics.
+- Studies discussing and comparing prediction techniques were excluded from the review, Studies proposing new software metrics and not empirically validating them were also excluded"""
 
   [datasets.data]
-  doi="10.5281/zenodo.1162952"
+  doi = "10.5281/zenodo.1162952"
 
 
 [[datasets]]
 
-  key="Ramiro_2015"
+  key = "Ramiro_2015"
 
   [datasets.publication]
-  doi="10.1136/annrheumdis-2015-208466"
-  eligibility_criteria="""Patients were defined as adults (≥18 years old) with a clinical diagnosis of PsA. The intervention was defined as any disease modifying antirheumatic drug (DMARD), either biological (bDMARD) or synthetic (sDMARD), the latter in turn including conventional (csDMARD) and targeted (tsDMARD) sDMARDs;10 systemic glucocorticoids; non-steroidal anti-inflammatory drugs (NSAIDs) or any combination of them. The following bDMARDs were included: anakinra, infliximab, etanercept, adalimumab, rituximab, abatacept, tocilizumab, golimumab, certolizumab pegol, ustekinumab (UST), secukinumab (SEC), brodalumab, ixekizumab, in all formulations, and duration, as well as biosimilars if data were available. Similarly, all sDMARDs were considered, including csDMARDs previously analysed in PsA: methotrexate (MTX), leflunomide, hydroxychloroquine, sulfasalazine, gold/auranofin, azathioprine, chlorambucil, chloroquine, ciclosporine, cyclophosphamide, mycophenolate, minocycline or penicillamine, but also the tsDMARDs apremilast (APR) and tofacitinib. The comparator was any bDMARD, sDMARD, glucocorticoid, NSAID, combination of any of these or placebo (PBO).
+  doi = "10.1136/annrheumdis-2015-208466"
+  eligibility_criteria = """Patients were defined as adults (≥18 years old) with a clinical diagnosis of PsA. The intervention was defined as any disease modifying antirheumatic drug (DMARD), either biological (bDMARD) or synthetic (sDMARD), the latter in turn including conventional (csDMARD) and targeted (tsDMARD) sDMARDs;10 systemic glucocorticoids; non-steroidal anti-inflammatory drugs (NSAIDs) or any combination of them. The following bDMARDs were included: anakinra, infliximab, etanercept, adalimumab, rituximab, abatacept, tocilizumab, golimumab, certolizumab pegol, ustekinumab (UST), secukinumab (SEC), brodalumab, ixekizumab, in all formulations, and duration, as well as biosimilars if data were available. Similarly, all sDMARDs were considered, including csDMARDs previously analysed in PsA: methotrexate (MTX), leflunomide, hydroxychloroquine, sulfasalazine, gold/auranofin, azathioprine, chlorambucil, chloroquine, ciclosporine, cyclophosphamide, mycophenolate, minocycline or penicillamine, but also the tsDMARDs apremilast (APR) and tofacitinib. The comparator was any bDMARD, sDMARD, glucocorticoid, NSAID, combination of any of these or placebo (PBO).
 The outcomes were divided into efficacy and safety. For efficacy, we report on the primary outcomes of the respective trials, but focus on the American College of Rheumatology 20% improvement (ACR20), as this was frequently the primary end point in trials. For safety, the primary outcome was withdrawals due to adverse events (AEs). Secondary efficacy outcomes collected were ACR50, ACR70, Psoriasis Area Severity Index (PASI)50–70–90, PsA response criteria (PsARC), EULAR good or moderate response, improvement in the 28-joint count Disease Activity Score or its components (swollen joint count (SJC), tender joint count, patient's global assessment of disease activity, and erythrocyte sedimentation rate or C reactive protein), minimum disease activity state,11 improvement in functional disability, improvement in enthesitis, dactylitis and nail involvement, absenteeism, work productivity, cost-efficacy and structural damage. Secondary safety outcomes were serious AEs (SAEs), serious infections, tuberculosis, candidiasis, malignancies, skin exacerbation and demyelinating disease. Only RCTs published after 2010, either phase III or IV (including long-term extensions) as well as strategy trials were included.""""
 
   [datasets.data]
-  url="https://osf.io/t8knj/"
+  doi = "10.17605/OSF.IO/T8KNJ"
 
 
 [[datasets]]
 
-  key="Rinne_2021"
+  key = "Rinne_2021"
 
   [datasets.publication]
-  doi="10.1016/j.healthplace.2021.102737"
-  eligibility_criteria="Included papers needed to measure or focus on the effects of the physical environment on physical activity and employ a social ecological approach (Richard et al., 2011; Sallis et al., 2006). Peer-reviewed journal papers were included if they investigated the association between physical environments and any kind of human physical activity, followed the social ecological approach, and were written in English. Quantitative, qualitative, and mixed-method studies were included in order to consider different aspects of measuring the physical environment. Papers were excluded if they focused only on indoor space or did not measure the physical environment, did not have human physical activity as an outcome variable, or did not follow the principles of the ecological framework in terms of aiming at a multiple level approach. Study protocols, books, book chapters, commentaries, dissertations, editorials, theoretical and review papers were also excluded from the review."
+  doi = "10.1016/j.healthplace.2021.102737"
+  eligibility_criteria = "Included papers needed to measure or focus on the effects of the physical environment on physical activity and employ a social ecological approach (Richard et al., 2011; Sallis et al., 2006). Peer-reviewed journal papers were included if they investigated the association between physical environments and any kind of human physical activity, followed the social ecological approach, and were written in English. Quantitative, qualitative, and mixed-method studies were included in order to consider different aspects of measuring the physical environment. Papers were excluded if they focused only on indoor space or did not measure the physical environment, did not have human physical activity as an outcome variable, or did not follow the principles of the ecological framework in terms of aiming at a multiple level approach. Study protocols, books, book chapters, commentaries, dissertations, editorials, theoretical and review papers were also excluded from the review."
  
   [datasets.data]
-  doi="10.5281/zenodo.5184745"
+  doi = "10.5281/zenodo.5184745"
 
 
 [[datasets]]
 
-  key="Roberts_2021"
+  key = "Roberts_2021"
 
   [datasets.collection]
-  doi="10.1007/s10648-024-09862-5"
+  doi = "10.1007/s10648-024-09862-5"
 
   [datasets.publication]
-  doi="10.3102/00346543211051423"
-  eligibility_criteria="We organized our inclusion criteria based on the following characteristics of the published articles identified in our search: (a) study, (b) student, and (c) intervention. In each section below, we specifically detail the inclusion criteria utilized in our literature search. As an overview, the included sample of recent reading intervention studies met What Works Clearinghouse quality standards (IES, 2020) and were composed of targeted K–3 SWRD interventions, whose sample was not solely composed of English learners (EL), and who received instruction delivered in English, in the United States, by a human instructor."
+  doi = "10.3102/00346543211051423"
+  eligibility_criteria = "We organized our inclusion criteria based on the following characteristics of the published articles identified in our search: (a) study, (b) student, and (c) intervention. In each section below, we specifically detail the inclusion criteria utilized in our literature search. As an overview, the included sample of recent reading intervention studies met What Works Clearinghouse quality standards (IES, 2020) and were composed of targeted K–3 SWRD interventions, whose sample was not solely composed of English learners (EL), and who received instruction delivered in English, in the United States, by a human instructor."
 
   [datasets.data]
-  doi="10.17605/OSF.IO/UYB7X"
+  doi = "10.17605/OSF.IO/UYB7X"
 
 
 [[datasets]]
 
-  key="Ruggeri_2019"
+  key = "Ruggeri_2019"
 
   [datasets.collection]
-  doi="10.1017/rsm.2024.16"
+  doi = "10.1017/rsm.2024.16"
 
   [datasets.publication]
-  doi="10.1177/1362361319885215"
-  eligibility_criteria="Studies were included based on the following criteria: (1) group study designs included cohort studies and clinical trials; (2) participants included were children with ASD from birth to 21 years, and if other diagnoses were included, the results of participants with ASD were statistically analyzed separately; (3) all types of motor and physical activity interventions; (4) motor outcome of body structure and function, activity, or societal participation was measured using an objective outcome measure and statistically analyzed; (5) published in English; and (6) the study investigated either (a) the effects of a motor intervention on a motor outcome or (b) the effects of a motor learning variable on motor skill acquisition, transfer, and/or retention. Studies were excluded based on the following criteria: abstracts, conference proceedings, and dissertations. In addition, we did not include studies published before 2000, in order to focus on current research that used contemporary methods to diagnose ASD, such as the Autism Diagnosis Observation Schedule (ADOS), Diagnostic and Statistical Manual of Mental Disorders-IV (DSM-IV), or Diagnostic and Statistical Manual of Mental Disorders-V (DSM-V)."
+  doi = "10.1177/1362361319885215"
+  eligibility_criteria = "Studies were included based on the following criteria: (1) group study designs included cohort studies and clinical trials; (2) participants included were children with ASD from birth to 21 years, and if other diagnoses were included, the results of participants with ASD were statistically analyzed separately; (3) all types of motor and physical activity interventions; (4) motor outcome of body structure and function, activity, or societal participation was measured using an objective outcome measure and statistically analyzed; (5) published in English; and (6) the study investigated either (a) the effects of a motor intervention on a motor outcome or (b) the effects of a motor learning variable on motor skill acquisition, transfer, and/or retention. Studies were excluded based on the following criteria: abstracts, conference proceedings, and dissertations. In addition, we did not include studies published before 2000, in order to focus on current research that used contemporary methods to diagnose ASD, such as the Autism Diagnosis Observation Schedule (ADOS), Diagnostic and Statistical Manual of Mental Disorders-IV (DSM-IV), or Diagnostic and Statistical Manual of Mental Disorders-V (DSM-V)."
 
   [datasets.data]
-  doi="10.25340/R4/VB85L1"
+  doi = "10.25340/R4/VB85L1"
 
 
 [[datasets]]
 
-  key="Sanchez-Acedo_2023"
+  key = "Sanchez-Acedo_2023"
 
   [datasets.publication]
-  doi="10.3390/mti7100096"
-  eligibility_criteria="Given that the Publish or Perish software categorises the retrieved items according to their type, a decision was made to limit the research to articles and conference papers due to their relevance as a channel for broadcasting scientific knowledge. In addition, records whose title is not in English or Spanish were deleted. This was followed by an individual review of the retrieved items through assessing the abstract to determine whether or not they relate to the area under investigation."
+  doi = "10.3390/mti7100096"
+  eligibility_criteria = "Given that the Publish or Perish software categorises the retrieved items according to their type, a decision was made to limit the research to articles and conference papers due to their relevance as a channel for broadcasting scientific knowledge. In addition, records whose title is not in English or Spanish were deleted. This was followed by an individual review of the retrieved items through assessing the abstract to determine whether or not they relate to the area under investigation."
 
   [datasets.data]
-  doi="10.5281/zenodo.7973865"
+  doi = "10.5281/zenodo.7973865"
 
 
 [[datasets]]
 
-  key="Sanchez-Alvarez_2023"
+  key = "Sanchez-Alvarez_2023"
 
   [datasets.publication]
-  doi="10.1136/rmdopen-2023-003233"
+  doi = "10.1136/rmdopen-2023-003233"
   eligibility_criteria = "The population included patients with GCA, any intervention or comparator was considered and the outcomes addressed were: (1) disease activity state, namely active disease and remission; (2) change of disease activity state, namely response, improvement, worsening and relapse. Criteria or descriptors reflecting disease activity state assessment and change thereof were collected with their definitions. RCTs and LOS with more than 20 subjects, and qualitative studies without a limit of participants were included."
 
   [datasets.data]
-  url="https://osf.io/t8knj/"
+  doi = "10.17605/OSF.IO/T8KNJ"
 
 
 [[datasets]]
 
-  key="Sanchez-Gomez_2024"
+  key = "Sanchez-Gomez_2024"
 
   [datasets.publication]
-  doi="10.3390/bs14040308"
+  doi = "10.3390/bs14040308"
   eligibility_criteria = "The first filter (abstract level) verified the following criteria: (i) empirical studies; (ii) narrative skills assessed in children or adolescents; (iii) were not case studies; (iv) published between 2010 and 2023; and (v) manuscript written in English or Spanish. Empirical studies included descriptive studies, experiments, quasi-experimental studies, ex post facto designs, and instrumental studies. In a second filter (full text), the selection was limited to those studies in which (i) statistics on the measurements are included and (ii) oral narratives are assessed (e.g., written narratives were excluded). Finally, regarding the target population, all the studies that considered participants who were children or adolescents with ID were include, even if they also included adults, TD participants, or participants with other diagnosis (e.g., studies with participant with autism but without ID were excluded, participants with autism and ID were included). The final criterion applied was the inclusion of participants with ID (third filter)."
 
   [datasets.data]
-  url="https://osf.io/tg56j/"
+  url = "https://osf.io/tg56j/"
 
 
 [[datasets]]
 
-  key="Santos_2018"
+  key = "Santos_2018"
 
   [datasets.publication]
-  doi="10.1016/j.jss.2018.07.035"
+  doi = "10.1016/j.jss.2018.07.035"
   eligibility_criteria = """As the inclusion criteria, we only included:
 • Papers written in English.
 • Papers from journal, conference or workshop. We did not consider gray literature, such as technical reports or Ph.D. thesis.
@@ -1438,65 +1431,64 @@ We removed a paper if it was:
 • Not focused on smells for code design. We found papers using the term smell, but not related to code design."""
 
   [datasets.data]
-  doi="10.5281/zenodo.1188977"
+  doi = "10.5281/zenodo.1188977"
 
 
 [[datasets]]
 
-  key="Seghers_2022"
+  key = "Seghers_2022"
 
   [datasets.publication]
-  doi="10.3390/cancers14051147"
-eligibility_criteria = """We included original publications on the comparison of outcome priorities after a diagnosis of cancer; this included both studies in actual cancer patients and studies performed on other subjects asked to state their priority in the hypothetical situation of a cancer diagnosis. Studies were only included if they addressed at least three of the possible six outcome categories that were defined, which were transient short-term side effects, severe and persistent side effects, quality of life (including functioning), treatment response, progression- and disease-free survival, and overall survival (see Appendix B).
+  doi = "10.3390/cancers14051147"
+  eligibility_criteria = """We included original publications on the comparison of outcome priorities after a diagnosis of cancer; this included both studies in actual cancer patients and studies performed on other subjects asked to state their priority in the hypothetical situation of a cancer diagnosis. Studies were only included if they addressed at least three of the possible six outcome categories that were defined, which were transient short-term side effects, severe and persistent side effects, quality of life (including functioning), treatment response, progression- and disease-free survival, and overall survival (see Appendix B).
 All methods of preference elicitation were allowed, as long as the studies provided a form of prioritization of the individual outcome categories. Therefore, studies were excluded if the relative importance of outcome categories could not be elucidated due to the way the results were elicited or reported."""
 
   [datasets.data]
-  doi="10.5281/zenodo.7194756"
+  doi = "10.5281/zenodo.7194756"
 
 
 [[datasets]]
 
-  key="Sep_2021"
+  key = "Sep_2021"
 
   [datasets.publication]
-  doi="10.1371/journal.pone.0249102"
-eligibility_criteria = "Inclusion criteria for the systematic review were: (1) original article in the English language, (2) OIC task, (3) rodents, (4) control animals (no treatment, saline injection, or sham operation). Studies had to comply with the inclusion criteria above and report the sample size and (the data to calculate) the DR-with the corresponding standard error- to be included in the meta-analysis. Exclusion criteria were: 1) no primary literature in English; 2) other measures of context-dependent memory, like modified versions of the OIC task (e.g. combinations of context and location measures, context-dependent memory based on odors, classical fear conditioning or operant conditioning paradigms); 3) non-rodent species, 4) no control group tested. Note, genetic modification was not an exclusion criterium."
+  doi = "10.1371/journal.pone.0249102"
+  eligibility_criteria = "Inclusion criteria for the systematic review were: (1) original article in the English language, (2) OIC task, (3) rodents, (4) control animals (no treatment, saline injection, or sham operation). Studies had to comply with the inclusion criteria above and report the sample size and (the data to calculate) the DR-with the corresponding standard error- to be included in the meta-analysis. Exclusion criteria were: 1) no primary literature in English; 2) other measures of context-dependent memory, like modified versions of the OIC task (e.g. combinations of context and location measures, context-dependent memory based on odors, classical fear conditioning or operant conditioning paradigms); 3) non-rodent species, 4) no control group tested. Note, genetic modification was not an exclusion criterium."
 
   [datasets.data]
-  doi="10.17605/OSF.IO/GY2MC"
+  doi = "10.17605/OSF.IO/GY2MC"
 
 
 [[datasets]]
-  key="Sepriano_2020"
+  key = "Sepriano_2020"
 
   [datasets.publication]
-  doi="10.1136/annrheumdis-2019-216653"
-eligibility_criteria = "The literature search addressed the safety of DMARDs. Observational studies, namely, cohort studies or registries with >30 cases were the main study type. Participants were adults (≥18 years old) with a clinical diagnosis of RA. Studies including patients with other diagnoses were eligible only if results from patients with RA were presented separately. The intervention was any DMARD (csDMARD, bDMARD—including biosimilars—or tsDMARD), including all drugs (methotrexate, leflunomide, hydroxychloroquine, sulfasalazine, gold, azathioprine, chlorambucil, chloroquine, ciclosporin, cyclophosphamide, mycophenolate, minocycline, penicillamine, tacrolimus, anakinra, infliximab, etanercept, adalimumab, golimumab, certolizumab pegol, rituximab, abatacept, tocilizumab, sarilumab, sirukumab, olokizumab, ixekizumab, guselkumab, ustekinumab, mavrilimumab, tofacitinib, baricitinib, peficitinib, filgotinib, upadacitinib or fostamatinib), formulations and duration. Glucocorticoids were also included. The comparator was another bDMARD, sDMARD, glucocorticoid, combination therapy or the general population. Studies were only eligible if they included a comparator group. All safety outcomes were considered, namely, infections (including serious infections (SIs), opportunistic infections (OIs) such as tuberculosis and herpes zoster (HZ)), malignancies, mortality, major cardiovascular events (MACEs) including venous thromboembolism/pulmonary embolism (VTE/PE), change in lipid levels, elevation of creatine phosphokinase, impairment in renal function, elevation of liver enzymes, haematological abnormalities, gastrointestinal side effects, demyelinating disease, induction of autoimmune disease and teratogenicity."
+  doi = "10.1136/annrheumdis-2019-216653"
+  eligibility_criteria = "The literature search addressed the safety of DMARDs. Observational studies, namely, cohort studies or registries with >30 cases were the main study type. Participants were adults (≥18 years old) with a clinical diagnosis of RA. Studies including patients with other diagnoses were eligible only if results from patients with RA were presented separately. The intervention was any DMARD (csDMARD, bDMARD—including biosimilars—or tsDMARD), including all drugs (methotrexate, leflunomide, hydroxychloroquine, sulfasalazine, gold, azathioprine, chlorambucil, chloroquine, ciclosporin, cyclophosphamide, mycophenolate, minocycline, penicillamine, tacrolimus, anakinra, infliximab, etanercept, adalimumab, golimumab, certolizumab pegol, rituximab, abatacept, tocilizumab, sarilumab, sirukumab, olokizumab, ixekizumab, guselkumab, ustekinumab, mavrilimumab, tofacitinib, baricitinib, peficitinib, filgotinib, upadacitinib or fostamatinib), formulations and duration. Glucocorticoids were also included. The comparator was another bDMARD, sDMARD, glucocorticoid, combination therapy or the general population. Studies were only eligible if they included a comparator group. All safety outcomes were considered, namely, infections (including serious infections (SIs), opportunistic infections (OIs) such as tuberculosis and herpes zoster (HZ)), malignancies, mortality, major cardiovascular events (MACEs) including venous thromboembolism/pulmonary embolism (VTE/PE), change in lipid levels, elevation of creatine phosphokinase, impairment in renal function, elevation of liver enzymes, haematological abnormalities, gastrointestinal side effects, demyelinating disease, induction of autoimmune disease and teratogenicity."
 
   [datasets.data]
-  url="https://osf.io/t8knj/"
+  doi = "10.17605/OSF.IO/T8KNJ"
 
 
 [[datasets]]
 
-  key="Sepriano_2022"
+  key = "Sepriano_2022"
 
   [datasets.publication]
-  doi="10.1136/ard-2022-223357"
-eligibility_criteria = "The literature search addressed the safety of DMARDs. Observational studies, namely cohort studies/registries with >50 cases were the main study type. Participants were adults (≥18 years old) with a clinical diagnosis of RA. Studies including patients with other diagnoses were eligible only if results from patients with RA were presented separately. The intervention was any DMARD (csDMARD, bDMARD—including biosimilars—or tsDMARD), including all drugs (chloroquine, hydroxychloroquine, leflunomide, methotrexate, sulfasalazine, abatacept, anakinra, adalimumab, brodalumab, certolizumab pegol, etanercept, golimumab, guselkumab, infliximab, ixekizumab, mavrilimumab, ocrelizumab, ofatumumab, olokizumab, otilimab, rituximab, sarilumab, sirukumab, tabalumab, tocilizumab, ustekinumab, apremilast, baricitinib, decernotinib, evobrutinib, fenebrutinib, filgotinib, fostamatinib, peficitinib, ruxolitinib, tofacitinib, upadacitinib), formulations and duration. Studies were only eligible if they included a comparator group (either another DMARD, combination therapy, or the general population). Studies on glucocorticoids were excluded, as they were dealt with in a separate SLR.10 The following safety outcomes were considered: infections (including serious infections, opportunistic infections such as tuberculosis (TB) and herpes zoster (HZ)), malignancies, mortality, major adverse cardiovascular events (MACEs), venous thromboembolism (VTE) including pulmonary embolism/deep venous thrombosis, changes in lipid levels, elevations of creatine phosphokinase, impairments in renal function, elevations of liver enzymes, haematological abnormalities, gastrointestinal side effects, demyelinating disease, induction of autoimmune disease, teratogenicity, fertility and pregnancy outcomes. For the risk of infection by SARS-CoV-2, only studies published after 31 May 2021 (the limit date of an SLR informing EULAR recommendations focusing on the topic) were considered.12 13 RCTs with a primary safety outcome were included. In addition, RCTs and long-term extensions (LTEs), selected in the accompanying SLR addressing efficacy,9 were also included to assess the safety of drugs without, or with limited real-world data available."
+  doi = "10.1136/ard-2022-223357"
+  eligibility_criteria = "The literature search addressed the safety of DMARDs. Observational studies, namely cohort studies/registries with >50 cases were the main study type. Participants were adults (≥18 years old) with a clinical diagnosis of RA. Studies including patients with other diagnoses were eligible only if results from patients with RA were presented separately. The intervention was any DMARD (csDMARD, bDMARD—including biosimilars—or tsDMARD), including all drugs (chloroquine, hydroxychloroquine, leflunomide, methotrexate, sulfasalazine, abatacept, anakinra, adalimumab, brodalumab, certolizumab pegol, etanercept, golimumab, guselkumab, infliximab, ixekizumab, mavrilimumab, ocrelizumab, ofatumumab, olokizumab, otilimab, rituximab, sarilumab, sirukumab, tabalumab, tocilizumab, ustekinumab, apremilast, baricitinib, decernotinib, evobrutinib, fenebrutinib, filgotinib, fostamatinib, peficitinib, ruxolitinib, tofacitinib, upadacitinib), formulations and duration. Studies were only eligible if they included a comparator group (either another DMARD, combination therapy, or the general population). Studies on glucocorticoids were excluded, as they were dealt with in a separate SLR.10 The following safety outcomes were considered: infections (including serious infections, opportunistic infections such as tuberculosis (TB) and herpes zoster (HZ)), malignancies, mortality, major adverse cardiovascular events (MACEs), venous thromboembolism (VTE) including pulmonary embolism/deep venous thrombosis, changes in lipid levels, elevations of creatine phosphokinase, impairments in renal function, elevations of liver enzymes, haematological abnormalities, gastrointestinal side effects, demyelinating disease, induction of autoimmune disease, teratogenicity, fertility and pregnancy outcomes. For the risk of infection by SARS-CoV-2, only studies published after 31 May 2021 (the limit date of an SLR informing EULAR recommendations focusing on the topic) were considered.12 13 RCTs with a primary safety outcome were included. In addition, RCTs and long-term extensions (LTEs), selected in the accompanying SLR addressing efficacy,9 were also included to assess the safety of drugs without, or with limited real-world data available."
   
   [datasets.data]
-  url="https://osf.io/t8knj/"
+  doi = "10.17605/OSF.IO/T8KNJ"
 
 
 [[datasets]]
 
-  key="Smid_2019"
+  key = "Smid_2019"
 
   [datasets.publication]
-  doi="10.1080/10705511.2019.1577140"
-eligibility_criteria = """
-We included papers in which a simulation study was used to investigate and compare the performance of Bayesian estimation to frequentist methods in structural equation models with a small sample size. We only included peer-reviewed papers in the field of social sciences. Non-English references were excluded, as well as books, book chapters, conference talks and software manuals. We used the following definitions of the inclusion criteria:
+  doi = "10.1080/10705511.2019.1577140"
+  eligibility_criteria = """We included papers in which a simulation study was used to investigate and compare the performance of Bayesian estimation to frequentist methods in structural equation models with a small sample size. We only included peer-reviewed papers in the field of social sciences. Non-English references were excluded, as well as books, book chapters, conference talks and software manuals. We used the following definitions of the inclusion criteria:
 
 - Simulation study. Multiple replicated datasets were analyzed, and results were summarized for all simulated data sets.
 - Bayesian estimation was compared to frequentist estimation methods. The performance of Bayesian and frequentist estimation was investigated for the exact same model, so that the results can be compared across the two estimation methods.
@@ -1505,19 +1497,19 @@ meta-analysis and item response theory were excluded.
 - Small sample size. The original authors stated that at least one of the sample sizes in the simulation study represent a small sample size for their specific model. Small sample conditions must have been reported explicitly; aggregated results including small sample conditions were excluded."""
 
   [datasets.data]
-  doi="10.17605/OSF.IO/PUQ7X"
+  doi = "10.17605/OSF.IO/PUQ7X"
 
 
 [[datasets]]
 
-  key="Taschner_2024"
+  key = "Taschner_2024"
 
   [datasets.collection]
-  doi="10.1007/s10648-024-09862-5"
+  doi = "10.1007/s10648-024-09862-5"
 
   [datasets.publication]
-  doi="10.3102/00346543231221499"
-  eligibility_criteria="""1) The study is an empirical primary study that implemented some form of intervention (e.g., internship, classroom management training, coaching). Purely longitudinal studies were excluded.
+  doi = "10.3102/00346543231221499"
+  eligibility_criteria = """1) The study is an empirical primary study that implemented some form of intervention (e.g., internship, classroom management training, coaching). Purely longitudinal studies were excluded.
 2) Sample characteristics:
 a. The sample consists mainly of pre-service teachers, teacher students, or in-service teachers for elementary, middle, high, or vocational schools. Studies with samples consisting mainly of teachers for pre-school, higher education, or special education were excluded.
 b. The sample size is at least 10 persons.
@@ -1531,16 +1523,16 @@ b. Studies with scales with at least one subscale comparable to the three subsca
 8) The study is available in full text."""
 
   [datasets.data]
-  doi="10.17605/OSF.IO/UYB7X"
+  doi = "10.17605/OSF.IO/UYB7X"
 
 
 [[datasets]]
 
-  key="Tektonidou_2019"
+  key = "Tektonidou_2019"
 
   [datasets.publication]
-  doi="10.1136/rmdopen-2019-000924"
-  eligibility_criteria="""1.  Exclusion criteria for the systematic literature review
+  doi = "10.1136/rmdopen-2019-000924"
+  eligibility_criteria = """1.  Exclusion criteria for the systematic literature review
 • Animal studies
 • Basic science studies, laboratory definition studies
 • Pediatric studies
@@ -1553,73 +1545,73 @@ b. Studies with scales with at least one subscale comparable to the three subsca
 • Other (other disorder or not related to prevention or management topics in APS)"""
 
   [datasets.data]
-  url="https://osf.io/t8knj/"
+  doi = "10.17605/OSF.IO/T8KNJ"
 
 
 [[datasets]]
 
-  key="Theobald_2021"
+  key = "Theobald_2021"
 
   [datasets.collection]
-  doi="10.1007/s10648-024-09862-5"
+  doi = "10.1007/s10648-024-09862-5"
 
   [datasets.publication]
-  doi="10.1016/j.cedpsych.2021.101976"
-  eligibility_criteria="""First, training programs had to target SRL and had to include direct strategy instruction; training programs encompassed a direct strategy instruction of cognitive, metacognitive, or resource management strategies. Studies without explicit strategy instruction that supported SRL processes indirectly (e.g., by providing prompts without direct strategy instruction) or through instructional practices (e.g., by implementing cooperative learning arrangements) were excluded. These indirect interventions did not inform students about SRL strategies or how to apply SRL strategies. As this meta-analysis aimed to test the effectiveness of informed SRL trainings, this restriction served to enhance the comparability across training studies. Further, only extended SRL training programs (conducted in real classrooms) were included to distinguish between training programs and one-time experiments.
+  doi = "10.1016/j.cedpsych.2021.101976"
+  eligibility_criteria = """First, training programs had to target SRL and had to include direct strategy instruction; training programs encompassed a direct strategy instruction of cognitive, metacognitive, or resource management strategies. Studies without explicit strategy instruction that supported SRL processes indirectly (e.g., by providing prompts without direct strategy instruction) or through instructional practices (e.g., by implementing cooperative learning arrangements) were excluded. These indirect interventions did not inform students about SRL strategies or how to apply SRL strategies. As this meta-analysis aimed to test the effectiveness of informed SRL trainings, this restriction served to enhance the comparability across training studies. Further, only extended SRL training programs (conducted in real classrooms) were included to distinguish between training programs and one-time experiments.
 Moreover, training programs had to target university students (on campus or distance education). Training studies that tested school children, workers, trainees, or students suffering from learning disabilities were excluded.
 Studies had to report sufficient information to compute effect sizes (N, M, SD). If information on means and standard deviations was not available, effect sizes were computed based on the respective F-values of the interaction term of group (control vs. training) and time (pre vs. post training).
 Only studies using experimental or quasi-experimental pre-post control group designs were included. This was done to assure a comparable methodological standard and to reduce the problem of garbage in garbage out. If pretest means were not reported, studies were only included if they had tested that there were no significant differences between groups before starting the training. Moreover, samples had to include at least ten participants per group to assure that effect sizes were approximately normally distributed (Hedges & Olkin, 1985).
 Finally, studies had to report at least one of five outcome measures: students’ academic performance, cognitive strategies, metacognitive strategies, resource management strategies, or motivational outcomes."""
 
   [datasets.data]
-  doi="10.17605/OSF.IO/UYB7X"
+  doi = "10.17605/OSF.IO/UYB7X"
 
 
 [[datasets]]
 
-  key="Toffalini_2021"
+  key = "Toffalini_2021"
 
   [datasets.collection]
-  doi="10.1017/rsm.2024.16"
+  doi = "10.1017/rsm.2024.16"
 
   [datasets.publication]
-  doi="10.3758/s13428-021-01549-x"
-  eligibility_criteria="We considered any study reporting quantitative data concerning treatment efficacy on individuals with dyslexia/reading disorder. The following criteria had to be met for inclusion: (a) the treatment approach can be of any type, but it must aim to improve reading performance as its ultimate goal; (b) the manuscript must be written in English or any other language understood by one of the authors (including Spanish, French, Italian, Portuguese, and Hungarian); (c) participants must either be clinically diagnosed with developmental dyslexia (or reading disability or reading disorder) or having a profile compatible with a reading disorder as reported by the authors; in the latter case, participants must have reading performance either below the 25th percentile or one standard deviation below the population mean as assessed using standardized tests in their mother tongue; (d) participants must be described as having normal intelligence or an IQ not below 70 (if reported); (e) any comorbidity or co-occurring condition is acceptable, but they must be compatible with dyslexia status (e.g., deafness, neurological conditions, intellectual disability in one or more participants, or low socioeconomic status as a predominant condition of the entire sample, are exclusion criteria); (f) the study must include at least one control group comprising individuals with dyslexia, who must either be untreated, waiting list, or active control (e.g., a placebo condition; no comparisons between alternative/competing treatments were considered); (g) group allocation must be randomized; however, studies which did not explicitly mention whether the allocation was randomized were still included and labelled as “unclear”; the analyses were later performed both with and without these studies; (h) participants’ reading ability must be assessed at least twice, including before (pre-test score) and after treatment (post-test score)."
+  doi = "10.3758/s13428-021-01549-x"
+  eligibility_criteria = "We considered any study reporting quantitative data concerning treatment efficacy on individuals with dyslexia/reading disorder. The following criteria had to be met for inclusion: (a) the treatment approach can be of any type, but it must aim to improve reading performance as its ultimate goal; (b) the manuscript must be written in English or any other language understood by one of the authors (including Spanish, French, Italian, Portuguese, and Hungarian); (c) participants must either be clinically diagnosed with developmental dyslexia (or reading disability or reading disorder) or having a profile compatible with a reading disorder as reported by the authors; in the latter case, participants must have reading performance either below the 25th percentile or one standard deviation below the population mean as assessed using standardized tests in their mother tongue; (d) participants must be described as having normal intelligence or an IQ not below 70 (if reported); (e) any comorbidity or co-occurring condition is acceptable, but they must be compatible with dyslexia status (e.g., deafness, neurological conditions, intellectual disability in one or more participants, or low socioeconomic status as a predominant condition of the entire sample, are exclusion criteria); (f) the study must include at least one control group comprising individuals with dyslexia, who must either be untreated, waiting list, or active control (e.g., a placebo condition; no comparisons between alternative/competing treatments were considered); (g) group allocation must be randomized; however, studies which did not explicitly mention whether the allocation was randomized were still included and labelled as “unclear”; the analyses were later performed both with and without these studies; (h) participants’ reading ability must be assessed at least twice, including before (pre-test score) and after treatment (post-test score)."
 
   [datasets.data]
-  doi="10.25340/R4/VB85L1"
+  doi = "10.25340/R4/VB85L1"
 
 
 [[datasets]]
 
-  key="Tumkaya_2018"
+  key = "Tumkaya_2018"
 
   [datasets.publication]
-  doi="10.1016/j.neubiorev.2018.07.016"
-  eligibility_criteria="The systematic review included studies that met the following seven criteria: (1) report STM performance defined as ≤5 min memory (Heisenberg, 2003; Yildizoglu et al., 2015); (2) measure STM in adult Drosophila melanogaster; (3) focus on homozygous loss-of-function mutations, including broad RNA interference (RNAi) knockdown mutants; (4) use the T-maze assay; (5) report the full PI score for control and experimental flies; (6) use mutants with intact locomotor activity, olfactory acuity, and brain development processes; (7) the T-maze assay uses electric shock to condition one of two odors, and memory is tested in an odor-choice assay"
+  doi = "10.1016/j.neubiorev.2018.07.016"
+  eligibility_criteria = "The systematic review included studies that met the following seven criteria: (1) report STM performance defined as ≤5 min memory (Heisenberg, 2003; Yildizoglu et al., 2015); (2) measure STM in adult Drosophila melanogaster; (3) focus on homozygous loss-of-function mutations, including broad RNA interference (RNAi) knockdown mutants; (4) use the T-maze assay; (5) report the full PI score for control and experimental flies; (6) use mutants with intact locomotor activity, olfactory acuity, and brain development processes; (7) the T-maze assay uses electric shock to condition one of two odors, and memory is tested in an odor-choice assay"
 
   [datasets.data]
-  doi="10.5281/zenodo.1307117"
+  doi = "10.5281/zenodo.1307117"
 
 
 [[datasets]]
 
-  key="van_Ballegooijen_2024"
+  key = "van_Ballegooijen_2024"
 
   [datasets.publication]
-  doi="10.1001/jamapsychiatry.2024.2854"
+  doi = "10.1001/jamapsychiatry.2024.2854"
   eligibility_criteria = "Studies were included if they met the following criteria: (1) had a randomized design comparing 2 or more groups; (2) examined psychotherapy (the use of psychological methods to change behavior or overcome problems) targeting any mental health problem and delivered in any setting (including guided digital treatments); (3) compared the intervention with a control group (such as care as usual, enhanced care as usual, or waiting list); (4) reported suicidal ideation (SI), suicide attempts (SA), or self-harm leading to hospitalization (only included if the authors’ definition of self-harm included suicide attempts). Studies were excluded if they (1) used an intervention that did not involve any psychotherapeutic technique or support (eg, unguided self-help and community intervention) and (2) measured SI on a categorical scale, such as a single item of a questionnaire for depression. We included studies on all age groups."
 
   [datasets.data]
-  url="https://zenodo.org/records/15063583"
+  url = "https://zenodo.org/records/15063583"
 
 
 [[datasets]]
 
-  key="van_de_Schoot_2025"
+  key = "van_de_Schoot_2025"
 
   [datasets.publication]
-  doi="10.1080/20008066.2025.2546214"
+  doi = "10.1080/20008066.2025.2546214"
   eligibility_criteria = """The eligibility criteria for this study mirror those from the 2016 systematic review:
 PTSS is measured at a minimum of three time points;
 PTSS is assessed following a traumatic event;
@@ -1628,58 +1620,57 @@ LGMM is applied to PTSS data.
 In addition to population-based/cohort studies, we also included clinical studies, which is new compared to the initial dataset."""
 
   [datasets.data]
-  doi="10.34894/CRE6ZC"
+  doi = "10.34894/CRE6ZC"
 
 
 [[datasets]]
 
-  key="van_der_Valk_2021"
+  key = "van_der_Valk_2021"
 
   [datasets.publication]
-  doi="10.1111/obr.13376"
-eligibility_criteria = "We included studies that reported cross-sectional associations between HairGC and measurements of obesity. We excluded case reports, animal studies, review articles, non-English or nonpeer reviewed studies, and studies in which hair sampling and weight measurements were not performed simultaneously (Figure 1). Pediatric studies that only included children younger than age 2 years were also excluded because BMI-based definitions of obesity are not available for this age group"
+  doi = "10.1111/obr.13376"
+  eligibility_criteria = "We included studies that reported cross-sectional associations between HairGC and measurements of obesity. We excluded case reports, animal studies, review articles, non-English or nonpeer reviewed studies, and studies in which hair sampling and weight measurements were not performed simultaneously (Figure 1). Pediatric studies that only included children younger than age 2 years were also excluded because BMI-based definitions of obesity are not available for this age group"
 
   [datasets.data]
-  doi="10.17605/OSF.IO/WDZH5"
+  doi = "10.17605/OSF.IO/WDZH5"
 
 
 [[datasets]]
 
-  key="van_der_Waal_2022"
+  key = "van_der_Waal_2022"
 
   [datasets.publication]
-  doi="10.1016/j.jgo.2022.09.012"
-eligibility_criteria = """
+  doi = "10.1016/j.jgo.2022.09.012"
+  eligibility_criteria = """
 Language was limited to English and date range was set from January 2008 until June 2021.
 
 Studies included in this review were performed among adults (defined as eighteen years and older) with cancer treated in research centres that are part of a western healthcare system (including: European Union, United Kingdom, United States of America, Canada, Japan, Australia, and New Zealand). Japan was included, as previous studies have shown that the Japanese healthcare system is comparable to the western health care system [9,10]. We excluded conference abstracts, non-original research, studies on paediatric population (defined as younger than eighteen years old), as well as studies addressing specific ethnographic subgroups within western healthcare systems. For meta analysis purposes, studies were filtered on reporting data from the Control Preference Scale (CPS), which is a questionnaire to assess the patients’ preference for their role in treatment decision making (Table 1)"""
 
   [datasets.data]
-  doi="10.5281/zenodo.7308296"
+  doi = "10.5281/zenodo.7308296"
 
 
 [[datasets]]
 
-  key="van_Dis_2019"
+  key = "van_Dis_2019"
 
   [datasets.publication]
-  doi="10.1001/jamapsychiatry.2019.3986"
-eligibility_criteria = """
-Randomized clinical trials were included that examined effects of CBT(ie, any therapy with cognitive restructuring and/or a behavioral therapy, such as exposure, as core component), including third generation CBTs (ie, acceptance and commitment therapy and metacognitive therapy), at least 1 month after treatment completion, in an individual, group, or internet treatment format. Comparison groups included care as usual (ie, anything patients would normally receive as long as it was not a structured type of psychotherapy, such as primary care at medical centers or case management with educational groups), relaxation, psychoeducation, pill placebo, supportive therapy, or waiting list. Studies were included if they tested adult patients (or samples consisting mostly of adults but also some adolescents aged ≥16 years) who received a diagnosis of GAD, PD, SAD, specific phobia, PTSD, or OCD based on results of a structured diagnostic interview. Studies were excluded if they did not use CBT (eg, applied relaxation, eye movement desensitization and reprocessing, or interpersonal therapy) or did not report symptoms separately for each disorder. To reduce clinical heterogeneity, studies were also excluded if they had done any of the following: (1) used self-guided therapy without any guidance, (2) used CBT combined with medication or pill placebo, or (3) tested inpatients.
+  doi = "10.1001/jamapsychiatry.2019.3986"
+  eligibility_criteria = """Randomized clinical trials were included that examined effects of CBT(ie, any therapy with cognitive restructuring and/or a behavioral therapy, such as exposure, as core component), including third generation CBTs (ie, acceptance and commitment therapy and metacognitive therapy), at least 1 month after treatment completion, in an individual, group, or internet treatment format. Comparison groups included care as usual (ie, anything patients would normally receive as long as it was not a structured type of psychotherapy, such as primary care at medical centers or case management with educational groups), relaxation, psychoeducation, pill placebo, supportive therapy, or waiting list. Studies were included if they tested adult patients (or samples consisting mostly of adults but also some adolescents aged ≥16 years) who received a diagnosis of GAD, PD, SAD, specific phobia, PTSD, or OCD based on results of a structured diagnostic interview. Studies were excluded if they did not use CBT (eg, applied relaxation, eye movement desensitization and reprocessing, or interpersonal therapy) or did not report symptoms separately for each disorder. To reduce clinical heterogeneity, studies were also excluded if they had done any of the following: (1) used self-guided therapy without any guidance, (2) used CBT combined with medication or pill placebo, or (3) tested inpatients.
 
 English language articles only"""
 
   [datasets.data]
-  url="https://osf.io/4d9tu/"
+  url = "https://osf.io/4d9tu/"
 
 
 [[datasets]]
 
-  key="van_Heugten_Breurkes_2022"
+  key = "van_Heugten_Breurkes_2022"
 
   [datasets.publication]
-  doi="10.1145/3530019.3530028"
-  eligibility_criteria="""the focus of the the paper is not primarily on automated
+  doi = "10.1145/3530019.3530028"
+  eligibility_criteria = """the focus of the the paper is not primarily on automated
 software testing
 • topic is teaching-specific
 • not software testing, e.g., system, hardware, deployment
@@ -1708,66 +1699,65 @@ industry practices
 representatives participated"""
 
   [datasets.data]
-  doi="10.5281/zenodo.6400077"
+  doi = "10.5281/zenodo.6400077"
 
 
 [[datasets]]
 
-  key="van_Hoorn_2020"
+  key = "van_Hoorn_2020"
 
   [datasets.collection]
-  doi="10.1017/rsm.2024.16"
+  doi = "10.1017/rsm.2024.16"
 
   [datasets.publication]
-  doi="10.1111/dmcn.14781"
-  eligibility_criteria="In order to be included in the review, studies had to fulfil the following criteria: (1) they had to address children with DCD: children who met the diagnostic criteria for DCD according to the Diagnostic and Statistical Manual of Mental Disorders (DSM), Fourth or Fifth Editions, or children with motor impairment as assessed with a standardized motor test (e.g. Movement Assessment Battery for Children [MABC] score below the 16th centile as a cut-off) or another appropriate, valid, reliable, and standardized motor test (appropriately norm-referenced). Also, articles in which children with probable DCD were identified by means of questionnaires like the DCD Questionnaire were included; (2) the participants’ mean age had to be between 5 and 13 years; (3) studies addressed associations between DCD (or motor impairment) and early life factors (i.e. pregnancy-related factors, birth factors, child factors, or sociodemographic determinants). Early life factors were defined as factors occurring in the period ranging from pregnancy until 3 months post-term, since the latter age is characterized by a major neurodevelopmental transition.16 We excluded studies that: (1) included fewer than 10 participants; (2) were reviews or case-reports; and (3) specifically addressed the effect of drugs (e.g. caffeine) or nutritional supplements (e.g. vitamin D and vitamin A). The application of the DSM-5 criteria for inclusion also implied that studies that included children with a neurological disorder such as cerebral palsy (CP) were excluded. Studies that addressed the follow-up of specific groups of infants at increased risk of neurodevelopmental disorders (e.g. infants with neonatal hypoxic ischaemic encephalopathy or infants born preterm with a lesion of the brain but no diagnosis of CP) were eligible for our study."
+  doi = "10.1111/dmcn.14781"
+  eligibility_criteria = "In order to be included in the review, studies had to fulfil the following criteria: (1) they had to address children with DCD: children who met the diagnostic criteria for DCD according to the Diagnostic and Statistical Manual of Mental Disorders (DSM), Fourth or Fifth Editions, or children with motor impairment as assessed with a standardized motor test (e.g. Movement Assessment Battery for Children [MABC] score below the 16th centile as a cut-off) or another appropriate, valid, reliable, and standardized motor test (appropriately norm-referenced). Also, articles in which children with probable DCD were identified by means of questionnaires like the DCD Questionnaire were included; (2) the participants’ mean age had to be between 5 and 13 years; (3) studies addressed associations between DCD (or motor impairment) and early life factors (i.e. pregnancy-related factors, birth factors, child factors, or sociodemographic determinants). Early life factors were defined as factors occurring in the period ranging from pregnancy until 3 months post-term, since the latter age is characterized by a major neurodevelopmental transition.16 We excluded studies that: (1) included fewer than 10 participants; (2) were reviews or case-reports; and (3) specifically addressed the effect of drugs (e.g. caffeine) or nutritional supplements (e.g. vitamin D and vitamin A). The application of the DSM-5 criteria for inclusion also implied that studies that included children with a neurological disorder such as cerebral palsy (CP) were excluded. Studies that addressed the follow-up of specific groups of infants at increased risk of neurodevelopmental disorders (e.g. infants with neonatal hypoxic ischaemic encephalopathy or infants born preterm with a lesion of the brain but no diagnosis of CP) were eligible for our study."
 
   [datasets.data]
-  doi="10.25340/R4/VB85L1"
+  doi = "10.25340/R4/VB85L1"
 
 
 [[datasets]]
 
-  key="Verdugo-Castro_2022"
+  key = "Verdugo-Castro_2022"
 
   [datasets.publication]
-  doi="10.1016/j.heliyon.2022.e10300"
-  eligibility_criteria="""• Population: Gender gap in the STEM sector.
+  doi = "10.1016/j.heliyon.2022.e10300"
+  eligibility_criteria = """• Population: Gender gap in the STEM sector.
 • Intervention: Studies conducted, and proposals related to the gender gap in the STEM education sector
 • Comparison: No comparison.
 • Outcomes: Results of studies conducted in relation to the gender gap in the STEM education sector.
 • Context: Students integrated in the European educational field, especially in the STEM sector, with a special focus on EQF levels 5, 6, 7, and 8 (European Qualifications Framework for Lifelong Learning)."""
 
   [datasets.data]
-  doi="10.5281/zenodo.5775211"
+  doi = "10.5281/zenodo.5775211"
 
 
 [[datasets]]
 
-  key="Viguie_2020"
+  key = "Viguie_2020"
 
   [datasets.publication]
-  doi="10.1088/1748-9326/abc044"
-  eligibility_criteria="""Candidate papers must deal explicitly with energy demand, consumption need or use by the human population (e.g. papers dealing with the metabolic energy demand of plants are excluded).
+  doi = "10.1088/1748-9326/abc044"
+  eligibility_criteria = """Candidate papers must deal explicitly with energy demand, consumption need or use by the human population (e.g. papers dealing with the metabolic energy demand of plants are excluded).
 Candidate papers must deal with climate change effects (e.g. papers about the impact of temperature on AC adoption and/or energy use are excluded if they do not specifically consider climate change scenarios; likewise for papers about current trends without explicitly considering climate change).
 Candidate papers must deal with the impact of climate change on energy (and not the other way around) (e.g. papers dealing with the impacts of energy consumption on climate change magnitude are out of scope).
 Candidate papers must deal with energy demand (e.g. impacts of climate change on renewable electricity production potential or physical impact of climate change on electricity transport network are out of scope)."""
 
   [datasets.data]
-  doi="10.5281/zenodo.4452046"
+  doi = "10.5281/zenodo.4452046"
 
 
 [[datasets]]
 
-  key="Walker_2018"
+  key = "Walker_2018"
 
   [datasets.collection]
-  doi="10.1186/s13643-016-0263-z"
+  doi = "10.1186/s13643-016-0263-z"
 
   [datasets.publication]
-  doi="10.1016/j.envint.2017.12.032"
-eligibility_criteria = """
-In order to be eligible for inclusion, studies had to satisfy eligibility criteria specified by the PECO statement (Table 1).
+  doi = "10.1016/j.envint.2017.12.032"
+eligibility_criteria = """In order to be eligible for inclusion, studies had to satisfy eligibility criteria specified by the PECO statement (Table 1).
 
 Population: Human or animal (whole organism) without restriction based on age, sex, or life stage at exposure or outcome assessment
 
@@ -1785,97 +1775,96 @@ The following additional criteria were also used for exclusion:
 • non-English publications"""
 
   [datasets.data]
-  doi="10.1186/s13643-016-0263-z"
+  doi = "10.1186/s13643-016-0263-z"
 
 
 [[datasets]]
 
-  key="Ward_2020"
+  key = "Ward_2020"
 
   [datasets.collection]
-  doi="10.1017/rsm.2024.16"
+  doi = "10.1017/rsm.2024.16"
 
   [datasets.publication]
-  doi="10.1177/1087054720972801"
-  eligibility_criteria="Inclusion and exclusion criteria were determined to address the research questions (see Table 2). Teacher training interventions that were primarily or solely comprised of psychoeducation and/ or behavioral strategies to address ADHD specifically were the focus of this review and meta-analysis, and interventions where ADHD formed a minor part of the content, or more broadly focused interventions for problem behaviors, were excluded. If the study sample included a mixture of teachers from both mainstream and special education settings, the study was only included if it was possible to obtain and extract the data for mainstream teachers only."
+  doi = "10.1177/1087054720972801"
+  eligibility_criteria = "Inclusion and exclusion criteria were determined to address the research questions (see Table 2). Teacher training interventions that were primarily or solely comprised of psychoeducation and/ or behavioral strategies to address ADHD specifically were the focus of this review and meta-analysis, and interventions where ADHD formed a minor part of the content, or more broadly focused interventions for problem behaviors, were excluded. If the study sample included a mixture of teachers from both mainstream and special education settings, the study was only included if it was possible to obtain and extract the data for mainstream teachers only."
 
   [datasets.data]
-  doi="10.25340/R4/VB85L1"
+  doi = "10.25340/R4/VB85L1"
 
 
 [[datasets]]
 
-  key="Wassenaar_2017"
+  key = "Wassenaar_2017"
 
   [datasets.publication]
-  doi="10.1289/ehp1233"
-eligibility_criteria = "Studies were included in this systematic review when they met all of the following criteria: a) original full paper that presented unique data; b) exposure to BPA; c) obesity-related article or at least one of the outcome measures was examined (body weight, fat pad weights, triglyceride levels, FFA levels, or leptin levels); d) experimental rodent study; e) perinatal exposure via maternal or direct pup exposure [during gestation and/or lactation up to postnatal day (PND) 21]. Studies were excluded if they met one of the following criteria: a) not an original paper; b) exposure to a chemical other than BPA; c) no disease or outcome of interest (no obesity-related outcome); d) not a rodent study; e) not perinatal exposure (paternal exposure, exposure after PND21, and measurements in unborn fetuses were excluded); f) outcomes not measured in F1 generation; g) unhealthy or genetically altered rodents (data measured after ovariectomy were considered unhealthy and were not extracted); h) outcomes were measured after diet was altered to high-fat diet during follow-up. In addition, selection was restricted to English-language articles."
+  doi = "10.1289/ehp1233"
+  eligibility_criteria = "Studies were included in this systematic review when they met all of the following criteria: a) original full paper that presented unique data; b) exposure to BPA; c) obesity-related article or at least one of the outcome measures was examined (body weight, fat pad weights, triglyceride levels, FFA levels, or leptin levels); d) experimental rodent study; e) perinatal exposure via maternal or direct pup exposure [during gestation and/or lactation up to postnatal day (PND) 21]. Studies were excluded if they met one of the following criteria: a) not an original paper; b) exposure to a chemical other than BPA; c) no disease or outcome of interest (no obesity-related outcome); d) not a rodent study; e) not perinatal exposure (paternal exposure, exposure after PND21, and measurements in unborn fetuses were excluded); f) outcomes not measured in F1 generation; g) unhealthy or genetically altered rodents (data measured after ovariectomy were considered unhealthy and were not extracted); h) outcomes were measured after diet was altered to high-fat diet during follow-up. In addition, selection was restricted to English-language articles."
 
   [datasets.data]
-  doi="10.1186/s13643-016-0263-z"
+  doi = "10.1186/s13643-016-0263-z"
 
 
 [[datasets]]
 
-  key="Webers_2022"
+  key = "Webers_2022"
 
   [datasets.publication]
-  doi="10.1136/ard-2022-223298"
+  doi = "10.1136/ard-2022-223298"
   eligibility_criteria = "Eligible study designs included randomised controlled trials (RCTs), strategy trials and observational studies (the latter only for safety and extra-musculoskeletal manifestations). All relevant efficacy/safety outcomes were included."
 
   [datasets.data]
-  url="https://osf.io/t8knj/"
+  doi = "10.17605/OSF.IO/T8KNJ"
 
 
 [[datasets]]
 
-  key="Wijnen_2024"
+  key = "Wijnen_2024"
 
   [datasets.publication]
-  doi="10.5194/gc-7-91-2024"
+  doi = "10.5194/gc-7-91-2024"
   eligibility_criteria = "We used two selection criteria: (1) the study focuses on climate communication activities by scientists, and (2) the study describes the output, outcome, and/or impact of climate communication activities. The measurements used to evaluate the output, outcome, or impact could be either quantitative or qualitative."
 
   [datasets.data]
-  doi="10.5281/zenodo.13957522"
+  doi = "10.5281/zenodo.13957522"
 
 
 [[datasets]]
 
-  key="Williamson_2023"
+  key = "Williamson_2023"
 
   [datasets.publication]
-  doi="10.1007/s11160-022-09751-6"
-  eligibility_criteria="In detail, articles were excluded if, first, their titles did not contain one of the terms ‘eel’, ‘fish’, ‘movement’, ‘telemetry’, ‘environmental’ or ‘ecology’ (or correlates of these terms); second, if it was clear that eels were not the model species, that the study was not undertaken in a lentic system, and the study was not movement ecology focused, and third, if a full text could not be retrieved using either the Institute of Zoology or the University College London institution subscriptions. Finally, a full text screening of the articles was undertaken to ensure that eel species were the primary or secondary model species, the study was undertaken in a lentic system, the study was not ex situ, and the article was in English."
+  doi = "10.1007/s11160-022-09751-6"
+  eligibility_criteria = "In detail, articles were excluded if, first, their titles did not contain one of the terms ‘eel’, ‘fish’, ‘movement’, ‘telemetry’, ‘environmental’ or ‘ecology’ (or correlates of these terms); second, if it was clear that eels were not the model species, that the study was not undertaken in a lentic system, and the study was not movement ecology focused, and third, if a full text could not be retrieved using either the Institute of Zoology or the University College London institution subscriptions. Finally, a full text screening of the articles was undertaken to ensure that eel species were the primary or secondary model species, the study was undertaken in a lentic system, the study was not ex situ, and the article was in English."
 
   [datasets.data]
-  doi="10.5281/zenodo.7250310"
+  doi = "10.5281/zenodo.7250310"
 
 
 [[datasets]]
 
-  key="Wolters_2018"
+  key = "Wolters_2018"
 
   [datasets.publication]
-  doi="10.1016/j.jalz.2018.01.007"
-eligibility_criteria = """
-the following inclusion criteria: (1) cohort studies or longitudinal studies conducted with routinely collected health care data (e.g., national medical registries or insurance databases); (2) determinant CHD (i.e., myocardial infarction with or without angina or coronary revascularization) or CHF; and (3) report of incident dementia diagnosis as the outcome (i.e., at least all-cause dementia or AD as its most common subtype). We chose all-cause dementia as the main outcome measure of interest for this meta-analysis because a syndrome diagnosis of dementia can be defined with high consistency across studies and is less dependent on advanced diagnostic testing that is often not feasible in large (population-based) studies.
+  doi = "10.1016/j.jalz.2018.01.007"
+  eligibility_criteria = """the following inclusion criteria: (1) cohort studies or longitudinal studies conducted with routinely collected health care data (e.g., national medical registries or insurance databases); (2) determinant CHD (i.e., myocardial infarction with or without angina or coronary revascularization) or CHF; and (3) report of incident dementia diagnosis as the outcome (i.e., at least all-cause dementia or AD as its most common subtype). We chose all-cause dementia as the main outcome measure of interest for this meta-analysis because a syndrome diagnosis of dementia can be defined with high consistency across studies and is less dependent on advanced diagnostic testing that is often not feasible in large (population-based) studies.
 
 To provide more insight into the association of CHDandCHFwithdementiaindependentofmanifestcerebrovascular disease, we therefore adopted a clinical diagnosis of AD (per study protocol) as a secondary outcome measure. If multiple results were reported for the same cohort, we preferred the longer follow-up duration [10, 11], longer follow-up along with more comprehensive assessment of exposure [12, 13], larger number of incident dementia cases [14–17], most contemporary data [13], or the study in which selection bias was considered least likely [18]. I"""
 
   [datasets.data]
-  url="https://osf.io/sxzjg/"
+  url = "https://osf.io/sxzjg/"
 
 
 [[datasets]]
 
-  key="Xu_2022"
+  key = "Xu_2022"
 
   [datasets.collection]
-  doi="10.1007/s10648-024-09862-5"
+  doi = "10.1007/s10648-024-09862-5"
 
   [datasets.publication]
-  doi="10.1016/j.edurev.2022.100474"
-  eligibility_criteria="""2.2. Inclusion criteria
+  doi = "10.1016/j.edurev.2022.100474"
+  eligibility_criteria = """2.2. Inclusion criteria
 a.
 The participants in the study were diploma-seeking undergraduate and/or graduate international students enrolled in non-domestic international higher education;
 b.
@@ -1903,15 +1892,15 @@ h.
 The study was published as an abstract (paper or poster abstract), a dissertation abstracts, an editorial, a letter, a book review, a literature review or a paper or abstract in proceedings of a conference."""
 
   [datasets.data]
-  doi="10.17605/OSF.IO/UYB7X"
+  doi = "10.17605/OSF.IO/UYB7X"
 
 
 [[datasets]]
 
-  key="Zakeri-Nasrabadi_2023a"
+  key = "Zakeri-Nasrabadi_2023a"
 
   [datasets.publication]
-  doi="10.1145/3596908"
+  doi = "10.1145/3596908"
   eligibility_criteria = """• EC1: Duplicated resources: Some articles were indexed by more than one digital library. We kept one copy of each duplicated paper.
 • EC2: Non-English resources: We removed manuscripts written in languages other than English. We observed that none of them provided a new public dataset, including code smell.
 • EC3: Non-primary studies: All secondary and tertiary studies were removed. We discussed them as related work to our SLR in Section 2.
@@ -1919,15 +1908,15 @@ The study was published as an abstract (paper or poster abstract), a dissertatio
 • EC5: Irrelevant papers: Articles focused on other software engineering topics rather than code smells. Our search string terms such as “code smell” and “dataset” only appeared in the related works section of these articles, or each term appeared in a different article section. For instance, the word “dataset” did not point to a code smells dataset in the paper."""
 
   [datasets.data]
-  doi="10.5281/zenodo.7533578"
+  doi = "10.5281/zenodo.7533578"
 
 
 [[datasets]]
 
-  key="Zakeri-Nasrabadi_2023b"
+  key = "Zakeri-Nasrabadi_2023b"
 
   [datasets.publication]
-  doi="10.1016/j.jss.2023.111796"
+  doi = "10.1016/j.jss.2023.111796"
   eligibility_criteria = """• EC1: The articles repeated in citation databases were removed. We kept only one version of each duplicated article.
 • EC2: Articles whose main text was written in any language other than English or only their abstract and keywords were in English were eliminated.
 • EC3: Articles whose total text was less than three pages were removed. After reviewing them, we removed these articles and ensured they did not contain significant contributions. If there are good clues in these articles to find other suitable topics and articles, we consider these clues while applying the inclusion criteria and snowballing phases.
@@ -1940,31 +1929,31 @@ The study was published as an abstract (paper or poster abstract), a dissertatio
 • IC4: The conference paper is considered if it does not have any journal extension. Otherwise, only its journal extension was included since articles published in a journal often offer more complete descriptions than their conferences counterpart."""
 
   [datasets.data]
-  doi="10.5281/zenodo.7993619"
+  doi = "10.5281/zenodo.7993619"
 
 
 [[datasets]]
 
-  key="Zanframundo_2022"
+  key = "Zanframundo_2022"
 
   [datasets.publication]
-  doi="10.55563/clinexprheumatol/8xj0b9"
-  eligibility_criteria="People with suspected ASSD (adults). Patients with confirmed ASSD (adults). Definition of ASSD by clinical, laboratory, imaging, instrumental testing, and histology features (alone or combined). Systematic literature reviews, metaanalyses, RCTs, controlled trials, noncontrolled trials, diagnostic accuracy studies, cohort studies, cross-sectional studies, and case-control studies, Sensitivity Specificity Positive and negative predictive values Positive and negative likelihood ratios Diagnostic Odds Ratio"
+  doi = "10.55563/clinexprheumatol/8xj0b9"
+  eligibility_criteria = "People with suspected ASSD (adults). Patients with confirmed ASSD (adults). Definition of ASSD by clinical, laboratory, imaging, instrumental testing, and histology features (alone or combined). Systematic literature reviews, metaanalyses, RCTs, controlled trials, noncontrolled trials, diagnostic accuracy studies, cohort studies, cross-sectional studies, and case-control studies, Sensitivity Specificity Positive and negative predictive values Positive and negative likelihood ratios Diagnostic Odds Ratio"
 
   [datasets.data]
-  url="https://osf.io/t8knj/"
+  doi = "10.17605/OSF.IO/T8KNJ"
 
 
 [[datasets]]
 
-  key="Zinsser_2022"
+  key = "Zinsser_2022"
 
   [datasets.collection]
-  doi="10.1007/s10648-024-09862-5"
+  doi = "10.1007/s10648-024-09862-5"
 
   [datasets.publication]
-  doi="10.3102/00346543211070047"
-  eligibility_criteria="To address our specified research questions, studies were screened to ensure they met our inclusion criteria. Specifically, studies were included if they (1) included a sample of either children under the age of 6 living in the United States or early childhood care and education programs located in the United States; (2) included a measure of exclusion (e.g., suspension, early pick-ups, or expulsion) or exclusion risk (e.g., teachers’ requests of expulsion or perceived expulsion risk); and (3) were published in English in a peer-reviewed academic journal."
+  doi = "10.3102/00346543211070047"
+  eligibility_criteria = "To address our specified research questions, studies were screened to ensure they met our inclusion criteria. Specifically, studies were included if they (1) included a sample of either children under the age of 6 living in the United States or early childhood care and education programs located in the United States; (2) included a measure of exclusion (e.g., suspension, early pick-ups, or expulsion) or exclusion risk (e.g., teachers’ requests of expulsion or perceived expulsion risk); and (3) were published in English in a peer-reviewed academic journal."
 
   [datasets.data]
-  doi="10.17605/OSF.IO/UYB7X"
+  doi = "10.17605/OSF.IO/UYB7X"
