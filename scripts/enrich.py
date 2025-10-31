@@ -46,7 +46,7 @@ def find_work_for_doi(doi):
         return None
 
 
-def compare_titles(s1, s2):
+def compare_titles(s1, s2, max_distance):
 
     # print(compare_titles("Test & orčpžsíáýd", "Testorcpzsiayd"))
 
@@ -56,7 +56,7 @@ def compare_titles(s1, s2):
     s1_clean = "".join(i for i in s1_uni if i.isalnum())
     s2_clean = "".join(i for i in s2_uni if i.isalnum())
 
-    return s1_clean == s2_clean
+    return Levenshtein_distance(s1_clean, s2_clean, max_distance)
 
 
 # Removes all words from the title that contain a special character
@@ -104,6 +104,18 @@ def unquote_url(s):
     return urllib.parse.unquote(s.lower())
 
 
+# Calculates distance between 2 strings. Use cutoff to make it efficient.
+def Levenshtein_distance(a, b, cutoff = 3, cur_val = 0):
+    if len(b) == 0: return cur_val + len(a)
+    if len(a) == 0: return cur_val + len(b)
+    if a[0] == b[0]: return Levenshtein_distance(a[1:], b[1:], cutoff, cur_val)
+    if cur_val == cutoff: return cur_val + 1
+    val_a = Levenshtein_distance(a[1:], b, cutoff, cur_val + 1)
+    val_b = Levenshtein_distance(a, b[1:], cutoff, cur_val + 1)
+    val_c = Levenshtein_distance(a[1:], b[1:], cutoff, cur_val + 1)
+    return min(val_a, val_b, val_c)
+
+
 # Does a single query on OpenAlex for 1 title.
 def titlesearch_openalex(title):
     try:
@@ -117,17 +129,23 @@ def titlesearch_openalex(title):
 
 
 # Filters list of OpenAlex works based on given title
-def match_title(matches, title):
+def match_title(matches, title, max_distance):
     matches_title = []
+    best_match = max_distance
     for work in matches:
         if (
             "title" in work
             and work["title"]
             and title
-            and compare_titles(work["title"], title)
         ):
-            matches_title.append(work)
-    return matches_title
+            distance = compare_titles(work["title"], title, best_match)
+            if distance < best_match:
+                best_match = distance
+                matches_title = [work]
+            elif distance == best_match:
+                matches_title.append(work)
+
+    return matches_title, best_match
 
 
 # Filters list of OpenAlex works based on given year
@@ -146,6 +164,8 @@ def match_year(matches, year):
 
 
 def search_record(title, year=None, label_included=None):
+    # the maximum distance allowed for titles to match
+    max_distance = len(title) // 20
 
     title_raw = copy.copy(title)
 
@@ -153,29 +173,29 @@ def search_record(title, year=None, label_included=None):
     title_stripped = strip_title(copy.copy(title))
     works = titlesearch_openalex(title_stripped)
 
-    matches_title = match_title(works, title)
+    matches_title, distance = match_title(works, title, max_distance)
     if len(matches_title) == 1:
-        return matches_title[0]["doi"], matches_title[0]["id"], "search_title"
+        return matches_title[0], "search_title", len(matches_title), distance
 
     matches_year = match_year(matches_title, year)
     if len(matches_year) == 1:
-        return matches_year[0]["doi"], matches_year[0]["id"], "search_title_year"
+        return matches_year[0], "search_title_year", len(matches_year), distance
 
     # If stripped title has < 5 words, do a different search as well. 
     if len(title_stripped.split(" ")) < 5:
-        title_smart = strip_title_till_special(copy.copy(title))
+        title_smart = strip_title_from_special(copy.copy(title))
         works = titlesearch_openalex(title_smart)
 
-        matches_title = match_title(works, title)
-        if len(matches_title) == 1:
-            return matches_title[0]["doi"], matches_title[0]["id"], "search_title_extra"
+        matches_title_smart, distance = match_title(works, title, max_distance)
+        if len(matches_title_smart) == 1:
+            return matches_title_smart[0], "search_title_extra", len(matches_title_smart), distance
 
-        matches_year = match_year(matches_title, year)
+        matches_year = match_year(matches_title_smart, year)
         if len(matches_year) == 1:
-            return matches_year[0]["doi"], matches_year[0]["id"], "search_title_year_extra"
+            return matches_year[0], "search_title_year_extra", len(matches_title_smart), distance
 
     # added str(len(matches_title)) for now, because the next step is to look at cases with 2+ records.
-    return None, None, str(len(matches_title))
+    return None, None, str(len(matches_title)), distance
 
 
 def openalex_work_by_id(
@@ -260,6 +280,12 @@ if __name__ == "__main__":
         # add the collection method
         if "method" not in list(df):
             df["method"] = None
+        if "matches" not in list(df):
+            df["matches"] = None
+        if "distance" not in list(df):
+            df["distance"] = None
+        if "oa_title" not in list(df):
+            df["oa_title"] = None
 
         # OpenAlex always uses lowercase doi's and matches case specific.
         df['doi'] = df['doi'].astype("string")
@@ -316,16 +342,19 @@ if __name__ == "__main__":
                                 year = df_raw.iloc[index]["year"]
                             except Exception:
                                 year = None
-                            doi, openalex_id, retrieval_method = search_record(
+                            record, retrieval_method, matches, distance = search_record(
                                 df_raw.iloc[index]["title"],
                                 year,
                                 df_raw.iloc[index]["label_included"],
                             )
 
-                            if openalex_id:
+                            if record:
                                 found += 1
-                                df.loc[index, "openalex_id"] = openalex_id
+                                df.loc[index, "openalex_id"] = record["id"]
+                                df.loc[index, "oa_title"] = record["title"]
                             df.loc[index, "method"] = retrieval_method
+                            df.loc[index, "matches"] = matches
+                            df.loc[index, "distance"] = distance
                                 
                         if searched % 10 == 0:
                             print(f"\rsearched: {searched}/{total_count}, has title: {has_title}, found: {found}")
