@@ -165,7 +165,7 @@ def match_year(matches, year):
 
 def search_record(title, year=None, label_included=None):
     # the maximum distance allowed for titles to match
-    max_distance = len(title) // 20
+    max_distance = min(len(title) // 20, 5)
 
     title_raw = copy.copy(title)
 
