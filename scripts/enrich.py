@@ -56,7 +56,7 @@ def compare_titles(s1, s2, max_distance):
     s1_clean = "".join(i for i in s1_uni if i.isalnum())
     s2_clean = "".join(i for i in s2_uni if i.isalnum())
 
-    return Levenshtein_distance(s1_clean, s2_clean, max_distance)
+    return levenshtein_distance(s1_clean, s2_clean, max_distance)
 
 
 # Removes all words from the title that contain a special character
