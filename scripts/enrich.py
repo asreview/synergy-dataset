@@ -104,16 +104,48 @@ def unquote_url(s):
     return urllib.parse.unquote(s.lower())
 
 
-# Calculates distance between 2 strings. Use cutoff to make it efficient.
-def Levenshtein_distance(a, b, cutoff = 3, cur_val = 0):
-    if len(b) == 0: return cur_val + len(a)
-    if len(a) == 0: return cur_val + len(b)
-    if a[0] == b[0]: return Levenshtein_distance(a[1:], b[1:], cutoff, cur_val)
-    if cur_val == cutoff: return cur_val + 1
-    val_a = Levenshtein_distance(a[1:], b, cutoff, cur_val + 1)
-    val_b = Levenshtein_distance(a, b[1:], cutoff, cur_val + 1)
-    val_c = Levenshtein_distance(a[1:], b[1:], cutoff, cur_val + 1)
-    return min(val_a, val_b, val_c)
+# Implementation based on  the "Iterative with two matrix rows" variant from wikipedia: 
+# https://en.wikipedia.org/wiki/Levenshtein_distance#Iterative_with_two_matrix_rows
+# Some optimizations were added, based on this article: 
+# https://www.robertjacobson.dev/posts/2024-12-02-edit-distance-optimizations/ 
+def levenshtein_distance(a: str, b: str, cutoff: int = 3) -> int:
+    
+    # catch some easy cases
+    if a == b:
+        return 0
+    len_a, len_b = len(a), len(b)
+    if abs(len_a - len_b) > cutoff:
+        return cutoff + 1
+    if len_a == 0:
+        return len_b
+    if len_b == 0:
+        return len_a
+
+    # ensure a is the shorter (helps memory locality)
+    if len_a > len_b:
+        a, b = b, a
+        len_a, len_b = len_b, len_a
+    
+    previous = list(range(len_b + 1))  # full first row
+    for i in range(1, len_a + 1):
+        # band limits on b indices (1-based for DP columns)
+        start = max(1, i - cutoff)
+        end = min(len_b, i + cutoff)
+        current = [cutoff + 1] * (len_b + 1)
+        if start == 1:
+            current[0] = i  # when j==0 is in band
+        for j in range(start, end + 1):
+            cost = 0 if a[i - 1] == b[j - 1] else 1
+            sub = previous[j - 1] + cost       # substitution
+            ins = current[j - 1] + 1           # insertion (into a)
+            dele = previous[j] + 1             # deletion (from a)
+            current[j] = min(sub, ins, dele)
+        # early exit if whole band exceeds cutoff
+        if min(current[start:end + 1]) > cutoff:
+            return cutoff + 1
+        previous = current
+    res = previous[len_b]
+    return res if res <= cutoff else cutoff + 1
 
 
 # Does a single query on OpenAlex for 1 title.
@@ -138,6 +170,7 @@ def match_title(matches, title, max_distance):
             and work["title"]
             and title
         ):
+            # ensure the distance is <= our best match, otherwise we stick with the better match(es)
             distance = compare_titles(work["title"], title, best_match)
             if distance < best_match:
                 best_match = distance
@@ -238,7 +271,9 @@ def openalex_work_by_id(
     
 
 if __name__ == "__main__":
-
+    test = levenshtein_distance("kitten", "sitting", 5)
+    print(test)
+'''
     parser = argparse.ArgumentParser(
         prog="Enrich metadata", description="Lookup metadata via OpenAlex"
     )
@@ -369,3 +404,4 @@ if __name__ == "__main__":
 
         finally:
             df.to_csv(ds_glob, index=False)
+'''
