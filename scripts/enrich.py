@@ -203,8 +203,8 @@ def match_abstract(abstract, work):
         abstract_words = abstract.split()
         words_oa = work["abstract_inverted_index"]
         if len(abstract_words) >= 8 and len(words_oa) >= 8:
-            words_to_check = [clean_word(word) for word in abstract_words[:5]]
-            words_base = [clean_word(word) for word in list(words_oa.keys())[:5]]
+            words_to_check = [clean_word(word) for word in abstract_words[:8]]
+            words_base = [clean_word(word) for word in list(words_oa.keys())[:8]]
             count = 0
             for word in words_to_check:
                 if word in words_base:
@@ -368,8 +368,6 @@ if __name__ == "__main__":
             df["good_matches"] = None
         if "distance" not in list(df):
             df["distance"] = None
-        if "oa_title" not in list(df):
-            df["oa_title"] = None
 
         # OpenAlex always uses lowercase doi's and matches case specific.
         df["doi"] = df["doi"].astype("string")
@@ -437,7 +435,6 @@ if __name__ == "__main__":
                             if record.work:
                                 found += 1
                                 df.loc[index, "openalex_id"] = record.work["id"]
-                                df.loc[index, "oa_title"] = record.work["title"]
                             df.loc[index, "method"] = record.method
                             df.loc[index, "title_matches"] = record.title_matches
                             df.loc[index, "good_matches"] = record.good_matches
