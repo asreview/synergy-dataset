@@ -39,6 +39,22 @@ LENS_TOKEN = os.getenv("LENS_TOKEN")
 SPECIAL_TOKENS = """()[]{}'@#:;"%&`’,.?!/\\^®"""
 
 
+# object to easily report on found records for title search
+class Searched_record:
+    work = None
+    method = ""
+    oa_records = 0
+    matches = 0
+    distance = 0 
+
+    def __init__(self, work, method, oa_records, matches, distance):
+        self.work = work
+        self.method = method
+        self.oa_records = oa_records
+        self.matches = matches
+        self.distance = distance
+
+
 def find_work_for_doi(doi):
     try:
         return Works()["doi:" + doi]["id"]
@@ -47,14 +63,17 @@ def find_work_for_doi(doi):
         return None
 
 
+def clean_word(s):
+    s_uni = unicodedata.normalize("NFKD", s).lower()
+    s_clean = "".join(i for i in s_uni if i.isalnum())
+    return s_clean
+
+
 def compare_titles(s1, s2, max_distance):
     # print(compare_titles("Test & orčpžsíáýd", "Testorcpzsiayd"))
 
-    s1_uni = unicodedata.normalize("NFKD", s1).lower()
-    s2_uni = unicodedata.normalize("NFKD", s2).lower()
-
-    s1_clean = "".join(i for i in s1_uni if i.isalnum())
-    s2_clean = "".join(i for i in s2_uni if i.isalnum())
+    s1_clean = clean_word(s1)
+    s2_clean = clean_word(s2)
 
     return levenshtein_distance(s1_clean, s2_clean, max_distance)
 
@@ -155,6 +174,7 @@ def titlesearch_openalex(title):
         r = Works(params={"filter": {"title.search": title}}).version(2).get()
     except requests.exceptions.RetryError:
         print("retry error for " + title)
+        r = []
     return r
 
 
@@ -175,64 +195,75 @@ def match_title(matches, title, max_distance):
     return matches_title, best_match
 
 
-# Filters list of OpenAlex works based on given year
-def match_year(matches, year):
-    matches_year = []
-    for work in matches:
-        if (
-            "publication_year" in work
-            and work["publication_year"]
-            and year
-            and work["publication_year"] == year
-        ):
-            matches_year.append(work)
+# checks if the first 5 cleaned words of the abstract are in the first 5 words of the OpenAlex work
+def match_abstract(abstract, work):
+    if "abstract_inverted_index" in work and not pd.isna(work["abstract_inverted_index"]): 
+        abstract_words = abstract.split()
+        words_oa = work["abstract_inverted_index"]
+        if len(abstract_words) >= 8 and len(words_oa) >= 8:
+            words_to_check = [clean_word(word) for word in abstract_words[:5]]
+            words_base = [clean_word(word) for word in list(words_oa.keys())[:5]]
+            count = 0
+            for word in words_to_check:
+                if word in words_base:
+                    count += 1
+            return count >= 6
+    return False
 
-    return matches_year
 
-
-def search_record(title, year=None, label_included=None):
+def check_record_set(title, title_to_match, abstract, year, base_method):
     # the maximum distance allowed for titles to match
-    max_distance = min(len(title) // 20, 5)
+    max_distance = min(len(title_to_match) // 20, 5)
 
-    title_raw = copy.copy(title)
+    works = titlesearch_openalex(title)
+    matches_title, distance = match_title(works, title_to_match, max_distance)
+
+    # abstract check + return if 1 
+    if not pd.isna(abstract):
+        for work in matches_title:
+            if match_abstract(abstract, work):
+                return Searched_record(work, base_method + "_abstract", len(matches_title), count, distance)
+
+    # do some filtering to ensure we very likely only have good results left
+    good_results = []
+    if (len(title_to_match) >= 25 and len(matches_title) <= 3):
+        if not pd.isna(year):
+            for work in matches_title:
+                if (
+                    "publication_year" in work
+                    and work["publication_year"]
+                    and abs(work["publication_year"] - year) <= 1
+                ):
+                    good_results.append(work)
+        elif len(title_to_match) >= 35:
+            good_results = matches_title 
+
+    # if we have results left, score them and return the best
+    best_score = -1
+    best_work = None
+    for work in good_results:
+        score = work["cited_by_count"] + 100000 if ("abstract_inverted_index" in work and work["abstract_inverted_index"] ) else 0
+        if score > best_score:
+            best_score = score
+            best_work = work
+
+    return Searched_record(best_work, (base_method + "_scored") if best_work else "", len(matches_title), len(good_results), distance)
+
+
+def search_record(title, abstract=None, year=None, label_included=None):
 
     # stripped = words with special chars stripped away
     title_stripped = strip_title(copy.copy(title))
-    works = titlesearch_openalex(title_stripped)
+    rec = check_record_set(title_stripped, title, abstract, year, "search_title_stripped")
+    if rec.work: return rec
 
-    matches_title, distance = match_title(works, title, max_distance)
-    if len(matches_title) == 1:
-        return matches_title[0], "search_title", len(matches_title), distance
-
-    matches_year = match_year(matches_title, year)
-    if len(matches_year) == 1:
-        return matches_year[0], "search_title_year", len(matches_year), distance
-
-    # If stripped title has < 5 words, do a different search as well.
+    # if stripped title has < 5 words, do a different search as well.
     if len(title_stripped.split(" ")) < 5:
         title_smart = strip_title_from_special(copy.copy(title))
-        works = titlesearch_openalex(title_smart)
+        rec = check_record_set(title_smart, title, abstract, year, "search_title_smart")
+        if rec.work: return rec
 
-        matches_title_smart, distance = match_title(works, title, max_distance)
-        if len(matches_title_smart) == 1:
-            return (
-                matches_title_smart[0],
-                "search_title_extra",
-                len(matches_title_smart),
-                distance,
-            )
-
-        matches_year = match_year(matches_title_smart, year)
-        if len(matches_year) == 1:
-            return (
-                matches_year[0],
-                "search_title_year_extra",
-                len(matches_title_smart),
-                distance,
-            )
-
-    # added str(len(matches_title)) for now, because the next step is to look at cases with 2+ records.
-    return None, None, str(len(matches_title)), distance
+    return rec
 
 
 def openalex_work_by_id(
@@ -274,6 +305,7 @@ def openalex_work_by_id(
 
 
 if __name__ == "__main__":
+
     parser = argparse.ArgumentParser(
         prog="Enrich metadata", description="Lookup metadata via OpenAlex"
     )
@@ -314,6 +346,8 @@ if __name__ == "__main__":
         # add the collection method
         if "method" not in list(df):
             df["method"] = None
+        if "oa_records" not in list(df):
+            df["oa_records"] = None
         if "matches" not in list(df):
             df["matches"] = None
         if "distance" not in list(df):
@@ -342,7 +376,7 @@ if __name__ == "__main__":
                 df.loc[subset, "openalex_id"] = oaid
                 df.loc[subset, "method"] = f"id_retrieval_{id_type}"
 
-            if args.title_search:
+            if True:#args.title_search:
                 try:
                     dataset_key = "_".join(ds_glob.stem.split("_")[0:-1])
                     df_raw = pd.read_csv(Path(ds_glob.parent, f"{dataset_key}_raw.csv"))
@@ -351,6 +385,8 @@ if __name__ == "__main__":
                     continue
 
                 df_raw.rename({"Publication Year": "year"}, axis=1, inplace=True)
+                if "abstract" not in list(df_raw):
+                    df_raw["abstract"] = None
 
                 # Update dois from title
                 total_count = len(df[df["openalex_id"].isnull()])
@@ -373,19 +409,21 @@ if __name__ == "__main__":
                                 year = df_raw.iloc[index]["year"]
                             except Exception:
                                 year = None
-                            record, retrieval_method, matches, distance = search_record(
+                            record = search_record(
                                 df_raw.iloc[index]["title"],
+                                df_raw.iloc[index]["abstract"] if pd.notnull(df_raw.iloc[index]["abstract"]) else None,
                                 year,
                                 df_raw.iloc[index]["label_included"],
                             )
 
-                            if record:
+                            if record.work:
                                 found += 1
-                                df.loc[index, "openalex_id"] = record["id"]
-                                df.loc[index, "oa_title"] = record["title"]
-                            df.loc[index, "method"] = retrieval_method
-                            df.loc[index, "matches"] = matches
-                            df.loc[index, "distance"] = distance
+                                df.loc[index, "openalex_id"] = record.work["id"]
+                                df.loc[index, "oa_title"] = record.work["title"]
+                            df.loc[index, "method"] = record.method
+                            df.loc[index, "oa_records"] = record.oa_records
+                            df.loc[index, "matches"] = record.matches
+                            df.loc[index, "distance"] = record.distance
 
                         if searched % 10 == 0:
                             print(
