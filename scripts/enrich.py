@@ -43,15 +43,15 @@ SPECIAL_TOKENS = """()[]{}'@#:;"%&`’,.?!/\\^®"""
 class Searched_record:
     work = None
     method = ""
-    oa_records = 0
-    matches = 0
+    title_matches = 0
+    good_matches = 0
     distance = 0
 
-    def __init__(self, work, method, oa_records, matches, distance):
+    def __init__(self, work, method, title_matches, good_matches, distance):
         self.work = work
         self.method = method
-        self.oa_records = oa_records
-        self.matches = matches
+        self.title_matches = title_matches
+        self.good_matches = good_matches
         self.distance = distance
 
 
@@ -195,7 +195,7 @@ def match_title(matches, title, max_distance):
     return matches_title, best_match
 
 
-# checks if the first 5 cleaned words of the abstract are in the first 5 words of the OpenAlex work
+# checks if from the first 8 cleaned words of the abstract at least 6 are in the first 8 words of the OpenAlex work
 def match_abstract(abstract, work):
     if "abstract_inverted_index" in work and not pd.isna(
         work["abstract_inverted_index"]
@@ -220,12 +220,12 @@ def check_record_set(title, title_to_match, abstract, year, base_method):
     works = titlesearch_openalex(title)
     matches_title, distance = match_title(works, title_to_match, max_distance)
 
-    # abstract check + return if 1
+    # if we can match a record on abstract: return that record
     if not pd.isna(abstract):
         for work in matches_title:
             if match_abstract(abstract, work):
                 return Searched_record(
-                    work, base_method + "_abstract", len(matches_title), count, distance
+                    work, base_method + "_abstract", len(matches_title), 1, distance
                 )
 
     # do some filtering to ensure we very likely only have good results left
@@ -246,8 +246,8 @@ def check_record_set(title, title_to_match, abstract, year, base_method):
     best_score = -1
     best_work = None
     for work in good_results:
-        score = (
-            work["cited_by_count"] + 100000
+        score = work["cited_by_count"] + (
+            100000
             if ("abstract_inverted_index" in work and work["abstract_inverted_index"])
             else 0
         )
@@ -362,10 +362,10 @@ if __name__ == "__main__":
         # add the collection method
         if "method" not in list(df):
             df["method"] = None
-        if "oa_records" not in list(df):
-            df["oa_records"] = None
-        if "matches" not in list(df):
-            df["matches"] = None
+        if "title_matches" not in list(df):
+            df["title_matches"] = None
+        if "good_matches" not in list(df):
+            df["good_matches"] = None
         if "distance" not in list(df):
             df["distance"] = None
         if "oa_title" not in list(df):
@@ -392,7 +392,7 @@ if __name__ == "__main__":
                 df.loc[subset, "openalex_id"] = oaid
                 df.loc[subset, "method"] = f"id_retrieval_{id_type}"
 
-            if True:  # args.title_search:
+            if args.title_search:
                 try:
                     dataset_key = "_".join(ds_glob.stem.split("_")[0:-1])
                     df_raw = pd.read_csv(Path(ds_glob.parent, f"{dataset_key}_raw.csv"))
@@ -439,8 +439,8 @@ if __name__ == "__main__":
                                 df.loc[index, "openalex_id"] = record.work["id"]
                                 df.loc[index, "oa_title"] = record.work["title"]
                             df.loc[index, "method"] = record.method
-                            df.loc[index, "oa_records"] = record.oa_records
-                            df.loc[index, "matches"] = record.matches
+                            df.loc[index, "title_matches"] = record.title_matches
+                            df.loc[index, "good_matches"] = record.good_matches
                             df.loc[index, "distance"] = record.distance
 
                         if searched % 10 == 0:
