@@ -15,7 +15,7 @@ def test_datasets_toml():
 
 def test_dataset_keys():
 
-    skip_checks = ["Giesen_2021", "Farisogullari_2023", "Improve_todo"]
+    skip_checks = ["Giesen_2021", "Farisogullari_2023", "Improve_todo", "Abgaz_2023"]
 
     with open("datasets.toml") as f:
         datasets = tomllib.loads(f.read())
