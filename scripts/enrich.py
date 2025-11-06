@@ -40,12 +40,7 @@ SPECIAL_TOKENS = """()[]{}'@#:;"%&`’,.?!/\\^®"""
 
 
 # object to easily report on found records for title search
-class Searched_record:
-    work = None
-    method = ""
-    title_matches = 0
-    good_matches = 0
-    distance = 0
+class SearchedRecord:
 
     def __init__(self, work, method, title_matches, good_matches, distance):
         self.work = work
@@ -63,7 +58,7 @@ def find_work_for_doi(doi):
         return None
 
 
-def clean_word(s):
+def clean_string(s):
     s_uni = unicodedata.normalize("NFKD", s).lower()
     s_clean = "".join(i for i in s_uni if i.isalnum())
     return s_clean
@@ -72,8 +67,8 @@ def clean_word(s):
 def compare_titles(s1, s2, max_distance):
     # print(compare_titles("Test & orčpžsíáýd", "Testorcpzsiayd"))
 
-    s1_clean = clean_word(s1)
-    s2_clean = clean_word(s2)
+    s1_clean = clean_string(s1)
+    s2_clean = clean_string(s2)
 
     return levenshtein_distance(s1_clean, s2_clean, max_distance)
 
@@ -203,8 +198,8 @@ def match_abstract(abstract, work):
         abstract_words = abstract.split()
         words_oa = work["abstract_inverted_index"]
         if len(abstract_words) >= 8 and len(words_oa) >= 8:
-            words_to_check = [clean_word(word) for word in abstract_words[:8]]
-            words_base = [clean_word(word) for word in list(words_oa.keys())[:8]]
+            words_to_check = [clean_string(word) for word in abstract_words[:8]]
+            words_base = [clean_string(word) for word in list(words_oa.keys())[:8]]
             count = 0
             for word in words_to_check:
                 if word in words_base:
@@ -224,7 +219,7 @@ def check_record_set(title, title_to_match, abstract, year, base_method):
     if not pd.isna(abstract):
         for work in matches_title:
             if match_abstract(abstract, work):
-                return Searched_record(
+                return SearchedRecord(
                     work, base_method + "_abstract", len(matches_title), 1, distance
                 )
 
@@ -255,7 +250,7 @@ def check_record_set(title, title_to_match, abstract, year, base_method):
             best_score = score
             best_work = work
 
-    return Searched_record(
+    return SearchedRecord(
         best_work,
         (base_method + "_scored") if best_work else "",
         len(matches_title),
