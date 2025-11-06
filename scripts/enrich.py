@@ -1,20 +1,20 @@
 # python scripts/enrich.py -d Meijboom_2022 --title-search
 
-import os
-import copy
-import pandas as pd
-import requests
 import argparse
-from pathlib import Path
-from glob import glob
+import ast
+import copy
+import logging
+import os
 import unicodedata
 import urllib.parse
-import tomli
-
-
+from glob import glob
+from pathlib import Path
 from time import sleep
 
+import pandas as pd
 import pyalex
+import requests
+import tomli
 from pyalex import Works
 
 
@@ -26,11 +26,8 @@ def version(self, v):
 
 Works.version = version
 
-import logging
-
 logging.basicConfig()
 logging.getLogger().setLevel(logging.INFO)
-
 
 pyalex.config.email = "asreview@uu.nl"
 
@@ -39,9 +36,54 @@ LENS_TOKEN = os.getenv("LENS_TOKEN")
 SPECIAL_TOKENS = """()[]{}'@#:;"%&`’,.?!/\\^®"""
 
 
+def safe_parse_list(x):
+    # Check if x is a string that looks like a Python list
+    if isinstance(x, str) and x.strip().startswith("[") and x.strip().endswith("]"):
+        try:
+            val = ast.literal_eval(x)
+            # Only return it if casting was successful
+            if isinstance(val, list):
+                return val
+        except Exception:
+            pass
+    # Otherwise, return as-is
+    return x
+
+
+def normalize_authors(authors):
+    if isinstance(authors, list):
+        # Already a list, clean each element
+        return [author.strip().lower() for author in authors]
+    elif isinstance(authors, str):
+        # It's a string, split by commas, then clean
+        return [
+            author.strip().lower() for author in authors.split(",") if author.strip()
+        ]
+    else:
+        # Anything else, return empty list or as-is
+        return []
+
+
+def extract_lastnames(authors_list):
+    lastnames = []
+    for author in authors_list:
+        if not isinstance(author, str):
+            continue
+        # only take the part before the comma (surname)
+        if "," in author:
+            surname = author.split(",", 1)[0].strip()
+        else:
+            surname = author.strip()
+        # remove any trailing periods or stray punctuation
+        surname = surname.replace(".", "")
+        # skip empty or 1-char entries
+        if len(surname) > 1:
+            lastnames.append(surname)
+    return lastnames
+
+
 # object to easily report on found records for title search
 class SearchedRecord:
-
     def __init__(self, work, method, title_matches, good_matches, distance):
         self.work = work
         self.method = method
@@ -65,7 +107,6 @@ def clean_string(s):
 
 
 def compare_titles(s1, s2, max_distance):
-
     s1_clean = clean_string(s1)
     s2_clean = clean_string(s2)
 
@@ -207,7 +248,21 @@ def match_abstract(abstract, work):
     return False
 
 
-def check_record_set(title, title_to_match, abstract, year, base_method):
+def match_author(authors, work):
+    if not (isinstance(work, dict) and "authorships" in work and work["authorships"]):
+        return False
+
+    authors_list = normalize_authors(safe_parse_list(authors))
+    lastnames = extract_lastnames(authors_list)
+
+    # Extract OpenAlex author surname once
+    oa_author = work["authorships"][0].get("author", {})
+    oa_surname = oa_author.get("display_name", "").split()[-1].strip().lower()
+
+    return oa_surname in lastnames
+
+
+def check_record_set(title, title_to_match, abstract, authors, year, base_method):
     # the maximum distance allowed for titles to match
     max_distance = min(len(title_to_match) // 20, 5)
 
@@ -220,6 +275,12 @@ def check_record_set(title, title_to_match, abstract, year, base_method):
             if match_abstract(abstract, work):
                 return SearchedRecord(
                     work, base_method + "_abstract", len(matches_title), 1, distance
+                )
+    if not pd.isna(authors):
+        for work in matches_title:
+            if match_author(authors, work):
+                return SearchedRecord(
+                    work, base_method + "_author", len(matches_title), 1, distance
                 )
 
     # do some filtering to ensure we very likely only have good results left
@@ -258,11 +319,11 @@ def check_record_set(title, title_to_match, abstract, year, base_method):
     )
 
 
-def search_record(title, abstract=None, year=None, label_included=None):
+def search_record(title, abstract=None, authors=None, year=None, label_included=None):
     # stripped = words with special chars stripped away
     title_stripped = strip_title(copy.copy(title))
     rec = check_record_set(
-        title_stripped, title, abstract, year, "search_title_stripped"
+        title_stripped, title, abstract, authors, year, "search_title_stripped"
     )
     if rec.work:
         return rec
@@ -270,7 +331,9 @@ def search_record(title, abstract=None, year=None, label_included=None):
     # if stripped title has < 5 words, do a different search as well.
     if len(title_stripped.split(" ")) < 5:
         title_smart = strip_title_from_special(copy.copy(title))
-        rec = check_record_set(title_smart, title, abstract, year, "search_title_smart")
+        rec = check_record_set(
+            title_smart, title, abstract, authors, year, "search_title_smart"
+        )
         if rec.work:
             return rec
 
@@ -422,6 +485,9 @@ if __name__ == "__main__":
                                 df_raw.iloc[index]["abstract"]
                                 if pd.notnull(df_raw.iloc[index]["abstract"])
                                 else None,
+                                df_raw.iloc[index]["authors"]
+                                if pd.notnull(df_raw.iloc[index]["authors"])
+                                else None,
                                 year,
                                 df_raw.iloc[index]["label_included"],
                             )
@@ -439,7 +505,7 @@ if __name__ == "__main__":
                                 f"\rsearched: {searched}/{total_count}, has title: {has_title}, found: {found}"
                             )
 
-        except KeyboardInterrupt as err:
+        except KeyboardInterrupt as _:
             print("Stop and write results so far.")
             df.to_csv(ds_glob, index=False)
 
