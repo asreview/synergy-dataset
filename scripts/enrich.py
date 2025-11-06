@@ -65,7 +65,6 @@ def clean_string(s):
 
 
 def compare_titles(s1, s2, max_distance):
-    # print(compare_titles("Test & orčpžsíáýd", "Testorcpzsiayd"))
 
     s1_clean = clean_string(s1)
     s2_clean = clean_string(s2)
