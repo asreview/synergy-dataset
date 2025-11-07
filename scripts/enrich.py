@@ -1,20 +1,21 @@
 # python scripts/enrich.py -d Meijboom_2022 --title-search
 
-import os
-import copy
-import pandas as pd
-import requests
 import argparse
-from pathlib import Path
-from glob import glob
+import ast
+import copy
+import logging
+import os
+import re
 import unicodedata
 import urllib.parse
-import tomli
-
-
+from glob import glob
+from pathlib import Path
 from time import sleep
 
+import pandas as pd
 import pyalex
+import requests
+import tomli
 from pyalex import Works
 
 
@@ -26,11 +27,8 @@ def version(self, v):
 
 Works.version = version
 
-import logging
-
 logging.basicConfig()
 logging.getLogger().setLevel(logging.INFO)
-
 
 pyalex.config.email = "asreview@uu.nl"
 
@@ -41,13 +39,152 @@ SPECIAL_TOKENS = """()[]{}'@#:;"%&`’,.?!/\\^®"""
 
 # object to easily report on found records for title search
 class SearchedRecord:
-
     def __init__(self, work, method, title_matches, good_matches, distance):
         self.work = work
         self.method = method
         self.title_matches = title_matches
         self.good_matches = good_matches
         self.distance = distance
+
+
+def safe_parse_list(x):
+    # Check if x is a string that looks like a Python list
+    if isinstance(x, str) and x.strip().startswith("[") and x.strip().endswith("]"):
+        try:
+            val = ast.literal_eval(x)
+            # Only return it if casting was successful
+            if isinstance(val, list):
+                return val
+        except Exception:
+            pass
+    # Otherwise, return as-is
+    return x
+
+
+def looks_like_initials(token):
+    """
+    Return True if token looks like initials:
+      - has dots and only letters/dots/hyphens (e.g. 'M.-C.', 'N.-O.', 'S.B.')
+      - or is a single letter optionally with dot
+      - or is 1–2 uppercase letters (e.g. 'DU', 'AB')
+    """
+    if not token:
+        return False
+    token = token.strip()
+
+    # Must contain only allowed characters
+    if not re.fullmatch(r"[A-Za-zÀ-ÖØ-öø-ÿ.\-\s]+", token):
+        return False
+
+    # If there are dots, likely initials (dashed or not)
+    if "." in token:
+        return True
+
+    # Single-letter or uppercase short tokens
+    if re.fullmatch(r"[A-Za-zÀ-ÖØ-öø-ÿ]\.?", token):
+        return True
+    stripped = token.replace(" ", "")
+    if 1 <= len(stripped) <= 2 and stripped.isupper():
+        return True
+
+    # Has hyphen but NO dots → likely a surname (e.g. 'Hadj-Alouane')
+    return False
+
+
+def normalize_authors(authors):
+    """Return list of author strings (trimmed), handling ;, and, and comma variants.
+
+    Heuristics:
+      - If semicolons or ' and ' present -> split on them (do not touch internal commas).
+      - Else split on commas, then:
+          * If fragments look like alternating "Lastname" / "Given(s)" fragments (e.g. "Weinstein, G.", "Minarik, Joseph D") -> recombine pairs.
+          * Otherwise treat each comma-separated fragment as its own author (covers "Heidari F.", "M Rusek", etc).
+    """
+    if isinstance(authors, list):
+        return [a.strip() for a in authors]
+
+    if not isinstance(authors, str):
+        return []
+
+    s = authors.strip()
+
+    # Reliable separators first
+    if re.search(r";|\band\b", s, flags=re.IGNORECASE):
+        raw_parts = re.split(r";|\band\b", s, flags=re.IGNORECASE)
+        parts = [p.strip() for p in raw_parts if p.strip()]
+        return parts
+
+    # No semicolons/'and' — commas might be separators or internal
+    fragments = [f.strip() for f in s.split(",") if f.strip()]
+
+    saw_bare_word = any(re.fullmatch(r"[A-Za-zÀ-ÖØ-öø-ÿ\-']+", f) for f in fragments)
+
+    # recombine (Lastname, Given...) pairs
+    if saw_bare_word and len(fragments) >= 2:
+        parts = []
+        i = 0
+        while i < len(fragments):
+            left = fragments[i]
+            right = fragments[i + 1] if i + 1 < len(fragments) else None
+
+            left_is_bare = bool(re.fullmatch(r"[A-Za-zÀ-ÖØ-öø-ÿ\-']+", left))
+            right_is_givenish = right is not None and (
+                looks_like_initials(right)
+                or "." in right
+                or len(right.split()) <= 2  # “Joseph D”, “A S”, etc.
+            )
+
+            if right is not None and left_is_bare and right_is_givenish:
+                parts.append(f"{left}, {right}".strip())
+                i += 2
+            else:
+                parts.append(left)
+                i += 1
+
+        return [p.strip() for p in parts if p.strip()]
+
+    # fallback: treat all fragments as full authors
+    return fragments
+
+
+def extract_lastnames(authors_list):
+    """Extract cleaned lastnames from a list of author strings."""
+    lastnames = []
+    for a in authors_list:
+        if not isinstance(a, str):
+            continue
+        a = a.strip()
+
+        if "," in a:
+            # "lastname, given" -> take left side
+            surname = a.split(",", 1)[0].strip()
+        else:
+            parts = a.split()
+            if len(parts) == 1:
+                surname = parts[0]
+            else:
+                last_token = parts[-1]
+                if looks_like_initials(last_token):
+                    # last token is initials -> surname is everything before it
+                    candidate = parts[:-1]  # list of tokens
+                    # strip any leading initials in candidate (e.g. "B. Hadj-Alouane" -> drop "B.")
+                    while candidate and looks_like_initials(candidate[0]):
+                        candidate = candidate[1:]
+                    if not candidate:
+                        # all tokens were initials? fallback to first token
+                        surname = parts[0]
+                    else:
+                        surname = " ".join(candidate)
+                else:
+                    # last token does not look like initials -> it's the surname
+                    surname = last_token
+
+        # cleanup punctuation and stray dots
+        surname = surname.replace(".", "").strip().lower()
+        # skip obvious garbage or single-letter results
+        if len(surname) > 1:
+            lastnames.append(surname)
+    return lastnames
 
 
 def find_work_for_doi(doi):
@@ -65,7 +202,6 @@ def clean_string(s):
 
 
 def compare_titles(s1, s2, max_distance):
-
     s1_clean = clean_string(s1)
     s2_clean = clean_string(s2)
 
@@ -207,7 +343,21 @@ def match_abstract(abstract, work):
     return False
 
 
-def check_record_set(title, title_to_match, abstract, year, base_method):
+def match_author(authors, work):
+    if not (isinstance(work, dict) and "authorships" in work and work["authorships"]):
+        return False
+
+    authors_list = normalize_authors(safe_parse_list(authors))
+    lastnames = extract_lastnames(authors_list)
+
+    # Extract OpenAlex author surname once
+    oa_author = work["authorships"][0].get("author", {})
+    oa_surname = oa_author.get("display_name", "").split()[-1].strip().lower()
+
+    return oa_surname in lastnames
+
+
+def check_record_set(title, title_to_match, abstract, authors, year, base_method):
     # the maximum distance allowed for titles to match
     max_distance = min(len(title_to_match) // 20, 5)
 
@@ -220,6 +370,12 @@ def check_record_set(title, title_to_match, abstract, year, base_method):
             if match_abstract(abstract, work):
                 return SearchedRecord(
                     work, base_method + "_abstract", len(matches_title), 1, distance
+                )
+    if not pd.isna(authors):
+        for work in matches_title:
+            if match_author(authors, work):
+                return SearchedRecord(
+                    work, base_method + "_author", len(matches_title), 1, distance
                 )
 
     # do some filtering to ensure we very likely only have good results left
@@ -258,11 +414,11 @@ def check_record_set(title, title_to_match, abstract, year, base_method):
     )
 
 
-def search_record(title, abstract=None, year=None, label_included=None):
+def search_record(title, abstract=None, authors=None, year=None, label_included=None):
     # stripped = words with special chars stripped away
     title_stripped = strip_title(copy.copy(title))
     rec = check_record_set(
-        title_stripped, title, abstract, year, "search_title_stripped"
+        title_stripped, title, abstract, authors, year, "search_title_stripped"
     )
     if rec.work:
         return rec
@@ -270,7 +426,9 @@ def search_record(title, abstract=None, year=None, label_included=None):
     # if stripped title has < 5 words, do a different search as well.
     if len(title_stripped.split(" ")) < 5:
         title_smart = strip_title_from_special(copy.copy(title))
-        rec = check_record_set(title_smart, title, abstract, year, "search_title_smart")
+        rec = check_record_set(
+            title_smart, title, abstract, authors, year, "search_title_smart"
+        )
         if rec.work:
             return rec
 
@@ -381,6 +539,9 @@ if __name__ == "__main__":
                     df[subset][id_type].tolist(), id_type=id_type
                 )
 
+                df["openalex_id"] = df["openalex_id"].astype("string")
+                df["method"] = df["method"].astype("string")
+
                 df.loc[subset, "openalex_id"] = oaid
                 df.loc[subset, "method"] = f"id_retrieval_{id_type}"
 
@@ -395,6 +556,8 @@ if __name__ == "__main__":
                 df_raw.rename({"Publication Year": "year"}, axis=1, inplace=True)
                 if "abstract" not in list(df_raw):
                     df_raw["abstract"] = None
+                if "authors" not in list(df_raw):
+                    df_raw["authors"] = None
 
                 # Update dois from title
                 total_count = len(df[df["openalex_id"].isnull()])
@@ -422,6 +585,9 @@ if __name__ == "__main__":
                                 df_raw.iloc[index]["abstract"]
                                 if pd.notnull(df_raw.iloc[index]["abstract"])
                                 else None,
+                                df_raw.iloc[index]["authors"]
+                                if pd.notnull(df_raw.iloc[index]["authors"])
+                                else None,
                                 year,
                                 df_raw.iloc[index]["label_included"],
                             )
@@ -439,7 +605,7 @@ if __name__ == "__main__":
                                 f"\rsearched: {searched}/{total_count}, has title: {has_title}, found: {found}"
                             )
 
-        except KeyboardInterrupt as err:
+        except KeyboardInterrupt as _:
             print("Stop and write results so far.")
             df.to_csv(ds_glob, index=False)
 
