@@ -5,6 +5,7 @@ import ast
 import copy
 import logging
 import os
+import re
 import unicodedata
 import urllib.parse
 from glob import glob
@@ -36,6 +37,16 @@ LENS_TOKEN = os.getenv("LENS_TOKEN")
 SPECIAL_TOKENS = """()[]{}'@#:;"%&`’,.?!/\\^®"""
 
 
+# object to easily report on found records for title search
+class SearchedRecord:
+    def __init__(self, work, method, title_matches, good_matches, distance):
+        self.work = work
+        self.method = method
+        self.title_matches = title_matches
+        self.good_matches = good_matches
+        self.distance = distance
+
+
 def safe_parse_list(x):
     # Check if x is a string that looks like a Python list
     if isinstance(x, str) and x.strip().startswith("[") and x.strip().endswith("]"):
@@ -50,46 +61,130 @@ def safe_parse_list(x):
     return x
 
 
+def looks_like_initials(token):
+    """
+    Return True if token looks like initials:
+      - has dots and only letters/dots/hyphens (e.g. 'M.-C.', 'N.-O.', 'S.B.')
+      - or is a single letter optionally with dot
+      - or is 1–2 uppercase letters (e.g. 'DU', 'AB')
+    """
+    if not token:
+        return False
+    token = token.strip()
+
+    # Must contain only allowed characters
+    if not re.fullmatch(r"[A-Za-zÀ-ÖØ-öø-ÿ.\-\s]+", token):
+        return False
+
+    # If there are dots, likely initials (dashed or not)
+    if "." in token:
+        return True
+
+    # Single-letter or uppercase short tokens
+    if re.fullmatch(r"[A-Za-zÀ-ÖØ-öø-ÿ]\.?", token):
+        return True
+    stripped = token.replace(" ", "")
+    if 1 <= len(stripped) <= 2 and stripped.isupper():
+        return True
+
+    # Has hyphen but NO dots → likely a surname (e.g. 'Hadj-Alouane')
+    return False
+
+
 def normalize_authors(authors):
+    """Return list of author strings (trimmed), handling ;, and, and comma variants.
+
+    Heuristics:
+      - If semicolons or ' and ' present -> split on them (do not touch internal commas).
+      - Else split on commas, then:
+          * If fragments look like alternating "Lastname" / "Given(s)" fragments (e.g. "Weinstein, G.", "Minarik, Joseph D") -> recombine pairs.
+          * Otherwise treat each comma-separated fragment as its own author (covers "Heidari F.", "M Rusek", etc).
+    """
     if isinstance(authors, list):
-        # Already a list, clean each element
-        return [author.strip().lower() for author in authors]
-    elif isinstance(authors, str):
-        # It's a string, split by commas, then clean
-        return [
-            author.strip().lower() for author in authors.split(",") if author.strip()
-        ]
-    else:
-        # Anything else, return empty list or as-is
+        return [a.strip() for a in authors]
+
+    if not isinstance(authors, str):
         return []
+
+    s = authors.strip()
+
+    # Reliable separators first
+    if re.search(r";|\band\b", s, flags=re.IGNORECASE):
+        raw_parts = re.split(r";|\band\b", s, flags=re.IGNORECASE)
+        parts = [p.strip() for p in raw_parts if p.strip()]
+        return parts
+
+    # No semicolons/'and' — commas might be separators or internal
+    fragments = [f.strip() for f in s.split(",") if f.strip()]
+
+    saw_bare_word = any(re.fullmatch(r"[A-Za-zÀ-ÖØ-öø-ÿ\-']+", f) for f in fragments)
+
+    # recombine (Lastname, Given...) pairs
+    if saw_bare_word and len(fragments) >= 2:
+        parts = []
+        i = 0
+        while i < len(fragments):
+            left = fragments[i]
+            right = fragments[i + 1] if i + 1 < len(fragments) else None
+
+            left_is_bare = bool(re.fullmatch(r"[A-Za-zÀ-ÖØ-öø-ÿ\-']+", left))
+            right_is_givenish = right is not None and (
+                looks_like_initials(right)
+                or "." in right
+                or len(right.split()) <= 2  # “Joseph D”, “A S”, etc.
+            )
+
+            if right is not None and left_is_bare and right_is_givenish:
+                parts.append(f"{left}, {right}".strip())
+                i += 2
+            else:
+                parts.append(left)
+                i += 1
+
+        return [p.strip() for p in parts if p.strip()]
+
+    # fallback: treat all fragments as full authors
+    return fragments
 
 
 def extract_lastnames(authors_list):
+    """Extract cleaned lastnames from a list of author strings."""
     lastnames = []
-    for author in authors_list:
-        if not isinstance(author, str):
+    for a in authors_list:
+        if not isinstance(a, str):
             continue
-        # only take the part before the comma (surname)
-        if "," in author:
-            surname = author.split(",", 1)[0].strip()
+        a = a.strip()
+
+        if "," in a:
+            # "lastname, given" -> take left side
+            surname = a.split(",", 1)[0].strip()
         else:
-            surname = author.strip()
-        # remove any trailing periods or stray punctuation
-        surname = surname.replace(".", "")
-        # skip empty or 1-char entries
+            parts = a.split()
+            if len(parts) == 1:
+                surname = parts[0]
+            else:
+                last_token = parts[-1]
+                if looks_like_initials(last_token):
+                    # last token is initials -> surname is everything before it
+                    candidate = parts[:-1]  # list of tokens
+                    # strip any leading initials in candidate (e.g. "B. Hadj-Alouane" -> drop "B.")
+                    while candidate and looks_like_initials(candidate[0]):
+                        candidate = candidate[1:]
+                    if not candidate:
+                        # all tokens were initials? fallback to first token
+                        surname = parts[0]
+                    else:
+                        surname = " ".join(candidate)
+                else:
+                    # last token does not look like initials -> it's the surname
+                    surname = last_token
+
+        # cleanup punctuation and stray dots
+        surname = surname.replace(".", "").strip().lower()
+        # skip obvious garbage or single-letter results
         if len(surname) > 1:
             lastnames.append(surname)
     return lastnames
-
-
-# object to easily report on found records for title search
-class SearchedRecord:
-    def __init__(self, work, method, title_matches, good_matches, distance):
-        self.work = work
-        self.method = method
-        self.title_matches = title_matches
-        self.good_matches = good_matches
-        self.distance = distance
 
 
 def find_work_for_doi(doi):
@@ -444,6 +539,9 @@ if __name__ == "__main__":
                     df[subset][id_type].tolist(), id_type=id_type
                 )
 
+                df["openalex_id"] = df["openalex_id"].astype("string")
+                df["method"] = df["method"].astype("string")
+
                 df.loc[subset, "openalex_id"] = oaid
                 df.loc[subset, "method"] = f"id_retrieval_{id_type}"
 
@@ -458,6 +556,8 @@ if __name__ == "__main__":
                 df_raw.rename({"Publication Year": "year"}, axis=1, inplace=True)
                 if "abstract" not in list(df_raw):
                     df_raw["abstract"] = None
+                if "authors" not in list(df_raw):
+                    df_raw["authors"] = None
 
                 # Update dois from title
                 total_count = len(df[df["openalex_id"].isnull()])
