@@ -468,10 +468,18 @@ def check_record_set(title, title_to_match, abstract, authors, year, variant):
                     authors=pd.NA if pd.isna(authors) else authors,
                     method="search_title_" + variant + "_abstract",
                     good_matches=1,
-                    openalex_year_diff=abs(work.get("publication_year", pd.NA) - year) if year else pd.NA,
+                    openalex_year_diff=(
+                        abs(work["publication_year"] - year)
+                        if "publication_year" in work
+                        and pd.notna(work["publication_year"])
+                        and pd.notna(year)
+                        else pd.NA
+                    ),
                     title=title,
                     matches_title=len(matches_title),
-                    title_similarity_ratio=1 - (distance / max(len(title_to_match), len(work["title"]))),
+                    title_similarity_ratio=(
+                        1 - (distance / max(len(title_to_match), len(work["title"])))
+                    ),
                     distance=distance,
                     abstract_check=abstract_check,
                     authors_check=authors_check,
@@ -491,10 +499,18 @@ def check_record_set(title, title_to_match, abstract, authors, year, variant):
                     authors=pd.NA if pd.isna(authors) else authors,
                     method="search_title_" + variant + "_authors",
                     good_matches=1,
-                    openalex_year_diff=abs(work.get("publication_year", pd.NA) - year) if year else pd.NA,
+                    openalex_year_diff=(
+                        abs(work["publication_year"] - year)
+                        if "publication_year" in work
+                        and pd.notna(work["publication_year"])
+                        and pd.notna(year)
+                        else pd.NA
+                    ),
                     title=title,
                     matches_title=len(matches_title),
-                    title_similarity_ratio=1 - (distance / max(len(title_to_match), len(work["title"]))),
+                    title_similarity_ratio=(
+                        1 - (distance / max(len(title_to_match), len(work["title"])))
+                    ),
                     distance=distance,
                     abstract_check=abstract_check,
                     authors_check=authors_check,
@@ -503,7 +519,9 @@ def check_record_set(title, title_to_match, abstract, authors, year, variant):
 
     # do some filtering to ensure we very likely only have good results left
     good_matches = []
+    extension = ""
     if len(title_to_match) >= 25 and len(matches_title) <= 3:
+        extension = "_ranked_shorttitle_year"
         if not pd.isna(year):
             ranking_check = 0
             fuzzy_year_matches = []
@@ -525,6 +543,7 @@ def check_record_set(title, title_to_match, abstract, authors, year, variant):
                 exact_year_matches if exact_year_matches else fuzzy_year_matches
             )
         elif len(title_to_match) >= 35:
+            extension = "_ranked_longtitle"
             good_matches = matches_title
 
     # if we have results left, score them and return the best
@@ -545,12 +564,20 @@ def check_record_set(title, title_to_match, abstract, authors, year, variant):
         work=best_work,
         year=pd.NA if pd.isna(year) else year,
         authors=pd.NA if pd.isna(authors) else authors,
-        method="search_title_" + variant + "_ranked" if best_work else "",
+        method="search_title_" + variant + extension if best_work else "",
         good_matches=len(good_matches) if best_work else pd.NA,
-        openalex_year_diff=abs(work.get("publication_year", pd.NA) - year) if year else pd.NA,
+        openalex_year_diff=(
+            abs(work["publication_year"] - year)
+            if "publication_year" in work
+            and pd.notna(work["publication_year"])
+            and pd.notna(year)
+            else pd.NA
+        ),
         title=title,
         matches_title=len(matches_title),
-        title_similarity_ratio=1 - (distance / max(len(title_to_match), len(work["title"]))),
+        title_similarity_ratio=(
+            1 - (distance / max(len(title_to_match), len(work["title"])))
+        ),
         distance=distance,
         abstract_check=abstract_check,
         authors_check=authors_check,
