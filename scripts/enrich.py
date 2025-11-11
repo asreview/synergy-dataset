@@ -567,16 +567,19 @@ def check_record_set(title, title_to_match, abstract, authors, year, variant):
         method="search_title_" + variant + extension if best_work else "",
         good_matches=len(good_matches) if best_work else pd.NA,
         openalex_year_diff=(
-            abs(work["publication_year"] - year)
-            if "publication_year" in work
-            and pd.notna(work["publication_year"])
+            abs(best_work["publication_year"] - year)
+            if best_work 
+            and "publication_year" in best_work
+            and pd.notna(best_work["publication_year"])
             and pd.notna(year)
             else pd.NA
         ),
         title=title,
         matches_title=len(matches_title),
         title_similarity_ratio=(
-            1 - (distance / max(len(title_to_match), len(work["title"])))
+            1 - (distance / max(len(title_to_match), len(best_work["title"])))
+            if best_work
+            else pd.NA
         ),
         distance=distance,
         abstract_check=abstract_check,
