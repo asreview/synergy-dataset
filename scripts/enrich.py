@@ -8,6 +8,7 @@ import os
 import re
 import unicodedata
 import urllib.parse
+from dataclasses import asdict, dataclass
 from glob import glob
 from pathlib import Path
 from time import sleep
@@ -37,14 +38,71 @@ LENS_TOKEN = os.getenv("LENS_TOKEN")
 SPECIAL_TOKENS = """()[]{}'@#:;"%&`’,.?!/\\^®"""
 
 
-# object to easily report on found records for title search
+# Dataclass to hold search results
+@dataclass
 class SearchedRecord:
-    def __init__(self, work, method, title_matches, good_matches, distance):
-        self.work = work
-        self.method = method
-        self.title_matches = title_matches
-        self.good_matches = good_matches
-        self.distance = distance
+    work: dict | None = None
+    year: int | pd._libs.missing.NAType = pd.NA
+    authors: str | pd._libs.missing.NAType = pd.NA
+    method: str | None = None
+    good_matches: int | pd._libs.missing.NAType = pd.NA
+
+    # Optional stats for stripped/smart
+    title_stripped: str | pd._libs.missing.NAType = pd.NA
+    title_matches_stripped: int | pd._libs.missing.NAType = pd.NA
+    distance_stripped: float | pd._libs.missing.NAType = pd.NA
+    abstract_check_stripped: int | pd._libs.missing.NAType = pd.NA
+    authors_check_stripped: int | pd._libs.missing.NAType = pd.NA
+    ranking_check_stripped: int | pd._libs.missing.NAType = pd.NA
+
+    title_smart: str | pd._libs.missing.NAType = pd.NA
+    title_matches_smart: int | pd._libs.missing.NAType = pd.NA
+    distance_smart: float | pd._libs.missing.NAType = pd.NA
+    abstract_check_smart: int | pd._libs.missing.NAType = pd.NA
+    authors_check_smart: int | pd._libs.missing.NAType = pd.NA
+    ranking_check_smart: int | pd._libs.missing.NAType = pd.NA
+
+    def to_dict(self):
+        """Return everything as a flat dictionary for easy logging."""
+        d = asdict(self)
+
+        if isinstance(d.get("work"), dict) and "id" in d["work"]:
+            d["openalex_id"] = d["work"]["id"]
+        d.pop("work", None)
+        return d
+
+
+def make_searched_record(
+    variant: str,
+    work,
+    year,
+    authors,
+    method: str,
+    good_matches: int,
+    title,
+    matches_title,
+    distance,
+    abstract_check,
+    authors_check,
+    ranking_check,
+):
+    fields = {
+        f"title_{variant}": title,
+        f"title_matches_{variant}": matches_title,
+        f"distance_{variant}": distance,
+        f"abstract_check_{variant}": abstract_check,
+        f"authors_check_{variant}": authors_check,
+        f"ranking_check_{variant}": ranking_check,
+    }
+
+    return SearchedRecord(
+        work=work,
+        year=year,
+        authors=authors,
+        method=method,
+        good_matches=good_matches,
+        **fields,
+    )
 
 
 def safe_parse_list(x):
@@ -221,7 +279,7 @@ def strip_title(title):
 
 # Strips words from the point where they have a special character.
 # Also, start by removing special characters from start.
-def strip_title_from_special(title):
+def strip_title_smart(title):
     words = title.split(" ")
     clean_words = []
     for word in words:
@@ -347,55 +405,119 @@ def match_author(authors, work):
     if not (isinstance(work, dict) and "authorships" in work and work["authorships"]):
         return False
 
-    authors_list = normalize_authors(safe_parse_list(authors))
-    lastnames = extract_lastnames(authors_list)
+    lastnames = extract_lastnames(normalize_authors(safe_parse_list(authors)))
+    if not lastnames:
+        return False
 
-    # Extract OpenAlex author surname once
+    # Extract OpenAlex author surname
     oa_author = work["authorships"][0].get("author", {})
-    oa_surname = oa_author.get("display_name", "").split()[-1].strip().lower()
+    display_name = oa_author.get("display_name", None)
+    if not display_name:
+        return False
 
+    oa_surname = display_name.split()[-1].strip().lower()
     return oa_surname in lastnames
 
 
-def check_record_set(title, title_to_match, abstract, authors, year, base_method):
+def check_record_set(title, title_to_match, abstract, authors, year, variant):
+    # Initialize NA metrics
+    abstract_check = authors_check = ranking_check = pd.NA
+
     # the maximum distance allowed for titles to match
     max_distance = min(len(title_to_match) // 20, 5)
 
     works = titlesearch_openalex(title)
     matches_title, distance = match_title(works, title_to_match, max_distance)
 
+    # if no title matches: return empty
+    if len(matches_title) == 0:
+        return make_searched_record(
+            variant=variant,
+            work=None,
+            year=pd.NA if pd.isna(year) else year,
+            authors=pd.NA if pd.isna(authors) else authors,
+            method="",
+            good_matches=0,
+            title=title,
+            matches_title=0,
+            distance=pd.NA,
+            abstract_check=abstract_check,
+            authors_check=authors_check,
+            ranking_check=ranking_check,
+        )
+
     # if we can match a record on abstract: return that record
     if not pd.isna(abstract):
+        abstract_check = 0
         for work in matches_title:
+            abstract_check += 1
             if match_abstract(abstract, work):
-                return SearchedRecord(
-                    work, base_method + "_abstract", len(matches_title), 1, distance
+                return make_searched_record(
+                    variant=variant,
+                    work=work,
+                    year=pd.NA if pd.isna(year) else year,
+                    authors=pd.NA if pd.isna(authors) else authors,
+                    method="search_title_" + variant + "_abstract",
+                    good_matches=1,
+                    title=title,
+                    matches_title=len(matches_title),
+                    distance=distance,
+                    abstract_check=abstract_check,
+                    authors_check=authors_check,
+                    ranking_check=ranking_check,
                 )
+
+    # if we can match a record on authors: return that record
     if not pd.isna(authors):
+        authors_check = 0
         for work in matches_title:
+            authors_check += 1
             if match_author(authors, work):
-                return SearchedRecord(
-                    work, base_method + "_author", len(matches_title), 1, distance
+                return make_searched_record(
+                    variant=variant,
+                    work=work,
+                    year=pd.NA if pd.isna(year) else year,
+                    authors=pd.NA if pd.isna(authors) else authors,
+                    method="search_title_" + variant + "_authors",
+                    good_matches=1,
+                    title=title,
+                    matches_title=len(matches_title),
+                    distance=distance,
+                    abstract_check=abstract_check,
+                    authors_check=authors_check,
+                    ranking_check=ranking_check,
                 )
 
     # do some filtering to ensure we very likely only have good results left
-    good_results = []
+    good_matches = []
     if len(title_to_match) >= 25 and len(matches_title) <= 3:
         if not pd.isna(year):
+            ranking_check = 0
+            fuzzy_year_matches = []
+
             for work in matches_title:
+                ranking_check += 1
                 if (
                     "publication_year" in work
                     and work["publication_year"]
                     and abs(work["publication_year"] - year) <= 1
                 ):
-                    good_results.append(work)
+                    fuzzy_year_matches.append(work)
+
+            # Prefer exact year matches if any, else keep fuzzy year matches
+            exact_year_matches = [
+                w for w in fuzzy_year_matches if w.get("publication_year") == year
+            ]
+            good_matches = (
+                exact_year_matches if exact_year_matches else fuzzy_year_matches
+            )
         elif len(title_to_match) >= 35:
-            good_results = matches_title
+            good_matches = matches_title
 
     # if we have results left, score them and return the best
     best_score = -1
     best_work = None
-    for work in good_results:
+    for work in good_matches:
         score = work["cited_by_count"] + (
             100000
             if ("abstract_inverted_index" in work and work["abstract_inverted_index"])
@@ -405,39 +527,49 @@ def check_record_set(title, title_to_match, abstract, authors, year, base_method
             best_score = score
             best_work = work
 
-    return SearchedRecord(
-        best_work,
-        (base_method + "_scored") if best_work else "",
-        len(matches_title),
-        len(good_results),
-        distance,
+    return make_searched_record(
+        variant=variant,
+        work=best_work,
+        year=pd.NA if pd.isna(year) else year,
+        authors=pd.NA if pd.isna(authors) else authors,
+        method="search_title_" + variant + "_ranked" if best_work else "",
+        good_matches=len(good_matches) if best_work else pd.NA,
+        title=title,
+        matches_title=len(matches_title),
+        distance=distance,
+        abstract_check=abstract_check,
+        authors_check=authors_check,
+        ranking_check=ranking_check,
     )
 
 
-def search_record(title, abstract=None, authors=None, year=None, label_included=None):
+def search_record(title, abstract=None, authors=None, year=None):
     # stripped = words with special chars stripped away
     title_stripped = strip_title(copy.copy(title))
-    rec = check_record_set(
-        title_stripped, title, abstract, authors, year, "search_title_stripped"
+    stripped_rec = check_record_set(
+        title_stripped, title, abstract, authors, year, "stripped"
     )
-    if rec.work:
-        return rec
+    if stripped_rec.work:
+        return stripped_rec
 
-    # if stripped title has < 5 words, do a different search as well.
-    if len(title_stripped.split(" ")) < 5:
-        title_smart = strip_title_from_special(copy.copy(title))
-        rec = check_record_set(
-            title_smart, title, abstract, authors, year, "search_title_smart"
-        )
-        if rec.work:
-            return rec
+    title_smart = strip_title_smart(copy.copy(title))
+    smart_rec = check_record_set(title_smart, title, abstract, authors, year, "smart")
+    # Merge smart and stripped record info
+    merged_fields = {
+        **{k: v for k, v in vars(stripped_rec).items() if "stripped" in k},
+        **{k: v for k, v in vars(smart_rec).items() if "smart" in k},
+    }
+    return SearchedRecord(
+        work=smart_rec.work,
+        year=smart_rec.year,
+        authors=smart_rec.authors,
+        method=smart_rec.method,
+        good_matches=smart_rec.good_matches,
+        **merged_fields,
+    )
 
-    return rec
 
-
-def openalex_work_by_id(
-    id_list, id_type="doi", page_length=50, sleep_duration=0, mailto=None
-):
+def openalex_work_by_id(id_list, id_type="doi", page_length=50, sleep_duration=0):
     id_list_notnull = [i for i in id_list if i is not None]
     results = {}
 
@@ -511,16 +643,6 @@ if __name__ == "__main__":
         if "doi" not in list(df):
             df["doi"] = None
 
-        # add the collection method
-        if "method" not in list(df):
-            df["method"] = None
-        if "title_matches" not in list(df):
-            df["title_matches"] = None
-        if "good_matches" not in list(df):
-            df["good_matches"] = None
-        if "distance" not in list(df):
-            df["distance"] = None
-
         # OpenAlex always uses lowercase doi's and matches case specific.
         df["doi"] = df["doi"].astype("string")
         df["doi"] = df["doi"].str.lower()
@@ -559,9 +681,11 @@ if __name__ == "__main__":
                 if "authors" not in list(df_raw):
                     df_raw["authors"] = None
 
-                # Update dois from title
+                # Search records based on title/abstract/authors/year
                 total_count = len(df[df["openalex_id"].isnull()])
-                print(f"searching {total_count} records via title/year")
+                print(
+                    f"searching {total_count} records via title/abstract/authors/year"
+                )
                 searched = 0
                 has_title = 0
                 found = 0
@@ -589,16 +713,16 @@ if __name__ == "__main__":
                                 if pd.notnull(df_raw.iloc[index]["authors"])
                                 else None,
                                 year,
-                                df_raw.iloc[index]["label_included"],
                             )
 
                             if record.work:
                                 found += 1
-                                df.loc[index, "openalex_id"] = record.work["id"]
-                            df.loc[index, "method"] = record.method
-                            df.loc[index, "title_matches"] = record.title_matches
-                            df.loc[index, "good_matches"] = record.good_matches
-                            df.loc[index, "distance"] = record.distance
+
+                            rec_dict = record.to_dict()
+                            for key, value in rec_dict.items():
+                                if key not in df.columns:
+                                    df[key] = pd.NA  # add missing columns dynamically
+                                df.loc[index, key] = value
 
                         if searched % 10 == 0:
                             print(
