@@ -743,7 +743,7 @@ if __name__ == "__main__":
                         if pd.notnull(df_raw.iloc[index]["title"]):
                             has_title += 1
                             try:
-                                year = df_raw.iloc[index]["year"]
+                                year = int(df_raw.iloc[index]["year"])
                             except Exception:
                                 year = None
                             record = search_record(
