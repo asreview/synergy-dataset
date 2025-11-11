@@ -46,10 +46,12 @@ class SearchedRecord:
     authors: str | pd._libs.missing.NAType = pd.NA
     method: str | None = None
     good_matches: int | pd._libs.missing.NAType = pd.NA
+    openalex_year_diff: int | pd._libs.missing.NAType = pd.NA
 
     # Optional stats for stripped/smart
     title_stripped: str | pd._libs.missing.NAType = pd.NA
     title_matches_stripped: int | pd._libs.missing.NAType = pd.NA
+    title_similarity_ratio_stripped: float | pd._libs.missing.NAType = pd.NA
     distance_stripped: float | pd._libs.missing.NAType = pd.NA
     abstract_check_stripped: int | pd._libs.missing.NAType = pd.NA
     authors_check_stripped: int | pd._libs.missing.NAType = pd.NA
@@ -57,6 +59,7 @@ class SearchedRecord:
 
     title_smart: str | pd._libs.missing.NAType = pd.NA
     title_matches_smart: int | pd._libs.missing.NAType = pd.NA
+    title_similarity_ratio_smart: float | pd._libs.missing.NAType = pd.NA
     distance_smart: float | pd._libs.missing.NAType = pd.NA
     abstract_check_smart: int | pd._libs.missing.NAType = pd.NA
     authors_check_smart: int | pd._libs.missing.NAType = pd.NA
@@ -79,8 +82,10 @@ def make_searched_record(
     authors,
     method: str,
     good_matches: int,
+    openalex_year_diff: int,
     title,
     matches_title,
+    title_similarity_ratio,
     distance,
     abstract_check,
     authors_check,
@@ -89,6 +94,7 @@ def make_searched_record(
     fields = {
         f"title_{variant}": title,
         f"title_matches_{variant}": matches_title,
+        f"title_similarity_ratio_{variant}": title_similarity_ratio,
         f"distance_{variant}": distance,
         f"abstract_check_{variant}": abstract_check,
         f"authors_check_{variant}": authors_check,
@@ -101,6 +107,7 @@ def make_searched_record(
         authors=authors,
         method=method,
         good_matches=good_matches,
+        openalex_year_diff=openalex_year_diff,
         **fields,
     )
 
@@ -438,8 +445,10 @@ def check_record_set(title, title_to_match, abstract, authors, year, variant):
             authors=pd.NA if pd.isna(authors) else authors,
             method="",
             good_matches=0,
+            openalex_year_diff=pd.NA,
             title=title,
             matches_title=0,
+            title_similarity_ratio=pd.NA,
             distance=pd.NA,
             abstract_check=abstract_check,
             authors_check=authors_check,
@@ -459,8 +468,10 @@ def check_record_set(title, title_to_match, abstract, authors, year, variant):
                     authors=pd.NA if pd.isna(authors) else authors,
                     method="search_title_" + variant + "_abstract",
                     good_matches=1,
+                    openalex_year_diff=abs(work.get("publication_year", pd.NA) - year) if year else pd.NA,
                     title=title,
                     matches_title=len(matches_title),
+                    title_similarity_ratio=1 - (distance / max(len(title_to_match), len(work["title"]))),
                     distance=distance,
                     abstract_check=abstract_check,
                     authors_check=authors_check,
@@ -480,8 +491,10 @@ def check_record_set(title, title_to_match, abstract, authors, year, variant):
                     authors=pd.NA if pd.isna(authors) else authors,
                     method="search_title_" + variant + "_authors",
                     good_matches=1,
+                    openalex_year_diff=abs(work.get("publication_year", pd.NA) - year) if year else pd.NA,
                     title=title,
                     matches_title=len(matches_title),
+                    title_similarity_ratio=1 - (distance / max(len(title_to_match), len(work["title"]))),
                     distance=distance,
                     abstract_check=abstract_check,
                     authors_check=authors_check,
@@ -534,8 +547,10 @@ def check_record_set(title, title_to_match, abstract, authors, year, variant):
         authors=pd.NA if pd.isna(authors) else authors,
         method="search_title_" + variant + "_ranked" if best_work else "",
         good_matches=len(good_matches) if best_work else pd.NA,
+        openalex_year_diff=abs(work.get("publication_year", pd.NA) - year) if year else pd.NA,
         title=title,
         matches_title=len(matches_title),
+        title_similarity_ratio=1 - (distance / max(len(title_to_match), len(work["title"]))),
         distance=distance,
         abstract_check=abstract_check,
         authors_check=authors_check,
