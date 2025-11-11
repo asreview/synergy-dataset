@@ -405,11 +405,8 @@ def match_author(authors, work):
     if not (isinstance(work, dict) and "authorships" in work and work["authorships"]):
         return False
 
-    authors_list = normalize_authors(safe_parse_list(authors))
-    lastnames = extract_lastnames(authors_list)
-
-    # If lastnames is empty, no match is possible
-    if len(lastnames) == 0:
+    lastnames = extract_lastnames(normalize_authors(safe_parse_list(authors)))
+    if not lastnames:
         return False
 
     # Extract OpenAlex author surname
@@ -419,9 +416,6 @@ def match_author(authors, work):
         return False
 
     oa_surname = display_name.split()[-1].strip().lower()
-    if not oa_surname:
-        return False
-
     return oa_surname in lastnames
 
 
