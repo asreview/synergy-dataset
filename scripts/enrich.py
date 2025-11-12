@@ -568,7 +568,7 @@ def check_record_set(title, title_to_match, abstract, authors, year, variant):
         good_matches=len(good_matches) if best_work else pd.NA,
         openalex_year_diff=(
             abs(best_work["publication_year"] - year)
-            if best_work 
+            if best_work
             and "publication_year" in best_work
             and pd.notna(best_work["publication_year"])
             and pd.notna(year)
@@ -620,7 +620,10 @@ def openalex_work_by_id(id_list, id_type="doi", page_length=50, sleep_duration=0
 
     print(f"OpenAlex record lookup based on {id_type}")
     for page_start in range(0, len(id_list_notnull), page_length):
-        page = id_list_notnull[page_start : page_start + page_length]
+        page = [
+            str(i).strip().rstrip(",")
+            for i in id_list_notnull[page_start : page_start + page_length]
+        ]
 
         filt = {id_type: f"{'|'.join(map(str, page))}"}
         res = Works().filter(**filt).get(per_page=page_length)
