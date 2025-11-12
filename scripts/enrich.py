@@ -769,7 +769,10 @@ if __name__ == "__main__":
 
                     if pd.isnull(row["openalex_id"]):
                         searched += 1
-                        if pd.notnull(df_raw.iloc[index]["title"]):
+                        if (
+                            pd.notnull(df_raw.iloc[index]["title"])
+                            and len(df_raw.iloc[index]["title"]) < 3500
+                        ):
                             has_title += 1
                             try:
                                 year = int(df_raw.iloc[index]["year"])
