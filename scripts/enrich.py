@@ -568,7 +568,7 @@ def check_record_set(title, title_to_match, abstract, authors, year, variant):
         good_matches=len(good_matches) if best_work else pd.NA,
         openalex_year_diff=(
             abs(best_work["publication_year"] - year)
-            if best_work 
+            if best_work
             and "publication_year" in best_work
             and pd.notna(best_work["publication_year"])
             and pd.notna(year)

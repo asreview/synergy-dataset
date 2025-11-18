@@ -838,7 +838,7 @@ We excluded trials comparing drugs or nutritional supplementations, acupuncture,
 
 [[datasets]]
 
-  key = "Improve_todo"
+  key = "Improve"
 
   [datasets.publication]
   doi = "todo"
