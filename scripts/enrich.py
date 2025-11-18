@@ -7,11 +7,11 @@ import logging
 import os
 import re
 import unicodedata
+import urllib.parse
 from dataclasses import asdict, dataclass
 from glob import glob
 from pathlib import Path
 from time import sleep
-from urllib.parse import quote, unquote
 
 import pandas as pd
 import pyalex
@@ -314,7 +314,7 @@ def unquote_url(s):
     if not s:
         return s
 
-    return unquote(s.lower())
+    return urllib.parse.unquote(s.lower())
 
 
 # Implementation based on  the "Iterative with two matrix rows" variant from wikipedia:
@@ -614,41 +614,15 @@ def search_record(title, abstract=None, authors=None, year=None):
     )
 
 
-def normalize_doi_urls(doi_string):
-    """Split, detect DOI URLs, and normalize to https://doi.org/..."""
-    # Split on http/https
-    parts = re.split(r"(https?://)", doi_string)
-    urls = []
-    for i in range(1, len(parts), 2):
-        urls.append(parts[i] + parts[i + 1])
-
-    dois = []
-    for url in urls:
-        if "doi.org" in url or "dx.doi.org" in url:
-            doi_part = url.split("doi.org/")[-1]
-            normalized_url = f"https://doi.org/{doi_part}"
-            if normalized_url not in dois:
-                dois.append(normalized_url)
-    return dois if dois else [doi_string]  # If not a URL, return original string
-
-
 def openalex_work_by_id(id_list, id_type="doi", page_length=50, sleep_duration=0):
     id_list_notnull = [i for i in id_list if i is not None]
-
-    normalized_ids = []
-    for i in id_list_notnull:
-        normalized_ids.extend(normalize_doi_urls(str(i)))
-
     results = {}
 
     print(f"OpenAlex record lookup based on {id_type}")
-    for page_start in range(0, len(normalized_ids), page_length):
-        page = [
-            quote(str(i).strip().rstrip(","), safe=":/")
-            for i in normalized_ids[page_start : page_start + page_length]
-        ]
+    for page_start in range(0, len(id_list_notnull), page_length):
+        page = id_list_notnull[page_start : page_start + page_length]
 
-        filt = {id_type: "|".join(page)}
+        filt = {id_type: f"{'|'.join(map(str, page))}"}
         res = Works().filter(**filt).get(per_page=page_length)
         print(f"Found {len(res)} new records.")
 
@@ -769,10 +743,7 @@ if __name__ == "__main__":
 
                     if pd.isnull(row["openalex_id"]):
                         searched += 1
-                        if (
-                            pd.notnull(df_raw.iloc[index]["title"])
-                            and len(df_raw.iloc[index]["title"]) < 3500
-                        ):
+                        if pd.notnull(df_raw.iloc[index]["title"]):
                             has_title += 1
                             try:
                                 year = int(df_raw.iloc[index]["year"])
