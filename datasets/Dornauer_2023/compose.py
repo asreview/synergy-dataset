@@ -13,7 +13,7 @@ ft = ft[
 ]
 
 df = utils.combine_datafiles(search, ft)
-df = utils.rename_columns(df, title="Title", year="Year")
+df = utils.rename_columns(df, title="Title", year="Year", authors="Authors")
 df = utils.extract_doi(df, "DOI")
 
 df = utils.drop_duplicates(df)

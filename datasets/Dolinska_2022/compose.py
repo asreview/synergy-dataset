@@ -18,21 +18,21 @@ sheets_urine = pd.read_excel(
 search_blood = sheets_blood["Duplicates removed"]
 search_urine = sheets_urine["Duplicates removed"]
 search = pd.concat([search_blood, search_urine])
-search = utils.rename_columns(search, title="Title", year="Publication Year")
+search = utils.rename_columns(search, title="Title", year="Publication Year", authors="Authors")
 search = utils.extract_doi(search, "DOI")
 search = utils.extract_pmid(search, "PMID")
 
 tiab_blood = sheets_blood["Accepted based on abstract"]
 tiab_urine = sheets_urine["Eligible based on abstract"]
 tiab = pd.concat([tiab_blood, tiab_urine])
-tiab = utils.rename_columns(tiab, title="Title", year="Publication Year")
+tiab = utils.rename_columns(tiab, title="Title", year="Publication Year", authors="Authors")
 tiab = utils.extract_doi(tiab, "DOI")
 tiab = utils.extract_pmid(tiab, "PMID")
 
 ft_blood = sheets_blood["Final inclusion"]
 ft_urine = sheets_urine["Eligible for analysis"]
 ft = pd.concat([ft_blood, ft_urine])
-ft = utils.rename_columns(ft, title="Title", year="Publication Year")
+ft = utils.rename_columns(ft, title="Title", year="Publication Year", authors="Authors")
 ft = utils.extract_doi(ft, "DOI")
 ft = utils.extract_pmid(ft, "PMID")
 

@@ -15,7 +15,7 @@ exclusions = sheets["Exclude_Papers"]
 ft = sheets["Included_Papers"]
 
 exclusions = utils.rename_columns(exclusions, title="Title")
-ft = utils.rename_columns(ft, title="Title", year="Year")
+ft = utils.rename_columns(ft, title="Title", year="Year", authors="Authors")
 
 df = utils.combine_datafiles(exclusions, ft)
 df = utils.drop_duplicates(df)

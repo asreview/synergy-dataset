@@ -84,7 +84,7 @@ ft = pd.DataFrame(inclusions)
 
 search = utils.extract_doi(search, "Url", "https://doi.org/")
 search = utils.extract_pmid(search, "Url", "https://www.ncbi.nlm.nih.gov/pubmed/")
-search = utils.rename_columns(search, title="Title", year="Publication Year")
+search = utils.rename_columns(search, title="Title", year="Publication Year", abstract="Abstract Note", authors="Author")
 
 df = utils.combine_datafiles(search, ft)
 df = utils.drop_duplicates(df)

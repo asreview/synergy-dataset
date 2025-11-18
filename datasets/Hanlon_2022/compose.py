@@ -10,7 +10,7 @@ df = pd.read_excel(
 )
 
 # process data
-df = utils.rename_columns(df, title="Title", year="Year")
+df = utils.rename_columns(df, title="Title", year="Year", authors="Author", abstract="Abstract")
 df = utils.extract_labels(df, "full_text_screen", "y", "Abstract_screen", "y")
 
 df.sort_values(

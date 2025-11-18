@@ -14,7 +14,7 @@ sheets = pd.read_excel(
 search = sheets["ReviewByTitle"]
 df = sheets["ReviewAndRevisionByFullText"]
 
-search = utils.rename_columns(search, title="Title", year="Year")
+search = utils.rename_columns(search, title="Title", year="Year", abstract="Abstract", authors="Author")
 search = utils.extract_doi(search, "URL", "", "&")
 search["label_included"] = 0
 search["label_abstract_included"] = 0

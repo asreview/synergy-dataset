@@ -18,7 +18,7 @@ search = sheets["output search"].iloc[1:, :].copy()
 
 search.columns = [
     "title",
-    "A",
+    "authors",
     "B",
     "C",
     "D",

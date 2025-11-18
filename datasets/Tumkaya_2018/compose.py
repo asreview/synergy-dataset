@@ -23,19 +23,19 @@ embase_sheets = pd.read_excel(
 search_pm = pubmed_sheets["TitleScreen"]
 search_em = embase_sheets["TitleScreenUpdated"]
 search = pd.concat([search_pm, search_em])
-search = utils.rename_columns(search, title="Title")
+search = utils.rename_columns(search, title="Title", authors="Description")
 search = utils.extract_pmid(search, "Identifiers")
 
 tiab_pm = pubmed_sheets["FullTextScreenUpdate"]
 tiab_em = embase_sheets["FullTextScreenUpdate"]
 tiab = pd.concat([tiab_pm, tiab_em])
-tiab = utils.rename_columns(tiab, title="Title")
+tiab = utils.rename_columns(tiab, title="Title", authors="Description")
 tiab = utils.extract_pmid(tiab, "Identifiers")
 
 ft_pm = pubmed_sheets["MethodologyScreenUpdate"]
 ft_em = embase_sheets["MethodologyScreen"]
 ft = pd.concat([ft_pm, ft_em])
-ft = utils.rename_columns(ft, title="Title")
+ft = utils.rename_columns(ft, title="Title", authors="Description")
 ft = utils.extract_pmid(ft, "Identifiers")
 
 

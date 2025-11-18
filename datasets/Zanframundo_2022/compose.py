@@ -11,6 +11,7 @@ df = utils.rename_columns(
     df,
     year="Publication Year",
     ti_ab_label="OPTIONALLY Included after the title/abstract phase = 1,  Excluded after the title/abstract phase = 0",
+    authors="author"
 )
 df = utils.extract_doi(df, "doi", "", "", True)
 df = utils.extract_pmid(df, "PMID")

@@ -16,8 +16,8 @@ tiab = sheets["included 1st"]
 
 # Note: the doi's in the urls do not correspond with the titles, so are not used.
 
-search = utils.rename_columns(search, title="Title", year="Year")
-tiab = utils.rename_columns(tiab, title="Title", year="Year")
+search = utils.rename_columns(search, title="Title", year="Year", authors="Authors")
+tiab = utils.rename_columns(tiab, title="Title", year="Year", authors="Authors")
 ft = tiab[tiab["IN/OUT decision"] == "included"].copy()
 
 df = utils.combine_datafiles(search, ft, tiab)

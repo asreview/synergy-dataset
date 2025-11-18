@@ -9,7 +9,7 @@ df = pd.read_excel("https://osf.io/download/2mwkd/")
 
 # Process data
 df = utils.extract_doi(df, "doi", "", "", True)
-df = utils.rename_columns(df, ft_label="included")
+df = utils.rename_columns(df, ft_label="included", authors="author")
 df = utils.drop_duplicates(df)
 
 # Write output

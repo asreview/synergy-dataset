@@ -14,7 +14,7 @@ df = pd.read_excel(
 
 df = df.iloc[1:487, :].copy()
 
-df = utils.rename_columns(df, title="Title", year="Year")
+df = utils.rename_columns(df, title="Title", year="Year", abstract="Abstract", authors="Authors")
 df = utils.extract_doi(df, "CitesURL")
 df["Accepted by full read YES/NO"] = df["Accepted by full read YES/NO"].str.lower()
 df = utils.extract_labels(df, "Accepted by full read YES/NO", "yes")

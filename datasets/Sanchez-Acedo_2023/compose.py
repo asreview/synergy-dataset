@@ -13,7 +13,7 @@ df = utils.combine_datafiles(search, ft, tiab)
 
 df = utils.extract_doi(df, "DOI/URL")
 df = utils.extract_doi(df, "DOI")
-df = utils.rename_columns(df, title="Title", year="Year")
+df = utils.rename_columns(df, title="Title", year="Year", authors="Authors")
 
 df = utils.drop_duplicates(df)
 

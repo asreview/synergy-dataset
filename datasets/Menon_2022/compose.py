@@ -8,7 +8,7 @@ search = pd.read_csv("https://osf.io/download/y83tu/").rename(
     {"pubmed_id": "pmid"}, axis=1
 )
 ft = pd.read_excel("https://osf.io/download/mgxwj/").rename(
-    {"DOI name": "doi", "PubMed ID": "pmid"}, axis=1
+    {"Authors": "authors", "Year": "year", "DOI name": "doi", "PubMed ID": "pmid"}, axis=1
 )
 
 # set labels and turn into single dataframe

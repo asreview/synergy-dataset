@@ -15,7 +15,7 @@ df = pd.read_excel(
 # Process data
 df = utils.extract_doi(df, "DOI")
 df = utils.extract_doi(df, "ArticleURL")
-df = utils.rename_columns(df, title="Title", year="Year")
+df = utils.rename_columns(df, title="Title", year="Year", authors="Authors")
 
 ft = "Refinement Step 4\n(Apply Inclusion and Exclusion criteria using the Title, Abstract, Conclusion, Full Text)"
 tiab = "Refinement Step 3\nApply Inclusion and Exclusion criteria using the Title, Abstract, and Conclusion"

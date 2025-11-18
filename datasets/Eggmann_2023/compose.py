@@ -13,6 +13,7 @@ bib.load(
 bib.fit()
 search = bib.df
 
+search = utils.rename_columns(search, authors="author")
 search = utils.extract_doi(search, "doi", "", "", True)
 
 inclusions = [
