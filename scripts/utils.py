@@ -115,7 +115,6 @@ def rename_columns(
     if authors:
         df["authors"] = df[authors]
 
-
     return df
 
 
