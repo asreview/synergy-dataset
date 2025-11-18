@@ -10,7 +10,6 @@ import utils
 search_1 = RISReader.read_data(
     "https://zenodo.org/records/15063583/files/My%20EndNote%20Library_vanBallegooijen_20210409.txt?download=1"
 )
-search_1 = utils.rename_columns(search_1)
 
 search_2 = pd.read_csv(
     "https://zenodo.org/records/15063583/files/update%202024%20search%20results.csv?download=1"
