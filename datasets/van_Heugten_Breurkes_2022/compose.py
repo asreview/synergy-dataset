@@ -63,7 +63,7 @@ inclusions = [
 
 ft = pd.DataFrame(inclusions)
 
-search = utils.rename_columns(search, title="Title", year="Year")
+search = utils.rename_columns(search, title="Title", year="Year", abstract="Abstract", authors="Authors")
 search = utils.extract_doi(search, "DOI")
 
 df = utils.combine_datafiles(search, ft)

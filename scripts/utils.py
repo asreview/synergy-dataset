@@ -86,6 +86,8 @@ def rename_columns(
     year: str = "",
     ft_label: str = "",
     ti_ab_label: str = "",
+    abstract: str = "",
+    authors: str = "",
 ):
     """Creates new columns for each argument provided, copying data from the input column name"""
 
@@ -106,6 +108,12 @@ def rename_columns(
 
     if ti_ab_label:
         df["label_abstract_included"] = df[ti_ab_label]
+
+    if abstract:
+        df["abstract"] = df[abstract]
+
+    if authors:
+        df["authors"] = df[authors]
 
     return df
 

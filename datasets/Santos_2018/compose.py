@@ -35,7 +35,7 @@ search = pd.concat([search_1, search_2, search_3, search_4, search_5])
 search = utils.extract_doi(search, "DOI")
 search["URL"] = search["URL"].replace(to_replace=r"\\", value="", regex=True)
 search = utils.extract_doi(search, "URL", "doi=", "&")
-search = utils.rename_columns(search, title="Title", year="Year")
+search = utils.rename_columns(search, title="Title", year="Year", abstract="Abstract", authors="Authors")
 
 ft_ids["label_included"] = 1
 

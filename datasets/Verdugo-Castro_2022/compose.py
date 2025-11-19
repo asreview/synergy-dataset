@@ -23,14 +23,14 @@ search_wos2 = pd.read_excel(
 
 search_scopus = utils.extract_pmid(search_scopus, "PubMed ID")
 search_scopus = utils.extract_doi(search_scopus, "DOI")
-search_scopus = utils.rename_columns(search_scopus, title="Title", year="Year")
+search_scopus = utils.rename_columns(search_scopus, title="Title", year="Year", abstract="Abstract", authors="Authors")
 
-search_wos1 = utils.rename_columns(search_wos1, title="TI", year="PY")
+search_wos1 = utils.rename_columns(search_wos1, title="TI", year="PY", abstract="AB", authors="AU")
 search_wos1 = utils.extract_doi(search_wos1, "DI")
 search_wos1 = utils.extract_pmid(search_wos1, "PM")
 
 search_wos2 = utils.rename_columns(
-    search_wos2, title="Article Title", year="Publication Year"
+    search_wos2, title="Article Title", year="Publication Year", abstract="Abstract", authors="Authors"
 )
 search_wos2 = utils.extract_doi(search_wos2, "DOI")
 search_wos2 = utils.extract_pmid(search_wos2, "Pubmed Id")

@@ -29,7 +29,7 @@ tiabft = utils.extract_labels(tiabft, "include SC", "y")
 df = search.join(
     tiabft.set_index("Paper Title"), on="Title", lsuffix="_search", rsuffix="_ft"
 )
-df = utils.rename_columns(df, title="Title", year="Year")
+df = utils.rename_columns(df, title="Title", year="Year", authors="Author")
 df = utils.extract_labels(df, "label_included", 1, "label_abstract_included", 1)
 df = utils.drop_duplicates(df)
 

@@ -40,7 +40,7 @@ ft_ids = [
     905,
 ]
 
-utils.rename_columns(df, title="Title", year="Year")
+utils.rename_columns(df, title="Title", year="Year", authors="Authors")
 utils.extract_doi(df, "DOI")
 
 df["label_included"] = [1 if x in ft_ids else 0 for x in df["Scopus ID"]]

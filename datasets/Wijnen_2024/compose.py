@@ -24,7 +24,7 @@ df = utils.combine_datafiles(search, ft, ti_ab)
 # Process data
 df = utils.extract_doi(df, "doi", "", "", True)
 df = utils.extract_year(df, "publication_year")
-df = utils.rename_columns(df, title="primary_title")
+df = utils.rename_columns(df, title="primary_title", abstract="notes_abstract", authors="first_authors")
 df = utils.drop_duplicates(df)
 
 # Write output

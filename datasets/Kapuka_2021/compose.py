@@ -12,9 +12,9 @@ tiab = pd.read_excel(
     "https://zenodo.org/records/5558905/files/Dataset_secondary_search.xlsx?download=1"
 )
 
-search = utils.rename_columns(search, title="Tittle", year="Year of publication")
+search = utils.rename_columns(search, title="Tittle", year="Year of publication", authors="First author")
 search = utils.extract_doi(search, "DOI")
-tiab = utils.rename_columns(tiab, title="Tittle", year="Year of publication")
+tiab = utils.rename_columns(tiab, title="Tittle", year="Year of publication", authors="First author")
 tiab = utils.extract_doi(tiab, "DOI")
 
 # FT taken from data (colorcoded)

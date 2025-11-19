@@ -12,9 +12,11 @@ sheets = pd.read_excel(
 )
 
 search = sheets["5.  4 minus non peer-reviewed"]
-search = utils.rename_columns(search, doi="DOI", title="Title", year="Year")
+search = utils.rename_columns(search, doi="DOI", title="Title", year="Year", abstract="Abstract", authors="Authors")
 tiab = sheets["8. abstrackr relevant papers"]
+tiab = utils.rename_columns(tiab, authors="author")
 ft = sheets["10. final list of papers"]
+ft = utils.rename_columns(ft, authors="author")
 
 
 df = utils.combine_datafiles(search, ft, tiab)

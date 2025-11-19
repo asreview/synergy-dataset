@@ -38,7 +38,7 @@ bc2["subset"] = "birds_cropland"
 bc2 = utils.extract_labels(bc2, "status", "selected")
 
 set1 = pd.concat([bc, wc, nt_ew_br, bc2])
-set1 = utils.rename_columns(set1, title="Title", year="Year")
+set1 = utils.rename_columns(set1, title="Title", year="Year", authors="Authors")
 
 cr = sheets["Cropland-Rodent"]
 cr["subset"] = "Cropland-Rodent"
@@ -48,10 +48,12 @@ cb = sheets["Cropland-bat"]
 cb["subset"] = "Cropland-bat"
 sub = pd.concat([cr, rr, cb])
 sub = utils.extract_labels(sub, "Inclusion", "yes")
+sub = utils.rename_columns(sub, authors="Author Name")
 
 rb = sheets["Rangeland-Bat"]
 rb["subset"] = "Rangeland-Bat"
 rb = utils.extract_labels(rb, "Status", "yes")
+rb = utils.rename_columns(rb, authors="Author Name")
 
 set2 = pd.concat([sub, rb])
 set2 = utils.rename_columns(set2, title="Aritilce Name", year="Year")

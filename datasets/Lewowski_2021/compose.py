@@ -9,7 +9,7 @@ df = pd.read_csv(
 )
 
 df = utils.extract_doi(df, "DOI")
-df = utils.rename_columns(df, title="Title")
+df = utils.rename_columns(df, title="Title", authors="List of authors")
 df = utils.extract_labels(df, "Final result", "Accepted", "include decision", "Y")
 
 df = utils.drop_duplicates(df)

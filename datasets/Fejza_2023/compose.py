@@ -22,7 +22,7 @@ wos4 = pd.read_excel(
 wos = pd.concat([wos1, wos2, wos3, wos4])
 wos = utils.extract_doi(wos, "DOI")
 wos = utils.extract_pmid(wos, "Pubmed Id")
-wos = utils.rename_columns(wos, title="Article Title", year="Publication Year")
+wos = utils.rename_columns(wos, title="Article Title", year="Publication Year", authors="Authors")
 
 sco1 = pd.read_csv(
     "https://zenodo.org/records/8348665/files/ECM&ICIs_scopus.csv?download=1"
@@ -39,7 +39,7 @@ sco5 = pd.read_csv(
 
 sco = pd.concat([sco1, sco3, sco4, sco5])
 sco = utils.extract_doi(sco, "DOI")
-sco = utils.rename_columns(sco, title="Title", year="Year")
+sco = utils.rename_columns(sco, title="Title", year="Year", authors="Authors")
 
 sco2 = pd.read_csv(
     "https://zenodo.org/records/8348665/files/ECM&immunoth&marker_scopus.csv?download=1",

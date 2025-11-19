@@ -8,7 +8,7 @@ import utils
 df = pd.read_excel("https://osf.io/sjzr5/download", sheet_name="Sheet1")
 
 df = utils.extract_doi(df, "Link")
-df = utils.rename_columns(df, title="Title", year="Year")
+df = utils.rename_columns(df, title="Title", year="Year", abstract="Abstract ", authors="Authors")
 
 # Rename long column name and get labels 
 df = df.rename(

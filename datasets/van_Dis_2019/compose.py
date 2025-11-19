@@ -10,7 +10,7 @@ excluded_ft = pd.read_csv("https://osf.io/puwrd/download")
 excluded_tiab = pd.read_csv("https://osf.io/3grcz/download")
 
 df = utils.combine_datafiles(excluded_tiab, ft, excluded_ft)
-df = utils.rename_columns(df, title="Title", year="Published Year")
+df = utils.rename_columns(df, title="Title", year="Published Year", abstract="Abstract", authors="Authors")
 df = utils.extract_doi(df, "DOI")
 
 # fix broken DOI that break openalex/pyalex

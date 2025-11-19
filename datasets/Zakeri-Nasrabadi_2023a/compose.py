@@ -15,7 +15,7 @@ search = sheets["All"]
 tiab = sheets["exclusion_passed"]
 ft = sheets["inclusion-passed"]
 
-search = utils.rename_columns(search, title="Title")
+search = utils.rename_columns(search, title="Title", authors="Authors")
 tiab = utils.rename_columns(tiab, title="Title")
 ft = utils.rename_columns(ft, title="Titles")
 

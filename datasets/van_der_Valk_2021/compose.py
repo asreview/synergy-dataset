@@ -14,6 +14,7 @@ df = utils.rename_columns(
     ft_label="Included_fulltext",
     ti_ab_label="Included_abstract",
     year="Publication Year",
+    authors="Author"
 )
 df = utils.drop_duplicates(df)
 

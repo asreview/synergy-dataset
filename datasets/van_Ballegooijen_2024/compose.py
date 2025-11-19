@@ -10,9 +10,12 @@ import utils
 search_1 = RISReader.read_data(
     "https://zenodo.org/records/15063583/files/My%20EndNote%20Library_vanBallegooijen_20210409.txt?download=1"
 )
+
 search_2 = pd.read_csv(
     "https://zenodo.org/records/15063583/files/update%202024%20search%20results.csv?download=1"
 )
+search_2 = utils.rename_columns(search_2, abstract="Abstract Note", authors="Author")
+
 col_names = [
     "type",
     "authors",
@@ -39,6 +42,7 @@ search = pd.concat([search_1, search_2, search_3])
 ft_exclusions = pd.read_csv(
     "https://zenodo.org/records/15063583/files/review_63783_excluded_csv_20241003192320.csv?download=1"
 )
+ft_exclusions = utils.rename_columns(ft_exclusions, abstract="Abstract", authors="Authors")
 ft = pd.read_csv(
     "https://zenodo.org/records/15063583/files/full_text_inclusions.csv?download=1"
 )

@@ -10,7 +10,7 @@ df = pd.read_csv(
     encoding="iso-8859-1",
 )
 
-df = utils.rename_columns(df, title="Document Title", year="Year")
+df = utils.rename_columns(df, title="Document Title", year="Year", abstract="Abstract")
 df = utils.extract_labels(df, "label", "yes")
 
 # Write output

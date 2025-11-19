@@ -7,7 +7,7 @@ import utils
 # get data
 # data doi: 10.25340/R4/VB85L1 (download requires extra popup, so using downloaded file)
 search = pd.read_excel("data/Ali et al datasets.xlsx", sheet_name="Pierre-Antoine")
-search = utils.rename_columns(search, title="Title", ti_ab_label="Label")
+search = utils.rename_columns(search, title="Title", ti_ab_label="Label", abstract="Abstract")
 
 # FT taken from paper references
 inclusions = [
