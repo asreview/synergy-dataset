@@ -81,14 +81,8 @@ for dataset in tqdm(config.get("datasets", []), desc="Processing datasets"):
                     )
 
     # Save final labels.csv
+    out_path = Path("..", "synergy-release-datasets", key_name)
+    out_path.mkdir(parents=True, exist_ok=True)  # creates any missing folders
+    
     df_works_to_labels = pd.DataFrame(works_to_labels)
-    if len(labels) != len(works_to_labels):
-        print(f"Warning: Mismatch in number of labels for dataset {key_name}")
-        df_works_to_labels.to_csv(
-            Path("..", "synergy-release-abstracts", key_name, "labels_mismatch.csv"),
-            index=False,
-        )
-    else:
-        df_works_to_labels.to_csv(
-            Path("..", "synergy-release-abstracts", key_name, "labels.csv"), index=False
-        )
+    df_works_to_labels.to_csv(Path(out_path, "labels.csv"), index=False)
