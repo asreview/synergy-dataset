@@ -14,18 +14,26 @@ def test_datasets_toml():
 
 
 def test_dataset_keys():
-
-    skip_checks = ["Giesen_2021", "Farisogullari_2023", "Improve_todo", "Abgaz_2023"]
+    skip_checks = ["Improve"]
 
     with open("datasets.toml") as f:
         datasets = tomllib.loads(f.read())
 
     for dataset in datasets["datasets"]:
-
+        print(dataset["key"], flush=True)
         if dataset["key"] in skip_checks:
             continue
-
-        work = pyalex.Works()["https://doi.org/" + dataset["publication"]["doi"]]
+        if dataset["key"] == "Farisogullari_2023":
+            dataset["key"] = "Farisogulları_2023"
+        if dataset["key"] == "Giesen_2021":
+            dataset["key"] = "Bakker-Jacobs_2021"
+        
+        if dataset["key"] == "Aouad_2024":
+            work = pyalex.Works()["https://openalex.org/W4396814222"]
+        elif dataset["key"] == "Hilfiker_2017":
+            work = pyalex.Works()["https://openalex.org/W2612715342"]
+        else:
+            work = pyalex.Works()["https://doi.org/" + dataset["publication"]["doi"]]
 
         surname = work["authorships"][0]["author"]["display_name"].split(" ")[-1]
         surname = surname.replace("‐", "-").replace("–", "-").replace("—", "-").replace("−", "-")
