@@ -39,5 +39,7 @@ ft = utils.extract_pmid(ft, "PMID")
 df = utils.combine_datafiles(search, ft, tiab)
 df = utils.drop_duplicates(df)
 
+df["doi"] = df["doi"].fillna("").astype(str).str.strip().str.rstrip(",")
+
 # Write output
 utils.write_ids_files("Dolinska_2022", df)
