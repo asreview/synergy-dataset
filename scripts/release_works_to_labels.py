@@ -33,6 +33,7 @@ for dataset in tqdm(config.get("datasets", []), desc="Processing datasets"):
     labels = pd.read_csv(
         Path("..", "synergy-release-abstracts", key_name, "labels.csv")
     )
+    labels["openalex_id_split"] = labels["openalex_id"].apply(lambda x: x.strip().lower().split("/")[-1])
 
     with ZipFile(zip_path, "r") as zip_file:
         for fn in zip_file.namelist():
@@ -49,7 +50,7 @@ for dataset in tqdm(config.get("datasets", []), desc="Processing datasets"):
                     oa_status = open_access.get("oa_status", "unknown")
                     language = work.get("language", "unknown")
 
-                    label_row = labels.loc[labels["openalex_id"] == openalex_id]
+                    label_row = labels.loc[labels["openalex_id"] == openalex_id.strip().lower().split("/")[-1]]
 
                     doi = (
                         label_row["doi"].values[0]
