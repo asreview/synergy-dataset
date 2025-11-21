@@ -24,7 +24,7 @@ inclusions = [
     {"doi": "https://doi.org/10.1016/j.cedpsych.2016.07.004"},
     {"doi": "https://doi.org/10.1598/RRQ.44.1.1"},
     {"doi": "https://doi.org/10.1016/j.learninstruc.2010.02.002"},
-    {"doi": "https://doi.org/10.1207/S1532690XC12004_2"},
+    {"doi": "https://doi.org/10.1207/S1532690XCI2004_2"},
     {"doi": "https://doi.org/10.1002/tea.21172"},
     {"doi": "https://doi.org/10.1007/s11145-020-10030-8"},
     {"doi": "https://doi.org/10.1016/S0747-5632(03)00021-9"},
