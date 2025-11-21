@@ -542,7 +542,7 @@ def check_record_set(title, title_to_match, abstract, authors, year, variant):
             good_matches = (
                 exact_year_matches if exact_year_matches else fuzzy_year_matches
             )
-        elif len(title_to_match) >= 35:
+        if len(title_to_match) >= 35 and not good_matches:
             extension = "_ranked_longtitle"
             good_matches = matches_title
 
