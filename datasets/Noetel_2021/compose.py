@@ -25,7 +25,7 @@ inclusions = [
     {"doi": "https://doi.org/10.1007/s10648-010-9126-7", "openalex_id": "nan"},
     {"doi": "https://doi.org/10.4018/978-1-5225-7663-1.ch028", "openalex_id": "nan"},
     {"doi": "https://doi.org/10.32890/mjli2019.16.1.6", "openalex_id": "nan"},
-    {"doi": "https://dl.acm.org/doi/proceedings/10.5555/1562524", "openalex_id": "nan"},
+    {"doi": "nan", "openalex_id": "https://openalex.org/W106736675"},
     {"doi": "https://doi.org/10.1016/j.system.2013.07.013", "openalex_id": "nan"},
     {"doi": "https://doi.org/10.5539/ies.v8n13p73", "openalex_id": "nan"},
     {"doi": "https://doi.org/10.1007/s10936-011-9180-4", "openalex_id": "nan"},
