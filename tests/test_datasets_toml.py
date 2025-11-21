@@ -26,10 +26,14 @@ def test_dataset_keys():
         if dataset["key"] == "Giesen_2021":
             dataset["key"] = "Bakker-Jacobs_2021"
 
-        if dataset["key"] == "Aouad_2024":
+        if dataset["key"] == "Abgaz_2023":
+            work = pyalex.Works()["https://openalex.org/W4381803634"]
+        elif dataset["key"] == "Aouad_2024":
             work = pyalex.Works()["https://openalex.org/W4396814222"]
         elif dataset["key"] == "Hilfiker_2017":
             work = pyalex.Works()["https://openalex.org/W2612715342"]
+        elif dataset["key"] == "Moseng_2024":
+            work = pyalex.Works()["https://openalex.org/W4390753804"]
         else:
             work = pyalex.Works()["https://doi.org/" + dataset["publication"]["doi"]]
 
