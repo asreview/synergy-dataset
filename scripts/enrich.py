@@ -709,8 +709,12 @@ if __name__ == "__main__":
                 df["openalex_id"] = df["openalex_id"].astype("string")
                 df["method"] = df["method"].astype("string")
 
+                # Assign returned list to the subset
                 df.loc[subset, "openalex_id"] = oaid
-                df.loc[subset, "method"] = f"id_retrieval_{id_type}"
+                
+                # Only mark method for rows where an actual openalex_id was found
+                found_mask = subset & df["openalex_id"].notnull()
+                df.loc[found_mask, "method"] = f"id_retrieval_{id_type}"
 
             if args.title_search:
                 try:
