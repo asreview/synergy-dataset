@@ -16,7 +16,7 @@ inclusions = [
     {"openalex_id": "", "doi": "https://doi.org/10.1007/s12671-016-0603-z"},
     {"openalex_id": "", "doi": "https://doi.org/10.1037/a0027537"},
     {"openalex_id": "", "doi": "https://doi.org/10.1080/10409289.2013.755457"},
-    {"openalex_id": "", "doi": " https://doi.org/10.1037/a0018160"},
+    {"openalex_id": "", "doi": "https://doi.org/10.1037/a0018160"},
     {"openalex_id": "", "doi": "https://doi.org/10.11114/jets.v1i2.203"},
     {"openalex_id": "", "doi": "https://doi.org/10.14204/ejrep.43.17068"},
     {"openalex_id": "", "doi": "https://doi.org/10.17105/SPR-2018-0003.V48-1"},
