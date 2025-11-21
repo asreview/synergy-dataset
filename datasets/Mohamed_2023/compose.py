@@ -131,7 +131,7 @@ inclusions = [
     {"openalex_id": "", "doi": "https://doi.org/10.1158/1055-9965.epi-10-0467"},
     {"openalex_id": "", "doi": "https://doi.org/10.1111/cas.14387"},
     {"openalex_id": "", "doi": "https://doi.org/10.3390/bios12020127"},
-    {"openalex_id": "", "doi": "http://ci.nii.ac.jp/naid/30034122752"},
+    {"openalex_id": "", "doi": "https://doi.org/10.1016/0169-5002(96)84286-3"},
     {"openalex_id": "", "doi": "https://doi.org/10.1002/prca.201900095"},
     {"openalex_id": "", "doi": "https://doi.org/10.1097/md.0000000000032733"},
     {"openalex_id": "", "doi": "https://doi.org/10.1186/s12890-022-02267-6"},
