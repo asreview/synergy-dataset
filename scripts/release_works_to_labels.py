@@ -1,4 +1,4 @@
-# python scripts/create_datasets.py
+# python scripts/release_works_to_labels.py
 
 import json
 from pathlib import Path
@@ -9,6 +9,7 @@ import tomli
 from tqdm import tqdm
 
 
+# Convert an "inverted abstract" mapping (token -> list of positions) back into a regular abstract string.
 def uninvert_abstract(inverted):
     if not inverted:
         return ""
@@ -33,7 +34,12 @@ for dataset in tqdm(config.get("datasets", []), desc="Processing datasets"):
     labels = pd.read_csv(
         Path("..", "synergy-release-abstracts", key_name, "labels.csv")
     )
-    labels["openalex_id_split"] = labels["openalex_id"].apply(lambda x: x.strip().lower().split("/")[-1])
+
+    # Extract the OpenAlex identifier (last URL path segment), normalized (stripped + lowercased)
+    # into `openalex_id_split` for reliable downstream comparisons
+    labels["openalex_id_split"] = labels["openalex_id"].apply(
+        lambda x: x.strip().lower().split("/")[-1]
+    )
 
     with ZipFile(zip_path, "r") as zip_file:
         for fn in zip_file.namelist():
@@ -50,7 +56,10 @@ for dataset in tqdm(config.get("datasets", []), desc="Processing datasets"):
                     oa_status = open_access.get("oa_status", "unknown")
                     language = work.get("language", "unknown")
 
-                    label_row = labels.loc[labels["openalex_id"] == openalex_id.strip().lower().split("/")[-1]]
+                    label_row = labels.loc[
+                        labels["openalex_id"]
+                        == openalex_id.strip().lower().split("/")[-1]
+                    ]
 
                     doi = (
                         label_row["doi"].values[0]
@@ -84,6 +93,6 @@ for dataset in tqdm(config.get("datasets", []), desc="Processing datasets"):
     # Save final labels.csv
     out_path = Path("..", "synergy-release-datasets", key_name)
     out_path.mkdir(parents=True, exist_ok=True)  # creates any missing folders
-    
+
     df_works_to_labels = pd.DataFrame(works_to_labels)
     df_works_to_labels.to_csv(Path(out_path, "labels.csv"), index=False)

@@ -24,7 +24,9 @@ def enrich_abstracts_in_zip(src_path, dest_path):
                 works = json.loads(f.read())
 
                 for work in works:
-                    # insert abstract if available and if not already present
+                    # Replace abstract when we have a "better" one:
+                    # use researcher-provided if it exists and is >20 chars,
+                    # or if there is no abstract present yet.
                     if (
                         ABS_DICT.get(work["id"], None)
                         and len(ABS_DICT[work["id"]]) > 20
