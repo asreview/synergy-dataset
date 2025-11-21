@@ -21,7 +21,7 @@ inclusions = [
     {"openalex_id": "", "doi": "10.1007/s10212-010-0020-y"},
     {"openalex_id": "", "doi": "10.1007/s10212-013-0196-z"},
     {"openalex_id": "", "doi": "10.1007/s11423-020-09781-6"},
-    {"openalex_id": "", "doi": "10.1016/j.cedpsych.205.02.002"},
+    {"openalex_id": "", "doi": "10.1016/j.cedpsych.2005.02.002"},
     {"openalex_id": "", "doi": "10.1016/j.iheduc.2016.07.002"},
     {"openalex_id": "", "doi": "10.1016/j.ijer.2016.05.010"},
     {"openalex_id": "", "doi": "10.1016/j.jarmac.2020.03.004"},
