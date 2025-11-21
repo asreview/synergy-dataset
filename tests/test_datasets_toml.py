@@ -19,7 +19,6 @@ def test_dataset_keys():
         datasets = tomllib.loads(f.read())
 
     for dataset in datasets["datasets"]:
-        print(dataset["key"], flush=True)
         if dataset["key"] in skip_checks:
             continue
         if dataset["key"] == "Farisogullari_2023":
