@@ -362,15 +362,19 @@ def levenshtein_distance(a: str, b: str, cutoff: int = 3) -> int:
 
 # Does a single query on OpenAlex for 1 title.
 def titlesearch_openalex(title):
-    try:
-        r = Works(params={"filter": {"title.search": title}}).version(2).get()
-    except requests.exceptions.JSONDecodeError:
-        sleep(5)
-        r = Works(params={"filter": {"title.search": title}}).version(2).get()
-    except requests.exceptions.RetryError:
-        print("retry error for " + title)
-        r = []
-    return r
+    # OpenAlex uses a 2048 character limit for title searches, so we ensure we do not exceed
+    if len(title) <= 2000:
+        try:
+            r = Works(params={"filter": {"title.search": title}}).version(2).get()
+        except requests.exceptions.JSONDecodeError:
+            sleep(5)
+            r = Works(params={"filter": {"title.search": title}}).version(2).get()
+        except requests.exceptions.RetryError:
+            print("retry error for " + title)
+            r = []
+        return r
+    else:
+        return []
 
 
 # Filters list of OpenAlex works based on given title
