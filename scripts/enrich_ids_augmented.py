@@ -177,9 +177,7 @@ def fill_missing_abstracts(df, lens_api_key, batch_size=10):
 
     df["doi_normalized"] = df["doi"].apply(normalize_doi)
 
-    mask = (~df["abstract_ok"] | (df["abstract_method"] == "crossref")) & (
-        df["doi"].str.strip().str.len() > 5
-    )
+    mask = (~df["abstract_ok"]) & (df["doi"].str.strip().str.len() > 5)
 
     need = df.loc[mask, "doi_normalized"].str.strip().tolist()
 
@@ -213,7 +211,7 @@ def fill_missing_abstracts(df, lens_api_key, batch_size=10):
 
                 # 2) Fallback: Crossref
                 crossref_abs = normalize_abstract(fetch_crossref_abstract(doi))
-                if word_count(crossref_abs) >= 20:
+                if word_count(crossref_abs) >= 20 or char_count(crossref_abs) >= 100:
                     df.at[idx, "abstract"] = crossref_abs
                     df.at[idx, "abstract_ok"] = True
                     df.at[idx, "abstract_method"] = "crossref"
