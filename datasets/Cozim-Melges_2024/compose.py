@@ -35,6 +35,7 @@ nt_ew_br = utils.extract_labels(nt_ew_br, "inclusion", "yes")
 
 bc2 = sheets["birds_cropland"]
 bc2["subset"] = "birds_cropland"
+bc2["Title"] = bc2["Article Title"]
 bc2 = utils.extract_labels(bc2, "status", "selected")
 
 set1 = pd.concat([bc, wc, nt_ew_br, bc2])
