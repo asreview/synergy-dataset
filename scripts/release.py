@@ -1,3 +1,5 @@
+# python scripts/release.py -d Meijboom_2022 
+
 import argparse
 import json
 import logging

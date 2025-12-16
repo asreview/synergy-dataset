@@ -1,4 +1,4 @@
-# python scripts/release_insert_abstracts.py all_inverted_abstracts.json
+# python scripts/release_insert_abstracts.py
 
 import argparse
 import json

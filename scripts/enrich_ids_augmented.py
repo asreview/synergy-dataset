@@ -1,3 +1,5 @@
+# python scripts/enrich_ids_augmented.py
+
 import re
 import time
 from collections import deque
