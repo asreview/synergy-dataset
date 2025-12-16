@@ -12,7 +12,7 @@ SEED = 535
 
 
 def abs_length_ok(row):
-    return len(str(row["abstract"]).split()) >= 20 or len(str(row["abstract"]) >= 100)
+    return len(str(row["abstract"]).split()) >= 20 or len(str(row["abstract"])) >= 100
 
 
 with open("datasets.toml", "rb") as fp:
