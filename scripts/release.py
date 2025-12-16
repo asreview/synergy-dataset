@@ -25,7 +25,7 @@ def stats(labels_path):
 
 
 def package(dataset_name, output_folder):
-    fps = list(glob(str(Path("datasets", "*", f"{dataset_name}_ids.csv"))))[0]
+    fps = list(glob(str(Path("datasets", "*", f"{dataset_name}_ids_augmented.csv"))))[0]
 
     df = pd.read_csv(fps)
 
@@ -52,7 +52,14 @@ def package(dataset_name, output_folder):
         result["pmid"] = None
 
     result = result[
-        ["openalex_id", "doi", "pmid", "label_included", "label_abstract_included"]
+        [
+            "openalex_id",
+            "doi",
+            "pmid",
+            "lens_id",
+            "label_included",
+            "label_abstract_included",
+        ]
     ]
 
     if len(result) == 0:
@@ -134,7 +141,6 @@ if __name__ == "__main__":
     )
 
     parser.add_argument("-d", "--dataset_name", default=None)
-    # parser.add_argument("--meta")
     args = parser.parse_args()
 
     with open("datasets.toml", "rb") as fp:
