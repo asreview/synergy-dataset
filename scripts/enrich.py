@@ -682,6 +682,7 @@ if __name__ == "__main__":
             print(f"Not active {dataset['key']}")
             continue
 
+        print("\nProcessing dataset:", dataset["key"])
         ds_glob = Path(
             list(glob(str(Path("datasets", "*", f"{dataset['key']}_ids.csv"))))[0]
         )
@@ -715,7 +716,7 @@ if __name__ == "__main__":
 
                 # Assign returned list to the subset
                 df.loc[subset, "openalex_id"] = oaid
-                
+
                 # Only mark method for rows where an actual openalex_id was found
                 found_mask = subset & df["openalex_id"].notnull()
                 df.loc[found_mask, "method"] = f"id_retrieval_{id_type}"
