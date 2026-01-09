@@ -78,7 +78,7 @@ for dataset in config["datasets"]:
             .get(per_page=page_length)
         ):
             if work["doi"]:
-                df.loc[df["openalex_id"] == work["id"], "doi"] = work["doi"]
+                df.loc[df["openalex_id"].str.lower() == str(work["id"]).lower(), "doi"] = work["doi"]
 
     # write csv
     df.to_csv(str(aug_path), index=False)
