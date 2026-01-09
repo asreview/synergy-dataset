@@ -70,6 +70,7 @@ for dataset in tqdm(config.get("datasets", []), desc="Processing datasets"):
                             "pmid": label_row["pmid"].values[0]
                             if not label_row.empty
                             else "",
+                            "lens_id": label_row["lens_id"].values[0],
                             "label_included": label_row["label_included"].values[0]
                             if not label_row.empty
                             else "",
