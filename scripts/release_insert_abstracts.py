@@ -69,7 +69,7 @@ def enrich_abstracts_in_zip(src_path, dest_path, ids_augmented_path):
         ZipFile(src_path, "r") as zip_full,
         ZipFile(dest_path, "w", ZIP_DEFLATED) as zip_lite,
     ):
-        ids_augmented = pd.read_csv(ids_augmented_path, encoding="latin1")
+        ids_augmented = pd.read_csv(ids_augmented_path)
 
         if not ids_augmented.empty:
             ids_augmented["openalex_id_lc"] = ids_augmented["openalex_id"].str.lower()
@@ -93,10 +93,10 @@ def enrich_abstracts_in_zip(src_path, dest_path, ids_augmented_path):
 
                     row = ids_augmented.loc[mask].iloc[0]
 
+                    oa_abstract = normalize_abstract(uninvert_abstract(work.get("abstract_inverted_index", None)))
+
                     # If yes, check if abstract_ok is True, or if no abstract exists in work
-                    if row["abstract_ok"] or not bool(
-                        work.get("abstract_inverted_index")
-                    ):
+                    if row["abstract_ok"] and (len(row["abstract"]) >= (len(oa_abstract) - 50) or "???" in oa_abstract):
                         # If True, replace abstract_inverted_index with inverted abstract
                         # from ids_augmented (user, the lens, or crossref abstract)
                         try:
@@ -116,7 +116,6 @@ def enrich_abstracts_in_zip(src_path, dest_path, ids_augmented_path):
                     # the uninverted abstract from open alex in ids_augmented
                     else:
                         # Keep OA abstract but normalize it first, and store uninverted version
-                        oa_abstract = normalize_abstract(uninvert_abstract(work["abstract_inverted_index"]))
                         work["abstract_inverted_index"] = invert_abstract(oa_abstract)
 
                         ids_augmented.loc[mask, "abstract"] = oa_abstract

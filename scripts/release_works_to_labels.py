@@ -56,7 +56,7 @@ for dataset in tqdm(config.get("datasets", []), desc="Processing datasets"):
                         )
                     doi = (
                         work.get("doi")
-                        if len(work.get("doi", "")) > 5
+                        if work.get("doi") and len(work.get("doi", "")) > 5
                         else (
                             label_row["doi"].values[0]
                             if not label_row.empty and pd.notna(label_row["doi"].values[0])

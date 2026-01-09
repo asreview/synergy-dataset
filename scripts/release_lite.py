@@ -1,3 +1,5 @@
+# python scripts/release_lite.py
+
 from pathlib import Path
 import argparse
 import shutil
