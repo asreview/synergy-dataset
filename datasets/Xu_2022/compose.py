@@ -24,6 +24,7 @@ inclusions = [
     {"openalex_id": "https://openalex.org/W1888574849", "doi": ""},
     {"openalex_id": "https://openalex.org/W2898593075", "doi": ""},
     {"openalex_id": "https://openalex.org/W2121332991", "doi": ""},
+    {"openalex_id": "https://openalex.org/W7073764529", "doi": ""},
     {"openalex_id": "", "doi": "10.1007/bf02207908"},
     {"openalex_id": "", "doi": "10.1007/BF03025354"},
     {"openalex_id": "", "doi": "10.1007/BF03025662"},
@@ -73,7 +74,6 @@ inclusions = [
     {"openalex_id": "", "doi": "10.5539/ies.v9n4p132"},
     {"openalex_id": "", "doi": "10.5539/jel.v7n2p89"},
     {"openalex_id": "", "doi": "10.5848/apbj.2012.00021"},
-    {"openalex_id": "", "doi": "10.7916/d82v2ghj"},
 ]
 
 ft = pd.DataFrame(inclusions)
