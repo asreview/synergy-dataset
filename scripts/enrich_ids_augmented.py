@@ -82,7 +82,7 @@ class LensAPI:
             doi = ""
             for id in ext_ids:
                 if id.get("type") == "doi":
-                    doi = id.get("value")
+                    doi = id.get("value").strip().lower()
                     if doi in doi_list:
                         break
 
@@ -155,7 +155,7 @@ def normalize_doi(doi):
     if not isinstance(doi, str):
         return None
 
-    doi = doi.strip()
+    doi = doi.strip().lower()
 
     if doi.lower().startswith("https://doi.org/"):
         doi = doi[len("https://doi.org/") :]
