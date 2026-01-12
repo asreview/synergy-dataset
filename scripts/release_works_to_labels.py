@@ -28,7 +28,9 @@ for dataset in tqdm(config.get("datasets", []), desc="Processing datasets"):
     works_to_labels = []
     key_name = dataset["key"]
     zip_path = Path("..", "synergy-release-abstracts", key_name, "works_1.zip")
-    labels = pd.read_csv(Path("..", "synergy-release-abstracts", key_name, "labels.csv"))
+    labels = pd.read_csv(
+        Path("..", "synergy-release-abstracts", key_name, "labels.csv")
+    )
     labels["openalex_id_split"] = labels["openalex_id"].apply(
         lambda x: x.strip().lower().split("/")[-1]
     )
@@ -59,7 +61,8 @@ for dataset in tqdm(config.get("datasets", []), desc="Processing datasets"):
                         if work.get("doi") and len(work.get("doi", "")) > 5
                         else (
                             label_row["doi"].values[0]
-                            if not label_row.empty and pd.notna(label_row["doi"].values[0])
+                            if not label_row.empty
+                            and pd.notna(label_row["doi"].values[0])
                             else ""
                         )
                     )
@@ -70,7 +73,9 @@ for dataset in tqdm(config.get("datasets", []), desc="Processing datasets"):
                             "pmid": label_row["pmid"].values[0]
                             if not label_row.empty
                             else "",
-                            "lens_id": label_row["lens_id"].values[0],
+                            "lens_id": label_row["lens_id"].values[0]
+                            if not label_row.empty
+                            else "",
                             "label_included": label_row["label_included"].values[0]
                             if not label_row.empty
                             else "",
