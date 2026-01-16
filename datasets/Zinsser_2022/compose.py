@@ -7,6 +7,7 @@ import utils
 # get search
 search = pd.read_csv("https://osf.io/xg6df/download")
 search.rename(columns={"label_included": "label_abstract_included"}, inplace=True)
+search = utils.extract_doi(search, "doi", "", "", True)
 
 # FT taken from paper references
 inclusions = [

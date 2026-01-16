@@ -136,7 +136,7 @@ inclusions = [
     {"doi": "https://doi.org/10.1182/blood-2016-03-705780"},
     {"doi": "https://doi.org/10.4049/jimmunol.1700529"},
     {"doi": "https://doi.org/10.3389/fonc.2021.761030"},
-    {"doi": "https://doi.org/ 10.1080/15384101.2022.2154551"},
+    {"doi": "https://doi.org/10.1080/15384101.2022.2154551"},
     {"doi": "https://doi.org/10.3390/cancers12102786"},
     {"doi": "https://doi.org/10.1186/s40425-018-0474-z"},
     {"doi": "https://doi.org/10.1136/jitc-2020-001193"},
