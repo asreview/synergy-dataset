@@ -1,2 +1,10 @@
+bs4
+matplotlib
+networkx
+numpy
 pandas
+pyalex
 requests
+seaborn
+tomli
+tqdm

@@ -1,8 +1,5 @@
-$pythonProgramPath = "C:\Program Files\Python311\python.exe"
-Set-Location -Path "C:\Users\Weste095\Documents\repos\emilywes\synergy-dataset\datasets"
-Get-ChildItem -Directory | ForEach-Object {
-	Set-Location -Path "$($_.FullName)"
-    & $pythonProgramPath "compose.py"
+Get-ChildItem "$PSScriptRoot\..\datasets" -Directory | ForEach-Object {
+    Push-Location $_.FullName
+    python compose.py
+    Pop-Location
 }
-
-Set-Location -Path "C:\Users\Weste095\Documents\repos\emilywes\synergy-dataset\scripts"

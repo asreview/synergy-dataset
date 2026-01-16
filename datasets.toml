@@ -838,22 +838,6 @@ We excluded trials comparing drugs or nutritional supplementations, acupuncture,
 
 [[datasets]]
 
-  key = "Monschau_2025"
-
-  [datasets.publication]
-  doi = "10.31234/osf.io/zg3sw_v1"
-  eligibility_criteria = """1. Study Type Eligible are systematic reviews, literature reviews or meta-analytical publications. Importantly, relevant publications synthesize pre-existing primary research.
-2. Content Contains patient-generated health data (PGHD). PGHD are created by and captured from patients outside of clinical settings. Examples include but are not limited to self-report, sleep trackers, fitness trackers, continuous glucose monitors, and RFID-enabled implants. These data are commonly categorized as: Patient-reported experience measures (PREMs), patient-reported outcome measures (PROMs) and patient preference information (PPI).
-3.Population Included are studies examining adult human subjects (    16 years old). Only those reviews and ≥overviews where 80% of participants are adults ≥ should be included.
-4.Condition Type Studies examining both chronic and acute physical conditions are eligible.
-5.Treatment Study analyzes PGHD to any kind of treatment or medical recommendation.This includes not only medication taking, but also other health behaviors such as attending follow-up appointments,implementing lifestyle changes (e.g., avoiding certain foods,engaging in specific exercise) and using medical devices, among others"""
-
-  [datasets.data]
-  doi = "10.34894/EVYU9X"
-
-
-[[datasets]]
-
   key = "Kapuka_2021"
 
   [datasets.publication]
@@ -1070,6 +1054,22 @@ Exclusion criteria
 
   [datasets.data]
   url = "10.5281/zenodo.8240294"
+
+
+[[datasets]]
+
+  key = "Monschau_2025"
+
+  [datasets.publication]
+  doi = "10.31234/osf.io/zg3sw_v1"
+  eligibility_criteria = """1. Study Type Eligible are systematic reviews, literature reviews or meta-analytical publications. Importantly, relevant publications synthesize pre-existing primary research.
+2. Content Contains patient-generated health data (PGHD). PGHD are created by and captured from patients outside of clinical settings. Examples include but are not limited to self-report, sleep trackers, fitness trackers, continuous glucose monitors, and RFID-enabled implants. These data are commonly categorized as: Patient-reported experience measures (PREMs), patient-reported outcome measures (PROMs) and patient preference information (PPI).
+3.Population Included are studies examining adult human subjects (    16 years old). Only those reviews and ≥overviews where 80% of participants are adults ≥ should be included.
+4.Condition Type Studies examining both chronic and acute physical conditions are eligible.
+5.Treatment Study analyzes PGHD to any kind of treatment or medical recommendation.This includes not only medication taking, but also other health behaviors such as attending follow-up appointments,implementing lifestyle changes (e.g., avoiding certain foods,engaging in specific exercise) and using medical devices, among others"""
+
+  [datasets.data]
+  doi = "10.34894/EVYU9X"
 
 
 [[datasets]]
