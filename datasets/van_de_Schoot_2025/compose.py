@@ -23,6 +23,14 @@ df_update = utils.rename_columns(
 df_update = df_update[df_update["filter_duplicate"] != 1]
 
 df = pd.concat([df_relabeled, df_update])
+
+# A couple records had a trailing space
+df["openalex_id"]= df['openalex_id'].astype(str)
+df['openalex_id'] = df['openalex_id'].apply(lambda a: a.rstrip())
+
+# 1 record had works in the openalex link
+df['openalex_id'] = df['openalex_id'].apply(lambda a: a.replace("https://openalex.org/works/", "https://openalex.org/"))
+
 df = utils.drop_duplicates(df)
 
 # Write output
