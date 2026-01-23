@@ -39,7 +39,7 @@ for dataset in tqdm(config.get("datasets", []), desc="Processing datasets"):
             with zip_file.open(fn) as f:
                 works = json.loads(f.read())
                 for work in works:
-                    openalex_id = work["id"]
+                    openalex_id = work["id"].lower()
                     title = work.get("title", "")
                     abstract = uninvert_abstract(
                         work.get("abstract_inverted_index", {})
