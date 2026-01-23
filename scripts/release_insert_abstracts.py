@@ -9,6 +9,7 @@ from collections import defaultdict
 from pathlib import Path
 from zipfile import ZIP_DEFLATED, ZipFile
 
+from matplotlib.pyplot import stem
 import pandas as pd
 from bs4 import BeautifulSoup, MarkupResemblesLocatorWarning
 from tqdm import tqdm
@@ -142,11 +143,13 @@ def enrich_abstracts_in_zip(src_path, dest_path, input_path):
 
                 # write result to new zip and update ids_input
                 zip_lite.writestr(fn, json.dumps(works_abs))
-
+            
             if "_final" not in input_path.stem:
+                base, _, _ = input_path.stem.partition("_ids")
+                out_stem = f"{base}_ids_final"
+
                 ids_input.to_csv(
-                    input_path.parent
-                    / f"{input_path.stem[:-7]}_final{input_path.suffix}",
+                    input_path.parent / f"{out_stem}{input_path.suffix}",
                     index=False,
                 )
 
