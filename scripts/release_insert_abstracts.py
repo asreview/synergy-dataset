@@ -4,12 +4,17 @@ import argparse
 import json
 import re
 import shutil
+import warnings
 from collections import defaultdict
 from pathlib import Path
 from zipfile import ZIP_DEFLATED, ZipFile
 
+from matplotlib.pyplot import stem
 import pandas as pd
-from bs4 import BeautifulSoup
+from bs4 import BeautifulSoup, MarkupResemblesLocatorWarning
+from tqdm import tqdm
+
+warnings.filterwarnings("ignore", category=MarkupResemblesLocatorWarning)
 
 ABS_DICT = None
 
@@ -63,16 +68,18 @@ def normalize_abstract(abstract):
     return abstract
 
 
-def enrich_abstracts_in_zip(src_path, dest_path, ids_augmented_path):
+def enrich_abstracts_in_zip(src_path, dest_path, input_path):
     # read files in zip of src_path one by one and extract them
     with (
         ZipFile(src_path, "r") as zip_full,
         ZipFile(dest_path, "w", ZIP_DEFLATED) as zip_lite,
     ):
-        ids_augmented = pd.read_csv(ids_augmented_path)
+        ids_input = pd.read_csv(input_path)
+        if "adjustments" not in ids_input.columns:
+            ids_input["adjustments"] = ""
 
-        if not ids_augmented.empty:
-            ids_augmented["openalex_id_lc"] = ids_augmented["openalex_id"].str.lower()
+        if not ids_input.empty:
+            ids_input["openalex_id_lc"] = ids_input["openalex_id"].str.lower()
 
             # unzip files in zip_full one by one and load them in json format
             for fn in zip_full.namelist():
@@ -84,21 +91,29 @@ def enrich_abstracts_in_zip(src_path, dest_path, ids_augmented_path):
                 for work in works:
                     work_id = work["id"].lower()
 
-                    # For each work, check if its openalex_id is in ids_augmented
-                    mask = ids_augmented["openalex_id_lc"] == work_id
+                    # For each work, check if its openalex_id is in ids_input
+                    mask = ids_input["openalex_id_lc"] == work_id
                     if not mask.any():
                         works_abs.append(work)
-                        print(f"Work id {work_id} not found in ids_augmented")
+                        print(
+                            f"Work id {work_id} not found in {input_path.stem}, skipping"
+                        )
                         continue
 
-                    row = ids_augmented.loc[mask].iloc[0]
+                    row = ids_input.loc[mask].iloc[0]
 
-                    oa_abstract = normalize_abstract(uninvert_abstract(work.get("abstract_inverted_index", None)))
+                    oa_abstract = normalize_abstract(
+                        uninvert_abstract(work.get("abstract_inverted_index", None))
+                    )
 
                     # If yes, check if abstract_ok is True, or if no abstract exists in work
-                    if row["abstract_ok"] and (len(row["abstract"]) >= (len(oa_abstract) - 50) or "???" in oa_abstract):
+                    if row["abstract_ok"] and (
+                        (row["adjustments"] != "")
+                        or (len(str(row["abstract"])) >= (len(oa_abstract) - 50))
+                        or (("???" in oa_abstract) and ("???" not in str(row["abstract"])))
+                    ):
                         # If True, replace abstract_inverted_index with inverted abstract
-                        # from ids_augmented (user, the lens, or crossref abstract)
+                        # from ids_input (user, the lens, or crossref abstract)
                         try:
                             work["abstract_inverted_index"] = invert_abstract(
                                 row["abstract"]
@@ -113,27 +128,30 @@ def enrich_abstracts_in_zip(src_path, dest_path, ids_augmented_path):
                             pass
 
                     # If False, keep the original abstract_inverted_index, but also store
-                    # the uninverted abstract from open alex in ids_augmented
+                    # the uninverted abstract from open alex in ids_input
                     else:
                         # Keep OA abstract but normalize it first, and store uninverted version
                         work["abstract_inverted_index"] = invert_abstract(oa_abstract)
 
-                        ids_augmented.loc[mask, "abstract"] = oa_abstract
-                        ids_augmented.loc[mask, "abstract_ok"] = (
+                        ids_input.loc[mask, "abstract"] = oa_abstract
+                        ids_input.loc[mask, "abstract_ok"] = (
                             len(oa_abstract.split()) >= 20 or len(oa_abstract) >= 100
                         )
-                        ids_augmented.loc[mask, "abstract_method"] = "open_alex"
+                        ids_input.loc[mask, "abstract_method"] = "open_alex"
 
                     works_abs.append(work)
 
-                # write result to new zip and update ids_augmented
+                # write result to new zip and update ids_input
                 zip_lite.writestr(fn, json.dumps(works_abs))
+            
+            if "_final" not in input_path.stem:
+                base, _, _ = input_path.stem.partition("_ids")
+                out_stem = f"{base}_ids_final"
 
-            ids_augmented.to_csv(
-                ids_augmented_path.parent
-                / f"{ids_augmented_path.stem}_updated{ids_augmented_path.suffix}",
-                index=False,
-            )
+                ids_input.to_csv(
+                    input_path.parent / f"{out_stem}{input_path.suffix}",
+                    index=False,
+                )
 
 
 if __name__ == "__main__":
@@ -147,7 +165,7 @@ if __name__ == "__main__":
     )
     parser.add_argument(
         "-i",
-        "--ids_augmented_path",
+        "--input_path",
         type=Path,
         default=Path("..", "synergy-dataset", "datasets"),
     )
@@ -159,9 +177,19 @@ if __name__ == "__main__":
     )
     args = parser.parse_args()
 
-    for f in Path(args.source_path).iterdir():
-        if f.is_dir() and not f.name.startswith("."):
-            print(f.name)
+    dirs = sorted(
+        (
+            f
+            for f in Path(args.source_path).iterdir()
+            if f.is_dir() and not f.name.startswith(".")
+        ),
+        key=lambda p: p.name,
+    )
+
+    with tqdm(dirs, desc="Processing files") as pbar:
+        for f in pbar:
+            pbar.set_postfix(dataset=f.name)
+
             Path(args.output_path, f.name).mkdir(exist_ok=True, parents=True)
             shutil.copyfile(f / "labels.csv", args.output_path / f.name / "labels.csv")
             shutil.copyfile(
@@ -177,7 +205,6 @@ if __name__ == "__main__":
                 )
             except Exception:
                 pass
-
             shutil.copyfile(
                 f / "metadata_publication.json",
                 args.output_path / f.name / "metadata_publication.json",
@@ -185,7 +212,5 @@ if __name__ == "__main__":
             enrich_abstracts_in_zip(
                 f / "works_1.zip",
                 args.output_path / f.name / "works_1.zip",
-                ids_augmented_path=args.ids_augmented_path
-                / f.name
-                / f"{f.name}_ids_augmented.csv",
+                input_path=args.input_path / f.name / f"{f.name}_ids_merged.csv",
             )
