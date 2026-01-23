@@ -36,6 +36,8 @@ def test_dataset_keys():
             work = pyalex.Works()["https://openalex.org/W4390753804"]
         elif dataset["key"] == "Toffalini_2021":
             work = pyalex.Works()["https://openalex.org/W3134233509"]
+        elif dataset["key"] == "Zinsser_2022":
+            work = pyalex.Works()["https://openalex.org/W4210622355"]
         else:
             work = pyalex.Works()["https://doi.org/" + dataset["publication"]["doi"]]
 
