@@ -47,6 +47,9 @@ for dataset in config["datasets"]:
     np.random.shuffle(order_rows)
     df_ids["order"] = order_rows
 
+    # First lowercase all openalex_ids for matching
+    df_ids["openalex_id"] = df_ids["openalex_id"].str.lower()
+
     # drop na and duplicates on openalex_id
     df = (
         df_ids.sort_values(
