@@ -14,5 +14,8 @@ df = pd.read_csv(
 df = utils.extract_pmid(df, "PMID")
 df = utils.extract_labels(df, "inclusion", "include")
 
+# We remove this record since the abstract in the data file does not align with the PMID
+df = df[~df["pmid"].astype(str).str.contains("14713326", na=False)]
+
 # Write output
 utils.write_ids_files("Hilfiker_2017", df)
