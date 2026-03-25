@@ -1,7 +1,6 @@
 from asreview.data import RISReader
 
 import sys
-import pandas as pd
 
 sys.path.append("../../scripts")
 import utils
