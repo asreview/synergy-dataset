@@ -1,6 +1,7 @@
 from asreview.data import RISReader
 
 import sys
+import pandas as pd
 
 sys.path.append("../../scripts")
 import utils
@@ -26,6 +27,18 @@ df = utils.extract_doi(df, "doi", "", "", True)
 df = utils.extract_year(df, "publication_year")
 df = utils.rename_columns(df, title="primary_title", abstract="notes_abstract", authors="first_authors")
 df = utils.drop_duplicates(df)
+
+# This inclusion is not actually an inclusion in the main paper
+df.loc[
+    df["doi"].astype(str).str.contains("10.3389/fmars.2019.00775", na=False),
+    ["label_included", "label_abstract_included"]
+] = 0
+
+# This exclusion should be an inclusion
+df.loc[
+    df["doi"].astype(str).str.contains("10.5751/ES-08626-210330", na=False),
+    ["label_included", "label_abstract_included"]
+] = 1
 
 # Write output
 utils.write_ids_files("Wijnen_2024", df)

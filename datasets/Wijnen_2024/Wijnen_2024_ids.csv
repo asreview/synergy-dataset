@@ -1,5 +1,5 @@
 openalex_id,doi,pmid,label_included,label_abstract_included,method
-,https://doi.org/10.3389/fmars.2019.00775,,1,1,
+,https://doi.org/10.3389/fmars.2019.00775,,0,0,
 ,https://doi.org/10.22323/2.19030304,,1,1,
 ,https://doi.org/10.1016/j.crm.2018.01.001,,1,1,
 ,https://doi.org/10.3390/su12062323,,1,1,
@@ -32,7 +32,7 @@ openalex_id,doi,pmid,label_included,label_abstract_included,method
 ,,,0,1,
 ,https://doi.org/10.1175/BAMS-D-17-0332.1,,0,1,
 ,https://doi.org/10.3389/feduc.2019.00138,,0,1,
-,https://doi.org/10.5751/ES-08626-210330,,0,1,
+,https://doi.org/10.5751/ES-08626-210330,,1,1,
 ,,,0,1,
 ,https://doi.org/10.1088/1748-9326/abd4ac,,0,1,
 ,,,0,1,
