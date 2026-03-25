@@ -118,7 +118,6 @@ inclusions = [
     {"openalex_id": "https://openalex.org/w2965389562"},
     {"openalex_id": "https://openalex.org/w2991654324"},
     {"openalex_id": "https://openalex.org/w3015699786"},
-    {"openalex_id": "https://openalex.org/w3025947428"},
     {"openalex_id": "https://openalex.org/w3200351998"},
     {"openalex_id": "https://openalex.org/w37446783"},
     {"openalex_id": "https://openalex.org/w384811172"},
@@ -131,8 +130,11 @@ inclusions = [
     {"openalex_id": "https://openalex.org/w762178056"},
     {"openalex_id": "https://openalex.org/w78507310"},
     {"openalex_id": "https://openalex.org/w964321232"},
+    {"openalex_id": "https://openalex.org/w6964214270"},
+    {"openalex_id": "https://openalex.org/w3173380530"},
+    {"openalex_id": "https://openalex.org/w1515379320"},
+    {"openalex_id": "https://openalex.org/W87476178"},
 ]
-
 ft = pd.DataFrame(inclusions)
 ft["label_abstract_included"] = 1
 
