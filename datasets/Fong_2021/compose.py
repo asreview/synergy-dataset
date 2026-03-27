@@ -135,6 +135,9 @@ inclusions = [
     {"openalex_id": "https://openalex.org/w1515379320"},
     {"openalex_id": "https://openalex.org/W87476178"},
 ]
+
+search = search[~search["key"].isin([1978, 2244])]
+
 ft = pd.DataFrame(inclusions)
 ft["label_abstract_included"] = 1
 
