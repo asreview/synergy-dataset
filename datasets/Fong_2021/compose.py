@@ -136,6 +136,7 @@ inclusions = [
     {"openalex_id": "https://openalex.org/W87476178"},
 ]
 
+# Remove two records: 1978 is now an inclusion, 2244 was a wrong inclusion which could not be found in the original paper
 search = search[~search["key"].isin([1978, 2244])]
 
 ft = pd.DataFrame(inclusions)
