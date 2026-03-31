@@ -23,7 +23,6 @@ openalex_id,doi,pmid,label_included,label_abstract_included,method
 ,https://doi.org/10.1007/s00180-007-0100-x,,1,,
 ,https://doi.org/10.1080/00273171.2016.1167008,,1,,
 ,https://doi.org/10.1080/10705511.2014.882688,,1,,
-,https://doi.org/10.3758/s13428-017-0870-1,,1,,
 ,https://doi.org/10.1037/a0036635,,1,,
 ,https://doi.org/10.1080/00273171.2016.1208074,,1,,
 ,,,0,,
@@ -3522,3 +3521,4 @@ openalex_id,doi,pmid,label_included,label_abstract_included,method
 ,https://doi.org/10.1016/j.cct.2017.06.009,,0,,
 ,https://doi.org/10.3758/s13428-016-0823-0,,0,,
 ,https://doi.org/10.1186/s12918-015-0190-y,,0,,
+https://openalex.org/w2609159880,https://doi.org/10.1080/10705511.2017.1312407,29662296,1,,
