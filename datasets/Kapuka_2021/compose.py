@@ -40,7 +40,6 @@ inclusions = [
     {"openalex_id": "", "doi": "https://doi.org/10.1002/2013JG002505"},
     {"openalex_id": "", "doi": "https://doi.org/10.1007/s10336-011-0760-8"},
     {"openalex_id": "", "doi": "https://doi.org/10.3390/land6040073"},
-    {"openalex_id": "", "doi": "https://doi.org/10.3354/meps337001"},
     {"openalex_id": "", "doi": "https://doi.org/10.1007/s11258-007-9385-7"},
     {"openalex_id": "", "doi": "https://doi.org/10.1016/j.scitotenv.2018.06.256"},
     {"openalex_id": "", "doi": "https://doi.org/10.1017/S0266467416000584"},
