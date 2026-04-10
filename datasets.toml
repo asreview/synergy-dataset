@@ -1121,25 +1121,6 @@ Exclusion Criteria
 
 [[datasets]]
 
-  key = "Nelson_2002"
-
-  [datasets.publication]
-  doi = "10.1001/jama.288.7.872"
-  eligibility_criteria = """We used only published data in meta-analyses.
-
-Inclusion and exclusion criteria were developed by the investigators for each topic. In general, studies were included if they contained a comparison group of HRT nonusers and reported data relating to HRT use and clinical outcomes of interest. Studies were excluded if the population was selected according to prior events or presence of conditions associated with higher risks for targeted outcomes.
-
-All relevant English-language studies were identified"""
-
-  [datasets.collection]
-  doi = "10.1197/jamia.M1929"
-
-  [datasets.data]
-  url = "https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html"
-
-
-[[datasets]]
-
   key = "Nobrega-Dos_Santos_2023"
 
   [datasets.publication]
