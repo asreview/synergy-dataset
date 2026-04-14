@@ -5,6 +5,8 @@ from pathlib import Path
 import json
 import pandas as pd
 
+# adjust to the folder of datasets you want to create attribution for
+DATASET_PATH = "../synergy-release-abstracts"
 
 authors = []
 citations = ""
@@ -18,14 +20,14 @@ with open("datasets.toml", "rb") as fp:
 			print(f"Not active {dataset['key']}")
 			continue
 
-		dataset_path = Path("..", "synergy-release-abstracts", dataset["key"])
+		dataset_path = Path(DATASET_PATH, dataset["key"])
 
 		print(f"Processing dataset {dataset['key']}")
 
 		with open(Path(dataset_path, "CITATION.txt"), "r", encoding="utf-8") as f:
-			citations = citations + f" > [{dataset['key']}] " + f.read() + "\n"
+			citations = citations + f"> [{dataset['key']}] " + f.read() + "\n"
 
-		# collections : todo
+		# collections
 		collection_path = Path(dataset_path, "CITATION_collection.txt")
 		if Path.is_file(collection_path):
 			with open(collection_path, "r", encoding="utf-8") as f:
@@ -41,6 +43,7 @@ with open("datasets.toml", "rb") as fp:
 				author_data = name
 				if orcid:
 					author_data = f"[{name}]({orcid})"
+				# prepend lastname for sorting
 				authors.append(last_name + "|" + author_data)
 
 # Dedup, Sort and Remove last name
