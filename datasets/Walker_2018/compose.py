@@ -163,6 +163,7 @@ inclusions = [
     {"openalex_id": "https://openalex.org/W249206727"},
     {"openalex_id": "https://openalex.org/W275463818"},
     {"openalex_id": "https://openalex.org/W947752127"},
+    {"openalex_id": "https://openalex.org/W2434614015"},
 ]
 
 ft = pd.DataFrame(inclusions)
