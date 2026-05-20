@@ -12,5 +12,8 @@ df = utils.extract_doi(df, "doi", "", "", True)
 df = df.sort_values(by=['label_included'], ascending=False)
 df = utils.drop_duplicates(df)
 
+# Drop one duplicate that we know of in the dataset
+df = df[df["doi"] != "https://doi.org/10.1097/01.ogx.0000172317.50128.ed"]
+
 # Write output
 utils.write_ids_files("Tektonidou_2019", df)
