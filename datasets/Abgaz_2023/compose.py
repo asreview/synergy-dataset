@@ -21,6 +21,9 @@ ft = "Refinement Step 4\n(Apply Inclusion and Exclusion criteria using the Title
 tiab = "Refinement Step 3\nApply Inclusion and Exclusion criteria using the Title, Abstract, and Conclusion"
 df = utils.extract_labels(df, ft, "Included", tiab, "Included")
 
+# Correct an erroneous label in the input data
+df.at[804, 'label_included'] = 0
+
 df = utils.drop_duplicates(df)
 
 # Write output
