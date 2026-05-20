@@ -11,7 +11,7 @@ df = utils.rename_columns(df, year="Year", ti_ab_label="OPTIONALLY\nIncluded aft
 df = utils.extract_doi(df, "doi", "", "", True)
 df = df.sort_values(by=['label_included'], ascending=False)
 
-# Correct an errornous label in the input data
+# Correct an erroneous label in the input data
 df.at[2533, 'label_abstract_included'] = 1
 
 df = utils.drop_duplicates(df)
