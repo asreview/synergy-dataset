@@ -26,5 +26,8 @@ df.loc[df["label_included"].isnull(), "label_included"] = 0
 df = utils.extract_doi(df, "doi", "", "&", True)
 df = utils.drop_duplicates(df)
 
+# Drop one duplicate that we know of in the dataset
+df = df[df["pmid"] != "https://pubmed.ncbi.nlm.nih.gov/10596184"]
+
 # Write output
 utils.write_ids_files("Leenaars_2020", df)
