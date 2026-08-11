@@ -76,7 +76,7 @@ The split is a stratified 80/20 split using domain, dataset size, and inclusion 
 
 ## Attribution & License
 
-We would like to thank all authors for openly sharing the data correponding to their systematic reviews.
+We would like to thank all authors for openly sharing the data corresponding to their systematic reviews.
 Run `synergy_dataset attribution` or see [ATTRIBUTION.md](ATTRIBUTION.md) for a complete attribution including references. 
 
 SYNERGY+ dataset is released under the [CC0 1.0](LICENSE) license. SYNERGY+ consists of [CC0 1.0 licensed](https://developers.openalex.org/#how-is-openalex-licensed) metadata works published by OpenAlex. [The Lens](https://www.lens.org/) was used for data quality checks and imputing some missing variables. 
