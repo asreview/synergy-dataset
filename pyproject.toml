@@ -1,0 +1,25 @@
+[project]
+name = "synergy-dataset"
+version = "1.0"
+description = "SYNERGY: An Open Dataset on Study Selection in Systematic Reviews"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "bs4",
+    "matplotlib",
+    "networkx",
+    "numpy",
+    "pandas",
+    "pyalex",
+    "requests",
+    "scikit-learn",
+    "seaborn",
+    "tomli",
+    "tqdm",
+]
+
+[dependency-groups]
+dev = [
+    "jupyter",
+    "pytest",
+]
