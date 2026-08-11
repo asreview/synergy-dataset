@@ -1,11 +1,12 @@
 # python scripts/release_works_to_labels.py
 
-import pandas as pd
 import json
 from pathlib import Path
 from zipfile import ZipFile
-from tqdm import tqdm
+
+import pandas as pd
 import tomli
+from tqdm import tqdm
 
 
 def uninvert_abstract(inverted):

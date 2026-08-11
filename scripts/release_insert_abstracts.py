@@ -109,7 +109,10 @@ def enrich_abstracts_in_zip(src_path, dest_path, input_path):
                     if row["abstract_ok"] and (
                         (row["adjustments"] != "")
                         or (len(str(row["abstract"])) >= (len(oa_abstract) - 50))
-                        or (("???" in oa_abstract) and ("???" not in str(row["abstract"])))
+                        or (
+                            ("???" in oa_abstract)
+                            and ("???" not in str(row["abstract"]))
+                        )
                     ):
                         # If True, replace abstract_inverted_index with inverted abstract
                         # from ids_input (user, the lens, or crossref abstract)
@@ -130,7 +133,10 @@ def enrich_abstracts_in_zip(src_path, dest_path, input_path):
                     # the uninverted abstract from open alex in ids_input
                     else:
                         # Keep OA abstract but normalize it first, and store uninverted version
-                        work.setdefault("abstract_inverted_index_cleaned", invert_abstract(oa_abstract))
+                        work.setdefault(
+                            "abstract_inverted_index_cleaned",
+                            invert_abstract(oa_abstract),
+                        )
 
                         ids_input.loc[mask, "abstract"] = oa_abstract
                         ids_input.loc[mask, "abstract_ok"] = (

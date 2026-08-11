@@ -1,15 +1,16 @@
 """This script contains functionality to simplify compose scripts for new datasets"""
 
-import pandas as pd
-from pandas.api.types import is_string_dtype
-from io import BytesIO
-from zipfile import ZipFile
-from urllib.request import urlopen
 import os
 import urllib.parse
+from io import BytesIO
+from urllib.request import urlopen
+from zipfile import ZipFile
+
+import pandas as pd
+from pandas.api.types import is_string_dtype
 
 # All ID's we use to search in OpenAlex
-ID_SET = {"openalex_id","doi", "pmid", "title", "year"}
+ID_SET = {"openalex_id", "doi", "pmid", "title", "year"}
 
 # The set of columns we want to see in the output of the compose file
 OUTPUT_ID_SET = [
