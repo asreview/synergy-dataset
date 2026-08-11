@@ -251,7 +251,7 @@ def main():
 
         # openalex_id lowercase
         df["openalex_id"] = df["openalex_id"].str.lower()
-        
+
         # drop na and duplicates on openalex_id
         df = (
             df.sort_values(
@@ -261,7 +261,7 @@ def main():
             .drop_duplicates("openalex_id")
             .sort_values("order")
         )
-        
+
         df = fill_missing_abstracts(df, LENS_API_KEY, batch_size=1000)
 
         # Normalize all abstracts (ensures exisitng abstracts are cleaned too)

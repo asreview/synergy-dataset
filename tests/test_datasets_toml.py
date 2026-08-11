@@ -1,6 +1,7 @@
-import tomllib
-import pyalex
 import unicodedata
+
+import pyalex
+import tomllib
 
 
 def test_datasets_toml():
@@ -22,9 +23,13 @@ def test_dataset_keys():
         if dataset["key"] in skip_checks:
             continue
         if dataset["key"] == "Farisogullari_2023":
-            dataset["key"] = "Farisogulları_2023" # The last character in the surname is a Turkish ı
+            dataset["key"] = (
+                "Farisogulları_2023"  # The last character in the surname is a Turkish ı
+            )
         if dataset["key"] == "Giesen_2021":
-            dataset["key"] = "Waal_2021" # The authors are indexed incorrectly in OpenAlex
+            dataset["key"] = (
+                "Waal_2021"  # The authors are indexed incorrectly in OpenAlex
+            )
 
         if dataset["key"] == "Abgaz_2023":
             work = pyalex.Works()["https://openalex.org/W4381803634"]
