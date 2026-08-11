@@ -3290,6 +3290,7 @@ requires-dist = [
     { name = "requests" },
     { name = "scikit-learn" },
     { name = "seaborn" },
+    { name = "synergy-dataset" },
     { name = "tomli" },
     { name = "tqdm" },
 ]
