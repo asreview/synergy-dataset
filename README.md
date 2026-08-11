@@ -1,6 +1,6 @@
 # SYNERGY+ dataset
 
-[![DOI](https://img.shields.io/badge/DOI-10.34894/DDCVCV-green.svg)](https://doi.org/10.34894/DDCVCV) ![PyPI](https://img.shields.io/pypi/v/synergy-dataset)
+[![DOI](https://img.shields.io/badge/DOI-10.48550/arXiv.XXXX.XXXXX-green.svg)](https://doi.org/10.48550/arXiv.XXXX.XXXXX) [![DOI](https://img.shields.io/badge/DOI-10.34894/DDCVCV-green.svg)](https://doi.org/10.34894/DDCVCV) ![PyPI](https://img.shields.io/pypi/v/synergy-dataset)
 
 <br> 
 
