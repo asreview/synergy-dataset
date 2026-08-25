@@ -1,35 +1,55 @@
-import pandas as pd
-from pathlib import Path
-import math
+# python scripts/release.py -d Meijboom_2022
+
 import argparse
+import json
 import logging
 from glob import glob
+from pathlib import Path
+from zipfile import ZIP_DEFLATED, ZipFile
 
-import json
-import tomli
-import requests
 import numpy as np
-
+import pandas as pd
 import pyalex
+import requests
+import tomli
 from pyalex import Works
-from zipfile import ZipFile, ZIP_DEFLATED
 
-PAGE_SIZE = 25
+PAGE_SIZE = 20
 pyalex.config.email = "asreview@uu.nl"
 
 SEED = 535
 
+# Crossref's record for these DOIs (registered by Gavin Publishers) has no
+# author field, so doi.org's citation-formatting service can't produce a
+# usable APA citation (just "(Ed.). (Year). Title..."). OpenAlex's metadata
+# is incomplete too (missing 4 of 5 authors for Bakker-Jacobs_2022). Author
+# lists below were taken from the publisher's article pages directly.
+CITATION_OVERRIDES = {
+    "Bakker-Jacobs_2022": (
+        "Bakker-Jacobs, A., Giesen, J. H., Vermeulen, H., van Vught, A., & "
+        "Huisman-de Waal, G. (2022). Overview of Wound Care Interventions "
+        "for Hospital and Community Care Nurses: A Systematic Scoping "
+        "Review. International Journal of Nursing and Health Care "
+        "Research, 5(1). https://doi.org/10.29011/2688-9501.101268"
+    ),
+    "Giesen_2021": (
+        "Giesen, J. H., Bakker-Jacobs, A., van Vught, A., Vermeulen, H., & "
+        "Huisman-de Waal, G. (2021). Overview of Pain Interventions for "
+        "Hospital and Community Care Nurses: A Systematic Scoping Review. "
+        "International Journal of Nursing and Health Care Research, "
+        "4(10). https://doi.org/10.29011/26889501.101265"
+    ),
+}
+
 
 def stats(labels_path):
-
     df = pd.read_csv(labels_path)
 
     return df.shape[0], df[df["label_included"] == 1].shape[0]
 
 
 def package(dataset_name, output_folder):
-
-    fps = list(glob(str(Path("datasets", "*", f"{dataset_name}_ids.csv"))))[0]
+    fps = list(glob(str(Path("datasets", "*", f"{dataset_name}_ids_augmented.csv"))))[0]
 
     df = pd.read_csv(fps)
 
@@ -45,7 +65,7 @@ def package(dataset_name, output_folder):
     df["order"] = order_rows
 
     result = (
-        df.sort_values("label_included", ascending=False)
+        df.sort_values(["label_included", "label_abstract_included"], ascending=False)
         .dropna(subset="openalex_id", axis=0)
         .drop_duplicates("openalex_id")
         .sort_values("order")
@@ -55,7 +75,16 @@ def package(dataset_name, output_folder):
     if "pmid" not in list(df):
         result["pmid"] = None
 
-    result = result[["openalex_id", "doi", "pmid", "label_included"]]
+    result = result[
+        [
+            "openalex_id",
+            "doi",
+            "pmid",
+            "lens_id",
+            "label_included",
+            "label_abstract_included",
+        ]
+    ]
 
     if len(result) == 0:
         raise ValueError("No records in dataset after deduplication. Check dataset.")
@@ -66,11 +95,9 @@ def package(dataset_name, output_folder):
     result.to_csv(Path(output_folder, "labels.csv"), index=False)
 
     # create zip
-    with ZipFile(Path(output_folder, f"works_1.zip"), "w", ZIP_DEFLATED) as zip_obj:
-
+    with ZipFile(Path(output_folder, "works_1.zip"), "w", ZIP_DEFLATED) as zip_obj:
         x = 0
         while x < len(result):
-
             works = Works()[result["openalex_id"].iloc[x : x + PAGE_SIZE].tolist()]
 
             r = (x, min(x + PAGE_SIZE, len(result)))
@@ -90,19 +117,28 @@ def render_metadata(dataset_config, output_path, labels_path):
     except KeyError:
         pass
 
-    w_pub = Works()["doi:" + dataset["publication"]["doi"]]
+    try:
+        w_pub = Works()["doi:" + dataset["publication"]["doi"]]
 
-    with open(Path(output_path, "metadata_publication.json"), "w") as f:
-        json.dump(w_pub, f, indent=2)
+        with open(Path(output_path, "metadata_publication.json"), "w") as f:
+            json.dump(w_pub, f, indent=2)
+    except Exception as e:
+        print(
+            f"\033[93mError fetching publication metadata for {dataset['key']}: {e}\033[0m"
+        )
 
     # get the APA style citation
-    r = requests.get(
-        "https://doi.org/" + dataset["publication"]["doi"],
-        headers={"accept": "text/x-bibliography; style=apa; charset=utf-8"},
-    )
-    r.encoding = "utf-8"
+    if dataset["key"] in CITATION_OVERRIDES:
+        citation_text = CITATION_OVERRIDES[dataset["key"]]
+    else:
+        r = requests.get(
+            "https://doi.org/" + dataset["publication"]["doi"],
+            headers={"accept": "text/x-bibliography; style=apa; charset=utf-8"},
+        )
+        r.encoding = "utf-8"
+        citation_text = r.text
     with open(Path(output_path, "CITATION.txt"), "w") as f:
-        f.write(r.text)
+        f.write(citation_text)
 
     if "collection" in dataset:
         w_col = Works()["doi:" + dataset["collection"]["doi"]]
@@ -128,20 +164,17 @@ def render_metadata(dataset_config, output_path, labels_path):
 
 
 if __name__ == "__main__":
-
     parser = argparse.ArgumentParser(
         prog="Build release metadata", description="Lookup metadata via OpenAlex"
     )
 
     parser.add_argument("-d", "--dataset_name", default=None)
-    # parser.add_argument("--meta")
     args = parser.parse_args()
 
     with open("datasets.toml", "rb") as fp:
         config = tomli.load(fp)
 
     for dataset in config["datasets"]:
-
         if args.dataset_name and dataset["key"] != args.dataset_name:
             logging.debug(f"Skip dataset {dataset['key']}")
             continue
@@ -153,7 +186,9 @@ if __name__ == "__main__":
         output_path = Path("..", "synergy-release", dataset["key"])
         output_path.mkdir(exist_ok=True, parents=True)
 
-        if 0:
+        print(f"Processing dataset {dataset['key']}")
+
+        if 1:
             package(dataset["key"], output_path)
 
         if 1:

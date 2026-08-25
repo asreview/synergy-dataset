@@ -16,3 +16,7 @@ __pycache__/
 
 # Jupyter
 .ipynb_checkpoints
+
+**_ids_augmented**.csv
+**_ids_final**.csv
+**_ids_merged**.csv
