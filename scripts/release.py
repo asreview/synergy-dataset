@@ -19,6 +19,28 @@ pyalex.config.email = "asreview@uu.nl"
 
 SEED = 535
 
+# Crossref's record for these DOIs (registered by Gavin Publishers) has no
+# author field, so doi.org's citation-formatting service can't produce a
+# usable APA citation (just "(Ed.). (Year). Title..."). OpenAlex's metadata
+# is incomplete too (missing 4 of 5 authors for Bakker-Jacobs_2022). Author
+# lists below were taken from the publisher's article pages directly.
+CITATION_OVERRIDES = {
+    "Bakker-Jacobs_2022": (
+        "Bakker-Jacobs, A., Giesen, J. H., Vermeulen, H., van Vught, A., & "
+        "Huisman-de Waal, G. (2022). Overview of Wound Care Interventions "
+        "for Hospital and Community Care Nurses: A Systematic Scoping "
+        "Review. International Journal of Nursing and Health Care "
+        "Research, 5(1). https://doi.org/10.29011/2688-9501.101268"
+    ),
+    "Giesen_2021": (
+        "Giesen, J. H., Bakker-Jacobs, A., van Vught, A., Vermeulen, H., & "
+        "Huisman-de Waal, G. (2021). Overview of Pain Interventions for "
+        "Hospital and Community Care Nurses: A Systematic Scoping Review. "
+        "International Journal of Nursing and Health Care Research, "
+        "4(10). https://doi.org/10.29011/26889501.101265"
+    ),
+}
+
 
 def stats(labels_path):
     df = pd.read_csv(labels_path)
@@ -106,13 +128,17 @@ def render_metadata(dataset_config, output_path, labels_path):
         )
 
     # get the APA style citation
-    r = requests.get(
-        "https://doi.org/" + dataset["publication"]["doi"],
-        headers={"accept": "text/x-bibliography; style=apa; charset=utf-8"},
-    )
-    r.encoding = "utf-8"
+    if dataset["key"] in CITATION_OVERRIDES:
+        citation_text = CITATION_OVERRIDES[dataset["key"]]
+    else:
+        r = requests.get(
+            "https://doi.org/" + dataset["publication"]["doi"],
+            headers={"accept": "text/x-bibliography; style=apa; charset=utf-8"},
+        )
+        r.encoding = "utf-8"
+        citation_text = r.text
     with open(Path(output_path, "CITATION.txt"), "w") as f:
-        f.write(r.text)
+        f.write(citation_text)
 
     if "collection" in dataset:
         w_col = Works()["doi:" + dataset["collection"]["doi"]]
