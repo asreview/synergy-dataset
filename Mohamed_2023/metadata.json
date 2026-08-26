@@ -1,0 +1,12 @@
+{
+  "key": "Mohamed_2023",
+  "publication": {
+    "doi": "10.1093/carcin/bgad091",
+    "eligibility_criteria": "Inclusion criteria \n\u2022 Human studies \n\u2022 Mentioned the method of analysis \n\u2022 Human subjects more than 10 to calculate the statistics  \n\u2022 Mentioned the cut-off value of the antigen and healthy volunteers\u2019 inclusion \n\u2022 Measurement of biomarkers in body fluids including blood (serum or plasma), urine, sputum, pleural effusion, and bronchial lavage \n\u2022 Studies focuses on NSCLC and high-risk individuals are considered for further analysis\n\nExclusion criteria \n\u2022 Animal studies \n\u2022 Cell-line studies \n\u2022 Workshop and conferences \n\u2022 Reviews\n\u2022 Unrelated studies such as those that use antigen as a vaccine or immunotherapy \n\u2022 Omics data such as proteomic and transcriptomics that haven\u2019t mentioned the sensitivity /specificity/AUC of biomarkers identified\n\u2022 SCLC is excluded as it constitutes about 20% of LC"
+  },
+  "data": {
+    "url": "10.5281/zenodo.8240294",
+    "n_records": 5539,
+    "n_records_included": 95
+  }
+}

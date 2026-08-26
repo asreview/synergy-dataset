@@ -1,0 +1,12 @@
+{
+  "key": "Muthu_2020",
+  "publication": {
+    "doi": "10.1097/BRS.0000000000003645",
+    "eligibility_criteria": "Inclusion Criteria\n\nTo be included in our study, a study should meet the following criteria:\n1. The study should be an RCT with 1:1 parallel twoarm design.\n2. The study must be related to spine surgery involving preoperative or intraoperative or postoperative variables.\n3. The study must have a dichotomous primary or secondary outcome.\n\nExclusion Criteria\n1. Studies not involving human subjects.\n2. Studies with continuous variable outcomes like pain scores, Oswestry Disability Index scores, time to union without predefined clinical success criteria.\n3. Studies that did not report a statistically significant primary or secondary outcome measure."
+  },
+  "data": {
+    "url": "https://osf.io/68ezp",
+    "n_records": 2711,
+    "n_records_included": 70
+  }
+}

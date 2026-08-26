@@ -1,0 +1,1844 @@
+{
+  "id": "https://openalex.org/W2943451150",
+  "doi": "https://doi.org/10.1136/rmdopen-2019-000924",
+  "title": "Management of thrombotic and obstetric antiphospholipid syndrome: a systematic literature review informing the EULAR recommendations for the management of antiphospholipid syndrome in adults",
+  "display_name": "Management of thrombotic and obstetric antiphospholipid syndrome: a systematic literature review informing the EULAR recommendations for the management of antiphospholipid syndrome in adults",
+  "publication_year": 2019,
+  "publication_date": "2019-04-01",
+  "ids": {
+    "openalex": "https://openalex.org/W2943451150",
+    "doi": "https://doi.org/10.1136/rmdopen-2019-000924",
+    "mag": "2943451150",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/31168416"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1136/rmdopen-2019-000924",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1136/rmdopen-2019-000924",
+    "pdf_url": "https://rmdopen.bmj.com/content/rmdopen/5/1/e000924.full.pdf",
+    "source": {
+      "id": "https://openalex.org/S2738706341",
+      "display_name": "RMD Open",
+      "issn_l": "2056-5933",
+      "issn": [
+        "2056-5933"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310319945",
+      "host_organization_name": "BMJ",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310319945"
+      ],
+      "host_organization_lineage_names": [
+        "BMJ"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "RMD Open",
+    "raw_type": "journal-article"
+  },
+  "type": "review",
+  "indexed_in": [
+    "crossref",
+    "doaj",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "gold",
+    "oa_url": "https://rmdopen.bmj.com/content/rmdopen/5/1/e000924.full.pdf",
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5075515457",
+        "display_name": "Maria G. Tektonidou",
+        "orcid": "https://orcid.org/0000-0003-2238-0975"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I200777214",
+          "display_name": "National and Kapodistrian University of Athens",
+          "ror": "https://ror.org/04gnjpq42",
+          "country_code": "GR",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I200777214"
+          ]
+        }
+      ],
+      "countries": [
+        "GR"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Maria G Tektonidou",
+      "raw_affiliation_strings": [
+        "Rheumatology Unit, First Department of Propaedeutic Internal Medicine, University of Athens, Athens, Greece"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Rheumatology Unit, First Department of Propaedeutic Internal Medicine, University of Athens, Athens, Greece",
+          "institution_ids": [
+            "https://openalex.org/I200777214"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5061119590",
+        "display_name": "Laura Andr\u00e9oli",
+        "orcid": "https://orcid.org/0000-0002-9107-3218"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I79940851",
+          "display_name": "University of Brescia",
+          "ror": "https://ror.org/02q2d2610",
+          "country_code": "IT",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I79940851"
+          ]
+        }
+      ],
+      "countries": [
+        "IT"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Laura Andreoli",
+      "raw_affiliation_strings": [
+        "Department of Clinical and Experimental Sciences, University of Brescia, Brescia, Italy"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Clinical and Experimental Sciences, University of Brescia, Brescia, Italy",
+          "institution_ids": [
+            "https://openalex.org/I79940851"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5003851622",
+        "display_name": "Marteen Limper",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I3018483916",
+          "display_name": "University Medical Center Utrecht",
+          "ror": "https://ror.org/0575yy874",
+          "country_code": "NL",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I3018483916"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I193662353",
+          "display_name": "Utrecht University",
+          "ror": "https://ror.org/04pp8hn57",
+          "country_code": "NL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I193662353"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Marteen Limper",
+      "raw_affiliation_strings": [
+        "Department of Rheumatology and Clinical Immunology, University Medical Center Utrecht, Utrecht University, Utrecht, The Netherlands"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Rheumatology and Clinical Immunology, University Medical Center Utrecht, Utrecht University, Utrecht, The Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I193662353",
+            "https://openalex.org/I3018483916"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5079447134",
+        "display_name": "An\u01f5ela Tincani",
+        "orcid": "https://orcid.org/0000-0003-4355-9333"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I79940851",
+          "display_name": "University of Brescia",
+          "ror": "https://ror.org/02q2d2610",
+          "country_code": "IT",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I79940851"
+          ]
+        }
+      ],
+      "countries": [
+        "IT"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Angela Tincani",
+      "raw_affiliation_strings": [
+        "Department of Clinical and Experimental Sciences, University of Brescia, Brescia, Italy"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Clinical and Experimental Sciences, University of Brescia, Brescia, Italy",
+          "institution_ids": [
+            "https://openalex.org/I79940851"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5052860753",
+        "display_name": "Michael M. Ward",
+        "orcid": "https://orcid.org/0000-0003-1857-9367"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210087962",
+          "display_name": "National Institute of Arthritis and Musculoskeletal and Skin Diseases",
+          "ror": "https://ror.org/006zn3t30",
+          "country_code": "US",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I1299022934",
+            "https://openalex.org/I1299303238",
+            "https://openalex.org/I4210087962"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210145612",
+          "display_name": "Office of Extramural Research",
+          "ror": "https://ror.org/05aq6yn88",
+          "country_code": "US",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I1299022934",
+            "https://openalex.org/I1299303238",
+            "https://openalex.org/I4210091794",
+            "https://openalex.org/I4210145612"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Michael M Ward",
+      "raw_affiliation_strings": [
+        "Intramural Research Program, NIAMS/NIH, Bethesda, Maryland, USA"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Intramural Research Program, NIAMS/NIH, Bethesda, Maryland, USA",
+          "institution_ids": [
+            "https://openalex.org/I4210087962",
+            "https://openalex.org/I4210145612"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 4,
+  "institutions_distinct_count": 5,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5075515457"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I200777214"
+  ],
+  "apc_list": {
+    "value": 1950,
+    "currency": "GBP",
+    "value_usd": 2391
+  },
+  "apc_paid": {
+    "value": 1950,
+    "currency": "GBP",
+    "value_usd": 2391
+  },
+  "fwci": 12.65709328,
+  "has_fulltext": true,
+  "cited_by_count": 86,
+  "citation_normalized_percentile": {
+    "value": 0.98757821,
+    "is_in_top_1_percent": true,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 98,
+    "max": 100
+  },
+  "biblio": {
+    "volume": "5",
+    "issue": "1",
+    "first_page": "e000924",
+    "last_page": "e000924"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10308",
+    "display_name": "Systemic Lupus Erythematosus Research",
+    "score": 1.0,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2745",
+      "display_name": "Rheumatology"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/27",
+      "display_name": "Medicine"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/4",
+      "display_name": "Health Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10308",
+      "display_name": "Systemic Lupus Erythematosus Research",
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2745",
+        "display_name": "Rheumatology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12352",
+      "display_name": "Heparin-Induced Thrombocytopenia and Thrombosis",
+      "score": 0.9997000098228455,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2746",
+        "display_name": "Surgery"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10746",
+      "display_name": "Platelet Disorders and Treatments",
+      "score": 0.9995999932289124,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2720",
+        "display_name": "Hematology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/medicine",
+      "display_name": "Medicine",
+      "score": 0.9716303944587708
+    },
+    {
+      "id": "https://openalex.org/keywords/antiphospholipid-syndrome",
+      "display_name": "Antiphospholipid syndrome",
+      "score": 0.8247785568237305
+    },
+    {
+      "id": "https://openalex.org/keywords/warfarin",
+      "display_name": "Warfarin",
+      "score": 0.6082087159156799
+    },
+    {
+      "id": "https://openalex.org/keywords/thrombosis",
+      "display_name": "Thrombosis",
+      "score": 0.5980027318000793
+    },
+    {
+      "id": "https://openalex.org/keywords/rivaroxaban",
+      "display_name": "Rivaroxaban",
+      "score": 0.5669740438461304
+    },
+    {
+      "id": "https://openalex.org/keywords/internal-medicine",
+      "display_name": "Internal medicine",
+      "score": 0.5382592082023621
+    },
+    {
+      "id": "https://openalex.org/keywords/cohort",
+      "display_name": "Cohort",
+      "score": 0.4890488088130951
+    },
+    {
+      "id": "https://openalex.org/keywords/aspirin",
+      "display_name": "Aspirin",
+      "score": 0.47947749495506287
+    },
+    {
+      "id": "https://openalex.org/keywords/randomized-controlled-trial",
+      "display_name": "Randomized controlled trial",
+      "score": 0.47474366426467896
+    },
+    {
+      "id": "https://openalex.org/keywords/venous-thrombosis",
+      "display_name": "Venous thrombosis",
+      "score": 0.4496940076351166
+    },
+    {
+      "id": "https://openalex.org/keywords/post-thrombotic-syndrome",
+      "display_name": "Post-thrombotic syndrome",
+      "score": 0.41541174054145813
+    },
+    {
+      "id": "https://openalex.org/keywords/physical-therapy",
+      "display_name": "Physical therapy",
+      "score": 0.3487497568130493
+    },
+    {
+      "id": "https://openalex.org/keywords/pediatrics",
+      "display_name": "Pediatrics",
+      "score": 0.3470665216445923
+    },
+    {
+      "id": "https://openalex.org/keywords/atrial-fibrillation",
+      "display_name": "Atrial fibrillation",
+      "score": 0.09650883078575134
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C71924100",
+      "wikidata": "https://www.wikidata.org/wiki/Q11190",
+      "display_name": "Medicine",
+      "level": 0,
+      "score": 0.9716303944587708
+    },
+    {
+      "id": "https://openalex.org/C2776874634",
+      "wikidata": "https://www.wikidata.org/wiki/Q582207",
+      "display_name": "Antiphospholipid syndrome",
+      "level": 3,
+      "score": 0.8247785568237305
+    },
+    {
+      "id": "https://openalex.org/C2776301958",
+      "wikidata": "https://www.wikidata.org/wiki/Q407431",
+      "display_name": "Warfarin",
+      "level": 3,
+      "score": 0.6082087159156799
+    },
+    {
+      "id": "https://openalex.org/C2780868729",
+      "wikidata": "https://www.wikidata.org/wiki/Q261327",
+      "display_name": "Thrombosis",
+      "level": 2,
+      "score": 0.5980027318000793
+    },
+    {
+      "id": "https://openalex.org/C2778661090",
+      "wikidata": "https://www.wikidata.org/wiki/Q420262",
+      "display_name": "Rivaroxaban",
+      "level": 4,
+      "score": 0.5669740438461304
+    },
+    {
+      "id": "https://openalex.org/C126322002",
+      "wikidata": "https://www.wikidata.org/wiki/Q11180",
+      "display_name": "Internal medicine",
+      "level": 1,
+      "score": 0.5382592082023621
+    },
+    {
+      "id": "https://openalex.org/C72563966",
+      "wikidata": "https://www.wikidata.org/wiki/Q1303415",
+      "display_name": "Cohort",
+      "level": 2,
+      "score": 0.4890488088130951
+    },
+    {
+      "id": "https://openalex.org/C2777628954",
+      "wikidata": "https://www.wikidata.org/wiki/Q18216",
+      "display_name": "Aspirin",
+      "level": 2,
+      "score": 0.47947749495506287
+    },
+    {
+      "id": "https://openalex.org/C168563851",
+      "wikidata": "https://www.wikidata.org/wiki/Q1436668",
+      "display_name": "Randomized controlled trial",
+      "level": 2,
+      "score": 0.47474366426467896
+    },
+    {
+      "id": "https://openalex.org/C2780011451",
+      "wikidata": "https://www.wikidata.org/wiki/Q2751330",
+      "display_name": "Venous thrombosis",
+      "level": 3,
+      "score": 0.4496940076351166
+    },
+    {
+      "id": "https://openalex.org/C2778555097",
+      "wikidata": "https://www.wikidata.org/wiki/Q382091",
+      "display_name": "Post-thrombotic syndrome",
+      "level": 4,
+      "score": 0.41541174054145813
+    },
+    {
+      "id": "https://openalex.org/C1862650",
+      "wikidata": "https://www.wikidata.org/wiki/Q186005",
+      "display_name": "Physical therapy",
+      "level": 1,
+      "score": 0.3487497568130493
+    },
+    {
+      "id": "https://openalex.org/C187212893",
+      "wikidata": "https://www.wikidata.org/wiki/Q123028",
+      "display_name": "Pediatrics",
+      "level": 1,
+      "score": 0.3470665216445923
+    },
+    {
+      "id": "https://openalex.org/C2779161974",
+      "wikidata": "https://www.wikidata.org/wiki/Q815819",
+      "display_name": "Atrial fibrillation",
+      "level": 2,
+      "score": 0.09650883078575134
+    }
+  ],
+  "mesh": [
+    {
+      "descriptor_ui": "D000328",
+      "descriptor_name": "Adult",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000367",
+      "descriptor_name": "Age Factors",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D016736",
+      "descriptor_name": "Antiphospholipid Syndrome",
+      "qualifier_ui": "Q000150",
+      "qualifier_name": "complications",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D016736",
+      "descriptor_name": "Antiphospholipid Syndrome",
+      "qualifier_ui": "Q000175",
+      "qualifier_name": "diagnosis",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D016736",
+      "descriptor_name": "Antiphospholipid Syndrome",
+      "qualifier_ui": "Q000209",
+      "qualifier_name": "etiology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D016736",
+      "descriptor_name": "Antiphospholipid Syndrome",
+      "qualifier_ui": "Q000628",
+      "qualifier_name": "therapy",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D019468",
+      "descriptor_name": "Disease Management",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005260",
+      "descriptor_name": "Female",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008180",
+      "descriptor_name": "Lupus Erythematosus, Systemic",
+      "qualifier_ui": "Q000150",
+      "qualifier_name": "complications",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D017063",
+      "descriptor_name": "Outcome Assessment, Health Care",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D011247",
+      "descriptor_name": "Pregnancy",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D011248",
+      "descriptor_name": "Pregnancy Complications",
+      "qualifier_ui": "Q000175",
+      "qualifier_name": "diagnosis",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D011248",
+      "descriptor_name": "Pregnancy Complications",
+      "qualifier_ui": "Q000209",
+      "qualifier_name": "etiology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D011248",
+      "descriptor_name": "Pregnancy Complications",
+      "qualifier_ui": "Q000628",
+      "qualifier_name": "therapy",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D016032",
+      "descriptor_name": "Randomized Controlled Trials as Topic",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D013927",
+      "descriptor_name": "Thrombosis",
+      "qualifier_ui": "Q000175",
+      "qualifier_name": "diagnosis",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D013927",
+      "descriptor_name": "Thrombosis",
+      "qualifier_ui": "Q000209",
+      "qualifier_name": "etiology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D013927",
+      "descriptor_name": "Thrombosis",
+      "qualifier_ui": "Q000517",
+      "qualifier_name": "prevention & control",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D013927",
+      "descriptor_name": "Thrombosis",
+      "qualifier_ui": "Q000628",
+      "qualifier_name": "therapy",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000328",
+      "descriptor_name": "Adult",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000367",
+      "descriptor_name": "Age Factors",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D016736",
+      "descriptor_name": "Antiphospholipid Syndrome",
+      "qualifier_ui": "Q000150",
+      "qualifier_name": "complications",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D016736",
+      "descriptor_name": "Antiphospholipid Syndrome",
+      "qualifier_ui": "Q000175",
+      "qualifier_name": "diagnosis",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D016736",
+      "descriptor_name": "Antiphospholipid Syndrome",
+      "qualifier_ui": "Q000209",
+      "qualifier_name": "etiology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D016736",
+      "descriptor_name": "Antiphospholipid Syndrome",
+      "qualifier_ui": "Q000628",
+      "qualifier_name": "therapy",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D019468",
+      "descriptor_name": "Disease Management",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005260",
+      "descriptor_name": "Female",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008180",
+      "descriptor_name": "Lupus Erythematosus, Systemic",
+      "qualifier_ui": "Q000150",
+      "qualifier_name": "complications",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D017063",
+      "descriptor_name": "Outcome Assessment, Health Care",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D011247",
+      "descriptor_name": "Pregnancy",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D011248",
+      "descriptor_name": "Pregnancy Complications",
+      "qualifier_ui": "Q000175",
+      "qualifier_name": "diagnosis",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D011248",
+      "descriptor_name": "Pregnancy Complications",
+      "qualifier_ui": "Q000209",
+      "qualifier_name": "etiology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D011248",
+      "descriptor_name": "Pregnancy Complications",
+      "qualifier_ui": "Q000628",
+      "qualifier_name": "therapy",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D016032",
+      "descriptor_name": "Randomized Controlled Trials as Topic",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D013927",
+      "descriptor_name": "Thrombosis",
+      "qualifier_ui": "Q000175",
+      "qualifier_name": "diagnosis",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D013927",
+      "descriptor_name": "Thrombosis",
+      "qualifier_ui": "Q000209",
+      "qualifier_name": "etiology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D013927",
+      "descriptor_name": "Thrombosis",
+      "qualifier_ui": "Q000517",
+      "qualifier_name": "prevention & control",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D013927",
+      "descriptor_name": "Thrombosis",
+      "qualifier_ui": "Q000628",
+      "qualifier_name": "therapy",
+      "is_major_topic": false
+    }
+  ],
+  "locations_count": 5,
+  "locations": [
+    {
+      "id": "doi:10.1136/rmdopen-2019-000924",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1136/rmdopen-2019-000924",
+      "pdf_url": "https://rmdopen.bmj.com/content/rmdopen/5/1/e000924.full.pdf",
+      "source": {
+        "id": "https://openalex.org/S2738706341",
+        "display_name": "RMD Open",
+        "issn_l": "2056-5933",
+        "issn": [
+          "2056-5933"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310319945",
+        "host_organization_name": "BMJ",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310319945"
+        ],
+        "host_organization_lineage_names": [
+          "BMJ"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "RMD Open",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:31168416",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/31168416",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "RMD open",
+      "raw_type": null
+    },
+    {
+      "id": "pmh:oai:doaj.org/article:a1cbbdc711584d859f955fbe426e6fed",
+      "is_oa": false,
+      "landing_page_url": "https://doaj.org/article/a1cbbdc711584d859f955fbe426e6fed",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401280",
+        "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "RMD Open, Vol 5, Iss 1 (2019)",
+      "raw_type": "article"
+    },
+    {
+      "id": "pmh:oai:europepmc.org:5528509",
+      "is_oa": true,
+      "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/6525610",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306400806",
+        "display_name": "Europe PMC (PubMed Central)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1303153112",
+        "host_organization_name": "European Bioinformatics Institute",
+        "host_organization_lineage": [
+          "https://openalex.org/I1303153112"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "other-oa",
+      "license_id": "https://openalex.org/licenses/other-oa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": null,
+      "raw_type": "Text"
+    },
+    {
+      "id": "pmh:oai:iris.unibs.it:11379/532778",
+      "is_oa": false,
+      "landing_page_url": "http://hdl.handle.net/11379/532778",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306400804",
+        "display_name": "Institutional Research Information System (Universit\u00e0 degli Studi di Brescia)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I66752286",
+        "host_organization_name": "University of Milano-Bicocca",
+        "host_organization_lineage": [
+          "https://openalex.org/I66752286"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": null,
+      "raw_type": "info:eu-repo/semantics/article"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1136/rmdopen-2019-000924",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1136/rmdopen-2019-000924",
+    "pdf_url": "https://rmdopen.bmj.com/content/rmdopen/5/1/e000924.full.pdf",
+    "source": {
+      "id": "https://openalex.org/S2738706341",
+      "display_name": "RMD Open",
+      "issn_l": "2056-5933",
+      "issn": [
+        "2056-5933"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310319945",
+      "host_organization_name": "BMJ",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310319945"
+      ],
+      "host_organization_lineage_names": [
+        "BMJ"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "RMD Open",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [
+    {
+      "score": 0.6000000238418579,
+      "id": "https://metadata.un.org/sdg/3",
+      "display_name": "Good health and well-being"
+    }
+  ],
+  "awards": [],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320325330",
+      "display_name": "European League Against Rheumatism",
+      "ror": "https://ror.org/03f7j3221"
+    }
+  ],
+  "has_content": {
+    "pdf": true,
+    "grobid_xml": true
+  },
+  "referenced_works_count": 139,
+  "referenced_works": [
+    "https://openalex.org/W2054330426",
+    "https://openalex.org/W2946160313",
+    "https://openalex.org/W2012932483",
+    "https://openalex.org/W2092467722",
+    "https://openalex.org/W2098923148",
+    "https://openalex.org/W2037108451",
+    "https://openalex.org/W2052413901",
+    "https://openalex.org/W2021852712",
+    "https://openalex.org/W1488742384",
+    "https://openalex.org/W2068492012",
+    "https://openalex.org/W1975922892",
+    "https://openalex.org/W2050117403",
+    "https://openalex.org/W2104266044",
+    "https://openalex.org/W1975074770",
+    "https://openalex.org/W1993239392",
+    "https://openalex.org/W2443962873",
+    "https://openalex.org/W2615390224",
+    "https://openalex.org/W2062467631",
+    "https://openalex.org/W2410444514",
+    "https://openalex.org/W2616490803",
+    "https://openalex.org/W2129732598",
+    "https://openalex.org/W2122755842",
+    "https://openalex.org/W2017916426",
+    "https://openalex.org/W2156558634",
+    "https://openalex.org/W1599113761",
+    "https://openalex.org/W2080659789",
+    "https://openalex.org/W2053081517",
+    "https://openalex.org/W329577119",
+    "https://openalex.org/W2027467473",
+    "https://openalex.org/W1980784832",
+    "https://openalex.org/W2327141264",
+    "https://openalex.org/W2087266162",
+    "https://openalex.org/W2163428021",
+    "https://openalex.org/W2152900444",
+    "https://openalex.org/W2014368662",
+    "https://openalex.org/W4253029803",
+    "https://openalex.org/W2021068204",
+    "https://openalex.org/W2415859361",
+    "https://openalex.org/W2066208768",
+    "https://openalex.org/W2548912661",
+    "https://openalex.org/W2514539105",
+    "https://openalex.org/W2813643485",
+    "https://openalex.org/W2076113459",
+    "https://openalex.org/W2499298634",
+    "https://openalex.org/W2565122632",
+    "https://openalex.org/W2600313979",
+    "https://openalex.org/W2547605747",
+    "https://openalex.org/W2157778986",
+    "https://openalex.org/W2119266650",
+    "https://openalex.org/W2621312629",
+    "https://openalex.org/W2598714519",
+    "https://openalex.org/W2100396309",
+    "https://openalex.org/W2141062748",
+    "https://openalex.org/W1985936726",
+    "https://openalex.org/W2132099411",
+    "https://openalex.org/W2282564845",
+    "https://openalex.org/W2110502968",
+    "https://openalex.org/W92888181",
+    "https://openalex.org/W2160198109",
+    "https://openalex.org/W2160699544",
+    "https://openalex.org/W2135433033",
+    "https://openalex.org/W2886953225",
+    "https://openalex.org/W6654606328",
+    "https://openalex.org/W2076127201",
+    "https://openalex.org/W2082441416",
+    "https://openalex.org/W2044445295",
+    "https://openalex.org/W2061071054",
+    "https://openalex.org/W6602280763",
+    "https://openalex.org/W2170555033",
+    "https://openalex.org/W2022226231",
+    "https://openalex.org/W115642794",
+    "https://openalex.org/W2148025649",
+    "https://openalex.org/W2018673095",
+    "https://openalex.org/W1930926314",
+    "https://openalex.org/W2004888846",
+    "https://openalex.org/W2112422400",
+    "https://openalex.org/W117666081",
+    "https://openalex.org/W2062577681",
+    "https://openalex.org/W2061547537",
+    "https://openalex.org/W2075361529",
+    "https://openalex.org/W2058091416",
+    "https://openalex.org/W2779237945",
+    "https://openalex.org/W2024158672",
+    "https://openalex.org/W1872823335",
+    "https://openalex.org/W2091094200",
+    "https://openalex.org/W1998060814",
+    "https://openalex.org/W2158042059",
+    "https://openalex.org/W2056788755",
+    "https://openalex.org/W1588788580",
+    "https://openalex.org/W2171607487",
+    "https://openalex.org/W2246101091",
+    "https://openalex.org/W6635591604",
+    "https://openalex.org/W57097834",
+    "https://openalex.org/W2101092063",
+    "https://openalex.org/W6771504279",
+    "https://openalex.org/W2147830654",
+    "https://openalex.org/W2140446394",
+    "https://openalex.org/W2110922004",
+    "https://openalex.org/W2090422523",
+    "https://openalex.org/W2064568183",
+    "https://openalex.org/W2020436721",
+    "https://openalex.org/W2296419251",
+    "https://openalex.org/W2586280035",
+    "https://openalex.org/W2126945338",
+    "https://openalex.org/W1548346841",
+    "https://openalex.org/W2038069098",
+    "https://openalex.org/W2097396829",
+    "https://openalex.org/W2044042100",
+    "https://openalex.org/W2072909097",
+    "https://openalex.org/W6661500956",
+    "https://openalex.org/W2060913984",
+    "https://openalex.org/W6603691789",
+    "https://openalex.org/W2269554558",
+    "https://openalex.org/W2580867287",
+    "https://openalex.org/W2002929747",
+    "https://openalex.org/W2003405679",
+    "https://openalex.org/W2109139396",
+    "https://openalex.org/W2016642143",
+    "https://openalex.org/W2063956854",
+    "https://openalex.org/W2994348115",
+    "https://openalex.org/W6690809869",
+    "https://openalex.org/W1966792319",
+    "https://openalex.org/W2178540982",
+    "https://openalex.org/W2049326681",
+    "https://openalex.org/W2091568042",
+    "https://openalex.org/W1978514470",
+    "https://openalex.org/W2180885553",
+    "https://openalex.org/W1995437448",
+    "https://openalex.org/W2043383287",
+    "https://openalex.org/W2278093194",
+    "https://openalex.org/W2120492526",
+    "https://openalex.org/W2465926940",
+    "https://openalex.org/W3022903699",
+    "https://openalex.org/W2017522419",
+    "https://openalex.org/W2588681363",
+    "https://openalex.org/W1934871311",
+    "https://openalex.org/W2612891587",
+    "https://openalex.org/W2044728282",
+    "https://openalex.org/W1973361365"
+  ],
+  "related_works": [
+    "https://openalex.org/W2906621735",
+    "https://openalex.org/W2997296878",
+    "https://openalex.org/W2910563879",
+    "https://openalex.org/W2414445665",
+    "https://openalex.org/W2339926357",
+    "https://openalex.org/W4401486313",
+    "https://openalex.org/W2987924141",
+    "https://openalex.org/W2416843375",
+    "https://openalex.org/W2046352130",
+    "https://openalex.org/W1929260581"
+  ],
+  "abstract_inverted_index": {
+    "Objective": [
+      0
+    ],
+    "To": [
+      1
+    ],
+    "perform": [
+      2
+    ],
+    "a": [
+      3,
+      117,
+      249
+    ],
+    "systematic": [
+      4
+    ],
+    "literature": [
+      5
+    ],
+    "review": [
+      6
+    ],
+    "(SLR)": [
+      7
+    ],
+    "informing": [
+      8
+    ],
+    "the": [
+      9,
+      13,
+      34,
+      63,
+      71,
+      98,
+      180,
+      235,
+      239
+    ],
+    "European": [
+      10
+    ],
+    "Lmmendations": [
+      11
+    ],
+    "for": [
+      12,
+      57,
+      68,
+      244
+    ],
+    "management": [
+      14
+    ],
+    "of": [
+      15,
+      120,
+      139,
+      176,
+      191,
+      227,
+      241,
+      256
+    ],
+    "antiphospholipid": [
+      16,
+      104
+    ],
+    "syndrome": [
+      17
+    ],
+    "(APS)": [
+      18
+    ],
+    "in": [
+      19,
+      97,
+      155,
+      174,
+      194,
+      224
+    ],
+    "adults.": [
+      20
+    ],
+    "Methods": [
+      21
+    ],
+    "A": [
+      22
+    ],
+    "SLR": [
+      23,
+      230
+    ],
+    "through": [
+      24
+    ],
+    "January": [
+      25
+    ],
+    "2018": [
+      26
+    ],
+    "was": [
+      27,
+      218
+    ],
+    "performed.": [
+      28
+    ],
+    "Research": [
+      29
+    ],
+    "questions": [
+      30
+    ],
+    "were": [
+      31,
+      55,
+      78,
+      95,
+      232
+    ],
+    "constructed": [
+      32
+    ],
+    "using": [
+      33
+    ],
+    "Patient,": [
+      35
+    ],
+    "Intervention,": [
+      36
+    ],
+    "Comparator,": [
+      37
+    ],
+    "Outcome": [
+      38
+    ],
+    "(PICO)": [
+      39
+    ],
+    "format.": [
+      40
+    ],
+    "We": [
+      41
+    ],
+    "included": [
+      42,
+      96
+    ],
+    "data": [
+      43
+    ],
+    "from": [
+      44,
+      90
+    ],
+    "articles": [
+      45,
+      88,
+      94
+    ],
+    "that": [
+      46,
+      61,
+      211
+    ],
+    "reported": [
+      47
+    ],
+    "on": [
+      48
+    ],
+    "each": [
+      49
+    ],
+    "relevant": [
+      50,
+      72
+    ],
+    "intervention.": [
+      51
+    ],
+    "Summary": [
+      52
+    ],
+    "effect": [
+      53,
+      119
+    ],
+    "estimates": [
+      54
+    ],
+    "calculated": [
+      56
+    ],
+    "direct": [
+      58
+    ],
+    "comparison": [
+      59
+    ],
+    "studies": [
+      60,
+      69,
+      134,
+      170,
+      209,
+      255
+    ],
+    "matched": [
+      62
+    ],
+    "PICO": [
+      64
+    ],
+    "question": [
+      65
+    ],
+    "exactly,": [
+      66
+    ],
+    "and": [
+      67,
+      74,
+      131,
+      167,
+      207,
+      216,
+      238,
+      247
+    ],
+    "with": [
+      70,
+      102,
+      141,
+      157,
+      162,
+      199,
+      204,
+      214
+    ],
+    "intervention": [
+      73
+    ],
+    "comparator.": [
+      75
+    ],
+    "When": [
+      76
+    ],
+    "meta-analyses": [
+      77,
+      115
+    ],
+    "available,": [
+      79
+    ],
+    "we": [
+      80
+    ],
+    "used": [
+      81
+    ],
+    "these": [
+      82
+    ],
+    "estimates.": [
+      83
+    ],
+    "Results": [
+      84
+    ],
+    "From": [
+      85
+    ],
+    "7534": [
+      86
+    ],
+    "retrieved": [
+      87
+    ],
+    "(+15": [
+      89
+    ],
+    "hand": [
+      91
+    ],
+    "searches),": [
+      92
+    ],
+    "188": [
+      93
+    ],
+    "review.": [
+      99
+    ],
+    "In": [
+      100,
+      160
+    ],
+    "individuals": [
+      101
+    ],
+    "high-risk": [
+      103
+    ],
+    "antibody": [
+      105
+    ],
+    "(aPL)": [
+      106
+    ],
+    "profile": [
+      107
+    ],
+    "without": [
+      108
+    ],
+    "prior": [
+      109
+    ],
+    "thrombotic": [
+      110
+    ],
+    "or": [
+      111
+    ],
+    "obstetric": [
+      112,
+      228
+    ],
+    "APS,": [
+      113
+    ],
+    "two": [
+      114,
+      165,
+      168,
+      181
+    ],
+    "showed": [
+      116,
+      135,
+      171,
+      188,
+      210
+    ],
+    "protective": [
+      118
+    ],
+    "low-dose": [
+      121
+    ],
+    "aspirin": [
+      122
+    ],
+    "(LDA)": [
+      123
+    ],
+    "against": [
+      124
+    ],
+    "thrombosis.": [
+      125,
+      159
+    ],
+    "Two": [
+      126
+    ],
+    "randomised": [
+      127
+    ],
+    "controlled": [
+      128
+    ],
+    "trials": [
+      129
+    ],
+    "(RCTs)": [
+      130
+    ],
+    "three": [
+      132
+    ],
+    "cohort": [
+      133,
+      169,
+      208
+    ],
+    "no": [
+      136,
+      172
+    ],
+    "additional": [
+      137
+    ],
+    "benefit": [
+      138
+    ],
+    "treatment": [
+      140,
+      213
+    ],
+    "vitamin": [
+      142
+    ],
+    "K": [
+      143
+    ],
+    "antagonists": [
+      144
+    ],
+    "at": [
+      145
+    ],
+    "target": [
+      146,
+      182
+    ],
+    "international": [
+      147
+    ],
+    "normalised": [
+      148
+    ],
+    "ratio": [
+      149
+    ],
+    "(INR)": [
+      150
+    ],
+    "3\u20134": [
+      151
+    ],
+    "versus": [
+      152
+    ],
+    "INR": [
+      153,
+      183
+    ],
+    "2\u20133": [
+      154
+    ],
+    "patients": [
+      156,
+      161,
+      197
+    ],
+    "venous": [
+      158
+    ],
+    "arterial": [
+      163
+    ],
+    "thrombosis,": [
+      164
+    ],
+    "RCTs": [
+      166,
+      206
+    ],
+    "difference": [
+      173
+    ],
+    "risk": [
+      175
+    ],
+    "recurrent": [
+      177
+    ],
+    "thrombosis": [
+      178,
+      192
+    ],
+    "between": [
+      179
+    ],
+    "groups.": [
+      184
+    ],
+    "One": [
+      185
+    ],
+    "open-label": [
+      186
+    ],
+    "trial": [
+      187
+    ],
+    "higher": [
+      189
+    ],
+    "rates": [
+      190
+    ],
+    "recurrences": [
+      193
+    ],
+    "triple": [
+      195
+    ],
+    "aPL-positive": [
+      196
+    ],
+    "treated": [
+      198,
+      203
+    ],
+    "rivaroxaban": [
+      200
+    ],
+    "than": [
+      201,
+      221
+    ],
+    "those": [
+      202
+    ],
+    "warfarin.": [
+      205
+    ],
+    "combination": [
+      212
+    ],
+    "LDA": [
+      215,
+      222
+    ],
+    "heparin": [
+      217
+    ],
+    "more": [
+      219
+    ],
+    "effective": [
+      220
+    ],
+    "alone": [
+      223
+    ],
+    "several": [
+      225
+    ],
+    "types": [
+      226
+    ],
+    "APS.": [
+      229
+    ],
+    "results": [
+      231
+    ],
+    "limited": [
+      233
+    ],
+    "by": [
+      234
+    ],
+    "indirect": [
+      236
+    ],
+    "evidence": [
+      237
+    ],
+    "heterogeneity": [
+      240
+    ],
+    "patient": [
+      242,
+      259
+    ],
+    "groups": [
+      243
+    ],
+    "some": [
+      245
+    ],
+    "treatments,": [
+      246
+    ],
+    "only": [
+      248
+    ],
+    "few": [
+      250
+    ],
+    "high-quality": [
+      251
+    ],
+    "RCTs.": [
+      252
+    ],
+    "Conclusion": [
+      253
+    ],
+    "Well-designed": [
+      254
+    ],
+    "homogeneous": [
+      257
+    ],
+    "APS": [
+      258
+    ],
+    "populations": [
+      260
+    ],
+    "are": [
+      261
+    ],
+    "needed.": [
+      262
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 8
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 18
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 6
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 15
+    },
+    {
+      "year": 2021,
+      "cited_by_count": 15
+    },
+    {
+      "year": 2020,
+      "cited_by_count": 19
+    },
+    {
+      "year": 2019,
+      "cited_by_count": 5
+    }
+  ],
+  "updated_date": "2025-11-06T03:46:38.306776",
+  "created_date": "2025-10-10T00:00:00"
+}

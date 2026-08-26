@@ -1,0 +1,12 @@
+{
+  "key": "Eggmann_2023",
+  "publication": {
+    "doi": "10.3390/ma16072580",
+    "eligibility_criteria": "2.3. Inclusion Criteria\nIn vitro/laboratory study\nUse of pre-irradiation or post-irradiation bonding with a resin-based dental biomaterial (i.e., dental adhesives, resin-based composites, resin-based luting materials, resin-modified glass ionomer cements, compomers, resin-based sealants, and blocks made from resin-based composite for use in computer-aided design and computer-aided manufacturing)\nData on adhesive performance in terms of bond strength, marginal discoloration, microleakage, marginal adaptation, debonding, or interfacial fracture toughness\nSpecimens made from or featuring human or bovine enamel, dentin, or both\n2.4. Exclusion Criteria\nIn silico study\nClinical study\nAnimal study\nCase report\nReview article\nStudy assessing laser irradiation as surface pretreatment\nStudy assessing irradiation as disinfection method\nPoster\nAbstract-only paper"
+  },
+  "data": {
+    "doi": "10.5281/zenodo.7662399",
+    "n_records": 828,
+    "n_records_included": 23
+  }
+}

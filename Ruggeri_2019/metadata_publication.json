@@ -1,0 +1,1277 @@
+{
+  "id": "https://openalex.org/W2989984373",
+  "doi": "https://doi.org/10.1177/1362361319885215",
+  "title": "The effect of motor and physical activity intervention on motor outcomes of children with autism spectrum disorder: A systematic review",
+  "display_name": "The effect of motor and physical activity intervention on motor outcomes of children with autism spectrum disorder: A systematic review",
+  "publication_year": 2019,
+  "publication_date": "2019-11-29",
+  "ids": {
+    "openalex": "https://openalex.org/W2989984373",
+    "doi": "https://doi.org/10.1177/1362361319885215",
+    "mag": "2989984373",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/31782658"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1177/1362361319885215",
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.1177/1362361319885215",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S1824407",
+      "display_name": "Autism",
+      "issn_l": "1362-3613",
+      "issn": [
+        "1362-3613",
+        "1461-7005"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320017",
+      "host_organization_name": "SAGE Publishing",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320017"
+      ],
+      "host_organization_lineage_names": [
+        "SAGE Publishing"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Autism",
+    "raw_type": "journal-article"
+  },
+  "type": "review",
+  "indexed_in": [
+    "crossref",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5074710186",
+        "display_name": "Anneliese R. Ruggeri",
+        "orcid": "https://orcid.org/0000-0002-5841-7410"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I1336910626",
+          "display_name": "Children's Hospital of Los Angeles",
+          "ror": "https://ror.org/00412ts95",
+          "country_code": "US",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I1336910626"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I1174212",
+          "display_name": "University of Southern California",
+          "ror": "https://ror.org/03taz7m60",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I1174212"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Anneliese Ruggeri",
+      "raw_affiliation_strings": [
+        "Children's Hospital Los Angeles, USA",
+        "University of Southern California, USA"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Children's Hospital Los Angeles, USA",
+          "institution_ids": [
+            "https://openalex.org/I1336910626"
+          ]
+        },
+        {
+          "raw_affiliation_string": "University of Southern California, USA",
+          "institution_ids": [
+            "https://openalex.org/I1174212"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5047557714",
+        "display_name": "Alina Dancel",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I1336910626",
+          "display_name": "Children's Hospital of Los Angeles",
+          "ror": "https://ror.org/00412ts95",
+          "country_code": "US",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I1336910626"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I1174212",
+          "display_name": "University of Southern California",
+          "ror": "https://ror.org/03taz7m60",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I1174212"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Alina Dancel",
+      "raw_affiliation_strings": [
+        "Children's Hospital Los Angeles, USA",
+        "University of Southern California, USA"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Children's Hospital Los Angeles, USA",
+          "institution_ids": [
+            "https://openalex.org/I1336910626"
+          ]
+        },
+        {
+          "raw_affiliation_string": "University of Southern California, USA",
+          "institution_ids": [
+            "https://openalex.org/I1174212"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5067690654",
+        "display_name": "Robert Johnson",
+        "orcid": "https://orcid.org/0000-0002-8897-5800"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I1174212",
+          "display_name": "University of Southern California",
+          "ror": "https://ror.org/03taz7m60",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I1174212"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Robert Johnson",
+      "raw_affiliation_strings": [
+        "University of Southern California, USA"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "University of Southern California, USA",
+          "institution_ids": [
+            "https://openalex.org/I1174212"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5086644881",
+        "display_name": "Barbara Sargent",
+        "orcid": "https://orcid.org/0000-0002-2261-6610"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I1174212",
+          "display_name": "University of Southern California",
+          "ror": "https://ror.org/03taz7m60",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I1174212"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Barbara Sargent",
+      "raw_affiliation_strings": [
+        "University of Southern California, USA"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "University of Southern California, USA",
+          "institution_ids": [
+            "https://openalex.org/I1174212"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 4,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5074710186"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I1174212",
+    "https://openalex.org/I1336910626"
+  ],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 8.24085358,
+  "has_fulltext": false,
+  "cited_by_count": 163,
+  "citation_normalized_percentile": {
+    "value": 0.98122013,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 90,
+    "max": 100
+  },
+  "biblio": {
+    "volume": "24",
+    "issue": "3",
+    "first_page": "544",
+    "last_page": "568"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10106",
+    "display_name": "Autism Spectrum Disorder Research",
+    "score": 0.9998999834060669,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2805",
+      "display_name": "Cognitive Neuroscience"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/28",
+      "display_name": "Neuroscience"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/1",
+      "display_name": "Life Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10106",
+      "display_name": "Autism Spectrum Disorder Research",
+      "score": 0.9998999834060669,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2805",
+        "display_name": "Cognitive Neuroscience"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/28",
+        "display_name": "Neuroscience"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12241",
+      "display_name": "Children's Physical and Motor Development",
+      "score": 0.9987000226974487,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3204",
+        "display_name": "Developmental and Educational Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11097",
+      "display_name": "Cerebral Palsy and Movement Disorders",
+      "score": 0.9962000250816345,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2738",
+        "display_name": "Psychiatry and Mental health"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/motor-skill",
+      "display_name": "Motor skill",
+      "score": 0.7390727400779724
+    },
+    {
+      "id": "https://openalex.org/keywords/psychology",
+      "display_name": "Psychology",
+      "score": 0.7046573758125305
+    },
+    {
+      "id": "https://openalex.org/keywords/autism-spectrum-disorder",
+      "display_name": "Autism spectrum disorder",
+      "score": 0.6881430745124817
+    },
+    {
+      "id": "https://openalex.org/keywords/psychological-intervention",
+      "display_name": "Psychological intervention",
+      "score": 0.6730175018310547
+    },
+    {
+      "id": "https://openalex.org/keywords/motor-learning",
+      "display_name": "Motor learning",
+      "score": 0.6531627774238586
+    },
+    {
+      "id": "https://openalex.org/keywords/autism",
+      "display_name": "Autism",
+      "score": 0.6077495813369751
+    },
+    {
+      "id": "https://openalex.org/keywords/intervention",
+      "display_name": "Intervention (counseling)",
+      "score": 0.5705500841140747
+    },
+    {
+      "id": "https://openalex.org/keywords/physical-medicine-and-rehabilitation",
+      "display_name": "Physical medicine and rehabilitation",
+      "score": 0.4876061975955963
+    },
+    {
+      "id": "https://openalex.org/keywords/developmental-psychology",
+      "display_name": "Developmental psychology",
+      "score": 0.40673747658729553
+    },
+    {
+      "id": "https://openalex.org/keywords/medicine",
+      "display_name": "Medicine",
+      "score": 0.15591591596603394
+    },
+    {
+      "id": "https://openalex.org/keywords/psychiatry",
+      "display_name": "Psychiatry",
+      "score": 0.10067322850227356
+    },
+    {
+      "id": "https://openalex.org/keywords/neuroscience",
+      "display_name": "Neuroscience",
+      "score": 0.068095862865448
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C169976356",
+      "wikidata": "https://www.wikidata.org/wiki/Q13208902",
+      "display_name": "Motor skill",
+      "level": 2,
+      "score": 0.7390727400779724
+    },
+    {
+      "id": "https://openalex.org/C15744967",
+      "wikidata": "https://www.wikidata.org/wiki/Q9418",
+      "display_name": "Psychology",
+      "level": 0,
+      "score": 0.7046573758125305
+    },
+    {
+      "id": "https://openalex.org/C2778538070",
+      "wikidata": "https://www.wikidata.org/wiki/Q1436063",
+      "display_name": "Autism spectrum disorder",
+      "level": 3,
+      "score": 0.6881430745124817
+    },
+    {
+      "id": "https://openalex.org/C27415008",
+      "wikidata": "https://www.wikidata.org/wiki/Q7256382",
+      "display_name": "Psychological intervention",
+      "level": 2,
+      "score": 0.6730175018310547
+    },
+    {
+      "id": "https://openalex.org/C107690735",
+      "wikidata": "https://www.wikidata.org/wiki/Q852461",
+      "display_name": "Motor learning",
+      "level": 2,
+      "score": 0.6531627774238586
+    },
+    {
+      "id": "https://openalex.org/C205778803",
+      "wikidata": "https://www.wikidata.org/wiki/Q38404",
+      "display_name": "Autism",
+      "level": 2,
+      "score": 0.6077495813369751
+    },
+    {
+      "id": "https://openalex.org/C2780665704",
+      "wikidata": "https://www.wikidata.org/wiki/Q959298",
+      "display_name": "Intervention (counseling)",
+      "level": 2,
+      "score": 0.5705500841140747
+    },
+    {
+      "id": "https://openalex.org/C99508421",
+      "wikidata": "https://www.wikidata.org/wiki/Q2678675",
+      "display_name": "Physical medicine and rehabilitation",
+      "level": 1,
+      "score": 0.4876061975955963
+    },
+    {
+      "id": "https://openalex.org/C138496976",
+      "wikidata": "https://www.wikidata.org/wiki/Q175002",
+      "display_name": "Developmental psychology",
+      "level": 1,
+      "score": 0.40673747658729553
+    },
+    {
+      "id": "https://openalex.org/C71924100",
+      "wikidata": "https://www.wikidata.org/wiki/Q11190",
+      "display_name": "Medicine",
+      "level": 0,
+      "score": 0.15591591596603394
+    },
+    {
+      "id": "https://openalex.org/C118552586",
+      "wikidata": "https://www.wikidata.org/wiki/Q7867",
+      "display_name": "Psychiatry",
+      "level": 1,
+      "score": 0.10067322850227356
+    },
+    {
+      "id": "https://openalex.org/C169760540",
+      "wikidata": "https://www.wikidata.org/wiki/Q207011",
+      "display_name": "Neuroscience",
+      "level": 1,
+      "score": 0.068095862865448
+    }
+  ],
+  "mesh": [
+    {
+      "descriptor_ui": "D000818",
+      "descriptor_name": "Animals",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000067877",
+      "descriptor_name": "Autism Spectrum Disorder",
+      "qualifier_ui": "Q000503",
+      "qualifier_name": "physiopathology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000067877",
+      "descriptor_name": "Autism Spectrum Disorder",
+      "qualifier_ui": "Q000628",
+      "qualifier_name": "therapy",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D002648",
+      "descriptor_name": "Child",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015444",
+      "descriptor_name": "Exercise",
+      "qualifier_ui": "Q000502",
+      "qualifier_name": "physiology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006736",
+      "descriptor_name": "Horses",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D009048",
+      "descriptor_name": "Motor Skills",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D010806",
+      "descriptor_name": "Physical Education and Training",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D000818",
+      "descriptor_name": "Animals",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000067877",
+      "descriptor_name": "Autism Spectrum Disorder",
+      "qualifier_ui": "Q000503",
+      "qualifier_name": "physiopathology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000067877",
+      "descriptor_name": "Autism Spectrum Disorder",
+      "qualifier_ui": "Q000628",
+      "qualifier_name": "therapy",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D002648",
+      "descriptor_name": "Child",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015444",
+      "descriptor_name": "Exercise",
+      "qualifier_ui": "Q000502",
+      "qualifier_name": "physiology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006736",
+      "descriptor_name": "Horses",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D009048",
+      "descriptor_name": "Motor Skills",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D010806",
+      "descriptor_name": "Physical Education and Training",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    }
+  ],
+  "locations_count": 2,
+  "locations": [
+    {
+      "id": "doi:10.1177/1362361319885215",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1177/1362361319885215",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S1824407",
+        "display_name": "Autism",
+        "issn_l": "1362-3613",
+        "issn": [
+          "1362-3613",
+          "1461-7005"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320017",
+        "host_organization_name": "SAGE Publishing",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320017"
+        ],
+        "host_organization_lineage_names": [
+          "SAGE Publishing"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Autism",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:31782658",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/31782658",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Autism : the international journal of research and practice",
+      "raw_type": null
+    }
+  ],
+  "best_oa_location": null,
+  "sustainable_development_goals": [
+    {
+      "id": "https://metadata.un.org/sdg/4",
+      "display_name": "Quality Education",
+      "score": 0.8100000023841858
+    }
+  ],
+  "awards": [
+    {
+      "id": "https://openalex.org/G5441092245",
+      "display_name": null,
+      "funder_award_id": "K12-HD055929",
+      "funder_id": "https://openalex.org/F4320337376",
+      "funder_display_name": "NIH Clinical Center"
+    }
+  ],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320337376",
+      "display_name": "NIH Clinical Center",
+      "ror": "https://ror.org/04vfsmv21"
+    }
+  ],
+  "has_content": {
+    "pdf": false,
+    "grobid_xml": false
+  },
+  "referenced_works_count": 78,
+  "referenced_works": [
+    "https://openalex.org/W2884458097",
+    "https://openalex.org/W1977133181",
+    "https://openalex.org/W2752729050",
+    "https://openalex.org/W4247665917",
+    "https://openalex.org/W2126766567",
+    "https://openalex.org/W944598631",
+    "https://openalex.org/W1931540373",
+    "https://openalex.org/W2154832193",
+    "https://openalex.org/W2266641656",
+    "https://openalex.org/W2290584183",
+    "https://openalex.org/W2132945600",
+    "https://openalex.org/W2782842766",
+    "https://openalex.org/W2082738646",
+    "https://openalex.org/W2102444793",
+    "https://openalex.org/W2150020283",
+    "https://openalex.org/W2076889518",
+    "https://openalex.org/W2725839747",
+    "https://openalex.org/W2108669199",
+    "https://openalex.org/W2156153856",
+    "https://openalex.org/W2587322228",
+    "https://openalex.org/W1995107188",
+    "https://openalex.org/W2558339434",
+    "https://openalex.org/W2885707393",
+    "https://openalex.org/W2145206707",
+    "https://openalex.org/W1998278697",
+    "https://openalex.org/W1591614276",
+    "https://openalex.org/W2026554888",
+    "https://openalex.org/W2041357893",
+    "https://openalex.org/W2621357550",
+    "https://openalex.org/W2801318701",
+    "https://openalex.org/W2026180203",
+    "https://openalex.org/W2150435903",
+    "https://openalex.org/W2470286367",
+    "https://openalex.org/W2118780982",
+    "https://openalex.org/W1964110829",
+    "https://openalex.org/W1983674500",
+    "https://openalex.org/W2144446993",
+    "https://openalex.org/W2288781732",
+    "https://openalex.org/W1983745179",
+    "https://openalex.org/W4294215472",
+    "https://openalex.org/W2760950911",
+    "https://openalex.org/W2782449692",
+    "https://openalex.org/W2796897582",
+    "https://openalex.org/W2050993877",
+    "https://openalex.org/W2010418015",
+    "https://openalex.org/W2317407615",
+    "https://openalex.org/W2170880970",
+    "https://openalex.org/W1975025708",
+    "https://openalex.org/W2109232145",
+    "https://openalex.org/W2086018516",
+    "https://openalex.org/W2758053316",
+    "https://openalex.org/W2787701773",
+    "https://openalex.org/W2912629270",
+    "https://openalex.org/W2549333693",
+    "https://openalex.org/W2434132484",
+    "https://openalex.org/W2103041243",
+    "https://openalex.org/W2792687493",
+    "https://openalex.org/W2202330825",
+    "https://openalex.org/W2136695023",
+    "https://openalex.org/W2793105605",
+    "https://openalex.org/W2461048406",
+    "https://openalex.org/W2087762870",
+    "https://openalex.org/W2107555020",
+    "https://openalex.org/W2771250504",
+    "https://openalex.org/W2756098962",
+    "https://openalex.org/W2772689875",
+    "https://openalex.org/W2902973428",
+    "https://openalex.org/W2902455987",
+    "https://openalex.org/W2141980396",
+    "https://openalex.org/W2775330789",
+    "https://openalex.org/W4300628483",
+    "https://openalex.org/W2373497971",
+    "https://openalex.org/W3196369884",
+    "https://openalex.org/W4242435441",
+    "https://openalex.org/W259030452",
+    "https://openalex.org/W2476995919",
+    "https://openalex.org/W2156098321",
+    "https://openalex.org/W2414335335"
+  ],
+  "related_works": [
+    "https://openalex.org/W4308126387",
+    "https://openalex.org/W1970523025",
+    "https://openalex.org/W2071080072",
+    "https://openalex.org/W2013588380",
+    "https://openalex.org/W2801972429",
+    "https://openalex.org/W3185285019",
+    "https://openalex.org/W2368697114",
+    "https://openalex.org/W1967161469",
+    "https://openalex.org/W2347647442",
+    "https://openalex.org/W2073908631"
+  ],
+  "abstract_inverted_index": {
+    "Difficulty": [
+      0
+    ],
+    "performing": [
+      1
+    ],
+    "age-appropriate": [
+      2
+    ],
+    "motor": [
+      3,
+      22,
+      28,
+      40,
+      44,
+      67,
+      115,
+      117,
+      134,
+      136,
+      149,
+      154,
+      176,
+      194,
+      203
+    ],
+    "skills": [
+      4
+    ],
+    "affects": [
+      5
+    ],
+    "up": [
+      6
+    ],
+    "to": [
+      7,
+      56,
+      89
+    ],
+    "83%": [
+      8
+    ],
+    "of": [
+      9,
+      21,
+      30,
+      39,
+      73
+    ],
+    "children": [
+      10,
+      31,
+      81
+    ],
+    "with": [
+      11,
+      32,
+      82,
+      105,
+      113,
+      131,
+      158,
+      180
+    ],
+    "autism": [
+      12,
+      33,
+      83
+    ],
+    "spectrum": [
+      13,
+      34,
+      84
+    ],
+    "disorder.": [
+      14
+    ],
+    "This": [
+      15
+    ],
+    "systematic": [
+      16
+    ],
+    "review": [
+      17
+    ],
+    "examined": [
+      18
+    ],
+    "the": [
+      19,
+      37,
+      74
+    ],
+    "effect": [
+      20,
+      38
+    ],
+    "and": [
+      23,
+      36,
+      48,
+      65,
+      96,
+      119,
+      124,
+      127,
+      138,
+      147,
+      187
+    ],
+    "physical": [
+      24,
+      107
+    ],
+    "activity": [
+      25,
+      110
+    ],
+    "intervention": [
+      26,
+      63,
+      98,
+      177
+    ],
+    "on": [
+      27,
+      43,
+      175,
+      193
+    ],
+    "outcomes": [
+      29,
+      103,
+      111,
+      129
+    ],
+    "disorder": [
+      35,
+      85
+    ],
+    "learning": [
+      41,
+      68,
+      150,
+      195
+    ],
+    "strategies": [
+      42,
+      196
+    ],
+    "skill": [
+      45,
+      155
+    ],
+    "acquisition,": [
+      46
+    ],
+    "retention,": [
+      47
+    ],
+    "transfer.": [
+      49
+    ],
+    "Six": [
+      50
+    ],
+    "databases": [
+      51
+    ],
+    "were": [
+      52,
+      60
+    ],
+    "searched": [
+      53
+    ],
+    "from": [
+      54,
+      87,
+      93,
+      144
+    ],
+    "2000": [
+      55
+    ],
+    "2019.": [
+      57
+    ],
+    "Forty-one": [
+      58
+    ],
+    "studies": [
+      59,
+      64,
+      99,
+      151
+    ],
+    "included:": [
+      61
+    ],
+    "34": [
+      62
+    ],
+    "7": [
+      66
+    ],
+    "studies.": [
+      69
+    ],
+    "The": [
+      70
+    ],
+    "overall": [
+      71
+    ],
+    "quality": [
+      72
+    ],
+    "evidence": [
+      75
+    ],
+    "was": [
+      76,
+      164
+    ],
+    "low.": [
+      77
+    ],
+    "Participants": [
+      78
+    ],
+    "included": [
+      79
+    ],
+    "1173": [
+      80
+    ],
+    "ranging": [
+      86
+    ],
+    "3": [
+      88
+    ],
+    "19": [
+      90
+    ],
+    "years.": [
+      91
+    ],
+    "Results": [
+      92,
+      143
+    ],
+    "level": [
+      94,
+      145
+    ],
+    "II": [
+      95,
+      146
+    ],
+    "III": [
+      97,
+      148
+    ],
+    "supported": [
+      100,
+      152
+    ],
+    "that": [
+      101,
+      153
+    ],
+    "participation": [
+      102
+    ],
+    "improved": [
+      104,
+      112,
+      130,
+      157
+    ],
+    "a": [
+      106
+    ],
+    "education": [
+      108
+    ],
+    "intervention;": [
+      109
+    ],
+    "aquatic,": [
+      114,
+      132
+    ],
+    "activity,": [
+      116,
+      135
+    ],
+    "skill,": [
+      118,
+      137
+    ],
+    "simulated": [
+      120,
+      139
+    ],
+    "horse": [
+      121,
+      140
+    ],
+    "riding": [
+      122,
+      141
+    ],
+    "interventions;": [
+      123
+    ],
+    "body": [
+      125
+    ],
+    "structure": [
+      126
+    ],
+    "function": [
+      128
+    ],
+    "exergaming,": [
+      133
+    ],
+    "interventions.": [
+      142,
+      204
+    ],
+    "acquisition": [
+      156
+    ],
+    "visual,": [
+      159
+    ],
+    "versus": [
+      160
+    ],
+    "verbal,": [
+      161
+    ],
+    "instructions": [
+      162
+    ],
+    "but": [
+      163
+    ],
+    "not": [
+      165
+    ],
+    "influenced": [
+      166
+    ],
+    "by": [
+      167
+    ],
+    "differences": [
+      168
+    ],
+    "in": [
+      169
+    ],
+    "instructional": [
+      170
+    ],
+    "personnel.": [
+      171
+    ],
+    "More": [
+      172
+    ],
+    "rigorous": [
+      173
+    ],
+    "research": [
+      174,
+      192
+    ],
+    "is": [
+      178,
+      197
+    ],
+    "needed": [
+      179
+    ],
+    "well-controlled": [
+      181
+    ],
+    "study": [
+      182
+    ],
+    "designs,": [
+      183
+    ],
+    "adequate": [
+      184
+    ],
+    "sample": [
+      185
+    ],
+    "sizes,": [
+      186
+    ],
+    "manualized": [
+      188
+    ],
+    "protocols.": [
+      189
+    ],
+    "In": [
+      190
+    ],
+    "addition,": [
+      191
+    ],
+    "warranted": [
+      198
+    ],
+    "as": [
+      199
+    ],
+    "it": [
+      200
+    ],
+    "generalizes": [
+      201
+    ],
+    "across": [
+      202
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 29
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 38
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 36
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 27
+    },
+    {
+      "year": 2021,
+      "cited_by_count": 21
+    },
+    {
+      "year": 2020,
+      "cited_by_count": 11
+    },
+    {
+      "year": 2019,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2025-11-06T03:46:38.306776",
+  "created_date": "2025-10-10T00:00:00"
+}

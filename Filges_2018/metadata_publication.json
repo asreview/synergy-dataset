@@ -1,0 +1,2900 @@
+{
+  "id": "https://openalex.org/W191305669",
+  "doi": "https://doi.org/10.4073/csr.2018.10",
+  "title": "Small class sizes for improving student achievement in primary and secondary schools: a systematic review",
+  "display_name": "Small class sizes for improving student achievement in primary and secondary schools: a systematic review",
+  "publication_year": 2018,
+  "publication_date": "2018-01-01",
+  "ids": {
+    "openalex": "https://openalex.org/W191305669",
+    "doi": "https://doi.org/10.4073/csr.2018.10",
+    "mag": "191305669",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/37131395"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.4073/csr.2018.10",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.4073/csr.2018.10",
+    "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.4073/csr.2018.10",
+    "source": {
+      "id": "https://openalex.org/S2739193000",
+      "display_name": "Campbell Systematic Reviews",
+      "issn_l": "1891-1803",
+      "issn": [
+        "1891-1803"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310314072",
+      "host_organization_name": "The Campbell Collaboration",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310314072"
+      ],
+      "host_organization_lineage_names": [
+        "The Campbell Collaboration"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Campbell Systematic Reviews",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref",
+    "doaj",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "diamond",
+    "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.4073/csr.2018.10",
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5025399865",
+        "display_name": "Trine Filges",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Trine Filges",
+      "raw_affiliation_strings": [],
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5029653876",
+        "display_name": "Christoffer Scavenius Sonne\u2010Schmidt",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Christoffer Scavenius Sonne-Schmidt",
+      "raw_affiliation_strings": [],
+      "affiliations": []
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5032705560",
+        "display_name": "Bj\u00f8rn C. A. Viinholt",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Bj\u00f8rn Christian Viinholt Nielsen",
+      "raw_affiliation_strings": [],
+      "affiliations": []
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 0,
+  "institutions_distinct_count": 3,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 5.58391502,
+  "has_fulltext": false,
+  "cited_by_count": 8,
+  "citation_normalized_percentile": {
+    "value": 0.96258164,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 89,
+    "max": 97
+  },
+  "biblio": {
+    "volume": "14",
+    "issue": "1",
+    "first_page": "1",
+    "last_page": "107"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T13497",
+    "display_name": "Hermeneutics and Narrative Identity",
+    "score": 0.9879000186920166,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1211",
+      "display_name": "Philosophy"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/12",
+      "display_name": "Arts and Humanities"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/2",
+      "display_name": "Social Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T13497",
+      "display_name": "Hermeneutics and Narrative Identity",
+      "score": 0.9879000186920166,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1211",
+        "display_name": "Philosophy"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/12",
+        "display_name": "Arts and Humanities"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13695",
+      "display_name": "Aging, Elder Care, and Social Issues",
+      "score": 0.9749000072479248,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3600",
+        "display_name": "General Health Professions"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/36",
+        "display_name": "Health Professions"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13099",
+      "display_name": "Health, Medicine and Society",
+      "score": 0.95660001039505,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3600",
+        "display_name": "General Health Professions"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/36",
+        "display_name": "Health Professions"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/class",
+      "display_name": "Class (philosophy)",
+      "score": 0.642166256904602
+    },
+    {
+      "id": "https://openalex.org/keywords/mathematics-education",
+      "display_name": "Mathematics education",
+      "score": 0.598625898361206
+    },
+    {
+      "id": "https://openalex.org/keywords/class-size",
+      "display_name": "Class size",
+      "score": 0.5809457898139954
+    },
+    {
+      "id": "https://openalex.org/keywords/academic-achievement",
+      "display_name": "Academic achievement",
+      "score": 0.4547696113586426
+    },
+    {
+      "id": "https://openalex.org/keywords/primary",
+      "display_name": "Primary (astronomy)",
+      "score": 0.41224244236946106
+    },
+    {
+      "id": "https://openalex.org/keywords/psychology",
+      "display_name": "Psychology",
+      "score": 0.37469732761383057
+    },
+    {
+      "id": "https://openalex.org/keywords/computer-science",
+      "display_name": "Computer science",
+      "score": 0.318209707736969
+    },
+    {
+      "id": "https://openalex.org/keywords/artificial-intelligence",
+      "display_name": "Artificial intelligence",
+      "score": 0.1218637228012085
+    },
+    {
+      "id": "https://openalex.org/keywords/physics",
+      "display_name": "Physics",
+      "score": 0.10986897349357605
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C2777212361",
+      "wikidata": "https://www.wikidata.org/wiki/Q5127848",
+      "display_name": "Class (philosophy)",
+      "level": 2,
+      "score": 0.642166256904602
+    },
+    {
+      "id": "https://openalex.org/C145420912",
+      "wikidata": "https://www.wikidata.org/wiki/Q853077",
+      "display_name": "Mathematics education",
+      "level": 1,
+      "score": 0.598625898361206
+    },
+    {
+      "id": "https://openalex.org/C2776824051",
+      "wikidata": "https://www.wikidata.org/wiki/Q22907283",
+      "display_name": "Class size",
+      "level": 2,
+      "score": 0.5809457898139954
+    },
+    {
+      "id": "https://openalex.org/C2781206393",
+      "wikidata": "https://www.wikidata.org/wiki/Q2748419",
+      "display_name": "Academic achievement",
+      "level": 2,
+      "score": 0.4547696113586426
+    },
+    {
+      "id": "https://openalex.org/C2777977315",
+      "wikidata": "https://www.wikidata.org/wiki/Q7243056",
+      "display_name": "Primary (astronomy)",
+      "level": 2,
+      "score": 0.41224244236946106
+    },
+    {
+      "id": "https://openalex.org/C15744967",
+      "wikidata": "https://www.wikidata.org/wiki/Q9418",
+      "display_name": "Psychology",
+      "level": 0,
+      "score": 0.37469732761383057
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.318209707736969
+    },
+    {
+      "id": "https://openalex.org/C154945302",
+      "wikidata": "https://www.wikidata.org/wiki/Q11660",
+      "display_name": "Artificial intelligence",
+      "level": 1,
+      "score": 0.1218637228012085
+    },
+    {
+      "id": "https://openalex.org/C121332964",
+      "wikidata": "https://www.wikidata.org/wiki/Q413",
+      "display_name": "Physics",
+      "level": 0,
+      "score": 0.10986897349357605
+    },
+    {
+      "id": "https://openalex.org/C1276947",
+      "wikidata": "https://www.wikidata.org/wiki/Q333",
+      "display_name": "Astronomy",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 5,
+  "locations": [
+    {
+      "id": "doi:10.4073/csr.2018.10",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.4073/csr.2018.10",
+      "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.4073/csr.2018.10",
+      "source": {
+        "id": "https://openalex.org/S2739193000",
+        "display_name": "Campbell Systematic Reviews",
+        "issn_l": "1891-1803",
+        "issn": [
+          "1891-1803"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310314072",
+        "host_organization_name": "The Campbell Collaboration",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310314072"
+        ],
+        "host_organization_lineage_names": [
+          "The Campbell Collaboration"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Campbell Systematic Reviews",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:37131395",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/37131395",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Campbell systematic reviews",
+      "raw_type": null
+    },
+    {
+      "id": "pmh:oai:doaj.org/article:28e888f45fc34435a67eb925e445531c",
+      "is_oa": true,
+      "landing_page_url": "https://doaj.org/article/28e888f45fc34435a67eb925e445531c",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401280",
+        "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by-sa",
+      "license_id": "https://openalex.org/licenses/cc-by-sa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Campbell Systematic Reviews, Vol 14, Iss 1, Pp 1-107 (2018)",
+      "raw_type": "article"
+    },
+    {
+      "id": "pmh:oai:pubmedcentral.nih.gov:8428040",
+      "is_oa": true,
+      "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/8428040",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S2764455111",
+        "display_name": "PubMed Central",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "other-oa",
+      "license_id": "https://openalex.org/licenses/other-oa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Campbell Syst Rev",
+      "raw_type": "Text"
+    },
+    {
+      "id": "pmh:oai:repositorio.minedu.gob.pe:20.500.12799/6550",
+      "is_oa": true,
+      "landing_page_url": "https://hdl.handle.net/20.500.12799/6550",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306519979",
+        "display_name": "MINISTERIO DE EDUCACI\u00d3N",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "journal"
+      },
+      "license": "other-oa",
+      "license_id": "https://openalex.org/licenses/other-oa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "MINISTERIO DE EDUCACI\u00d3N",
+      "raw_type": "Reporte t\u00e9cnico"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.4073/csr.2018.10",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.4073/csr.2018.10",
+    "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.4073/csr.2018.10",
+    "source": {
+      "id": "https://openalex.org/S2739193000",
+      "display_name": "Campbell Systematic Reviews",
+      "issn_l": "1891-1803",
+      "issn": [
+        "1891-1803"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310314072",
+      "host_organization_name": "The Campbell Collaboration",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310314072"
+      ],
+      "host_organization_lineage_names": [
+        "The Campbell Collaboration"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Campbell Systematic Reviews",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "pdf": true,
+    "grobid_xml": true
+  },
+  "referenced_works_count": 188,
+  "referenced_works": [
+    "https://openalex.org/W2135730600",
+    "https://openalex.org/W2104255052",
+    "https://openalex.org/W2154068546",
+    "https://openalex.org/W4231138050",
+    "https://openalex.org/W2136814631",
+    "https://openalex.org/W2161584222",
+    "https://openalex.org/W2156396199",
+    "https://openalex.org/W1986997848",
+    "https://openalex.org/W2061977804",
+    "https://openalex.org/W2142644047",
+    "https://openalex.org/W2095363798",
+    "https://openalex.org/W2015710403",
+    "https://openalex.org/W2068617850",
+    "https://openalex.org/W276949177",
+    "https://openalex.org/W2079052320",
+    "https://openalex.org/W1598599709",
+    "https://openalex.org/W2023727762",
+    "https://openalex.org/W2110595762",
+    "https://openalex.org/W4230697873",
+    "https://openalex.org/W2145862085",
+    "https://openalex.org/W2156471102",
+    "https://openalex.org/W3125851831",
+    "https://openalex.org/W3022419584",
+    "https://openalex.org/W3124049130",
+    "https://openalex.org/W1976231030",
+    "https://openalex.org/W1584230737",
+    "https://openalex.org/W1999360601",
+    "https://openalex.org/W2166353773",
+    "https://openalex.org/W6740314297",
+    "https://openalex.org/W2050306953",
+    "https://openalex.org/W2139403502",
+    "https://openalex.org/W2045365986",
+    "https://openalex.org/W1977979273",
+    "https://openalex.org/W2144062847",
+    "https://openalex.org/W2030390755",
+    "https://openalex.org/W2040291538",
+    "https://openalex.org/W2161058520",
+    "https://openalex.org/W2129816085",
+    "https://openalex.org/W2287264615",
+    "https://openalex.org/W223731380",
+    "https://openalex.org/W2048424354",
+    "https://openalex.org/W2008600765",
+    "https://openalex.org/W4240884942",
+    "https://openalex.org/W3123009801",
+    "https://openalex.org/W1587759655",
+    "https://openalex.org/W2108249499",
+    "https://openalex.org/W2158080564",
+    "https://openalex.org/W4254758485",
+    "https://openalex.org/W3121561657",
+    "https://openalex.org/W4229643113",
+    "https://openalex.org/W2148824778",
+    "https://openalex.org/W2041478210",
+    "https://openalex.org/W2165714295",
+    "https://openalex.org/W3125029338",
+    "https://openalex.org/W1512322843",
+    "https://openalex.org/W2579917161",
+    "https://openalex.org/W2149695156",
+    "https://openalex.org/W75611220",
+    "https://openalex.org/W1657555008",
+    "https://openalex.org/W45919241",
+    "https://openalex.org/W2166338594",
+    "https://openalex.org/W6684917856",
+    "https://openalex.org/W1603202186",
+    "https://openalex.org/W2105229062",
+    "https://openalex.org/W2048868034",
+    "https://openalex.org/W1993880858",
+    "https://openalex.org/W2514562079",
+    "https://openalex.org/W2725463557",
+    "https://openalex.org/W116197087",
+    "https://openalex.org/W2070547097",
+    "https://openalex.org/W2588793797",
+    "https://openalex.org/W1991722958",
+    "https://openalex.org/W2235592767",
+    "https://openalex.org/W2093961770",
+    "https://openalex.org/W3121801322",
+    "https://openalex.org/W2105190906",
+    "https://openalex.org/W2411303030",
+    "https://openalex.org/W2421344716",
+    "https://openalex.org/W1604561742",
+    "https://openalex.org/W4252011695",
+    "https://openalex.org/W2524457874",
+    "https://openalex.org/W2336440220",
+    "https://openalex.org/W2588271694",
+    "https://openalex.org/W3123506010",
+    "https://openalex.org/W2117691894",
+    "https://openalex.org/W2159875025",
+    "https://openalex.org/W185457627",
+    "https://openalex.org/W2005138743",
+    "https://openalex.org/W1559821202",
+    "https://openalex.org/W2087871380",
+    "https://openalex.org/W2068367493",
+    "https://openalex.org/W1989791552",
+    "https://openalex.org/W364007801",
+    "https://openalex.org/W3020883184",
+    "https://openalex.org/W2153308398",
+    "https://openalex.org/W2053039686",
+    "https://openalex.org/W62389260",
+    "https://openalex.org/W2076453587",
+    "https://openalex.org/W1582541632",
+    "https://openalex.org/W2006292343",
+    "https://openalex.org/W2510136811",
+    "https://openalex.org/W3125425438",
+    "https://openalex.org/W1966171511",
+    "https://openalex.org/W1892608371",
+    "https://openalex.org/W2135806589",
+    "https://openalex.org/W1666954427",
+    "https://openalex.org/W2020190914",
+    "https://openalex.org/W3122457973",
+    "https://openalex.org/W2152628853",
+    "https://openalex.org/W3121548436",
+    "https://openalex.org/W2605930022",
+    "https://openalex.org/W2253027725",
+    "https://openalex.org/W2121251751",
+    "https://openalex.org/W2002676718",
+    "https://openalex.org/W3122529202",
+    "https://openalex.org/W1876121935",
+    "https://openalex.org/W3122630085",
+    "https://openalex.org/W1982204131",
+    "https://openalex.org/W1672174194",
+    "https://openalex.org/W2129971608",
+    "https://openalex.org/W1505234032",
+    "https://openalex.org/W2047497280",
+    "https://openalex.org/W1486395734",
+    "https://openalex.org/W2341773229",
+    "https://openalex.org/W1970361948",
+    "https://openalex.org/W4205449974",
+    "https://openalex.org/W3215855766",
+    "https://openalex.org/W21825351",
+    "https://openalex.org/W2001665216",
+    "https://openalex.org/W2310551171",
+    "https://openalex.org/W112443221",
+    "https://openalex.org/W1593902032",
+    "https://openalex.org/W2184565172",
+    "https://openalex.org/W2080555458",
+    "https://openalex.org/W3125297176",
+    "https://openalex.org/W2531799591",
+    "https://openalex.org/W2126532773",
+    "https://openalex.org/W2230683657",
+    "https://openalex.org/W1985139373",
+    "https://openalex.org/W3125497920",
+    "https://openalex.org/W2118993347",
+    "https://openalex.org/W2109320265",
+    "https://openalex.org/W2307943130",
+    "https://openalex.org/W2018145507",
+    "https://openalex.org/W2158832105",
+    "https://openalex.org/W3121498260",
+    "https://openalex.org/W2141395948",
+    "https://openalex.org/W2088262389",
+    "https://openalex.org/W113158001",
+    "https://openalex.org/W6898615629",
+    "https://openalex.org/W103688655",
+    "https://openalex.org/W2146981191",
+    "https://openalex.org/W2577227262",
+    "https://openalex.org/W2023506976",
+    "https://openalex.org/W6600456411",
+    "https://openalex.org/W2112395155",
+    "https://openalex.org/W2169558304",
+    "https://openalex.org/W2135596283",
+    "https://openalex.org/W3121306186",
+    "https://openalex.org/W2892246268",
+    "https://openalex.org/W2051436187",
+    "https://openalex.org/W2065237940",
+    "https://openalex.org/W1969426771",
+    "https://openalex.org/W2112447070",
+    "https://openalex.org/W2031246637",
+    "https://openalex.org/W2151405544",
+    "https://openalex.org/W3123722989",
+    "https://openalex.org/W1970504041",
+    "https://openalex.org/W2167199524",
+    "https://openalex.org/W2132744755",
+    "https://openalex.org/W2080083786",
+    "https://openalex.org/W2019578697",
+    "https://openalex.org/W1598602811",
+    "https://openalex.org/W2125435699",
+    "https://openalex.org/W2034661363",
+    "https://openalex.org/W2162397375",
+    "https://openalex.org/W2032344422",
+    "https://openalex.org/W2002373229",
+    "https://openalex.org/W3124531509",
+    "https://openalex.org/W6618980683",
+    "https://openalex.org/W2004715991",
+    "https://openalex.org/W1983760254",
+    "https://openalex.org/W3121388701",
+    "https://openalex.org/W2124134517",
+    "https://openalex.org/W6729046299",
+    "https://openalex.org/W2252381982",
+    "https://openalex.org/W2053147499",
+    "https://openalex.org/W1997954504"
+  ],
+  "related_works": [
+    "https://openalex.org/W2916175340",
+    "https://openalex.org/W2625005061",
+    "https://openalex.org/W2528145023",
+    "https://openalex.org/W2907475126",
+    "https://openalex.org/W2884762811",
+    "https://openalex.org/W3197375088",
+    "https://openalex.org/W859174274",
+    "https://openalex.org/W2228907321",
+    "https://openalex.org/W79463859",
+    "https://openalex.org/W1864929808",
+    "https://openalex.org/W2909308064",
+    "https://openalex.org/W2467158904",
+    "https://openalex.org/W2793564891",
+    "https://openalex.org/W3012323604",
+    "https://openalex.org/W2956768521",
+    "https://openalex.org/W2802706799",
+    "https://openalex.org/W2765376151",
+    "https://openalex.org/W2903163115",
+    "https://openalex.org/W2171011664",
+    "https://openalex.org/W3090233214"
+  ],
+  "abstract_inverted_index": {
+    "This": [
+      0,
+      385,
+      439,
+      464,
+      834,
+      921,
+      1032
+    ],
+    "Campbell": [
+      1,
+      465,
+      922
+    ],
+    "systematic": [
+      2,
+      466,
+      923
+    ],
+    "review": [
+      3,
+      14,
+      325,
+      440,
+      467,
+      478,
+      740,
+      911,
+      924,
+      1067,
+      1287
+    ],
+    "examines": [
+      4,
+      468
+    ],
+    "the": [
+      5,
+      28,
+      40,
+      80,
+      103,
+      120,
+      123,
+      132,
+      139,
+      142,
+      164,
+      167,
+      179,
+      192,
+      195,
+      203,
+      222,
+      229,
+      248,
+      333,
+      347,
+      380,
+      383,
+      394,
+      416,
+      423,
+      425,
+      429,
+      449,
+      459,
+      469,
+      492,
+      496,
+      516,
+      556,
+      579,
+      596,
+      599,
+      608,
+      615,
+      619,
+      623,
+      645,
+      648,
+      660,
+      673,
+      676,
+      684,
+      703,
+      710,
+      729,
+      736,
+      761,
+      775,
+      811,
+      820,
+      828,
+      870,
+      889,
+      938,
+      972,
+      979,
+      981,
+      985,
+      1026,
+      1030,
+      1041,
+      1075,
+      1079,
+      1090,
+      1102,
+      1106,
+      1136,
+      1139,
+      1216,
+      1278,
+      1286,
+      1309,
+      1324,
+      1331,
+      1340,
+      1351
+    ],
+    "impact": [
+      6,
+      470,
+      783,
+      1134
+    ],
+    "of": [
+      7,
+      54,
+      72,
+      76,
+      97,
+      131,
+      194,
+      238,
+      276,
+      332,
+      370,
+      377,
+      396,
+      422,
+      432,
+      451,
+      461,
+      471,
+      499,
+      530,
+      548,
+      552,
+      573,
+      607,
+      675,
+      719,
+      738,
+      753,
+      807,
+      814,
+      822,
+      831,
+      857,
+      937,
+      978,
+      988,
+      1016,
+      1023,
+      1043,
+      1065,
+      1081,
+      1112,
+      1123,
+      1138,
+      1150,
+      1159,
+      1186,
+      1199,
+      1230,
+      1261,
+      1270,
+      1274,
+      1303
+    ],
+    "class": [
+      8,
+      113,
+      240,
+      257,
+      269,
+      282,
+      328,
+      371,
+      397,
+      452,
+      472,
+      589,
+      721,
+      755,
+      892,
+      933,
+      952,
+      1017,
+      1044,
+      1082,
+      1205
+    ],
+    "size": [
+      9,
+      114,
+      258,
+      270,
+      329,
+      372,
+      398,
+      453,
+      473,
+      590,
+      756,
+      841,
+      893,
+      934,
+      953,
+      1018,
+      1045,
+      1083,
+      1313
+    ],
+    "on": [
+      10,
+      52,
+      150,
+      161,
+      265,
+      296,
+      307,
+      344,
+      428,
+      454,
+      474,
+      528,
+      631,
+      642,
+      757,
+      771,
+      784,
+      949,
+      984,
+      1084,
+      1135,
+      1228
+    ],
+    "academic": [
+      11,
+      55,
+      266,
+      455,
+      475,
+      531,
+      1085,
+      1231
+    ],
+    "achievement.": [
+      12,
+      56,
+      152,
+      298,
+      456,
+      476,
+      532,
+      633,
+      1086,
+      1232
+    ],
+    "The": [
+      13,
+      48,
+      212,
+      288,
+      477,
+      524,
+      693,
+      791,
+      845,
+      910,
+      995,
+      1063,
+      1178,
+      1197,
+      1224,
+      1258,
+      1289
+    ],
+    "summarises": [
+      15,
+      479
+    ],
+    "findings": [
+      16,
+      443,
+      480,
+      498,
+      737
+    ],
+    "from": [
+      17,
+      20,
+      90,
+      102,
+      228,
+      444,
+      481,
+      484,
+      566,
+      578,
+      709,
+      810,
+      827,
+      1296,
+      1308,
+      1330
+    ],
+    "148": [
+      18,
+      77,
+      482,
+      553,
+      1275
+    ],
+    "reports": [
+      19,
+      442,
+      483
+    ],
+    "41": [
+      21,
+      91,
+      485,
+      567,
+      1297
+    ],
+    "countries.": [
+      22,
+      93,
+      486,
+      569,
+      1299
+    ],
+    "Ten": [
+      23,
+      487
+    ],
+    "studies": [
+      24,
+      31,
+      85,
+      98,
+      166,
+      230,
+      446,
+      488,
+      503,
+      507,
+      561,
+      574,
+      647,
+      711,
+      915,
+      1073,
+      1144,
+      1188,
+      1264,
+      1291,
+      1304,
+      1326,
+      1345
+    ],
+    "were": [
+      25,
+      66,
+      174,
+      489,
+      542,
+      655,
+      1145,
+      1163,
+      1180,
+      1192,
+      1242,
+      1251,
+      1282,
+      1356
+    ],
+    "included": [
+      26,
+      137,
+      490,
+      613,
+      1187,
+      1208
+    ],
+    "in": [
+      27,
+      34,
+      42,
+      45,
+      116,
+      119,
+      122,
+      138,
+      191,
+      351,
+      360,
+      374,
+      491,
+      510,
+      518,
+      521,
+      592,
+      595,
+      598,
+      614,
+      672,
+      860,
+      896,
+      927,
+      999,
+      1007,
+      1020,
+      1074,
+      1092,
+      1182,
+      1204,
+      1210,
+      1218,
+      1221,
+      1315,
+      1339,
+      1350
+    ],
+    "meta\u2010analysis.": [
+      29,
+      140,
+      493,
+      616
+    ],
+    "Included": [
+      30,
+      506
+    ],
+    "concerned": [
+      32,
+      508
+    ],
+    "children": [
+      33,
+      317,
+      509,
+      1209
+    ],
+    "grades": [
+      35,
+      511,
+      1211
+    ],
+    "kindergarten": [
+      36,
+      512,
+      1212
+    ],
+    "to": [
+      37,
+      176,
+      341,
+      367,
+      513,
+      657,
+      746,
+      796,
+      849,
+      862,
+      885,
+      898,
+      918,
+      946,
+      954,
+      1013,
+      1069,
+      1104,
+      1166,
+      1171,
+      1213,
+      1358
+    ],
+    "12": [
+      38,
+      514,
+      1214
+    ],
+    "(or": [
+      39,
+      515,
+      1215
+    ],
+    "equivalent": [
+      41,
+      517,
+      1217
+    ],
+    "European": [
+      43,
+      519,
+      1219
+    ],
+    "countries)": [
+      44,
+      520,
+      1220
+    ],
+    "general": [
+      46,
+      522,
+      1222
+    ],
+    "education.": [
+      47,
+      345,
+      523,
+      950,
+      1223
+    ],
+    "primary": [
+      49,
+      168,
+      196,
+      525,
+      649,
+      677,
+      1225
+    ],
+    "focus": [
+      50,
+      526,
+      1226
+    ],
+    "was": [
+      51,
+      111,
+      182,
+      188,
+      207,
+      527,
+      587,
+      663,
+      669,
+      688,
+      925,
+      1201,
+      1227
+    ],
+    "measures": [
+      53,
+      529,
+      1229
+    ],
+    "All": [
+      57,
+      225,
+      533,
+      706,
+      1233
+    ],
+    "study": [
+      58,
+      169,
+      197,
+      534,
+      650,
+      678,
+      1234
+    ],
+    "designs": [
+      59,
+      535,
+      1235
+    ],
+    "that": [
+      60,
+      315,
+      336,
+      355,
+      393,
+      404,
+      447,
+      536,
+      748,
+      802,
+      872,
+      941,
+      961,
+      1002,
+      1040,
+      1051,
+      1077,
+      1236,
+      1247
+    ],
+    "used": [
+      61,
+      537,
+      1237,
+      1338,
+      1349
+    ],
+    "a": [
+      62,
+      147,
+      155,
+      235,
+      262,
+      274,
+      293,
+      301,
+      368,
+      375,
+      538,
+      628,
+      636,
+      716,
+      780,
+      797,
+      803,
+      808,
+      823,
+      836,
+      1014,
+      1021,
+      1093,
+      1202,
+      1238
+    ],
+    "well\u2010defined": [
+      63,
+      539,
+      1239
+    ],
+    "control": [
+      64,
+      285,
+      342,
+      540,
+      947,
+      1240
+    ],
+    "group": [
+      65,
+      541,
+      1241
+    ],
+    "eligible": [
+      67,
+      543,
+      1243
+    ],
+    "for": [
+      68,
+      112,
+      172,
+      200,
+      242,
+      411,
+      544,
+      588,
+      653,
+      681,
+      723,
+      878,
+      914,
+      968,
+      1058,
+      1244
+    ],
+    "inclusion.": [
+      69,
+      545,
+      1245
+    ],
+    "A": [
+      70,
+      94,
+      546,
+      570,
+      1268,
+      1300
+    ],
+    "total": [
+      71,
+      547,
+      1259,
+      1269
+    ],
+    "127": [
+      73,
+      84,
+      549,
+      560,
+      1271,
+      1290
+    ],
+    "studies,": [
+      74,
+      128,
+      550,
+      604,
+      1272
+    ],
+    "consisting": [
+      75,
+      551,
+      1273
+    ],
+    "papers,": [
+      78,
+      554,
+      1276
+    ],
+    "met": [
+      79,
+      555,
+      1277
+    ],
+    "inclusion": [
+      81,
+      557,
+      1279
+    ],
+    "criteria.": [
+      82,
+      558
+    ],
+    "These": [
+      83,
+      559
+    ],
+    "analysed": [
+      86,
+      100,
+      562,
+      576,
+      967,
+      1292,
+      1306
+    ],
+    "55": [
+      87,
+      563,
+      1293
+    ],
+    "different": [
+      88,
+      92,
+      564,
+      568,
+      1110,
+      1294,
+      1298
+    ],
+    "populations": [
+      89,
+      565,
+      1295
+    ],
+    "large": [
+      95,
+      571,
+      1301
+    ],
+    "number": [
+      96,
+      376,
+      572,
+      1022,
+      1260,
+      1302
+    ],
+    "(45)": [
+      99,
+      575,
+      1305
+    ],
+    "data": [
+      101,
+      233,
+      577,
+      714,
+      1307,
+      1329,
+      1341,
+      1352
+    ],
+    "Student": [
+      104,
+      580
+    ],
+    "Teacher": [
+      105,
+      581
+    ],
+    "Achievement": [
+      106,
+      582
+    ],
+    "Ratio": [
+      107,
+      583
+    ],
+    "(STAR)": [
+      108,
+      584
+    ],
+    "experiment": [
+      109,
+      585,
+      1311
+    ],
+    "which": [
+      110,
+      364,
+      586,
+      1105
+    ],
+    "reduction": [
+      115,
+      399,
+      591,
+      842,
+      1046,
+      1203,
+      1314
+    ],
+    "grade": [
+      117,
+      593,
+      1316
+    ],
+    "K\u20103": [
+      118,
+      594
+    ],
+    "US": [
+      121,
+      378,
+      597
+    ],
+    "eighties.": [
+      124,
+      600
+    ],
+    "However": [
+      125,
+      601
+    ],
+    "only": [
+      126,
+      401,
+      602,
+      852,
+      1048,
+      1334
+    ],
+    "ten": [
+      127,
+      603
+    ],
+    "including": [
+      129,
+      605
+    ],
+    "four": [
+      130,
+      606
+    ],
+    "STAR": [
+      133,
+      213,
+      232,
+      609,
+      694,
+      713,
+      1310,
+      1332
+    ],
+    "programme,": [
+      134,
+      610
+    ],
+    "could": [
+      135,
+      611,
+      1336,
+      1346
+    ],
+    "be": [
+      136,
+      312,
+      319,
+      612,
+      788,
+      876,
+      1337,
+      1348
+    ],
+    "Overall,": [
+      141,
+      622
+    ],
+    "evidence": [
+      143,
+      289,
+      624,
+      745,
+      847
+    ],
+    "suggests": [
+      144,
+      290,
+      625
+    ],
+    "at": [
+      145,
+      260,
+      291,
+      626
+    ],
+    "best": [
+      146,
+      261,
+      292,
+      627,
+      903
+    ],
+    "small": [
+      148,
+      252,
+      263,
+      294,
+      629,
+      815,
+      838,
+      854,
+      858,
+      873
+    ],
+    "effect": [
+      149,
+      160,
+      170,
+      198,
+      206,
+      237,
+      264,
+      295,
+      306,
+      630,
+      641,
+      651,
+      679,
+      687,
+      718,
+      752,
+      762,
+      770,
+      794,
+      855
+    ],
+    "reading": [
+      151,
+      173,
+      244,
+      297,
+      632,
+      654,
+      725,
+      758,
+      793
+    ],
+    "There": [
+      153,
+      187,
+      299,
+      634,
+      668,
+      742,
+      766
+    ],
+    "is": [
+      154,
+      271,
+      300,
+      323,
+      330,
+      354,
+      387,
+      458,
+      635,
+      743,
+      750,
+      763,
+      767,
+      777,
+      817,
+      835,
+      843,
+      882,
+      902,
+      907,
+      935,
+      958,
+      1034,
+      1068
+    ],
+    "negative,": [
+      156,
+      302,
+      637
+    ],
+    "but": [
+      157,
+      178,
+      218,
+      247,
+      303,
+      638,
+      659,
+      699,
+      728
+    ],
+    "statistically": [
+      158,
+      185,
+      210,
+      304,
+      639,
+      666,
+      691
+    ],
+    "insignificant,": [
+      159,
+      305,
+      640
+    ],
+    "mathematics.": [
+      162,
+      643
+    ],
+    "For": [
+      163,
+      644
+    ],
+    "non\u2010STAR": [
+      165,
+      646
+    ],
+    "sizes": [
+      171,
+      199,
+      241,
+      283,
+      652,
+      680,
+      722,
+      856
+    ],
+    "close": [
+      175,
+      656
+    ],
+    "zero": [
+      177,
+      658
+    ],
+    "weighted": [
+      180,
+      204,
+      661,
+      685
+    ],
+    "average": [
+      181,
+      205,
+      249,
+      662,
+      686,
+      730,
+      776
+    ],
+    "positive": [
+      183,
+      236,
+      664,
+      717
+    ],
+    "and": [
+      184,
+      202,
+      209,
+      245,
+      382,
+      403,
+      419,
+      665,
+      683,
+      690,
+      726,
+      894,
+      966,
+      975,
+      1029,
+      1050,
+      1126,
+      1130,
+      1156,
+      1175,
+      1189,
+      1281,
+      1318
+    ],
+    "significant.": [
+      186,
+      667
+    ],
+    "some": [
+      189,
+      316,
+      670,
+      744,
+      785,
+      879
+    ],
+    "inconsistency": [
+      190,
+      671
+    ],
+    "direction": [
+      193,
+      674
+    ],
+    "mathematics": [
+      201,
+      682,
+      772
+    ],
+    "negative": [
+      208,
+      689,
+      778
+    ],
+    "non\u2010significant.": [
+      211,
+      692
+    ],
+    "results": [
+      214,
+      227,
+      695,
+      708
+    ],
+    "are": [
+      215,
+      251,
+      358,
+      400,
+      406,
+      495,
+      504,
+      618,
+      696,
+      732,
+      1005,
+      1047,
+      1053
+    ],
+    "more": [
+      216,
+      408,
+      697,
+      887,
+      1055
+    ],
+    "positive,": [
+      217,
+      698
+    ],
+    "do": [
+      219,
+      700,
+      735
+    ],
+    "not": [
+      220,
+      436,
+      701,
+      992,
+      1252,
+      1327,
+      1347
+    ],
+    "change": [
+      221,
+      702
+    ],
+    "overall": [
+      223,
+      704,
+      792
+    ],
+    "finding.": [
+      224,
+      705
+    ],
+    "reported": [
+      226,
+      707
+    ],
+    "analysing": [
+      231,
+      712,
+      1328
+    ],
+    "indicated": [
+      234,
+      715
+    ],
+    "smaller": [
+      239,
+      356,
+      720,
+      1003
+    ],
+    "both": [
+      243,
+      724,
+      1173
+    ],
+    "maths,": [
+      246,
+      727
+    ],
+    "effects": [
+      250,
+      395,
+      431,
+      450,
+      731,
+      987,
+      1042,
+      1080,
+      1091,
+      1107
+    ],
+    "Plain": [
+      253
+    ],
+    "language": [
+      254
+    ],
+    "summary": [
+      255
+    ],
+    "Small": [
+      256
+    ],
+    "has": [
+      259,
+      365,
+      435,
+      962,
+      991,
+      1011
+    ],
+    "achievement": [
+      267,
+      363,
+      895,
+      957,
+      1010
+    ],
+    "Reducing": [
+      268,
+      951
+    ],
+    "seen": [
+      272
+    ],
+    "as": [
+      273,
+      1115,
+      1354
+    ],
+    "way": [
+      275
+    ],
+    "improving": [
+      277,
+      361,
+      412,
+      1008,
+      1059
+    ],
+    "student": [
+      278,
+      362,
+      809,
+      826,
+      956,
+      1009
+    ],
+    "performance.": [
+      279
+    ],
+    "But": [
+      280,
+      346
+    ],
+    "larger": [
+      281,
+      832,
+      863
+    ],
+    "help": [
+      284
+    ],
+    "education": [
+      286,
+      352,
+      1000
+    ],
+    "budgets.": [
+      287
+    ],
+    "mathematics,": [
+      308
+    ],
+    "so": [
+      309
+    ],
+    "it": [
+      310
+    ],
+    "cannot": [
+      311,
+      787,
+      867
+    ],
+    "ruled": [
+      313,
+      789
+    ],
+    "out": [
+      314,
+      869,
+      1165
+    ],
+    "may": [
+      318,
+      875
+    ],
+    "adversely": [
+      320
+    ],
+    "affected.": [
+      321
+    ],
+    "What": [
+      322,
+      457,
+      494,
+      502,
+      617,
+      734
+    ],
+    "this": [
+      324,
+      462,
+      500,
+      739,
+      908,
+      1066
+    ],
+    "about?": [
+      326
+    ],
+    "Increasing": [
+      327,
+      932
+    ],
+    "one": [
+      331,
+      936
+    ],
+    "key": [
+      334,
+      939
+    ],
+    "variables": [
+      335,
+      940
+    ],
+    "policy": [
+      337,
+      369,
+      386,
+      418,
+      942,
+      974,
+      1015,
+      1033
+    ],
+    "makers": [
+      338,
+      943
+    ],
+    "can": [
+      339,
+      944
+    ],
+    "use": [
+      340,
+      945
+    ],
+    "spending": [
+      343,
+      948
+    ],
+    "consensus": [
+      348,
+      996
+    ],
+    "among": [
+      349,
+      997,
+      1109
+    ],
+    "many": [
+      350,
+      998
+    ],
+    "research": [
+      353,
+      426,
+      982
+    ],
+    "classes": [
+      357,
+      816,
+      859,
+      874,
+      1004
+    ],
+    "effective": [
+      359,
+      1006
+    ],
+    "led": [
+      366,
+      1012
+    ],
+    "reductions": [
+      373,
+      1019
+    ],
+    "states,": [
+      379,
+      1025
+    ],
+    "UK,": [
+      381
+    ],
+    "Netherlands.": [
+      384,
+      1031
+    ],
+    "disputed": [
+      388,
+      1035
+    ],
+    "by": [
+      389,
+      1036,
+      1285
+    ],
+    "those": [
+      390,
+      1037
+    ],
+    "who": [
+      391,
+      1038
+    ],
+    "argue": [
+      392,
+      1039
+    ],
+    "modest": [
+      402,
+      1049
+    ],
+    "there": [
+      405,
+      749,
+      1052
+    ],
+    "other": [
+      407,
+      1054
+    ],
+    "cost\u2010effective": [
+      409,
+      1056
+    ],
+    "strategies": [
+      410,
+      1057
+    ],
+    "educational": [
+      413,
+      430,
+      986,
+      1060
+    ],
+    "standards.": [
+      414,
+      1061
+    ],
+    "Despite": [
+      415,
+      971
+    ],
+    "important": [
+      417,
+      973
+    ],
+    "practice": [
+      420,
+      976
+    ],
+    "implications": [
+      421,
+      977
+    ],
+    "topic,": [
+      424,
+      980
+    ],
+    "literature": [
+      427,
+      983,
+      1076
+    ],
+    "class\u2010size": [
+      433,
+      989
+    ],
+    "differences": [
+      434,
+      990
+    ],
+    "been": [
+      437,
+      963,
+      993
+    ],
+    "clear.": [
+      438,
+      994
+    ],
+    "systematically": [
+      441,
+      1070
+    ],
+    "relevant": [
+      445,
+      1072,
+      1190,
+      1263
+    ],
+    "measure": [
+      448,
+      1078
+    ],
+    "aim": [
+      460
+    ],
+    "review?": [
+      463,
+      501,
+      909
+    ],
+    "main": [
+      497,
+      620
+    ],
+    "included?": [
+      505
+    ],
+    "results?": [
+      621
+    ],
+    "small.": [
+      733,
+      765
+    ],
+    "mean?": [
+      741
+    ],
+    "suggest": [
+      747
+    ],
+    "an": [
+      751,
+      959,
+      1133
+    ],
+    "reducing": [
+      754
+    ],
+    "achievement,": [
+      759,
+      773
+    ],
+    "although": [
+      760
+    ],
+    "very": [
+      764,
+      837,
+      853
+    ],
+    "no": [
+      768,
+      850
+    ],
+    "significant": [
+      769
+    ],
+    "though": [
+      774
+    ],
+    "meaning": [
+      779
+    ],
+    "possible": [
+      781
+    ],
+    "adverse": [
+      782
+    ],
+    "students": [
+      786,
+      1113
+    ],
+    "out.": [
+      790
+    ],
+    "corresponds": [
+      795
+    ],
+    "53": [
+      798
+    ],
+    "per": [
+      799
+    ],
+    "cent": [
+      800
+    ],
+    "chance": [
+      801
+    ],
+    "randomly": [
+      804,
+      824
+    ],
+    "selected": [
+      805,
+      825
+    ],
+    "score": [
+      806,
+      821
+    ],
+    "treated": [
+      812
+    ],
+    "population": [
+      813,
+      830
+    ],
+    "greater": [
+      818
+    ],
+    "than": [
+      819
+    ],
+    "comparison": [
+      829,
+      861
+    ],
+    "classes.": [
+      833,
+      864
+    ],
+    "effect.": [
+      839,
+      1140
+    ],
+    "Class": [
+      840
+    ],
+    "costly.": [
+      844
+    ],
+    "available": [
+      846
+    ],
+    "points": [
+      848
+    ],
+    "or": [
+      851,
+      1121
+    ],
+    "Moreover,": [
+      865
+    ],
+    "we": [
+      866,
+      1099
+    ],
+    "rule": [
+      868
+    ],
+    "possibility": [
+      871
+    ],
+    "counterproductive": [
+      877
+    ],
+    "students.": [
+      880
+    ],
+    "It": [
+      881
+    ],
+    "therefore": [
+      883
+    ],
+    "crucial": [
+      884
+    ],
+    "know": [
+      886
+    ],
+    "about": [
+      888
+    ],
+    "relationship": [
+      890
+    ],
+    "between": [
+      891
+    ],
+    "order": [
+      897
+    ],
+    "determine": [
+      899
+    ],
+    "where": [
+      900,
+      1097
+    ],
+    "money": [
+      901
+    ],
+    "allocated.": [
+      904
+    ],
+    "How": [
+      905
+    ],
+    "up\u2010to\u2010date": [
+      906
+    ],
+    "authors": [
+      912
+    ],
+    "searched": [
+      913,
+      1170
+    ],
+    "published": [
+      916,
+      926,
+      1174
+    ],
+    "up": [
+      917,
+      1321
+    ],
+    "February": [
+      919,
+      1167
+    ],
+    "2017.": [
+      920,
+      1168
+    ],
+    "2018.": [
+      928
+    ],
+    "Executive": [
+      929
+    ],
+    "Summary/Abstract": [
+      930
+    ],
+    "BACKGROUND": [
+      931
+    ],
+    "increase": [
+      955
+    ],
+    "approach": [
+      960
+    ],
+    "tried,": [
+      964
+    ],
+    "debated,": [
+      965
+    ],
+    "several": [
+      969
+    ],
+    "decades.": [
+      970
+    ],
+    "research,": [
+      1001
+    ],
+    "U.S.": [
+      1024
+    ],
+    "United": [
+      1027
+    ],
+    "Kingdom,": [
+      1028
+    ],
+    "OBJECTIVES": [
+      1062
+    ],
+    "purpose": [
+      1064
+    ],
+    "uncover": [
+      1071
+    ],
+    "We": [
+      1087,
+      1169,
+      1207
+    ],
+    "will": [
+      1088,
+      1100
+    ],
+    "synthesize": [
+      1089
+    ],
+    "transparent": [
+      1094
+    ],
+    "manner": [
+      1095
+    ],
+    "and,": [
+      1096
+    ],
+    "possible,": [
+      1098
+    ],
+    "investigate": [
+      1101
+    ],
+    "extent": [
+      1103
+    ],
+    "differ": [
+      1108
+    ],
+    "groups": [
+      1111
+    ],
+    "such": [
+      1114
+    ],
+    "high/low": [
+      1116,
+      1118
+    ],
+    "performers,": [
+      1117
+    ],
+    "income": [
+      1119
+    ],
+    "families,": [
+      1120
+    ],
+    "members": [
+      1122
+    ],
+    "minority/non\u2010minority": [
+      1124
+    ],
+    "groups,": [
+      1125
+    ],
+    "whether": [
+      1127
+    ],
+    "timing,": [
+      1128
+    ],
+    "intensity,": [
+      1129
+    ],
+    "duration": [
+      1131
+    ],
+    "have": [
+      1132,
+      1359
+    ],
+    "magnitude": [
+      1137
+    ],
+    "SEARCH": [
+      1141
+    ],
+    "METHODS": [
+      1142
+    ],
+    "Relevant": [
+      1143
+    ],
+    "identified": [
+      1146
+    ],
+    "through": [
+      1147
+    ],
+    "electronic": [
+      1148
+    ],
+    "searches": [
+      1149,
+      1179
+    ],
+    "bibliographic": [
+      1151
+    ],
+    "databases,": [
+      1152
+    ],
+    "internet": [
+      1153
+    ],
+    "search": [
+      1154
+    ],
+    "engines": [
+      1155
+    ],
+    "hand": [
+      1157
+    ],
+    "searching": [
+      1158
+    ],
+    "core": [
+      1160
+    ],
+    "journals.": [
+      1161
+    ],
+    "Searches": [
+      1162
+    ],
+    "carried": [
+      1164
+    ],
+    "identify": [
+      1172
+    ],
+    "unpublished": [
+      1176
+    ],
+    "literature.": [
+      1177
+    ],
+    "international": [
+      1181
+    ],
+    "scope.": [
+      1183
+    ],
+    "Reference": [
+      1184
+    ],
+    "lists": [
+      1185
+    ],
+    "reviews": [
+      1191
+    ],
+    "also": [
+      1193
+    ],
+    "searched.": [
+      1194
+    ],
+    "SELECTION": [
+      1195
+    ],
+    "CRITERIA": [
+      1196
+    ],
+    "intervention": [
+      1198
+    ],
+    "interest": [
+      1200
+    ],
+    "size.": [
+      1206
+    ],
+    "Studies": [
+      1246
+    ],
+    "utilized": [
+      1248
+    ],
+    "qualitative": [
+      1249
+    ],
+    "approaches": [
+      1250
+    ],
+    "included.": [
+      1253
+    ],
+    "DATA": [
+      1254
+    ],
+    "COLLECTION": [
+      1255
+    ],
+    "AND": [
+      1256
+    ],
+    "ANALYSIS": [
+      1257
+    ],
+    "potential": [
+      1262
+    ],
+    "constituted": [
+      1265
+    ],
+    "8,128": [
+      1266
+    ],
+    "hits.": [
+      1267
+    ],
+    "criteria": [
+      1280
+    ],
+    "critically": [
+      1283
+    ],
+    "appraised": [
+      1284
+    ],
+    "authors.": [
+      1288
+    ],
+    "(class": [
+      1312
+    ],
+    "K\u20103)": [
+      1317
+    ],
+    "its": [
+      1319
+    ],
+    "follow": [
+      1320
+    ],
+    "data.": [
+      1322
+    ],
+    "Of": [
+      1323
+    ],
+    "82": [
+      1325
+    ],
+    "experiment,": [
+      1333
+    ],
+    "six": [
+      1335
+    ],
+    "synthesis.": [
+      1342
+    ],
+    "Fifty": [
+      1343
+    ],
+    "eight": [
+      1344
+    ],
+    "synthesis": [
+      1353
+    ],
+    "they": [
+      1355
+    ],
+    "judged": [
+      1357
+    ],
+    "too": [
+      1360
+    ],
+    "high": [
+      1361
+    ],
+    "ri": [
+      1362
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2024,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 3
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2021,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2020,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2025-11-06T03:46:38.306776",
+  "created_date": "2025-10-10T00:00:00"
+}

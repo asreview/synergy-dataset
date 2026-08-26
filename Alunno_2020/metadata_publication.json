@@ -1,0 +1,1632 @@
+{
+  "id": "https://openalex.org/W3082733276",
+  "doi": "https://doi.org/10.1136/rmdopen-2020-001330",
+  "title": "Assessment of competences in rheumatology training: results of a systematic literature review to inform EULAR points to consider",
+  "display_name": "Assessment of competences in rheumatology training: results of a systematic literature review to inform EULAR points to consider",
+  "publication_year": 2020,
+  "publication_date": "2020-09-01",
+  "ids": {
+    "openalex": "https://openalex.org/W3082733276",
+    "doi": "https://doi.org/10.1136/rmdopen-2020-001330",
+    "mag": "3082733276",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/32883720"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1136/rmdopen-2020-001330",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1136/rmdopen-2020-001330",
+    "pdf_url": "https://rmdopen.bmj.com/content/rmdopen/6/2/e001330.full.pdf",
+    "source": {
+      "id": "https://openalex.org/S2738706341",
+      "display_name": "RMD Open",
+      "issn_l": "2056-5933",
+      "issn": [
+        "2056-5933"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310319945",
+      "host_organization_name": "BMJ",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310319945"
+      ],
+      "host_organization_lineage_names": [
+        "BMJ"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "RMD Open",
+    "raw_type": "journal-article"
+  },
+  "type": "review",
+  "indexed_in": [
+    "crossref",
+    "doaj",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "gold",
+    "oa_url": "https://rmdopen.bmj.com/content/rmdopen/6/2/e001330.full.pdf",
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5074050010",
+        "display_name": "Alessia Alunno",
+        "orcid": "https://orcid.org/0000-0003-1105-5640"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I27483092",
+          "display_name": "University of Perugia",
+          "ror": "https://ror.org/00x27da85",
+          "country_code": "IT",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I27483092"
+          ]
+        }
+      ],
+      "countries": [
+        "IT"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Alessia Alunno",
+      "raw_affiliation_strings": [
+        "Rheumatology Unit, University of Perugia Department of Medicine, Perugia, Italy"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Rheumatology Unit, University of Perugia Department of Medicine, Perugia, Italy",
+          "institution_ids": [
+            "https://openalex.org/I27483092"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5069190353",
+        "display_name": "Aur\u00e9lie Najm",
+        "orcid": "https://orcid.org/0000-0002-6008-503X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I154526488",
+          "display_name": "Inserm",
+          "ror": "https://ror.org/02vjkv261",
+          "country_code": "FR",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I154526488"
+          ]
+        }
+      ],
+      "countries": [
+        "FR"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Aur\u00e9lie Najm",
+      "raw_affiliation_strings": [
+        "University Hospital, Inserm Umr 1238, Nantes, France"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "University Hospital, Inserm Umr 1238, Nantes, France",
+          "institution_ids": [
+            "https://openalex.org/I154526488"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5077679640",
+        "display_name": "Francisca Sivera",
+        "orcid": "https://orcid.org/0000-0002-3414-1667"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210147687",
+          "display_name": "Hospital General de Elda",
+          "ror": "https://ror.org/04b0ry431",
+          "country_code": "ES",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210147687"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I111262870",
+          "display_name": "Universitat de Miguel Hern\u00e1ndez d'Elx",
+          "ror": "https://ror.org/01azzms13",
+          "country_code": "ES",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I111262870"
+          ]
+        }
+      ],
+      "countries": [
+        "ES"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Francisca Sivera",
+      "raw_affiliation_strings": [
+        "Department of Medicine, Miguel Hernandez University of Elche, Elche, Spain",
+        "Department of Rheumatology, Hospital General Universitario Elda, Elda, Spain"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Medicine, Miguel Hernandez University of Elche, Elche, Spain",
+          "institution_ids": [
+            "https://openalex.org/I111262870"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Rheumatology, Hospital General Universitario Elda, Elda, Spain",
+          "institution_ids": [
+            "https://openalex.org/I4210147687"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5032947504",
+        "display_name": "Catherine Haines",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I183935753",
+          "display_name": "King's College London",
+          "ror": "https://ror.org/0220mzb33",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I124357947",
+            "https://openalex.org/I183935753"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Catherine Haines",
+      "raw_affiliation_strings": [
+        "King's College London, London, UK"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "King's College London, London, UK",
+          "institution_ids": [
+            "https://openalex.org/I183935753"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5055487104",
+        "display_name": "Louise Falzon",
+        "orcid": "https://orcid.org/0000-0002-9449-6056"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I1327576362",
+          "display_name": "Feinstein Institute for Medical Research",
+          "ror": "https://ror.org/05dnene97",
+          "country_code": "US",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I1302444339",
+            "https://openalex.org/I1327576362"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I1302444339",
+          "display_name": "Northwell Health",
+          "ror": "https://ror.org/02bxt4m23",
+          "country_code": "US",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I1302444339"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Louise Falzon",
+      "raw_affiliation_strings": [
+        "Center for Personalized Health, Northwell Health Feinstein Institutes for Medical Research, Manhasset, New York, USA"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Center for Personalized Health, Northwell Health Feinstein Institutes for Medical Research, Manhasset, New York, USA",
+          "institution_ids": [
+            "https://openalex.org/I1302444339",
+            "https://openalex.org/I1327576362"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5057223678",
+        "display_name": "Sof\u00eda Ramiro",
+        "orcid": "https://orcid.org/0000-0002-8899-9087"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2800006345",
+          "display_name": "Leiden University Medical Center",
+          "ror": "https://ror.org/05xvt9f17",
+          "country_code": "NL",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2800006345"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210133559",
+          "display_name": "Zuyderland Medisch Centrum",
+          "ror": "https://ror.org/03bfc4534",
+          "country_code": "NL",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210133559",
+            "https://openalex.org/I4210166163"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Sofia Ramiro",
+      "raw_affiliation_strings": [
+        "Department of Rheumatology, Leiden University Medical Center, Leiden, Netherlands",
+        "Department of Rheumatology, Zuyderland Medical Centre Heerlen, Heerlen, Netherlands"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Rheumatology, Zuyderland Medical Centre Heerlen, Heerlen, Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I4210133559"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Rheumatology, Leiden University Medical Center, Leiden, Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I2800006345"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 6,
+  "institutions_distinct_count": 6,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5074050010"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I27483092"
+  ],
+  "apc_list": {
+    "value": 1950,
+    "currency": "GBP",
+    "value_usd": 2391
+  },
+  "apc_paid": {
+    "value": 1950,
+    "currency": "GBP",
+    "value_usd": 2391
+  },
+  "fwci": 2.56412657,
+  "has_fulltext": true,
+  "cited_by_count": 13,
+  "citation_normalized_percentile": {
+    "value": 0.88802807,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 89,
+    "max": 98
+  },
+  "biblio": {
+    "volume": "6",
+    "issue": "2",
+    "first_page": "e001330",
+    "last_page": "e001330"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10254",
+    "display_name": "Innovations in Medical Education",
+    "score": 0.9998999834060669,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2739",
+      "display_name": "Public Health, Environmental and Occupational Health"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/27",
+      "display_name": "Medicine"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/4",
+      "display_name": "Health Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10254",
+      "display_name": "Innovations in Medical Education",
+      "score": 0.9998999834060669,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2739",
+        "display_name": "Public Health, Environmental and Occupational Health"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12574",
+      "display_name": "Clinical Reasoning and Diagnostic Skills",
+      "score": 0.9994999766349792,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2714",
+        "display_name": "Family Practice"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13946",
+      "display_name": "Musculoskeletal Disorders and Rehabilitation",
+      "score": 0.9983000159263611,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2742",
+        "display_name": "Rehabilitation"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/medicine",
+      "display_name": "Medicine",
+      "score": 0.8586416244506836
+    },
+    {
+      "id": "https://openalex.org/keywords/cronbachs-alpha",
+      "display_name": "Cronbach's alpha",
+      "score": 0.689446747303009
+    },
+    {
+      "id": "https://openalex.org/keywords/rheumatology",
+      "display_name": "Rheumatology",
+      "score": 0.6209980845451355
+    },
+    {
+      "id": "https://openalex.org/keywords/internal-consistency",
+      "display_name": "Internal consistency",
+      "score": 0.5808894038200378
+    },
+    {
+      "id": "https://openalex.org/keywords/internal-medicine",
+      "display_name": "Internal medicine",
+      "score": 0.5786181688308716
+    },
+    {
+      "id": "https://openalex.org/keywords/competence",
+      "display_name": "Competence (human resources)",
+      "score": 0.5140541791915894
+    },
+    {
+      "id": "https://openalex.org/keywords/reliability",
+      "display_name": "Reliability (semiconductor)",
+      "score": 0.488784521818161
+    },
+    {
+      "id": "https://openalex.org/keywords/physical-therapy",
+      "display_name": "Physical therapy",
+      "score": 0.42978599667549133
+    },
+    {
+      "id": "https://openalex.org/keywords/family-medicine",
+      "display_name": "Family medicine",
+      "score": 0.42557212710380554
+    },
+    {
+      "id": "https://openalex.org/keywords/consistency",
+      "display_name": "Consistency (knowledge bases)",
+      "score": 0.416123628616333
+    },
+    {
+      "id": "https://openalex.org/keywords/medical-education",
+      "display_name": "Medical education",
+      "score": 0.39723923802375793
+    },
+    {
+      "id": "https://openalex.org/keywords/clinical-psychology",
+      "display_name": "Clinical psychology",
+      "score": 0.1609322428703308
+    },
+    {
+      "id": "https://openalex.org/keywords/psychometrics",
+      "display_name": "Psychometrics",
+      "score": 0.11390376091003418
+    },
+    {
+      "id": "https://openalex.org/keywords/psychology",
+      "display_name": "Psychology",
+      "score": 0.10732722282409668
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C71924100",
+      "wikidata": "https://www.wikidata.org/wiki/Q11190",
+      "display_name": "Medicine",
+      "level": 0,
+      "score": 0.8586416244506836
+    },
+    {
+      "id": "https://openalex.org/C106906290",
+      "wikidata": "https://www.wikidata.org/wiki/Q1140909",
+      "display_name": "Cronbach's alpha",
+      "level": 3,
+      "score": 0.689446747303009
+    },
+    {
+      "id": "https://openalex.org/C198451711",
+      "wikidata": "https://www.wikidata.org/wiki/Q327657",
+      "display_name": "Rheumatology",
+      "level": 2,
+      "score": 0.6209980845451355
+    },
+    {
+      "id": "https://openalex.org/C3018868096",
+      "wikidata": "https://www.wikidata.org/wiki/Q2693233",
+      "display_name": "Internal consistency",
+      "level": 3,
+      "score": 0.5808894038200378
+    },
+    {
+      "id": "https://openalex.org/C126322002",
+      "wikidata": "https://www.wikidata.org/wiki/Q11180",
+      "display_name": "Internal medicine",
+      "level": 1,
+      "score": 0.5786181688308716
+    },
+    {
+      "id": "https://openalex.org/C100521375",
+      "wikidata": "https://www.wikidata.org/wiki/Q2015382",
+      "display_name": "Competence (human resources)",
+      "level": 2,
+      "score": 0.5140541791915894
+    },
+    {
+      "id": "https://openalex.org/C43214815",
+      "wikidata": "https://www.wikidata.org/wiki/Q7310987",
+      "display_name": "Reliability (semiconductor)",
+      "level": 3,
+      "score": 0.488784521818161
+    },
+    {
+      "id": "https://openalex.org/C1862650",
+      "wikidata": "https://www.wikidata.org/wiki/Q186005",
+      "display_name": "Physical therapy",
+      "level": 1,
+      "score": 0.42978599667549133
+    },
+    {
+      "id": "https://openalex.org/C512399662",
+      "wikidata": "https://www.wikidata.org/wiki/Q3505712",
+      "display_name": "Family medicine",
+      "level": 1,
+      "score": 0.42557212710380554
+    },
+    {
+      "id": "https://openalex.org/C2776436953",
+      "wikidata": "https://www.wikidata.org/wiki/Q5163215",
+      "display_name": "Consistency (knowledge bases)",
+      "level": 2,
+      "score": 0.416123628616333
+    },
+    {
+      "id": "https://openalex.org/C509550671",
+      "wikidata": "https://www.wikidata.org/wiki/Q126945",
+      "display_name": "Medical education",
+      "level": 1,
+      "score": 0.39723923802375793
+    },
+    {
+      "id": "https://openalex.org/C70410870",
+      "wikidata": "https://www.wikidata.org/wiki/Q199906",
+      "display_name": "Clinical psychology",
+      "level": 1,
+      "score": 0.1609322428703308
+    },
+    {
+      "id": "https://openalex.org/C171606756",
+      "wikidata": "https://www.wikidata.org/wiki/Q506132",
+      "display_name": "Psychometrics",
+      "level": 2,
+      "score": 0.11390376091003418
+    },
+    {
+      "id": "https://openalex.org/C15744967",
+      "wikidata": "https://www.wikidata.org/wiki/Q9418",
+      "display_name": "Psychology",
+      "level": 0,
+      "score": 0.10732722282409668
+    },
+    {
+      "id": "https://openalex.org/C163258240",
+      "wikidata": "https://www.wikidata.org/wiki/Q25342",
+      "display_name": "Power (physics)",
+      "level": 2,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C77805123",
+      "wikidata": "https://www.wikidata.org/wiki/Q161272",
+      "display_name": "Social psychology",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C62520636",
+      "wikidata": "https://www.wikidata.org/wiki/Q944",
+      "display_name": "Quantum mechanics",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C121332964",
+      "wikidata": "https://www.wikidata.org/wiki/Q413",
+      "display_name": "Physics",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C33923547",
+      "wikidata": "https://www.wikidata.org/wiki/Q395",
+      "display_name": "Mathematics",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C2524010",
+      "wikidata": "https://www.wikidata.org/wiki/Q8087",
+      "display_name": "Geometry",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [
+    {
+      "descriptor_ui": "D002983",
+      "descriptor_name": "Clinical Competence",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D004501",
+      "descriptor_name": "Education, Medical",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D004503",
+      "descriptor_name": "Education, Medical, Graduate",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D004521",
+      "descriptor_name": "Educational Measurement",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D019984",
+      "descriptor_name": "Quality Indicators, Health Care",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D012219",
+      "descriptor_name": "Rheumatology",
+      "qualifier_ui": "Q000193",
+      "qualifier_name": "education",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D013038",
+      "descriptor_name": "Specialization",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D002983",
+      "descriptor_name": "Clinical Competence",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D004501",
+      "descriptor_name": "Education, Medical",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D004503",
+      "descriptor_name": "Education, Medical, Graduate",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D004521",
+      "descriptor_name": "Educational Measurement",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D019984",
+      "descriptor_name": "Quality Indicators, Health Care",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D012219",
+      "descriptor_name": "Rheumatology",
+      "qualifier_ui": "Q000193",
+      "qualifier_name": "education",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D013038",
+      "descriptor_name": "Specialization",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    }
+  ],
+  "locations_count": 5,
+  "locations": [
+    {
+      "id": "doi:10.1136/rmdopen-2020-001330",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1136/rmdopen-2020-001330",
+      "pdf_url": "https://rmdopen.bmj.com/content/rmdopen/6/2/e001330.full.pdf",
+      "source": {
+        "id": "https://openalex.org/S2738706341",
+        "display_name": "RMD Open",
+        "issn_l": "2056-5933",
+        "issn": [
+          "2056-5933"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310319945",
+        "host_organization_name": "BMJ",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310319945"
+        ],
+        "host_organization_lineage_names": [
+          "BMJ"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "RMD Open",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:32883720",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/32883720",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "RMD open",
+      "raw_type": null
+    },
+    {
+      "id": "pmh:oai:eprints.gla.ac.uk:263519",
+      "is_oa": false,
+      "landing_page_url": null,
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306400411",
+        "display_name": "Enlighten: Publications (The University of Glasgow)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I7882870",
+        "host_organization_name": "University of Glasgow",
+        "host_organization_lineage": [
+          "https://openalex.org/I7882870"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "acceptedVersion",
+      "is_accepted": true,
+      "is_published": false,
+      "raw_source_name": "",
+      "raw_type": "Articles"
+    },
+    {
+      "id": "pmh:oai:doaj.org/article:d3373bc83a1b4afb9b94dd1e21bcbbc1",
+      "is_oa": true,
+      "landing_page_url": "https://doaj.org/article/d3373bc83a1b4afb9b94dd1e21bcbbc1",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401280",
+        "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by-sa",
+      "license_id": "https://openalex.org/licenses/cc-by-sa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "RMD Open, Vol 6, Iss 2 (2020)",
+      "raw_type": "article"
+    },
+    {
+      "id": "pmh:oai:pubmedcentral.nih.gov:7508213",
+      "is_oa": true,
+      "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/7508213",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S2764455111",
+        "display_name": "PubMed Central",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "RMD Open",
+      "raw_type": "Text"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1136/rmdopen-2020-001330",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1136/rmdopen-2020-001330",
+    "pdf_url": "https://rmdopen.bmj.com/content/rmdopen/6/2/e001330.full.pdf",
+    "source": {
+      "id": "https://openalex.org/S2738706341",
+      "display_name": "RMD Open",
+      "issn_l": "2056-5933",
+      "issn": [
+        "2056-5933"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310319945",
+      "host_organization_name": "BMJ",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310319945"
+      ],
+      "host_organization_lineage_names": [
+        "BMJ"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "RMD Open",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [
+    {
+      "display_name": "Quality Education",
+      "score": 0.7300000190734863,
+      "id": "https://metadata.un.org/sdg/4"
+    }
+  ],
+  "awards": [],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320325330",
+      "display_name": "European League Against Rheumatism",
+      "ror": "https://ror.org/03f7j3221"
+    }
+  ],
+  "has_content": {
+    "grobid_xml": true,
+    "pdf": true
+  },
+  "referenced_works_count": 53,
+  "referenced_works": [
+    "https://openalex.org/W2101577705",
+    "https://openalex.org/W2135607461",
+    "https://openalex.org/W2090680665",
+    "https://openalex.org/W1966827816",
+    "https://openalex.org/W2139001711",
+    "https://openalex.org/W2138139049",
+    "https://openalex.org/W2522409347",
+    "https://openalex.org/W2076134402",
+    "https://openalex.org/W1644280415",
+    "https://openalex.org/W2623703952",
+    "https://openalex.org/W2036384654",
+    "https://openalex.org/W2089036413",
+    "https://openalex.org/W2048502414",
+    "https://openalex.org/W6751201380",
+    "https://openalex.org/W1899317320",
+    "https://openalex.org/W1970915700",
+    "https://openalex.org/W2026778855",
+    "https://openalex.org/W2020979380",
+    "https://openalex.org/W2028614374",
+    "https://openalex.org/W2045499113",
+    "https://openalex.org/W2034337867",
+    "https://openalex.org/W2074345469",
+    "https://openalex.org/W2095096906",
+    "https://openalex.org/W2123881217",
+    "https://openalex.org/W22472843",
+    "https://openalex.org/W1983984174",
+    "https://openalex.org/W2154175531",
+    "https://openalex.org/W2154198299",
+    "https://openalex.org/W1973998329",
+    "https://openalex.org/W6600893958",
+    "https://openalex.org/W2090884181",
+    "https://openalex.org/W2001951511",
+    "https://openalex.org/W2005156621",
+    "https://openalex.org/W1969509691",
+    "https://openalex.org/W2042679924",
+    "https://openalex.org/W2017910408",
+    "https://openalex.org/W1994084271",
+    "https://openalex.org/W1975114734",
+    "https://openalex.org/W2079886100",
+    "https://openalex.org/W2051848697",
+    "https://openalex.org/W4247295754",
+    "https://openalex.org/W2057296150",
+    "https://openalex.org/W2078461091",
+    "https://openalex.org/W1991270437",
+    "https://openalex.org/W2315964735",
+    "https://openalex.org/W2053154970",
+    "https://openalex.org/W6636780187",
+    "https://openalex.org/W2164973508",
+    "https://openalex.org/W3110368615",
+    "https://openalex.org/W2060995479",
+    "https://openalex.org/W2802572896",
+    "https://openalex.org/W2033218768",
+    "https://openalex.org/W2153222072"
+  ],
+  "related_works": [
+    "https://openalex.org/W2036729706",
+    "https://openalex.org/W3121917365",
+    "https://openalex.org/W2157054198",
+    "https://openalex.org/W2093537846",
+    "https://openalex.org/W2993742958",
+    "https://openalex.org/W4232354989",
+    "https://openalex.org/W2903600260",
+    "https://openalex.org/W2268096838",
+    "https://openalex.org/W2841712384",
+    "https://openalex.org/W4388972859"
+  ],
+  "abstract_inverted_index": {
+    "Objective": [
+      0
+    ],
+    "To": [
+      1
+    ],
+    "summarise": [
+      2
+    ],
+    "the": [
+      3,
+      6,
+      26,
+      71,
+      196,
+      241,
+      257
+    ],
+    "literature": [
+      4,
+      17
+    ],
+    "on": [
+      5,
+      25,
+      62,
+      169,
+      182,
+      210,
+      220
+    ],
+    "assessment": [
+      7,
+      27,
+      63,
+      150,
+      222,
+      251
+    ],
+    "of": [
+      8,
+      28,
+      66,
+      105,
+      112,
+      243
+    ],
+    "competences": [
+      9,
+      29
+    ],
+    "in": [
+      10,
+      30,
+      82,
+      87,
+      99,
+      223,
+      227
+    ],
+    "postgraduate": [
+      11
+    ],
+    "medical": [
+      12,
+      51,
+      72
+    ],
+    "training.": [
+      13
+    ],
+    "Methods": [
+      14
+    ],
+    "A": [
+      15
+    ],
+    "systematic": [
+      16
+    ],
+    "review": [
+      18
+    ],
+    "was": [
+      19,
+      68
+    ],
+    "performed": [
+      20,
+      129
+    ],
+    "within": [
+      21
+    ],
+    "a": [
+      22,
+      132,
+      173,
+      186
+    ],
+    "EULAR": [
+      23
+    ],
+    "taskforce": [
+      24
+    ],
+    "rheumatology": [
+      31,
+      46,
+      83,
+      100,
+      228
+    ],
+    "training": [
+      32
+    ],
+    "and": [
+      33,
+      47,
+      59,
+      84,
+      91,
+      107,
+      116,
+      126,
+      141,
+      180,
+      195,
+      203,
+      212,
+      231,
+      246,
+      256
+    ],
+    "other": [
+      34,
+      88,
+      149,
+      166,
+      208,
+      224,
+      250
+    ],
+    "related": [
+      35,
+      50
+    ],
+    "specialities": [
+      36
+    ],
+    "(July": [
+      37
+    ],
+    "2019).": [
+      38
+    ],
+    "Two": [
+      39,
+      53
+    ],
+    "searches": [
+      40
+    ],
+    "were": [
+      41,
+      95,
+      101,
+      214
+    ],
+    "performed:": [
+      42
+    ],
+    "one": [
+      43,
+      48
+    ],
+    "search": [
+      44
+    ],
+    "for": [
+      45,
+      49
+    ],
+    "specialities.": [
+      52
+    ],
+    "reviewers": [
+      54
+    ],
+    "independently": [
+      55
+    ],
+    "identified": [
+      56
+    ],
+    "eligible": [
+      57
+    ],
+    "studies": [
+      58,
+      94
+    ],
+    "extracted": [
+      60
+    ],
+    "data": [
+      61,
+      209,
+      219
+    ],
+    "methods.": [
+      64
+    ],
+    "Risk": [
+      65
+    ],
+    "bias": [
+      67,
+      106
+    ],
+    "assessed": [
+      69
+    ],
+    "using": [
+      70
+    ],
+    "education": [
+      73
+    ],
+    "research": [
+      74
+    ],
+    "study": [
+      75
+    ],
+    "quality": [
+      76
+    ],
+    "instrument.": [
+      77
+    ],
+    "Results": [
+      78
+    ],
+    "Of": [
+      79
+    ],
+    "7335": [
+      80
+    ],
+    "articles": [
+      81
+    ],
+    "2324": [
+      85
+    ],
+    "reviews": [
+      86
+    ],
+    "specialities,": [
+      89,
+      167,
+      225
+    ],
+    "5": [
+      90
+    ],
+    "31": [
+      92
+    ],
+    "original": [
+      93
+    ],
+    "included,": [
+      96
+    ],
+    "respectively.": [
+      97
+    ],
+    "Studies": [
+      98
+    ],
+    "at": [
+      102
+    ],
+    "variable": [
+      103
+    ],
+    "risk": [
+      104
+    ],
+    "explored": [
+      108
+    ],
+    "only": [
+      109
+    ],
+    "direct": [
+      110
+    ],
+    "observation": [
+      111
+    ],
+    "practical": [
+      113
+    ],
+    "skills": [
+      114,
+      171,
+      184,
+      245
+    ],
+    "(DOPS)": [
+      115
+    ],
+    "objective": [
+      117
+    ],
+    "structured": [
+      118
+    ],
+    "clinical": [
+      119,
+      170,
+      244
+    ],
+    "examinations": [
+      120
+    ],
+    "(OSCEs).": [
+      121
+    ],
+    "OSCEs,": [
+      122
+    ],
+    "including": [
+      123
+    ],
+    "clinical,": [
+      124
+    ],
+    "laboratory": [
+      125
+    ],
+    "imaging": [
+      127
+    ],
+    "stations,": [
+      128
+    ],
+    "best,": [
+      130
+    ],
+    "with": [
+      131,
+      148,
+      249
+    ],
+    "good": [
+      133,
+      136,
+      174,
+      177,
+      187,
+      190,
+      201
+    ],
+    "to": [
+      134,
+      175,
+      188,
+      239
+    ],
+    "very": [
+      135,
+      176,
+      189
+    ],
+    "internal": [
+      137,
+      191,
+      204
+    ],
+    "consistency": [
+      138,
+      205
+    ],
+    "(Cronbach\u2019s": [
+      139
+    ],
+    "\u03b1=0.83\u20130.92),": [
+      140
+    ],
+    "intrarater": [
+      142
+    ],
+    "reliability": [
+      143,
+      179,
+      213
+    ],
+    "(r=0.80\u20130.95).": [
+      144
+    ],
+    "OSCEs": [
+      145,
+      168,
+      181,
+      234
+    ],
+    "moderately": [
+      146
+    ],
+    "correlated": [
+      147
+    ],
+    "tools:": [
+      151
+    ],
+    "r=0.48": [
+      152,
+      162
+    ],
+    "vs": [
+      153,
+      159,
+      163
+    ],
+    "rating": [
+      154
+    ],
+    "by": [
+      155
+    ],
+    "programme": [
+      156
+    ],
+    "directors;": [
+      157
+    ],
+    "r=0.2\u20130.44": [
+      158
+    ],
+    "multiple-choice": [
+      160
+    ],
+    "questionnaires;": [
+      161
+    ],
+    "DOPS.": [
+      164
+    ],
+    "In": [
+      165
+    ],
+    "had": [
+      172
+    ],
+    "inter-rater": [
+      178
+    ],
+    "communication": [
+      183
+    ],
+    "demonstrated": [
+      185
+    ],
+    "consistency.": [
+      192
+    ],
+    "Multisource": [
+      193
+    ],
+    "feedback": [
+      194,
+      255
+    ],
+    "mini-clinical": [
+      197,
+      258
+    ],
+    "evaluation": [
+      198,
+      259
+    ],
+    "exercise": [
+      199,
+      260
+    ],
+    "showed": [
+      200
+    ],
+    "feasibility": [
+      202
+    ],
+    "(reliability),": [
+      206
+    ],
+    "but": [
+      207
+    ],
+    "validity": [
+      211
+    ],
+    "conflicting.": [
+      215,
+      232
+    ],
+    "Conclusion": [
+      216
+    ],
+    "Despite": [
+      217
+    ],
+    "consistent": [
+      218
+    ],
+    "competence": [
+      221,
+      242
+    ],
+    "evidence": [
+      226
+    ],
+    "is": [
+      229
+    ],
+    "scarce": [
+      230
+    ],
+    "Overall,": [
+      233
+    ],
+    "seem": [
+      235
+    ],
+    "an": [
+      236
+    ],
+    "appropriate": [
+      237
+    ],
+    "tool": [
+      238
+    ],
+    "assess": [
+      240
+    ],
+    "correlate": [
+      247
+    ],
+    "well": [
+      248
+    ],
+    "strategies.": [
+      252
+    ],
+    "DOPS,": [
+      253
+    ],
+    "multisource": [
+      254
+    ],
+    "are": [
+      261
+    ],
+    "feasible": [
+      262
+    ],
+    "alternatives.": [
+      263
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2021,
+      "cited_by_count": 6
+    },
+    {
+      "year": 2020,
+      "cited_by_count": 3
+    }
+  ],
+  "updated_date": "2025-11-06T03:46:38.306776",
+  "created_date": "2025-10-10T00:00:00"
+}

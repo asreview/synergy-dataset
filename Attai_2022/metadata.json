@@ -1,0 +1,12 @@
+{
+  "key": "Attai_2022",
+  "publication": {
+    "doi": "10.3390/tropicalmed7120398",
+    "eligibility_criteria": "In our study, the following inclusion criteria were considered during the literature review:\nRelevance of the topic of each study to the tropical disease diagnosis concepts\nThe level of comprehensiveness and evaluation followed in the study\nWhether the study was peer-reviewed\nIn this study, the following exclusion criteria were considered during the literature review:\nConference/poster abstract\nDuplicate instances of the same study\nFocus of the study does not answer RQs\nFocus is not ML for tropical disease\nNot written in English"
+  },
+  "data": {
+    "doi": "10.5281/zenodo.7243307",
+    "n_records": 3801,
+    "n_records_included": 235
+  }
+}

@@ -1,0 +1,895 @@
+{
+  "id": "https://openalex.org/W3197439049",
+  "doi": "https://doi.org/10.1016/j.edurev.2021.100407",
+  "title": "LASSI's great adventure: A meta-analysis of the Learning and Study Strategies Inventory and academic outcomes",
+  "display_name": "LASSI's great adventure: A meta-analysis of the Learning and Study Strategies Inventory and academic outcomes",
+  "publication_year": 2021,
+  "publication_date": "2021-09-08",
+  "ids": {
+    "openalex": "https://openalex.org/W3197439049",
+    "doi": "https://doi.org/10.1016/j.edurev.2021.100407",
+    "mag": "3197439049"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1016/j.edurev.2021.100407",
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.1016/j.edurev.2021.100407",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S43764696",
+      "display_name": "Educational Research Review",
+      "issn_l": "1747-938X",
+      "issn": [
+        "1747-938X",
+        "1878-0385"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320990",
+      "host_organization_name": "Elsevier BV",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320990"
+      ],
+      "host_organization_lineage_names": [
+        "Elsevier BV"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Educational Research Review",
+    "raw_type": "journal-article"
+  },
+  "type": "review",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5062134747",
+        "display_name": "Carlton J. Fong",
+        "orcid": "https://orcid.org/0000-0003-4620-989X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I13511017",
+          "display_name": "Texas State University",
+          "ror": "https://ror.org/05h9q1g27",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I13511017"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Carlton J. Fong",
+      "raw_affiliation_strings": [
+        "Department of Curriculum and Instruction, Texas State University, United States"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Curriculum and Instruction, Texas State University, United States",
+          "institution_ids": [
+            "https://openalex.org/I13511017"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5000705370",
+        "display_name": "Megan R. Krou",
+        "orcid": "https://orcid.org/0000-0003-2587-8357"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I13511017",
+          "display_name": "Texas State University",
+          "ror": "https://ror.org/05h9q1g27",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I13511017"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Megan R. Krou",
+      "raw_affiliation_strings": [
+        "Department of Curriculum and Instruction, Texas State University, United States"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Curriculum and Instruction, Texas State University, United States",
+          "institution_ids": [
+            "https://openalex.org/I13511017"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5030855286",
+        "display_name": "Karen Johnston-Ashton",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I13511017",
+          "display_name": "Texas State University",
+          "ror": "https://ror.org/05h9q1g27",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I13511017"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Karen Johnston-Ashton",
+      "raw_affiliation_strings": [
+        "Department of Curriculum and Instruction, Texas State University, United States"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Curriculum and Instruction, Texas State University, United States",
+          "institution_ids": [
+            "https://openalex.org/I13511017"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5048581877",
+        "display_name": "Meagan A. Hoff",
+        "orcid": "https://orcid.org/0000-0002-1886-0522"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I5001481",
+          "display_name": "Collin College",
+          "ror": "https://ror.org/05t5ek106",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I5001481"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Meagan A. Hoff",
+      "raw_affiliation_strings": [
+        "Collin College, United States"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Collin College, United States",
+          "institution_ids": [
+            "https://openalex.org/I5001481"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5025221850",
+        "display_name": "Shengjie Lin",
+        "orcid": "https://orcid.org/0000-0002-1352-321X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I86519309",
+          "display_name": "The University of Texas at Austin",
+          "ror": "https://ror.org/00hj54h04",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I86519309"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Shengjie Lin",
+      "raw_affiliation_strings": [
+        "Department of Educational Psychology, The University of Texas at Austin, United States"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Educational Psychology, The University of Texas at Austin, United States",
+          "institution_ids": [
+            "https://openalex.org/I86519309"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5040120007",
+        "display_name": "Cassandra Gonzales",
+        "orcid": "https://orcid.org/0000-0002-0046-0715"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I13511017",
+          "display_name": "Texas State University",
+          "ror": "https://ror.org/05h9q1g27",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I13511017"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Cassandra Gonzales",
+      "raw_affiliation_strings": [
+        "Department of Curriculum and Instruction, Texas State University, United States"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Curriculum and Instruction, Texas State University, United States",
+          "institution_ids": [
+            "https://openalex.org/I13511017"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 6,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5062134747"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I13511017"
+  ],
+  "apc_list": {
+    "value": 4070,
+    "currency": "USD",
+    "value_usd": 4070
+  },
+  "apc_paid": null,
+  "fwci": 8.86043576,
+  "has_fulltext": false,
+  "cited_by_count": 35,
+  "citation_normalized_percentile": {
+    "value": 0.97986314,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 98,
+    "max": 99
+  },
+  "biblio": {
+    "volume": "34",
+    "issue": null,
+    "first_page": "100407",
+    "last_page": "100407"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10636",
+    "display_name": "Innovative Teaching and Learning Methods",
+    "score": 0.9898999929428101,
+    "subfield": {
+      "id": "https://openalex.org/subfields/3204",
+      "display_name": "Developmental and Educational Psychology"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/32",
+      "display_name": "Psychology"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/2",
+      "display_name": "Social Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10636",
+      "display_name": "Innovative Teaching and Learning Methods",
+      "score": 0.9898999929428101,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3204",
+        "display_name": "Developmental and Educational Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10162",
+      "display_name": "Online and Blended Learning",
+      "score": 0.9868000149726868,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3304",
+        "display_name": "Education"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12887",
+      "display_name": "Educational Strategies and Epistemologies",
+      "score": 0.9674000144004822,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3204",
+        "display_name": "Developmental and Educational Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/adventure",
+      "display_name": "Adventure",
+      "score": 0.7985038757324219
+    },
+    {
+      "id": "https://openalex.org/keywords/psychology",
+      "display_name": "Psychology",
+      "score": 0.6462295651435852
+    },
+    {
+      "id": "https://openalex.org/keywords/adventure-education",
+      "display_name": "Adventure education",
+      "score": 0.601069986820221
+    },
+    {
+      "id": "https://openalex.org/keywords/meta-analysis",
+      "display_name": "Meta-analysis",
+      "score": 0.5260691046714783
+    },
+    {
+      "id": "https://openalex.org/keywords/mathematics-education",
+      "display_name": "Mathematics education",
+      "score": 0.4806193709373474
+    },
+    {
+      "id": "https://openalex.org/keywords/academic-achievement",
+      "display_name": "Academic achievement",
+      "score": 0.4642164707183838
+    },
+    {
+      "id": "https://openalex.org/keywords/statistical-analysis",
+      "display_name": "Statistical analysis",
+      "score": 0.4380258619785309
+    },
+    {
+      "id": "https://openalex.org/keywords/pedagogy",
+      "display_name": "Pedagogy",
+      "score": 0.362440824508667
+    },
+    {
+      "id": "https://openalex.org/keywords/experiential-learning",
+      "display_name": "Experiential learning",
+      "score": 0.21245518326759338
+    },
+    {
+      "id": "https://openalex.org/keywords/statistics",
+      "display_name": "Statistics",
+      "score": 0.1340189278125763
+    },
+    {
+      "id": "https://openalex.org/keywords/computer-science",
+      "display_name": "Computer science",
+      "score": 0.11269912123680115
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C42133412",
+      "wikidata": "https://www.wikidata.org/wiki/Q319221",
+      "display_name": "Adventure",
+      "level": 2,
+      "score": 0.7985038757324219
+    },
+    {
+      "id": "https://openalex.org/C15744967",
+      "wikidata": "https://www.wikidata.org/wiki/Q9418",
+      "display_name": "Psychology",
+      "level": 0,
+      "score": 0.6462295651435852
+    },
+    {
+      "id": "https://openalex.org/C2776184083",
+      "wikidata": "https://www.wikidata.org/wiki/Q4686558",
+      "display_name": "Adventure education",
+      "level": 3,
+      "score": 0.601069986820221
+    },
+    {
+      "id": "https://openalex.org/C95190672",
+      "wikidata": "https://www.wikidata.org/wiki/Q815382",
+      "display_name": "Meta-analysis",
+      "level": 2,
+      "score": 0.5260691046714783
+    },
+    {
+      "id": "https://openalex.org/C145420912",
+      "wikidata": "https://www.wikidata.org/wiki/Q853077",
+      "display_name": "Mathematics education",
+      "level": 1,
+      "score": 0.4806193709373474
+    },
+    {
+      "id": "https://openalex.org/C2781206393",
+      "wikidata": "https://www.wikidata.org/wiki/Q2748419",
+      "display_name": "Academic achievement",
+      "level": 2,
+      "score": 0.4642164707183838
+    },
+    {
+      "id": "https://openalex.org/C2986587452",
+      "wikidata": "https://www.wikidata.org/wiki/Q938438",
+      "display_name": "Statistical analysis",
+      "level": 2,
+      "score": 0.4380258619785309
+    },
+    {
+      "id": "https://openalex.org/C19417346",
+      "wikidata": "https://www.wikidata.org/wiki/Q7922",
+      "display_name": "Pedagogy",
+      "level": 1,
+      "score": 0.362440824508667
+    },
+    {
+      "id": "https://openalex.org/C37228920",
+      "wikidata": "https://www.wikidata.org/wiki/Q1307600",
+      "display_name": "Experiential learning",
+      "level": 2,
+      "score": 0.21245518326759338
+    },
+    {
+      "id": "https://openalex.org/C105795698",
+      "wikidata": "https://www.wikidata.org/wiki/Q12483",
+      "display_name": "Statistics",
+      "level": 1,
+      "score": 0.1340189278125763
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.11269912123680115
+    },
+    {
+      "id": "https://openalex.org/C111919701",
+      "wikidata": "https://www.wikidata.org/wiki/Q9135",
+      "display_name": "Operating system",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C126322002",
+      "wikidata": "https://www.wikidata.org/wiki/Q11180",
+      "display_name": "Internal medicine",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C33923547",
+      "wikidata": "https://www.wikidata.org/wiki/Q395",
+      "display_name": "Mathematics",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C71924100",
+      "wikidata": "https://www.wikidata.org/wiki/Q11190",
+      "display_name": "Medicine",
+      "level": 0,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "id": "doi:10.1016/j.edurev.2021.100407",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1016/j.edurev.2021.100407",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S43764696",
+        "display_name": "Educational Research Review",
+        "issn_l": "1747-938X",
+        "issn": [
+          "1747-938X",
+          "1878-0385"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320990",
+        "host_organization_name": "Elsevier BV",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320990"
+        ],
+        "host_organization_lineage_names": [
+          "Elsevier BV"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Educational Research Review",
+      "raw_type": "journal-article"
+    }
+  ],
+  "best_oa_location": null,
+  "sustainable_development_goals": [
+    {
+      "id": "https://metadata.un.org/sdg/4",
+      "display_name": "Quality Education",
+      "score": 0.8500000238418579
+    }
+  ],
+  "awards": [],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320310830",
+      "display_name": "Texas State University",
+      "ror": "https://ror.org/009ey6w22"
+    }
+  ],
+  "has_content": {
+    "pdf": false,
+    "grobid_xml": false
+  },
+  "referenced_works_count": 255,
+  "referenced_works": [
+    "https://openalex.org/W2125913327",
+    "https://openalex.org/W2144569783",
+    "https://openalex.org/W2068041251",
+    "https://openalex.org/W2114573628",
+    "https://openalex.org/W3003854219",
+    "https://openalex.org/W2287401497",
+    "https://openalex.org/W2056637459",
+    "https://openalex.org/W2109654065",
+    "https://openalex.org/W2791919211",
+    "https://openalex.org/W1680839029",
+    "https://openalex.org/W3003641553",
+    "https://openalex.org/W1997392898",
+    "https://openalex.org/W2062094747",
+    "https://openalex.org/W2009317241",
+    "https://openalex.org/W2887595459",
+    "https://openalex.org/W1957711827",
+    "https://openalex.org/W2003278441",
+    "https://openalex.org/W2784128038",
+    "https://openalex.org/W6772988776",
+    "https://openalex.org/W3031051743",
+    "https://openalex.org/W1976445490",
+    "https://openalex.org/W2157823046",
+    "https://openalex.org/W2410295432",
+    "https://openalex.org/W2042413361",
+    "https://openalex.org/W3128726975",
+    "https://openalex.org/W2056972503",
+    "https://openalex.org/W2474474003",
+    "https://openalex.org/W6722789940",
+    "https://openalex.org/W1981188819",
+    "https://openalex.org/W2981669165",
+    "https://openalex.org/W1973674505",
+    "https://openalex.org/W2099535978",
+    "https://openalex.org/W2996264761",
+    "https://openalex.org/W1988243586",
+    "https://openalex.org/W6737082311",
+    "https://openalex.org/W2273590095",
+    "https://openalex.org/W2509003089",
+    "https://openalex.org/W6735114124",
+    "https://openalex.org/W2560220116",
+    "https://openalex.org/W2886259315",
+    "https://openalex.org/W2046810066",
+    "https://openalex.org/W2037570547",
+    "https://openalex.org/W2079759011",
+    "https://openalex.org/W2597900308",
+    "https://openalex.org/W2086228408",
+    "https://openalex.org/W2976179866",
+    "https://openalex.org/W6637635595",
+    "https://openalex.org/W2106760415",
+    "https://openalex.org/W2070635017",
+    "https://openalex.org/W2126293099",
+    "https://openalex.org/W6791720356",
+    "https://openalex.org/W2015416110",
+    "https://openalex.org/W2006826121",
+    "https://openalex.org/W1994101767",
+    "https://openalex.org/W2118377505",
+    "https://openalex.org/W2160472006",
+    "https://openalex.org/W2043602163",
+    "https://openalex.org/W2015283071",
+    "https://openalex.org/W1968295086",
+    "https://openalex.org/W2106866721",
+    "https://openalex.org/W6770540619",
+    "https://openalex.org/W1994822995",
+    "https://openalex.org/W1929579363",
+    "https://openalex.org/W4211170058",
+    "https://openalex.org/W6638594514",
+    "https://openalex.org/W1925486158",
+    "https://openalex.org/W2317922289",
+    "https://openalex.org/W2276186231",
+    "https://openalex.org/W6773119901",
+    "https://openalex.org/W2897814200",
+    "https://openalex.org/W2028854990",
+    "https://openalex.org/W1974479479",
+    "https://openalex.org/W2139168999",
+    "https://openalex.org/W4249710044",
+    "https://openalex.org/W6756846391",
+    "https://openalex.org/W6805130441",
+    "https://openalex.org/W6724038652",
+    "https://openalex.org/W6640091597",
+    "https://openalex.org/W6704519146",
+    "https://openalex.org/W2097632178",
+    "https://openalex.org/W1965110143",
+    "https://openalex.org/W2989682838",
+    "https://openalex.org/W2066806772",
+    "https://openalex.org/W6854596042",
+    "https://openalex.org/W2062455773",
+    "https://openalex.org/W2139462178",
+    "https://openalex.org/W1997853537",
+    "https://openalex.org/W6637723804",
+    "https://openalex.org/W2889751345",
+    "https://openalex.org/W964321232",
+    "https://openalex.org/W2900410729",
+    "https://openalex.org/W2070617628",
+    "https://openalex.org/W2070096157",
+    "https://openalex.org/W1994265318",
+    "https://openalex.org/W2006386917",
+    "https://openalex.org/W1786598942",
+    "https://openalex.org/W2073034486",
+    "https://openalex.org/W6841730166",
+    "https://openalex.org/W2067873718",
+    "https://openalex.org/W2060937177",
+    "https://openalex.org/W162357650",
+    "https://openalex.org/W6722650272",
+    "https://openalex.org/W2302541957",
+    "https://openalex.org/W2164225358",
+    "https://openalex.org/W2142203847",
+    "https://openalex.org/W6740021206",
+    "https://openalex.org/W2115528968",
+    "https://openalex.org/W12595656",
+    "https://openalex.org/W2400378131",
+    "https://openalex.org/W6697596896",
+    "https://openalex.org/W6640985851",
+    "https://openalex.org/W2061016106",
+    "https://openalex.org/W1977466453",
+    "https://openalex.org/W1970123189",
+    "https://openalex.org/W6751983628",
+    "https://openalex.org/W2014655176",
+    "https://openalex.org/W1984930366",
+    "https://openalex.org/W6601960007",
+    "https://openalex.org/W6697779123",
+    "https://openalex.org/W2341712885",
+    "https://openalex.org/W2149392059",
+    "https://openalex.org/W6746650328",
+    "https://openalex.org/W2597779828",
+    "https://openalex.org/W6744404499",
+    "https://openalex.org/W1980019021",
+    "https://openalex.org/W6693004176",
+    "https://openalex.org/W2073617744",
+    "https://openalex.org/W2139746251",
+    "https://openalex.org/W2264266791",
+    "https://openalex.org/W6681045009",
+    "https://openalex.org/W2188352029",
+    "https://openalex.org/W6729941459",
+    "https://openalex.org/W2286662403",
+    "https://openalex.org/W6609522021",
+    "https://openalex.org/W1964821885",
+    "https://openalex.org/W1983553433",
+    "https://openalex.org/W2148285219",
+    "https://openalex.org/W1996537993",
+    "https://openalex.org/W6726190488",
+    "https://openalex.org/W2010810415",
+    "https://openalex.org/W6741064674",
+    "https://openalex.org/W2007488894",
+    "https://openalex.org/W1588917084",
+    "https://openalex.org/W2158805146",
+    "https://openalex.org/W1967993640",
+    "https://openalex.org/W6797055872",
+    "https://openalex.org/W2012952069",
+    "https://openalex.org/W2156782076",
+    "https://openalex.org/W2147823098",
+    "https://openalex.org/W6766487933",
+    "https://openalex.org/W6741234491",
+    "https://openalex.org/W1979167310",
+    "https://openalex.org/W6677912481",
+    "https://openalex.org/W6630906166",
+    "https://openalex.org/W87476178",
+    "https://openalex.org/W2062428352",
+    "https://openalex.org/W6734980021",
+    "https://openalex.org/W1595368241",
+    "https://openalex.org/W2165810647",
+    "https://openalex.org/W2050525522",
+    "https://openalex.org/W2166389841",
+    "https://openalex.org/W2102535391",
+    "https://openalex.org/W2155229164",
+    "https://openalex.org/W2052031110",
+    "https://openalex.org/W1992456662",
+    "https://openalex.org/W2527948461",
+    "https://openalex.org/W46836809",
+    "https://openalex.org/W4230666956",
+    "https://openalex.org/W71228264",
+    "https://openalex.org/W2521341187",
+    "https://openalex.org/W2296306001",
+    "https://openalex.org/W2267411229",
+    "https://openalex.org/W2485358285",
+    "https://openalex.org/W81681833",
+    "https://openalex.org/W2965389562",
+    "https://openalex.org/W2471988427",
+    "https://openalex.org/W3005991428",
+    "https://openalex.org/W2802708198",
+    "https://openalex.org/W2287122782",
+    "https://openalex.org/W2735779322",
+    "https://openalex.org/W3003182729",
+    "https://openalex.org/W2256774132",
+    "https://openalex.org/W5006598",
+    "https://openalex.org/W2903788456",
+    "https://openalex.org/W3121968172",
+    "https://openalex.org/W1805837607",
+    "https://openalex.org/W1504608115",
+    "https://openalex.org/W2242787558",
+    "https://openalex.org/W566436095",
+    "https://openalex.org/W644761165",
+    "https://openalex.org/W1741890539",
+    "https://openalex.org/W3135784906",
+    "https://openalex.org/W4213419496",
+    "https://openalex.org/W2554971939",
+    "https://openalex.org/W2298496603",
+    "https://openalex.org/W2604987261",
+    "https://openalex.org/W4293586167",
+    "https://openalex.org/W2268732791",
+    "https://openalex.org/W2954358828",
+    "https://openalex.org/W204690161",
+    "https://openalex.org/W1661869790",
+    "https://openalex.org/W2990358689",
+    "https://openalex.org/W2343060919",
+    "https://openalex.org/W2595946633",
+    "https://openalex.org/W2119971757",
+    "https://openalex.org/W2921432275",
+    "https://openalex.org/W1468923727",
+    "https://openalex.org/W190980244",
+    "https://openalex.org/W3100466671",
+    "https://openalex.org/W1504333246",
+    "https://openalex.org/W2890214071",
+    "https://openalex.org/W3173380530",
+    "https://openalex.org/W3137973687",
+    "https://openalex.org/W2264081937",
+    "https://openalex.org/W2112853977",
+    "https://openalex.org/W1922156414",
+    "https://openalex.org/W4246559404",
+    "https://openalex.org/W3015699786",
+    "https://openalex.org/W3004320703",
+    "https://openalex.org/W2756554811",
+    "https://openalex.org/W590568765",
+    "https://openalex.org/W252712565",
+    "https://openalex.org/W2500354355",
+    "https://openalex.org/W2171893566",
+    "https://openalex.org/W609241950",
+    "https://openalex.org/W4249187927",
+    "https://openalex.org/W2155511659",
+    "https://openalex.org/W2253041911",
+    "https://openalex.org/W2259660087",
+    "https://openalex.org/W1681730134",
+    "https://openalex.org/W2515994513",
+    "https://openalex.org/W1980842935",
+    "https://openalex.org/W2775733501",
+    "https://openalex.org/W119570081",
+    "https://openalex.org/W3200351998",
+    "https://openalex.org/W37446783",
+    "https://openalex.org/W1678084289",
+    "https://openalex.org/W2804624037",
+    "https://openalex.org/W591201560",
+    "https://openalex.org/W2935754888",
+    "https://openalex.org/W2729748557",
+    "https://openalex.org/W2598762931",
+    "https://openalex.org/W2141880538",
+    "https://openalex.org/W2611495759",
+    "https://openalex.org/W1526122805",
+    "https://openalex.org/W1800991330",
+    "https://openalex.org/W2519854629",
+    "https://openalex.org/W1562208008",
+    "https://openalex.org/W2198605508",
+    "https://openalex.org/W3145020342",
+    "https://openalex.org/W2487824393",
+    "https://openalex.org/W384811172",
+    "https://openalex.org/W2906754360",
+    "https://openalex.org/W1953497378",
+    "https://openalex.org/W4285719527"
+  ],
+  "related_works": [
+    "https://openalex.org/W2160484425",
+    "https://openalex.org/W2083272936",
+    "https://openalex.org/W84091170",
+    "https://openalex.org/W2753715487",
+    "https://openalex.org/W2117949008",
+    "https://openalex.org/W2003824174",
+    "https://openalex.org/W185665936",
+    "https://openalex.org/W321969930",
+    "https://openalex.org/W1964592742",
+    "https://openalex.org/W2029825008"
+  ],
+  "abstract_inverted_index": null,
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 7
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 9
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 12
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 7
+    }
+  ],
+  "updated_date": "2025-11-06T03:46:38.306776",
+  "created_date": "2025-10-10T00:00:00"
+}

@@ -1,0 +1,1 @@
+Clarinval, A., & Dumas, B. (2022). Intra-City Traffic Data Visualization: A Systematic Literature Review. IEEE Transactions on Intelligent Transportation Systems, 23(7), 6298–6315. https://doi.org/10.1109/tits.2021.3092036

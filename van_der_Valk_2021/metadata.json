@@ -1,0 +1,12 @@
+{
+  "key": "van_der_Valk_2021",
+  "publication": {
+    "doi": "10.1111/obr.13376",
+    "eligibility_criteria": "We included studies that reported cross-sectional associations between HairGC and measurements of obesity. We excluded case reports, animal studies, review articles, non-English or nonpeer reviewed studies, and studies in which hair sampling and weight measurements were not performed simultaneously (Figure 1). Pediatric studies that only included children younger than age 2 years were also excluded because BMI-based definitions of obesity are not available for this age group"
+  },
+  "data": {
+    "doi": "10.17605/OSF.IO/WDZH5",
+    "n_records": 774,
+    "n_records_included": 90
+  }
+}

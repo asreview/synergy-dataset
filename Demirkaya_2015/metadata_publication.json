@@ -1,0 +1,838 @@
+{
+  "id": "https://openalex.org/W2292267335",
+  "doi": "https://doi.org/10.1007/s00296-015-3408-9",
+  "title": "Efficacy and safety of treatments in Familial Mediterranean fever: a systematic review",
+  "display_name": "Efficacy and safety of treatments in Familial Mediterranean fever: a systematic review",
+  "publication_year": 2015,
+  "publication_date": "2015-12-19",
+  "ids": {
+    "openalex": "https://openalex.org/W2292267335",
+    "doi": "https://doi.org/10.1007/s00296-015-3408-9",
+    "mag": "2292267335",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/26687683"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1007/s00296-015-3408-9",
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.1007/s00296-015-3408-9",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S50823678",
+      "display_name": "Rheumatology International",
+      "issn_l": "0172-8172",
+      "issn": [
+        "0172-8172",
+        "1437-160X"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310319900",
+      "host_organization_name": "Springer Science+Business Media",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310319900",
+        "https://openalex.org/P4310319965"
+      ],
+      "host_organization_lineage_names": [
+        "Springer Science+Business Media",
+        "Springer Nature"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Rheumatology International",
+    "raw_type": "journal-article"
+  },
+  "type": "review",
+  "indexed_in": [
+    "crossref",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5000636712",
+        "display_name": "Erkan Demirkaya",
+        "orcid": "https://orcid.org/0000-0003-4525-1789"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": true,
+      "raw_author_name": "Erkan Demirkaya",
+      "raw_affiliation_strings": [
+        "Division of Pediatric Rheumatology, FMF Arthritis Vasculitis and Orphan Disease Research Center (FAVOR), G\u00fclhane Military Medical Faculty, 06018, Etlik, Ankara, Turkey"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Division of Pediatric Rheumatology, FMF Arthritis Vasculitis and Orphan Disease Research Center (FAVOR), G\u00fclhane Military Medical Faculty, 06018, Etlik, Ankara, Turkey",
+          "institution_ids": []
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5083583908",
+        "display_name": "Burak Erer",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I67581229",
+          "display_name": "Istanbul University",
+          "ror": "https://ror.org/03a5qrr21",
+          "country_code": "TR",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I67581229"
+          ]
+        }
+      ],
+      "countries": [
+        "TR"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Burak Erer",
+      "raw_affiliation_strings": [
+        "Division of Rheumatology, Faculty of Medicine, Istanbul University, Istanbul, Turkey"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Division of Rheumatology, Faculty of Medicine, Istanbul University, Istanbul, Turkey",
+          "institution_ids": [
+            "https://openalex.org/I67581229"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5079636331",
+        "display_name": "Seza \u00d6zen",
+        "orcid": "https://orcid.org/0000-0003-2883-7868"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I66514158",
+          "display_name": "Hacettepe University",
+          "ror": "https://ror.org/04kwvgz42",
+          "country_code": "TR",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I66514158"
+          ]
+        }
+      ],
+      "countries": [
+        "TR"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Seza Ozen",
+      "raw_affiliation_strings": [
+        "Division of Pediatric Rheumatology, School of Medicine, Hacettepe University, Ankara, Turkey"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Division of Pediatric Rheumatology, School of Medicine, Hacettepe University, Ankara, Turkey",
+          "institution_ids": [
+            "https://openalex.org/I66514158"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5059955597",
+        "display_name": "Eldad Ben\u2010Chetrit",
+        "orcid": "https://orcid.org/0000-0001-8520-5045"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2799899409",
+          "display_name": "Hadassah Medical Center",
+          "ror": "https://ror.org/01cqmqj90",
+          "country_code": "IL",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2799899409"
+          ]
+        }
+      ],
+      "countries": [
+        "IL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Eldad Ben-Chetrit",
+      "raw_affiliation_strings": [
+        "Hadassah-Hebrew University Medical Center, Jerusalem, Israel"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Hadassah-Hebrew University Medical Center, Jerusalem, Israel",
+          "institution_ids": [
+            "https://openalex.org/I2799899409"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 2,
+  "institutions_distinct_count": 4,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5000636712"
+  ],
+  "corresponding_institution_ids": [],
+  "apc_list": {
+    "value": 3390,
+    "currency": "EUR",
+    "value_usd": 4390
+  },
+  "apc_paid": null,
+  "fwci": 2.02196995,
+  "has_fulltext": false,
+  "cited_by_count": 48,
+  "citation_normalized_percentile": {
+    "value": 0.87969106,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 89,
+    "max": 99
+  },
+  "biblio": {
+    "volume": "36",
+    "issue": "3",
+    "first_page": "325",
+    "last_page": "331"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T11078",
+    "display_name": "Inflammasome and immune disorders",
+    "score": 0.9998999834060669,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1312",
+      "display_name": "Molecular Biology"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/13",
+      "display_name": "Biochemistry, Genetics and Molecular Biology"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/1",
+      "display_name": "Life Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T11078",
+      "display_name": "Inflammasome and immune disorders",
+      "score": 0.9998999834060669,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11618",
+      "display_name": "Cholesterol and Lipid Metabolism",
+      "score": 0.9369999766349792,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2746",
+        "display_name": "Surgery"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11297",
+      "display_name": "Ferroptosis and cancer prognosis",
+      "score": 0.9366999864578247,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2740",
+        "display_name": "Pulmonary and Respiratory Medicine"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/medicine",
+      "display_name": "Medicine",
+      "score": 0.9230340123176575
+    },
+    {
+      "id": "https://openalex.org/keywords/familial-mediterranean-fever",
+      "display_name": "Familial Mediterranean fever",
+      "score": 0.8725709915161133
+    },
+    {
+      "id": "https://openalex.org/keywords/randomized-controlled-trial",
+      "display_name": "Randomized controlled trial",
+      "score": 0.7559923529624939
+    },
+    {
+      "id": "https://openalex.org/keywords/clinical-trial",
+      "display_name": "Clinical trial",
+      "score": 0.49778223037719727
+    },
+    {
+      "id": "https://openalex.org/keywords/systematic-review",
+      "display_name": "Systematic review",
+      "score": 0.4893273711204529
+    },
+    {
+      "id": "https://openalex.org/keywords/medline",
+      "display_name": "MEDLINE",
+      "score": 0.46324244141578674
+    },
+    {
+      "id": "https://openalex.org/keywords/internal-medicine",
+      "display_name": "Internal medicine",
+      "score": 0.4153323173522949
+    },
+    {
+      "id": "https://openalex.org/keywords/physical-therapy",
+      "display_name": "Physical therapy",
+      "score": 0.3824770152568817
+    },
+    {
+      "id": "https://openalex.org/keywords/intensive-care-medicine",
+      "display_name": "Intensive care medicine",
+      "score": 0.38237452507019043
+    },
+    {
+      "id": "https://openalex.org/keywords/disease",
+      "display_name": "Disease",
+      "score": 0.26019996404647827
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C71924100",
+      "wikidata": "https://www.wikidata.org/wiki/Q11190",
+      "display_name": "Medicine",
+      "level": 0,
+      "score": 0.9230340123176575
+    },
+    {
+      "id": "https://openalex.org/C2779537928",
+      "wikidata": "https://www.wikidata.org/wiki/Q1144618",
+      "display_name": "Familial Mediterranean fever",
+      "level": 3,
+      "score": 0.8725709915161133
+    },
+    {
+      "id": "https://openalex.org/C168563851",
+      "wikidata": "https://www.wikidata.org/wiki/Q1436668",
+      "display_name": "Randomized controlled trial",
+      "level": 2,
+      "score": 0.7559923529624939
+    },
+    {
+      "id": "https://openalex.org/C535046627",
+      "wikidata": "https://www.wikidata.org/wiki/Q30612",
+      "display_name": "Clinical trial",
+      "level": 2,
+      "score": 0.49778223037719727
+    },
+    {
+      "id": "https://openalex.org/C189708586",
+      "wikidata": "https://www.wikidata.org/wiki/Q1504425",
+      "display_name": "Systematic review",
+      "level": 3,
+      "score": 0.4893273711204529
+    },
+    {
+      "id": "https://openalex.org/C2779473830",
+      "wikidata": "https://www.wikidata.org/wiki/Q1540899",
+      "display_name": "MEDLINE",
+      "level": 2,
+      "score": 0.46324244141578674
+    },
+    {
+      "id": "https://openalex.org/C126322002",
+      "wikidata": "https://www.wikidata.org/wiki/Q11180",
+      "display_name": "Internal medicine",
+      "level": 1,
+      "score": 0.4153323173522949
+    },
+    {
+      "id": "https://openalex.org/C1862650",
+      "wikidata": "https://www.wikidata.org/wiki/Q186005",
+      "display_name": "Physical therapy",
+      "level": 1,
+      "score": 0.3824770152568817
+    },
+    {
+      "id": "https://openalex.org/C177713679",
+      "wikidata": "https://www.wikidata.org/wiki/Q679690",
+      "display_name": "Intensive care medicine",
+      "level": 1,
+      "score": 0.38237452507019043
+    },
+    {
+      "id": "https://openalex.org/C2779134260",
+      "wikidata": "https://www.wikidata.org/wiki/Q12136",
+      "display_name": "Disease",
+      "level": 2,
+      "score": 0.26019996404647827
+    },
+    {
+      "id": "https://openalex.org/C17744445",
+      "wikidata": "https://www.wikidata.org/wiki/Q36442",
+      "display_name": "Political science",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C199539241",
+      "wikidata": "https://www.wikidata.org/wiki/Q7748",
+      "display_name": "Law",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [
+    {
+      "descriptor_ui": "D000893",
+      "descriptor_name": "Anti-Inflammatory Agents",
+      "qualifier_ui": "Q000009",
+      "qualifier_name": "adverse effects",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000893",
+      "descriptor_name": "Anti-Inflammatory Agents",
+      "qualifier_ui": "Q000627",
+      "qualifier_name": "therapeutic use",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D003078",
+      "descriptor_name": "Colchicine",
+      "qualifier_ui": "Q000009",
+      "qualifier_name": "adverse effects",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D003078",
+      "descriptor_name": "Colchicine",
+      "qualifier_ui": "Q000627",
+      "qualifier_name": "therapeutic use",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D010505",
+      "descriptor_name": "Familial Mediterranean Fever",
+      "qualifier_ui": "Q000175",
+      "qualifier_name": "diagnosis",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D010505",
+      "descriptor_name": "Familial Mediterranean Fever",
+      "qualifier_ui": "Q000188",
+      "qualifier_name": "drug therapy",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D007372",
+      "descriptor_name": "Interferons",
+      "qualifier_ui": "Q000627",
+      "qualifier_name": "therapeutic use",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D010936",
+      "descriptor_name": "Plant Extracts",
+      "qualifier_ui": "Q000627",
+      "qualifier_name": "therapeutic use",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D011993",
+      "descriptor_name": "Recombinant Fusion Proteins",
+      "qualifier_ui": "Q000627",
+      "qualifier_name": "therapeutic use",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D016896",
+      "descriptor_name": "Treatment Outcome",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000893",
+      "descriptor_name": "Anti-Inflammatory Agents",
+      "qualifier_ui": "Q000009",
+      "qualifier_name": "adverse effects",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000893",
+      "descriptor_name": "Anti-Inflammatory Agents",
+      "qualifier_ui": "Q000627",
+      "qualifier_name": "therapeutic use",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D003078",
+      "descriptor_name": "Colchicine",
+      "qualifier_ui": "Q000009",
+      "qualifier_name": "adverse effects",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D003078",
+      "descriptor_name": "Colchicine",
+      "qualifier_ui": "Q000627",
+      "qualifier_name": "therapeutic use",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D010505",
+      "descriptor_name": "Familial Mediterranean Fever",
+      "qualifier_ui": "Q000175",
+      "qualifier_name": "diagnosis",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D010505",
+      "descriptor_name": "Familial Mediterranean Fever",
+      "qualifier_ui": "Q000188",
+      "qualifier_name": "drug therapy",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D007372",
+      "descriptor_name": "Interferons",
+      "qualifier_ui": "Q000627",
+      "qualifier_name": "therapeutic use",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D010936",
+      "descriptor_name": "Plant Extracts",
+      "qualifier_ui": "Q000627",
+      "qualifier_name": "therapeutic use",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D011993",
+      "descriptor_name": "Recombinant Fusion Proteins",
+      "qualifier_ui": "Q000627",
+      "qualifier_name": "therapeutic use",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D016896",
+      "descriptor_name": "Treatment Outcome",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000893",
+      "descriptor_name": "Anti-Inflammatory Agents",
+      "qualifier_ui": "Q000009",
+      "qualifier_name": "adverse effects",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000893",
+      "descriptor_name": "Anti-Inflammatory Agents",
+      "qualifier_ui": "Q000627",
+      "qualifier_name": "therapeutic use",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D003078",
+      "descriptor_name": "Colchicine",
+      "qualifier_ui": "Q000009",
+      "qualifier_name": "adverse effects",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D003078",
+      "descriptor_name": "Colchicine",
+      "qualifier_ui": "Q000627",
+      "qualifier_name": "therapeutic use",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D010505",
+      "descriptor_name": "Familial Mediterranean Fever",
+      "qualifier_ui": "Q000175",
+      "qualifier_name": "diagnosis",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D010505",
+      "descriptor_name": "Familial Mediterranean Fever",
+      "qualifier_ui": "Q000188",
+      "qualifier_name": "drug therapy",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D007372",
+      "descriptor_name": "Interferons",
+      "qualifier_ui": "Q000627",
+      "qualifier_name": "therapeutic use",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D010936",
+      "descriptor_name": "Plant Extracts",
+      "qualifier_ui": "Q000627",
+      "qualifier_name": "therapeutic use",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D011993",
+      "descriptor_name": "Recombinant Fusion Proteins",
+      "qualifier_ui": "Q000627",
+      "qualifier_name": "therapeutic use",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D016896",
+      "descriptor_name": "Treatment Outcome",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    }
+  ],
+  "locations_count": 2,
+  "locations": [
+    {
+      "id": "doi:10.1007/s00296-015-3408-9",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1007/s00296-015-3408-9",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S50823678",
+        "display_name": "Rheumatology International",
+        "issn_l": "0172-8172",
+        "issn": [
+          "0172-8172",
+          "1437-160X"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310319900",
+        "host_organization_name": "Springer Science+Business Media",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310319900",
+          "https://openalex.org/P4310319965"
+        ],
+        "host_organization_lineage_names": [
+          "Springer Science+Business Media",
+          "Springer Nature"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Rheumatology International",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:26687683",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/26687683",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Rheumatology international",
+      "raw_type": null
+    }
+  ],
+  "best_oa_location": null,
+  "sustainable_development_goals": [],
+  "awards": [],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320325330",
+      "display_name": "European League Against Rheumatism",
+      "ror": "https://ror.org/03f7j3221"
+    }
+  ],
+  "has_content": {
+    "pdf": false,
+    "grobid_xml": false
+  },
+  "referenced_works_count": 24,
+  "referenced_works": [
+    "https://openalex.org/W2135395364",
+    "https://openalex.org/W2406601115",
+    "https://openalex.org/W2417515168",
+    "https://openalex.org/W1992478517",
+    "https://openalex.org/W2130735667",
+    "https://openalex.org/W2111722073",
+    "https://openalex.org/W2025281034",
+    "https://openalex.org/W2258885354",
+    "https://openalex.org/W2049404195",
+    "https://openalex.org/W2072550765",
+    "https://openalex.org/W2090513364",
+    "https://openalex.org/W2023850046",
+    "https://openalex.org/W2325631708",
+    "https://openalex.org/W2035113730",
+    "https://openalex.org/W2030096601",
+    "https://openalex.org/W2051103578",
+    "https://openalex.org/W1546378026",
+    "https://openalex.org/W2395688854",
+    "https://openalex.org/W1982144458",
+    "https://openalex.org/W2039795699",
+    "https://openalex.org/W1929086854",
+    "https://openalex.org/W2119800343",
+    "https://openalex.org/W2061014270",
+    "https://openalex.org/W206575451"
+  ],
+  "related_works": [
+    "https://openalex.org/W2330842341",
+    "https://openalex.org/W2890228542",
+    "https://openalex.org/W4211048001",
+    "https://openalex.org/W2557318026",
+    "https://openalex.org/W2395824782",
+    "https://openalex.org/W4241893952",
+    "https://openalex.org/W2741771873",
+    "https://openalex.org/W2107503717",
+    "https://openalex.org/W2070311887",
+    "https://openalex.org/W2115099528"
+  ],
+  "abstract_inverted_index": null,
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 7
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 4
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 4
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 4
+    },
+    {
+      "year": 2021,
+      "cited_by_count": 4
+    },
+    {
+      "year": 2020,
+      "cited_by_count": 5
+    },
+    {
+      "year": 2019,
+      "cited_by_count": 4
+    },
+    {
+      "year": 2018,
+      "cited_by_count": 5
+    },
+    {
+      "year": 2017,
+      "cited_by_count": 5
+    },
+    {
+      "year": 2016,
+      "cited_by_count": 3
+    },
+    {
+      "year": 2015,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2025-11-06T03:46:38.306776",
+  "created_date": "2025-10-10T00:00:00"
+}

@@ -1,0 +1,996 @@
+{
+  "id": "https://openalex.org/W4402901797",
+  "doi": "https://doi.org/10.1186/s42854-024-00066-2",
+  "title": "Planning cities with nature for sustainability transformations\u00a0\u2014 a systematic review",
+  "display_name": "Planning cities with nature for sustainability transformations\u00a0\u2014 a systematic review",
+  "publication_year": 2024,
+  "publication_date": "2024-09-27",
+  "ids": {
+    "openalex": "https://openalex.org/W4402901797",
+    "doi": "https://doi.org/10.1186/s42854-024-00066-2"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1186/s42854-024-00066-2",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1186/s42854-024-00066-2",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S4210235212",
+      "display_name": "Urban Transformations",
+      "issn_l": "2524-8162",
+      "issn": [
+        "2524-8162"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320256",
+      "host_organization_name": "BioMed Central",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320256",
+        "https://openalex.org/P4310319965"
+      ],
+      "host_organization_lineage_names": [
+        "BioMed Central",
+        "Springer Nature"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Urban Transformations",
+    "raw_type": "journal-article"
+  },
+  "type": "review",
+  "indexed_in": [
+    "crossref",
+    "doaj"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "gold",
+    "oa_url": "https://doi.org/10.1186/s42854-024-00066-2",
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5028716220",
+        "display_name": "P.G. Harms",
+        "orcid": "https://orcid.org/0000-0003-3940-6211"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Philip Harms",
+      "raw_affiliation_strings": [],
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5113160727",
+        "display_name": "Maeve Hofer",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Maeve Hofer",
+      "raw_affiliation_strings": [],
+      "affiliations": []
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5030729207",
+        "display_name": "Martina Artmann",
+        "orcid": "https://orcid.org/0000-0003-3119-4314"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Martina Artmann",
+      "raw_affiliation_strings": [],
+      "affiliations": []
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 0,
+  "institutions_distinct_count": 3,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [],
+  "apc_list": {
+    "value": 690,
+    "currency": "GBP",
+    "value_usd": 846
+  },
+  "apc_paid": {
+    "value": 690,
+    "currency": "GBP",
+    "value_usd": 846
+  },
+  "fwci": 8.60676164,
+  "has_fulltext": false,
+  "cited_by_count": 15,
+  "citation_normalized_percentile": {
+    "value": 0.96731491,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 94,
+    "max": 100
+  },
+  "biblio": {
+    "volume": "6",
+    "issue": "1",
+    "first_page": null,
+    "last_page": null
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10226",
+    "display_name": "Land Use and Ecosystem Services",
+    "score": 0.9948999881744385,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2306",
+      "display_name": "Global and Planetary Change"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/23",
+      "display_name": "Environmental Science"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10226",
+      "display_name": "Land Use and Ecosystem Services",
+      "score": 0.9948999881744385,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2306",
+        "display_name": "Global and Planetary Change"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10692",
+      "display_name": "Urban Green Space and Health",
+      "score": 0.9811999797821045,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2307",
+        "display_name": "Health, Toxicology and Mutagenesis"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13654",
+      "display_name": "Urban Planning and Landscape Design",
+      "score": 0.9688000082969666,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2308",
+        "display_name": "Management, Monitoring, Policy and Law"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/sustainability",
+      "display_name": "Sustainability",
+      "score": 0.6560719013214111
+    },
+    {
+      "id": "https://openalex.org/keywords/environmental-planning",
+      "display_name": "Environmental planning",
+      "score": 0.5474863052368164
+    },
+    {
+      "id": "https://openalex.org/keywords/urban-sustainability",
+      "display_name": "Urban sustainability",
+      "score": 0.483590304851532
+    },
+    {
+      "id": "https://openalex.org/keywords/environmental-resource-management",
+      "display_name": "Environmental resource management",
+      "score": 0.3669886589050293
+    },
+    {
+      "id": "https://openalex.org/keywords/business",
+      "display_name": "Business",
+      "score": 0.3363204002380371
+    },
+    {
+      "id": "https://openalex.org/keywords/geography",
+      "display_name": "Geography",
+      "score": 0.33492904901504517
+    },
+    {
+      "id": "https://openalex.org/keywords/economics",
+      "display_name": "Economics",
+      "score": 0.1666540801525116
+    },
+    {
+      "id": "https://openalex.org/keywords/ecology",
+      "display_name": "Ecology",
+      "score": 0.0654570460319519
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C66204764",
+      "wikidata": "https://www.wikidata.org/wiki/Q219416",
+      "display_name": "Sustainability",
+      "level": 2,
+      "score": 0.6560719013214111
+    },
+    {
+      "id": "https://openalex.org/C91375879",
+      "wikidata": "https://www.wikidata.org/wiki/Q15473274",
+      "display_name": "Environmental planning",
+      "level": 1,
+      "score": 0.5474863052368164
+    },
+    {
+      "id": "https://openalex.org/C2994339824",
+      "wikidata": "https://www.wikidata.org/wiki/Q7649624",
+      "display_name": "Urban sustainability",
+      "level": 3,
+      "score": 0.483590304851532
+    },
+    {
+      "id": "https://openalex.org/C107826830",
+      "wikidata": "https://www.wikidata.org/wiki/Q929380",
+      "display_name": "Environmental resource management",
+      "level": 1,
+      "score": 0.3669886589050293
+    },
+    {
+      "id": "https://openalex.org/C144133560",
+      "wikidata": "https://www.wikidata.org/wiki/Q4830453",
+      "display_name": "Business",
+      "level": 0,
+      "score": 0.3363204002380371
+    },
+    {
+      "id": "https://openalex.org/C205649164",
+      "wikidata": "https://www.wikidata.org/wiki/Q1071",
+      "display_name": "Geography",
+      "level": 0,
+      "score": 0.33492904901504517
+    },
+    {
+      "id": "https://openalex.org/C162324750",
+      "wikidata": "https://www.wikidata.org/wiki/Q8134",
+      "display_name": "Economics",
+      "level": 0,
+      "score": 0.1666540801525116
+    },
+    {
+      "id": "https://openalex.org/C18903297",
+      "wikidata": "https://www.wikidata.org/wiki/Q7150",
+      "display_name": "Ecology",
+      "level": 1,
+      "score": 0.0654570460319519
+    },
+    {
+      "id": "https://openalex.org/C86803240",
+      "wikidata": "https://www.wikidata.org/wiki/Q420",
+      "display_name": "Biology",
+      "level": 0,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 2,
+  "locations": [
+    {
+      "id": "doi:10.1186/s42854-024-00066-2",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1186/s42854-024-00066-2",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4210235212",
+        "display_name": "Urban Transformations",
+        "issn_l": "2524-8162",
+        "issn": [
+          "2524-8162"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320256",
+        "host_organization_name": "BioMed Central",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320256",
+          "https://openalex.org/P4310319965"
+        ],
+        "host_organization_lineage_names": [
+          "BioMed Central",
+          "Springer Nature"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Urban Transformations",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmh:oai:doaj.org/article:2e5757c9a82a4efc983aa76f3b073bf5",
+      "is_oa": false,
+      "landing_page_url": "https://doaj.org/article/2e5757c9a82a4efc983aa76f3b073bf5",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401280",
+        "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Urban Transformations, Vol 6, Iss 1, Pp 1-26 (2024)",
+      "raw_type": "article"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1186/s42854-024-00066-2",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1186/s42854-024-00066-2",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S4210235212",
+      "display_name": "Urban Transformations",
+      "issn_l": "2524-8162",
+      "issn": [
+        "2524-8162"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320256",
+      "host_organization_name": "BioMed Central",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320256",
+        "https://openalex.org/P4310319965"
+      ],
+      "host_organization_lineage_names": [
+        "BioMed Central",
+        "Springer Nature"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Urban Transformations",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "pdf": false,
+    "grobid_xml": false
+  },
+  "referenced_works_count": 101,
+  "referenced_works": [
+    "https://openalex.org/W2473015971",
+    "https://openalex.org/W3210241458",
+    "https://openalex.org/W2103143384",
+    "https://openalex.org/W3031036768",
+    "https://openalex.org/W3029005951",
+    "https://openalex.org/W4320733260",
+    "https://openalex.org/W3133207165",
+    "https://openalex.org/W2581028200",
+    "https://openalex.org/W2893300601",
+    "https://openalex.org/W2017568810",
+    "https://openalex.org/W1997091781",
+    "https://openalex.org/W3006418270",
+    "https://openalex.org/W2981507491",
+    "https://openalex.org/W4298003022",
+    "https://openalex.org/W3032823428",
+    "https://openalex.org/W3137233190",
+    "https://openalex.org/W3158973852",
+    "https://openalex.org/W3125430603",
+    "https://openalex.org/W2921441569",
+    "https://openalex.org/W2097686432",
+    "https://openalex.org/W3005024493",
+    "https://openalex.org/W4200031580",
+    "https://openalex.org/W2608274476",
+    "https://openalex.org/W2770501056",
+    "https://openalex.org/W4229374930",
+    "https://openalex.org/W2882995622",
+    "https://openalex.org/W3130327360",
+    "https://openalex.org/W2789722067",
+    "https://openalex.org/W2913311244",
+    "https://openalex.org/W2088428301",
+    "https://openalex.org/W4390616964",
+    "https://openalex.org/W2907777557",
+    "https://openalex.org/W2769322819",
+    "https://openalex.org/W4320404604",
+    "https://openalex.org/W3192991420",
+    "https://openalex.org/W2996408271",
+    "https://openalex.org/W2901251982",
+    "https://openalex.org/W4214522773",
+    "https://openalex.org/W3105349321",
+    "https://openalex.org/W4308918290",
+    "https://openalex.org/W4380482462",
+    "https://openalex.org/W2983101444",
+    "https://openalex.org/W3165387743",
+    "https://openalex.org/W4291237335",
+    "https://openalex.org/W2659447563",
+    "https://openalex.org/W2786652139",
+    "https://openalex.org/W2941195548",
+    "https://openalex.org/W4382811259",
+    "https://openalex.org/W2901591660",
+    "https://openalex.org/W3080832016",
+    "https://openalex.org/W2777372386",
+    "https://openalex.org/W2910922638",
+    "https://openalex.org/W2766546969",
+    "https://openalex.org/W3010745840",
+    "https://openalex.org/W2989416454",
+    "https://openalex.org/W3129998045",
+    "https://openalex.org/W2992286277",
+    "https://openalex.org/W2732270764",
+    "https://openalex.org/W2622714060",
+    "https://openalex.org/W3084205727",
+    "https://openalex.org/W3139743989",
+    "https://openalex.org/W2982486780",
+    "https://openalex.org/W4380342453",
+    "https://openalex.org/W2800906030",
+    "https://openalex.org/W2997041690",
+    "https://openalex.org/W3118615836",
+    "https://openalex.org/W2808087920",
+    "https://openalex.org/W3127106933",
+    "https://openalex.org/W2999632932",
+    "https://openalex.org/W4294484475",
+    "https://openalex.org/W4212960038",
+    "https://openalex.org/W3163764822",
+    "https://openalex.org/W3141937889",
+    "https://openalex.org/W3157104609",
+    "https://openalex.org/W3154216538",
+    "https://openalex.org/W4378905467",
+    "https://openalex.org/W3201994324",
+    "https://openalex.org/W4283158449",
+    "https://openalex.org/W3093491492",
+    "https://openalex.org/W2767802663",
+    "https://openalex.org/W2143527828",
+    "https://openalex.org/W2289270062",
+    "https://openalex.org/W3129007391",
+    "https://openalex.org/W3015647569",
+    "https://openalex.org/W3214215194",
+    "https://openalex.org/W3088325708",
+    "https://openalex.org/W2896253248",
+    "https://openalex.org/W3116370415",
+    "https://openalex.org/W2625624065",
+    "https://openalex.org/W2988294863",
+    "https://openalex.org/W3203103338",
+    "https://openalex.org/W2781569121",
+    "https://openalex.org/W4386698990",
+    "https://openalex.org/W2909239167",
+    "https://openalex.org/W2075828918",
+    "https://openalex.org/W2530515337",
+    "https://openalex.org/W2783102574",
+    "https://openalex.org/W2269594868",
+    "https://openalex.org/W2611392760",
+    "https://openalex.org/W2568579246",
+    "https://openalex.org/W4318594601"
+  ],
+  "related_works": [
+    "https://openalex.org/W3042567859",
+    "https://openalex.org/W2981236682",
+    "https://openalex.org/W408870137",
+    "https://openalex.org/W2055479757",
+    "https://openalex.org/W1531070595",
+    "https://openalex.org/W2317335358",
+    "https://openalex.org/W2778462715",
+    "https://openalex.org/W1987732540",
+    "https://openalex.org/W204591066",
+    "https://openalex.org/W2280716936"
+  ],
+  "abstract_inverted_index": {
+    "Abstract": [
+      0
+    ],
+    "The": [
+      1
+    ],
+    "future": [
+      2,
+      98,
+      156
+    ],
+    "coexistence": [
+      3
+    ],
+    "of": [
+      4,
+      22,
+      49,
+      55,
+      117,
+      141,
+      153,
+      166,
+      183
+    ],
+    "human": [
+      5
+    ],
+    "and": [
+      6,
+      26,
+      74,
+      83,
+      97,
+      144,
+      168
+    ],
+    "nonhuman": [
+      7
+    ],
+    "nature": [
+      8
+    ],
+    "on": [
+      9,
+      46,
+      111
+    ],
+    "an": [
+      10
+    ],
+    "urban": [
+      11,
+      50,
+      154,
+      184
+    ],
+    "planet": [
+      12
+    ],
+    "is": [
+      13,
+      19,
+      190
+    ],
+    "at": [
+      14
+    ],
+    "risk.": [
+      15
+    ],
+    "A": [
+      16
+    ],
+    "crucial": [
+      17
+    ],
+    "lever": [
+      18
+    ],
+    "the": [
+      20,
+      36,
+      53,
+      78,
+      85,
+      90,
+      127,
+      151,
+      163,
+      180,
+      194
+    ],
+    "transformation": [
+      21,
+      112,
+      118
+    ],
+    "human-nature": [
+      23,
+      56,
+      145,
+      169
+    ],
+    "relationships": [
+      24
+    ],
+    "in": [
+      25,
+      52,
+      119,
+      139,
+      171,
+      193
+    ],
+    "through": [
+      27,
+      113
+    ],
+    "cities.": [
+      28,
+      172
+    ],
+    "Urban": [
+      29
+    ],
+    "planning": [
+      30,
+      51,
+      120,
+      167
+    ],
+    "as": [
+      31,
+      89
+    ],
+    "a": [
+      32,
+      60,
+      104
+    ],
+    "sustainability": [
+      33,
+      136
+    ],
+    "intervention": [
+      34
+    ],
+    "has": [
+      35
+    ],
+    "potential": [
+      37,
+      152
+    ],
+    "to": [
+      38,
+      93,
+      122,
+      149,
+      162
+    ],
+    "reconnect": [
+      39
+    ],
+    "cities": [
+      40
+    ],
+    "with": [
+      41,
+      108,
+      131,
+      179
+    ],
+    "nature.": [
+      42
+    ],
+    "To": [
+      43
+    ],
+    "shed": [
+      44
+    ],
+    "light": [
+      45
+    ],
+    "transformative": [
+      47
+    ],
+    "potentials": [
+      48
+    ],
+    "context": [
+      54
+    ],
+    "connections,": [
+      57
+    ],
+    "we": [
+      58
+    ],
+    "conducted": [
+      59
+    ],
+    "systematic": [
+      61
+    ],
+    "literature": [
+      62
+    ],
+    "review.": [
+      63
+    ],
+    "We": [
+      64,
+      76
+    ],
+    "analysed": [
+      65
+    ],
+    "71": [
+      66
+    ],
+    "empirical": [
+      67
+    ],
+    "studies": [
+      68,
+      128
+    ],
+    "from": [
+      69
+    ],
+    "Europe": [
+      70
+    ],
+    "published": [
+      71
+    ],
+    "between": [
+      72
+    ],
+    "2016": [
+      73
+    ],
+    "2022.": [
+      75
+    ],
+    "characterised": [
+      77
+    ],
+    "research": [
+      79,
+      99,
+      109,
+      157,
+      174
+    ],
+    "using": [
+      80
+    ],
+    "qualitative": [
+      81
+    ],
+    "analysis,": [
+      82
+    ],
+    "applied": [
+      84
+    ],
+    "leverage": [
+      86,
+      133
+    ],
+    "point": [
+      87
+    ],
+    "perspective": [
+      88
+    ],
+    "main": [
+      91
+    ],
+    "focus": [
+      92,
+      110
+    ],
+    "identify": [
+      94
+    ],
+    "blind": [
+      95
+    ],
+    "spots": [
+      96
+    ],
+    "needs.": [
+      100
+    ],
+    "Our": [
+      101
+    ],
+    "review": [
+      102
+    ],
+    "reveals": [
+      103
+    ],
+    "highly": [
+      105
+    ],
+    "interdisciplinary": [
+      106
+    ],
+    "field": [
+      107
+    ],
+    "planning,": [
+      114,
+      155,
+      185
+    ],
+    "while": [
+      115
+    ],
+    "issues": [
+      116
+    ],
+    "tend": [
+      121
+    ],
+    "receive": [
+      123
+    ],
+    "less": [
+      124
+    ],
+    "attention.": [
+      125
+    ],
+    "Furthermore,": [
+      126,
+      173
+    ],
+    "rather": [
+      129
+    ],
+    "deal": [
+      130
+    ],
+    "shallow": [
+      132
+    ],
+    "points": [
+      134
+    ],
+    "for": [
+      135
+    ],
+    "transformations": [
+      137
+    ],
+    "both": [
+      138
+    ],
+    "terms": [
+      140
+    ],
+    "system": [
+      142
+    ],
+    "levels": [
+      143
+    ],
+    "connections.": [
+      146
+    ],
+    "In": [
+      147
+    ],
+    "order": [
+      148
+    ],
+    "unlock": [
+      150
+    ],
+    "should": [
+      158,
+      175
+    ],
+    "pay": [
+      159
+    ],
+    "more": [
+      160,
+      177
+    ],
+    "attention": [
+      161
+    ],
+    "inner": [
+      164
+    ],
+    "dimensions": [
+      165
+    ],
+    "connections": [
+      170
+    ],
+    "be": [
+      176
+    ],
+    "concerned": [
+      178
+    ],
+    "visionary": [
+      181
+    ],
+    "modes": [
+      182
+    ],
+    "e.g.": [
+      186
+    ],
+    "by": [
+      187
+    ],
+    "discussing": [
+      188
+    ],
+    "what": [
+      189
+    ],
+    "(not)": [
+      191
+    ],
+    "desirable": [
+      192
+    ],
+    "future.": [
+      195
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 13
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 2
+    }
+  ],
+  "updated_date": "2025-11-06T03:46:38.306776",
+  "created_date": "2025-10-10T00:00:00"
+}

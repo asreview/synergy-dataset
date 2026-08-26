@@ -1,0 +1,12 @@
+{
+  "key": "Bosch_2023",
+  "publication": {
+    "doi": "10.1136/rmdopen-2023-003379",
+    "eligibility_criteria": "They comprised the use of different imaging techniques for LVV in (1) diagnostics, (2) monitoring, (3) outcome prediction and (4) technical aspects that should be considered when using them (online supplemental tables S1a\u2013d). Apart from the studies on imaging techniques included in the previous SLR (ultrasound, MRI, FDG-PET and CT),2 studies on optical coherence tomography (OCT) and fluoresceine angiography (FA) were also included in this review, as studies reporting the diagnostic value of these imaging techniques had recently been published.\nThe population of interest was adults (\u226518 years) with suspected primary LVV (for diagnostic accuracy studies) or with established primary LVV (for monitoring, prediction and technical aspects studies), particularly GCA, TAK and isolated aortitis. For diagnostic studies, the intervention was the imaging findings (=index\u2009test) and the comparator was either the clinical diagnosis or temporal artery biopsy (TAB) results (=reference standard). The outcome was test performance, including sensitivity, specificity, positive likelihood ratio (LR+) and negative LR (LR\u2212). For monitoring studies, intervention and comparator were \u2018performing imaging\u2019 and \u2018not performing imaging\u2019, respectively, and the outcome was disease activity. For prediction studies, intervention and comparator were \u2018positive imaging\u2019 and \u2018negative imaging\u2019, respectively, with a variety of outcomes such as disease complications, cumulative glucocorticoid dose and disease activity. Lastly, studies on technical aspects compared different imaging settings regarding \u2018optimal results\u2019 (not prespecified).\nOnly full research articles (excluding commentaries and letters) were eligible. These included prospective cohort studies involving >20 patients, with <50% lost to follow-up. Cross-sectional studies were only included for studies of diagnostic accuracy and technical aspects. Case\u2013control and retrospective studies were excluded."
+  },
+  "data": {
+    "doi": "10.17605/OSF.IO/T8KNJ",
+    "n_records": 4372,
+    "n_records_included": 37
+  }
+}

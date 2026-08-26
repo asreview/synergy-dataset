@@ -1,0 +1,1270 @@
+{
+  "id": "https://openalex.org/W4318022851",
+  "doi": "https://doi.org/10.1016/j.agsy.2023.103606",
+  "title": "Mixed farming and agroforestry systems: A systematic review on value chain implications",
+  "display_name": "Mixed farming and agroforestry systems: A systematic review on value chain implications",
+  "publication_year": 2023,
+  "publication_date": "2023-01-25",
+  "ids": {
+    "openalex": "https://openalex.org/W4318022851",
+    "doi": "https://doi.org/10.1016/j.agsy.2023.103606"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1016/j.agsy.2023.103606",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1016/j.agsy.2023.103606",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S157560195",
+      "display_name": "Agricultural Systems",
+      "issn_l": "0308-521X",
+      "issn": [
+        "0308-521X",
+        "1873-2267"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320990",
+      "host_organization_name": "Elsevier BV",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320990"
+      ],
+      "host_organization_lineage_names": [
+        "Elsevier BV"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Agricultural Systems",
+    "raw_type": "journal-article"
+  },
+  "type": "review",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "hybrid",
+    "oa_url": "https://doi.org/10.1016/j.agsy.2023.103606",
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5021044505",
+        "display_name": "Guy Low",
+        "orcid": "https://orcid.org/0000-0003-0256-809X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I913481162",
+          "display_name": "Wageningen University & Research",
+          "ror": "https://ror.org/04qw24q55",
+          "country_code": "NL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I913481162"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Guy Low",
+      "raw_affiliation_strings": [
+        "Business Economics, Wageningen University & Research, P.O. Box 8130, 6700 EW Wageningen, the Netherlands"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Business Economics, Wageningen University & Research, P.O. Box 8130, 6700 EW Wageningen, the Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I913481162"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5019742771",
+        "display_name": "Tobias Dalhaus",
+        "orcid": "https://orcid.org/0000-0001-5853-0942"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I913481162",
+          "display_name": "Wageningen University & Research",
+          "ror": "https://ror.org/04qw24q55",
+          "country_code": "NL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I913481162"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Tobias Dalhaus",
+      "raw_affiliation_strings": [
+        "Business Economics, Wageningen University & Research, P.O. Box 8130, 6700 EW Wageningen, the Netherlands"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Business Economics, Wageningen University & Research, P.O. Box 8130, 6700 EW Wageningen, the Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I913481162"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5048787356",
+        "display_name": "M.P.M. Meuwissen",
+        "orcid": "https://orcid.org/0000-0001-6929-3743"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I913481162",
+          "display_name": "Wageningen University & Research",
+          "ror": "https://ror.org/04qw24q55",
+          "country_code": "NL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I913481162"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Miranda P.M. Meuwissen",
+      "raw_affiliation_strings": [
+        "Business Economics, Wageningen University & Research, P.O. Box 8130, 6700 EW Wageningen, the Netherlands"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Business Economics, Wageningen University & Research, P.O. Box 8130, 6700 EW Wageningen, the Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I913481162"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 3,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5021044505"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I913481162"
+  ],
+  "apc_list": {
+    "value": 3820,
+    "currency": "USD",
+    "value_usd": 3820
+  },
+  "apc_paid": {
+    "value": 3820,
+    "currency": "USD",
+    "value_usd": 3820
+  },
+  "fwci": 36.16175079,
+  "has_fulltext": false,
+  "cited_by_count": 30,
+  "citation_normalized_percentile": {
+    "value": 0.99829047,
+    "is_in_top_1_percent": true,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 99,
+    "max": 100
+  },
+  "biblio": {
+    "volume": "206",
+    "issue": null,
+    "first_page": "103606",
+    "last_page": "103606"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T13009",
+    "display_name": "Agroforestry and silvopastoral systems",
+    "score": 0.9937000274658203,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1107",
+      "display_name": "Forestry"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/11",
+      "display_name": "Agricultural and Biological Sciences"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/1",
+      "display_name": "Life Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T13009",
+      "display_name": "Agroforestry and silvopastoral systems",
+      "score": 0.9937000274658203,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1107",
+        "display_name": "Forestry"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/11",
+        "display_name": "Agricultural and Biological Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11259",
+      "display_name": "Agriculture Sustainability and Environmental Impact",
+      "score": 0.9830999970436096,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2303",
+        "display_name": "Ecology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13396",
+      "display_name": "Agriculture and Rural Development Research",
+      "score": 0.9721999764442444,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1105",
+        "display_name": "Ecology, Evolution, Behavior and Systematics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/11",
+        "display_name": "Agricultural and Biological Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/valuation",
+      "display_name": "Valuation (finance)",
+      "score": 0.6557202339172363
+    },
+    {
+      "id": "https://openalex.org/keywords/agriculture",
+      "display_name": "Agriculture",
+      "score": 0.5669499635696411
+    },
+    {
+      "id": "https://openalex.org/keywords/supply-chain",
+      "display_name": "Supply chain",
+      "score": 0.5179190039634705
+    },
+    {
+      "id": "https://openalex.org/keywords/value-chain",
+      "display_name": "Value chain",
+      "score": 0.5030474066734314
+    },
+    {
+      "id": "https://openalex.org/keywords/value",
+      "display_name": "Value (mathematics)",
+      "score": 0.49061647057533264
+    },
+    {
+      "id": "https://openalex.org/keywords/ecosystem-services",
+      "display_name": "Ecosystem services",
+      "score": 0.44776803255081177
+    },
+    {
+      "id": "https://openalex.org/keywords/business",
+      "display_name": "Business",
+      "score": 0.4302111864089966
+    },
+    {
+      "id": "https://openalex.org/keywords/environmental-economics",
+      "display_name": "Environmental economics",
+      "score": 0.3896039128303528
+    },
+    {
+      "id": "https://openalex.org/keywords/economics",
+      "display_name": "Economics",
+      "score": 0.36832451820373535
+    },
+    {
+      "id": "https://openalex.org/keywords/natural-resource-economics",
+      "display_name": "Natural resource economics",
+      "score": 0.32677727937698364
+    },
+    {
+      "id": "https://openalex.org/keywords/industrial-organization",
+      "display_name": "Industrial organization",
+      "score": 0.32589882612228394
+    },
+    {
+      "id": "https://openalex.org/keywords/marketing",
+      "display_name": "Marketing",
+      "score": 0.2666383981704712
+    },
+    {
+      "id": "https://openalex.org/keywords/computer-science",
+      "display_name": "Computer science",
+      "score": 0.2168891429901123
+    },
+    {
+      "id": "https://openalex.org/keywords/ecosystem",
+      "display_name": "Ecosystem",
+      "score": 0.13105446100234985
+    },
+    {
+      "id": "https://openalex.org/keywords/ecology",
+      "display_name": "Ecology",
+      "score": 0.11134335398674011
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C186027771",
+      "wikidata": "https://www.wikidata.org/wiki/Q4008379",
+      "display_name": "Valuation (finance)",
+      "level": 2,
+      "score": 0.6557202339172363
+    },
+    {
+      "id": "https://openalex.org/C118518473",
+      "wikidata": "https://www.wikidata.org/wiki/Q11451",
+      "display_name": "Agriculture",
+      "level": 2,
+      "score": 0.5669499635696411
+    },
+    {
+      "id": "https://openalex.org/C108713360",
+      "wikidata": "https://www.wikidata.org/wiki/Q1824206",
+      "display_name": "Supply chain",
+      "level": 2,
+      "score": 0.5179190039634705
+    },
+    {
+      "id": "https://openalex.org/C107666737",
+      "wikidata": "https://www.wikidata.org/wiki/Q646107",
+      "display_name": "Value chain",
+      "level": 3,
+      "score": 0.5030474066734314
+    },
+    {
+      "id": "https://openalex.org/C2776291640",
+      "wikidata": "https://www.wikidata.org/wiki/Q2912517",
+      "display_name": "Value (mathematics)",
+      "level": 2,
+      "score": 0.49061647057533264
+    },
+    {
+      "id": "https://openalex.org/C58941895",
+      "wikidata": "https://www.wikidata.org/wiki/Q295865",
+      "display_name": "Ecosystem services",
+      "level": 3,
+      "score": 0.44776803255081177
+    },
+    {
+      "id": "https://openalex.org/C144133560",
+      "wikidata": "https://www.wikidata.org/wiki/Q4830453",
+      "display_name": "Business",
+      "level": 0,
+      "score": 0.4302111864089966
+    },
+    {
+      "id": "https://openalex.org/C134560507",
+      "wikidata": "https://www.wikidata.org/wiki/Q753291",
+      "display_name": "Environmental economics",
+      "level": 1,
+      "score": 0.3896039128303528
+    },
+    {
+      "id": "https://openalex.org/C162324750",
+      "wikidata": "https://www.wikidata.org/wiki/Q8134",
+      "display_name": "Economics",
+      "level": 0,
+      "score": 0.36832451820373535
+    },
+    {
+      "id": "https://openalex.org/C175605778",
+      "wikidata": "https://www.wikidata.org/wiki/Q3299701",
+      "display_name": "Natural resource economics",
+      "level": 1,
+      "score": 0.32677727937698364
+    },
+    {
+      "id": "https://openalex.org/C40700",
+      "wikidata": "https://www.wikidata.org/wiki/Q1411783",
+      "display_name": "Industrial organization",
+      "level": 1,
+      "score": 0.32589882612228394
+    },
+    {
+      "id": "https://openalex.org/C162853370",
+      "wikidata": "https://www.wikidata.org/wiki/Q39809",
+      "display_name": "Marketing",
+      "level": 1,
+      "score": 0.2666383981704712
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.2168891429901123
+    },
+    {
+      "id": "https://openalex.org/C110872660",
+      "wikidata": "https://www.wikidata.org/wiki/Q37813",
+      "display_name": "Ecosystem",
+      "level": 2,
+      "score": 0.13105446100234985
+    },
+    {
+      "id": "https://openalex.org/C18903297",
+      "wikidata": "https://www.wikidata.org/wiki/Q7150",
+      "display_name": "Ecology",
+      "level": 1,
+      "score": 0.11134335398674011
+    },
+    {
+      "id": "https://openalex.org/C119857082",
+      "wikidata": "https://www.wikidata.org/wiki/Q2539",
+      "display_name": "Machine learning",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C10138342",
+      "wikidata": "https://www.wikidata.org/wiki/Q43015",
+      "display_name": "Finance",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C86803240",
+      "wikidata": "https://www.wikidata.org/wiki/Q420",
+      "display_name": "Biology",
+      "level": 0,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 2,
+  "locations": [
+    {
+      "id": "doi:10.1016/j.agsy.2023.103606",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1016/j.agsy.2023.103606",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S157560195",
+        "display_name": "Agricultural Systems",
+        "issn_l": "0308-521X",
+        "issn": [
+          "0308-521X",
+          "1873-2267"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320990",
+        "host_organization_name": "Elsevier BV",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320990"
+        ],
+        "host_organization_lineage_names": [
+          "Elsevier BV"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Agricultural Systems",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmh:wur:oai:library.wur.nl:wurpubs/610138",
+      "is_oa": true,
+      "landing_page_url": "https://research.wur.nl/en/publications/mixed-farming-and-agroforestry-systems-a-systematic-review-on-val",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401843",
+        "display_name": "Data Archiving and Networked Services (DANS)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1322597698",
+        "host_organization_name": "Royal Netherlands Academy of Arts and Sciences",
+        "host_organization_lineage": [
+          "https://openalex.org/I1322597698"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "other-oa",
+      "license_id": "https://openalex.org/licenses/other-oa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Agricultural Systems, 206",
+      "raw_type": "info:eu-repo/semantics/article"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1016/j.agsy.2023.103606",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1016/j.agsy.2023.103606",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S157560195",
+      "display_name": "Agricultural Systems",
+      "issn_l": "0308-521X",
+      "issn": [
+        "0308-521X",
+        "1873-2267"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320990",
+      "host_organization_name": "Elsevier BV",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320990"
+      ],
+      "host_organization_lineage_names": [
+        "Elsevier BV"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Agricultural Systems",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [],
+  "awards": [
+    {
+      "id": "https://openalex.org/G8504594314",
+      "display_name": null,
+      "funder_award_id": "862357",
+      "funder_id": "https://openalex.org/F4320334322",
+      "funder_display_name": "HORIZON EUROPE Framework Programme"
+    }
+  ],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320334322",
+      "display_name": "HORIZON EUROPE Framework Programme",
+      "ror": null
+    },
+    {
+      "id": "https://openalex.org/F4320335254",
+      "display_name": "Horizon 2020",
+      "ror": null
+    }
+  ],
+  "has_content": {
+    "grobid_xml": false,
+    "pdf": false
+  },
+  "referenced_works_count": 77,
+  "referenced_works": [
+    "https://openalex.org/W3011972878",
+    "https://openalex.org/W2075255126",
+    "https://openalex.org/W2928200560",
+    "https://openalex.org/W2111409506",
+    "https://openalex.org/W2133437681",
+    "https://openalex.org/W2010929768",
+    "https://openalex.org/W2772366318",
+    "https://openalex.org/W1979290264",
+    "https://openalex.org/W3080344282",
+    "https://openalex.org/W2003461770",
+    "https://openalex.org/W2087658581",
+    "https://openalex.org/W2124565947",
+    "https://openalex.org/W2058933716",
+    "https://openalex.org/W2107328434",
+    "https://openalex.org/W1992087929",
+    "https://openalex.org/W601488478",
+    "https://openalex.org/W2074382743",
+    "https://openalex.org/W3014917206",
+    "https://openalex.org/W2003542925",
+    "https://openalex.org/W2172011257",
+    "https://openalex.org/W2616675110",
+    "https://openalex.org/W1965459638",
+    "https://openalex.org/W2149412750",
+    "https://openalex.org/W2034146279",
+    "https://openalex.org/W2125617946",
+    "https://openalex.org/W6688207900",
+    "https://openalex.org/W2124785591",
+    "https://openalex.org/W2066230476",
+    "https://openalex.org/W2126954158",
+    "https://openalex.org/W2054225194",
+    "https://openalex.org/W2325844894",
+    "https://openalex.org/W2117790213",
+    "https://openalex.org/W2171000208",
+    "https://openalex.org/W2154499796",
+    "https://openalex.org/W2124708501",
+    "https://openalex.org/W2510175543",
+    "https://openalex.org/W2277481933",
+    "https://openalex.org/W2964371642",
+    "https://openalex.org/W2161374186",
+    "https://openalex.org/W2257067044",
+    "https://openalex.org/W2078116624",
+    "https://openalex.org/W2416377202",
+    "https://openalex.org/W2582859577",
+    "https://openalex.org/W2529975134",
+    "https://openalex.org/W1972420894",
+    "https://openalex.org/W2158629080",
+    "https://openalex.org/W3156725840",
+    "https://openalex.org/W2751785868",
+    "https://openalex.org/W3021186619",
+    "https://openalex.org/W2000827217",
+    "https://openalex.org/W2095867549",
+    "https://openalex.org/W2114735032",
+    "https://openalex.org/W2325890048",
+    "https://openalex.org/W3042956282",
+    "https://openalex.org/W2168305752",
+    "https://openalex.org/W2120892531",
+    "https://openalex.org/W2051827162",
+    "https://openalex.org/W2918912386",
+    "https://openalex.org/W1967926193",
+    "https://openalex.org/W3190588169",
+    "https://openalex.org/W2955139036",
+    "https://openalex.org/W2964523010",
+    "https://openalex.org/W2132892608",
+    "https://openalex.org/W1926534079",
+    "https://openalex.org/W2109305774",
+    "https://openalex.org/W6681844335",
+    "https://openalex.org/W2006986322",
+    "https://openalex.org/W2094227722",
+    "https://openalex.org/W2116678796",
+    "https://openalex.org/W6667397733",
+    "https://openalex.org/W2266106747",
+    "https://openalex.org/W2135377668",
+    "https://openalex.org/W4236206394",
+    "https://openalex.org/W631153654",
+    "https://openalex.org/W4240138691",
+    "https://openalex.org/W268946098",
+    "https://openalex.org/W2295656366"
+  ],
+  "related_works": [
+    "https://openalex.org/W2899084033",
+    "https://openalex.org/W1972027241",
+    "https://openalex.org/W2358472149",
+    "https://openalex.org/W3016556954",
+    "https://openalex.org/W2752541426",
+    "https://openalex.org/W2191785941",
+    "https://openalex.org/W3208781921",
+    "https://openalex.org/W2392249818",
+    "https://openalex.org/W4298235392",
+    "https://openalex.org/W4388505763"
+  ],
+  "abstract_inverted_index": {
+    "CONTEXT:": [
+      0
+    ],
+    "Mixed": [
+      1
+    ],
+    "farming": [
+      2,
+      23,
+      91,
+      146
+    ],
+    "and": [
+      3,
+      15,
+      38,
+      77,
+      99,
+      152,
+      155,
+      177,
+      201,
+      242
+    ],
+    "agroforestry": [
+      4
+    ],
+    "systems": [
+      5
+    ],
+    "(MiFAS)": [
+      6
+    ],
+    "are": [
+      7,
+      19,
+      32
+    ],
+    "widely": [
+      8
+    ],
+    "proposed": [
+      9
+    ],
+    "to": [
+      10,
+      73,
+      110,
+      126,
+      149,
+      163,
+      169,
+      194,
+      204,
+      222
+    ],
+    "deal": [
+      11
+    ],
+    "with": [
+      12,
+      21,
+      59,
+      167,
+      185
+    ],
+    "ecological,": [
+      13
+    ],
+    "economic,": [
+      14
+    ],
+    "social": [
+      16
+    ],
+    "challenges": [
+      17,
+      166
+    ],
+    "that": [
+      18,
+      132
+    ],
+    "associated": [
+      20,
+      184
+    ],
+    "specialised": [
+      22
+    ],
+    "systems.": [
+      24
+    ],
+    "However,": [
+      25
+    ],
+    "little": [
+      26
+    ],
+    "is": [
+      27,
+      44
+    ],
+    "known": [
+      28
+    ],
+    "about": [
+      29
+    ],
+    "how": [
+      30,
+      39
+    ],
+    "MiFAS": [
+      31,
+      43,
+      56,
+      85,
+      134,
+      161,
+      186,
+      207,
+      217
+    ],
+    "integrated": [
+      33,
+      197
+    ],
+    "in": [
+      34,
+      42,
+      135
+    ],
+    "food": [
+      35,
+      66,
+      136
+    ],
+    "value": [
+      36,
+      40,
+      47,
+      67,
+      86,
+      94,
+      102,
+      129,
+      137,
+      214
+    ],
+    "chains": [
+      37
+    ],
+    "creation": [
+      41,
+      215
+    ],
+    "rewarded": [
+      45
+    ],
+    "by": [
+      46,
+      233
+    ],
+    "chain": [
+      48,
+      103,
+      130
+    ],
+    "actors.OBJECTIVE:": [
+      49
+    ],
+    "We": [
+      50,
+      69,
+      141
+    ],
+    "review": [
+      51
+    ],
+    "the": [
+      52,
+      90,
+      112,
+      202,
+      235
+    ],
+    "broad": [
+      53
+    ],
+    "literature": [
+      54,
+      113,
+      124
+    ],
+    "on": [
+      55,
+      63,
+      93
+    ],
+    "(80": [
+      57
+    ],
+    "papers)": [
+      58
+    ],
+    "a": [
+      60,
+      118,
+      189
+    ],
+    "particular": [
+      61
+    ],
+    "focus": [
+      62
+    ],
+    "implications": [
+      64
+    ],
+    "for": [
+      65,
+      191
+    ],
+    "chains.METHODS:": [
+      68
+    ],
+    "use": [
+      70,
+      122
+    ],
+    "thematic": [
+      71
+    ],
+    "analysis": [
+      72
+    ],
+    "code": [
+      74
+    ],
+    "existing": [
+      75
+    ],
+    "evidence": [
+      76
+    ],
+    "categorise": [
+      78
+    ],
+    "these": [
+      79,
+      123
+    ],
+    "codes": [
+      80
+    ],
+    "into": [
+      81
+    ],
+    "four": [
+      82
+    ],
+    "major": [
+      83
+    ],
+    "themes:": [
+      84
+    ],
+    "creation,": [
+      87,
+      95
+    ],
+    "Impacts": [
+      88
+    ],
+    "of": [
+      89,
+      174,
+      178,
+      213,
+      237
+    ],
+    "environment": [
+      92
+    ],
+    "Ecosystem": [
+      96
+    ],
+    "service": [
+      97
+    ],
+    "valuation,": [
+      98
+    ],
+    "Supply": [
+      100
+    ],
+    "&amp;": [
+      101
+    ],
+    "integration.": [
+      104
+    ],
+    "From": [
+      105
+    ],
+    "here,": [
+      106
+    ],
+    "we": [
+      107,
+      121
+    ],
+    "produce": [
+      108
+    ],
+    "meta-narratives": [
+      109
+    ],
+    "summarise": [
+      111
+    ],
+    "within": [
+      114,
+      216
+    ],
+    "each": [
+      115
+    ],
+    "theme.": [
+      116
+    ],
+    "In": [
+      117
+    ],
+    "second": [
+      119
+    ],
+    "step,": [
+      120
+    ],
+    "insights": [
+      125
+    ],
+    "develop": [
+      127
+    ],
+    "possible": [
+      128
+    ],
+    "configurations": [
+      131
+    ],
+    "operationalise": [
+      133
+    ],
+    "chains.RESULTS": [
+      138
+    ],
+    "AND": [
+      139
+    ],
+    "CONCLUSIONS:": [
+      140
+    ],
+    "find": [
+      142
+    ],
+    "that:": [
+      143
+    ],
+    "a)": [
+      144
+    ],
+    "integrating": [
+      145
+    ],
+    "enterprises": [
+      147
+    ],
+    "tends": [
+      148
+    ],
+    "improve": [
+      150
+    ],
+    "yields": [
+      151
+    ],
+    "land-use": [
+      153
+    ],
+    "efficiency": [
+      154,
+      236
+    ],
+    "can": [
+      156,
+      187,
+      208
+    ],
+    "reduce": [
+      157,
+      223
+    ],
+    "variable": [
+      158
+    ],
+    "costs;": [
+      159
+    ],
+    "b)": [
+      160
+    ],
+    "seem": [
+      162
+    ],
+    "face": [
+      164
+    ],
+    "significant": [
+      165
+    ],
+    "respect": [
+      168
+    ],
+    "fixed": [
+      170
+    ],
+    "costs,": [
+      171
+    ],
+    "such": [
+      172,
+      239
+    ],
+    "as": [
+      173,
+      198,
+      225,
+      227,
+      240
+    ],
+    "capital": [
+      175
+    ],
+    "investments,": [
+      176
+    ],
+    "labour;": [
+      179
+    ],
+    "c)": [
+      180
+    ],
+    "high": [
+      181
+    ],
+    "opportunity": [
+      182
+    ],
+    "costs": [
+      183
+    ],
+    "be": [
+      188
+    ],
+    "drawback": [
+      190
+    ],
+    "farms": [
+      192
+    ],
+    "seeking": [
+      193
+    ],
+    "become": [
+      195
+    ],
+    "more": [
+      196
+    ],
+    "limited": [
+      199
+    ],
+    "knowledge": [
+      200
+    ],
+    "time": [
+      203
+    ],
+    "establish": [
+      205
+    ],
+    "profitable": [
+      206
+    ],
+    "deter": [
+      209
+    ],
+    "adoption;": [
+      210
+    ],
+    "d)": [
+      211
+    ],
+    "sources": [
+      212
+    ],
+    "stem": [
+      218
+    ],
+    "from": [
+      219
+    ],
+    "its": [
+      220
+    ],
+    "ability": [
+      221
+    ],
+    "variablecosts": [
+      224
+    ],
+    "well": [
+      226
+    ],
+    "maintain": [
+      228
+    ],
+    "or": [
+      229
+    ],
+    "raise": [
+      230
+    ],
+    "inputs,": [
+      231
+    ],
+    "primarily": [
+      232
+    ],
+    "improving": [
+      234
+    ],
+    "resources": [
+      238
+    ],
+    "nutrients": [
+      241
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 13
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 9
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 8
+    }
+  ],
+  "updated_date": "2025-11-06T03:46:38.306776",
+  "created_date": "2025-10-10T00:00:00"
+}

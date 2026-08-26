@@ -1,0 +1,1705 @@
+{
+  "id": "https://openalex.org/W4415209337",
+  "doi": "https://doi.org/10.1080/20008066.2025.2546214",
+  "title": "The hunt for the last relevant paper: blending the best of humans and AI",
+  "display_name": "The hunt for the last relevant paper: blending the best of humans and AI",
+  "publication_year": 2025,
+  "publication_date": "2025-10-15",
+  "ids": {
+    "openalex": "https://openalex.org/W4415209337",
+    "doi": "https://doi.org/10.1080/20008066.2025.2546214",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/41090195"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1080/20008066.2025.2546214",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1080/20008066.2025.2546214",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S2737785665",
+      "display_name": "European journal of psychotraumatology",
+      "issn_l": "2000-8066",
+      "issn": [
+        "2000-8066"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320547",
+      "host_organization_name": "Taylor & Francis",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320547"
+      ],
+      "host_organization_lineage_names": [
+        "Taylor & Francis"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by-nc",
+    "license_id": "https://openalex.org/licenses/cc-by-nc",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "European Journal of Psychotraumatology",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref",
+    "doaj",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "gold",
+    "oa_url": "https://doi.org/10.1080/20008066.2025.2546214",
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5041799420",
+        "display_name": "Rens van de Schoot",
+        "orcid": "https://orcid.org/0000-0001-7736-2091"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I193662353",
+          "display_name": "Utrecht University",
+          "ror": "https://ror.org/04pp8hn57",
+          "country_code": "NL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I193662353"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Rens van de Schoot",
+      "raw_affiliation_strings": [
+        "Department of Methodology and Statistics, Faculty of Social and Behavioral Sciences, Utrecht University, Utrecht, The Netherlands"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Methodology and Statistics, Faculty of Social and Behavioral Sciences, Utrecht University, Utrecht, The Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I193662353"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5069908996",
+        "display_name": "Bruno Messina Coimbra",
+        "orcid": "https://orcid.org/0000-0001-5092-9625"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I193662353",
+          "display_name": "Utrecht University",
+          "ror": "https://ror.org/04pp8hn57",
+          "country_code": "NL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I193662353"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Bruno Messina Coimbra",
+      "raw_affiliation_strings": [
+        "Department of Methodology and Statistics, Faculty of Social and Behavioral Sciences, Utrecht University, Utrecht, The Netherlands"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Methodology and Statistics, Faculty of Social and Behavioral Sciences, Utrecht University, Utrecht, The Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I193662353"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5116021160",
+        "display_name": "Tale Evenhuis",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I173063890",
+          "display_name": "University of Applied Sciences Utrecht",
+          "ror": "https://ror.org/028z9kw20",
+          "country_code": "NL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I173063890"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Tale Evenhuis",
+      "raw_affiliation_strings": [
+        "Research Centre for Healthy and Sustainable Living, University of Applied Sciences Utrecht, Utrecht, The Netherlands"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Research Centre for Healthy and Sustainable Living, University of Applied Sciences Utrecht, Utrecht, The Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I173063890"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5037750063",
+        "display_name": "Peter Lombaers",
+        "orcid": "https://orcid.org/0000-0002-8780-9376"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I193662353",
+          "display_name": "Utrecht University",
+          "ror": "https://ror.org/04pp8hn57",
+          "country_code": "NL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I193662353"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Peter Lombaers",
+      "raw_affiliation_strings": [
+        "Department of Methodology and Statistics, Faculty of Social and Behavioral Sciences, Utrecht University, Utrecht, The Netherlands",
+        "IDfuse, Utrecht, The Netherlands"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "IDfuse, Utrecht, The Netherlands",
+          "institution_ids": []
+        },
+        {
+          "raw_affiliation_string": "Department of Methodology and Statistics, Faculty of Social and Behavioral Sciences, Utrecht University, Utrecht, The Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I193662353"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5064750232",
+        "display_name": "Felix Weijdema",
+        "orcid": "https://orcid.org/0000-0001-5150-1102"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I193662353",
+          "display_name": "Utrecht University",
+          "ror": "https://ror.org/04pp8hn57",
+          "country_code": "NL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I193662353"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Felix Weijdema",
+      "raw_affiliation_strings": [
+        "Utrecht University Library, Utrecht University, The Netherlands"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Utrecht University Library, Utrecht University, The Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I193662353"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5116021161",
+        "display_name": "Laurens de Bruin",
+        "orcid": "https://orcid.org/0009-0006-5452-3327"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I193662353",
+          "display_name": "Utrecht University",
+          "ror": "https://ror.org/04pp8hn57",
+          "country_code": "NL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I193662353"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Laurens de Bruin",
+      "raw_affiliation_strings": [
+        "Department of Methodology and Statistics, Faculty of Social and Behavioral Sciences, Utrecht University, Utrecht, The Netherlands"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Methodology and Statistics, Faculty of Social and Behavioral Sciences, Utrecht University, Utrecht, The Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I193662353"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5092598044",
+        "display_name": "Rutger Chris Neeleman",
+        "orcid": "https://orcid.org/0009-0005-3824-8727"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I193662353",
+          "display_name": "Utrecht University",
+          "ror": "https://ror.org/04pp8hn57",
+          "country_code": "NL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I193662353"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Rutger Neeleman",
+      "raw_affiliation_strings": [
+        "Department of Methodology and Statistics, Faculty of Social and Behavioral Sciences, Utrecht University, Utrecht, The Netherlands"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Methodology and Statistics, Faculty of Social and Behavioral Sciences, Utrecht University, Utrecht, The Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I193662353"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5087273352",
+        "display_name": "Elizabeth M. Grandfield",
+        "orcid": "https://orcid.org/0000-0002-3188-4086"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I193662353",
+          "display_name": "Utrecht University",
+          "ror": "https://ror.org/04pp8hn57",
+          "country_code": "NL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I193662353"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Elizabeth Grandfield",
+      "raw_affiliation_strings": [
+        "Department of Methodology and Statistics, Faculty of Social and Behavioral Sciences, Utrecht University, Utrecht, The Netherlands"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Methodology and Statistics, Faculty of Social and Behavioral Sciences, Utrecht University, Utrecht, The Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I193662353"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5002846176",
+        "display_name": "Marit Sijbrandij",
+        "orcid": "https://orcid.org/0000-0001-5430-9810"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I865915315",
+          "display_name": "Vrije Universiteit Amsterdam",
+          "ror": "https://ror.org/008xxew50",
+          "country_code": "NL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I865915315"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Marit Sijbrandij",
+      "raw_affiliation_strings": [
+        "Department of Clinical, Neuro- and Developmental Psychology, WHO Collaborating Center for Research and Dissemination of Psychological Interventions, Amsterdam Public Health Research Institute, Vrije Universiteit Amsterdam, The Netherlands"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Clinical, Neuro- and Developmental Psychology, WHO Collaborating Center for Research and Dissemination of Psychological Interventions, Amsterdam Public Health Research Institute, Vrije Universiteit Amsterdam, The Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I865915315"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5077076273",
+        "display_name": "Jelle Jasper Teijema",
+        "orcid": "https://orcid.org/0000-0001-9282-4311"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I193662353",
+          "display_name": "Utrecht University",
+          "ror": "https://ror.org/04pp8hn57",
+          "country_code": "NL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I193662353"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Jelle Jasper Teijema",
+      "raw_affiliation_strings": [
+        "Department of Methodology and Statistics, Faculty of Social and Behavioral Sciences, Utrecht University, Utrecht, The Netherlands"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Methodology and Statistics, Faculty of Social and Behavioral Sciences, Utrecht University, Utrecht, The Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I193662353"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5114980937",
+        "display_name": "Elena Jalsovec",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I193662353",
+          "display_name": "Utrecht University",
+          "ror": "https://ror.org/04pp8hn57",
+          "country_code": "NL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I193662353"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Elena Jalsovec",
+      "raw_affiliation_strings": [
+        "Department of Methodology and Statistics, Faculty of Social and Behavioral Sciences, Utrecht University, Utrecht, The Netherlands"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Methodology and Statistics, Faculty of Social and Behavioral Sciences, Utrecht University, Utrecht, The Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I193662353"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5116021159",
+        "display_name": "Michiel Pieter Bron",
+        "orcid": "https://orcid.org/0000-0002-4823-6085"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I193662353",
+          "display_name": "Utrecht University",
+          "ror": "https://ror.org/04pp8hn57",
+          "country_code": "NL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I193662353"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Michiel Pieter Bron",
+      "raw_affiliation_strings": [
+        "Department of Information and Computing Sciences, Faculty of Science, Utrecht University, The Netherlands",
+        "The Netherlands National Police, The Hague, The Netherlands"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "The Netherlands National Police, The Hague, The Netherlands",
+          "institution_ids": []
+        },
+        {
+          "raw_affiliation_string": "Department of Information and Computing Sciences, Faculty of Science, Utrecht University, The Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I193662353"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5051847853",
+        "display_name": "Sonja D. Winter",
+        "orcid": "https://orcid.org/0000-0002-2203-002X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I76835614",
+          "display_name": "University of Missouri",
+          "ror": "https://ror.org/02ymw8z06",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I76835614"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Sonja Winter",
+      "raw_affiliation_strings": [
+        "Statistics, Measurement, and Evaluation in Education, Department of Educational, School, and Counseling Psychology, College of Education and Human Development, University of Missouri, Columbia, MO, USA"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Statistics, Measurement, and Evaluation in Education, Department of Educational, School, and Counseling Psychology, College of Education and Human Development, University of Missouri, Columbia, MO, USA",
+          "institution_ids": [
+            "https://openalex.org/I76835614"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5027479191",
+        "display_name": "Jonathan De Bruin",
+        "orcid": "https://orcid.org/0000-0002-4297-0502"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I193662353",
+          "display_name": "Utrecht University",
+          "ror": "https://ror.org/04pp8hn57",
+          "country_code": "NL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I193662353"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Jonathan de Bruin",
+      "raw_affiliation_strings": [
+        "Department of Research and Data Management Services, Information Technology Services, Utrecht University, Utrecht, The Netherlands"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Research and Data Management Services, Information Technology Services, Utrecht University, Utrecht, The Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I193662353"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5023892471",
+        "display_name": "Mirjam van Zuiden",
+        "orcid": "https://orcid.org/0000-0002-1225-2702"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I193662353",
+          "display_name": "Utrecht University",
+          "ror": "https://ror.org/04pp8hn57",
+          "country_code": "NL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I193662353"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Mirjam van Zuiden",
+      "raw_affiliation_strings": [
+        "Department of Clinical Psychology, Faculty of Social and Behavioral Sciences, Utrecht University, Utrecht, The Netherlands"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Clinical Psychology, Faculty of Social and Behavioral Sciences, Utrecht University, Utrecht, The Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I193662353"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 2,
+  "institutions_distinct_count": 15,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5041799420"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I193662353"
+  ],
+  "apc_list": {
+    "value": 1390,
+    "currency": "GBP",
+    "value_usd": 1704
+  },
+  "apc_paid": {
+    "value": 1390,
+    "currency": "GBP",
+    "value_usd": 1704
+  },
+  "fwci": 0.0,
+  "has_fulltext": false,
+  "cited_by_count": 0,
+  "citation_normalized_percentile": {
+    "value": 0.44802179,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": null,
+  "biblio": {
+    "volume": "16",
+    "issue": "1",
+    "first_page": "2546214",
+    "last_page": "2546214"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T11636",
+    "display_name": "Artificial Intelligence in Healthcare and Education",
+    "score": 0.9628999829292297,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2718",
+      "display_name": "Health Informatics"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/27",
+      "display_name": "Medicine"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/4",
+      "display_name": "Health Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T11636",
+      "display_name": "Artificial Intelligence in Healthcare and Education",
+      "score": 0.9628999829292297,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2718",
+        "display_name": "Health Informatics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11719",
+      "display_name": "Data Quality and Management",
+      "score": 0.9474999904632568,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1803",
+        "display_name": "Management Science and Operations Research"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/18",
+        "display_name": "Decision Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10883",
+      "display_name": "Ethics and Social Impacts of AI",
+      "score": 0.9441999793052673,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3311",
+        "display_name": "Safety Research"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "keywords": [],
+  "concepts": [],
+  "mesh": [
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D001185",
+      "descriptor_name": "Artificial Intelligence",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D013313",
+      "descriptor_name": "Stress Disorders, Post-Traumatic",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D016247",
+      "descriptor_name": "Information Storage and Retrieval",
+      "qualifier_ui": "Q000379",
+      "qualifier_name": "methods",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D000078202",
+      "descriptor_name": "Systematic Reviews as Topic",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D001185",
+      "descriptor_name": "Artificial Intelligence",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D013313",
+      "descriptor_name": "Stress Disorders, Post-Traumatic",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D016247",
+      "descriptor_name": "Information Storage and Retrieval",
+      "qualifier_ui": "Q000379",
+      "qualifier_name": "methods",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D000078202",
+      "descriptor_name": "Systematic Reviews as Topic",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D001185",
+      "descriptor_name": "Artificial Intelligence",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D013313",
+      "descriptor_name": "Stress Disorders, Post-Traumatic",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D016247",
+      "descriptor_name": "Information Storage and Retrieval",
+      "qualifier_ui": "Q000379",
+      "qualifier_name": "methods",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D000078202",
+      "descriptor_name": "Systematic Reviews as Topic",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    }
+  ],
+  "locations_count": 4,
+  "locations": [
+    {
+      "id": "doi:10.1080/20008066.2025.2546214",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1080/20008066.2025.2546214",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S2737785665",
+        "display_name": "European journal of psychotraumatology",
+        "issn_l": "2000-8066",
+        "issn": [
+          "2000-8066"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320547",
+        "host_organization_name": "Taylor & Francis",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320547"
+        ],
+        "host_organization_lineage_names": [
+          "Taylor & Francis"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by-nc",
+      "license_id": "https://openalex.org/licenses/cc-by-nc",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "European Journal of Psychotraumatology",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:41090195",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/41090195",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "European journal of psychotraumatology",
+      "raw_type": null
+    },
+    {
+      "id": "pmh:oai:europepmc.org:11337866",
+      "is_oa": true,
+      "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/12529749",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306400806",
+        "display_name": "Europe PMC (PubMed Central)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1303153112",
+        "host_organization_name": "European Bioinformatics Institute",
+        "host_organization_lineage": [
+          "https://openalex.org/I1303153112"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "other-oa",
+      "license_id": "https://openalex.org/licenses/other-oa",
+      "version": "acceptedVersion",
+      "is_accepted": true,
+      "is_published": false,
+      "raw_source_name": null,
+      "raw_type": "Text"
+    },
+    {
+      "id": "pmh:oai:doaj.org/article:b55a591640fc4f27a6ea52e3f2e0d48f",
+      "is_oa": true,
+      "landing_page_url": "https://doaj.org/article/b55a591640fc4f27a6ea52e3f2e0d48f",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401280",
+        "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by-sa",
+      "license_id": "https://openalex.org/licenses/cc-by-sa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "European Journal of Psychotraumatology, Vol 16, Iss 1 (2025)",
+      "raw_type": "article"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1080/20008066.2025.2546214",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1080/20008066.2025.2546214",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S2737785665",
+      "display_name": "European journal of psychotraumatology",
+      "issn_l": "2000-8066",
+      "issn": [
+        "2000-8066"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320547",
+      "host_organization_name": "Taylor & Francis",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320547"
+      ],
+      "host_organization_lineage_names": [
+        "Taylor & Francis"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by-nc",
+    "license_id": "https://openalex.org/licenses/cc-by-nc",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "European Journal of Psychotraumatology",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "pdf": false,
+    "grobid_xml": false
+  },
+  "referenced_works_count": 76,
+  "referenced_works": [
+    "https://openalex.org/W4281687410",
+    "https://openalex.org/W6930220153",
+    "https://openalex.org/W4392356867",
+    "https://openalex.org/W2593758073",
+    "https://openalex.org/W6944025828",
+    "https://openalex.org/W6911874494",
+    "https://openalex.org/W4390730351",
+    "https://openalex.org/W4293715440",
+    "https://openalex.org/W4400420968",
+    "https://openalex.org/W3143985904",
+    "https://openalex.org/W4226109487",
+    "https://openalex.org/W2797780449",
+    "https://openalex.org/W2183168769",
+    "https://openalex.org/W6944120550",
+    "https://openalex.org/W6887665730",
+    "https://openalex.org/W6944202623",
+    "https://openalex.org/W6890386153",
+    "https://openalex.org/W6962789498",
+    "https://openalex.org/W6927811720",
+    "https://openalex.org/W6930692205",
+    "https://openalex.org/W4399702760",
+    "https://openalex.org/W3158355050",
+    "https://openalex.org/W2101299963",
+    "https://openalex.org/W4388744125",
+    "https://openalex.org/W4402671287",
+    "https://openalex.org/W4381435533",
+    "https://openalex.org/W4389509520",
+    "https://openalex.org/W2061866022",
+    "https://openalex.org/W2056633716",
+    "https://openalex.org/W2805896075",
+    "https://openalex.org/W2310209483",
+    "https://openalex.org/W6927698122",
+    "https://openalex.org/W2122027830",
+    "https://openalex.org/W4389777735",
+    "https://openalex.org/W4387144848",
+    "https://openalex.org/W3093336514",
+    "https://openalex.org/W2972361615",
+    "https://openalex.org/W3001137683",
+    "https://openalex.org/W2567362164",
+    "https://openalex.org/W4311844276",
+    "https://openalex.org/W2010243325",
+    "https://openalex.org/W2604674575",
+    "https://openalex.org/W4322722086",
+    "https://openalex.org/W1546847154",
+    "https://openalex.org/W4396509800",
+    "https://openalex.org/W6943843277",
+    "https://openalex.org/W4403619077",
+    "https://openalex.org/W2963469388",
+    "https://openalex.org/W4221134604",
+    "https://openalex.org/W2098995101",
+    "https://openalex.org/W4391897383",
+    "https://openalex.org/W2888123127",
+    "https://openalex.org/W4206520387",
+    "https://openalex.org/W2560438049",
+    "https://openalex.org/W3117927395",
+    "https://openalex.org/W2808847453",
+    "https://openalex.org/W2045234321",
+    "https://openalex.org/W2000672666",
+    "https://openalex.org/W4410157139",
+    "https://openalex.org/W3040426938",
+    "https://openalex.org/W3198988942",
+    "https://openalex.org/W4400411501",
+    "https://openalex.org/W4388230782",
+    "https://openalex.org/W4285593393",
+    "https://openalex.org/W4382520168",
+    "https://openalex.org/W6962529618",
+    "https://openalex.org/W4397006802",
+    "https://openalex.org/W6911856488",
+    "https://openalex.org/W3111278950",
+    "https://openalex.org/W2783658081",
+    "https://openalex.org/W2555629321",
+    "https://openalex.org/W3168270921",
+    "https://openalex.org/W2979876508",
+    "https://openalex.org/W2043566294",
+    "https://openalex.org/W2999536597",
+    "https://openalex.org/W2779768129"
+  ],
+  "related_works": [],
+  "abstract_inverted_index": {
+    "<b>Background:</b>": [
+      0
+    ],
+    "The": [
+      1,
+      143
+    ],
+    "exponential": [
+      2
+    ],
+    "growth": [
+      3
+    ],
+    "of": [
+      4,
+      112,
+      127,
+      145,
+      250,
+      257
+    ],
+    "research": [
+      5
+    ],
+    "literature": [
+      6,
+      69
+    ],
+    "makes": [
+      7
+    ],
+    "it": [
+      8
+    ],
+    "increasingly": [
+      9
+    ],
+    "difficult": [
+      10
+    ],
+    "to": [
+      11,
+      33,
+      71,
+      152,
+      264
+    ],
+    "identify": [
+      12,
+      66
+    ],
+    "all": [
+      13,
+      67,
+      179
+    ],
+    "relevant": [
+      14,
+      68,
+      74,
+      154,
+      199
+    ],
+    "studies": [
+      15,
+      169,
+      184
+    ],
+    "for": [
+      16,
+      76,
+      122
+    ],
+    "systematic": [
+      17,
+      78,
+      251
+    ],
+    "reviews": [
+      18,
+      252
+    ],
+    "and": [
+      19,
+      43,
+      57,
+      60,
+      100,
+      117,
+      148,
+      187,
+      198,
+      200,
+      224,
+      253
+    ],
+    "meta-analyses.": [
+      20
+    ],
+    "While": [
+      21
+    ],
+    "traditional": [
+      22,
+      56,
+      207
+    ],
+    "search": [
+      23,
+      59,
+      92,
+      102,
+      132
+    ],
+    "methods": [
+      24,
+      62
+    ],
+    "are": [
+      25,
+      216
+    ],
+    "labour-intensive,": [
+      26
+    ],
+    "modern": [
+      27
+    ],
+    "AI-aided": [
+      28,
+      58,
+      141,
+      218
+    ],
+    "approaches": [
+      29,
+      219
+    ],
+    "have": [
+      30,
+      203
+    ],
+    "the": [
+      31,
+      41,
+      72,
+      129,
+      161,
+      189,
+      248,
+      255,
+      258
+    ],
+    "potential": [
+      32
+    ],
+    "act": [
+      34
+    ],
+    "as": [
+      35,
+      242
+    ],
+    "a": [
+      36,
+      50,
+      77,
+      110,
+      226,
+      243
+    ],
+    "powerful": [
+      37
+    ],
+    "'super-assistant'": [
+      38,
+      244
+    ],
+    "during": [
+      39
+    ],
+    "both": [
+      40
+    ],
+    "searching": [
+      42
+    ],
+    "screening": [
+      44,
+      61,
+      150,
+      233
+    ],
+    "phases.<b>Objective:</b>": [
+      45
+    ],
+    "This": [
+      46
+    ],
+    "paper": [
+      47
+    ],
+    "evaluates": [
+      48
+    ],
+    "how": [
+      49
+    ],
+    "combined,": [
+      51
+    ],
+    "open-source": [
+      52
+    ],
+    "approach": [
+      53
+    ],
+    "-": [
+      54,
+      63
+    ],
+    "merging": [
+      55
+    ],
+    "can": [
+      64,
+      220,
+      245
+    ],
+    "help": [
+      65
+    ],
+    "up": [
+      70
+    ],
+    "'last": [
+      73
+    ],
+    "paper'": [
+      75
+    ],
+    "review": [
+      79
+    ],
+    "on": [
+      80
+    ],
+    "post-traumatic": [
+      81
+    ],
+    "stress": [
+      82
+    ],
+    "symptom": [
+      83
+    ],
+    "(PTSS)": [
+      84
+    ],
+    "trajectories": [
+      85
+    ],
+    "after": [
+      86
+    ],
+    "traumatic": [
+      87
+    ],
+    "events.<b>Method:</b>": [
+      88
+    ],
+    "We": [
+      89
+    ],
+    "applied": [
+      90
+    ],
+    "eight": [
+      91
+    ],
+    "strategies,": [
+      93,
+      181
+    ],
+    "including": [
+      94
+    ],
+    "database": [
+      95
+    ],
+    "searches,": [
+      96
+    ],
+    "snowballing,": [
+      97
+    ],
+    "full-text": [
+      98
+    ],
+    "retrieval,": [
+      99
+    ],
+    "semantic": [
+      101
+    ],
+    "via": [
+      103
+    ],
+    "OpenAlex.": [
+      104
+    ],
+    "All": [
+      105
+    ],
+    "records": [
+      106,
+      139
+    ],
+    "were": [
+      107,
+      185,
+      196
+    ],
+    "screened": [
+      108
+    ],
+    "using": [
+      109,
+      140,
+      206
+    ],
+    "combination": [
+      111,
+      144
+    ],
+    "human": [
+      113,
+      149
+    ],
+    "reviewers,": [
+      114
+    ],
+    "active": [
+      115
+    ],
+    "learning,": [
+      116
+    ],
+    "large": [
+      118
+    ],
+    "language": [
+      119
+    ],
+    "models": [
+      120
+    ],
+    "(LLMs)": [
+      121
+    ],
+    "quality": [
+      123,
+      256
+    ],
+    "control.<b>Results:</b>": [
+      124
+    ],
+    "On": [
+      125
+    ],
+    "top": [
+      126
+    ],
+    "replicating": [
+      128
+    ],
+    "original": [
+      130
+    ],
+    "6,701": [
+      131
+    ],
+    "results,": [
+      133
+    ],
+    "we": [
+      134
+    ],
+    "identified": [
+      135
+    ],
+    "an": [
+      136
+    ],
+    "additional": [
+      137,
+      183
+    ],
+    "3,822": [
+      138
+    ],
+    "methods.": [
+      142
+    ],
+    "AI": [
+      146,
+      240
+    ],
+    "tools": [
+      147
+    ],
+    "led": [
+      151
+    ],
+    "126": [
+      153
+    ],
+    "studies,": [
+      155
+    ],
+    "with": [
+      156,
+      170,
+      232
+    ],
+    "each": [
+      157
+    ],
+    "method": [
+      158
+    ],
+    "uncovering": [
+      159
+    ],
+    "papers": [
+      160,
+      195
+    ],
+    "others": [
+      162
+    ],
+    "missed.": [
+      163
+    ],
+    "Notably,": [
+      164
+    ],
+    "machine-aided": [
+      165
+    ],
+    "techniques": [
+      166
+    ],
+    "helped": [
+      167
+    ],
+    "find": [
+      168
+    ],
+    "missing": [
+      171
+    ],
+    "keywords,": [
+      172
+    ],
+    "unusual": [
+      173
+    ],
+    "phrasing,": [
+      174
+    ],
+    "or": [
+      175
+    ],
+    "limited": [
+      176
+    ],
+    "indexing.": [
+      177
+    ],
+    "Across": [
+      178
+    ],
+    "AI-assisted": [
+      180
+    ],
+    "10": [
+      182
+    ],
+    "identified,": [
+      186
+    ],
+    "while": [
+      188
+    ],
+    "overall": [
+      190
+    ],
+    "yield": [
+      191
+    ],
+    "was": [
+      192
+    ],
+    "modest,": [
+      193
+    ],
+    "these": [
+      194
+    ],
+    "unique": [
+      197
+    ],
+    "would": [
+      201
+    ],
+    "likely": [
+      202
+    ],
+    "been": [
+      204
+    ],
+    "missed": [
+      205
+    ],
+    "methods.<b>Conclusions:</b>": [
+      208
+    ],
+    "Our": [
+      209
+    ],
+    "findings": [
+      210
+    ],
+    "demonstrate": [
+      211
+    ],
+    "that": [
+      212
+    ],
+    "even": [
+      213
+    ],
+    "when": [
+      214,
+      230
+    ],
+    "returns": [
+      215
+    ],
+    "low,": [
+      217
+    ],
+    "meaningfully": [
+      221,
+      246
+    ],
+    "enhance": [
+      222
+    ],
+    "coverage": [
+      223
+    ],
+    "offer": [
+      225
+    ],
+    "scalable": [
+      227
+    ],
+    "path": [
+      228
+    ],
+    "forward": [
+      229
+    ],
+    "combined": [
+      231
+    ],
+    "prioritisation.": [
+      234
+    ],
+    "A": [
+      235
+    ],
+    "transparent,": [
+      236
+    ],
+    "hybrid": [
+      237
+    ],
+    "workflow": [
+      238
+    ],
+    "where": [
+      239
+    ],
+    "serves": [
+      241
+    ],
+    "extend": [
+      247
+    ],
+    "reach": [
+      249
+    ],
+    "increase": [
+      254
+    ],
+    "findings,": [
+      259
+    ],
+    "but": [
+      260
+    ],
+    "is": [
+      261
+    ],
+    "not": [
+      262
+    ],
+    "ready": [
+      263
+    ],
+    "replace": [
+      265
+    ],
+    "humans": [
+      266
+    ],
+    "fully.": [
+      267
+    ]
+  },
+  "counts_by_year": [],
+  "updated_date": "2025-11-06T03:46:38.306776",
+  "created_date": "2025-10-16T00:00:00"
+}

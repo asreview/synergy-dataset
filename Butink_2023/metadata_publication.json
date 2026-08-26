@@ -1,0 +1,1983 @@
+{
+  "id": "https://openalex.org/W4313462067",
+  "doi": "https://doi.org/10.1136/rmdopen-2022-002903",
+  "title": "Non-pharmacological interventions to promote work participation in people with rheumatic and musculoskeletal diseases: a systematic review and meta-analysis from the EULAR taskforce on healthy and sustainable work participation",
+  "display_name": "Non-pharmacological interventions to promote work participation in people with rheumatic and musculoskeletal diseases: a systematic review and meta-analysis from the EULAR taskforce on healthy and sustainable work participation",
+  "publication_year": 2023,
+  "publication_date": "2023-01-01",
+  "ids": {
+    "openalex": "https://openalex.org/W4313462067",
+    "doi": "https://doi.org/10.1136/rmdopen-2022-002903",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/36596655"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1136/rmdopen-2022-002903",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1136/rmdopen-2022-002903",
+    "pdf_url": "https://rmdopen.bmj.com/content/rmdopen/9/1/e002903.full.pdf",
+    "source": {
+      "id": "https://openalex.org/S2738706341",
+      "display_name": "RMD Open",
+      "issn_l": "2056-5933",
+      "issn": [
+        "2056-5933"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310319945",
+      "host_organization_name": "BMJ",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310319945"
+      ],
+      "host_organization_lineage_names": [
+        "BMJ"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by-nc",
+    "license_id": "https://openalex.org/licenses/cc-by-nc",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "RMD Open",
+    "raw_type": "journal-article"
+  },
+  "type": "review",
+  "indexed_in": [
+    "crossref",
+    "doaj",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "gold",
+    "oa_url": "https://rmdopen.bmj.com/content/rmdopen/9/1/e002903.full.pdf",
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5082212795",
+        "display_name": "Maarten Butink",
+        "orcid": "https://orcid.org/0000-0002-5999-9782"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I34352273",
+          "display_name": "Maastricht University",
+          "ror": "https://ror.org/02jz4aj89",
+          "country_code": "NL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I34352273"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I2800191616",
+          "display_name": "Maastricht University Medical Centre",
+          "ror": "https://ror.org/02d9ce178",
+          "country_code": "NL",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2800191616"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Maarten H P Butink",
+      "raw_affiliation_strings": [
+        "Department of Internal Medicine, Division of Rheumatology, Maastricht University Medical Centre+, Maastricht, The Netherlands",
+        "Department of Social Medicine, Care and Public Health Research Institute (CAPHRI), Maastricht University Faculty of Health Medicine and Life Sciences, Maastricht, The Netherlands"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Social Medicine, Care and Public Health Research Institute (CAPHRI), Maastricht University Faculty of Health Medicine and Life Sciences, Maastricht, The Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I34352273"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Internal Medicine, Division of Rheumatology, Maastricht University Medical Centre+, Maastricht, The Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I2800191616"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5062170314",
+        "display_name": "Casper Webers",
+        "orcid": "https://orcid.org/0000-0003-3011-8547"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I34352273",
+          "display_name": "Maastricht University",
+          "ror": "https://ror.org/02jz4aj89",
+          "country_code": "NL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I34352273"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I2800191616",
+          "display_name": "Maastricht University Medical Centre",
+          "ror": "https://ror.org/02d9ce178",
+          "country_code": "NL",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2800191616"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Casper Webers",
+      "raw_affiliation_strings": [
+        "Department of Internal Medicine, Division of Rheumatology, Maastricht University Medical Centre+, Maastricht, The Netherlands",
+        "Faculty of Health Medicine and Life Sciences, Care and Public Health Research Institute (CAPHRI), Maastricht University, Maastricht, The Netherlands"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Faculty of Health Medicine and Life Sciences, Care and Public Health Research Institute (CAPHRI), Maastricht University, Maastricht, The Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I34352273"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Internal Medicine, Division of Rheumatology, Maastricht University Medical Centre+, Maastricht, The Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I2800191616"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5022863158",
+        "display_name": "Suzanne Verstappen",
+        "orcid": "https://orcid.org/0000-0001-6181-0646"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2799725268",
+          "display_name": "Manchester Academic Health Science Centre",
+          "ror": "https://ror.org/04rrkhs81",
+          "country_code": "GB",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2799725268"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210092852",
+          "display_name": "Manchester University NHS Foundation Trust",
+          "ror": "https://ror.org/00he80998",
+          "country_code": "GB",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210092852"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210159460",
+          "display_name": "NIHR Manchester Biomedical Research Centre",
+          "ror": "https://ror.org/05njkjr15",
+          "country_code": "GB",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I34931013",
+            "https://openalex.org/I4210159460"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I28407311",
+          "display_name": "University of Manchester",
+          "ror": "https://ror.org/027m9bs27",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I28407311"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210117448",
+          "display_name": "Versus Arthritis",
+          "ror": "https://ror.org/02jkpm469",
+          "country_code": "GB",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I4210117448"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Suzanne M M Verstappen",
+      "raw_affiliation_strings": [
+        "Centre for Epidemiology Versus Arthritis, Centre for Musculoskeletal Research, Faculty of Biology, Medicine and Health, University of Manchester, Manchester, UK",
+        "NIHR Manchester Biomedical Research Centre, Manchester University NHS Foundation Trust, Manchester Academic Health Science Centre, Manchester, UK"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Centre for Epidemiology Versus Arthritis, Centre for Musculoskeletal Research, Faculty of Biology, Medicine and Health, University of Manchester, Manchester, UK",
+          "institution_ids": [
+            "https://openalex.org/I28407311",
+            "https://openalex.org/I4210117448"
+          ]
+        },
+        {
+          "raw_affiliation_string": "NIHR Manchester Biomedical Research Centre, Manchester University NHS Foundation Trust, Manchester Academic Health Science Centre, Manchester, UK",
+          "institution_ids": [
+            "https://openalex.org/I2799725268",
+            "https://openalex.org/I4210092852",
+            "https://openalex.org/I4210159460"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5055487104",
+        "display_name": "Louise Falzon",
+        "orcid": "https://orcid.org/0000-0002-9449-6056"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I91136226",
+          "display_name": "University of Sheffield",
+          "ror": "https://ror.org/05krs5044",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I91136226"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Louise Falzon",
+      "raw_affiliation_strings": [
+        "Health Economics and Decision Science, School of Health and Related Research, University of Sheffield, Sheffield, UK"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Health Economics and Decision Science, School of Health and Related Research, University of Sheffield, Sheffield, UK",
+          "institution_ids": [
+            "https://openalex.org/I91136226"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5045990670",
+        "display_name": "Neil Betteridge",
+        "orcid": "https://orcid.org/0000-0001-8844-1158"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210114999",
+          "display_name": "More Associates",
+          "ror": "https://ror.org/02ad86n55",
+          "country_code": "GB",
+          "type": "other",
+          "lineage": [
+            "https://openalex.org/I4210114999"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Neil Betteridge",
+      "raw_affiliation_strings": [
+        "Directory, Neil Betteridge Associates, London, UK"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Directory, Neil Betteridge Associates, London, UK",
+          "institution_ids": [
+            "https://openalex.org/I4210114999"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5056581471",
+        "display_name": "Dieter Wiek",
+        "orcid": "https://orcid.org/0000-0002-8778-958X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210147365",
+          "display_name": "European League Against Rheumatism",
+          "ror": "https://ror.org/03f7j3221",
+          "country_code": "CH",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I4210147365"
+          ]
+        }
+      ],
+      "countries": [
+        "CH"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Dieter Wiek",
+      "raw_affiliation_strings": [
+        "Patient Research Partner, EULAR/PARE, Z\u00fcrich, Switzerland"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Patient Research Partner, EULAR/PARE, Z\u00fcrich, Switzerland",
+          "institution_ids": [
+            "https://openalex.org/I4210147365"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5064992004",
+        "display_name": "Anthony D. Woolf",
+        "orcid": "https://orcid.org/0000-0001-8482-8056"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2799759729",
+          "display_name": "Royal Cornwall Hospital",
+          "ror": "https://ror.org/00cfdk448",
+          "country_code": "GB",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2799477489",
+            "https://openalex.org/I2799759729"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Anthony D Woolf",
+      "raw_affiliation_strings": [
+        "Bone and Joint Research Group, Royal Cornwall Hospital, Truro, UK"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Bone and Joint Research Group, Royal Cornwall Hospital, Truro, UK",
+          "institution_ids": [
+            "https://openalex.org/I2799759729"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5020718006",
+        "display_name": "Tanja Stamm",
+        "orcid": "https://orcid.org/0000-0003-3073-7284"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I76134821",
+          "display_name": "Medical University of Vienna",
+          "ror": "https://ror.org/05n3x4p02",
+          "country_code": "AT",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I76134821"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I1327969474",
+          "display_name": "Statistics Austria",
+          "ror": "https://ror.org/030j5vf66",
+          "country_code": "AT",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I1327969474"
+          ]
+        }
+      ],
+      "countries": [
+        "AT"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Tanja A Stamm",
+      "raw_affiliation_strings": [
+        "Section for Outcomes Research, Center for Medical Statistics, Informatics, and Intelligent Systems, Medical University of Vienna, Vienna, Austria"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Section for Outcomes Research, Center for Medical Statistics, Informatics, and Intelligent Systems, Medical University of Vienna, Vienna, Austria",
+          "institution_ids": [
+            "https://openalex.org/I1327969474",
+            "https://openalex.org/I76134821"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5076851275",
+        "display_name": "Gerd R Burmester",
+        "orcid": "https://orcid.org/0000-0001-7518-1131"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I7877124",
+          "display_name": "Charit\u00e9 - Universit\u00e4tsmedizin Berlin",
+          "ror": "https://ror.org/001w7jn25",
+          "country_code": "DE",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I7877124"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Gerd R Burmester",
+      "raw_affiliation_strings": [
+        "Rheumatology and Clinical Immunology, Charit\u00e9 University Hospital, Berlin, Germany"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Rheumatology and Clinical Immunology, Charit\u00e9 University Hospital, Berlin, Germany",
+          "institution_ids": [
+            "https://openalex.org/I7877124"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5063928355",
+        "display_name": "J. W. J. Bijlsma",
+        "orcid": "https://orcid.org/0000-0002-0128-8451"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I3018483916",
+          "display_name": "University Medical Center Utrecht",
+          "ror": "https://ror.org/0575yy874",
+          "country_code": "NL",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I3018483916"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Johannes W J Bijlsma",
+      "raw_affiliation_strings": [
+        "Department of Rheumatology and Clinical Immunology, University Medical Center Utrecht, Utrecht, The Netherlands"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Rheumatology and Clinical Immunology, University Medical Center Utrecht, Utrecht, The Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I3018483916"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5019980330",
+        "display_name": "Robin Christensen",
+        "orcid": "https://orcid.org/0000-0002-6600-0631"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2801150652",
+          "display_name": "Frederiksberg Hospital",
+          "ror": "https://ror.org/00d264c35",
+          "country_code": "DK",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2801150652"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I177969490",
+          "display_name": "University of Southern Denmark",
+          "ror": "https://ror.org/03yrrjy16",
+          "country_code": "DK",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I177969490"
+          ]
+        }
+      ],
+      "countries": [
+        "DK"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Robin Christensen",
+      "raw_affiliation_strings": [
+        "Research Unit of Rheumatology, Department of Clinical Research, University of Southern Denmark, Odense, Denmark",
+        "Section for Biostatistics and Evidence-Based Research, Frederiksberg Hospital Parker Institute, Copenhagen, Denmark"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Section for Biostatistics and Evidence-Based Research, Frederiksberg Hospital Parker Institute, Copenhagen, Denmark",
+          "institution_ids": [
+            "https://openalex.org/I2801150652"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Research Unit of Rheumatology, Department of Clinical Research, University of Southern Denmark, Odense, Denmark",
+          "institution_ids": [
+            "https://openalex.org/I177969490"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5026433456",
+        "display_name": "Annelies Boonen",
+        "orcid": "https://orcid.org/0000-0003-0682-9533"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I34352273",
+          "display_name": "Maastricht University",
+          "ror": "https://ror.org/02jz4aj89",
+          "country_code": "NL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I34352273"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I2800191616",
+          "display_name": "Maastricht University Medical Centre",
+          "ror": "https://ror.org/02d9ce178",
+          "country_code": "NL",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2800191616"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Annelies Boonen",
+      "raw_affiliation_strings": [
+        "Department of Internal Medicine, Division of Rheumatology, Maastricht University Medical Centre+, Maastricht, The Netherlands",
+        "Faculty of Health Medicine and Life Sciences, Care and Public Health Research Institute (CAPHRI), Maastricht University, Maastricht, The Netherlands"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Faculty of Health Medicine and Life Sciences, Care and Public Health Research Institute (CAPHRI), Maastricht University, Maastricht, The Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I34352273"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Internal Medicine, Division of Rheumatology, Maastricht University Medical Centre+, Maastricht, The Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I2800191616"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 6,
+  "institutions_distinct_count": 12,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5026433456"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I2800191616",
+    "https://openalex.org/I34352273"
+  ],
+  "apc_list": {
+    "value": 1950,
+    "currency": "GBP",
+    "value_usd": 2391
+  },
+  "apc_paid": {
+    "value": 1950,
+    "currency": "GBP",
+    "value_usd": 2391
+  },
+  "fwci": 5.27477987,
+  "has_fulltext": true,
+  "cited_by_count": 17,
+  "citation_normalized_percentile": {
+    "value": 0.95034018,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 97,
+    "max": 99
+  },
+  "biblio": {
+    "volume": "9",
+    "issue": "1",
+    "first_page": "e002903",
+    "last_page": "e002903"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10084",
+    "display_name": "Musculoskeletal pain and rehabilitation",
+    "score": 0.9980999827384949,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2736",
+      "display_name": "Pharmacology"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/27",
+      "display_name": "Medicine"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/4",
+      "display_name": "Health Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10084",
+      "display_name": "Musculoskeletal pain and rehabilitation",
+      "score": 0.9980999827384949,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2736",
+        "display_name": "Pharmacology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11084",
+      "display_name": "Workplace Health and Well-being",
+      "score": 0.9959999918937683,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3600",
+        "display_name": "General Health Professions"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/36",
+        "display_name": "Health Professions"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11282",
+      "display_name": "Fibromyalgia and Chronic Fatigue Syndrome Research",
+      "score": 0.9954000115394592,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2738",
+        "display_name": "Psychiatry and Mental health"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/medicine",
+      "display_name": "Medicine",
+      "score": 0.9439220428466797
+    },
+    {
+      "id": "https://openalex.org/keywords/meta-analysis",
+      "display_name": "Meta-analysis",
+      "score": 0.7736261487007141
+    },
+    {
+      "id": "https://openalex.org/keywords/psychological-intervention",
+      "display_name": "Psychological intervention",
+      "score": 0.6261399984359741
+    },
+    {
+      "id": "https://openalex.org/keywords/physical-therapy",
+      "display_name": "Physical therapy",
+      "score": 0.5780209302902222
+    },
+    {
+      "id": "https://openalex.org/keywords/alternative-medicine",
+      "display_name": "Alternative medicine",
+      "score": 0.49268609285354614
+    },
+    {
+      "id": "https://openalex.org/keywords/work",
+      "display_name": "Work (physics)",
+      "score": 0.4819652736186981
+    },
+    {
+      "id": "https://openalex.org/keywords/family-medicine",
+      "display_name": "Family medicine",
+      "score": 0.3441351652145386
+    },
+    {
+      "id": "https://openalex.org/keywords/gerontology",
+      "display_name": "Gerontology",
+      "score": 0.3296361565589905
+    },
+    {
+      "id": "https://openalex.org/keywords/internal-medicine",
+      "display_name": "Internal medicine",
+      "score": 0.2641008496284485
+    },
+    {
+      "id": "https://openalex.org/keywords/nursing",
+      "display_name": "Nursing",
+      "score": 0.18131586909294128
+    },
+    {
+      "id": "https://openalex.org/keywords/pathology",
+      "display_name": "Pathology",
+      "score": 0.15672588348388672
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C71924100",
+      "wikidata": "https://www.wikidata.org/wiki/Q11190",
+      "display_name": "Medicine",
+      "level": 0,
+      "score": 0.9439220428466797
+    },
+    {
+      "id": "https://openalex.org/C95190672",
+      "wikidata": "https://www.wikidata.org/wiki/Q815382",
+      "display_name": "Meta-analysis",
+      "level": 2,
+      "score": 0.7736261487007141
+    },
+    {
+      "id": "https://openalex.org/C27415008",
+      "wikidata": "https://www.wikidata.org/wiki/Q7256382",
+      "display_name": "Psychological intervention",
+      "level": 2,
+      "score": 0.6261399984359741
+    },
+    {
+      "id": "https://openalex.org/C1862650",
+      "wikidata": "https://www.wikidata.org/wiki/Q186005",
+      "display_name": "Physical therapy",
+      "level": 1,
+      "score": 0.5780209302902222
+    },
+    {
+      "id": "https://openalex.org/C204787440",
+      "wikidata": "https://www.wikidata.org/wiki/Q188504",
+      "display_name": "Alternative medicine",
+      "level": 2,
+      "score": 0.49268609285354614
+    },
+    {
+      "id": "https://openalex.org/C18762648",
+      "wikidata": "https://www.wikidata.org/wiki/Q42213",
+      "display_name": "Work (physics)",
+      "level": 2,
+      "score": 0.4819652736186981
+    },
+    {
+      "id": "https://openalex.org/C512399662",
+      "wikidata": "https://www.wikidata.org/wiki/Q3505712",
+      "display_name": "Family medicine",
+      "level": 1,
+      "score": 0.3441351652145386
+    },
+    {
+      "id": "https://openalex.org/C74909509",
+      "wikidata": "https://www.wikidata.org/wiki/Q10387",
+      "display_name": "Gerontology",
+      "level": 1,
+      "score": 0.3296361565589905
+    },
+    {
+      "id": "https://openalex.org/C126322002",
+      "wikidata": "https://www.wikidata.org/wiki/Q11180",
+      "display_name": "Internal medicine",
+      "level": 1,
+      "score": 0.2641008496284485
+    },
+    {
+      "id": "https://openalex.org/C159110408",
+      "wikidata": "https://www.wikidata.org/wiki/Q121176",
+      "display_name": "Nursing",
+      "level": 1,
+      "score": 0.18131586909294128
+    },
+    {
+      "id": "https://openalex.org/C142724271",
+      "wikidata": "https://www.wikidata.org/wiki/Q7208",
+      "display_name": "Pathology",
+      "level": 1,
+      "score": 0.15672588348388672
+    },
+    {
+      "id": "https://openalex.org/C78519656",
+      "wikidata": "https://www.wikidata.org/wiki/Q101333",
+      "display_name": "Mechanical engineering",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C127413603",
+      "wikidata": "https://www.wikidata.org/wiki/Q11023",
+      "display_name": "Engineering",
+      "level": 0,
+      "score": 0.0
+    }
+  ],
+  "mesh": [
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D009140",
+      "descriptor_name": "Musculoskeletal Diseases",
+      "qualifier_ui": "Q000628",
+      "qualifier_name": "therapy",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D006304",
+      "descriptor_name": "Health Status",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D009140",
+      "descriptor_name": "Musculoskeletal Diseases",
+      "qualifier_ui": "Q000628",
+      "qualifier_name": "therapy",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D006304",
+      "descriptor_name": "Health Status",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D009140",
+      "descriptor_name": "Musculoskeletal Diseases",
+      "qualifier_ui": "Q000628",
+      "qualifier_name": "therapy",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D006304",
+      "descriptor_name": "Health Status",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    }
+  ],
+  "locations_count": 8,
+  "locations": [
+    {
+      "id": "doi:10.1136/rmdopen-2022-002903",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1136/rmdopen-2022-002903",
+      "pdf_url": "https://rmdopen.bmj.com/content/rmdopen/9/1/e002903.full.pdf",
+      "source": {
+        "id": "https://openalex.org/S2738706341",
+        "display_name": "RMD Open",
+        "issn_l": "2056-5933",
+        "issn": [
+          "2056-5933"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310319945",
+        "host_organization_name": "BMJ",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310319945"
+        ],
+        "host_organization_lineage_names": [
+          "BMJ"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by-nc",
+      "license_id": "https://openalex.org/licenses/cc-by-nc",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "RMD Open",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:36596655",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/36596655",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "RMD open",
+      "raw_type": null
+    },
+    {
+      "id": "pmh:oai:cris.maastrichtuniversity.nl:openaire/d438db36-d072-4101-b00a-33dd9147cdbf",
+      "is_oa": false,
+      "landing_page_url": "https://cris.maastrichtuniversity.nl/en/publications/d438db36-d072-4101-b00a-33dd9147cdbf",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306402616",
+        "display_name": "Research Publications (Maastricht University)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I34352273",
+        "host_organization_name": "Maastricht University",
+        "host_organization_lineage": [
+          "https://openalex.org/I34352273"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Butink, M H P, Webers, C, Verstappen, S M M, Falzon, L, Betteridge, N, Wiek, D, Woolf, A D, Stamm, T A, Burmester, G R, Bijlsma, J W J, Christensen, R & Boonen, A 2023, 'Non-pharmacological interventions to promote work participation in people with rheumatic and musculoskeletal diseases: a systematic review and meta-analysis from the EULAR taskforce on healthy and sustainable work participation', RMD Open, vol. 9, no. 1, e002903. https://doi.org/10.1136/rmdopen-2022-002903",
+      "raw_type": "info:eu-repo/semantics/publishedVersion"
+    },
+    {
+      "id": "pmh:oai:sdu.dk:openaire/efb837bb-835c-4224-ac9e-606a762d89c6",
+      "is_oa": false,
+      "landing_page_url": "https://portal.findresearcher.sdu.dk/da/publications/efb837bb-835c-4224-ac9e-606a762d89c6",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306400423",
+        "display_name": "University of Southern Denmark Research Portal (University of Southern Denmark)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I177969490",
+        "host_organization_name": "University of Southern Denmark",
+        "host_organization_lineage": [
+          "https://openalex.org/I177969490"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Butink, M H P, Webers, C, Verstappen, S M M, Falzon, L, Betteridge, N, Wiek, D, Woolf, A D, Stamm, T A, Burmester, G R, Bijlsma, J W J, Christensen, R & Boonen, A 2023, 'Non-pharmacological interventions to promote work participation in people with rheumatic and musculoskeletal diseases : a systematic review and meta-analysis from the EULAR taskforce on healthy and sustainable work participation', RMD Open, vol. 9, no. 1, e002903. https://doi.org/10.1136/rmdopen-2022-002903",
+      "raw_type": "info:eu-repo/semantics/publishedVersion"
+    },
+    {
+      "id": "pmh:oai:eprints.whiterose.ac.uk:196662",
+      "is_oa": false,
+      "landing_page_url": null,
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306400854",
+        "display_name": "White Rose Research Online (University of Leeds, The University of Sheffield, University of York)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I2800616092",
+        "host_organization_name": "White Rose University Consortium",
+        "host_organization_lineage": [
+          "https://openalex.org/I2800616092"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "acceptedVersion",
+      "is_accepted": true,
+      "is_published": false,
+      "raw_source_name": "",
+      "raw_type": "Article"
+    },
+    {
+      "id": "pmh:oai:pubmedcentral.nih.gov:10098260",
+      "is_oa": true,
+      "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/10098260",
+      "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10098260/pdf/rmdopen-2022-002903.pdf",
+      "source": {
+        "id": "https://openalex.org/S2764455111",
+        "display_name": "PubMed Central",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by-nc",
+      "license_id": "https://openalex.org/licenses/cc-by-nc",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "RMD Open",
+      "raw_type": "Text"
+    },
+    {
+      "id": "pmh:oai:doaj.org/article:417e6a6023b042d28224866c0ee36f61",
+      "is_oa": false,
+      "landing_page_url": "https://doaj.org/article/417e6a6023b042d28224866c0ee36f61",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401280",
+        "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "RMD Open, Vol 9, Iss 1 (2023)",
+      "raw_type": "article"
+    },
+    {
+      "id": "pmh:oai:dspace.library.uu.nl:1874/455952",
+      "is_oa": true,
+      "landing_page_url": "https://dspace.library.uu.nl/handle/1874/455952",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401649",
+        "display_name": "Utrecht University Repository (Utrecht University)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I193662353",
+        "host_organization_name": "Utrecht University",
+        "host_organization_lineage": [
+          "https://openalex.org/I193662353"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "other-oa",
+      "license_id": "https://openalex.org/licenses/other-oa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": null,
+      "raw_type": "Article"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1136/rmdopen-2022-002903",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1136/rmdopen-2022-002903",
+    "pdf_url": "https://rmdopen.bmj.com/content/rmdopen/9/1/e002903.full.pdf",
+    "source": {
+      "id": "https://openalex.org/S2738706341",
+      "display_name": "RMD Open",
+      "issn_l": "2056-5933",
+      "issn": [
+        "2056-5933"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310319945",
+      "host_organization_name": "BMJ",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310319945"
+      ],
+      "host_organization_lineage_names": [
+        "BMJ"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by-nc",
+    "license_id": "https://openalex.org/licenses/cc-by-nc",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "RMD Open",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [],
+  "awards": [
+    {
+      "id": "https://openalex.org/G949070651",
+      "display_name": null,
+      "funder_award_id": "Not applicable",
+      "funder_id": "https://openalex.org/F4320325330",
+      "funder_display_name": "European League Against Rheumatism"
+    }
+  ],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320325330",
+      "display_name": "European League Against Rheumatism",
+      "ror": "https://ror.org/03f7j3221"
+    }
+  ],
+  "has_content": {
+    "pdf": true,
+    "grobid_xml": true
+  },
+  "referenced_works_count": 111,
+  "referenced_works": [
+    "https://openalex.org/W2800478556",
+    "https://openalex.org/W2810614194",
+    "https://openalex.org/W2123133525",
+    "https://openalex.org/W2886701099",
+    "https://openalex.org/W2116633809",
+    "https://openalex.org/W2122921717",
+    "https://openalex.org/W114281879",
+    "https://openalex.org/W2151070662",
+    "https://openalex.org/W2099240226",
+    "https://openalex.org/W3028148405",
+    "https://openalex.org/W3151813338",
+    "https://openalex.org/W6640529853",
+    "https://openalex.org/W1926837556",
+    "https://openalex.org/W6842374754",
+    "https://openalex.org/W3118615836",
+    "https://openalex.org/W2133179213",
+    "https://openalex.org/W2735599256",
+    "https://openalex.org/W2531269403",
+    "https://openalex.org/W2970684805",
+    "https://openalex.org/W2064015154",
+    "https://openalex.org/W1984052269",
+    "https://openalex.org/W4299627282",
+    "https://openalex.org/W2126930838",
+    "https://openalex.org/W2314252232",
+    "https://openalex.org/W2119605658",
+    "https://openalex.org/W1975095017",
+    "https://openalex.org/W2165010884",
+    "https://openalex.org/W2013503454",
+    "https://openalex.org/W2405102205",
+    "https://openalex.org/W1969720003",
+    "https://openalex.org/W1965570400",
+    "https://openalex.org/W2305362759",
+    "https://openalex.org/W3003740306",
+    "https://openalex.org/W2065604836",
+    "https://openalex.org/W2098249277",
+    "https://openalex.org/W2060959628",
+    "https://openalex.org/W2076812054",
+    "https://openalex.org/W2052100100",
+    "https://openalex.org/W3023475886",
+    "https://openalex.org/W1538700548",
+    "https://openalex.org/W2982381358",
+    "https://openalex.org/W2278472557",
+    "https://openalex.org/W2129322795",
+    "https://openalex.org/W2598954484",
+    "https://openalex.org/W2017844716",
+    "https://openalex.org/W111175795",
+    "https://openalex.org/W2604314275",
+    "https://openalex.org/W2060088568",
+    "https://openalex.org/W2086674547",
+    "https://openalex.org/W2971412656",
+    "https://openalex.org/W2058599477",
+    "https://openalex.org/W2061898948",
+    "https://openalex.org/W2738163106",
+    "https://openalex.org/W2776032181",
+    "https://openalex.org/W2076808106",
+    "https://openalex.org/W2045676971",
+    "https://openalex.org/W2152366548",
+    "https://openalex.org/W2078839186",
+    "https://openalex.org/W2032827610",
+    "https://openalex.org/W2034565675",
+    "https://openalex.org/W6637698790",
+    "https://openalex.org/W6634637575",
+    "https://openalex.org/W2148861332",
+    "https://openalex.org/W2091380093",
+    "https://openalex.org/W1972553334",
+    "https://openalex.org/W2973611391",
+    "https://openalex.org/W2758842377",
+    "https://openalex.org/W1520652764",
+    "https://openalex.org/W2940296176",
+    "https://openalex.org/W2087457633",
+    "https://openalex.org/W2023196035",
+    "https://openalex.org/W2061622386",
+    "https://openalex.org/W2073842708",
+    "https://openalex.org/W4239215705",
+    "https://openalex.org/W2120001467",
+    "https://openalex.org/W1979504995",
+    "https://openalex.org/W2115670309",
+    "https://openalex.org/W2493559804",
+    "https://openalex.org/W2012351002",
+    "https://openalex.org/W2107677951",
+    "https://openalex.org/W2157445798",
+    "https://openalex.org/W2800647420",
+    "https://openalex.org/W2093265035",
+    "https://openalex.org/W1698370814",
+    "https://openalex.org/W3000485708",
+    "https://openalex.org/W2000580474",
+    "https://openalex.org/W2164008570",
+    "https://openalex.org/W2323541750",
+    "https://openalex.org/W1978146873",
+    "https://openalex.org/W1970940613",
+    "https://openalex.org/W2319506634",
+    "https://openalex.org/W2048984013",
+    "https://openalex.org/W2763524505",
+    "https://openalex.org/W2056490829",
+    "https://openalex.org/W3014262804",
+    "https://openalex.org/W3014924195",
+    "https://openalex.org/W2163937136",
+    "https://openalex.org/W3129019453",
+    "https://openalex.org/W2706104770",
+    "https://openalex.org/W4292229870",
+    "https://openalex.org/W3145440935",
+    "https://openalex.org/W2098923148",
+    "https://openalex.org/W3157537176",
+    "https://openalex.org/W2588681363",
+    "https://openalex.org/W1755873777",
+    "https://openalex.org/W4210754659",
+    "https://openalex.org/W2339986368",
+    "https://openalex.org/W1579442145",
+    "https://openalex.org/W2599076725",
+    "https://openalex.org/W4295925410",
+    "https://openalex.org/W1935542944"
+  ],
+  "related_works": [
+    "https://openalex.org/W3134325150",
+    "https://openalex.org/W3210678099",
+    "https://openalex.org/W4200025911",
+    "https://openalex.org/W4405644996",
+    "https://openalex.org/W4394486262",
+    "https://openalex.org/W3088977003",
+    "https://openalex.org/W4387745674",
+    "https://openalex.org/W3111640694",
+    "https://openalex.org/W4226264679",
+    "https://openalex.org/W2009314830"
+  ],
+  "abstract_inverted_index": {
+    "Objective": [
+      0
+    ],
+    "To": [
+      1
+    ],
+    "summarise": [
+      2
+    ],
+    "the": [
+      3,
+      72,
+      85,
+      249
+    ],
+    "evidence": [
+      4,
+      51,
+      220
+    ],
+    "on": [
+      5,
+      13,
+      184,
+      228,
+      233
+    ],
+    "effectiveness": [
+      6
+    ],
+    "of": [
+      7,
+      34,
+      95,
+      136,
+      145,
+      147,
+      155,
+      163,
+      246,
+      251
+    ],
+    "non-pharmacological": [
+      8,
+      223
+    ],
+    "(ie,": [
+      9
+    ],
+    "non-drug,": [
+      10
+    ],
+    "non-surgical)": [
+      11
+    ],
+    "interventions": [
+      12,
+      150,
+      224
+    ],
+    "work": [
+      14,
+      18,
+      103,
+      159,
+      198,
+      229
+    ],
+    "participation": [
+      15
+    ],
+    "(sick": [
+      16
+    ],
+    "leave,": [
+      17,
+      153
+    ],
+    "status": [
+      19,
+      98,
+      160,
+      199
+    ],
+    "and": [
+      20,
+      26,
+      39,
+      48,
+      105,
+      117,
+      161,
+      244
+    ],
+    "presenteeism)": [
+      21
+    ],
+    "in": [
+      22,
+      132
+    ],
+    "people": [
+      23,
+      216
+    ],
+    "with": [
+      24,
+      80,
+      217
+    ],
+    "rheumatic": [
+      25
+    ],
+    "musculoskeletal": [
+      27
+    ],
+    "diseases": [
+      28
+    ],
+    "(RMDs).": [
+      29
+    ],
+    "Methods": [
+      30
+    ],
+    "A": [
+      31
+    ],
+    "systematic": [
+      32
+    ],
+    "review": [
+      33
+    ],
+    "randomised": [
+      35
+    ],
+    "controlled": [
+      36
+    ],
+    "trials": [
+      37
+    ],
+    "(RCTs)": [
+      38,
+      50
+    ],
+    "longitudinal": [
+      40
+    ],
+    "observational": [
+      41
+    ],
+    "studies": [
+      42,
+      114
+    ],
+    "(LOS)": [
+      43
+    ],
+    "was": [
+      44
+    ],
+    "performed.": [
+      45
+    ],
+    "Qualitative": [
+      46,
+      139
+    ],
+    "(RCTs/LOS)": [
+      47
+    ],
+    "quantitative": [
+      49
+    ],
+    "syntheses": [
+      52
+    ],
+    "were": [
+      53,
+      60,
+      91,
+      126,
+      129
+    ],
+    "conducted.": [
+      54
+    ],
+    "Mixed-effects": [
+      55
+    ],
+    "restricted": [
+      56
+    ],
+    "maximum": [
+      57
+    ],
+    "likelihood": [
+      58
+    ],
+    "models": [
+      59
+    ],
+    "used": [
+      61
+    ],
+    "to": [
+      62,
+      121,
+      193,
+      202,
+      210
+    ],
+    "combine": [
+      63
+    ],
+    "effect": [
+      64
+    ],
+    "estimates,": [
+      65
+    ],
+    "using": [
+      66
+    ],
+    "standardised": [
+      67
+    ],
+    "mean": [
+      68
+    ],
+    "differences": [
+      69
+    ],
+    "(SMDs)": [
+      70
+    ],
+    "as": [
+      71,
+      237
+    ],
+    "summary": [
+      73
+    ],
+    "measure": [
+      74
+    ],
+    "for": [
+      75,
+      93,
+      151,
+      158,
+      166
+    ],
+    "each": [
+      76,
+      185
+    ],
+    "outcome": [
+      77,
+      186,
+      245
+    ],
+    "domain": [
+      78
+    ],
+    "separately,": [
+      79
+    ],
+    "a": [
+      81
+    ],
+    "negative": [
+      82
+    ],
+    "SMD": [
+      83,
+      197,
+      206
+    ],
+    "favouring": [
+      84
+    ],
+    "intervention": [
+      86,
+      106,
+      242
+    ],
+    "over": [
+      87
+    ],
+    "comparator.": [
+      88
+    ],
+    "Subgroup": [
+      89
+    ],
+    "analyses": [
+      90
+    ],
+    "performed": [
+      92
+    ],
+    "type": [
+      94
+    ],
+    "RMD,": [
+      96
+    ],
+    "risk": [
+      97,
+      240
+    ],
+    "at": [
+      99
+    ],
+    "baseline": [
+      100
+    ],
+    "regarding": [
+      101
+    ],
+    "adverse": [
+      102
+    ],
+    "outcomes": [
+      104
+    ],
+    "characteristics.": [
+      107
+    ],
+    "Results": [
+      108
+    ],
+    "Of": [
+      109
+    ],
+    "10": [
+      110
+    ],
+    "153": [
+      111
+    ],
+    "records,": [
+      112
+    ],
+    "64": [
+      113,
+      148
+    ],
+    "(37": [
+      115,
+      170
+    ],
+    "RCTs": [
+      116
+    ],
+    "27": [
+      118
+    ],
+    "LOS;": [
+      119
+    ],
+    "corresponding": [
+      120
+    ],
+    "k": [
+      122,
+      195,
+      204,
+      212
+    ],
+    "=71": [
+      123
+    ],
+    "treatment": [
+      124,
+      174
+    ],
+    "comparisons)": [
+      125,
+      175
+    ],
+    "included.": [
+      127
+    ],
+    "Interventions": [
+      128
+    ],
+    "mostly": [
+      130
+    ],
+    "conducted": [
+      131
+    ],
+    "clinical": [
+      133,
+      182
+    ],
+    "settings": [
+      134
+    ],
+    "(44": [
+      135
+    ],
+    "71,": [
+      137
+    ],
+    "62%).": [
+      138
+    ],
+    "synthesis": [
+      140,
+      169
+    ],
+    "suggested": [
+      141,
+      176
+    ],
+    "clear": [
+      142
+    ],
+    "beneficial": [
+      143
+    ],
+    "effects": [
+      144,
+      183,
+      227
+    ],
+    "7": [
+      146
+    ],
+    "(11%)": [
+      149
+    ],
+    "sick": [
+      152,
+      188
+    ],
+    "1": [
+      154,
+      162
+    ],
+    "18": [
+      156
+    ],
+    "(6%)": [
+      157,
+      165
+    ],
+    "17": [
+      164
+    ],
+    "presenteeism.": [
+      167
+    ],
+    "Quantitative": [
+      168
+    ],
+    "RCTs;": [
+      171
+    ],
+    "k=": [
+      172
+    ],
+    "43": [
+      173
+    ],
+    "statistically": [
+      177
+    ],
+    "significant": [
+      178
+    ],
+    "but": [
+      179
+    ],
+    "only": [
+      180
+    ],
+    "small": [
+      181,
+      226
+    ],
+    "(SMD": [
+      187
+    ],
+    "leave": [
+      189
+    ],
+    "(95%": [
+      190
+    ],
+    "CI)=\u22120.23": [
+      191
+    ],
+    "(\u22120.33": [
+      192
+    ],
+    "\u22120.13;": [
+      194
+    ],
+    "=42);": [
+      196
+    ],
+    "=\u22120.38": [
+      200
+    ],
+    "(\u22120.63": [
+      201
+    ],
+    "\u22120.12;": [
+      203,
+      211
+    ],
+    "=9);": [
+      205
+    ],
+    "presenteeism": [
+      207
+    ],
+    "=\u22120.25": [
+      208
+    ],
+    "(\u22120.39": [
+      209
+    ],
+    "=13)).": [
+      213
+    ],
+    "Conclusion": [
+      214
+    ],
+    "In": [
+      215
+    ],
+    "RMDs,": [
+      218
+    ],
+    "empirical": [
+      219
+    ],
+    "shows": [
+      221
+    ],
+    "that": [
+      222
+    ],
+    "have": [
+      225
+    ],
+    "participation.": [
+      230
+    ],
+    "Effectiveness": [
+      231
+    ],
+    "depends": [
+      232
+    ],
+    "contextual": [
+      234
+    ],
+    "factors": [
+      235
+    ],
+    "such": [
+      236
+    ],
+    "disease,": [
+      238
+    ],
+    "population": [
+      239
+    ],
+    "status,": [
+      241
+    ],
+    "characteristics": [
+      243
+    ],
+    "interest,": [
+      247
+    ],
+    "highlighting": [
+      248
+    ],
+    "importance": [
+      250
+    ],
+    "tailoring": [
+      252
+    ],
+    "interventions.": [
+      253
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 4
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 9
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 4
+    }
+  ],
+  "updated_date": "2025-11-06T03:46:38.306776",
+  "created_date": "2025-10-10T00:00:00"
+}

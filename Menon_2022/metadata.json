@@ -1,0 +1,12 @@
+{
+  "key": "Menon_2022",
+  "publication": {
+    "doi": "10.1080/10408444.2022.2082917",
+    "eligibility_criteria": "To be eligible for inclusion in the SR sample, documents had to fulfil the following criteria:\n\n1. identify explicitly as a \u201csystematic review\u201d in their title;\n2. assess the effect of a non-acute, non-communicable, environmental exposure on a health outcome;\n3. include studies in people or mammalian models;\n4. be available in HTML format;\n5. be published between 1 January 2019 and 30 June 2020.\n\nWe excluded umbrella reviews and review protocols, SRs of the wrong population (e.g. plants), and SRs of the following exposures: pathogens; poisons; smoking and tobacco related products, except for exposure to second-hand smoke (to prevent our sample being dominated by studies of direct tobacco exposure); social, psychological, or behavioural risk factors; housing conditions; SRs of exposure only (e.g. biomonitoring); and protocols for SRs. We did include diet and addiction as exposures, as these are considered by some researchers as being environmental exposures. SRs had to be available in HTML format to allow copy-pasting of manuscripts into a uniform format stripped of visual cues, and allow easy removal of identifying information, as per our blinding strategy."
+  },
+  "data": {
+    "url": "https://osf.io/9jzsu",
+    "n_records": 950,
+    "n_records_included": 74
+  }
+}

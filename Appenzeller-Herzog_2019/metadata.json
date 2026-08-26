@@ -1,0 +1,12 @@
+{
+  "key": "Appenzeller-Herzog_2019",
+  "publication": {
+    "doi": "10.1111/liv.14179",
+    "eligibility_criteria": "We included WD patients of any age or stage. The study drug had to be one of four established therapies, namely DPen, trientine, TTM or Zn. The control could be placebo, no treatment or any other treatment that does not include the respective study drug (eg Zn vs trientine was allowed, Zn 50 mg vs Zn 100 mg was not allowed). Concomitant therapies had to be identical in the compared treatment arms (eg trientine plus Zn vs TTM plus Zn). Comparisons between monotherapy and combination therapy regimens that included the respective monotherapy drug (eg DPen plus Zn vs Zn) have been analysed elsewhere and were not considered any further here. We included studies that reported all\u2010cause mortality, orthotopic liver transplantation (OLT), neurological symptoms (eg dystonia, dysarthria, cognitive decline, drooling, tremor, gait disturbance, chorea, seizure, psychosis), liver\u2010related symptoms (eg icterus, ascites, steatosis, fibrosis, mild hepatitis, acute liver failure, cirrhosis, serum transaminases), adverse effects (eg dermatological manifestations, nephrotoxicity, pulmonary toxicity, autoimmune disorders, anaemia, neutrophilic agranulocytosis, thrombocytopenia, hypothyroidism, liver dysfunction, colitis, status dystonicus, myasthenia gravis, arthropathy, macromastia, early neurological deterioration, gastrointestinal irritation), and frequency of treatment discontinuation (ie switching to another drug, stopping or changing the treatment). We included prospective and retrospective studies, including randomized, non\u2010randomized controlled trials and comparative observational studies that were written in English, German, Dutch, French, Spanish or Portuguese. Animal studies, case reports, case series, cross\u2010sectional studies, before\u2010after studies, reviews, letters, abstract\u2010only publications, editorials, diagnostic or other testing studies and non\u2010controlled studies were excluded. No publication date restrictions were applied."
+  },
+  "data": {
+    "doi": "10.5281/zenodo.3625931",
+    "n_records": 2897,
+    "n_records_included": 26
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "key": "Dolinska_2022",
+  "publication": {
+    "doi": "10.1016/j.xfnr.2022.12.001",
+    "eligibility_criteria": "Inclusion criteria\nEnglish-language articles\nNoninvasive biomarkers of any kind\nPrimary research articles\nAdult females\nHuman studies with more than 10 participants\nPatients with endometriosis\nStudies with a description of the methodology used for the measurement of changes in blood/urine composition\n\nExclusion criteria\nStudies of less than 10 participants\nStudies not directly associated with blood biomarkers for endometriosis\nStudies that involved animal models/cell lines\nPediatrics, pubescent females and males\nUnrelated gynecological diseases\nBiomarkers retrieved invasively\nGynecological malignancies included in the control group\nOnly 1 type of endometriosis considered\nDifferent grading system than that of the ASRM or rAFS\nLack of laparoscopy in the control group\nBlood biomarkers only: most cases (>80%) were diagnosed with stage I-II OR stage III\u2013IV endometriosis in accordance with the ASRM or rAFS grading system OR lack of stage specification"
+  },
+  "data": {
+    "doi": "10.1016/j.xfnr.2022.12.001",
+    "n_records": 7833,
+    "n_records_included": 37
+  }
+}

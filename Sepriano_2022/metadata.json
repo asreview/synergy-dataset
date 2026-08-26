@@ -1,0 +1,12 @@
+{
+  "key": "Sepriano_2022",
+  "publication": {
+    "doi": "10.1136/ard-2022-223357",
+    "eligibility_criteria": "The literature search addressed the safety of DMARDs. Observational studies, namely cohort studies/registries with >50 cases were the main study type. Participants were adults (\u226518 years old) with a clinical diagnosis of RA. Studies including patients with other diagnoses were eligible only if results from patients with RA were presented separately. The intervention was any DMARD (csDMARD, bDMARD\u2014including biosimilars\u2014or tsDMARD), including all drugs (chloroquine, hydroxychloroquine, leflunomide, methotrexate, sulfasalazine, abatacept, anakinra, adalimumab, brodalumab, certolizumab pegol, etanercept, golimumab, guselkumab, infliximab, ixekizumab, mavrilimumab, ocrelizumab, ofatumumab, olokizumab, otilimab, rituximab, sarilumab, sirukumab, tabalumab, tocilizumab, ustekinumab, apremilast, baricitinib, decernotinib, evobrutinib, fenebrutinib, filgotinib, fostamatinib, peficitinib, ruxolitinib, tofacitinib, upadacitinib), formulations and duration. Studies were only eligible if they included a comparator group (either another DMARD, combination therapy, or the general population). Studies on glucocorticoids were excluded, as they were dealt with in a separate SLR.10 The following safety outcomes were considered: infections (including serious infections, opportunistic infections such as tuberculosis (TB) and herpes zoster (HZ)), malignancies, mortality, major adverse cardiovascular events (MACEs), venous thromboembolism (VTE) including pulmonary embolism/deep venous thrombosis, changes in lipid levels, elevations of creatine phosphokinase, impairments in renal function, elevations of liver enzymes, haematological abnormalities, gastrointestinal side effects, demyelinating disease, induction of autoimmune disease, teratogenicity, fertility and pregnancy outcomes. For the risk of infection by SARS-CoV-2, only studies published after 31 May 2021 (the limit date of an SLR informing EULAR recommendations focusing on the topic) were considered.12 13 RCTs with a primary safety outcome were included. In addition, RCTs and long-term extensions (LTEs), selected in the accompanying SLR addressing efficacy,9 were also included to assess the safety of drugs without, or with limited real-world data available."
+  },
+  "data": {
+    "doi": "10.17605/OSF.IO/T8KNJ",
+    "n_records": 2792,
+    "n_records_included": 86
+  }
+}

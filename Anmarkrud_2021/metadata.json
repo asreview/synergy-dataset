@@ -1,0 +1,15 @@
+{
+  "key": "Anmarkrud_2021",
+  "collection": {
+    "doi": "10.1007/s10648-024-09862-5"
+  },
+  "publication": {
+    "doi": "10.1007/s10648-021-09640-7",
+    "eligibility_criteria": "To be eligible for the review, the studies had to fulfill the following inclusion criteria:\n\n1.\nThe studies should examine the comprehension or evaluation of written resources, either text alone or text in combination with other representations.\n\n2.\nThe studies should report empirical research (e.g., no reviews or theoretical papers were included).\n\n3.\nThe studies should include actual reading. Thus, studies such as survey studies in which participants were asked to rank the trustworthiness of different types of media outlets in general without reading texts from these outlets were not included.\n\n4.\nThe studies should include at least one individual difference variable and one measure of sourcing.\n\n5.\nThe studies should examine typically developed populations (e.g., no participants with learning disabilities).\n\n6.\nThe studies should have a quantitative design and report results through numerical data.\n\n7.\nThe studies should be published in English."
+  },
+  "data": {
+    "doi": "10.17605/OSF.IO/UYB7X",
+    "n_records": 2284,
+    "n_records_included": 64
+  }
+}

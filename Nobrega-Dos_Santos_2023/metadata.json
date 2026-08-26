@@ -1,0 +1,12 @@
+{
+  "key": "Nobrega-Dos_Santos_2023",
+  "publication": {
+    "doi": "10.1145/3613372.3613404",
+    "eligibility_criteria": "Inclusion Criteria. The inclusion criteria to select papers to be\nconsidered are (i) Studies written in English; (ii) Studies published\nwithin the field of computer science and engineering & software\nengineering; (iii) Studies focusing on ASD; (iv) Studies discussing\nTeamwork Quality or Team Effectiveness criteria; (v) Studies presenting\ninstruments to measure Teamwork Quality or Team Effectiveness\nor Team Climate.\nExclusion Criteria. We defined exclusion criteria as (i) Studies\nnot presenting a TWQ instrument used in ASD; (ii) Studies with\ninsufficient sample size or inadequate research methodology."
+  },
+  "data": {
+    "doi": "10.5281/zenodo.8153272",
+    "n_records": 982,
+    "n_records_included": 23
+  }
+}

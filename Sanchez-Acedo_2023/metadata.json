@@ -1,0 +1,12 @@
+{
+  "key": "Sanchez-Acedo_2023",
+  "publication": {
+    "doi": "10.3390/mti7100096",
+    "eligibility_criteria": "Given that the Publish or Perish software categorises the retrieved items according to their type, a decision was made to limit the research to articles and conference papers due to their relevance as a channel for broadcasting scientific knowledge. In addition, records whose title is not in English or Spanish were deleted. This was followed by an individual review of the retrieved items through assessing the abstract to determine whether or not they relate to the area under investigation."
+  },
+  "data": {
+    "doi": "10.5281/zenodo.7973865",
+    "n_records": 892,
+    "n_records_included": 56
+  }
+}

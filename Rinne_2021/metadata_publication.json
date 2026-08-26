@@ -1,0 +1,1290 @@
+{
+  "id": "https://openalex.org/W4200080206",
+  "doi": "https://doi.org/10.1016/j.healthplace.2021.102737",
+  "title": "Delineating the geographic context of physical activities: A systematic search and scoping review of the methodological approaches used in social ecological research over two decades",
+  "display_name": "Delineating the geographic context of physical activities: A systematic search and scoping review of the methodological approaches used in social ecological research over two decades",
+  "publication_year": 2021,
+  "publication_date": "2021-12-21",
+  "ids": {
+    "openalex": "https://openalex.org/W4200080206",
+    "doi": "https://doi.org/10.1016/j.healthplace.2021.102737",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/34952474"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1016/j.healthplace.2021.102737",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1016/j.healthplace.2021.102737",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S43487215",
+      "display_name": "Health & Place",
+      "issn_l": "1353-8292",
+      "issn": [
+        "1353-8292",
+        "1873-2054"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320990",
+      "host_organization_name": "Elsevier BV",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320990"
+      ],
+      "host_organization_lineage_names": [
+        "Elsevier BV"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Health &amp; Place",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "hybrid",
+    "oa_url": "https://doi.org/10.1016/j.healthplace.2021.102737",
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5005097880",
+        "display_name": "Tiina Rinne",
+        "orcid": "https://orcid.org/0000-0001-8680-2263"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4389424196",
+          "display_name": "Deleted Institution",
+          "ror": null,
+          "country_code": null,
+          "type": null,
+          "lineage": [
+            "https://openalex.org/I4389424196"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I9927081",
+          "display_name": "Aalto University",
+          "ror": "https://ror.org/020hwjq30",
+          "country_code": "FI",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I9927081"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210107997",
+          "display_name": "Finland University",
+          "ror": "https://ror.org/014rks409",
+          "country_code": "FI",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I4210107997"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210153522",
+          "display_name": "South Eastern Finland University of Applied Sciences",
+          "ror": "https://ror.org/051v6v138",
+          "country_code": "FI",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I4210153522"
+          ]
+        }
+      ],
+      "countries": [
+        "FI"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Tiina Rinne",
+      "raw_affiliation_strings": [
+        "Active Life Lab, South-Eastern Finland University of Applied Sciences, Mikkeli, Finland",
+        "Spatial Planning and Transportation Engineering Research Group, Department of Built Environment, School of Engineering, Aalto University, Finland"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Active Life Lab, South-Eastern Finland University of Applied Sciences, Mikkeli, Finland",
+          "institution_ids": [
+            "https://openalex.org/I4210107997",
+            "https://openalex.org/I4210153522",
+            "https://openalex.org/I4389424196"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Spatial Planning and Transportation Engineering Research Group, Department of Built Environment, School of Engineering, Aalto University, Finland",
+          "institution_ids": [
+            "https://openalex.org/I9927081"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5060872069",
+        "display_name": "Anna Kajosaari",
+        "orcid": "https://orcid.org/0000-0001-8165-6770"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I9927081",
+          "display_name": "Aalto University",
+          "ror": "https://ror.org/020hwjq30",
+          "country_code": "FI",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I9927081"
+          ]
+        }
+      ],
+      "countries": [
+        "FI"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Anna Kajosaari",
+      "raw_affiliation_strings": [
+        "Spatial Planning and Transportation Engineering Research Group, Department of Built Environment, School of Engineering, Aalto University, Finland"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Spatial Planning and Transportation Engineering Research Group, Department of Built Environment, School of Engineering, Aalto University, Finland",
+          "institution_ids": [
+            "https://openalex.org/I9927081"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5055943361",
+        "display_name": "Maria S\u00f6derholm",
+        "orcid": "https://orcid.org/0000-0002-7100-547X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I9927081",
+          "display_name": "Aalto University",
+          "ror": "https://ror.org/020hwjq30",
+          "country_code": "FI",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I9927081"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I2800424308",
+          "display_name": "Finnish Environment Institute",
+          "ror": "https://ror.org/013nat269",
+          "country_code": "FI",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I2800424308",
+            "https://openalex.org/I4210136438"
+          ]
+        }
+      ],
+      "countries": [
+        "FI"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Maria S\u00f6derholm",
+      "raw_affiliation_strings": [
+        "Finnish Environment Institute SYKE, Finland",
+        "Research and Innovation Services, Aalto University, Finland"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Finnish Environment Institute SYKE, Finland",
+          "institution_ids": [
+            "https://openalex.org/I2800424308"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Research and Innovation Services, Aalto University, Finland",
+          "institution_ids": [
+            "https://openalex.org/I9927081"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5087921217",
+        "display_name": "P\u00e4ivi Berg",
+        "orcid": "https://orcid.org/0000-0001-6563-5048"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4389424196",
+          "display_name": "Deleted Institution",
+          "ror": null,
+          "country_code": null,
+          "type": null,
+          "lineage": [
+            "https://openalex.org/I4389424196"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210107997",
+          "display_name": "Finland University",
+          "ror": "https://ror.org/014rks409",
+          "country_code": "FI",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I4210107997"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210153522",
+          "display_name": "South Eastern Finland University of Applied Sciences",
+          "ror": "https://ror.org/051v6v138",
+          "country_code": "FI",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I4210153522"
+          ]
+        }
+      ],
+      "countries": [
+        "FI"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "P\u00e4ivi Berg",
+      "raw_affiliation_strings": [
+        "Juvenia \u2013 Youth Research and Development Centre, South-Eastern Finland University of Applied Sciences, Finland"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Juvenia \u2013 Youth Research and Development Centre, South-Eastern Finland University of Applied Sciences, Finland",
+          "institution_ids": [
+            "https://openalex.org/I4210107997",
+            "https://openalex.org/I4210153522",
+            "https://openalex.org/I4389424196"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5084078363",
+        "display_name": "Arto J. Pesola",
+        "orcid": "https://orcid.org/0000-0002-2984-9847"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4389424196",
+          "display_name": "Deleted Institution",
+          "ror": null,
+          "country_code": null,
+          "type": null,
+          "lineage": [
+            "https://openalex.org/I4389424196"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210107997",
+          "display_name": "Finland University",
+          "ror": "https://ror.org/014rks409",
+          "country_code": "FI",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I4210107997"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210153522",
+          "display_name": "South Eastern Finland University of Applied Sciences",
+          "ror": "https://ror.org/051v6v138",
+          "country_code": "FI",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I4210153522"
+          ]
+        }
+      ],
+      "countries": [
+        "FI"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Arto J. Pesola",
+      "raw_affiliation_strings": [
+        "Active Life Lab, South-Eastern Finland University of Applied Sciences, Mikkeli, Finland"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Active Life Lab, South-Eastern Finland University of Applied Sciences, Mikkeli, Finland",
+          "institution_ids": [
+            "https://openalex.org/I4210107997",
+            "https://openalex.org/I4210153522",
+            "https://openalex.org/I4389424196"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5043489395",
+        "display_name": "Melody Smith",
+        "orcid": "https://orcid.org/0000-0002-0987-2564"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I154130895",
+          "display_name": "University of Auckland",
+          "ror": "https://ror.org/03b94tp07",
+          "country_code": "NZ",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I154130895"
+          ]
+        }
+      ],
+      "countries": [
+        "NZ"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Melody Smith",
+      "raw_affiliation_strings": [
+        "School of Nursing, The University of Auckland, New Zealand"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "School of Nursing, The University of Auckland, New Zealand",
+          "institution_ids": [
+            "https://openalex.org/I154130895"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5083182664",
+        "display_name": "Marketta Kytt\u00e4",
+        "orcid": "https://orcid.org/0000-0001-9969-8194"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I9927081",
+          "display_name": "Aalto University",
+          "ror": "https://ror.org/020hwjq30",
+          "country_code": "FI",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I9927081"
+          ]
+        }
+      ],
+      "countries": [
+        "FI"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Marketta Kytt\u00e4",
+      "raw_affiliation_strings": [
+        "Spatial Planning and Transportation Engineering Research Group, Department of Built Environment, School of Engineering, Aalto University, Finland"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Spatial Planning and Transportation Engineering Research Group, Department of Built Environment, School of Engineering, Aalto University, Finland",
+          "institution_ids": [
+            "https://openalex.org/I9927081"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 2,
+  "institutions_distinct_count": 7,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5005097880"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I4210107997",
+    "https://openalex.org/I4210153522",
+    "https://openalex.org/I4389424196",
+    "https://openalex.org/I9927081"
+  ],
+  "apc_list": {
+    "value": 3160,
+    "currency": "USD",
+    "value_usd": 3160
+  },
+  "apc_paid": {
+    "value": 3160,
+    "currency": "USD",
+    "value_usd": 3160
+  },
+  "fwci": 3.34011491,
+  "has_fulltext": false,
+  "cited_by_count": 15,
+  "citation_normalized_percentile": {
+    "value": 0.91399822,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 91,
+    "max": 99
+  },
+  "biblio": {
+    "volume": "73",
+    "issue": null,
+    "first_page": "102737",
+    "last_page": "102737"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10298",
+    "display_name": "Urban Transport and Accessibility",
+    "score": 0.9998999834060669,
+    "subfield": {
+      "id": "https://openalex.org/subfields/3313",
+      "display_name": "Transportation"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/33",
+      "display_name": "Social Sciences"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/2",
+      "display_name": "Social Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10298",
+      "display_name": "Urban Transport and Accessibility",
+      "score": 0.9998999834060669,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3313",
+        "display_name": "Transportation"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10235",
+      "display_name": "Health disparities and outcomes",
+      "score": 0.9968000054359436,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3306",
+        "display_name": "Health"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10692",
+      "display_name": "Urban Green Space and Health",
+      "score": 0.9947999715805054,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2307",
+        "display_name": "Health, Toxicology and Mutagenesis"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/context",
+      "display_name": "Context (archaeology)",
+      "score": 0.6539336442947388
+    },
+    {
+      "id": "https://openalex.org/keywords/spatial-contextual-awareness",
+      "display_name": "Spatial contextual awareness",
+      "score": 0.5530722737312317
+    },
+    {
+      "id": "https://openalex.org/keywords/social-environment",
+      "display_name": "Social environment",
+      "score": 0.5100851655006409
+    },
+    {
+      "id": "https://openalex.org/keywords/spatial-ecology",
+      "display_name": "Spatial ecology",
+      "score": 0.4503249228000641
+    },
+    {
+      "id": "https://openalex.org/keywords/conceptual-framework",
+      "display_name": "Conceptual framework",
+      "score": 0.4263029396533966
+    },
+    {
+      "id": "https://openalex.org/keywords/ecology",
+      "display_name": "Ecology",
+      "score": 0.387692391872406
+    },
+    {
+      "id": "https://openalex.org/keywords/psychology",
+      "display_name": "Psychology",
+      "score": 0.3756512403488159
+    },
+    {
+      "id": "https://openalex.org/keywords/data-science",
+      "display_name": "Data science",
+      "score": 0.3659821152687073
+    },
+    {
+      "id": "https://openalex.org/keywords/geography",
+      "display_name": "Geography",
+      "score": 0.3287951946258545
+    },
+    {
+      "id": "https://openalex.org/keywords/computer-science",
+      "display_name": "Computer science",
+      "score": 0.25251418352127075
+    },
+    {
+      "id": "https://openalex.org/keywords/sociology",
+      "display_name": "Sociology",
+      "score": 0.2078423798084259
+    },
+    {
+      "id": "https://openalex.org/keywords/social-science",
+      "display_name": "Social science",
+      "score": 0.1426253616809845
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C2779343474",
+      "wikidata": "https://www.wikidata.org/wiki/Q3109175",
+      "display_name": "Context (archaeology)",
+      "level": 2,
+      "score": 0.6539336442947388
+    },
+    {
+      "id": "https://openalex.org/C64754055",
+      "wikidata": "https://www.wikidata.org/wiki/Q7574053",
+      "display_name": "Spatial contextual awareness",
+      "level": 2,
+      "score": 0.5530722737312317
+    },
+    {
+      "id": "https://openalex.org/C110379092",
+      "wikidata": "https://www.wikidata.org/wiki/Q1571836",
+      "display_name": "Social environment",
+      "level": 2,
+      "score": 0.5100851655006409
+    },
+    {
+      "id": "https://openalex.org/C158709400",
+      "wikidata": "https://www.wikidata.org/wiki/Q3578586",
+      "display_name": "Spatial ecology",
+      "level": 2,
+      "score": 0.4503249228000641
+    },
+    {
+      "id": "https://openalex.org/C14224292",
+      "wikidata": "https://www.wikidata.org/wiki/Q13600188",
+      "display_name": "Conceptual framework",
+      "level": 2,
+      "score": 0.4263029396533966
+    },
+    {
+      "id": "https://openalex.org/C18903297",
+      "wikidata": "https://www.wikidata.org/wiki/Q7150",
+      "display_name": "Ecology",
+      "level": 1,
+      "score": 0.387692391872406
+    },
+    {
+      "id": "https://openalex.org/C15744967",
+      "wikidata": "https://www.wikidata.org/wiki/Q9418",
+      "display_name": "Psychology",
+      "level": 0,
+      "score": 0.3756512403488159
+    },
+    {
+      "id": "https://openalex.org/C2522767166",
+      "wikidata": "https://www.wikidata.org/wiki/Q2374463",
+      "display_name": "Data science",
+      "level": 1,
+      "score": 0.3659821152687073
+    },
+    {
+      "id": "https://openalex.org/C205649164",
+      "wikidata": "https://www.wikidata.org/wiki/Q1071",
+      "display_name": "Geography",
+      "level": 0,
+      "score": 0.3287951946258545
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.25251418352127075
+    },
+    {
+      "id": "https://openalex.org/C144024400",
+      "wikidata": "https://www.wikidata.org/wiki/Q21201",
+      "display_name": "Sociology",
+      "level": 0,
+      "score": 0.2078423798084259
+    },
+    {
+      "id": "https://openalex.org/C36289849",
+      "wikidata": "https://www.wikidata.org/wiki/Q34749",
+      "display_name": "Social science",
+      "level": 1,
+      "score": 0.1426253616809845
+    },
+    {
+      "id": "https://openalex.org/C62649853",
+      "wikidata": "https://www.wikidata.org/wiki/Q199687",
+      "display_name": "Remote sensing",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C166957645",
+      "wikidata": "https://www.wikidata.org/wiki/Q23498",
+      "display_name": "Archaeology",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C86803240",
+      "wikidata": "https://www.wikidata.org/wiki/Q420",
+      "display_name": "Biology",
+      "level": 0,
+      "score": 0.0
+    }
+  ],
+  "mesh": [
+    {
+      "descriptor_ui": "D004781",
+      "descriptor_name": "Environmental Exposure",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015444",
+      "descriptor_name": "Exercise",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D009043",
+      "descriptor_name": "Motor Activity",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D012107",
+      "descriptor_name": "Research Design",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D012931",
+      "descriptor_name": "Social Environment",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D004781",
+      "descriptor_name": "Environmental Exposure",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015444",
+      "descriptor_name": "Exercise",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D009043",
+      "descriptor_name": "Motor Activity",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D012107",
+      "descriptor_name": "Research Design",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D012931",
+      "descriptor_name": "Social Environment",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D004781",
+      "descriptor_name": "Environmental Exposure",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015444",
+      "descriptor_name": "Exercise",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D009043",
+      "descriptor_name": "Motor Activity",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D012107",
+      "descriptor_name": "Research Design",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D012931",
+      "descriptor_name": "Social Environment",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    }
+  ],
+  "locations_count": 5,
+  "locations": [
+    {
+      "id": "doi:10.1016/j.healthplace.2021.102737",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1016/j.healthplace.2021.102737",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S43487215",
+        "display_name": "Health & Place",
+        "issn_l": "1353-8292",
+        "issn": [
+          "1353-8292",
+          "1873-2054"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320990",
+        "host_organization_name": "Elsevier BV",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320990"
+        ],
+        "host_organization_lineage_names": [
+          "Elsevier BV"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Health &amp; Place",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:34952474",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/34952474",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Health & place",
+      "raw_type": null
+    },
+    {
+      "id": "pmh:oai:aaltodoc.aalto.fi:123456789/112183",
+      "is_oa": true,
+      "landing_page_url": "https://aaltodoc.aalto.fi/handle/123456789/112183",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401662",
+        "display_name": "Aaltodoc (Aalto University)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I9927081",
+        "host_organization_name": "Aalto University",
+        "host_organization_lineage": [
+          "https://openalex.org/I9927081"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "other-oa",
+      "license_id": "https://openalex.org/licenses/other-oa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": null,
+      "raw_type": "publishedVersion"
+    },
+    {
+      "id": "pmh:oai:helda.helsinki.fi:10138/342968",
+      "is_oa": true,
+      "landing_page_url": "http://hdl.handle.net/10138/342968",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401476",
+        "display_name": "Helda (University of Helsinki)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I133731052",
+        "host_organization_name": "University of Helsinki",
+        "host_organization_lineage": [
+          "https://openalex.org/I133731052"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "",
+      "raw_type": "A1 Journal article (refereed), original research"
+    },
+    {
+      "id": "pmh:oai:researchspace.auckland.ac.nz:2292/58135",
+      "is_oa": true,
+      "landing_page_url": "https://hdl.handle.net/2292/58135",
+      "pdf_url": null,
+      "source": null,
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "",
+      "raw_type": "Journal Article"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1016/j.healthplace.2021.102737",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1016/j.healthplace.2021.102737",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S43487215",
+      "display_name": "Health & Place",
+      "issn_l": "1353-8292",
+      "issn": [
+        "1353-8292",
+        "1873-2054"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320990",
+      "host_organization_name": "Elsevier BV",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320990"
+      ],
+      "host_organization_lineage_names": [
+        "Elsevier BV"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Health &amp; Place",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [
+    {
+      "id": "https://metadata.un.org/sdg/15",
+      "display_name": "Life in Land",
+      "score": 0.49000000953674316
+    }
+  ],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "grobid_xml": false,
+    "pdf": false
+  },
+  "referenced_works_count": 83,
+  "referenced_works": [
+    "https://openalex.org/W2153161693",
+    "https://openalex.org/W2161484264",
+    "https://openalex.org/W2097127159",
+    "https://openalex.org/W2084056691",
+    "https://openalex.org/W2099504029",
+    "https://openalex.org/W2797086257",
+    "https://openalex.org/W1971251942",
+    "https://openalex.org/W2058842580",
+    "https://openalex.org/W2216871131",
+    "https://openalex.org/W2102616252",
+    "https://openalex.org/W2020635533",
+    "https://openalex.org/W2134575888",
+    "https://openalex.org/W1992141573",
+    "https://openalex.org/W6663310671",
+    "https://openalex.org/W2463459518",
+    "https://openalex.org/W1986351906",
+    "https://openalex.org/W2582090204",
+    "https://openalex.org/W6676335114",
+    "https://openalex.org/W1971899231",
+    "https://openalex.org/W2522454246",
+    "https://openalex.org/W2043997125",
+    "https://openalex.org/W2154835470",
+    "https://openalex.org/W2320322222",
+    "https://openalex.org/W2079283960",
+    "https://openalex.org/W2180467669",
+    "https://openalex.org/W2608730805",
+    "https://openalex.org/W2782331255",
+    "https://openalex.org/W1835799443",
+    "https://openalex.org/W2604266219",
+    "https://openalex.org/W2755540633",
+    "https://openalex.org/W2993915329",
+    "https://openalex.org/W3085296672",
+    "https://openalex.org/W2144192203",
+    "https://openalex.org/W2784173176",
+    "https://openalex.org/W2512085160",
+    "https://openalex.org/W2109625501",
+    "https://openalex.org/W1930065643",
+    "https://openalex.org/W1987264627",
+    "https://openalex.org/W6751579480",
+    "https://openalex.org/W2883127076",
+    "https://openalex.org/W2405759093",
+    "https://openalex.org/W2124036912",
+    "https://openalex.org/W2790278718",
+    "https://openalex.org/W2729591172",
+    "https://openalex.org/W2526914871",
+    "https://openalex.org/W6745601034",
+    "https://openalex.org/W2416877099",
+    "https://openalex.org/W1984260361",
+    "https://openalex.org/W3105516123",
+    "https://openalex.org/W3082516348",
+    "https://openalex.org/W2063483028",
+    "https://openalex.org/W2116190278",
+    "https://openalex.org/W2110307757",
+    "https://openalex.org/W2032115036",
+    "https://openalex.org/W2118622180",
+    "https://openalex.org/W2005544339",
+    "https://openalex.org/W6680405035",
+    "https://openalex.org/W6639445507",
+    "https://openalex.org/W2323455124",
+    "https://openalex.org/W1985255458",
+    "https://openalex.org/W3110902723",
+    "https://openalex.org/W4236970490",
+    "https://openalex.org/W2179965972",
+    "https://openalex.org/W2155087692",
+    "https://openalex.org/W2017610308",
+    "https://openalex.org/W2526293339",
+    "https://openalex.org/W2075151400",
+    "https://openalex.org/W3130026954",
+    "https://openalex.org/W126711707",
+    "https://openalex.org/W2054757220",
+    "https://openalex.org/W2968607813",
+    "https://openalex.org/W2790389900",
+    "https://openalex.org/W2176590675",
+    "https://openalex.org/W2766378228",
+    "https://openalex.org/W222921392",
+    "https://openalex.org/W2802237915",
+    "https://openalex.org/W2090214829",
+    "https://openalex.org/W1536255406",
+    "https://openalex.org/W2136775986",
+    "https://openalex.org/W2108150600",
+    "https://openalex.org/W2051075549",
+    "https://openalex.org/W4234490618",
+    "https://openalex.org/W2936089245"
+  ],
+  "related_works": [
+    "https://openalex.org/W2119292515",
+    "https://openalex.org/W1840435691",
+    "https://openalex.org/W4388492000",
+    "https://openalex.org/W2034459540",
+    "https://openalex.org/W4223588693",
+    "https://openalex.org/W4226270098",
+    "https://openalex.org/W3081561710",
+    "https://openalex.org/W2023448063",
+    "https://openalex.org/W4386094962",
+    "https://openalex.org/W2100871161"
+  ],
+  "abstract_inverted_index": {
+    "Current": [
+      0
+    ],
+    "social": [
+      1
+    ],
+    "ecological": [
+      2
+    ],
+    "physical": [
+      3
+    ],
+    "activity": [
+      4
+    ],
+    "research": [
+      5
+    ],
+    "applies": [
+      6
+    ],
+    "simple": [
+      7
+    ],
+    "conceptualizations": [
+      8
+    ],
+    "and": [
+      9,
+      17,
+      55
+    ],
+    "methods": [
+      10
+    ],
+    "of": [
+      11,
+      33,
+      52
+    ],
+    "the": [
+      12,
+      31,
+      50
+    ],
+    "spatial": [
+      13,
+      34,
+      53
+    ],
+    "context.": [
+      14
+    ],
+    "While": [
+      15
+    ],
+    "conceptual": [
+      16
+    ],
+    "methodological": [
+      18
+    ],
+    "concerns": [
+      19
+    ],
+    "have": [
+      20
+    ],
+    "been": [
+      21,
+      28
+    ],
+    "repeatedly": [
+      22
+    ],
+    "expressed,": [
+      23
+    ],
+    "no": [
+      24
+    ],
+    "substantive": [
+      25
+    ],
+    "progress": [
+      26
+    ],
+    "has": [
+      27
+    ],
+    "made": [
+      29
+    ],
+    "in": [
+      30
+    ],
+    "use": [
+      32
+    ],
+    "approaches.": [
+      35
+    ],
+    "To": [
+      36
+    ],
+    "further": [
+      37
+    ],
+    "our": [
+      38
+    ],
+    "understanding": [
+      39
+    ],
+    "on": [
+      40,
+      43,
+      58
+    ],
+    "place": [
+      41
+    ],
+    "effects": [
+      42
+    ],
+    "health,": [
+      44
+    ],
+    "future": [
+      45
+    ],
+    "studies": [
+      46
+    ],
+    "should": [
+      47
+    ],
+    "carefully": [
+      48
+    ],
+    "consider": [
+      49
+    ],
+    "choice": [
+      51
+    ],
+    "approaches,": [
+      54
+    ],
+    "their": [
+      56
+    ],
+    "effect": [
+      57
+    ],
+    "study": [
+      59
+    ],
+    "results.": [
+      60
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 7
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 4
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 3
+    }
+  ],
+  "updated_date": "2025-11-06T03:46:38.306776",
+  "created_date": "2025-10-10T00:00:00"
+}

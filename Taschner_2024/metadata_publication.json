@@ -1,0 +1,1189 @@
+{
+  "id": "https://openalex.org/W4391316815",
+  "doi": "https://doi.org/10.3102/00346543231221499",
+  "title": "\u201cYes, I Can!\u201d A Systematic Review and Meta-Analysis of Intervention Studies Promoting Teacher Self-Efficacy",
+  "display_name": "\u201cYes, I Can!\u201d A Systematic Review and Meta-Analysis of Intervention Studies Promoting Teacher Self-Efficacy",
+  "publication_year": 2024,
+  "publication_date": "2024-01-29",
+  "ids": {
+    "openalex": "https://openalex.org/W4391316815",
+    "doi": "https://doi.org/10.3102/00346543231221499"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.3102/00346543231221499",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.3102/00346543231221499",
+    "pdf_url": "https://journals.sagepub.com/doi/pdf/10.3102/00346543231221499",
+    "source": {
+      "id": "https://openalex.org/S92895470",
+      "display_name": "Review of Educational Research",
+      "issn_l": "0034-6543",
+      "issn": [
+        "0034-6543",
+        "1935-1046"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320017",
+      "host_organization_name": "SAGE Publishing",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320017"
+      ],
+      "host_organization_lineage_names": [
+        "SAGE Publishing"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Review of Educational Research",
+    "raw_type": "journal-article"
+  },
+  "type": "review",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "hybrid",
+    "oa_url": "https://journals.sagepub.com/doi/pdf/10.3102/00346543231221499",
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5055923439",
+        "display_name": "Janina T\u00e4schner",
+        "orcid": "https://orcid.org/0000-0002-0221-493X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I62916508",
+          "display_name": "Technical University of Munich",
+          "ror": "https://ror.org/02kkvpp62",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I62916508"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Janina T\u00e4schner",
+      "raw_affiliation_strings": [
+        "Technical University of Munich and Centre for International Student Assessment"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Technical University of Munich and Centre for International Student Assessment",
+          "institution_ids": [
+            "https://openalex.org/I62916508"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5072201622",
+        "display_name": "Theresa Dicke",
+        "orcid": "https://orcid.org/0000-0001-8868-2242"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I86695891",
+          "display_name": "Australian Catholic University",
+          "ror": "https://ror.org/04cxm4j25",
+          "country_code": "AU",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I86695891"
+          ]
+        }
+      ],
+      "countries": [
+        "AU"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Theresa Dicke",
+      "raw_affiliation_strings": [
+        "Australian Catholic University"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Australian Catholic University",
+          "institution_ids": [
+            "https://openalex.org/I86695891"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5026197435",
+        "display_name": "Sarah Reinhold",
+        "orcid": "https://orcid.org/0000-0002-5972-3428"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Sarah Reinhold",
+      "raw_affiliation_strings": [],
+      "affiliations": []
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5090436351",
+        "display_name": "Doris Holzberger",
+        "orcid": "https://orcid.org/0000-0001-6535-289X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I62916508",
+          "display_name": "Technical University of Munich",
+          "ror": "https://ror.org/02kkvpp62",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I62916508"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Doris Holzberger",
+      "raw_affiliation_strings": [
+        "Technical University of Munich and Centre for International Student Assessment"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Technical University of Munich and Centre for International Student Assessment",
+          "institution_ids": [
+            "https://openalex.org/I62916508"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 2,
+  "institutions_distinct_count": 4,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5055923439"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I62916508"
+  ],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 103.22217266,
+  "has_fulltext": false,
+  "cited_by_count": 29,
+  "citation_normalized_percentile": {
+    "value": 0.99949559,
+    "is_in_top_1_percent": true,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 98,
+    "max": 100
+  },
+  "biblio": {
+    "volume": "95",
+    "issue": "1",
+    "first_page": "3",
+    "last_page": "52"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10008",
+    "display_name": "Teacher Education and Leadership Studies",
+    "score": 0.9879000186920166,
+    "subfield": {
+      "id": "https://openalex.org/subfields/3304",
+      "display_name": "Education"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/33",
+      "display_name": "Social Sciences"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/2",
+      "display_name": "Social Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10008",
+      "display_name": "Teacher Education and Leadership Studies",
+      "score": 0.9879000186920166,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3304",
+        "display_name": "Education"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11400",
+      "display_name": "Motivation and Self-Concept in Sports",
+      "score": 0.9803000092506409,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3207",
+        "display_name": "Social Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13131",
+      "display_name": "Collaborative Teaching and Inclusion",
+      "score": 0.9545999765396118,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3304",
+        "display_name": "Education"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/psychological-intervention",
+      "display_name": "Psychological intervention",
+      "score": 0.8175619840621948
+    },
+    {
+      "id": "https://openalex.org/keywords/moderation",
+      "display_name": "Moderation",
+      "score": 0.7951244711875916
+    },
+    {
+      "id": "https://openalex.org/keywords/self-efficacy",
+      "display_name": "Self-efficacy",
+      "score": 0.7023643851280212
+    },
+    {
+      "id": "https://openalex.org/keywords/meta-analysis",
+      "display_name": "Meta-analysis",
+      "score": 0.6916162967681885
+    },
+    {
+      "id": "https://openalex.org/keywords/psychology",
+      "display_name": "Psychology",
+      "score": 0.65910804271698
+    },
+    {
+      "id": "https://openalex.org/keywords/promotion",
+      "display_name": "Promotion (chess)",
+      "score": 0.5292949676513672
+    },
+    {
+      "id": "https://openalex.org/keywords/intervention",
+      "display_name": "Intervention (counseling)",
+      "score": 0.5201685428619385
+    },
+    {
+      "id": "https://openalex.org/keywords/applied-psychology",
+      "display_name": "Applied psychology",
+      "score": 0.35885733366012573
+    },
+    {
+      "id": "https://openalex.org/keywords/medical-education",
+      "display_name": "Medical education",
+      "score": 0.3550602197647095
+    },
+    {
+      "id": "https://openalex.org/keywords/social-psychology",
+      "display_name": "Social psychology",
+      "score": 0.30084607005119324
+    },
+    {
+      "id": "https://openalex.org/keywords/medicine",
+      "display_name": "Medicine",
+      "score": 0.22798842191696167
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C27415008",
+      "wikidata": "https://www.wikidata.org/wiki/Q7256382",
+      "display_name": "Psychological intervention",
+      "level": 2,
+      "score": 0.8175619840621948
+    },
+    {
+      "id": "https://openalex.org/C93225998",
+      "wikidata": "https://www.wikidata.org/wiki/Q1941972",
+      "display_name": "Moderation",
+      "level": 2,
+      "score": 0.7951244711875916
+    },
+    {
+      "id": "https://openalex.org/C110131835",
+      "wikidata": "https://www.wikidata.org/wiki/Q1153659",
+      "display_name": "Self-efficacy",
+      "level": 2,
+      "score": 0.7023643851280212
+    },
+    {
+      "id": "https://openalex.org/C95190672",
+      "wikidata": "https://www.wikidata.org/wiki/Q815382",
+      "display_name": "Meta-analysis",
+      "level": 2,
+      "score": 0.6916162967681885
+    },
+    {
+      "id": "https://openalex.org/C15744967",
+      "wikidata": "https://www.wikidata.org/wiki/Q9418",
+      "display_name": "Psychology",
+      "level": 0,
+      "score": 0.65910804271698
+    },
+    {
+      "id": "https://openalex.org/C98147612",
+      "wikidata": "https://www.wikidata.org/wiki/Q215599",
+      "display_name": "Promotion (chess)",
+      "level": 3,
+      "score": 0.5292949676513672
+    },
+    {
+      "id": "https://openalex.org/C2780665704",
+      "wikidata": "https://www.wikidata.org/wiki/Q959298",
+      "display_name": "Intervention (counseling)",
+      "level": 2,
+      "score": 0.5201685428619385
+    },
+    {
+      "id": "https://openalex.org/C75630572",
+      "wikidata": "https://www.wikidata.org/wiki/Q538904",
+      "display_name": "Applied psychology",
+      "level": 1,
+      "score": 0.35885733366012573
+    },
+    {
+      "id": "https://openalex.org/C509550671",
+      "wikidata": "https://www.wikidata.org/wiki/Q126945",
+      "display_name": "Medical education",
+      "level": 1,
+      "score": 0.3550602197647095
+    },
+    {
+      "id": "https://openalex.org/C77805123",
+      "wikidata": "https://www.wikidata.org/wiki/Q161272",
+      "display_name": "Social psychology",
+      "level": 1,
+      "score": 0.30084607005119324
+    },
+    {
+      "id": "https://openalex.org/C71924100",
+      "wikidata": "https://www.wikidata.org/wiki/Q11190",
+      "display_name": "Medicine",
+      "level": 0,
+      "score": 0.22798842191696167
+    },
+    {
+      "id": "https://openalex.org/C118552586",
+      "wikidata": "https://www.wikidata.org/wiki/Q7867",
+      "display_name": "Psychiatry",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C94625758",
+      "wikidata": "https://www.wikidata.org/wiki/Q7163",
+      "display_name": "Politics",
+      "level": 2,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C126322002",
+      "wikidata": "https://www.wikidata.org/wiki/Q11180",
+      "display_name": "Internal medicine",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C199539241",
+      "wikidata": "https://www.wikidata.org/wiki/Q7748",
+      "display_name": "Law",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C17744445",
+      "wikidata": "https://www.wikidata.org/wiki/Q36442",
+      "display_name": "Political science",
+      "level": 0,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 2,
+  "locations": [
+    {
+      "id": "doi:10.3102/00346543231221499",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.3102/00346543231221499",
+      "pdf_url": "https://journals.sagepub.com/doi/pdf/10.3102/00346543231221499",
+      "source": {
+        "id": "https://openalex.org/S92895470",
+        "display_name": "Review of Educational Research",
+        "issn_l": "0034-6543",
+        "issn": [
+          "0034-6543",
+          "1935-1046"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320017",
+        "host_organization_name": "SAGE Publishing",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320017"
+        ],
+        "host_organization_lineage_names": [
+          "SAGE Publishing"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Review of Educational Research",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmh:oai:mediatum.ub.tum.de:node/1745559",
+      "is_oa": false,
+      "landing_page_url": "https://mediatum.ub.tum.de/1745559",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306400453",
+        "display_name": "mediaTUM \u2013 the media and publications repository of the Technical University Munich (Technical University Munich)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I62916508",
+        "host_organization_name": "Technical University of Munich",
+        "host_organization_lineage": [
+          "https://openalex.org/I62916508"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": null,
+      "raw_type": "article"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.3102/00346543231221499",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.3102/00346543231221499",
+    "pdf_url": "https://journals.sagepub.com/doi/pdf/10.3102/00346543231221499",
+    "source": {
+      "id": "https://openalex.org/S92895470",
+      "display_name": "Review of Educational Research",
+      "issn_l": "0034-6543",
+      "issn": [
+        "0034-6543",
+        "1935-1046"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320017",
+      "host_organization_name": "SAGE Publishing",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320017"
+      ],
+      "host_organization_lineage_names": [
+        "SAGE Publishing"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Review of Educational Research",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [
+    {
+      "score": 0.7799999713897705,
+      "id": "https://metadata.un.org/sdg/4",
+      "display_name": "Quality Education"
+    }
+  ],
+  "awards": [
+    {
+      "id": "https://openalex.org/G1624706112",
+      "display_name": null,
+      "funder_award_id": "ZIB2022",
+      "funder_id": "https://openalex.org/F4320321114",
+      "funder_display_name": "Bundesministerium f\u00fcr Bildung und Forschung"
+    }
+  ],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320321114",
+      "display_name": "Bundesministerium f\u00fcr Bildung und Forschung",
+      "ror": "https://ror.org/04pz7b180"
+    }
+  ],
+  "has_content": {
+    "pdf": true,
+    "grobid_xml": false
+  },
+  "referenced_works_count": 175,
+  "referenced_works": [
+    "https://openalex.org/W3032278336",
+    "https://openalex.org/W2040587762",
+    "https://openalex.org/W2054003833",
+    "https://openalex.org/W3003387127",
+    "https://openalex.org/W2128024118",
+    "https://openalex.org/W3111254511",
+    "https://openalex.org/W2008121107",
+    "https://openalex.org/W2994512167",
+    "https://openalex.org/W4280649988",
+    "https://openalex.org/W2157762133",
+    "https://openalex.org/W1559580621",
+    "https://openalex.org/W3149183006",
+    "https://openalex.org/W3016809239",
+    "https://openalex.org/W3015223622",
+    "https://openalex.org/W2086885607",
+    "https://openalex.org/W2055583849",
+    "https://openalex.org/W2893300601",
+    "https://openalex.org/W2155182177",
+    "https://openalex.org/W4297918764",
+    "https://openalex.org/W3086762025",
+    "https://openalex.org/W2002631972",
+    "https://openalex.org/W2046318420",
+    "https://openalex.org/W3036738575",
+    "https://openalex.org/W2061057928",
+    "https://openalex.org/W2033992480",
+    "https://openalex.org/W2781957993",
+    "https://openalex.org/W2033925580",
+    "https://openalex.org/W2085029050",
+    "https://openalex.org/W3164296572",
+    "https://openalex.org/W2618495133",
+    "https://openalex.org/W3108790878",
+    "https://openalex.org/W2014987202",
+    "https://openalex.org/W2470242385",
+    "https://openalex.org/W2955684910",
+    "https://openalex.org/W2552605523",
+    "https://openalex.org/W3159899185",
+    "https://openalex.org/W2130210496",
+    "https://openalex.org/W1969407683",
+    "https://openalex.org/W2016622109",
+    "https://openalex.org/W2585151465",
+    "https://openalex.org/W2143738660",
+    "https://openalex.org/W2049102511",
+    "https://openalex.org/W2282519254",
+    "https://openalex.org/W2157823046",
+    "https://openalex.org/W3111535672",
+    "https://openalex.org/W2970287884",
+    "https://openalex.org/W2100405031",
+    "https://openalex.org/W1981604615",
+    "https://openalex.org/W2155617399",
+    "https://openalex.org/W1976286706",
+    "https://openalex.org/W2884228341",
+    "https://openalex.org/W3100937173",
+    "https://openalex.org/W2582503981",
+    "https://openalex.org/W3138345420",
+    "https://openalex.org/W2792073817",
+    "https://openalex.org/W2160053845",
+    "https://openalex.org/W2082864650",
+    "https://openalex.org/W2981077025",
+    "https://openalex.org/W2947120611",
+    "https://openalex.org/W2130521732",
+    "https://openalex.org/W4225409001",
+    "https://openalex.org/W2560140854",
+    "https://openalex.org/W2034534543",
+    "https://openalex.org/W2937932923",
+    "https://openalex.org/W2159996485",
+    "https://openalex.org/W2054035765",
+    "https://openalex.org/W2784357577",
+    "https://openalex.org/W2334890194",
+    "https://openalex.org/W2737165318",
+    "https://openalex.org/W2069488365",
+    "https://openalex.org/W2511012120",
+    "https://openalex.org/W2896730159",
+    "https://openalex.org/W2326799272",
+    "https://openalex.org/W2795442027",
+    "https://openalex.org/W2101492341",
+    "https://openalex.org/W2121777269",
+    "https://openalex.org/W2054262560",
+    "https://openalex.org/W1975139937",
+    "https://openalex.org/W2906109542",
+    "https://openalex.org/W3162641041",
+    "https://openalex.org/W2036786441",
+    "https://openalex.org/W2088537721",
+    "https://openalex.org/W2118115633",
+    "https://openalex.org/W1976418862",
+    "https://openalex.org/W2165378327",
+    "https://openalex.org/W3018610472",
+    "https://openalex.org/W2788534938",
+    "https://openalex.org/W122374328",
+    "https://openalex.org/W2587574827",
+    "https://openalex.org/W2231426472",
+    "https://openalex.org/W2973217180",
+    "https://openalex.org/W2473252980",
+    "https://openalex.org/W2028494376",
+    "https://openalex.org/W2603057638",
+    "https://openalex.org/W4317788092",
+    "https://openalex.org/W3159920374",
+    "https://openalex.org/W1989087771",
+    "https://openalex.org/W3208421331",
+    "https://openalex.org/W4385077659",
+    "https://openalex.org/W3162864521",
+    "https://openalex.org/W2467810350",
+    "https://openalex.org/W2076029586",
+    "https://openalex.org/W2025800548",
+    "https://openalex.org/W2059425312",
+    "https://openalex.org/W3184835146",
+    "https://openalex.org/W2030972967",
+    "https://openalex.org/W3144543375",
+    "https://openalex.org/W1987315998",
+    "https://openalex.org/W2016319795",
+    "https://openalex.org/W4315436856",
+    "https://openalex.org/W2117066789",
+    "https://openalex.org/W2259639121",
+    "https://openalex.org/W2534121703",
+    "https://openalex.org/W1656829432",
+    "https://openalex.org/W2976179866",
+    "https://openalex.org/W2154911384",
+    "https://openalex.org/W1966594888",
+    "https://openalex.org/W3184192543",
+    "https://openalex.org/W2955428576",
+    "https://openalex.org/W3182674075",
+    "https://openalex.org/W3087936928",
+    "https://openalex.org/W1985302499",
+    "https://openalex.org/W3113099319",
+    "https://openalex.org/W2043764105",
+    "https://openalex.org/W3017171867",
+    "https://openalex.org/W2954878954",
+    "https://openalex.org/W2787409754",
+    "https://openalex.org/W2793150782",
+    "https://openalex.org/W2566192733",
+    "https://openalex.org/W2155824242",
+    "https://openalex.org/W4239132272",
+    "https://openalex.org/W1977834472",
+    "https://openalex.org/W2760753255",
+    "https://openalex.org/W2885869279",
+    "https://openalex.org/W2165909838",
+    "https://openalex.org/W2124093390",
+    "https://openalex.org/W2131017537",
+    "https://openalex.org/W2983388890",
+    "https://openalex.org/W2136015137",
+    "https://openalex.org/W2000990871",
+    "https://openalex.org/W2730781133",
+    "https://openalex.org/W2038788837",
+    "https://openalex.org/W2291570477",
+    "https://openalex.org/W3027523811",
+    "https://openalex.org/W2567401608",
+    "https://openalex.org/W3023128393",
+    "https://openalex.org/W2276186231",
+    "https://openalex.org/W3000443343",
+    "https://openalex.org/W2167783698",
+    "https://openalex.org/W2150918430",
+    "https://openalex.org/W2014933116",
+    "https://openalex.org/W2160638994",
+    "https://openalex.org/W2515738175",
+    "https://openalex.org/W3047889165",
+    "https://openalex.org/W2139168999",
+    "https://openalex.org/W3080077803",
+    "https://openalex.org/W2104657845",
+    "https://openalex.org/W2884785154",
+    "https://openalex.org/W1979109923",
+    "https://openalex.org/W2888524687",
+    "https://openalex.org/W2955799023",
+    "https://openalex.org/W3023113496",
+    "https://openalex.org/W3006693993",
+    "https://openalex.org/W2996180006",
+    "https://openalex.org/W3002947507",
+    "https://openalex.org/W2099172548",
+    "https://openalex.org/W1968976511",
+    "https://openalex.org/W1991752649",
+    "https://openalex.org/W2979109621",
+    "https://openalex.org/W2257619836",
+    "https://openalex.org/W2995942858",
+    "https://openalex.org/W3211117741",
+    "https://openalex.org/W1580281138",
+    "https://openalex.org/W1562208008",
+    "https://openalex.org/W610018776"
+  ],
+  "related_works": [
+    "https://openalex.org/W2740268725",
+    "https://openalex.org/W3093710306",
+    "https://openalex.org/W750217911",
+    "https://openalex.org/W4206949499",
+    "https://openalex.org/W2296969234",
+    "https://openalex.org/W4226254121",
+    "https://openalex.org/W4388229525",
+    "https://openalex.org/W131533274",
+    "https://openalex.org/W4313163826",
+    "https://openalex.org/W1517021018"
+  ],
+  "abstract_inverted_index": {
+    "A": [
+      0,
+      80
+    ],
+    "high": [
+      1
+    ],
+    "level": [
+      2
+    ],
+    "of": [
+      3,
+      55,
+      86,
+      90
+    ],
+    "teacher": [
+      4,
+      31
+    ],
+    "self-efficacy": [
+      5,
+      57,
+      91
+    ],
+    "is": [
+      6
+    ],
+    "considered": [
+      7
+    ],
+    "to": [
+      8,
+      25,
+      93,
+      144
+    ],
+    "be": [
+      9
+    ],
+    "important": [
+      10
+    ],
+    "for": [
+      11,
+      121
+    ],
+    "a": [
+      12,
+      48
+    ],
+    "successful": [
+      13,
+      120
+    ],
+    "and": [
+      14,
+      24,
+      40,
+      77,
+      83,
+      156
+    ],
+    "healthy": [
+      15
+    ],
+    "teaching": [
+      16
+    ],
+    "career.": [
+      17
+    ],
+    "This": [
+      18
+    ],
+    "preregistered": [
+      19
+    ],
+    "meta-analysis": [
+      20
+    ],
+    "focuses": [
+      21
+    ],
+    "on": [
+      22,
+      52,
+      137
+    ],
+    "whether": [
+      23
+    ],
+    "what": [
+      26
+    ],
+    "degree": [
+      27
+    ],
+    "interventions": [
+      28,
+      100,
+      112,
+      143
+    ],
+    "can": [
+      29
+    ],
+    "promote": [
+      30
+    ],
+    "self-efficacy.": [
+      32
+    ],
+    "We": [
+      33
+    ],
+    "included": [
+      34
+    ],
+    "115": [
+      35
+    ],
+    "studies": [
+      36
+    ],
+    "representing": [
+      37
+    ],
+    "11,284": [
+      38
+    ],
+    "pre-service": [
+      39,
+      122
+    ],
+    "in-service": [
+      41,
+      78
+    ],
+    "teachers": [
+      42,
+      123
+    ],
+    "in": [
+      43
+    ],
+    "our": [
+      44
+    ],
+    "meta-analysis.": [
+      45
+    ],
+    "Interventions": [
+      46
+    ],
+    "had": [
+      47
+    ],
+    "significant,": [
+      49
+    ],
+    "positive": [
+      50
+    ],
+    "effect": [
+      51
+    ],
+    "the": [
+      53,
+      87,
+      118
+    ],
+    "promotion": [
+      54
+    ],
+    "teachers\u2019": [
+      56
+    ],
+    "(": [
+      58,
+      124
+    ],
+    "g": [
+      59,
+      125
+    ],
+    "=": [
+      60,
+      64,
+      68,
+      126,
+      130,
+      133
+    ],
+    "0.47,": [
+      61
+    ],
+    "RVE": [
+      62,
+      128
+    ],
+    "SE": [
+      63,
+      129
+    ],
+    "0.04,": [
+      65
+    ],
+    "95%": [
+      66
+    ],
+    "CI": [
+      67,
+      132
+    ],
+    "[0.40,": [
+      69
+    ],
+    "0.54])": [
+      70
+    ],
+    "with": [
+      71
+    ],
+    "no": [
+      72
+    ],
+    "significant": [
+      73
+    ],
+    "differences": [
+      74
+    ],
+    "between": [
+      75
+    ],
+    "pre-": [
+      76
+    ],
+    "teachers.": [
+      79
+    ],
+    "fine-grained": [
+      81
+    ],
+    "coding": [
+      82
+    ],
+    "systematic": [
+      84
+    ],
+    "review": [
+      85
+    ],
+    "targeted": [
+      88
+    ],
+    "sources": [
+      89
+    ],
+    "according": [
+      92
+    ],
+    "Bandura\u2019s": [
+      94
+    ],
+    "sociocognitive": [
+      95
+    ],
+    "theory": [
+      96
+    ],
+    "revealed": [
+      97
+    ],
+    "that": [
+      98
+    ],
+    "overall": [
+      99
+    ],
+    "including": [
+      101
+    ],
+    "mastery": [
+      102,
+      115
+    ],
+    "experiences": [
+      103,
+      116
+    ],
+    "did": [
+      104
+    ],
+    "not": [
+      105
+    ],
+    "significantly": [
+      106
+    ],
+    "differ": [
+      107
+    ],
+    "from": [
+      108
+    ],
+    "those": [
+      109
+    ],
+    "without.": [
+      110
+    ],
+    "However,": [
+      111
+    ],
+    "targeting": [
+      113
+    ],
+    "only": [
+      114
+    ],
+    "were": [
+      117
+    ],
+    "most": [
+      119
+    ],
+    "0.62,": [
+      127
+    ],
+    "0.11,": [
+      131
+    ],
+    "[0.35,": [
+      134
+    ],
+    "0.88]).": [
+      135
+    ],
+    "Based": [
+      136
+    ],
+    "further": [
+      138
+    ],
+    "moderator": [
+      139
+    ],
+    "analyses,": [
+      140
+    ],
+    "we": [
+      141
+    ],
+    "recommend": [
+      142
+    ],
+    "integrate": [
+      145
+    ],
+    "reflective": [
+      146
+    ],
+    "elements.": [
+      147
+    ],
+    "Finally,": [
+      148
+    ],
+    "future": [
+      149
+    ],
+    "research": [
+      150
+    ],
+    "should": [
+      151
+    ],
+    "apply": [
+      152
+    ],
+    "stricter": [
+      153
+    ],
+    "study": [
+      154
+    ],
+    "designs": [
+      155
+    ],
+    "more": [
+      157
+    ],
+    "detailed": [
+      158
+    ],
+    "intervention": [
+      159
+    ],
+    "descriptions.": [
+      160
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 22
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 7
+    }
+  ],
+  "updated_date": "2025-11-06T03:46:38.306776",
+  "created_date": "2025-10-10T00:00:00"
+}

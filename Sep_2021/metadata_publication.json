@@ -1,0 +1,1698 @@
+{
+  "id": "https://openalex.org/W3179168685",
+  "doi": "https://doi.org/10.1371/journal.pone.0249102",
+  "title": "The rodent object-in-context task: A systematic review and meta-analysis of important variables",
+  "display_name": "The rodent object-in-context task: A systematic review and meta-analysis of important variables",
+  "publication_year": 2021,
+  "publication_date": "2021-07-16",
+  "ids": {
+    "openalex": "https://openalex.org/W3179168685",
+    "doi": "https://doi.org/10.1371/journal.pone.0249102",
+    "mag": "3179168685",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/34270575"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1371/journal.pone.0249102",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1371/journal.pone.0249102",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S202381698",
+      "display_name": "PLoS ONE",
+      "issn_l": "1932-6203",
+      "issn": [
+        "1932-6203"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310315706",
+      "host_organization_name": "Public Library of Science",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310315706"
+      ],
+      "host_organization_lineage_names": [
+        "Public Library of Science"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "PLOS ONE",
+    "raw_type": "journal-article"
+  },
+  "type": "review",
+  "indexed_in": [
+    "crossref",
+    "doaj",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "gold",
+    "oa_url": "https://doi.org/10.1371/journal.pone.0249102",
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5011388488",
+        "display_name": "Milou S. C. Sep",
+        "orcid": "https://orcid.org/0000-0003-4715-7593"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210094335",
+          "display_name": "Ministry of Defence",
+          "ror": "https://ror.org/0079deh61",
+          "country_code": "NL",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I4210094335",
+            "https://openalex.org/I4210140876"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I3018483916",
+          "display_name": "University Medical Center Utrecht",
+          "ror": "https://ror.org/0575yy874",
+          "country_code": "NL",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I3018483916"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I193662353",
+          "display_name": "Utrecht University",
+          "ror": "https://ror.org/04pp8hn57",
+          "country_code": "NL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I193662353"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Milou S. C. Sep",
+      "raw_affiliation_strings": [
+        "Brain Research and Innovation Centre, Ministry of Defence, Utrecht, The Netherlands",
+        "Department of Translational Neuroscience, UMC Utrecht Brain Center, Utrecht University, Utrecht, The Netherlands"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Brain Research and Innovation Centre, Ministry of Defence, Utrecht, The Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I4210094335"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Translational Neuroscience, UMC Utrecht Brain Center, Utrecht University, Utrecht, The Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I193662353",
+            "https://openalex.org/I3018483916"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5062681609",
+        "display_name": "Marijn Vellinga",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I3018483916",
+          "display_name": "University Medical Center Utrecht",
+          "ror": "https://ror.org/0575yy874",
+          "country_code": "NL",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I3018483916"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I193662353",
+          "display_name": "Utrecht University",
+          "ror": "https://ror.org/04pp8hn57",
+          "country_code": "NL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I193662353"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Marijn Vellinga",
+      "raw_affiliation_strings": [
+        "Department of Translational Neuroscience, UMC Utrecht Brain Center, Utrecht University, Utrecht, The Netherlands"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Translational Neuroscience, UMC Utrecht Brain Center, Utrecht University, Utrecht, The Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I193662353",
+            "https://openalex.org/I3018483916"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5027760499",
+        "display_name": "R. Angela Sarabdjitsingh",
+        "orcid": "https://orcid.org/0000-0001-9561-3261"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I3018483916",
+          "display_name": "University Medical Center Utrecht",
+          "ror": "https://ror.org/0575yy874",
+          "country_code": "NL",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I3018483916"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I193662353",
+          "display_name": "Utrecht University",
+          "ror": "https://ror.org/04pp8hn57",
+          "country_code": "NL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I193662353"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "R. Angela Sarabdjitsingh",
+      "raw_affiliation_strings": [
+        "Department of Translational Neuroscience, UMC Utrecht Brain Center, Utrecht University, Utrecht, The Netherlands"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Translational Neuroscience, UMC Utrecht Brain Center, Utrecht University, Utrecht, The Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I193662353",
+            "https://openalex.org/I3018483916"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5069823044",
+        "display_name": "Marian Jo\u00ebls",
+        "orcid": "https://orcid.org/0000-0002-4826-6209"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I1334415907",
+          "display_name": "University Medical Center Groningen",
+          "ror": "https://ror.org/03cv38k47",
+          "country_code": "NL",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I1334415907"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I3018483916",
+          "display_name": "University Medical Center Utrecht",
+          "ror": "https://ror.org/0575yy874",
+          "country_code": "NL",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I3018483916"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I169381384",
+          "display_name": "University of Groningen",
+          "ror": "https://ror.org/012p63287",
+          "country_code": "NL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I169381384"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I193662353",
+          "display_name": "Utrecht University",
+          "ror": "https://ror.org/04pp8hn57",
+          "country_code": "NL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I193662353"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Marian Jo\u00ebls",
+      "raw_affiliation_strings": [
+        "Department of Translational Neuroscience, UMC Utrecht Brain Center, Utrecht University, Utrecht, The Netherlands",
+        "University of Groningen, University Medical Center Groningen, Groningen, The Netherlands"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "University of Groningen, University Medical Center Groningen, Groningen, The Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I1334415907",
+            "https://openalex.org/I169381384"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Translational Neuroscience, UMC Utrecht Brain Center, Utrecht University, Utrecht, The Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I193662353",
+            "https://openalex.org/I3018483916"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 4,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5027760499",
+    "https://openalex.org/A5062681609",
+    "https://openalex.org/A5011388488",
+    "https://openalex.org/A5069823044"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I1334415907",
+    "https://openalex.org/I169381384",
+    "https://openalex.org/I193662353",
+    "https://openalex.org/I3018483916",
+    "https://openalex.org/I4210094335"
+  ],
+  "apc_list": {
+    "value": 1805,
+    "currency": "USD",
+    "value_usd": 1805
+  },
+  "apc_paid": {
+    "value": 1805,
+    "currency": "USD",
+    "value_usd": 1805
+  },
+  "fwci": 1.47705861,
+  "has_fulltext": false,
+  "cited_by_count": 16,
+  "citation_normalized_percentile": {
+    "value": 0.79252023,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 89,
+    "max": 98
+  },
+  "biblio": {
+    "volume": "16",
+    "issue": "7",
+    "first_page": "e0249102",
+    "last_page": "e0249102"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10448",
+    "display_name": "Memory and Neural Mechanisms",
+    "score": 0.9979000091552734,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2805",
+      "display_name": "Cognitive Neuroscience"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/28",
+      "display_name": "Neuroscience"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/1",
+      "display_name": "Life Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10448",
+      "display_name": "Memory and Neural Mechanisms",
+      "score": 0.9979000091552734,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2805",
+        "display_name": "Cognitive Neuroscience"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/28",
+        "display_name": "Neuroscience"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10529",
+      "display_name": "Stress Responses and Cortisol",
+      "score": 0.9961000084877014,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2802",
+        "display_name": "Behavioral Neuroscience"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/28",
+        "display_name": "Neuroscience"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11541",
+      "display_name": "Neuroendocrine regulation and behavior",
+      "score": 0.9958999752998352,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3207",
+        "display_name": "Social Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/context",
+      "display_name": "Context (archaeology)",
+      "score": 0.7477487325668335
+    },
+    {
+      "id": "https://openalex.org/keywords/task",
+      "display_name": "Task (project management)",
+      "score": 0.6542096138000488
+    },
+    {
+      "id": "https://openalex.org/keywords/habituation",
+      "display_name": "Habituation",
+      "score": 0.5559350848197937
+    },
+    {
+      "id": "https://openalex.org/keywords/set",
+      "display_name": "Set (abstract data type)",
+      "score": 0.478948175907135
+    },
+    {
+      "id": "https://openalex.org/keywords/cognitive-psychology",
+      "display_name": "Cognitive psychology",
+      "score": 0.47156307101249695
+    },
+    {
+      "id": "https://openalex.org/keywords/computer-science",
+      "display_name": "Computer science",
+      "score": 0.45895156264305115
+    },
+    {
+      "id": "https://openalex.org/keywords/psychology",
+      "display_name": "Psychology",
+      "score": 0.3322340250015259
+    },
+    {
+      "id": "https://openalex.org/keywords/neuroscience",
+      "display_name": "Neuroscience",
+      "score": 0.19062760472297668
+    },
+    {
+      "id": "https://openalex.org/keywords/biology",
+      "display_name": "Biology",
+      "score": 0.17200011014938354
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C2779343474",
+      "wikidata": "https://www.wikidata.org/wiki/Q3109175",
+      "display_name": "Context (archaeology)",
+      "level": 2,
+      "score": 0.7477487325668335
+    },
+    {
+      "id": "https://openalex.org/C2780451532",
+      "wikidata": "https://www.wikidata.org/wiki/Q759676",
+      "display_name": "Task (project management)",
+      "level": 2,
+      "score": 0.6542096138000488
+    },
+    {
+      "id": "https://openalex.org/C50610925",
+      "wikidata": "https://www.wikidata.org/wiki/Q1136816",
+      "display_name": "Habituation",
+      "level": 2,
+      "score": 0.5559350848197937
+    },
+    {
+      "id": "https://openalex.org/C177264268",
+      "wikidata": "https://www.wikidata.org/wiki/Q1514741",
+      "display_name": "Set (abstract data type)",
+      "level": 2,
+      "score": 0.478948175907135
+    },
+    {
+      "id": "https://openalex.org/C180747234",
+      "wikidata": "https://www.wikidata.org/wiki/Q23373",
+      "display_name": "Cognitive psychology",
+      "level": 1,
+      "score": 0.47156307101249695
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.45895156264305115
+    },
+    {
+      "id": "https://openalex.org/C15744967",
+      "wikidata": "https://www.wikidata.org/wiki/Q9418",
+      "display_name": "Psychology",
+      "level": 0,
+      "score": 0.3322340250015259
+    },
+    {
+      "id": "https://openalex.org/C169760540",
+      "wikidata": "https://www.wikidata.org/wiki/Q207011",
+      "display_name": "Neuroscience",
+      "level": 1,
+      "score": 0.19062760472297668
+    },
+    {
+      "id": "https://openalex.org/C86803240",
+      "wikidata": "https://www.wikidata.org/wiki/Q420",
+      "display_name": "Biology",
+      "level": 0,
+      "score": 0.17200011014938354
+    },
+    {
+      "id": "https://openalex.org/C199360897",
+      "wikidata": "https://www.wikidata.org/wiki/Q9143",
+      "display_name": "Programming language",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C187736073",
+      "wikidata": "https://www.wikidata.org/wiki/Q2920921",
+      "display_name": "Management",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C162324750",
+      "wikidata": "https://www.wikidata.org/wiki/Q8134",
+      "display_name": "Economics",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C151730666",
+      "wikidata": "https://www.wikidata.org/wiki/Q7205",
+      "display_name": "Paleontology",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [
+    {
+      "descriptor_ui": "D000818",
+      "descriptor_name": "Animals",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008297",
+      "descriptor_name": "Male",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D051379",
+      "descriptor_name": "Mice",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D051381",
+      "descriptor_name": "Rats",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D001522",
+      "descriptor_name": "Behavior, Animal",
+      "qualifier_ui": "Q000502",
+      "qualifier_name": "physiology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006624",
+      "descriptor_name": "Hippocampus",
+      "qualifier_ui": "Q000502",
+      "qualifier_name": "physiology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D007858",
+      "descriptor_name": "Learning",
+      "qualifier_ui": "Q000502",
+      "qualifier_name": "physiology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008568",
+      "descriptor_name": "Memory",
+      "qualifier_ui": "Q000502",
+      "qualifier_name": "physiology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D012377",
+      "descriptor_name": "Rodentia",
+      "qualifier_ui": "Q000502",
+      "qualifier_name": "physiology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005260",
+      "descriptor_name": "Female",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000818",
+      "descriptor_name": "Animals",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008568",
+      "descriptor_name": "Memory",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D012377",
+      "descriptor_name": "Rodentia",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000818",
+      "descriptor_name": "Animals",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008297",
+      "descriptor_name": "Male",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D051379",
+      "descriptor_name": "Mice",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D051381",
+      "descriptor_name": "Rats",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D001522",
+      "descriptor_name": "Behavior, Animal",
+      "qualifier_ui": "Q000502",
+      "qualifier_name": "physiology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006624",
+      "descriptor_name": "Hippocampus",
+      "qualifier_ui": "Q000502",
+      "qualifier_name": "physiology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D007858",
+      "descriptor_name": "Learning",
+      "qualifier_ui": "Q000502",
+      "qualifier_name": "physiology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008568",
+      "descriptor_name": "Memory",
+      "qualifier_ui": "Q000502",
+      "qualifier_name": "physiology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D012377",
+      "descriptor_name": "Rodentia",
+      "qualifier_ui": "Q000502",
+      "qualifier_name": "physiology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005260",
+      "descriptor_name": "Female",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000818",
+      "descriptor_name": "Animals",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D051381",
+      "descriptor_name": "Rats",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008568",
+      "descriptor_name": "Memory",
+      "qualifier_ui": "Q000502",
+      "qualifier_name": "physiology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D051379",
+      "descriptor_name": "Mice",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D001522",
+      "descriptor_name": "Behavior, Animal",
+      "qualifier_ui": "Q000502",
+      "qualifier_name": "physiology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D007858",
+      "descriptor_name": "Learning",
+      "qualifier_ui": "Q000502",
+      "qualifier_name": "physiology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D012377",
+      "descriptor_name": "Rodentia",
+      "qualifier_ui": "Q000502",
+      "qualifier_name": "physiology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008297",
+      "descriptor_name": "Male",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006624",
+      "descriptor_name": "Hippocampus",
+      "qualifier_ui": "Q000502",
+      "qualifier_name": "physiology",
+      "is_major_topic": false
+    }
+  ],
+  "locations_count": 6,
+  "locations": [
+    {
+      "id": "doi:10.1371/journal.pone.0249102",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1371/journal.pone.0249102",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S202381698",
+        "display_name": "PLoS ONE",
+        "issn_l": "1932-6203",
+        "issn": [
+          "1932-6203"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310315706",
+        "host_organization_name": "Public Library of Science",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310315706"
+        ],
+        "host_organization_lineage_names": [
+          "Public Library of Science"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "PLOS ONE",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:34270575",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/34270575",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "PloS one",
+      "raw_type": null
+    },
+    {
+      "id": "pmh:oai:pure.rug.nl:openaire/bbb93333-c7ec-4c21-8d69-c9d89fc77c16",
+      "is_oa": true,
+      "landing_page_url": "https://research.rug.nl/en/publications/bbb93333-c7ec-4c21-8d69-c9d89fc77c16",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306400420",
+        "display_name": "University of Groningen research database (University of Groningen / Centre for Information Technology)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I169381384",
+        "host_organization_name": "University of Groningen",
+        "host_organization_lineage": [
+          "https://openalex.org/I169381384"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Sep, M S C, Vellinga, M, Sarabdjitsingh, R A & Joels, M 2021, 'The rodent object-in-context task : A systematic review and meta-analysis of important variables', PLoS ONE, vol. 16, no. 7, 0249102, pp. 1-19. https://doi.org/10.1371/journal.pone.0249102",
+      "raw_type": "info:eu-repo/semantics/publishedVersion"
+    },
+    {
+      "id": "pmh:oai:RePEc:plo:pone00:0249102",
+      "is_oa": false,
+      "landing_page_url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0249102",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401271",
+        "display_name": "RePEc: Research Papers in Economics",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I77793887",
+        "host_organization_name": "Federal Reserve Bank of St. Louis",
+        "host_organization_lineage": [
+          "https://openalex.org/I77793887"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": null,
+      "raw_type": "article"
+    },
+    {
+      "id": "pmh:oai:doaj.org/article:6fe255eaf9bc4a169b1d482cc8f65a51",
+      "is_oa": true,
+      "landing_page_url": "https://doaj.org/article/6fe255eaf9bc4a169b1d482cc8f65a51",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401280",
+        "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by-sa",
+      "license_id": "https://openalex.org/licenses/cc-by-sa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "PLoS ONE, Vol 16, Iss 7, p e0249102 (2021)",
+      "raw_type": "article"
+    },
+    {
+      "id": "pmh:oai:pubmedcentral.nih.gov:8284613",
+      "is_oa": true,
+      "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/8284613",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S2764455111",
+        "display_name": "PubMed Central",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "other-oa",
+      "license_id": "https://openalex.org/licenses/other-oa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "PLoS One",
+      "raw_type": "Text"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1371/journal.pone.0249102",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1371/journal.pone.0249102",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S202381698",
+      "display_name": "PLoS ONE",
+      "issn_l": "1932-6203",
+      "issn": [
+        "1932-6203"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310315706",
+      "host_organization_name": "Public Library of Science",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310315706"
+      ],
+      "host_organization_lineage_names": [
+        "Public Library of Science"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "PLOS ONE",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [
+    {
+      "display_name": "Life in Land",
+      "score": 0.6899999976158142,
+      "id": "https://metadata.un.org/sdg/15"
+    }
+  ],
+  "awards": [
+    {
+      "id": "https://openalex.org/G6102933824",
+      "display_name": null,
+      "funder_award_id": "114024150",
+      "funder_id": "https://openalex.org/F4320321007",
+      "funder_display_name": "ZonMw"
+    },
+    {
+      "id": "https://openalex.org/G6057899394",
+      "display_name": null,
+      "funder_award_id": "024.001.003",
+      "funder_id": "https://openalex.org/F4320321799",
+      "funder_display_name": "Ministerie van Onderwijs, Cultuur en Wetenschap"
+    },
+    {
+      "id": "https://openalex.org/G8601192252",
+      "display_name": null,
+      "funder_award_id": "022.003.003",
+      "funder_id": "https://openalex.org/F4320321800",
+      "funder_display_name": "Nederlandse Organisatie voor Wetenschappelijk Onderzoek"
+    }
+  ],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320321007",
+      "display_name": "ZonMw",
+      "ror": "https://ror.org/01yaj9a77"
+    },
+    {
+      "id": "https://openalex.org/F4320321799",
+      "display_name": "Ministerie van Onderwijs, Cultuur en Wetenschap",
+      "ror": "https://ror.org/02x3w5g21"
+    },
+    {
+      "id": "https://openalex.org/F4320321800",
+      "display_name": "Nederlandse Organisatie voor Wetenschappelijk Onderzoek",
+      "ror": "https://ror.org/04jsz6e67"
+    }
+  ],
+  "has_content": {
+    "pdf": false,
+    "grobid_xml": false
+  },
+  "referenced_works_count": 92,
+  "referenced_works": [
+    "https://openalex.org/W2151803046",
+    "https://openalex.org/W2140201388",
+    "https://openalex.org/W1966530137",
+    "https://openalex.org/W2106029369",
+    "https://openalex.org/W2551150145",
+    "https://openalex.org/W2120055641",
+    "https://openalex.org/W2045876531",
+    "https://openalex.org/W2954734300",
+    "https://openalex.org/W2773392223",
+    "https://openalex.org/W2913121704",
+    "https://openalex.org/W2097347024",
+    "https://openalex.org/W3048545550",
+    "https://openalex.org/W2950788294",
+    "https://openalex.org/W2010254880",
+    "https://openalex.org/W2111422277",
+    "https://openalex.org/W2922209022",
+    "https://openalex.org/W2144529104",
+    "https://openalex.org/W1991028076",
+    "https://openalex.org/W1966647730",
+    "https://openalex.org/W2983898801",
+    "https://openalex.org/W2112689297",
+    "https://openalex.org/W2739540400",
+    "https://openalex.org/W2790825149",
+    "https://openalex.org/W2072441360",
+    "https://openalex.org/W1983245960",
+    "https://openalex.org/W1918204060",
+    "https://openalex.org/W2118421727",
+    "https://openalex.org/W4294215472",
+    "https://openalex.org/W4236357753",
+    "https://openalex.org/W2003966687",
+    "https://openalex.org/W2058571677",
+    "https://openalex.org/W2910649779",
+    "https://openalex.org/W6869345919",
+    "https://openalex.org/W3005099635",
+    "https://openalex.org/W2139168999",
+    "https://openalex.org/W4254687493",
+    "https://openalex.org/W4297918764",
+    "https://openalex.org/W6678848921",
+    "https://openalex.org/W2033585778",
+    "https://openalex.org/W2157823046",
+    "https://openalex.org/W1964435302",
+    "https://openalex.org/W2104657845",
+    "https://openalex.org/W2564414379",
+    "https://openalex.org/W2567362164",
+    "https://openalex.org/W2087484885",
+    "https://openalex.org/W2737645448",
+    "https://openalex.org/W4296816736",
+    "https://openalex.org/W1975322262",
+    "https://openalex.org/W3022110985",
+    "https://openalex.org/W1975130349",
+    "https://openalex.org/W2042190008",
+    "https://openalex.org/W2955835094",
+    "https://openalex.org/W2164005910",
+    "https://openalex.org/W2024032885",
+    "https://openalex.org/W3132014097",
+    "https://openalex.org/W1527489789",
+    "https://openalex.org/W2040714251",
+    "https://openalex.org/W2089114548",
+    "https://openalex.org/W3108695295",
+    "https://openalex.org/W2778972726",
+    "https://openalex.org/W2951734157",
+    "https://openalex.org/W2586024662",
+    "https://openalex.org/W2899791724",
+    "https://openalex.org/W2943005242",
+    "https://openalex.org/W2863633805",
+    "https://openalex.org/W2117022355",
+    "https://openalex.org/W2015139811",
+    "https://openalex.org/W2892345931",
+    "https://openalex.org/W2074489301",
+    "https://openalex.org/W2710481185",
+    "https://openalex.org/W2044913415",
+    "https://openalex.org/W2974450979",
+    "https://openalex.org/W3035517615",
+    "https://openalex.org/W1587026990",
+    "https://openalex.org/W2777503165",
+    "https://openalex.org/W2582743722",
+    "https://openalex.org/W2991792334",
+    "https://openalex.org/W2125435699",
+    "https://openalex.org/W3137964480",
+    "https://openalex.org/W3088305510",
+    "https://openalex.org/W4241063988",
+    "https://openalex.org/W246286872",
+    "https://openalex.org/W2099748049",
+    "https://openalex.org/W4243188075",
+    "https://openalex.org/W71228264",
+    "https://openalex.org/W2154084810",
+    "https://openalex.org/W2049069390",
+    "https://openalex.org/W2156098321",
+    "https://openalex.org/W4399570526",
+    "https://openalex.org/W3047879827",
+    "https://openalex.org/W3088292207",
+    "https://openalex.org/W2006546769"
+  ],
+  "related_works": [
+    "https://openalex.org/W1974089501",
+    "https://openalex.org/W2611753819",
+    "https://openalex.org/W2088977183",
+    "https://openalex.org/W2132921858",
+    "https://openalex.org/W2052143611",
+    "https://openalex.org/W2018610517",
+    "https://openalex.org/W2147292125",
+    "https://openalex.org/W4386392971",
+    "https://openalex.org/W1987706094",
+    "https://openalex.org/W4211075255"
+  ],
+  "abstract_inverted_index": {
+    "Environmental": [
+      0
+    ],
+    "information": [
+      1
+    ],
+    "plays": [
+      2
+    ],
+    "an": [
+      3,
+      123
+    ],
+    "important": [
+      4
+    ],
+    "role": [
+      5
+    ],
+    "in": [
+      6,
+      133,
+      195,
+      217
+    ],
+    "remembering": [
+      7
+    ],
+    "events.": [
+      8
+    ],
+    "Information": [
+      9
+    ],
+    "about": [
+      10
+    ],
+    "stable": [
+      11
+    ],
+    "aspects": [
+      12
+    ],
+    "of": [
+      13,
+      56,
+      83,
+      98,
+      105,
+      126,
+      152,
+      201
+    ],
+    "the": [
+      14,
+      22,
+      27,
+      48,
+      52,
+      66,
+      89,
+      99,
+      103,
+      106,
+      127,
+      134,
+      150,
+      161,
+      164,
+      196,
+      202
+    ],
+    "environment": [
+      15
+    ],
+    "(here": [
+      16
+    ],
+    "referred": [
+      17
+    ],
+    "to": [
+      18,
+      191,
+      210
+    ],
+    "as": [
+      19,
+      32,
+      38,
+      156
+    ],
+    "\u2018context\u2019)": [
+      20
+    ],
+    "and": [
+      21,
+      30,
+      40,
+      54,
+      121,
+      130,
+      160,
+      184,
+      188,
+      199,
+      214
+    ],
+    "event": [
+      23
+    ],
+    "are": [
+      24
+    ],
+    "combined": [
+      25
+    ],
+    "by": [
+      26
+    ],
+    "hippocampal": [
+      28
+    ],
+    "system": [
+      29
+    ],
+    "stored": [
+      31
+    ],
+    "context-dependent": [
+      33,
+      42
+    ],
+    "memory.": [
+      34
+    ],
+    "In": [
+      35
+    ],
+    "rodents": [
+      36
+    ],
+    "(such": [
+      37
+    ],
+    "rats": [
+      39
+    ],
+    "mice),": [
+      41
+    ],
+    "memory": [
+      43,
+      189
+    ],
+    "is": [
+      44,
+      87,
+      94
+    ],
+    "often": [
+      45
+    ],
+    "investigated": [
+      46
+    ],
+    "with": [
+      47
+    ],
+    "object-in-context": [
+      49,
+      135,
+      203
+    ],
+    "task.": [
+      50,
+      107
+    ],
+    "However,": [
+      51
+    ],
+    "implementation": [
+      53
+    ],
+    "interpretation": [
+      55,
+      200
+    ],
+    "this": [
+      57,
+      153
+    ],
+    "task": [
+      58,
+      136,
+      204
+    ],
+    "varies": [
+      59
+    ],
+    "considerably": [
+      60
+    ],
+    "across": [
+      61
+    ],
+    "studies.": [
+      62
+    ],
+    "This": [
+      63,
+      207
+    ],
+    "variation": [
+      64
+    ],
+    "hampers": [
+      65
+    ],
+    "comparison": [
+      67
+    ],
+    "between": [
+      68,
+      163
+    ],
+    "studies": [
+      69
+    ],
+    "and\u2014for": [
+      70
+    ],
+    "those": [
+      71
+    ],
+    "who": [
+      72
+    ],
+    "design": [
+      73,
+      216
+    ],
+    "a": [
+      74,
+      115,
+      140,
+      211
+    ],
+    "new": [
+      75
+    ],
+    "experiment": [
+      76
+    ],
+    "or": [
+      77
+    ],
+    "carry": [
+      78
+    ],
+    "out": [
+      79,
+      114
+    ],
+    "pilot": [
+      80
+    ],
+    "experiments\u2013the": [
+      81
+    ],
+    "estimation": [
+      82
+    ],
+    "whether": [
+      84
+    ],
+    "observed": [
+      85
+    ],
+    "behavior": [
+      86
+    ],
+    "within": [
+      88
+    ],
+    "expected": [
+      90
+    ],
+    "range.": [
+      91
+    ],
+    "Also,": [
+      92
+    ],
+    "it": [
+      93
+    ],
+    "currently": [
+      95
+    ],
+    "unclear": [
+      96
+    ],
+    "which": [
+      97
+    ],
+    "variables": [
+      100
+    ],
+    "critically": [
+      101
+    ],
+    "influence": [
+      102
+    ],
+    "outcome": [
+      104,
+      151
+    ],
+    "To": [
+      108
+    ],
+    "address": [
+      109
+    ],
+    "these": [
+      110,
+      169
+    ],
+    "issues,": [
+      111
+    ],
+    "we": [
+      112,
+      144,
+      171
+    ],
+    "carried": [
+      113
+    ],
+    "preregistered": [
+      116
+    ],
+    "systematic": [
+      117
+    ],
+    "review": [
+      118
+    ],
+    "(PROSPERO": [
+      119
+    ],
+    "CRD42020191340)": [
+      120
+    ],
+    "provide": [
+      122,
+      172
+    ],
+    "up-to-date": [
+      124
+    ],
+    "overview": [
+      125
+    ],
+    "animal-,": [
+      128
+    ],
+    "task-,": [
+      129
+    ],
+    "protocol-related": [
+      131
+    ],
+    "variations": [
+      132
+    ],
+    "for": [
+      137,
+      205
+    ],
+    "rodents.": [
+      138,
+      206
+    ],
+    "Using": [
+      139
+    ],
+    "data-driven": [
+      141
+    ],
+    "explorative": [
+      142
+    ],
+    "meta-analysis": [
+      143
+    ],
+    "next": [
+      145
+    ],
+    "identified": [
+      146
+    ],
+    "critical": [
+      147
+    ],
+    "factors": [
+      148
+    ],
+    "influencing": [
+      149
+    ],
+    "task,": [
+      154
+    ],
+    "such": [
+      155
+    ],
+    "sex,": [
+      157,
+      175
+    ],
+    "testbox": [
+      158
+    ],
+    "size": [
+      159
+    ],
+    "delay": [
+      162
+    ],
+    "learning": [
+      165
+    ],
+    "trials.": [
+      166
+    ],
+    "Based": [
+      167
+    ],
+    "on": [
+      168,
+      174
+    ],
+    "observations": [
+      170
+    ],
+    "recommendations": [
+      173
+    ],
+    "strain,": [
+      176
+    ],
+    "prior": [
+      177
+    ],
+    "arousal,": [
+      178
+    ],
+    "context": [
+      179
+    ],
+    "(size,": [
+      180
+    ],
+    "walls,": [
+      181
+    ],
+    "shape,": [
+      182
+    ],
+    "etc.)": [
+      183
+    ],
+    "timing": [
+      185
+    ],
+    "(habituation,": [
+      186
+    ],
+    "learning,": [
+      187
+    ],
+    "phase)": [
+      190
+    ],
+    "create": [
+      192
+    ],
+    "more": [
+      193,
+      212
+    ],
+    "consensus": [
+      194
+    ],
+    "set-up,": [
+      197
+    ],
+    "procedure,": [
+      198
+    ],
+    "could": [
+      208
+    ],
+    "contribute": [
+      209
+    ],
+    "robust": [
+      213
+    ],
+    "evidence-based": [
+      215
+    ],
+    "future": [
+      218
+    ],
+    "animal": [
+      219
+    ],
+    "experiments.": [
+      220
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 5
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 4
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 3
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2021,
+      "cited_by_count": 3
+    }
+  ],
+  "updated_date": "2025-11-06T03:46:38.306776",
+  "created_date": "2025-10-10T00:00:00"
+}

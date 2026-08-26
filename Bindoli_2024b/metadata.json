@@ -1,0 +1,12 @@
+{
+  "key": "Bindoli_2024b",
+  "publication": {
+    "doi": "10.1136/ard-2024-225854",
+    "eligibility_criteria": "For treatment in Still's disease, the included population were patients with sJIA and AOSD. Interventions considered were: (1) GCs (prednisone, methylprednisolone and dexamethasone); (2) NSAIDs; (3) csDMARDs: MTX, CsA, leflunomide (LEF), azathioprine (AZA), sulfasalazine (SSZ) and hydroxychloroquine (HCQ); (4) bDMARDs: anakinra (ANK), canakinumab (CAM), rilonacept (RIL), tocilizumab (TCZ), sarilumab, siltuximab, etanercept (ETA), adalimumab (ADA), infliximab (IFX), secukinumab, ixekizumab, certolizumab pegol and golimumab; (5) targeted synthetic (ts) DMARDs: Janus-Kinases inhibitors (JAKi): ruxolitinib (RUX), tofacitinib (TOF), baricitinib (BAR), filgotinib and upadacitinib; (6) intravenous immunoglobulins (IVIGs); (7) colchicine; (8) thalidomide; (9) IL-18 binding protein (BP): tadekinig-alpha; (10) emapalumab; and (11) etoposide (VP-16). All doses, formulations, regimens (eg, on-demand or continuous), duration and any combination were evaluated. Comparators were defined as any other active drug or placebo. The outcomes of interest were all relevant safety information."
+  },
+  "data": {
+    "doi": "10.17605/OSF.IO/T8KNJ",
+    "n_records": 675,
+    "n_records_included": 12
+  }
+}

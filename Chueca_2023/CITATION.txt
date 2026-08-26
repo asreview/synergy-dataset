@@ -1,0 +1,1 @@
+Chueca, J., Verón, J., Font, J., Pérez, F., & Cetina, C. (2024). The consolidation of game software engineering: A systematic literature review of software engineering for industry-scale computer games. Information and Software Technology, 165, 107330. https://doi.org/10.1016/j.infsof.2023.107330

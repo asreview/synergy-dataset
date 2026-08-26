@@ -1,0 +1,1077 @@
+{
+  "id": "https://openalex.org/W7105636057",
+  "doi": "https://doi.org/10.31234/osf.io/zg3sw_v1",
+  "title": "Data from the IMPROVE Project: Labelling Decisions and Metadata from an Umbrella Review on Patient-Generated Health Data in Digital Health",
+  "display_name": "Data from the IMPROVE Project: Labelling Decisions and Metadata from an Umbrella Review on Patient-Generated Health Data in Digital Health",
+  "publication_year": 2025,
+  "publication_date": "2025-11-13",
+  "ids": {
+    "openalex": "https://openalex.org/W7105636057",
+    "doi": "https://doi.org/10.31234/osf.io/zg3sw_v1"
+  },
+  "language": null,
+  "primary_location": {
+    "id": "doi:10.31234/osf.io/zg3sw_v1",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.31234/osf.io/zg3sw_v1",
+    "pdf_url": null,
+    "source": null,
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "acceptedVersion",
+    "is_accepted": true,
+    "is_published": false,
+    "raw_source_name": null,
+    "raw_type": "posted-content"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "gold",
+    "oa_url": "https://doi.org/10.31234/osf.io/zg3sw_v1",
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5114980936",
+        "display_name": "Kianush Monschau",
+        "orcid": "https://orcid.org/0009-0007-3368-2457"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": true,
+      "raw_author_name": "Kianush Monschau",
+      "raw_affiliation_strings": [],
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5114980938",
+        "display_name": "Emily Westerbeek",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Emily Westerbeek",
+      "raw_affiliation_strings": [],
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A3023712829",
+        "display_name": "Qixiang Fang",
+        "orcid": "https://orcid.org/0000-0003-2689-6653"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Qixiang Fang",
+      "raw_affiliation_strings": [],
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A2600182820",
+        "display_name": "Jonas Bergmann",
+        "orcid": "https://orcid.org/0000-0001-8939-4779"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Jonas Bergmann",
+      "raw_affiliation_strings": [],
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A2345674063",
+        "display_name": "Giuseppe Fico",
+        "orcid": "https://orcid.org/0000-0003-1551-4613"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Giuseppe Fico",
+      "raw_affiliation_strings": [],
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A2304577420",
+        "display_name": "Manuel Ottaviano",
+        "orcid": "https://orcid.org/0000-0003-0002-4988"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Manuel Ottaviano",
+      "raw_affiliation_strings": [],
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A2401179979",
+        "display_name": "Liss Hern\u00e1ndez",
+        "orcid": "https://orcid.org/0000-0001-9805-7707"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Liss Hernandez",
+      "raw_affiliation_strings": [],
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A2098124179",
+        "display_name": "Hans Peeters",
+        "orcid": "https://orcid.org/0000-0001-5356-0114"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Hans Peeters",
+      "raw_affiliation_strings": [],
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": null,
+        "display_name": "Ernst Hermens",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Ernst Hermens",
+      "raw_affiliation_strings": [],
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A1999494493",
+        "display_name": "Davide Guerri",
+        "orcid": "https://orcid.org/0000-0003-2846-8695"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Davide Guerri",
+      "raw_affiliation_strings": [],
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A2007405982",
+        "display_name": "Frans Folkvord",
+        "orcid": "https://orcid.org/0000-0001-7602-3792"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Frans Folkvord",
+      "raw_affiliation_strings": [],
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A2102593024",
+        "display_name": "Linwei He",
+        "orcid": "https://orcid.org/0000-0002-2537-2244"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Linwei He",
+      "raw_affiliation_strings": [],
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A2302474652",
+        "display_name": "Aron Szpisjak",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "\u00c1ron Szpisj\u00e1k",
+      "raw_affiliation_strings": [],
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A2687702168",
+        "display_name": "Jordi Piera-Jim\u00e9nez",
+        "orcid": "https://orcid.org/0000-0001-6471-9979"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Jordi Piera-Jim\u00e9nez",
+      "raw_affiliation_strings": [],
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A2315120094",
+        "display_name": "Caridad Pontes Garc\u00eda",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Caridad Pontes Garc\u00eda",
+      "raw_affiliation_strings": [],
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5068872725",
+        "display_name": "Marina Ramiro\u2010Pareta",
+        "orcid": "https://orcid.org/0000-0002-9017-4981"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Marina Ramiro-Pareta",
+      "raw_affiliation_strings": [],
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A4294738492",
+        "display_name": "Alba Jimenez-Rueda",
+        "orcid": "https://orcid.org/0009-0008-2286-8384"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Alba Jimenez-Rueda",
+      "raw_affiliation_strings": [],
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A1600704021",
+        "display_name": "Janez Bernik",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Janez Bernik",
+      "raw_affiliation_strings": [],
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A2114080952",
+        "display_name": "Claudia Navarro",
+        "orcid": "https://orcid.org/0000-0001-6306-5424"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Claudia Navarro",
+      "raw_affiliation_strings": [],
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A2049773188",
+        "display_name": "Eva Turk",
+        "orcid": "https://orcid.org/0000-0001-6017-0624"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Eva Turk",
+      "raw_affiliation_strings": [],
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A2115769990",
+        "display_name": "Adri\u00e1n Quesada",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Adrian Quesada",
+      "raw_affiliation_strings": [],
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A2278202786",
+        "display_name": "Lutz Peschke",
+        "orcid": "https://orcid.org/0000-0002-9513-3257"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Lutz Peschke",
+      "raw_affiliation_strings": [],
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A2517141014",
+        "display_name": "Laura Pinna",
+        "orcid": "https://orcid.org/0000-0003-3538-4668"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Laura Pinna",
+      "raw_affiliation_strings": [],
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A3138619232",
+        "display_name": "Carmela Genovese",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Carmela Genovese",
+      "raw_affiliation_strings": [],
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A2002423336",
+        "display_name": "Franco Chiarugi",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Franco Chiarugi",
+      "raw_affiliation_strings": [],
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5104255540",
+        "display_name": "Laia Juan",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Laia Juan",
+      "raw_affiliation_strings": [],
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A2775813771",
+        "display_name": "Eva Podov\u0161ovnik",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Eva Podovsovnik",
+      "raw_affiliation_strings": [],
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A2487686682",
+        "display_name": "Kathrin Scheckenbach",
+        "orcid": "https://orcid.org/0000-0002-2899-4487"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Kathrin Scheckenbach",
+      "raw_affiliation_strings": [],
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A1803489200",
+        "display_name": "Martin Wagenmann",
+        "orcid": "https://orcid.org/0000-0002-9734-0241"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Martin Wagenmann",
+      "raw_affiliation_strings": [],
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A2116002169",
+        "display_name": "Martin Ernst",
+        "orcid": "https://orcid.org/0000-0001-9003-3823"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Martin Ernst",
+      "raw_affiliation_strings": [],
+      "affiliations": []
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A2188684945",
+        "display_name": "Rens van de Schoot",
+        "orcid": "https://orcid.org/0000-0001-7736-2091"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Rens van de Schoot",
+      "raw_affiliation_strings": [],
+      "affiliations": []
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 0,
+  "institutions_distinct_count": 31,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 0.0,
+  "has_fulltext": false,
+  "cited_by_count": 0,
+  "citation_normalized_percentile": {
+    "value": 0.7300953,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": null,
+  "biblio": {
+    "volume": null,
+    "issue": null,
+    "first_page": null,
+    "last_page": null
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T11636",
+    "display_name": "Artificial Intelligence in Healthcare and Education",
+    "score": 0.28637197613716125,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2718",
+      "display_name": "Health Informatics"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/27",
+      "display_name": "Medicine"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/4",
+      "display_name": "Health Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T11636",
+      "display_name": "Artificial Intelligence in Healthcare and Education",
+      "score": 0.28637197613716125,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2718",
+        "display_name": "Health Informatics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13702",
+      "display_name": "Machine Learning in Healthcare",
+      "score": 0.223952978849411,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1702",
+        "display_name": "Artificial Intelligence"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10350",
+      "display_name": "Electronic Health Records Systems",
+      "score": 0.13449659943580627,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3605",
+        "display_name": "Health Information Management"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/36",
+        "display_name": "Health Professions"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/metadata",
+      "display_name": "Metadata",
+      "score": 0.8873286843299866
+    },
+    {
+      "id": "https://openalex.org/keywords/digital-health",
+      "display_name": "Digital health",
+      "score": 0.6224439740180969
+    },
+    {
+      "id": "https://openalex.org/keywords/health-data",
+      "display_name": "Health data",
+      "score": 0.5518777966499329
+    },
+    {
+      "id": "https://openalex.org/keywords/inclusion",
+      "display_name": "Inclusion (mineral)",
+      "score": 0.4467605948448181
+    },
+    {
+      "id": "https://openalex.org/keywords/health-care",
+      "display_name": "Health care",
+      "score": 0.43671923875808716
+    },
+    {
+      "id": "https://openalex.org/keywords/digital-data",
+      "display_name": "Digital data",
+      "score": 0.34030693769454956
+    },
+    {
+      "id": "https://openalex.org/keywords/data-element",
+      "display_name": "Data element",
+      "score": 0.33034658432006836
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C93518851",
+      "wikidata": "https://www.wikidata.org/wiki/Q180160",
+      "display_name": "Metadata",
+      "level": 2,
+      "score": 0.8873286843299866
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.6295067071914673
+    },
+    {
+      "id": "https://openalex.org/C2780433410",
+      "wikidata": "https://www.wikidata.org/wiki/Q5276090",
+      "display_name": "Digital health",
+      "level": 3,
+      "score": 0.6224439740180969
+    },
+    {
+      "id": "https://openalex.org/C3017977704",
+      "wikidata": "https://www.wikidata.org/wiki/Q18745135",
+      "display_name": "Health data",
+      "level": 3,
+      "score": 0.5518777966499329
+    },
+    {
+      "id": "https://openalex.org/C2522767166",
+      "wikidata": "https://www.wikidata.org/wiki/Q2374463",
+      "display_name": "Data science",
+      "level": 1,
+      "score": 0.5517808794975281
+    },
+    {
+      "id": "https://openalex.org/C136764020",
+      "wikidata": "https://www.wikidata.org/wiki/Q466",
+      "display_name": "World Wide Web",
+      "level": 1,
+      "score": 0.49051037430763245
+    },
+    {
+      "id": "https://openalex.org/C109359841",
+      "wikidata": "https://www.wikidata.org/wiki/Q728944",
+      "display_name": "Inclusion (mineral)",
+      "level": 2,
+      "score": 0.4467605948448181
+    },
+    {
+      "id": "https://openalex.org/C160735492",
+      "wikidata": "https://www.wikidata.org/wiki/Q31207",
+      "display_name": "Health care",
+      "level": 2,
+      "score": 0.43671923875808716
+    },
+    {
+      "id": "https://openalex.org/C23123220",
+      "wikidata": "https://www.wikidata.org/wiki/Q816826",
+      "display_name": "Information retrieval",
+      "level": 1,
+      "score": 0.341215044260025
+    },
+    {
+      "id": "https://openalex.org/C2778864079",
+      "wikidata": "https://www.wikidata.org/wiki/Q173285",
+      "display_name": "Digital data",
+      "level": 3,
+      "score": 0.34030693769454956
+    },
+    {
+      "id": "https://openalex.org/C30872290",
+      "wikidata": "https://www.wikidata.org/wiki/Q1172389",
+      "display_name": "Data element",
+      "level": 3,
+      "score": 0.33034658432006836
+    },
+    {
+      "id": "https://openalex.org/C189708586",
+      "wikidata": "https://www.wikidata.org/wiki/Q1504425",
+      "display_name": "Systematic review",
+      "level": 3,
+      "score": 0.3060939311981201
+    },
+    {
+      "id": "https://openalex.org/C2780523633",
+      "wikidata": "https://www.wikidata.org/wiki/Q380709",
+      "display_name": "Labelling",
+      "level": 2,
+      "score": 0.3023976981639862
+    },
+    {
+      "id": "https://openalex.org/C2779530757",
+      "wikidata": "https://www.wikidata.org/wiki/Q1207505",
+      "display_name": "Quality (philosophy)",
+      "level": 2,
+      "score": 0.29575315117836
+    },
+    {
+      "id": "https://openalex.org/C124101348",
+      "wikidata": "https://www.wikidata.org/wiki/Q172491",
+      "display_name": "Data mining",
+      "level": 1,
+      "score": 0.2769739329814911
+    },
+    {
+      "id": "https://openalex.org/C2779473830",
+      "wikidata": "https://www.wikidata.org/wiki/Q1540899",
+      "display_name": "MEDLINE",
+      "level": 2,
+      "score": 0.27412161231040955
+    },
+    {
+      "id": "https://openalex.org/C56739046",
+      "wikidata": "https://www.wikidata.org/wiki/Q192060",
+      "display_name": "Knowledge management",
+      "level": 1,
+      "score": 0.27008986473083496
+    },
+    {
+      "id": "https://openalex.org/C24756922",
+      "wikidata": "https://www.wikidata.org/wiki/Q1757694",
+      "display_name": "Data quality",
+      "level": 3,
+      "score": 0.26411667466163635
+    },
+    {
+      "id": "https://openalex.org/C145642194",
+      "wikidata": "https://www.wikidata.org/wiki/Q870895",
+      "display_name": "Health informatics",
+      "level": 3,
+      "score": 0.2554468512535095
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "id": "doi:10.31234/osf.io/zg3sw_v1",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.31234/osf.io/zg3sw_v1",
+      "pdf_url": null,
+      "source": null,
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "acceptedVersion",
+      "is_accepted": true,
+      "is_published": false,
+      "raw_source_name": null,
+      "raw_type": "posted-content"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.31234/osf.io/zg3sw_v1",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.31234/osf.io/zg3sw_v1",
+    "pdf_url": null,
+    "source": null,
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "acceptedVersion",
+    "is_accepted": true,
+    "is_published": false,
+    "raw_source_name": null,
+    "raw_type": "posted-content"
+  },
+  "sustainable_development_goals": [],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "pdf": false,
+    "grobid_xml": false
+  },
+  "referenced_works_count": 0,
+  "referenced_works": [],
+  "related_works": [],
+  "abstract_inverted_index": {
+    "The": [
+      0,
+      87
+    ],
+    "EU-funded": [
+      1
+    ],
+    "IMPROVE": [
+      2,
+      41
+    ],
+    "project": [
+      3
+    ],
+    "seeks": [
+      4
+    ],
+    "to": [
+      5,
+      101
+    ],
+    "build": [
+      6
+    ],
+    "a": [
+      7,
+      27,
+      32
+    ],
+    "platform": [
+      8
+    ],
+    "that": [
+      9
+    ],
+    "enables": [
+      10
+    ],
+    "the": [
+      11,
+      40,
+      44,
+      65,
+      68,
+      103,
+      111
+    ],
+    "smart": [
+      12
+    ],
+    "use": [
+      13,
+      45,
+      107
+    ],
+    "of": [
+      14,
+      46,
+      50,
+      53,
+      70,
+      105,
+      113
+    ],
+    "patient-generated": [
+      15
+    ],
+    "health": [
+      16
+    ],
+    "data": [
+      17
+    ],
+    "(PGHD),": [
+      18
+    ],
+    "thereby": [
+      19
+    ],
+    "enhancing": [
+      20
+    ],
+    "digital": [
+      21
+    ],
+    "healthcare": [
+      22,
+      109
+    ],
+    "efficiency.": [
+      23
+    ],
+    "This": [
+      24
+    ],
+    "paper": [
+      25
+    ],
+    "introduces": [
+      26
+    ],
+    "dataset": [
+      28,
+      66,
+      88
+    ],
+    "directly": [
+      29
+    ],
+    "resulting": [
+      30
+    ],
+    "from": [
+      31
+    ],
+    "large-scale": [
+      33
+    ],
+    "systematic": [
+      34,
+      115
+    ],
+    "literature": [
+      35
+    ],
+    "search": [
+      36
+    ],
+    "carried": [
+      37
+    ],
+    "out": [
+      38
+    ],
+    "within": [
+      39
+    ],
+    "project,": [
+      42
+    ],
+    "concerning": [
+      43
+    ],
+    "PGHD": [
+      47,
+      106
+    ],
+    "in": [
+      48,
+      91,
+      108
+    ],
+    "treatments": [
+      49
+    ],
+    "five": [
+      51
+    ],
+    "categories": [
+      52
+    ],
+    "chronic": [
+      54,
+      58
+    ],
+    "diseases:": [
+      55
+    ],
+    "cardiovascular": [
+      56
+    ],
+    "disease,": [
+      57
+    ],
+    "inflammation,": [
+      59
+    ],
+    "neurology,": [
+      60
+    ],
+    "oncology,": [
+      61
+    ],
+    "and": [
+      62,
+      80,
+      94,
+      110
+    ],
+    "ophthalmology.": [
+      63
+    ],
+    "Specifically,": [
+      64
+    ],
+    "contains": [
+      67
+    ],
+    "metadata": [
+      69
+    ],
+    "12.473": [
+      71
+    ],
+    "studies": [
+      72
+    ],
+    "returned": [
+      73
+    ],
+    "by": [
+      74
+    ],
+    "databases,": [
+      75
+    ],
+    "such": [
+      76
+    ],
+    "as": [
+      77,
+      82,
+      84
+    ],
+    "title,": [
+      78
+    ],
+    "abstract": [
+      79
+    ],
+    "DOI,": [
+      81
+    ],
+    "well": [
+      83
+    ],
+    "inclusion": [
+      85
+    ],
+    "decisions.": [
+      86
+    ],
+    "is": [
+      89
+    ],
+    "stored": [
+      90
+    ],
+    "both": [
+      92
+    ],
+    "excel": [
+      93
+    ],
+    "csv": [
+      95
+    ],
+    "format.": [
+      96
+    ],
+    "It": [
+      97
+    ],
+    "can": [
+      98
+    ],
+    "be": [
+      99
+    ],
+    "used": [
+      100
+    ],
+    "aid": [
+      102
+    ],
+    "understanding": [
+      104
+    ],
+    "development": [
+      112
+    ],
+    "AI-assisted": [
+      114
+    ],
+    "review": [
+      116
+    ],
+    "tools.": [
+      117
+    ]
+  },
+  "counts_by_year": [],
+  "updated_date": "2025-11-14T23:14:49.485078",
+  "created_date": "2025-11-13T00:00:00"
+}

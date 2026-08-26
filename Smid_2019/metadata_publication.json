@@ -1,0 +1,1138 @@
+{
+  "id": "https://openalex.org/W2944958851",
+  "doi": "https://doi.org/10.1080/10705511.2019.1577140",
+  "title": "Bayesian Versus Frequentist Estimation for Structural Equation Models in Small Sample Contexts: A Systematic Review",
+  "display_name": "Bayesian Versus Frequentist Estimation for Structural Equation Models in Small Sample Contexts: A Systematic Review",
+  "publication_year": 2019,
+  "publication_date": "2019-05-21",
+  "ids": {
+    "openalex": "https://openalex.org/W2944958851",
+    "doi": "https://doi.org/10.1080/10705511.2019.1577140",
+    "mag": "2944958851"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1080/10705511.2019.1577140",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1080/10705511.2019.1577140",
+    "pdf_url": "https://www.tandfonline.com/doi/pdf/10.1080/10705511.2019.1577140?needAccess=true",
+    "source": {
+      "id": "https://openalex.org/S78020522",
+      "display_name": "Structural Equation Modeling A Multidisciplinary Journal",
+      "issn_l": "1070-5511",
+      "issn": [
+        "1070-5511",
+        "1532-8007"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320547",
+      "host_organization_name": "Taylor & Francis",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320547"
+      ],
+      "host_organization_lineage_names": [
+        "Taylor & Francis"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Structural Equation Modeling: A Multidisciplinary Journal",
+    "raw_type": "journal-article"
+  },
+  "type": "review",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "bronze",
+    "oa_url": "https://www.tandfonline.com/doi/pdf/10.1080/10705511.2019.1577140?needAccess=true",
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5067907918",
+        "display_name": "Sanne C. Smid",
+        "orcid": "https://orcid.org/0000-0001-6451-202X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I193662353",
+          "display_name": "Utrecht University",
+          "ror": "https://ror.org/04pp8hn57",
+          "country_code": "NL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I193662353"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Sanne C. Smid",
+      "raw_affiliation_strings": [
+        "Utrecht University"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Utrecht University",
+          "institution_ids": [
+            "https://openalex.org/I193662353"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5057205670",
+        "display_name": "Daniel McNeish",
+        "orcid": "https://orcid.org/0000-0003-1643-9408"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I55732556",
+          "display_name": "Arizona State University",
+          "ror": "https://ror.org/03efmqc40",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I55732556"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Daniel McNeish",
+      "raw_affiliation_strings": [
+        "Arizona State University"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Arizona State University",
+          "institution_ids": [
+            "https://openalex.org/I55732556"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5083587809",
+        "display_name": "Milica Mio\u010devi\u0107",
+        "orcid": "https://orcid.org/0000-0001-8487-3666"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I193662353",
+          "display_name": "Utrecht University",
+          "ror": "https://ror.org/04pp8hn57",
+          "country_code": "NL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I193662353"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Milica Mio\u010devi\u0107",
+      "raw_affiliation_strings": [
+        "Utrecht University"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Utrecht University",
+          "institution_ids": [
+            "https://openalex.org/I193662353"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5041799420",
+        "display_name": "Rens van de Schoot",
+        "orcid": "https://orcid.org/0000-0001-7736-2091"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I193662353",
+          "display_name": "Utrecht University",
+          "ror": "https://ror.org/04pp8hn57",
+          "country_code": "NL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I193662353"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I27765905",
+          "display_name": "North-West University",
+          "ror": "https://ror.org/010f1sq29",
+          "country_code": "ZA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I27765905"
+          ]
+        }
+      ],
+      "countries": [
+        "NL",
+        "ZA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Rens van de Schoot",
+      "raw_affiliation_strings": [
+        "North-West University",
+        "Utrecht University"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "North-West University",
+          "institution_ids": [
+            "https://openalex.org/I27765905"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Utrecht University",
+          "institution_ids": [
+            "https://openalex.org/I193662353"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 3,
+  "institutions_distinct_count": 4,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5067907918"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I193662353"
+  ],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 26.725,
+  "has_fulltext": false,
+  "cited_by_count": 247,
+  "citation_normalized_percentile": {
+    "value": 0.99695021,
+    "is_in_top_1_percent": true,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 96,
+    "max": 100
+  },
+  "biblio": {
+    "volume": "27",
+    "issue": "1",
+    "first_page": "131",
+    "last_page": "161"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10243",
+    "display_name": "Statistical Methods and Bayesian Inference",
+    "score": 0.9940000176429749,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2613",
+      "display_name": "Statistics and Probability"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/26",
+      "display_name": "Mathematics"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10243",
+      "display_name": "Statistical Methods and Bayesian Inference",
+      "score": 0.9940000176429749,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2613",
+        "display_name": "Statistics and Probability"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/26",
+        "display_name": "Mathematics"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10841",
+      "display_name": "Economic and Environmental Valuation",
+      "score": 0.987500011920929,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2002",
+        "display_name": "Economics and Econometrics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11918",
+      "display_name": "Forecasting Techniques and Applications",
+      "score": 0.9817000031471252,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1803",
+        "display_name": "Management Science and Operations Research"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/18",
+        "display_name": "Decision Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/frequentist-inference",
+      "display_name": "Frequentist inference",
+      "score": 0.9639458060264587
+    },
+    {
+      "id": "https://openalex.org/keywords/prior-probability",
+      "display_name": "Prior probability",
+      "score": 0.8804425001144409
+    },
+    {
+      "id": "https://openalex.org/keywords/bayesian-probability",
+      "display_name": "Bayesian probability",
+      "score": 0.7164425849914551
+    },
+    {
+      "id": "https://openalex.org/keywords/sample-size-determination",
+      "display_name": "Sample size determination",
+      "score": 0.5672507882118225
+    },
+    {
+      "id": "https://openalex.org/keywords/econometrics",
+      "display_name": "Econometrics",
+      "score": 0.565980076789856
+    },
+    {
+      "id": "https://openalex.org/keywords/small-area-estimation",
+      "display_name": "Small area estimation",
+      "score": 0.5346813201904297
+    },
+    {
+      "id": "https://openalex.org/keywords/estimation",
+      "display_name": "Estimation",
+      "score": 0.5196910500526428
+    },
+    {
+      "id": "https://openalex.org/keywords/bayes-factor",
+      "display_name": "Bayes factor",
+      "score": 0.5043812990188599
+    },
+    {
+      "id": "https://openalex.org/keywords/bayes-estimator",
+      "display_name": "Bayes estimator",
+      "score": 0.4967678189277649
+    },
+    {
+      "id": "https://openalex.org/keywords/sample",
+      "display_name": "Sample (material)",
+      "score": 0.4620020091533661
+    },
+    {
+      "id": "https://openalex.org/keywords/statistics",
+      "display_name": "Statistics",
+      "score": 0.4416031837463379
+    },
+    {
+      "id": "https://openalex.org/keywords/bayesian-statistics",
+      "display_name": "Bayesian statistics",
+      "score": 0.42492997646331787
+    },
+    {
+      "id": "https://openalex.org/keywords/bayesian-inference",
+      "display_name": "Bayesian inference",
+      "score": 0.3921242654323578
+    },
+    {
+      "id": "https://openalex.org/keywords/computer-science",
+      "display_name": "Computer science",
+      "score": 0.367121160030365
+    },
+    {
+      "id": "https://openalex.org/keywords/mathematics",
+      "display_name": "Mathematics",
+      "score": 0.33625102043151855
+    },
+    {
+      "id": "https://openalex.org/keywords/economics",
+      "display_name": "Economics",
+      "score": 0.14021891355514526
+    },
+    {
+      "id": "https://openalex.org/keywords/estimator",
+      "display_name": "Estimator",
+      "score": 0.07517629861831665
+    },
+    {
+      "id": "https://openalex.org/keywords/physics",
+      "display_name": "Physics",
+      "score": 0.05153504014015198
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C162376815",
+      "wikidata": "https://www.wikidata.org/wiki/Q2158281",
+      "display_name": "Frequentist inference",
+      "level": 4,
+      "score": 0.9639458060264587
+    },
+    {
+      "id": "https://openalex.org/C177769412",
+      "wikidata": "https://www.wikidata.org/wiki/Q278090",
+      "display_name": "Prior probability",
+      "level": 3,
+      "score": 0.8804425001144409
+    },
+    {
+      "id": "https://openalex.org/C107673813",
+      "wikidata": "https://www.wikidata.org/wiki/Q812534",
+      "display_name": "Bayesian probability",
+      "level": 2,
+      "score": 0.7164425849914551
+    },
+    {
+      "id": "https://openalex.org/C129848803",
+      "wikidata": "https://www.wikidata.org/wiki/Q2564360",
+      "display_name": "Sample size determination",
+      "level": 2,
+      "score": 0.5672507882118225
+    },
+    {
+      "id": "https://openalex.org/C149782125",
+      "wikidata": "https://www.wikidata.org/wiki/Q160039",
+      "display_name": "Econometrics",
+      "level": 1,
+      "score": 0.565980076789856
+    },
+    {
+      "id": "https://openalex.org/C129963666",
+      "wikidata": "https://www.wikidata.org/wiki/Q17105857",
+      "display_name": "Small area estimation",
+      "level": 3,
+      "score": 0.5346813201904297
+    },
+    {
+      "id": "https://openalex.org/C96250715",
+      "wikidata": "https://www.wikidata.org/wiki/Q965330",
+      "display_name": "Estimation",
+      "level": 2,
+      "score": 0.5196910500526428
+    },
+    {
+      "id": "https://openalex.org/C142291917",
+      "wikidata": "https://www.wikidata.org/wiki/Q4165283",
+      "display_name": "Bayes factor",
+      "level": 4,
+      "score": 0.5043812990188599
+    },
+    {
+      "id": "https://openalex.org/C68022304",
+      "wikidata": "https://www.wikidata.org/wiki/Q842217",
+      "display_name": "Bayes estimator",
+      "level": 3,
+      "score": 0.4967678189277649
+    },
+    {
+      "id": "https://openalex.org/C198531522",
+      "wikidata": "https://www.wikidata.org/wiki/Q485146",
+      "display_name": "Sample (material)",
+      "level": 2,
+      "score": 0.4620020091533661
+    },
+    {
+      "id": "https://openalex.org/C105795698",
+      "wikidata": "https://www.wikidata.org/wiki/Q12483",
+      "display_name": "Statistics",
+      "level": 1,
+      "score": 0.4416031837463379
+    },
+    {
+      "id": "https://openalex.org/C101112237",
+      "wikidata": "https://www.wikidata.org/wiki/Q4874481",
+      "display_name": "Bayesian statistics",
+      "level": 4,
+      "score": 0.42492997646331787
+    },
+    {
+      "id": "https://openalex.org/C160234255",
+      "wikidata": "https://www.wikidata.org/wiki/Q812535",
+      "display_name": "Bayesian inference",
+      "level": 3,
+      "score": 0.3921242654323578
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.367121160030365
+    },
+    {
+      "id": "https://openalex.org/C33923547",
+      "wikidata": "https://www.wikidata.org/wiki/Q395",
+      "display_name": "Mathematics",
+      "level": 0,
+      "score": 0.33625102043151855
+    },
+    {
+      "id": "https://openalex.org/C162324750",
+      "wikidata": "https://www.wikidata.org/wiki/Q8134",
+      "display_name": "Economics",
+      "level": 0,
+      "score": 0.14021891355514526
+    },
+    {
+      "id": "https://openalex.org/C185429906",
+      "wikidata": "https://www.wikidata.org/wiki/Q1130160",
+      "display_name": "Estimator",
+      "level": 2,
+      "score": 0.07517629861831665
+    },
+    {
+      "id": "https://openalex.org/C121332964",
+      "wikidata": "https://www.wikidata.org/wiki/Q413",
+      "display_name": "Physics",
+      "level": 0,
+      "score": 0.05153504014015198
+    },
+    {
+      "id": "https://openalex.org/C187736073",
+      "wikidata": "https://www.wikidata.org/wiki/Q2920921",
+      "display_name": "Management",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C97355855",
+      "wikidata": "https://www.wikidata.org/wiki/Q11473",
+      "display_name": "Thermodynamics",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 2,
+  "locations": [
+    {
+      "id": "doi:10.1080/10705511.2019.1577140",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1080/10705511.2019.1577140",
+      "pdf_url": "https://www.tandfonline.com/doi/pdf/10.1080/10705511.2019.1577140?needAccess=true",
+      "source": {
+        "id": "https://openalex.org/S78020522",
+        "display_name": "Structural Equation Modeling A Multidisciplinary Journal",
+        "issn_l": "1070-5511",
+        "issn": [
+          "1070-5511",
+          "1532-8007"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320547",
+        "host_organization_name": "Taylor & Francis",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320547"
+        ],
+        "host_organization_lineage_names": [
+          "Taylor & Francis"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Structural Equation Modeling: A Multidisciplinary Journal",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmh:uu:oai:dspace.library.uu.nl:1874/389632",
+      "is_oa": true,
+      "landing_page_url": "https://dspace.library.uu.nl/handle/1874/389632",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401843",
+        "display_name": "Data Archiving and Networked Services (DANS)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1322597698",
+        "host_organization_name": "Royal Netherlands Academy of Arts and Sciences",
+        "host_organization_lineage": [
+          "https://openalex.org/I1322597698"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "other-oa",
+      "license_id": "https://openalex.org/licenses/other-oa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Structural Equation Modeling, 27(1), 131. Psychology Press Ltd",
+      "raw_type": "info:eu-repo/semantics/article"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1080/10705511.2019.1577140",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1080/10705511.2019.1577140",
+    "pdf_url": "https://www.tandfonline.com/doi/pdf/10.1080/10705511.2019.1577140?needAccess=true",
+    "source": {
+      "id": "https://openalex.org/S78020522",
+      "display_name": "Structural Equation Modeling A Multidisciplinary Journal",
+      "issn_l": "1070-5511",
+      "issn": [
+        "1070-5511",
+        "1532-8007"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320547",
+      "host_organization_name": "Taylor & Francis",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320547"
+      ],
+      "host_organization_lineage_names": [
+        "Taylor & Francis"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Structural Equation Modeling: A Multidisciplinary Journal",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "pdf": true,
+    "grobid_xml": true
+  },
+  "referenced_works_count": 88,
+  "referenced_works": [
+    "https://openalex.org/W2332504389",
+    "https://openalex.org/W2159532703",
+    "https://openalex.org/W1987445317",
+    "https://openalex.org/W2102890221",
+    "https://openalex.org/W2146336951",
+    "https://openalex.org/W69468016",
+    "https://openalex.org/W4240033369",
+    "https://openalex.org/W1984862890",
+    "https://openalex.org/W2153281140",
+    "https://openalex.org/W2101418526",
+    "https://openalex.org/W1984077870",
+    "https://openalex.org/W2781372821",
+    "https://openalex.org/W4256481380",
+    "https://openalex.org/W2138430982",
+    "https://openalex.org/W1971638368",
+    "https://openalex.org/W1964072811",
+    "https://openalex.org/W1995391475",
+    "https://openalex.org/W2041757971",
+    "https://openalex.org/W2409860581",
+    "https://openalex.org/W2176755990",
+    "https://openalex.org/W2029687411",
+    "https://openalex.org/W1536497620",
+    "https://openalex.org/W4248681815",
+    "https://openalex.org/W2623838260",
+    "https://openalex.org/W2511384229",
+    "https://openalex.org/W2031595395",
+    "https://openalex.org/W2106343834",
+    "https://openalex.org/W2114783003",
+    "https://openalex.org/W2006681603",
+    "https://openalex.org/W217127105",
+    "https://openalex.org/W1981747359",
+    "https://openalex.org/W2029761052",
+    "https://openalex.org/W2738655609",
+    "https://openalex.org/W2027023877",
+    "https://openalex.org/W2316175917",
+    "https://openalex.org/W4231324690",
+    "https://openalex.org/W1999291824",
+    "https://openalex.org/W1964171213",
+    "https://openalex.org/W3022903699",
+    "https://openalex.org/W628329697",
+    "https://openalex.org/W2293738871",
+    "https://openalex.org/W2428070046",
+    "https://openalex.org/W2734608070",
+    "https://openalex.org/W2413419749",
+    "https://openalex.org/W2177847511",
+    "https://openalex.org/W2609159880",
+    "https://openalex.org/W4294215472",
+    "https://openalex.org/W2157335584",
+    "https://openalex.org/W1987411318",
+    "https://openalex.org/W2184900176",
+    "https://openalex.org/W2150847344",
+    "https://openalex.org/W1999076954",
+    "https://openalex.org/W2606464018",
+    "https://openalex.org/W2079101498",
+    "https://openalex.org/W2098630919",
+    "https://openalex.org/W4241629678",
+    "https://openalex.org/W2045783214",
+    "https://openalex.org/W2041373569",
+    "https://openalex.org/W2766109474",
+    "https://openalex.org/W2783658081",
+    "https://openalex.org/W2622091505",
+    "https://openalex.org/W2755730676",
+    "https://openalex.org/W2157736211",
+    "https://openalex.org/W4254687493",
+    "https://openalex.org/W1783584949",
+    "https://openalex.org/W2008992734",
+    "https://openalex.org/W2904739430",
+    "https://openalex.org/W2767026009",
+    "https://openalex.org/W216263296",
+    "https://openalex.org/W402407836",
+    "https://openalex.org/W1640894779",
+    "https://openalex.org/W3121762057",
+    "https://openalex.org/W2798834757",
+    "https://openalex.org/W1587026990",
+    "https://openalex.org/W2002988596",
+    "https://openalex.org/W2157151897",
+    "https://openalex.org/W2525726046",
+    "https://openalex.org/W2065637266",
+    "https://openalex.org/W3215598180",
+    "https://openalex.org/W2156098321",
+    "https://openalex.org/W1665332082",
+    "https://openalex.org/W2594806022",
+    "https://openalex.org/W2991792334",
+    "https://openalex.org/W2118338381",
+    "https://openalex.org/W3104856769",
+    "https://openalex.org/W2302202015",
+    "https://openalex.org/W3104819369",
+    "https://openalex.org/W2045656233"
+  ],
+  "related_works": [
+    "https://openalex.org/W4297513322",
+    "https://openalex.org/W4287210717",
+    "https://openalex.org/W2991615686",
+    "https://openalex.org/W3153031932",
+    "https://openalex.org/W4294769481",
+    "https://openalex.org/W4221107656",
+    "https://openalex.org/W3138532537",
+    "https://openalex.org/W4288711847",
+    "https://openalex.org/W4246747460",
+    "https://openalex.org/W4313651780"
+  ],
+  "abstract_inverted_index": {
+    "In": [
+      0
+    ],
+    "small": [
+      1,
+      52,
+      59
+    ],
+    "sample": [
+      2,
+      53
+    ],
+    "contexts,": [
+      3
+    ],
+    "Bayesian": [
+      4,
+      43,
+      64,
+      105
+    ],
+    "estimation": [
+      5,
+      46,
+      65,
+      106
+    ],
+    "is": [
+      6,
+      25
+    ],
+    "often": [
+      7,
+      80
+    ],
+    "suggested": [
+      8
+    ],
+    "as": [
+      9,
+      17
+    ],
+    "a": [
+      10
+    ],
+    "viable": [
+      11
+    ],
+    "alternative": [
+      12
+    ],
+    "to": [
+      13,
+      35,
+      114,
+      129
+    ],
+    "frequentist": [
+      14,
+      45,
+      85
+    ],
+    "estimation,": [
+      15
+    ],
+    "such": [
+      16
+    ],
+    "maximum": [
+      18
+    ],
+    "likelihood": [
+      19
+    ],
+    "estimation.": [
+      20
+    ],
+    "Our": [
+      21
+    ],
+    "systematic": [
+      22
+    ],
+    "literature": [
+      23
+    ],
+    "review": [
+      24
+    ],
+    "the": [
+      26,
+      40,
+      61
+    ],
+    "first": [
+      27
+    ],
+    "study": [
+      28
+    ],
+    "aggregating": [
+      29
+    ],
+    "information": [
+      30
+    ],
+    "from": [
+      31
+    ],
+    "numerous": [
+      32
+    ],
+    "simulation": [
+      33
+    ],
+    "studies": [
+      34
+    ],
+    "present": [
+      36
+    ],
+    "an": [
+      37
+    ],
+    "overview": [
+      38
+    ],
+    "of": [
+      39,
+      42,
+      63,
+      77
+    ],
+    "performance": [
+      41
+    ],
+    "and": [
+      44,
+      111
+    ],
+    "for": [
+      47
+    ],
+    "structural": [
+      48
+    ],
+    "equation": [
+      49
+    ],
+    "models": [
+      50
+    ],
+    "with": [
+      51,
+      58,
+      66
+    ],
+    "sizes.": [
+      54
+    ],
+    "We": [
+      55,
+      99
+    ],
+    "conclude": [
+      56
+    ],
+    "that": [
+      57
+    ],
+    "samples,": [
+      60
+    ],
+    "use": [
+      62
+    ],
+    "diffuse": [
+      67
+    ],
+    "default": [
+      68
+    ],
+    "priors": [
+      69
+    ],
+    "can": [
+      70,
+      91
+    ],
+    "result": [
+      71
+    ],
+    "in": [
+      72
+    ],
+    "severely": [
+      73
+    ],
+    "biased": [
+      74
+    ],
+    "estimates\u2013the": [
+      75
+    ],
+    "levels": [
+      76
+    ],
+    "bias": [
+      78,
+      90
+    ],
+    "are": [
+      79,
+      87,
+      109
+    ],
+    "even": [
+      81
+    ],
+    "higher": [
+      82
+    ],
+    "than": [
+      83
+    ],
+    "when": [
+      84,
+      107
+    ],
+    "methods": [
+      86
+    ],
+    "used.": [
+      88
+    ],
+    "This": [
+      89
+    ],
+    "only": [
+      92
+    ],
+    "be": [
+      93
+    ],
+    "decreased": [
+      94
+    ],
+    "by": [
+      95
+    ],
+    "incorporating": [
+      96
+    ],
+    "prior": [
+      97
+    ],
+    "information.": [
+      98
+    ],
+    "therefore": [
+      100
+    ],
+    "recommend": [
+      101
+    ],
+    "against": [
+      102
+    ],
+    "naively": [
+      103
+    ],
+    "using": [
+      104
+    ],
+    "samples": [
+      108
+    ],
+    "small,": [
+      110
+    ],
+    "encourage": [
+      112
+    ],
+    "researchers": [
+      113
+    ],
+    "make": [
+      115
+    ],
+    "well-considered": [
+      116
+    ],
+    "decisions": [
+      117
+    ],
+    "about": [
+      118
+    ],
+    "all": [
+      119
+    ],
+    "priors.": [
+      120,
+      132
+    ],
+    "For": [
+      121
+    ],
+    "this": [
+      122
+    ],
+    "purpose,": [
+      123
+    ],
+    "we": [
+      124
+    ],
+    "provide": [
+      125
+    ],
+    "recommendations": [
+      126
+    ],
+    "on": [
+      127
+    ],
+    "how": [
+      128
+    ],
+    "construct": [
+      130
+    ],
+    "thoughtful": [
+      131
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 38
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 54
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 55
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 41
+    },
+    {
+      "year": 2021,
+      "cited_by_count": 37
+    },
+    {
+      "year": 2020,
+      "cited_by_count": 19
+    },
+    {
+      "year": 2019,
+      "cited_by_count": 3
+    }
+  ],
+  "updated_date": "2025-11-06T03:46:38.306776",
+  "created_date": "2025-10-10T00:00:00"
+}

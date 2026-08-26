@@ -1,0 +1,12 @@
+{
+  "key": "Wolters_2018",
+  "publication": {
+    "doi": "10.1016/j.jalz.2018.01.007",
+    "eligibility_criteria": "the following inclusion criteria: (1) cohort studies or longitudinal studies conducted with routinely collected health care data (e.g., national medical registries or insurance databases); (2) determinant CHD (i.e., myocardial infarction with or without angina or coronary revascularization) or CHF; and (3) report of incident dementia diagnosis as the outcome (i.e., at least all-cause dementia or AD as its most common subtype). We chose all-cause dementia as the main outcome measure of interest for this meta-analysis because a syndrome diagnosis of dementia can be defined with high consistency across studies and is less dependent on advanced diagnostic testing that is often not feasible in large (population-based) studies.\n\nTo provide more insight into the association of CHDandCHFwithdementiaindependentofmanifestcerebrovascular disease, we therefore adopted a clinical diagnosis of AD (per study protocol) as a secondary outcome measure. If multiple results were reported for the same cohort, we preferred the longer follow-up duration [10, 11], longer follow-up along with more comprehensive assessment of exposure [12, 13], larger number of incident dementia cases [14\u201317], most contemporary data [13], or the study in which selection bias was considered least likely [18]. I"
+  },
+  "data": {
+    "url": "https://osf.io/sxzjg/",
+    "n_records": 4436,
+    "n_records_included": 19
+  }
+}

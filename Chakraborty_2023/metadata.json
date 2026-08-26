@@ -1,0 +1,12 @@
+{
+  "key": "Chakraborty_2023",
+  "publication": {
+    "doi": "10.1007/s10270-023-01117-1",
+    "eligibility_criteria": "1. It is clear from the title that modelling/diagrams are not a contribution.\n2. The conference/journal is from a different field of science.\n3. The paper is not peer reviewed.\n4. The paper discusses properties of modelling languages or compares languages.\n5. The paper has a prose title, or clearly points into a different direction than investigated in our review.\n6. The paper is about descriptive models of a scientific or real-life concept, as opposed to a system. For instance, process improvement models such as CMMI, or models of course curricula.\n7. Modelling in a different domain of computer science, e.g. database models, machine learning models, or neural network models.\n8. Extended abstracts for tool demos or posters.\n9. Meta studies such as literature reviews, or comparative studies such as controlled experiments.\n1. Creation of models is not clearly mentioned in the abstract.\n2.It is clear from the abstract that the paper focuses on any of the following.\n(a) Language design/meta modelling\n(b) Model transformations\n(c) Secondary studies such as SLRs\n(d) Controlled experiments or other comparative studies\n(e) Descriptive models of a scientific or real-life concept, as opposed to a software system\n(f) Architectural styles or design patterns\n(g) AI-based modelling guidance"
+  },
+  "data": {
+    "doi": "10.5281/zenodo.7685694",
+    "n_records": 10771,
+    "n_records_included": 28
+  }
+}

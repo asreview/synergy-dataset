@@ -1,0 +1,858 @@
+{
+  "id": "https://openalex.org/W2883645417",
+  "doi": "https://doi.org/10.1016/j.jss.2018.07.035",
+  "title": "A systematic review on the code smell effect",
+  "display_name": "A systematic review on the code smell effect",
+  "publication_year": 2018,
+  "publication_date": "2018-07-23",
+  "ids": {
+    "openalex": "https://openalex.org/W2883645417",
+    "doi": "https://doi.org/10.1016/j.jss.2018.07.035",
+    "mag": "2883645417"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1016/j.jss.2018.07.035",
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.1016/j.jss.2018.07.035",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S37879656",
+      "display_name": "Journal of Systems and Software",
+      "issn_l": "0164-1212",
+      "issn": [
+        "0164-1212",
+        "1873-1228"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320990",
+      "host_organization_name": "Elsevier BV",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320990"
+      ],
+      "host_organization_lineage_names": [
+        "Elsevier BV"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Journal of Systems and Software",
+    "raw_type": "journal-article"
+  },
+  "type": "review",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5004327143",
+        "display_name": "Jos\u00e9 Am\u00e2ncio Macedo Santos",
+        "orcid": "https://orcid.org/0000-0002-9509-5238"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I21606457",
+          "display_name": "Universidade Estadual de Feira de Santana",
+          "ror": "https://ror.org/04ygk5j35",
+          "country_code": "BR",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I21606457"
+          ]
+        }
+      ],
+      "countries": [
+        "BR"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Jos\u00e9 Amancio M. Santos",
+      "raw_affiliation_strings": [
+        "Technology Department, State University of Feira de Santana, Bahia, Brazil"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Technology Department, State University of Feira de Santana, Bahia, Brazil",
+          "institution_ids": [
+            "https://openalex.org/I21606457"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5006519547",
+        "display_name": "Jo\u00e3o B. Rocha-Junior",
+        "orcid": "https://orcid.org/0000-0002-6925-9729"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I21606457",
+          "display_name": "Universidade Estadual de Feira de Santana",
+          "ror": "https://ror.org/04ygk5j35",
+          "country_code": "BR",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I21606457"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I126158947",
+          "display_name": "Universidade Federal da Bahia",
+          "ror": "https://ror.org/03k3p7647",
+          "country_code": "BR",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I126158947"
+          ]
+        }
+      ],
+      "countries": [
+        "BR"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Jo\u00e3o B. Rocha-Junior",
+      "raw_affiliation_strings": [
+        "Department of Exact Science, State University of Feira de Santana, Bahia, Brazil",
+        "Fraunhofer Project Center for Software & Systems Engineering, Federal University of Bahia, Bahia, Brazil"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Exact Science, State University of Feira de Santana, Bahia, Brazil",
+          "institution_ids": [
+            "https://openalex.org/I21606457"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Fraunhofer Project Center for Software & Systems Engineering, Federal University of Bahia, Bahia, Brazil",
+          "institution_ids": [
+            "https://openalex.org/I126158947"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5044778713",
+        "display_name": "Luciana Carla Lins Prates",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I126158947",
+          "display_name": "Universidade Federal da Bahia",
+          "ror": "https://ror.org/03k3p7647",
+          "country_code": "BR",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I126158947"
+          ]
+        }
+      ],
+      "countries": [
+        "BR"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Luciana Carla Lins Prates",
+      "raw_affiliation_strings": [
+        "Mathematic Institute, Federal University of Bahia, Bahia, Brazil"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Mathematic Institute, Federal University of Bahia, Bahia, Brazil",
+          "institution_ids": [
+            "https://openalex.org/I126158947"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5013890860",
+        "display_name": "Rogeres Santos do Nascimento",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I126158947",
+          "display_name": "Universidade Federal da Bahia",
+          "ror": "https://ror.org/03k3p7647",
+          "country_code": "BR",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I126158947"
+          ]
+        }
+      ],
+      "countries": [
+        "BR"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Rogeres Santos do Nascimento",
+      "raw_affiliation_strings": [
+        "Mathematic Institute, Federal University of Bahia, Bahia, Brazil"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Mathematic Institute, Federal University of Bahia, Bahia, Brazil",
+          "institution_ids": [
+            "https://openalex.org/I126158947"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5007503040",
+        "display_name": "Mydi\u00e3 Falc\u00e3o Freitas",
+        "orcid": "https://orcid.org/0000-0002-6027-8050"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I126158947",
+          "display_name": "Universidade Federal da Bahia",
+          "ror": "https://ror.org/03k3p7647",
+          "country_code": "BR",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I126158947"
+          ]
+        }
+      ],
+      "countries": [
+        "BR"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Mydi\u00e3 Falc\u00e3o Freitas",
+      "raw_affiliation_strings": [
+        "Mathematic Institute, Federal University of Bahia, Bahia, Brazil"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Mathematic Institute, Federal University of Bahia, Bahia, Brazil",
+          "institution_ids": [
+            "https://openalex.org/I126158947"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5025579659",
+        "display_name": "Manoel Mendon\u00e7a",
+        "orcid": "https://orcid.org/0000-0002-0874-7665"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I126158947",
+          "display_name": "Universidade Federal da Bahia",
+          "ror": "https://ror.org/03k3p7647",
+          "country_code": "BR",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I126158947"
+          ]
+        }
+      ],
+      "countries": [
+        "BR"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Manoel Gomes de Mendon\u00e7a",
+      "raw_affiliation_strings": [
+        "Fraunhofer Project Center for Software & Systems Engineering, Federal University of Bahia, Bahia, Brazil",
+        "Mathematic Institute, Federal University of Bahia, Bahia, Brazil"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Mathematic Institute, Federal University of Bahia, Bahia, Brazil",
+          "institution_ids": [
+            "https://openalex.org/I126158947"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Fraunhofer Project Center for Software & Systems Engineering, Federal University of Bahia, Bahia, Brazil",
+          "institution_ids": [
+            "https://openalex.org/I126158947"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 6,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5004327143"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I21606457"
+  ],
+  "apc_list": {
+    "value": 3560,
+    "currency": "USD",
+    "value_usd": 3560
+  },
+  "apc_paid": null,
+  "fwci": 11.60880561,
+  "has_fulltext": false,
+  "cited_by_count": 74,
+  "citation_normalized_percentile": {
+    "value": 0.98199625,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 90,
+    "max": 99
+  },
+  "biblio": {
+    "volume": "144",
+    "issue": null,
+    "first_page": "450",
+    "last_page": "477"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10260",
+    "display_name": "Software Engineering Research",
+    "score": 1.0,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1710",
+      "display_name": "Information Systems"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/17",
+      "display_name": "Computer Science"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10260",
+      "display_name": "Software Engineering Research",
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1710",
+        "display_name": "Information Systems"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10430",
+      "display_name": "Software Engineering Techniques and Practices",
+      "score": 0.9995999932289124,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1710",
+        "display_name": "Information Systems"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12423",
+      "display_name": "Software Reliability and Analysis Research",
+      "score": 0.998199999332428,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1712",
+        "display_name": "Software"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/code-smell",
+      "display_name": "Code smell",
+      "score": 0.85625159740448
+    },
+    {
+      "id": "https://openalex.org/keywords/software-development",
+      "display_name": "Software development",
+      "score": 0.5707136392593384
+    },
+    {
+      "id": "https://openalex.org/keywords/computer-science",
+      "display_name": "Computer science",
+      "score": 0.5535116195678711
+    },
+    {
+      "id": "https://openalex.org/keywords/context",
+      "display_name": "Context (archaeology)",
+      "score": 0.5255167484283447
+    },
+    {
+      "id": "https://openalex.org/keywords/software",
+      "display_name": "Software",
+      "score": 0.46097105741500854
+    },
+    {
+      "id": "https://openalex.org/keywords/empirical-research",
+      "display_name": "Empirical research",
+      "score": 0.4366694390773773
+    },
+    {
+      "id": "https://openalex.org/keywords/software-engineering",
+      "display_name": "Software engineering",
+      "score": 0.42397522926330566
+    },
+    {
+      "id": "https://openalex.org/keywords/software-quality",
+      "display_name": "Software quality",
+      "score": 0.37117183208465576
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C133237599",
+      "wikidata": "https://www.wikidata.org/wiki/Q2295111",
+      "display_name": "Code smell",
+      "level": 5,
+      "score": 0.85625159740448
+    },
+    {
+      "id": "https://openalex.org/C529173508",
+      "wikidata": "https://www.wikidata.org/wiki/Q638608",
+      "display_name": "Software development",
+      "level": 3,
+      "score": 0.5707136392593384
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.5535116195678711
+    },
+    {
+      "id": "https://openalex.org/C2779343474",
+      "wikidata": "https://www.wikidata.org/wiki/Q3109175",
+      "display_name": "Context (archaeology)",
+      "level": 2,
+      "score": 0.5255167484283447
+    },
+    {
+      "id": "https://openalex.org/C2777904410",
+      "wikidata": "https://www.wikidata.org/wiki/Q7397",
+      "display_name": "Software",
+      "level": 2,
+      "score": 0.46097105741500854
+    },
+    {
+      "id": "https://openalex.org/C120936955",
+      "wikidata": "https://www.wikidata.org/wiki/Q2155640",
+      "display_name": "Empirical research",
+      "level": 2,
+      "score": 0.4366694390773773
+    },
+    {
+      "id": "https://openalex.org/C115903868",
+      "wikidata": "https://www.wikidata.org/wiki/Q80993",
+      "display_name": "Software engineering",
+      "level": 1,
+      "score": 0.42397522926330566
+    },
+    {
+      "id": "https://openalex.org/C117447612",
+      "wikidata": "https://www.wikidata.org/wiki/Q1412670",
+      "display_name": "Software quality",
+      "level": 4,
+      "score": 0.37117183208465576
+    },
+    {
+      "id": "https://openalex.org/C111472728",
+      "wikidata": "https://www.wikidata.org/wiki/Q9471",
+      "display_name": "Epistemology",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C138885662",
+      "wikidata": "https://www.wikidata.org/wiki/Q5891",
+      "display_name": "Philosophy",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C86803240",
+      "wikidata": "https://www.wikidata.org/wiki/Q420",
+      "display_name": "Biology",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C199360897",
+      "wikidata": "https://www.wikidata.org/wiki/Q9143",
+      "display_name": "Programming language",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C151730666",
+      "wikidata": "https://www.wikidata.org/wiki/Q7205",
+      "display_name": "Paleontology",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 3,
+  "locations": [
+    {
+      "id": "doi:10.1016/j.jss.2018.07.035",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1016/j.jss.2018.07.035",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S37879656",
+        "display_name": "Journal of Systems and Software",
+        "issn_l": "0164-1212",
+        "issn": [
+          "0164-1212",
+          "1873-1228"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320990",
+        "host_organization_name": "Elsevier BV",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320990"
+        ],
+        "host_organization_lineage_names": [
+          "Elsevier BV"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Journal of Systems and Software",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmh:oai:fraunhofer.de:N-524256",
+      "is_oa": false,
+      "landing_page_url": "http://publica.fraunhofer.de/documents/N-524256.html",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306400318",
+        "display_name": "Fraunhofer-Publica (Fraunhofer-Gesellschaft)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I4923324",
+        "host_organization_name": "Fraunhofer Society",
+        "host_organization_lineage": [
+          "https://openalex.org/I4923324"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Fraunhofer ISST",
+      "raw_type": "Journal Article"
+    },
+    {
+      "id": "pmh:oai:publica.fraunhofer.de:publica/256292",
+      "is_oa": false,
+      "landing_page_url": "https://publica.fraunhofer.de/handle/publica/256292",
+      "pdf_url": null,
+      "source": null,
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": null,
+      "raw_type": "journal article"
+    }
+  ],
+  "best_oa_location": null,
+  "sustainable_development_goals": [
+    {
+      "display_name": "Industry, innovation and infrastructure",
+      "score": 0.49000000953674316,
+      "id": "https://metadata.un.org/sdg/9"
+    }
+  ],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "grobid_xml": false,
+    "pdf": false
+  },
+  "referenced_works_count": 174,
+  "referenced_works": [
+    "https://openalex.org/W6676446926",
+    "https://openalex.org/W6668477882",
+    "https://openalex.org/W6746235022",
+    "https://openalex.org/W6640524895",
+    "https://openalex.org/W2132201370",
+    "https://openalex.org/W649920412",
+    "https://openalex.org/W6624025206",
+    "https://openalex.org/W1988461443",
+    "https://openalex.org/W2406570541",
+    "https://openalex.org/W6669715193",
+    "https://openalex.org/W6642998078",
+    "https://openalex.org/W6664812993",
+    "https://openalex.org/W2061180122",
+    "https://openalex.org/W1987438174",
+    "https://openalex.org/W6680574618",
+    "https://openalex.org/W6678602363",
+    "https://openalex.org/W2168811232",
+    "https://openalex.org/W6613720680",
+    "https://openalex.org/W6713923454",
+    "https://openalex.org/W6712854636",
+    "https://openalex.org/W6676445488",
+    "https://openalex.org/W2144326572",
+    "https://openalex.org/W6712291629",
+    "https://openalex.org/W6657883720",
+    "https://openalex.org/W6672984764",
+    "https://openalex.org/W6742340243",
+    "https://openalex.org/W6637800881",
+    "https://openalex.org/W2123179197",
+    "https://openalex.org/W6671163891",
+    "https://openalex.org/W6718725505",
+    "https://openalex.org/W6729623172",
+    "https://openalex.org/W6683349641",
+    "https://openalex.org/W2100925270",
+    "https://openalex.org/W2168130919",
+    "https://openalex.org/W6683305476",
+    "https://openalex.org/W2064873664",
+    "https://openalex.org/W2053667299",
+    "https://openalex.org/W6731001291",
+    "https://openalex.org/W6636950816",
+    "https://openalex.org/W6661315490",
+    "https://openalex.org/W2015412367",
+    "https://openalex.org/W6664102282",
+    "https://openalex.org/W1567157064",
+    "https://openalex.org/W1963598945",
+    "https://openalex.org/W2024866554",
+    "https://openalex.org/W6684043650",
+    "https://openalex.org/W6672089216",
+    "https://openalex.org/W2772484800",
+    "https://openalex.org/W2151295763",
+    "https://openalex.org/W2001730430",
+    "https://openalex.org/W2008347524",
+    "https://openalex.org/W6674916172",
+    "https://openalex.org/W1969352450",
+    "https://openalex.org/W6643630740",
+    "https://openalex.org/W6644044546",
+    "https://openalex.org/W6667416946",
+    "https://openalex.org/W6681252501",
+    "https://openalex.org/W2071983648",
+    "https://openalex.org/W6734993560",
+    "https://openalex.org/W6731984157",
+    "https://openalex.org/W6671309589",
+    "https://openalex.org/W6632937972",
+    "https://openalex.org/W6680845433",
+    "https://openalex.org/W1973650376",
+    "https://openalex.org/W6747813016",
+    "https://openalex.org/W2106669790",
+    "https://openalex.org/W2577392777",
+    "https://openalex.org/W2110987941",
+    "https://openalex.org/W2162739315",
+    "https://openalex.org/W2183847589",
+    "https://openalex.org/W6713911805",
+    "https://openalex.org/W6652266508",
+    "https://openalex.org/W6676436759",
+    "https://openalex.org/W6662953689",
+    "https://openalex.org/W2769990580",
+    "https://openalex.org/W6758943666",
+    "https://openalex.org/W6650200951",
+    "https://openalex.org/W6640782827",
+    "https://openalex.org/W2014418158",
+    "https://openalex.org/W2111199933",
+    "https://openalex.org/W6712015816",
+    "https://openalex.org/W6646260973",
+    "https://openalex.org/W2752705533",
+    "https://openalex.org/W6653970724",
+    "https://openalex.org/W2576115447",
+    "https://openalex.org/W2170860398",
+    "https://openalex.org/W2291952557",
+    "https://openalex.org/W6665698212",
+    "https://openalex.org/W1988254449",
+    "https://openalex.org/W1974189775",
+    "https://openalex.org/W6671664227",
+    "https://openalex.org/W6654808871",
+    "https://openalex.org/W2082394080",
+    "https://openalex.org/W6674927164",
+    "https://openalex.org/W2053268177",
+    "https://openalex.org/W6642385338",
+    "https://openalex.org/W2130509252",
+    "https://openalex.org/W6746528972",
+    "https://openalex.org/W6696930816",
+    "https://openalex.org/W397180395",
+    "https://openalex.org/W4237765682",
+    "https://openalex.org/W1972792480",
+    "https://openalex.org/W2076804800",
+    "https://openalex.org/W1746353556",
+    "https://openalex.org/W2913457621",
+    "https://openalex.org/W2084278640",
+    "https://openalex.org/W2408467690",
+    "https://openalex.org/W2164566712",
+    "https://openalex.org/W2160559612",
+    "https://openalex.org/W2017709030",
+    "https://openalex.org/W2748830514",
+    "https://openalex.org/W2547211210",
+    "https://openalex.org/W2400516519",
+    "https://openalex.org/W2054113423",
+    "https://openalex.org/W2564490203",
+    "https://openalex.org/W2773906175",
+    "https://openalex.org/W1668318629",
+    "https://openalex.org/W2407099477",
+    "https://openalex.org/W4239414765",
+    "https://openalex.org/W2577322449",
+    "https://openalex.org/W2787379525",
+    "https://openalex.org/W2014216297",
+    "https://openalex.org/W1586438432",
+    "https://openalex.org/W314833115",
+    "https://openalex.org/W1534729839",
+    "https://openalex.org/W2087025144",
+    "https://openalex.org/W2029370224",
+    "https://openalex.org/W1969939902",
+    "https://openalex.org/W2044556410",
+    "https://openalex.org/W2780981476",
+    "https://openalex.org/W2108086273",
+    "https://openalex.org/W1999993570",
+    "https://openalex.org/W2164060400",
+    "https://openalex.org/W1974655094",
+    "https://openalex.org/W1550966611",
+    "https://openalex.org/W2403793401",
+    "https://openalex.org/W4248495898",
+    "https://openalex.org/W2007704503",
+    "https://openalex.org/W1941013187",
+    "https://openalex.org/W2138295189",
+    "https://openalex.org/W2099535882",
+    "https://openalex.org/W1564623840",
+    "https://openalex.org/W2744840371",
+    "https://openalex.org/W2049741169",
+    "https://openalex.org/W2440460619",
+    "https://openalex.org/W2089862216",
+    "https://openalex.org/W2769723875",
+    "https://openalex.org/W880065844",
+    "https://openalex.org/W2083714857",
+    "https://openalex.org/W2056986045",
+    "https://openalex.org/W2068321882",
+    "https://openalex.org/W2061716101",
+    "https://openalex.org/W2097642092",
+    "https://openalex.org/W2160506632",
+    "https://openalex.org/W1842503650",
+    "https://openalex.org/W2598631485",
+    "https://openalex.org/W1933429470",
+    "https://openalex.org/W2082270918",
+    "https://openalex.org/W1511637839",
+    "https://openalex.org/W2394837668",
+    "https://openalex.org/W2140504739",
+    "https://openalex.org/W209543640",
+    "https://openalex.org/W2293148503",
+    "https://openalex.org/W1984893691",
+    "https://openalex.org/W2110307645",
+    "https://openalex.org/W2028541840",
+    "https://openalex.org/W2072384494",
+    "https://openalex.org/W4291213652",
+    "https://openalex.org/W2108916034",
+    "https://openalex.org/W2159715729",
+    "https://openalex.org/W2142759419",
+    "https://openalex.org/W1968074466",
+    "https://openalex.org/W2153887189",
+    "https://openalex.org/W2161034335"
+  ],
+  "related_works": [
+    "https://openalex.org/W2804191478",
+    "https://openalex.org/W2476117260",
+    "https://openalex.org/W2106571622",
+    "https://openalex.org/W2770531922",
+    "https://openalex.org/W1845068655",
+    "https://openalex.org/W2972106517",
+    "https://openalex.org/W2993977687",
+    "https://openalex.org/W4321354308",
+    "https://openalex.org/W3092441607",
+    "https://openalex.org/W2212955619"
+  ],
+  "abstract_inverted_index": null,
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 7
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 15
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 15
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 11
+    },
+    {
+      "year": 2021,
+      "cited_by_count": 14
+    },
+    {
+      "year": 2020,
+      "cited_by_count": 11
+    },
+    {
+      "year": 2019,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2025-11-06T03:46:38.306776",
+  "created_date": "2025-10-10T00:00:00"
+}

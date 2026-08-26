@@ -1,0 +1,1 @@
+Santos, J. A. M., Rocha-Junior, J. B., Prates, L. C. L., Nascimento, R. S. do, Freitas, M. F., & Mendonça, M. G. de. (2018). A systematic review on the code smell effect. Journal of Systems and Software, 144, 450–477. https://doi.org/10.1016/j.jss.2018.07.035

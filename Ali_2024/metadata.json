@@ -1,0 +1,12 @@
+{
+  "key": "Ali_2024",
+  "publication": {
+    "doi": "10.1007/s12599-024-00868-5",
+    "eligibility_criteria": "Exclusion Criteria\nEC1: The paper is digitally inaccessible\nEC2: The paper is written in language other than English\nEC3: The paper is a duplicate\nEC4: The paper is published in a non-peer-reviewed journal or other source\nInclusion Criteria\nIC1: The paper presents/demonstrates a method, approach or technique to identify/analyze waiting times in business processes\nIC2: The method, approach or technique presented/demonstrated in the paper uses event logs"
+  },
+  "data": {
+    "doi": "10.5281/zenodo.10698027",
+    "n_records": 2140,
+    "n_records_included": 113
+  }
+}

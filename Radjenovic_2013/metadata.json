@@ -1,0 +1,15 @@
+{
+  "key": "Radjenovic_2013",
+  "collection": {
+    "doi": "10.1007/s10664-017-9587-0"
+  },
+  "publication": {
+    "doi": "10.1016/j.infsof.2013.02.009",
+    "eligibility_criteria": "The search was not limited by the year of publication. Journal papers and conference proceedings were included. The search was limited to English.\n\nDuring the systematic review, we included empirical studies validating and assessing software metrics in the area of software fault prediction. For the selection of primary studies, the following inclusion and exclusion criteria were used.\n\nInclusion criteria:\n\u2022 Empirical studies (academic and industry) using large and small scale data sets AND.\n\u2022 Studies comparing software metrics performance in the area of software fault prediction.\n\nExclusion criteria:\n- Studies without an empirical validation or including experimental results of software metrics in fault prediction OR.\n- Studies discussing software metrics in a context other than software fault prediction (e.g. maintainability) OR.\n- Studies discussing modeling techniques (e.g. Naive Bayes, Random Forest) and not software metrics.\n- Studies discussing and comparing prediction techniques were excluded from the review, Studies proposing new software metrics and not empirically validating them were also excluded"
+  },
+  "data": {
+    "doi": "10.5281/zenodo.1162952",
+    "n_records": 5845,
+    "n_records_included": 48
+  }
+}

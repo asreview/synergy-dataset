@@ -1,0 +1,1 @@
+Chakraborty, S., & Liebel, G. (2023). Modelling guidance in software engineering: a systematic literature review. Software and Systems Modeling, 23(1), 249–265. https://doi.org/10.1007/s10270-023-01117-1

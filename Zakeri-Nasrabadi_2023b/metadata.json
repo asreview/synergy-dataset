@@ -1,0 +1,12 @@
+{
+  "key": "Zakeri-Nasrabadi_2023b",
+  "publication": {
+    "doi": "10.1016/j.jss.2023.111796",
+    "eligibility_criteria": "\u2022 EC1: The articles repeated in citation databases were removed. We kept only one version of each duplicated article.\n\u2022 EC2: Articles whose main text was written in any language other than English or only their abstract and keywords were in English were eliminated.\n\u2022 EC3: Articles whose total text was less than three pages were removed. After reviewing them, we removed these articles and ensured they did not contain significant contributions. If there are good clues in these articles to find other suitable topics and articles, we consider these clues while applying the inclusion criteria and snowballing phases.\n\u2022 EC4: Articles that did not directly discuss a source code similarity measurement approach in their abstract were removed. For example, some papers have discussed binary code similarity.\n\u2022 EC5: The papers that had not proposed an automated approach for source code similarity measurement were removed. We excluded these articles since the similarity measurement technique was necessary when classifying methods.\n\u2022 EC6: Theses, books, journal covers and metadata, secondary, tertiary, empirical, and case studies were removed.\n\u2022 IC1: At least one keyword of the article existed in our search string.\n\u2022 IC2: The title or abstract of the article is about the measurement or application of the source code similarity.\n\u2022 IC3: The article has been cited at least once. This criterion was considered only for articles that were published before 2021. Using this condition, we could ensure other researchers in the community have considered the paper.\n\u2022 IC4: The conference paper is considered if it does not have any journal extension. Otherwise, only its journal extension was included since articles published in a journal often offer more complete descriptions than their conferences counterpart."
+  },
+  "data": {
+    "doi": "10.5281/zenodo.7993619",
+    "n_records": 8771,
+    "n_records_included": 299
+  }
+}

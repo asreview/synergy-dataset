@@ -1,0 +1,15 @@
+{
+  "key": "Filges_2022",
+  "collection": {
+    "doi": "10.1007/s10648-024-09862-5"
+  },
+  "publication": {
+    "doi": "10.1002/cl2.1210",
+    "eligibility_criteria": "The intervention was service learning which can be described as a curriculum-based community service that integrates classroom instruction (such as classroom discussions, presentations, or directed writing) with community service activities. We included children in primary and secondary education (grades kindergarten to 12) in general education. Our primary focus was on measures of academic success and NEET status. A secondary focus was on measures of personal and social skills, and risk behaviour (such as drug and alcohol use, violent behaviour, sexual risk taking). All study designs that used a well-defined control group were eligible for inclusion. Studies that utilised qualitative approaches were not included."
+  },
+  "data": {
+    "doi": "10.17605/OSF.IO/UYB7X",
+    "n_records": 4577,
+    "n_records_included": 28
+  }
+}

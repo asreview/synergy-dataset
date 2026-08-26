@@ -1,0 +1,2249 @@
+{
+  "id": "https://openalex.org/W3216502150",
+  "doi": "https://doi.org/10.1111/obr.13376",
+  "title": "Cross\u2010sectional relation of long\u2010term glucocorticoids in hair with anthropometric measurements and their possible determinants: A systematic review and meta\u2010analysis",
+  "display_name": "Cross\u2010sectional relation of long\u2010term glucocorticoids in hair with anthropometric measurements and their possible determinants: A systematic review and meta\u2010analysis",
+  "publication_year": 2021,
+  "publication_date": "2021-11-22",
+  "ids": {
+    "openalex": "https://openalex.org/W3216502150",
+    "doi": "https://doi.org/10.1111/obr.13376",
+    "mag": "3216502150",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/34811866"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1111/obr.13376",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1111/obr.13376",
+    "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/obr.13376",
+    "source": {
+      "id": "https://openalex.org/S132049688",
+      "display_name": "Obesity Reviews",
+      "issn_l": "1467-7881",
+      "issn": [
+        "1467-7881",
+        "1467-789X"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320595",
+      "host_organization_name": "Wiley",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320595"
+      ],
+      "host_organization_lineage_names": [
+        "Wiley"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Obesity Reviews",
+    "raw_type": "journal-article"
+  },
+  "type": "review",
+  "indexed_in": [
+    "crossref",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "hybrid",
+    "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/obr.13376",
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5025920835",
+        "display_name": "Eline S. van der Valk",
+        "orcid": "https://orcid.org/0000-0001-5134-5453"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2801952686",
+          "display_name": "Erasmus MC",
+          "ror": "https://ror.org/018906e22",
+          "country_code": "NL",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2801952686"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I913958620",
+          "display_name": "Erasmus University Rotterdam",
+          "ror": "https://ror.org/057w15z03",
+          "country_code": "NL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I913958620"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Eline van der Valk",
+      "raw_affiliation_strings": [
+        "Department of Internal Medicine, Division of Endocrinology, Erasmus MC, University Medical Center Rotterdam, Rotterdam, The Netherlands",
+        "Obesity Center CGG, Erasmus MC, University Medical Center Rotterdam, Rotterdam, The Netherlands"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Obesity Center CGG, Erasmus MC, University Medical Center Rotterdam, Rotterdam, The Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I2801952686",
+            "https://openalex.org/I913958620"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Internal Medicine, Division of Endocrinology, Erasmus MC, University Medical Center Rotterdam, Rotterdam, The Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I2801952686"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5053455963",
+        "display_name": "Ozair Abawi",
+        "orcid": "https://orcid.org/0000-0002-1343-6562"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2801952686",
+          "display_name": "Erasmus MC",
+          "ror": "https://ror.org/018906e22",
+          "country_code": "NL",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2801952686"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210142620",
+          "display_name": "Erasmus MC - Sophia Children\u2019s Hospital",
+          "ror": "https://ror.org/047afsm11",
+          "country_code": "NL",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2801952686",
+            "https://openalex.org/I4210142620"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I913958620",
+          "display_name": "Erasmus University Rotterdam",
+          "ror": "https://ror.org/057w15z03",
+          "country_code": "NL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I913958620"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Ozair Abawi",
+      "raw_affiliation_strings": [
+        "Department of Pediatrics, division of Endocrinology, Erasmus MC-Sophia Children's Hospital, University Medical Center Rotterdam, Rotterdam, The Netherlands",
+        "Obesity Center CGG, Erasmus MC, University Medical Center Rotterdam, Rotterdam, The Netherlands"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Obesity Center CGG, Erasmus MC, University Medical Center Rotterdam, Rotterdam, The Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I2801952686",
+            "https://openalex.org/I913958620"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Pediatrics, division of Endocrinology, Erasmus MC-Sophia Children's Hospital, University Medical Center Rotterdam, Rotterdam, The Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I4210142620"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5064268474",
+        "display_name": "Mostafa Mohseni",
+        "orcid": "https://orcid.org/0000-0003-0021-5477"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2801952686",
+          "display_name": "Erasmus MC",
+          "ror": "https://ror.org/018906e22",
+          "country_code": "NL",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2801952686"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I913958620",
+          "display_name": "Erasmus University Rotterdam",
+          "ror": "https://ror.org/057w15z03",
+          "country_code": "NL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I913958620"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Mostafa Mohseni",
+      "raw_affiliation_strings": [
+        "Department of Internal Medicine, Division of Endocrinology, Erasmus MC, University Medical Center Rotterdam, Rotterdam, The Netherlands",
+        "Obesity Center CGG, Erasmus MC, University Medical Center Rotterdam, Rotterdam, The Netherlands"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Obesity Center CGG, Erasmus MC, University Medical Center Rotterdam, Rotterdam, The Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I2801952686",
+            "https://openalex.org/I913958620"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Internal Medicine, Division of Endocrinology, Erasmus MC, University Medical Center Rotterdam, Rotterdam, The Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I2801952686"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5012108424",
+        "display_name": "Amir Abdelmoumen",
+        "orcid": "https://orcid.org/0000-0002-3871-9147"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2801952686",
+          "display_name": "Erasmus MC",
+          "ror": "https://ror.org/018906e22",
+          "country_code": "NL",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2801952686"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I913958620",
+          "display_name": "Erasmus University Rotterdam",
+          "ror": "https://ror.org/057w15z03",
+          "country_code": "NL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I913958620"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Amir Abdelmoumen",
+      "raw_affiliation_strings": [
+        "Department of Internal Medicine, Division of Endocrinology, Erasmus MC, University Medical Center Rotterdam, Rotterdam, The Netherlands",
+        "Obesity Center CGG, Erasmus MC, University Medical Center Rotterdam, Rotterdam, The Netherlands"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Obesity Center CGG, Erasmus MC, University Medical Center Rotterdam, Rotterdam, The Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I2801952686",
+            "https://openalex.org/I913958620"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Internal Medicine, Division of Endocrinology, Erasmus MC, University Medical Center Rotterdam, Rotterdam, The Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I2801952686"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5052327287",
+        "display_name": "Vincent L. Wester",
+        "orcid": "https://orcid.org/0000-0002-0971-2739"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2801952686",
+          "display_name": "Erasmus MC",
+          "ror": "https://ror.org/018906e22",
+          "country_code": "NL",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2801952686"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I913958620",
+          "display_name": "Erasmus University Rotterdam",
+          "ror": "https://ror.org/057w15z03",
+          "country_code": "NL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I913958620"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Vincent Wester",
+      "raw_affiliation_strings": [
+        "Department of Internal Medicine, Division of Endocrinology, Erasmus MC, University Medical Center Rotterdam, Rotterdam, The Netherlands",
+        "Obesity Center CGG, Erasmus MC, University Medical Center Rotterdam, Rotterdam, The Netherlands"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Obesity Center CGG, Erasmus MC, University Medical Center Rotterdam, Rotterdam, The Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I2801952686",
+            "https://openalex.org/I913958620"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Internal Medicine, Division of Endocrinology, Erasmus MC, University Medical Center Rotterdam, Rotterdam, The Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I2801952686"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5020232469",
+        "display_name": "Bibian van der Voorn",
+        "orcid": "https://orcid.org/0000-0003-1299-0067"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2801952686",
+          "display_name": "Erasmus MC",
+          "ror": "https://ror.org/018906e22",
+          "country_code": "NL",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2801952686"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210142620",
+          "display_name": "Erasmus MC - Sophia Children\u2019s Hospital",
+          "ror": "https://ror.org/047afsm11",
+          "country_code": "NL",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2801952686",
+            "https://openalex.org/I4210142620"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I913958620",
+          "display_name": "Erasmus University Rotterdam",
+          "ror": "https://ror.org/057w15z03",
+          "country_code": "NL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I913958620"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Bibian van der Voorn",
+      "raw_affiliation_strings": [
+        "Department of Internal Medicine, Division of Endocrinology, Erasmus MC, University Medical Center Rotterdam, Rotterdam, The Netherlands",
+        "Department of Pediatrics, division of Endocrinology, Erasmus MC-Sophia Children's Hospital, University Medical Center Rotterdam, Rotterdam, The Netherlands",
+        "Obesity Center CGG, Erasmus MC, University Medical Center Rotterdam, Rotterdam, The Netherlands"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Pediatrics, division of Endocrinology, Erasmus MC-Sophia Children's Hospital, University Medical Center Rotterdam, Rotterdam, The Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I4210142620"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Obesity Center CGG, Erasmus MC, University Medical Center Rotterdam, Rotterdam, The Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I2801952686",
+            "https://openalex.org/I913958620"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Internal Medicine, Division of Endocrinology, Erasmus MC, University Medical Center Rotterdam, Rotterdam, The Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I2801952686"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5082649549",
+        "display_name": "Anand M. Iyer",
+        "orcid": "https://orcid.org/0000-0001-6821-1048"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2801952686",
+          "display_name": "Erasmus MC",
+          "ror": "https://ror.org/018906e22",
+          "country_code": "NL",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2801952686"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I913958620",
+          "display_name": "Erasmus University Rotterdam",
+          "ror": "https://ror.org/057w15z03",
+          "country_code": "NL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I913958620"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Anand Iyer",
+      "raw_affiliation_strings": [
+        "Department of Internal Medicine, Division of Endocrinology, Erasmus MC, University Medical Center Rotterdam, Rotterdam, The Netherlands",
+        "Obesity Center CGG, Erasmus MC, University Medical Center Rotterdam, Rotterdam, The Netherlands"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Obesity Center CGG, Erasmus MC, University Medical Center Rotterdam, Rotterdam, The Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I2801952686",
+            "https://openalex.org/I913958620"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Internal Medicine, Division of Endocrinology, Erasmus MC, University Medical Center Rotterdam, Rotterdam, The Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I2801952686"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5051030716",
+        "display_name": "Erica L.T. van den Akker",
+        "orcid": "https://orcid.org/0000-0001-5352-9328"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2801952686",
+          "display_name": "Erasmus MC",
+          "ror": "https://ror.org/018906e22",
+          "country_code": "NL",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2801952686"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210142620",
+          "display_name": "Erasmus MC - Sophia Children\u2019s Hospital",
+          "ror": "https://ror.org/047afsm11",
+          "country_code": "NL",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2801952686",
+            "https://openalex.org/I4210142620"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I913958620",
+          "display_name": "Erasmus University Rotterdam",
+          "ror": "https://ror.org/057w15z03",
+          "country_code": "NL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I913958620"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Erica van den Akker",
+      "raw_affiliation_strings": [
+        "Department of Pediatrics, division of Endocrinology, Erasmus MC-Sophia Children's Hospital, University Medical Center Rotterdam, Rotterdam, The Netherlands",
+        "Obesity Center CGG, Erasmus MC, University Medical Center Rotterdam, Rotterdam, The Netherlands"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Pediatrics, division of Endocrinology, Erasmus MC-Sophia Children's Hospital, University Medical Center Rotterdam, Rotterdam, The Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I4210142620"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Obesity Center CGG, Erasmus MC, University Medical Center Rotterdam, Rotterdam, The Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I2801952686",
+            "https://openalex.org/I913958620"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5019406968",
+        "display_name": "Sanne E. Hoeks",
+        "orcid": "https://orcid.org/0000-0003-4022-9574"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2801952686",
+          "display_name": "Erasmus MC",
+          "ror": "https://ror.org/018906e22",
+          "country_code": "NL",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2801952686"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Sanne Hoeks",
+      "raw_affiliation_strings": [
+        "Department of Anesthesiology, Erasmus University Medical Center, Rotterdam, Netherlands"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Anesthesiology, Erasmus University Medical Center, Rotterdam, Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I2801952686"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5074901526",
+        "display_name": "Sjoerd A.A. van den Berg",
+        "orcid": "https://orcid.org/0000-0001-5937-7505"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2801952686",
+          "display_name": "Erasmus MC",
+          "ror": "https://ror.org/018906e22",
+          "country_code": "NL",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2801952686"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Sjoerd van den Berg",
+      "raw_affiliation_strings": [
+        "Department of Clinical Chemistry, Erasmus MC, University Medical Center Rotterdam, Rotterdam, The Netherlands",
+        "Department of Internal Medicine, Division of Endocrinology, Erasmus MC, University Medical Center Rotterdam, Rotterdam, The Netherlands"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Clinical Chemistry, Erasmus MC, University Medical Center Rotterdam, Rotterdam, The Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I2801952686"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Internal Medicine, Division of Endocrinology, Erasmus MC, University Medical Center Rotterdam, Rotterdam, The Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I2801952686"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5047355338",
+        "display_name": "Yolanda B. de Rijke",
+        "orcid": "https://orcid.org/0000-0001-7759-4968"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2801952686",
+          "display_name": "Erasmus MC",
+          "ror": "https://ror.org/018906e22",
+          "country_code": "NL",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2801952686"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Yolanda de Rijke",
+      "raw_affiliation_strings": [
+        "Department of Clinical Chemistry, Erasmus MC, University Medical Center Rotterdam, Rotterdam, The Netherlands"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Clinical Chemistry, Erasmus MC, University Medical Center Rotterdam, Rotterdam, The Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I2801952686"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5043730479",
+        "display_name": "Tobias Stalder",
+        "orcid": "https://orcid.org/0000-0001-7558-1274"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I206895457",
+          "display_name": "University of Siegen",
+          "ror": "https://ror.org/02azyry73",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I206895457"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Tobias Stalder",
+      "raw_affiliation_strings": [
+        "Department of Clinical Psychology, University of Siegen, Siegen, Germany"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Clinical Psychology, University of Siegen, Siegen, Germany",
+          "institution_ids": [
+            "https://openalex.org/I206895457"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5004361068",
+        "display_name": "Elisabeth F. C. van Rossum",
+        "orcid": "https://orcid.org/0000-0003-0120-4913"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2801952686",
+          "display_name": "Erasmus MC",
+          "ror": "https://ror.org/018906e22",
+          "country_code": "NL",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2801952686"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I913958620",
+          "display_name": "Erasmus University Rotterdam",
+          "ror": "https://ror.org/057w15z03",
+          "country_code": "NL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I913958620"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Elisabeth van Rossum",
+      "raw_affiliation_strings": [
+        "Department of Internal Medicine, Division of Endocrinology, Erasmus MC, University Medical Center Rotterdam, Rotterdam, The Netherlands",
+        "Obesity Center CGG, Erasmus MC, University Medical Center Rotterdam, Rotterdam, The Netherlands"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Obesity Center CGG, Erasmus MC, University Medical Center Rotterdam, Rotterdam, The Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I2801952686",
+            "https://openalex.org/I913958620"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Internal Medicine, Division of Endocrinology, Erasmus MC, University Medical Center Rotterdam, Rotterdam, The Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I2801952686"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 2,
+  "institutions_distinct_count": 13,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5004361068"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I2801952686",
+    "https://openalex.org/I913958620"
+  ],
+  "apc_list": {
+    "value": 4940,
+    "currency": "USD",
+    "value_usd": 4940
+  },
+  "apc_paid": {
+    "value": 4940,
+    "currency": "USD",
+    "value_usd": 4940
+  },
+  "fwci": 2.87548317,
+  "has_fulltext": true,
+  "cited_by_count": 28,
+  "citation_normalized_percentile": {
+    "value": 0.88331847,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 89,
+    "max": 99
+  },
+  "biblio": {
+    "volume": "23",
+    "issue": "3",
+    "first_page": "e13376",
+    "last_page": "e13376"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T11457",
+    "display_name": "Adipose Tissue and Metabolism",
+    "score": 0.9970999956130981,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2737",
+      "display_name": "Physiology"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/27",
+      "display_name": "Medicine"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/4",
+      "display_name": "Health Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T11457",
+      "display_name": "Adipose Tissue and Metabolism",
+      "score": 0.9970999956130981,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2737",
+        "display_name": "Physiology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10528",
+      "display_name": "Adipokines, Inflammation, and Metabolic Diseases",
+      "score": 0.9944999814033508,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2713",
+        "display_name": "Epidemiology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10748",
+      "display_name": "Growth Hormone and Insulin-like Growth Factors",
+      "score": 0.9937999844551086,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2712",
+        "display_name": "Endocrinology, Diabetes and Metabolism"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/waist",
+      "display_name": "Waist",
+      "score": 0.7070320844650269
+    },
+    {
+      "id": "https://openalex.org/keywords/medicine",
+      "display_name": "Medicine",
+      "score": 0.6934895515441895
+    },
+    {
+      "id": "https://openalex.org/keywords/body-mass-index",
+      "display_name": "Body mass index",
+      "score": 0.6656988263130188
+    },
+    {
+      "id": "https://openalex.org/keywords/anthropometry",
+      "display_name": "Anthropometry",
+      "score": 0.6433132886886597
+    },
+    {
+      "id": "https://openalex.org/keywords/internal-medicine",
+      "display_name": "Internal medicine",
+      "score": 0.5889971852302551
+    },
+    {
+      "id": "https://openalex.org/keywords/cross-sectional-study",
+      "display_name": "Cross-sectional study",
+      "score": 0.5672564506530762
+    },
+    {
+      "id": "https://openalex.org/keywords/obesity",
+      "display_name": "Obesity",
+      "score": 0.4733674228191376
+    },
+    {
+      "id": "https://openalex.org/keywords/linear-regression",
+      "display_name": "Linear regression",
+      "score": 0.46629613637924194
+    },
+    {
+      "id": "https://openalex.org/keywords/meta-analysis",
+      "display_name": "Meta-analysis",
+      "score": 0.44957175850868225
+    },
+    {
+      "id": "https://openalex.org/keywords/meta-regression",
+      "display_name": "Meta-regression",
+      "score": 0.4265504479408264
+    },
+    {
+      "id": "https://openalex.org/keywords/endocrinology",
+      "display_name": "Endocrinology",
+      "score": 0.360309898853302
+    },
+    {
+      "id": "https://openalex.org/keywords/statistics",
+      "display_name": "Statistics",
+      "score": 0.15662750601768494
+    },
+    {
+      "id": "https://openalex.org/keywords/mathematics",
+      "display_name": "Mathematics",
+      "score": 0.1527048647403717
+    },
+    {
+      "id": "https://openalex.org/keywords/pathology",
+      "display_name": "Pathology",
+      "score": 0.0897175669670105
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C2776193436",
+      "wikidata": "https://www.wikidata.org/wiki/Q236232",
+      "display_name": "Waist",
+      "level": 3,
+      "score": 0.7070320844650269
+    },
+    {
+      "id": "https://openalex.org/C71924100",
+      "wikidata": "https://www.wikidata.org/wiki/Q11190",
+      "display_name": "Medicine",
+      "level": 0,
+      "score": 0.6934895515441895
+    },
+    {
+      "id": "https://openalex.org/C2780221984",
+      "wikidata": "https://www.wikidata.org/wiki/Q131191",
+      "display_name": "Body mass index",
+      "level": 2,
+      "score": 0.6656988263130188
+    },
+    {
+      "id": "https://openalex.org/C61427482",
+      "wikidata": "https://www.wikidata.org/wiki/Q6656244",
+      "display_name": "Anthropometry",
+      "level": 2,
+      "score": 0.6433132886886597
+    },
+    {
+      "id": "https://openalex.org/C126322002",
+      "wikidata": "https://www.wikidata.org/wiki/Q11180",
+      "display_name": "Internal medicine",
+      "level": 1,
+      "score": 0.5889971852302551
+    },
+    {
+      "id": "https://openalex.org/C142052008",
+      "wikidata": "https://www.wikidata.org/wiki/Q954027",
+      "display_name": "Cross-sectional study",
+      "level": 2,
+      "score": 0.5672564506530762
+    },
+    {
+      "id": "https://openalex.org/C511355011",
+      "wikidata": "https://www.wikidata.org/wiki/Q12174",
+      "display_name": "Obesity",
+      "level": 2,
+      "score": 0.4733674228191376
+    },
+    {
+      "id": "https://openalex.org/C48921125",
+      "wikidata": "https://www.wikidata.org/wiki/Q10861030",
+      "display_name": "Linear regression",
+      "level": 2,
+      "score": 0.46629613637924194
+    },
+    {
+      "id": "https://openalex.org/C95190672",
+      "wikidata": "https://www.wikidata.org/wiki/Q815382",
+      "display_name": "Meta-analysis",
+      "level": 2,
+      "score": 0.44957175850868225
+    },
+    {
+      "id": "https://openalex.org/C124936440",
+      "wikidata": "https://www.wikidata.org/wiki/Q6822263",
+      "display_name": "Meta-regression",
+      "level": 3,
+      "score": 0.4265504479408264
+    },
+    {
+      "id": "https://openalex.org/C134018914",
+      "wikidata": "https://www.wikidata.org/wiki/Q162606",
+      "display_name": "Endocrinology",
+      "level": 1,
+      "score": 0.360309898853302
+    },
+    {
+      "id": "https://openalex.org/C105795698",
+      "wikidata": "https://www.wikidata.org/wiki/Q12483",
+      "display_name": "Statistics",
+      "level": 1,
+      "score": 0.15662750601768494
+    },
+    {
+      "id": "https://openalex.org/C33923547",
+      "wikidata": "https://www.wikidata.org/wiki/Q395",
+      "display_name": "Mathematics",
+      "level": 0,
+      "score": 0.1527048647403717
+    },
+    {
+      "id": "https://openalex.org/C142724271",
+      "wikidata": "https://www.wikidata.org/wiki/Q7208",
+      "display_name": "Pathology",
+      "level": 1,
+      "score": 0.0897175669670105
+    }
+  ],
+  "mesh": [
+    {
+      "descriptor_ui": "D015992",
+      "descriptor_name": "Body Mass Index",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D003430",
+      "descriptor_name": "Cross-Sectional Studies",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005938",
+      "descriptor_name": "Glucocorticoids",
+      "qualifier_ui": "Q000032",
+      "qualifier_name": "analysis",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D006197",
+      "descriptor_name": "Hair",
+      "qualifier_ui": "Q000737",
+      "qualifier_name": "chemistry",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D007030",
+      "descriptor_name": "Hypothalamo-Hypophyseal System",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D009765",
+      "descriptor_name": "Obesity",
+      "qualifier_ui": "Q000150",
+      "qualifier_name": "complications",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D010913",
+      "descriptor_name": "Pituitary-Adrenal System",
+      "qualifier_ui": "Q000737",
+      "qualifier_name": "chemistry",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D012307",
+      "descriptor_name": "Risk Factors",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D055105",
+      "descriptor_name": "Waist Circumference",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D049629",
+      "descriptor_name": "Waist-Hip Ratio",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015992",
+      "descriptor_name": "Body Mass Index",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D003430",
+      "descriptor_name": "Cross-Sectional Studies",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005938",
+      "descriptor_name": "Glucocorticoids",
+      "qualifier_ui": "Q000032",
+      "qualifier_name": "analysis",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D006197",
+      "descriptor_name": "Hair",
+      "qualifier_ui": "Q000737",
+      "qualifier_name": "chemistry",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D007030",
+      "descriptor_name": "Hypothalamo-Hypophyseal System",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D009765",
+      "descriptor_name": "Obesity",
+      "qualifier_ui": "Q000150",
+      "qualifier_name": "complications",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D010913",
+      "descriptor_name": "Pituitary-Adrenal System",
+      "qualifier_ui": "Q000737",
+      "qualifier_name": "chemistry",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D012307",
+      "descriptor_name": "Risk Factors",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D055105",
+      "descriptor_name": "Waist Circumference",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D049629",
+      "descriptor_name": "Waist-Hip Ratio",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015992",
+      "descriptor_name": "Body Mass Index",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D003430",
+      "descriptor_name": "Cross-Sectional Studies",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005938",
+      "descriptor_name": "Glucocorticoids",
+      "qualifier_ui": "Q000032",
+      "qualifier_name": "analysis",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D006197",
+      "descriptor_name": "Hair",
+      "qualifier_ui": "Q000737",
+      "qualifier_name": "chemistry",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D007030",
+      "descriptor_name": "Hypothalamo-Hypophyseal System",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D009765",
+      "descriptor_name": "Obesity",
+      "qualifier_ui": "Q000150",
+      "qualifier_name": "complications",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D010913",
+      "descriptor_name": "Pituitary-Adrenal System",
+      "qualifier_ui": "Q000737",
+      "qualifier_name": "chemistry",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D012307",
+      "descriptor_name": "Risk Factors",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D055105",
+      "descriptor_name": "Waist Circumference",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D049629",
+      "descriptor_name": "Waist-Hip Ratio",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    }
+  ],
+  "locations_count": 6,
+  "locations": [
+    {
+      "id": "doi:10.1111/obr.13376",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1111/obr.13376",
+      "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/obr.13376",
+      "source": {
+        "id": "https://openalex.org/S132049688",
+        "display_name": "Obesity Reviews",
+        "issn_l": "1467-7881",
+        "issn": [
+          "1467-7881",
+          "1467-789X"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320595",
+        "host_organization_name": "Wiley",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320595"
+        ],
+        "host_organization_lineage_names": [
+          "Wiley"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Obesity Reviews",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:34811866",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/34811866",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Obesity reviews : an official journal of the International Association for the Study of Obesity",
+      "raw_type": null
+    },
+    {
+      "id": "pmh:eur:oai:pure.eur.nl:publications/d2fc5b17-bfea-49ad-9b8d-cd65b3bec97b",
+      "is_oa": true,
+      "landing_page_url": "https://pure.eur.nl/en/publications/d2fc5b17-bfea-49ad-9b8d-cd65b3bec97b",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401843",
+        "display_name": "Data Archiving and Networked Services (DANS)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1322597698",
+        "host_organization_name": "Royal Netherlands Academy of Arts and Sciences",
+        "host_organization_lineage": [
+          "https://openalex.org/I1322597698"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Obesity Reviews, 23(3):e13376. Wiley-Blackwell Publishing Ltd",
+      "raw_type": "info:eu-repo/semantics/other"
+    },
+    {
+      "id": "pmh:oai:pubmedcentral.nih.gov:9285618",
+      "is_oa": true,
+      "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/9285618",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S2764455111",
+        "display_name": "PubMed Central",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "other-oa",
+      "license_id": "https://openalex.org/licenses/other-oa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Obes Rev",
+      "raw_type": "Text"
+    },
+    {
+      "id": "pmh:oai:research.vu.nl:publications/ec5ba428-9ed2-44c9-81b2-3761e11fa404",
+      "is_oa": true,
+      "landing_page_url": "https://hdl.handle.net/1871.1/ec5ba428-9ed2-44c9-81b2-3761e11fa404",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401107",
+        "display_name": "VU Research Portal",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I865915315",
+        "host_organization_name": "Vrije Universiteit Amsterdam",
+        "host_organization_lineage": [
+          "https://openalex.org/I865915315"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "other-oa",
+      "license_id": "https://openalex.org/licenses/other-oa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "van der Valk, E, Abawi, O, Mohseni, M, Abdelmoumen, A, Wester, V, van der Voorn, B, Iyer, A, van den Akker, E, Hoeks, S, van den Berg, S, de Rijke, Y, Stalder, T & van Rossum, E 2022, 'Cross-sectional relation of long-term glucocorticoids in hair with anthropometric measurements and their possible determinants : A systematic review and meta-analysis', Obesity reviews, vol. 23, no. 3, e13376, pp. 1-21. https://doi.org/10.1111/obr.13376",
+      "raw_type": "article"
+    },
+    {
+      "id": "pmh:vu:oai:research.vu.nl:publications/ec5ba428-9ed2-44c9-81b2-3761e11fa404",
+      "is_oa": true,
+      "landing_page_url": "https://research.vu.nl/en/publications/ec5ba428-9ed2-44c9-81b2-3761e11fa404",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401843",
+        "display_name": "Data Archiving and Networked Services (DANS)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1322597698",
+        "host_organization_name": "Royal Netherlands Academy of Arts and Sciences",
+        "host_organization_lineage": [
+          "https://openalex.org/I1322597698"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "other-oa",
+      "license_id": "https://openalex.org/licenses/other-oa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Obesity reviews, 23(3):e13376, 1 - 21. Wiley-Blackwell",
+      "raw_type": "info:eu-repo/semantics/other"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1111/obr.13376",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1111/obr.13376",
+    "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/obr.13376",
+    "source": {
+      "id": "https://openalex.org/S132049688",
+      "display_name": "Obesity Reviews",
+      "issn_l": "1467-7881",
+      "issn": [
+        "1467-7881",
+        "1467-789X"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320595",
+      "host_organization_name": "Wiley",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320595"
+      ],
+      "host_organization_lineage_names": [
+        "Wiley"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Obesity Reviews",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "pdf": true,
+    "grobid_xml": true
+  },
+  "referenced_works_count": 159,
+  "referenced_works": [
+    "https://openalex.org/W2919229523",
+    "https://openalex.org/W2092184308",
+    "https://openalex.org/W2911707353",
+    "https://openalex.org/W2595754191",
+    "https://openalex.org/W2160676191",
+    "https://openalex.org/W2800929313",
+    "https://openalex.org/W2893689668",
+    "https://openalex.org/W2512922965",
+    "https://openalex.org/W1792110071",
+    "https://openalex.org/W2766020199",
+    "https://openalex.org/W3034894292",
+    "https://openalex.org/W2492736526",
+    "https://openalex.org/W2590990277",
+    "https://openalex.org/W2984026100",
+    "https://openalex.org/W3092733248",
+    "https://openalex.org/W1965283604",
+    "https://openalex.org/W2066206276",
+    "https://openalex.org/W2005501262",
+    "https://openalex.org/W1979423827",
+    "https://openalex.org/W2163661402",
+    "https://openalex.org/W2895508982",
+    "https://openalex.org/W2122814783",
+    "https://openalex.org/W2170892587",
+    "https://openalex.org/W2807759412",
+    "https://openalex.org/W2121191484",
+    "https://openalex.org/W1999322433",
+    "https://openalex.org/W2889567046",
+    "https://openalex.org/W2765109693",
+    "https://openalex.org/W2921445979",
+    "https://openalex.org/W2044761599",
+    "https://openalex.org/W2793272697",
+    "https://openalex.org/W3020810195",
+    "https://openalex.org/W2945005264",
+    "https://openalex.org/W3090578278",
+    "https://openalex.org/W3003171142",
+    "https://openalex.org/W2091552456",
+    "https://openalex.org/W1963572261",
+    "https://openalex.org/W2159215923",
+    "https://openalex.org/W2911598844",
+    "https://openalex.org/W2909476124",
+    "https://openalex.org/W2994147638",
+    "https://openalex.org/W2156841484",
+    "https://openalex.org/W2345692589",
+    "https://openalex.org/W2946628700",
+    "https://openalex.org/W2109699728",
+    "https://openalex.org/W3082162295",
+    "https://openalex.org/W2807271996",
+    "https://openalex.org/W1568516335",
+    "https://openalex.org/W2902980789",
+    "https://openalex.org/W2899627868",
+    "https://openalex.org/W1987992861",
+    "https://openalex.org/W2515482904",
+    "https://openalex.org/W2517752876",
+    "https://openalex.org/W3196089113",
+    "https://openalex.org/W1764606824",
+    "https://openalex.org/W2892636063",
+    "https://openalex.org/W2949828305",
+    "https://openalex.org/W2549122415",
+    "https://openalex.org/W1915733858",
+    "https://openalex.org/W2949806382",
+    "https://openalex.org/W1968308487",
+    "https://openalex.org/W2094653017",
+    "https://openalex.org/W2108031127",
+    "https://openalex.org/W3007422315",
+    "https://openalex.org/W3100453251",
+    "https://openalex.org/W2977418934",
+    "https://openalex.org/W2911277958",
+    "https://openalex.org/W2517659514",
+    "https://openalex.org/W2170043067",
+    "https://openalex.org/W2044120744",
+    "https://openalex.org/W2157865827",
+    "https://openalex.org/W3046881430",
+    "https://openalex.org/W2521757803",
+    "https://openalex.org/W2998536686",
+    "https://openalex.org/W2897638785",
+    "https://openalex.org/W3091328600",
+    "https://openalex.org/W2016771211",
+    "https://openalex.org/W1987951226",
+    "https://openalex.org/W2945513938",
+    "https://openalex.org/W2272669698",
+    "https://openalex.org/W2114175757",
+    "https://openalex.org/W2320036657",
+    "https://openalex.org/W2542936550",
+    "https://openalex.org/W2179093238",
+    "https://openalex.org/W2418295960",
+    "https://openalex.org/W2895791894",
+    "https://openalex.org/W1489947652",
+    "https://openalex.org/W2333571237",
+    "https://openalex.org/W2347027978",
+    "https://openalex.org/W1932709974",
+    "https://openalex.org/W2916045490",
+    "https://openalex.org/W2591819122",
+    "https://openalex.org/W3005359130",
+    "https://openalex.org/W3000058968",
+    "https://openalex.org/W3022487552",
+    "https://openalex.org/W2091203113",
+    "https://openalex.org/W3049597226",
+    "https://openalex.org/W1964435984",
+    "https://openalex.org/W2944030225",
+    "https://openalex.org/W2093297062",
+    "https://openalex.org/W1921137873",
+    "https://openalex.org/W2950423238",
+    "https://openalex.org/W2789844626",
+    "https://openalex.org/W2273612109",
+    "https://openalex.org/W2119425421",
+    "https://openalex.org/W2888667541",
+    "https://openalex.org/W2903532093",
+    "https://openalex.org/W2952197677",
+    "https://openalex.org/W2147007400",
+    "https://openalex.org/W2151854719",
+    "https://openalex.org/W2117483867",
+    "https://openalex.org/W2002746226",
+    "https://openalex.org/W1829844494",
+    "https://openalex.org/W2123819106",
+    "https://openalex.org/W2167457274",
+    "https://openalex.org/W2078826300",
+    "https://openalex.org/W2522916722",
+    "https://openalex.org/W2793102271",
+    "https://openalex.org/W2781512779",
+    "https://openalex.org/W3033098322",
+    "https://openalex.org/W2996238892",
+    "https://openalex.org/W3023013461",
+    "https://openalex.org/W3005079631",
+    "https://openalex.org/W3086061019",
+    "https://openalex.org/W2169654271",
+    "https://openalex.org/W2953357270",
+    "https://openalex.org/W3096200988",
+    "https://openalex.org/W2994805639",
+    "https://openalex.org/W2508453284",
+    "https://openalex.org/W2141362793",
+    "https://openalex.org/W2957293140",
+    "https://openalex.org/W1989046621",
+    "https://openalex.org/W2593635594",
+    "https://openalex.org/W1749313036",
+    "https://openalex.org/W2592346699",
+    "https://openalex.org/W2913597045",
+    "https://openalex.org/W2055195555",
+    "https://openalex.org/W2911774639",
+    "https://openalex.org/W3088085199",
+    "https://openalex.org/W3110576929",
+    "https://openalex.org/W2128830532",
+    "https://openalex.org/W2345786621",
+    "https://openalex.org/W2116024161",
+    "https://openalex.org/W2104616693",
+    "https://openalex.org/W2533781433",
+    "https://openalex.org/W2910167098",
+    "https://openalex.org/W2809263275",
+    "https://openalex.org/W2739676848",
+    "https://openalex.org/W3092007658",
+    "https://openalex.org/W3140710614",
+    "https://openalex.org/W2588681363",
+    "https://openalex.org/W4322695633",
+    "https://openalex.org/W2973019498",
+    "https://openalex.org/W2166373226",
+    "https://openalex.org/W2582743722",
+    "https://openalex.org/W4320164719",
+    "https://openalex.org/W3035864740",
+    "https://openalex.org/W4298346378",
+    "https://openalex.org/W3216502150"
+  ],
+  "related_works": [
+    "https://openalex.org/W2376494475",
+    "https://openalex.org/W1991965293",
+    "https://openalex.org/W2117018656",
+    "https://openalex.org/W2110332595",
+    "https://openalex.org/W2521243952",
+    "https://openalex.org/W2253220613",
+    "https://openalex.org/W2057501204",
+    "https://openalex.org/W3011015268",
+    "https://openalex.org/W174618977",
+    "https://openalex.org/W2165100752"
+  ],
+  "abstract_inverted_index": {
+    "Summary": [
+      0
+    ],
+    "Background": [
+      1
+    ],
+    "Long\u2010term": [
+      2
+    ],
+    "glucocorticoids": [
+      3
+    ],
+    "(HairGC)": [
+      4
+    ],
+    "measured": [
+      5
+    ],
+    "in": [
+      6,
+      23,
+      141,
+      146,
+      192
+    ],
+    "scalp": [
+      7
+    ],
+    "hair": [
+      8,
+      76,
+      80
+    ],
+    "have": [
+      9
+    ],
+    "been": [
+      10
+    ],
+    "associated": [
+      11
+    ],
+    "with": [
+      12,
+      241
+    ],
+    "body": [
+      13
+    ],
+    "mass": [
+      14,
+      152
+    ],
+    "index": [
+      15
+    ],
+    "(BMI),": [
+      16
+    ],
+    "waist": [
+      17
+    ],
+    "circumference": [
+      18
+    ],
+    "(WC),": [
+      19
+    ],
+    "and": [
+      20,
+      34,
+      49,
+      69,
+      79,
+      86,
+      111,
+      134,
+      182,
+      218,
+      221,
+      225
+    ],
+    "waist\u2010hip\u2010ratio": [
+      21
+    ],
+    "(WHR)": [
+      22
+    ],
+    "several": [
+      24
+    ],
+    "cross\u2010sectional": [
+      25
+    ],
+    "studies.": [
+      26
+    ],
+    "We": [
+      27,
+      44,
+      89
+    ],
+    "aimed": [
+      28
+    ],
+    "to": [
+      29,
+      59,
+      83,
+      104
+    ],
+    "investigate": [
+      30
+    ],
+    "the": [
+      31,
+      238
+    ],
+    "magnitude,": [
+      32
+    ],
+    "strength,": [
+      33
+    ],
+    "clinical": [
+      35
+    ],
+    "relevance": [
+      36
+    ],
+    "of": [
+      37,
+      61,
+      237
+    ],
+    "these": [
+      38
+    ],
+    "relations": [
+      39
+    ],
+    "across": [
+      40
+    ],
+    "all": [
+      41,
+      105
+    ],
+    "ages.": [
+      42
+    ],
+    "Methods": [
+      43
+    ],
+    "performed": [
+      45
+    ],
+    "a": [
+      46,
+      212
+    ],
+    "systematic": [
+      47
+    ],
+    "review": [
+      48
+    ],
+    "meta\u2010analysis": [
+      50
+    ],
+    "(PROSPERO": [
+      51
+    ],
+    "registration": [
+      52
+    ],
+    "CRD42020205187)": [
+      53
+    ],
+    "searching": [
+      54
+    ],
+    "for": [
+      55,
+      117,
+      166,
+      228
+    ],
+    "articles": [
+      56
+    ],
+    "relating": [
+      57,
+      75
+    ],
+    "HairGC": [
+      58,
+      100,
+      217
+    ],
+    "measures": [
+      60
+    ],
+    "obesity.": [
+      62
+    ],
+    "Main": [
+      63
+    ],
+    "outcomes": [
+      64
+    ],
+    "were": [
+      65,
+      101,
+      115
+    ],
+    "bivariate": [
+      66
+    ],
+    "correlation": [
+      67,
+      110,
+      120,
+      165
+    ],
+    "coefficients": [
+      68,
+      74
+    ],
+    "unadjusted": [
+      70
+    ],
+    "simple": [
+      71
+    ],
+    "linear": [
+      72
+    ],
+    "regression": [
+      73,
+      136,
+      184
+    ],
+    "cortisol": [
+      77
+    ],
+    "(HairF)": [
+      78
+    ],
+    "cortisone": [
+      81
+    ],
+    "(HairE)": [
+      82
+    ],
+    "BMI,": [
+      84,
+      219
+    ],
+    "WC,": [
+      85,
+      220
+    ],
+    "WHR.": [
+      87
+    ],
+    "Results": [
+      88
+    ],
+    "included": [
+      90
+    ],
+    "k": [
+      91,
+      124,
+      158,
+      172,
+      203
+    ],
+    "=": [
+      92,
+      97,
+      125,
+      128,
+      132,
+      159,
+      162,
+      173,
+      176,
+      180,
+      204,
+      207
+    ],
+    "146": [
+      93
+    ],
+    "cohorts": [
+      94
+    ],
+    "(": [
+      95
+    ],
+    "n": [
+      96,
+      127,
+      161,
+      175,
+      206
+    ],
+    "34,342": [
+      98
+    ],
+    "individuals).": [
+      99
+    ],
+    "positively": [
+      102
+    ],
+    "related": [
+      103
+    ],
+    "anthropometric": [
+      106
+    ],
+    "measurements.": [
+      107
+    ],
+    "The": [
+      108
+    ],
+    "strongest": [
+      109
+    ],
+    "largest": [
+      112
+    ],
+    "effect": [
+      113
+    ],
+    "size": [
+      114
+    ],
+    "seen": [
+      116
+    ],
+    "HairE\u2010WC:": [
+      118
+    ],
+    "pooled": [
+      119,
+      135,
+      183
+    ],
+    "0.18": [
+      121
+    ],
+    "(95%CI": [
+      122,
+      155,
+      170,
+      198
+    ],
+    "0.11\u20130.24;": [
+      123
+    ],
+    "7;": [
+      126
+    ],
+    "3,158;": [
+      129
+    ],
+    "I": [
+      130,
+      178
+    ],
+    "2": [
+      131,
+      179,
+      188,
+      201
+    ],
+    "45.7%)": [
+      133
+    ],
+    "coefficient": [
+      137,
+      185
+    ],
+    "11.0": [
+      138
+    ],
+    "cm": [
+      139
+    ],
+    "increase": [
+      140,
+      145,
+      191
+    ],
+    "WC": [
+      142
+    ],
+    "per": [
+      143,
+      189
+    ],
+    "point": [
+      144,
+      190
+    ],
+    "10\u2010log\u2010transformed": [
+      147,
+      193
+    ],
+    "HairE": [
+      148
+    ],
+    "(pg/mg)": [
+      149,
+      195
+    ],
+    "on": [
+      150,
+      196
+    ],
+    "liquid\u2010chromatography\u2010(tandem)": [
+      151
+    ],
+    "spectrometry": [
+      153
+    ],
+    "(LC\u2013MS)": [
+      154
+    ],
+    "10.1\u201311.9": [
+      156
+    ],
+    "cm;": [
+      157
+    ],
+    "6;": [
+      160
+    ],
+    "3,102).": [
+      163
+    ],
+    "Pooled": [
+      164
+    ],
+    "HairF\u2010BMI": [
+      167
+    ],
+    "was": [
+      168
+    ],
+    "0.10": [
+      169
+    ],
+    "0.08\u20130.13;": [
+      171
+    ],
+    "122;": [
+      174
+    ],
+    "26,527;": [
+      177
+    ],
+    "51.2%)": [
+      181
+    ],
+    "0.049": [
+      186
+    ],
+    "kg/m": [
+      187,
+      200
+    ],
+    "HairF": [
+      194
+    ],
+    "LC\u2013MS": [
+      197
+    ],
+    "0.045\u20130.054": [
+      199
+    ],
+    ";": [
+      202
+    ],
+    "26;": [
+      205
+    ],
+    "11,635).": [
+      208
+    ],
+    "Discussion": [
+      209
+    ],
+    "There": [
+      210
+    ],
+    "is": [
+      211
+    ],
+    "consistent": [
+      213
+    ],
+    "positive": [
+      214
+    ],
+    "association": [
+      215
+    ],
+    "between": [
+      216
+    ],
+    "WHR,": [
+      222
+    ],
+    "most": [
+      223
+    ],
+    "prominently": [
+      224
+    ],
+    "clinically": [
+      226
+    ],
+    "relevant": [
+      227
+    ],
+    "HairE\u2010WC.": [
+      229
+    ],
+    "These": [
+      230
+    ],
+    "findings": [
+      231
+    ],
+    "overall": [
+      232
+    ],
+    "suggest": [
+      233
+    ],
+    "an": [
+      234
+    ],
+    "altered": [
+      235
+    ],
+    "setpoint": [
+      236
+    ],
+    "hypothalamic\u2013pituitary\u2013adrenal": [
+      239
+    ],
+    "axis": [
+      240
+    ],
+    "increasing": [
+      242
+    ],
+    "central": [
+      243
+    ],
+    "adiposity.": [
+      244
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 10
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 7
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 6
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 4
+    },
+    {
+      "year": 2021,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2025-11-06T03:46:38.306776",
+  "created_date": "2025-10-10T00:00:00"
+}

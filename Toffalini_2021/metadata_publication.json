@@ -1,0 +1,1205 @@
+{
+  "id": "https://openalex.org/W3134233509",
+  "doi": "https://doi.org/10.3758/s13428-021-01549-x",
+  "title": "Dyslexia treatment studies: A systematic review and suggestions on testing treatment efficacy with small effects and small samples",
+  "display_name": "Dyslexia treatment studies: A systematic review and suggestions on testing treatment efficacy with small effects and small samples",
+  "publication_year": 2021,
+  "publication_date": "2021-03-10",
+  "ids": {
+    "openalex": "https://openalex.org/W3134233509",
+    "doi": "https://doi.org/10.3758/s13428-021-01549-x",
+    "mag": "3134233509",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/33694077"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.3758/s13428-021-01549-x",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.3758/s13428-021-01549-x",
+    "pdf_url": "https://link.springer.com/content/pdf/10.3758/s13428-021-01549-x.pdf",
+    "source": {
+      "id": "https://openalex.org/S137478622",
+      "display_name": "Behavior Research Methods",
+      "issn_l": "1554-351X",
+      "issn": [
+        "1554-351X",
+        "1554-3528"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310319900",
+      "host_organization_name": "Springer Science+Business Media",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310319900"
+      ],
+      "host_organization_lineage_names": [],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Behavior Research Methods",
+    "raw_type": "journal-article"
+  },
+  "type": "review",
+  "indexed_in": [
+    "crossref",
+    "datacite",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "hybrid",
+    "oa_url": "https://link.springer.com/content/pdf/10.3758/s13428-021-01549-x.pdf",
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5005591594",
+        "display_name": "Enrico Toffalini",
+        "orcid": "https://orcid.org/0000-0002-1404-5133"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I138689650",
+          "display_name": "University of Padua",
+          "ror": "https://ror.org/00240q980",
+          "country_code": "IT",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I138689650"
+          ]
+        }
+      ],
+      "countries": [
+        "IT"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Enrico Toffalini",
+      "raw_affiliation_strings": [
+        "Department of General Psychology, University of Padua, Via Venezia, 8, 35131, Padua, PD, Italy"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of General Psychology, University of Padua, Via Venezia, 8, 35131, Padua, PD, Italy",
+          "institution_ids": [
+            "https://openalex.org/I138689650"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5077481172",
+        "display_name": "David Giofr\u00e8",
+        "orcid": "https://orcid.org/0000-0002-1992-6271"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I83816512",
+          "display_name": "University of Genoa",
+          "ror": "https://ror.org/0107c5v14",
+          "country_code": "IT",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I83816512"
+          ]
+        }
+      ],
+      "countries": [
+        "IT"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "David Giofr\u00e8",
+      "raw_affiliation_strings": [
+        "DISFOR, University of Genoa, Genova, Italy"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "DISFOR, University of Genoa, Genova, Italy",
+          "institution_ids": [
+            "https://openalex.org/I83816512"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5002013321",
+        "display_name": "Massimiliano Pastore",
+        "orcid": "https://orcid.org/0000-0002-7922-6365"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I138689650",
+          "display_name": "University of Padua",
+          "ror": "https://ror.org/00240q980",
+          "country_code": "IT",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I138689650"
+          ]
+        }
+      ],
+      "countries": [
+        "IT"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Massimiliano Pastore",
+      "raw_affiliation_strings": [
+        "Department of Developmental Psychology and Socialisation, University of Padua, Padova, Italy"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Developmental Psychology and Socialisation, University of Padua, Padova, Italy",
+          "institution_ids": [
+            "https://openalex.org/I138689650"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5085030631",
+        "display_name": "Barbara Carretti",
+        "orcid": "https://orcid.org/0000-0001-5147-7544"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I138689650",
+          "display_name": "University of Padua",
+          "ror": "https://ror.org/00240q980",
+          "country_code": "IT",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I138689650"
+          ]
+        }
+      ],
+      "countries": [
+        "IT"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Barbara Carretti",
+      "raw_affiliation_strings": [
+        "Department of General Psychology, University of Padua, Via Venezia, 8, 35131, Padua, PD, Italy"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of General Psychology, University of Padua, Via Venezia, 8, 35131, Padua, PD, Italy",
+          "institution_ids": [
+            "https://openalex.org/I138689650"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5063229661",
+        "display_name": "Federica Fraccadori",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I138689650",
+          "display_name": "University of Padua",
+          "ror": "https://ror.org/00240q980",
+          "country_code": "IT",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I138689650"
+          ]
+        }
+      ],
+      "countries": [
+        "IT"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Federica Fraccadori",
+      "raw_affiliation_strings": [
+        "Department of General Psychology, University of Padua, Via Venezia, 8, 35131, Padua, PD, Italy"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of General Psychology, University of Padua, Via Venezia, 8, 35131, Padua, PD, Italy",
+          "institution_ids": [
+            "https://openalex.org/I138689650"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5005925013",
+        "display_name": "D\u00e9nes Sz\u0171cs",
+        "orcid": "https://orcid.org/0000-0002-9477-0801"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I241749",
+          "display_name": "University of Cambridge",
+          "ror": "https://ror.org/013meh722",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I241749"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Denes Sz\u0171cs",
+      "raw_affiliation_strings": [
+        "Department of Psychology, Centre for Neuroscience in Education, University of Cambridge, Cambridge, UK"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Psychology, Centre for Neuroscience in Education, University of Cambridge, Cambridge, UK",
+          "institution_ids": [
+            "https://openalex.org/I241749"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 2,
+  "institutions_distinct_count": 6,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5005591594"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I138689650"
+  ],
+  "apc_list": {
+    "value": 2790,
+    "currency": "EUR",
+    "value_usd": 3590
+  },
+  "apc_paid": {
+    "value": 2790,
+    "currency": "EUR",
+    "value_usd": 3590
+  },
+  "fwci": 5.90695717,
+  "has_fulltext": true,
+  "cited_by_count": 29,
+  "citation_normalized_percentile": {
+    "value": 0.95687286,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 98,
+    "max": 99
+  },
+  "biblio": {
+    "volume": "53",
+    "issue": "5",
+    "first_page": "1954",
+    "last_page": "1972"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10103",
+    "display_name": "Reading and Literacy Development",
+    "score": 0.9993000030517578,
+    "subfield": {
+      "id": "https://openalex.org/subfields/3204",
+      "display_name": "Developmental and Educational Psychology"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/32",
+      "display_name": "Psychology"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/2",
+      "display_name": "Social Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10103",
+      "display_name": "Reading and Literacy Development",
+      "score": 0.9993000030517578,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3204",
+        "display_name": "Developmental and Educational Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10537",
+      "display_name": "Attention Deficit Hyperactivity Disorder",
+      "score": 0.9972000122070312,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2738",
+        "display_name": "Psychiatry and Mental health"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11345",
+      "display_name": "Cognitive and developmental aspects of mathematical skills",
+      "score": 0.9879000186920166,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2613",
+        "display_name": "Statistics and Probability"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/26",
+        "display_name": "Mathematics"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/sample-size-determination",
+      "display_name": "Sample size determination",
+      "score": 0.7295705676078796
+    },
+    {
+      "id": "https://openalex.org/keywords/dyslexia",
+      "display_name": "Dyslexia",
+      "score": 0.7260532379150391
+    },
+    {
+      "id": "https://openalex.org/keywords/strictly-standardized-mean-difference",
+      "display_name": "Strictly standardized mean difference",
+      "score": 0.5129094123840332
+    },
+    {
+      "id": "https://openalex.org/keywords/psychology",
+      "display_name": "Psychology",
+      "score": 0.5054998397827148
+    },
+    {
+      "id": "https://openalex.org/keywords/population",
+      "display_name": "Population",
+      "score": 0.49753597378730774
+    },
+    {
+      "id": "https://openalex.org/keywords/treatment-effect",
+      "display_name": "Treatment effect",
+      "score": 0.48976826667785645
+    },
+    {
+      "id": "https://openalex.org/keywords/statistical-power",
+      "display_name": "Statistical power",
+      "score": 0.48190930485725403
+    },
+    {
+      "id": "https://openalex.org/keywords/extant-taxon",
+      "display_name": "Extant taxon",
+      "score": 0.48160478472709656
+    },
+    {
+      "id": "https://openalex.org/keywords/reading",
+      "display_name": "Reading (process)",
+      "score": 0.4561353325843811
+    },
+    {
+      "id": "https://openalex.org/keywords/intervention",
+      "display_name": "Intervention (counseling)",
+      "score": 0.45116356015205383
+    },
+    {
+      "id": "https://openalex.org/keywords/clinical-psychology",
+      "display_name": "Clinical psychology",
+      "score": 0.42688754200935364
+    },
+    {
+      "id": "https://openalex.org/keywords/treatment-and-control-groups",
+      "display_name": "Treatment and control groups",
+      "score": 0.425092875957489
+    },
+    {
+      "id": "https://openalex.org/keywords/clinical-study-design",
+      "display_name": "Clinical study design",
+      "score": 0.4231388568878174
+    },
+    {
+      "id": "https://openalex.org/keywords/research-design",
+      "display_name": "Research design",
+      "score": 0.4101426601409912
+    },
+    {
+      "id": "https://openalex.org/keywords/cognitive-psychology",
+      "display_name": "Cognitive psychology",
+      "score": 0.39599907398223877
+    },
+    {
+      "id": "https://openalex.org/keywords/meta-analysis",
+      "display_name": "Meta-analysis",
+      "score": 0.3676939010620117
+    },
+    {
+      "id": "https://openalex.org/keywords/medicine",
+      "display_name": "Medicine",
+      "score": 0.3314554691314697
+    },
+    {
+      "id": "https://openalex.org/keywords/statistics",
+      "display_name": "Statistics",
+      "score": 0.32361429929733276
+    },
+    {
+      "id": "https://openalex.org/keywords/clinical-trial",
+      "display_name": "Clinical trial",
+      "score": 0.21376708149909973
+    },
+    {
+      "id": "https://openalex.org/keywords/psychiatry",
+      "display_name": "Psychiatry",
+      "score": 0.17782217264175415
+    },
+    {
+      "id": "https://openalex.org/keywords/mathematics",
+      "display_name": "Mathematics",
+      "score": 0.15044716000556946
+    },
+    {
+      "id": "https://openalex.org/keywords/pathology",
+      "display_name": "Pathology",
+      "score": 0.10554373264312744
+    },
+    {
+      "id": "https://openalex.org/keywords/linguistics",
+      "display_name": "Linguistics",
+      "score": 0.09255295991897583
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C129848803",
+      "wikidata": "https://www.wikidata.org/wiki/Q2564360",
+      "display_name": "Sample size determination",
+      "level": 2,
+      "score": 0.7295705676078796
+    },
+    {
+      "id": "https://openalex.org/C506058694",
+      "wikidata": "https://www.wikidata.org/wiki/Q132971",
+      "display_name": "Dyslexia",
+      "level": 3,
+      "score": 0.7260532379150391
+    },
+    {
+      "id": "https://openalex.org/C28804328",
+      "wikidata": "https://www.wikidata.org/wiki/Q7623693",
+      "display_name": "Strictly standardized mean difference",
+      "level": 3,
+      "score": 0.5129094123840332
+    },
+    {
+      "id": "https://openalex.org/C15744967",
+      "wikidata": "https://www.wikidata.org/wiki/Q9418",
+      "display_name": "Psychology",
+      "level": 0,
+      "score": 0.5054998397827148
+    },
+    {
+      "id": "https://openalex.org/C2908647359",
+      "wikidata": "https://www.wikidata.org/wiki/Q2625603",
+      "display_name": "Population",
+      "level": 2,
+      "score": 0.49753597378730774
+    },
+    {
+      "id": "https://openalex.org/C2987370644",
+      "wikidata": "https://www.wikidata.org/wiki/Q7836903",
+      "display_name": "Treatment effect",
+      "level": 2,
+      "score": 0.48976826667785645
+    },
+    {
+      "id": "https://openalex.org/C96608239",
+      "wikidata": "https://www.wikidata.org/wiki/Q1199823",
+      "display_name": "Statistical power",
+      "level": 2,
+      "score": 0.48190930485725403
+    },
+    {
+      "id": "https://openalex.org/C178300618",
+      "wikidata": "https://www.wikidata.org/wiki/Q1898509",
+      "display_name": "Extant taxon",
+      "level": 2,
+      "score": 0.48160478472709656
+    },
+    {
+      "id": "https://openalex.org/C554936623",
+      "wikidata": "https://www.wikidata.org/wiki/Q199657",
+      "display_name": "Reading (process)",
+      "level": 2,
+      "score": 0.4561353325843811
+    },
+    {
+      "id": "https://openalex.org/C2780665704",
+      "wikidata": "https://www.wikidata.org/wiki/Q959298",
+      "display_name": "Intervention (counseling)",
+      "level": 2,
+      "score": 0.45116356015205383
+    },
+    {
+      "id": "https://openalex.org/C70410870",
+      "wikidata": "https://www.wikidata.org/wiki/Q199906",
+      "display_name": "Clinical psychology",
+      "level": 1,
+      "score": 0.42688754200935364
+    },
+    {
+      "id": "https://openalex.org/C100480397",
+      "wikidata": "https://www.wikidata.org/wiki/Q7836899",
+      "display_name": "Treatment and control groups",
+      "level": 2,
+      "score": 0.425092875957489
+    },
+    {
+      "id": "https://openalex.org/C148482608",
+      "wikidata": "https://www.wikidata.org/wiki/Q17007018",
+      "display_name": "Clinical study design",
+      "level": 3,
+      "score": 0.4231388568878174
+    },
+    {
+      "id": "https://openalex.org/C2779318504",
+      "wikidata": "https://www.wikidata.org/wiki/Q1438035",
+      "display_name": "Research design",
+      "level": 2,
+      "score": 0.4101426601409912
+    },
+    {
+      "id": "https://openalex.org/C180747234",
+      "wikidata": "https://www.wikidata.org/wiki/Q23373",
+      "display_name": "Cognitive psychology",
+      "level": 1,
+      "score": 0.39599907398223877
+    },
+    {
+      "id": "https://openalex.org/C95190672",
+      "wikidata": "https://www.wikidata.org/wiki/Q815382",
+      "display_name": "Meta-analysis",
+      "level": 2,
+      "score": 0.3676939010620117
+    },
+    {
+      "id": "https://openalex.org/C71924100",
+      "wikidata": "https://www.wikidata.org/wiki/Q11190",
+      "display_name": "Medicine",
+      "level": 0,
+      "score": 0.3314554691314697
+    },
+    {
+      "id": "https://openalex.org/C105795698",
+      "wikidata": "https://www.wikidata.org/wiki/Q12483",
+      "display_name": "Statistics",
+      "level": 1,
+      "score": 0.32361429929733276
+    },
+    {
+      "id": "https://openalex.org/C535046627",
+      "wikidata": "https://www.wikidata.org/wiki/Q30612",
+      "display_name": "Clinical trial",
+      "level": 2,
+      "score": 0.21376708149909973
+    },
+    {
+      "id": "https://openalex.org/C118552586",
+      "wikidata": "https://www.wikidata.org/wiki/Q7867",
+      "display_name": "Psychiatry",
+      "level": 1,
+      "score": 0.17782217264175415
+    },
+    {
+      "id": "https://openalex.org/C33923547",
+      "wikidata": "https://www.wikidata.org/wiki/Q395",
+      "display_name": "Mathematics",
+      "level": 0,
+      "score": 0.15044716000556946
+    },
+    {
+      "id": "https://openalex.org/C142724271",
+      "wikidata": "https://www.wikidata.org/wiki/Q7208",
+      "display_name": "Pathology",
+      "level": 1,
+      "score": 0.10554373264312744
+    },
+    {
+      "id": "https://openalex.org/C41895202",
+      "wikidata": "https://www.wikidata.org/wiki/Q8162",
+      "display_name": "Linguistics",
+      "level": 1,
+      "score": 0.09255295991897583
+    },
+    {
+      "id": "https://openalex.org/C86803240",
+      "wikidata": "https://www.wikidata.org/wiki/Q420",
+      "display_name": "Biology",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C138885662",
+      "wikidata": "https://www.wikidata.org/wiki/Q5891",
+      "display_name": "Philosophy",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C556039675",
+      "wikidata": "https://www.wikidata.org/wiki/Q771035",
+      "display_name": "Traditional medicine",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C99454951",
+      "wikidata": "https://www.wikidata.org/wiki/Q932068",
+      "display_name": "Environmental health",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C78458016",
+      "wikidata": "https://www.wikidata.org/wiki/Q840400",
+      "display_name": "Evolutionary biology",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [
+    {
+      "descriptor_ui": "D004410",
+      "descriptor_name": "Dyslexia",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D016896",
+      "descriptor_name": "Treatment Outcome",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D004410",
+      "descriptor_name": "Dyslexia",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D016896",
+      "descriptor_name": "Treatment Outcome",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    }
+  ],
+  "locations_count": 10,
+  "locations": [
+    {
+      "id": "doi:10.3758/s13428-021-01549-x",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.3758/s13428-021-01549-x",
+      "pdf_url": "https://link.springer.com/content/pdf/10.3758/s13428-021-01549-x.pdf",
+      "source": {
+        "id": "https://openalex.org/S137478622",
+        "display_name": "Behavior Research Methods",
+        "issn_l": "1554-351X",
+        "issn": [
+          "1554-351X",
+          "1554-3528"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310319900",
+        "host_organization_name": "Springer Science+Business Media",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310319900"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Behavior Research Methods"
+    },
+    {
+      "id": "pmid:33694077",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/33694077",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Behavior research methods"
+    },
+    {
+      "id": "pmh:oai:pubmedcentral.nih.gov:8516770",
+      "is_oa": true,
+      "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/8516770",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S2764455111",
+        "display_name": "PubMed Central",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "other-oa",
+      "license_id": "https://openalex.org/licenses/other-oa",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Behav Res Methods"
+    },
+    {
+      "id": "pmh:oai:www.repository.cam.ac.uk:1810/318907",
+      "is_oa": true,
+      "landing_page_url": "https://www.repository.cam.ac.uk/handle/1810/318907",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401776",
+        "display_name": "Apollo (University of Cambridge)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I241749",
+        "host_organization_name": "University of Cambridge",
+        "host_organization_lineage": [
+          "https://openalex.org/I241749"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": ""
+    },
+    {
+      "id": "pmh:oai:europepmc.org:7441082",
+      "is_oa": true,
+      "landing_page_url": "http://europepmc.org/pmc/articles/PMC8516770",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306400806",
+        "display_name": "Europe PMC (PubMed Central)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1303153112",
+        "host_organization_name": "European Bioinformatics Institute",
+        "host_organization_lineage": [
+          "https://openalex.org/I1303153112"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "other-oa",
+      "license_id": "https://openalex.org/licenses/other-oa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": ""
+    },
+    {
+      "id": "pmh:oai:iris.unige.it:11567/1050262",
+      "is_oa": true,
+      "landing_page_url": "https://hdl.handle.net/11567/1050262",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4377196291",
+        "display_name": "CINECA IRIS Institutial Research Information System (University of Genoa)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I83816512",
+        "host_organization_name": "University of Genoa",
+        "host_organization_lineage": [
+          "https://openalex.org/I83816512"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "other-oa",
+      "license_id": "https://openalex.org/licenses/other-oa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": null
+    },
+    {
+      "id": "pmh:oai:www.research.unipd.it:11577/3417421",
+      "is_oa": true,
+      "landing_page_url": "http://hdl.handle.net/11577/3417421",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306402448",
+        "display_name": "Padua Research Archive (University of Padua)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I138689650",
+        "host_organization_name": "University of Padua",
+        "host_organization_lineage": [
+          "https://openalex.org/I138689650"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": ""
+    },
+    {
+      "id": "pmh:oai:www.repository.cam.ac.uk:1810/329511",
+      "is_oa": true,
+      "landing_page_url": "https://www.repository.cam.ac.uk/handle/1810/329511",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401776",
+        "display_name": "Apollo (University of Cambridge)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I241749",
+        "host_organization_name": "University of Cambridge",
+        "host_organization_lineage": [
+          "https://openalex.org/I241749"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": ""
+    },
+    {
+      "id": "doi:10.17863/cam.76959",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.17863/cam.76959",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S7407050737",
+        "display_name": "Apollo",
+        "issn_l": null,
+        "issn": [],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [
+          null
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": null,
+      "is_accepted": false,
+      "is_published": null,
+      "raw_source_name": null
+    },
+    {
+      "id": "doi:10.17863/cam.66023",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.17863/cam.66023",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S7407050737",
+        "display_name": "Apollo",
+        "issn_l": null,
+        "issn": [],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [
+          null
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": null,
+      "is_accepted": false,
+      "is_published": null,
+      "raw_source_name": null
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.3758/s13428-021-01549-x",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.3758/s13428-021-01549-x",
+    "pdf_url": "https://link.springer.com/content/pdf/10.3758/s13428-021-01549-x.pdf",
+    "source": {
+      "id": "https://openalex.org/S137478622",
+      "display_name": "Behavior Research Methods",
+      "issn_l": "1554-351X",
+      "issn": [
+        "1554-351X",
+        "1554-3528"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310319900",
+      "host_organization_name": "Springer Science+Business Media",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310319900"
+      ],
+      "host_organization_lineage_names": [],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Behavior Research Methods",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [
+    {
+      "id": "https://metadata.un.org/sdg/4",
+      "score": 0.5899999737739563,
+      "display_name": "Quality Education"
+    }
+  ],
+  "grants": [
+    {
+      "funder": "https://openalex.org/F4320321966",
+      "funder_display_name": "Universit\u00e0 degli Studi di Padova",
+      "award_id": null
+    }
+  ],
+  "awards": [],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320321966",
+      "display_name": "Universit\u00e0 degli Studi di Padova",
+      "ror": "https://ror.org/00240q980"
+    }
+  ],
+  "has_content": {
+    "pdf": true,
+    "grobid_xml": true
+  },
+  "referenced_works_count": 79,
+  "referenced_works": [
+    "https://openalex.org/W2999733468",
+    "https://openalex.org/W4247665917",
+    "https://openalex.org/W2464812788",
+    "https://openalex.org/W2228179853",
+    "https://openalex.org/W1951724000",
+    "https://openalex.org/W1827283040",
+    "https://openalex.org/W4297918764",
+    "https://openalex.org/W2749069611",
+    "https://openalex.org/W2105824687",
+    "https://openalex.org/W2037124948",
+    "https://openalex.org/W2791404221",
+    "https://openalex.org/W2282988102",
+    "https://openalex.org/W2560158202",
+    "https://openalex.org/W2156656344",
+    "https://openalex.org/W2914151836",
+    "https://openalex.org/W2865284948",
+    "https://openalex.org/W2194032958",
+    "https://openalex.org/W2003201871",
+    "https://openalex.org/W2771199776",
+    "https://openalex.org/W2735192756",
+    "https://openalex.org/W2011637454",
+    "https://openalex.org/W4231774877",
+    "https://openalex.org/W3014650038",
+    "https://openalex.org/W2606143958",
+    "https://openalex.org/W2295136128",
+    "https://openalex.org/W3005086359",
+    "https://openalex.org/W2256910178",
+    "https://openalex.org/W1717168473",
+    "https://openalex.org/W2085497346",
+    "https://openalex.org/W2107178829",
+    "https://openalex.org/W2018721404",
+    "https://openalex.org/W3013549815",
+    "https://openalex.org/W2772171074",
+    "https://openalex.org/W3124625789",
+    "https://openalex.org/W2963382383",
+    "https://openalex.org/W2909513099",
+    "https://openalex.org/W3016519887",
+    "https://openalex.org/W2781970444",
+    "https://openalex.org/W1522405206",
+    "https://openalex.org/W2904969333",
+    "https://openalex.org/W2088974268",
+    "https://openalex.org/W2302202015",
+    "https://openalex.org/W4399650694",
+    "https://openalex.org/W2154973070",
+    "https://openalex.org/W2997835027",
+    "https://openalex.org/W1897139626",
+    "https://openalex.org/W2582743722",
+    "https://openalex.org/W2089763487",
+    "https://openalex.org/W2111762558",
+    "https://openalex.org/W2335953718",
+    "https://openalex.org/W2491792734",
+    "https://openalex.org/W2783062281",
+    "https://openalex.org/W2951081425",
+    "https://openalex.org/W3042526937",
+    "https://openalex.org/W2804263949",
+    "https://openalex.org/W2159684207",
+    "https://openalex.org/W2765654388",
+    "https://openalex.org/W2914055551",
+    "https://openalex.org/W2123222757",
+    "https://openalex.org/W2990824829",
+    "https://openalex.org/W4254687493",
+    "https://openalex.org/W1980320402",
+    "https://openalex.org/W2407036885",
+    "https://openalex.org/W2770280349",
+    "https://openalex.org/W2096656075",
+    "https://openalex.org/W2995391690",
+    "https://openalex.org/W2119303750",
+    "https://openalex.org/W103776506",
+    "https://openalex.org/W71228264",
+    "https://openalex.org/W2128586649",
+    "https://openalex.org/W2798157462",
+    "https://openalex.org/W2197217725",
+    "https://openalex.org/W2008807393",
+    "https://openalex.org/W1587026990",
+    "https://openalex.org/W2525726046",
+    "https://openalex.org/W4237078539",
+    "https://openalex.org/W2591641564",
+    "https://openalex.org/W2110437946",
+    "https://openalex.org/W2906253013"
+  ],
+  "related_works": [
+    "https://openalex.org/W2951689186",
+    "https://openalex.org/W2003142259",
+    "https://openalex.org/W2392070552",
+    "https://openalex.org/W109315411",
+    "https://openalex.org/W4300949542",
+    "https://openalex.org/W4214750924",
+    "https://openalex.org/W3123021196",
+    "https://openalex.org/W2376335483",
+    "https://openalex.org/W2379605867",
+    "https://openalex.org/W2478752466"
+  ],
+  "abstract_inverted_index": null,
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 9
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 6
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 8
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 6
+    }
+  ],
+  "updated_date": "2025-11-06T03:46:38.306776",
+  "created_date": "2025-10-10T00:00:00"
+}

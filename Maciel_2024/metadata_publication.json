@@ -1,0 +1,711 @@
+{
+  "id": "https://openalex.org/W4403886870",
+  "doi": "https://doi.org/10.1080/07481187.2024.2419605",
+  "title": "Adult insecure attachment styles and suicidality: A meta-analysis",
+  "display_name": "Adult insecure attachment styles and suicidality: A meta-analysis",
+  "publication_year": 2024,
+  "publication_date": "2024-10-30",
+  "ids": {
+    "openalex": "https://openalex.org/W4403886870",
+    "doi": "https://doi.org/10.1080/07481187.2024.2419605",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/39475484"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1080/07481187.2024.2419605",
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.1080/07481187.2024.2419605",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S204419675",
+      "display_name": "Death Studies",
+      "issn_l": "0748-1187",
+      "issn": [
+        "0748-1187",
+        "1091-7683"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320547",
+      "host_organization_name": "Taylor & Francis",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320547"
+      ],
+      "host_organization_lineage_names": [
+        "Taylor & Francis"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Death Studies",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5051622777",
+        "display_name": "Mariana Rangel Maciel",
+        "orcid": "https://orcid.org/0000-0002-1428-3553"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I88273585",
+          "display_name": "Universidade Federal de S\u00e3o Paulo",
+          "ror": "https://ror.org/02k5swt12",
+          "country_code": "BR",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I88273585"
+          ]
+        }
+      ],
+      "countries": [
+        "BR"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Mariana R. Maciel",
+      "raw_affiliation_strings": [
+        "Program for Research and Care on Violence and PTSD (PROVE), Department of Psychiatry, Universidade Federal de S\u00e3o Paulo (UNIFESP), S\u00e3o Paulo, Brazil"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Program for Research and Care on Violence and PTSD (PROVE), Department of Psychiatry, Universidade Federal de S\u00e3o Paulo (UNIFESP), S\u00e3o Paulo, Brazil",
+          "institution_ids": [
+            "https://openalex.org/I88273585"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5034041462",
+        "display_name": "Cecilia Zylberstajn",
+        "orcid": "https://orcid.org/0000-0002-3906-9641"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I88273585",
+          "display_name": "Universidade Federal de S\u00e3o Paulo",
+          "ror": "https://ror.org/02k5swt12",
+          "country_code": "BR",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I88273585"
+          ]
+        }
+      ],
+      "countries": [
+        "BR"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Cecilia Zylberstajn",
+      "raw_affiliation_strings": [
+        "Program for Research and Care on Violence and PTSD (PROVE), Department of Psychiatry, Universidade Federal de S\u00e3o Paulo (UNIFESP), S\u00e3o Paulo, Brazil"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Program for Research and Care on Violence and PTSD (PROVE), Department of Psychiatry, Universidade Federal de S\u00e3o Paulo (UNIFESP), S\u00e3o Paulo, Brazil",
+          "institution_ids": [
+            "https://openalex.org/I88273585"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5033701581",
+        "display_name": "Marcelo F. Mello",
+        "orcid": "https://orcid.org/0000-0002-0475-4729"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I88273585",
+          "display_name": "Universidade Federal de S\u00e3o Paulo",
+          "ror": "https://ror.org/02k5swt12",
+          "country_code": "BR",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I88273585"
+          ]
+        }
+      ],
+      "countries": [
+        "BR"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Marcelo F. Mello",
+      "raw_affiliation_strings": [
+        "Program for Research and Care on Violence and PTSD (PROVE), Department of Psychiatry, Universidade Federal de S\u00e3o Paulo (UNIFESP), S\u00e3o Paulo, Brazil"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Program for Research and Care on Violence and PTSD (PROVE), Department of Psychiatry, Universidade Federal de S\u00e3o Paulo (UNIFESP), S\u00e3o Paulo, Brazil",
+          "institution_ids": [
+            "https://openalex.org/I88273585"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5069908996",
+        "display_name": "Bruno Messina Coimbra",
+        "orcid": "https://orcid.org/0000-0001-5092-9625"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I88273585",
+          "display_name": "Universidade Federal de S\u00e3o Paulo",
+          "ror": "https://ror.org/02k5swt12",
+          "country_code": "BR",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I88273585"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I193662353",
+          "display_name": "Utrecht University",
+          "ror": "https://ror.org/04pp8hn57",
+          "country_code": "NL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I193662353"
+          ]
+        }
+      ],
+      "countries": [
+        "BR",
+        "NL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Bruno M. Coimbra",
+      "raw_affiliation_strings": [
+        "Department of Methodology and Statistics, Faculty of Social and Behavioral Sciences, Utrecht University, Utrecht, The Netherlands",
+        "Program for Research and Care on Violence and PTSD (PROVE), Department of Psychiatry, Universidade Federal de S\u00e3o Paulo (UNIFESP), S\u00e3o Paulo, Brazil"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Program for Research and Care on Violence and PTSD (PROVE), Department of Psychiatry, Universidade Federal de S\u00e3o Paulo (UNIFESP), S\u00e3o Paulo, Brazil",
+          "institution_ids": [
+            "https://openalex.org/I88273585"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Methodology and Statistics, Faculty of Social and Behavioral Sciences, Utrecht University, Utrecht, The Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I193662353"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5086856010",
+        "display_name": "Andr\u00e9a F. Mello",
+        "orcid": "https://orcid.org/0000-0001-8498-7751"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I88273585",
+          "display_name": "Universidade Federal de S\u00e3o Paulo",
+          "ror": "https://ror.org/02k5swt12",
+          "country_code": "BR",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I88273585"
+          ]
+        }
+      ],
+      "countries": [
+        "BR"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Andrea F. Mello",
+      "raw_affiliation_strings": [
+        "Program for Research and Care on Violence and PTSD (PROVE), Department of Psychiatry, Universidade Federal de S\u00e3o Paulo (UNIFESP), S\u00e3o Paulo, Brazil"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Program for Research and Care on Violence and PTSD (PROVE), Department of Psychiatry, Universidade Federal de S\u00e3o Paulo (UNIFESP), S\u00e3o Paulo, Brazil",
+          "institution_ids": [
+            "https://openalex.org/I88273585"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 2,
+  "institutions_distinct_count": 5,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5051622777"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I88273585"
+  ],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 0.0,
+  "has_fulltext": false,
+  "cited_by_count": 0,
+  "citation_normalized_percentile": {
+    "value": 0.28185624,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": null,
+  "biblio": {
+    "volume": null,
+    "issue": null,
+    "first_page": "1",
+    "last_page": "12"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10677",
+    "display_name": "Attachment and Relationship Dynamics",
+    "score": 0.9994999766349792,
+    "subfield": {
+      "id": "https://openalex.org/subfields/3207",
+      "display_name": "Social Psychology"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/32",
+      "display_name": "Psychology"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/2",
+      "display_name": "Social Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10677",
+      "display_name": "Attachment and Relationship Dynamics",
+      "score": 0.9994999766349792,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3207",
+        "display_name": "Social Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10376",
+      "display_name": "Suicide and Self-Harm Studies",
+      "score": 0.9986000061035156,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3203",
+        "display_name": "Clinical Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10585",
+      "display_name": "Family Dynamics and Relationships",
+      "score": 0.9945999979972839,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3317",
+        "display_name": "Demography"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/psychology",
+      "display_name": "Psychology",
+      "score": 0.5665982365608215
+    },
+    {
+      "id": "https://openalex.org/keywords/meta-analysis",
+      "display_name": "Meta-analysis",
+      "score": 0.5385239124298096
+    },
+    {
+      "id": "https://openalex.org/keywords/suicide-prevention",
+      "display_name": "Suicide prevention",
+      "score": 0.4196261167526245
+    },
+    {
+      "id": "https://openalex.org/keywords/poison-control",
+      "display_name": "Poison control",
+      "score": 0.4186054766178131
+    },
+    {
+      "id": "https://openalex.org/keywords/clinical-psychology",
+      "display_name": "Clinical psychology",
+      "score": 0.3648323714733124
+    },
+    {
+      "id": "https://openalex.org/keywords/developmental-psychology",
+      "display_name": "Developmental psychology",
+      "score": 0.3337419629096985
+    },
+    {
+      "id": "https://openalex.org/keywords/social-psychology",
+      "display_name": "Social psychology",
+      "score": 0.3326350748538971
+    },
+    {
+      "id": "https://openalex.org/keywords/medicine",
+      "display_name": "Medicine",
+      "score": 0.26547563076019287
+    },
+    {
+      "id": "https://openalex.org/keywords/medical-emergency",
+      "display_name": "Medical emergency",
+      "score": 0.26157844066619873
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C15744967",
+      "wikidata": "https://www.wikidata.org/wiki/Q9418",
+      "display_name": "Psychology",
+      "level": 0,
+      "score": 0.5665982365608215
+    },
+    {
+      "id": "https://openalex.org/C95190672",
+      "wikidata": "https://www.wikidata.org/wiki/Q815382",
+      "display_name": "Meta-analysis",
+      "level": 2,
+      "score": 0.5385239124298096
+    },
+    {
+      "id": "https://openalex.org/C526869908",
+      "wikidata": "https://www.wikidata.org/wiki/Q3298118",
+      "display_name": "Suicide prevention",
+      "level": 3,
+      "score": 0.4196261167526245
+    },
+    {
+      "id": "https://openalex.org/C3017944768",
+      "wikidata": "https://www.wikidata.org/wiki/Q1450463",
+      "display_name": "Poison control",
+      "level": 2,
+      "score": 0.4186054766178131
+    },
+    {
+      "id": "https://openalex.org/C70410870",
+      "wikidata": "https://www.wikidata.org/wiki/Q199906",
+      "display_name": "Clinical psychology",
+      "level": 1,
+      "score": 0.3648323714733124
+    },
+    {
+      "id": "https://openalex.org/C138496976",
+      "wikidata": "https://www.wikidata.org/wiki/Q175002",
+      "display_name": "Developmental psychology",
+      "level": 1,
+      "score": 0.3337419629096985
+    },
+    {
+      "id": "https://openalex.org/C77805123",
+      "wikidata": "https://www.wikidata.org/wiki/Q161272",
+      "display_name": "Social psychology",
+      "level": 1,
+      "score": 0.3326350748538971
+    },
+    {
+      "id": "https://openalex.org/C71924100",
+      "wikidata": "https://www.wikidata.org/wiki/Q11190",
+      "display_name": "Medicine",
+      "level": 0,
+      "score": 0.26547563076019287
+    },
+    {
+      "id": "https://openalex.org/C545542383",
+      "wikidata": "https://www.wikidata.org/wiki/Q2751242",
+      "display_name": "Medical emergency",
+      "level": 1,
+      "score": 0.26157844066619873
+    },
+    {
+      "id": "https://openalex.org/C126322002",
+      "wikidata": "https://www.wikidata.org/wiki/Q11180",
+      "display_name": "Internal medicine",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 2,
+  "locations": [
+    {
+      "id": "doi:10.1080/07481187.2024.2419605",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1080/07481187.2024.2419605",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S204419675",
+        "display_name": "Death Studies",
+        "issn_l": "0748-1187",
+        "issn": [
+          "0748-1187",
+          "1091-7683"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320547",
+        "host_organization_name": "Taylor & Francis",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320547"
+        ],
+        "host_organization_lineage_names": [
+          "Taylor & Francis"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Death Studies",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:39475484",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/39475484",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Death studies",
+      "raw_type": null
+    }
+  ],
+  "best_oa_location": null,
+  "sustainable_development_goals": [
+    {
+      "id": "https://metadata.un.org/sdg/5",
+      "display_name": "Gender equality",
+      "score": 0.6200000047683716
+    }
+  ],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "grobid_xml": false,
+    "pdf": false
+  },
+  "referenced_works_count": 79,
+  "referenced_works": [
+    "https://openalex.org/W2987839585",
+    "https://openalex.org/W1796738135",
+    "https://openalex.org/W1989685615",
+    "https://openalex.org/W2145025766",
+    "https://openalex.org/W4213318148",
+    "https://openalex.org/W4233442679",
+    "https://openalex.org/W2127375334",
+    "https://openalex.org/W1967825221",
+    "https://openalex.org/W3138922360",
+    "https://openalex.org/W1964435302",
+    "https://openalex.org/W1624170337",
+    "https://openalex.org/W2784322444",
+    "https://openalex.org/W2131981798",
+    "https://openalex.org/W2766751125",
+    "https://openalex.org/W4295060096",
+    "https://openalex.org/W2120002440",
+    "https://openalex.org/W3082811816",
+    "https://openalex.org/W2810111222",
+    "https://openalex.org/W2048008286",
+    "https://openalex.org/W2030602331",
+    "https://openalex.org/W2131783775",
+    "https://openalex.org/W2118654888",
+    "https://openalex.org/W2033585778",
+    "https://openalex.org/W2157823046",
+    "https://openalex.org/W4396747049",
+    "https://openalex.org/W4237462033",
+    "https://openalex.org/W6757037614",
+    "https://openalex.org/W2184872771",
+    "https://openalex.org/W2554980225",
+    "https://openalex.org/W2003464903",
+    "https://openalex.org/W3011254389",
+    "https://openalex.org/W3138108230",
+    "https://openalex.org/W2006623428",
+    "https://openalex.org/W4244925768",
+    "https://openalex.org/W2097754952",
+    "https://openalex.org/W3206838569",
+    "https://openalex.org/W2126930838",
+    "https://openalex.org/W2465555961",
+    "https://openalex.org/W1554680611",
+    "https://openalex.org/W4242570794",
+    "https://openalex.org/W3039774047",
+    "https://openalex.org/W2983560591",
+    "https://openalex.org/W2984058653",
+    "https://openalex.org/W3168170314",
+    "https://openalex.org/W2056846199",
+    "https://openalex.org/W2073663992",
+    "https://openalex.org/W4385462172",
+    "https://openalex.org/W1977385640",
+    "https://openalex.org/W2163187022",
+    "https://openalex.org/W1739148636",
+    "https://openalex.org/W3035234097",
+    "https://openalex.org/W2891413250",
+    "https://openalex.org/W2131036019",
+    "https://openalex.org/W2002799377",
+    "https://openalex.org/W3144543375",
+    "https://openalex.org/W2072304688",
+    "https://openalex.org/W2794788193",
+    "https://openalex.org/W2048140405",
+    "https://openalex.org/W2016449621",
+    "https://openalex.org/W4322498512",
+    "https://openalex.org/W4307463016",
+    "https://openalex.org/W2036974889",
+    "https://openalex.org/W2160699556",
+    "https://openalex.org/W2164754586",
+    "https://openalex.org/W3212509848",
+    "https://openalex.org/W1721687418",
+    "https://openalex.org/W2981875455",
+    "https://openalex.org/W4386271289",
+    "https://openalex.org/W2999985237",
+    "https://openalex.org/W2139168999",
+    "https://openalex.org/W4229026781",
+    "https://openalex.org/W2091132690",
+    "https://openalex.org/W2811136229",
+    "https://openalex.org/W4302305363",
+    "https://openalex.org/W2971604386",
+    "https://openalex.org/W643967348",
+    "https://openalex.org/W574645501",
+    "https://openalex.org/W2067614431",
+    "https://openalex.org/W1993155157"
+  ],
+  "related_works": [
+    "https://openalex.org/W2260842574",
+    "https://openalex.org/W4231277310",
+    "https://openalex.org/W2086616525",
+    "https://openalex.org/W2014696941",
+    "https://openalex.org/W2237087163",
+    "https://openalex.org/W1967302349",
+    "https://openalex.org/W2092438568",
+    "https://openalex.org/W4401994564",
+    "https://openalex.org/W2002076882",
+    "https://openalex.org/W2915784763"
+  ],
+  "abstract_inverted_index": {
+    "This": [
+      0
+    ],
+    "review": [
+      1
+    ],
+    "has": [
+      2
+    ],
+    "been": [
+      3
+    ],
+    "preregistered": [
+      4
+    ],
+    "at": [
+      5
+    ],
+    "The": [
+      6
+    ],
+    "International": [
+      7
+    ],
+    "Prospective": [
+      8
+    ],
+    "Register": [
+      9
+    ],
+    "of": [
+      10
+    ],
+    "Systematic": [
+      11
+    ],
+    "Reviews": [
+      12
+    ],
+    "(PROSPERO)": [
+      13
+    ],
+    "-": [
+      14
+    ],
+    "Registration": [
+      15
+    ],
+    "number": [
+      16
+    ],
+    "CRD42023401459.": [
+      17
+    ]
+  },
+  "counts_by_year": [],
+  "updated_date": "2025-11-06T03:46:38.306776",
+  "created_date": "2025-10-10T00:00:00"
+}

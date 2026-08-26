@@ -1,0 +1,12 @@
+{
+  "key": "van_de_Schoot_2025",
+  "publication": {
+    "doi": "10.1080/20008066.2025.2546214",
+    "eligibility_criteria": "The eligibility criteria for this study mirror those from the 2016 systematic review:\nPTSS is measured at a minimum of three time points;\nPTSS is assessed following a traumatic event;\nPTSS is evaluated using a validated scale;\nLGMM is applied to PTSS data.\nIn addition to population-based/cohort studies, we also included clinical studies, which is new compared to the initial dataset."
+  },
+  "data": {
+    "doi": "10.34894/CRE6ZC",
+    "n_records": 14764,
+    "n_records_included": 172
+  }
+}

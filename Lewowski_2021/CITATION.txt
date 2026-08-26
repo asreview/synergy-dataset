@@ -1,0 +1,1 @@
+Lewowski, T., & Madeyski, L. (2022). How far are we from reproducible research on code smell detection? A systematic literature review. Information and Software Technology, 144, 106783. https://doi.org/10.1016/j.infsof.2021.106783

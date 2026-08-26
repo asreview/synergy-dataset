@@ -1,0 +1,1927 @@
+{
+  "id": "https://openalex.org/W4402825045",
+  "doi": "https://doi.org/10.1001/jamapsychiatry.2024.2854",
+  "title": "Suicidal Ideation and Suicide Attempts After Direct or Indirect Psychotherapy",
+  "display_name": "Suicidal Ideation and Suicide Attempts After Direct or Indirect Psychotherapy",
+  "publication_year": 2024,
+  "publication_date": "2024-09-25",
+  "ids": {
+    "openalex": "https://openalex.org/W4402825045",
+    "doi": "https://doi.org/10.1001/jamapsychiatry.2024.2854",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/39320902"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1001/jamapsychiatry.2024.2854",
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.1001/jamapsychiatry.2024.2854",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S2495708506",
+      "display_name": "JAMA Psychiatry",
+      "issn_l": "2168-622X",
+      "issn": [
+        "2168-622X",
+        "2168-6238"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320259",
+      "host_organization_name": "American Medical Association",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320259"
+      ],
+      "host_organization_lineage_names": [
+        "American Medical Association"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "JAMA Psychiatry",
+    "raw_type": "journal-article"
+  },
+  "type": "review",
+  "indexed_in": [
+    "crossref",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "green",
+    "oa_url": "https://cris.maastrichtuniversity.nl/en/publications/bfcbec51-d1be-4379-a155-40b90bac40a4",
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5043487540",
+        "display_name": "Wouter van Ballegooijen",
+        "orcid": "https://orcid.org/0000-0002-9189-6695"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I865915315",
+          "display_name": "Vrije Universiteit Amsterdam",
+          "ror": "https://ror.org/008xxew50",
+          "country_code": "NL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I865915315"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Wouter van Ballegooijen",
+      "raw_affiliation_strings": [
+        "Department of Clinical, Neuro and Developmental Psychology, Vrije Universiteit Amsterdam, Amsterdam, the Netherlands",
+        "Department of Psychiatry and Amsterdam Public Health Research Institute, Amsterdam University Medical Center, Amsterdam, the Netherlands"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Clinical, Neuro and Developmental Psychology, Vrije Universiteit Amsterdam, Amsterdam, the Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I865915315"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Psychiatry and Amsterdam Public Health Research Institute, Amsterdam University Medical Center, Amsterdam, the Netherlands",
+          "institution_ids": []
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5107530581",
+        "display_name": "Josine Rawee",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210148356",
+          "display_name": "GGD Amsterdam",
+          "ror": "https://ror.org/04gbbq803",
+          "country_code": "NL",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210088893",
+            "https://openalex.org/I4210148356"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Josine Rawee",
+      "raw_affiliation_strings": [
+        "Department of Research, 113 Suicide Prevention, Amsterdam, the Netherlands"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Research, 113 Suicide Prevention, Amsterdam, the Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I4210148356"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5052487225",
+        "display_name": "Christina Palantza",
+        "orcid": "https://orcid.org/0000-0003-2224-5343"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I36234482",
+          "display_name": "University of Bristol",
+          "ror": "https://ror.org/0524sp257",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I36234482"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Christina Palantza",
+      "raw_affiliation_strings": [
+        "Department of Population Health Sciences, University of Bristol, Bristol, United Kingdom"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Population Health Sciences, University of Bristol, Bristol, United Kingdom",
+          "institution_ids": [
+            "https://openalex.org/I36234482"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5051793931",
+        "display_name": "Clara Miguel",
+        "orcid": "https://orcid.org/0000-0001-5563-5896"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I865915315",
+          "display_name": "Vrije Universiteit Amsterdam",
+          "ror": "https://ror.org/008xxew50",
+          "country_code": "NL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I865915315"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Clara Miguel",
+      "raw_affiliation_strings": [
+        "Department of Clinical, Neuro and Developmental Psychology, Vrije Universiteit Amsterdam, Amsterdam, the Netherlands"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Clinical, Neuro and Developmental Psychology, Vrije Universiteit Amsterdam, Amsterdam, the Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I865915315"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5053074395",
+        "display_name": "Mathias Harrer",
+        "orcid": "https://orcid.org/0000-0001-7016-2687"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I62916508",
+          "display_name": "Technical University of Munich",
+          "ror": "https://ror.org/02kkvpp62",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I62916508"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Mathias Harrer",
+      "raw_affiliation_strings": [
+        "Department of Psychology & Digital Mental Health Care, Technical University of Munich, Munich, Bavaria, Germany"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Psychology & Digital Mental Health Care, Technical University of Munich, Munich, Bavaria, Germany",
+          "institution_ids": [
+            "https://openalex.org/I62916508"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5025084207",
+        "display_name": "Ioana A. Cristea",
+        "orcid": "https://orcid.org/0000-0002-9854-7076"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I138689650",
+          "display_name": "University of Padua",
+          "ror": "https://ror.org/00240q980",
+          "country_code": "IT",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I138689650"
+          ]
+        }
+      ],
+      "countries": [
+        "IT"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Ioana Cristea",
+      "raw_affiliation_strings": [
+        "Department of General Psychology, University of Padova, Padova, Italy"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of General Psychology, University of Padova, Padova, Italy",
+          "institution_ids": [
+            "https://openalex.org/I138689650"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5040765575",
+        "display_name": "Remco F. P. de Winter",
+        "orcid": "https://orcid.org/0000-0003-4129-8440"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210127104",
+          "display_name": "GGZ Rivierduinen",
+          "ror": "https://ror.org/029cn2a76",
+          "country_code": "NL",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210127104"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I34352273",
+          "display_name": "Maastricht University",
+          "ror": "https://ror.org/02jz4aj89",
+          "country_code": "NL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I34352273"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I865915315",
+          "display_name": "Vrije Universiteit Amsterdam",
+          "ror": "https://ror.org/008xxew50",
+          "country_code": "NL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I865915315"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Remco de Winter",
+      "raw_affiliation_strings": [
+        "Department of Clinical, Neuro and Developmental Psychology, Vrije Universiteit Amsterdam, Amsterdam, the Netherlands",
+        "Department of Psychiatry and Neuropsychology, Maastricht, the Netherlands",
+        "GGZ Rivierduinen, the Netherlands"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "GGZ Rivierduinen, the Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I4210127104"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Psychiatry and Neuropsychology, Maastricht, the Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I34352273"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Clinical, Neuro and Developmental Psychology, Vrije Universiteit Amsterdam, Amsterdam, the Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I865915315"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5051877833",
+        "display_name": "Renske Gilissen",
+        "orcid": "https://orcid.org/0000-0002-8009-6326"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210148356",
+          "display_name": "GGD Amsterdam",
+          "ror": "https://ror.org/04gbbq803",
+          "country_code": "NL",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210088893",
+            "https://openalex.org/I4210148356"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Renske Gilissen",
+      "raw_affiliation_strings": [
+        "Department of Research, 113 Suicide Prevention, Amsterdam, the Netherlands"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Research, 113 Suicide Prevention, Amsterdam, the Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I4210148356"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5039365724",
+        "display_name": "Merijn Eikelenboom",
+        "orcid": "https://orcid.org/0000-0003-4934-6427"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210151833",
+          "display_name": "Amsterdam University Medical Centers",
+          "ror": "https://ror.org/05grdyy37",
+          "country_code": "NL",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210151833"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Merijn Eikelenboom",
+      "raw_affiliation_strings": [
+        "Department of Psychiatry, Amsterdam University Medical Center, Amsterdam, the Netherlands"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Psychiatry, Amsterdam University Medical Center, Amsterdam, the Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I4210151833"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5081531461",
+        "display_name": "Aartjan T.F. Beekman",
+        "orcid": "https://orcid.org/0000-0003-2382-1410"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210151833",
+          "display_name": "Amsterdam University Medical Centers",
+          "ror": "https://ror.org/05grdyy37",
+          "country_code": "NL",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210151833"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Aartjan Beekman",
+      "raw_affiliation_strings": [
+        "Department of Psychiatry, Amsterdam University Medical Center, Amsterdam, the Netherlands"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Psychiatry, Amsterdam University Medical Center, Amsterdam, the Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I4210151833"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5016972944",
+        "display_name": "Pim Cuijpers",
+        "orcid": "https://orcid.org/0000-0001-5497-2743"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I865915315",
+          "display_name": "Vrije Universiteit Amsterdam",
+          "ror": "https://ror.org/008xxew50",
+          "country_code": "NL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I865915315"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Pim Cuijpers",
+      "raw_affiliation_strings": [
+        "Department of Clinical, Neuro and Developmental Psychology, Vrije Universiteit Amsterdam, Amsterdam, the Netherlands"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Clinical, Neuro and Developmental Psychology, Vrije Universiteit Amsterdam, Amsterdam, the Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I865915315"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 4,
+  "institutions_distinct_count": 11,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 33.60541888,
+  "has_fulltext": false,
+  "cited_by_count": 23,
+  "citation_normalized_percentile": {
+    "value": 0.99649693,
+    "is_in_top_1_percent": true,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 99,
+    "max": 100
+  },
+  "biblio": {
+    "volume": "82",
+    "issue": "1",
+    "first_page": "31",
+    "last_page": "31"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10376",
+    "display_name": "Suicide and Self-Harm Studies",
+    "score": 1.0,
+    "subfield": {
+      "id": "https://openalex.org/subfields/3203",
+      "display_name": "Clinical Psychology"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/32",
+      "display_name": "Psychology"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/2",
+      "display_name": "Social Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10376",
+      "display_name": "Suicide and Self-Harm Studies",
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3203",
+        "display_name": "Clinical Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10272",
+      "display_name": "Mental Health Treatment and Access",
+      "score": 0.9847000241279602,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3207",
+        "display_name": "Social Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11334",
+      "display_name": "Psychosomatic Disorders and Their Treatments",
+      "score": 0.9840999841690063,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2738",
+        "display_name": "Psychiatry and Mental health"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/suicidal-ideation",
+      "display_name": "Suicidal ideation",
+      "score": 0.8681133985519409
+    },
+    {
+      "id": "https://openalex.org/keywords/psycinfo",
+      "display_name": "PsycINFO",
+      "score": 0.7462188005447388
+    },
+    {
+      "id": "https://openalex.org/keywords/meta-analysis",
+      "display_name": "Meta-analysis",
+      "score": 0.6019699573516846
+    },
+    {
+      "id": "https://openalex.org/keywords/psychiatry",
+      "display_name": "Psychiatry",
+      "score": 0.5190271139144897
+    },
+    {
+      "id": "https://openalex.org/keywords/poison-control",
+      "display_name": "Poison control",
+      "score": 0.5182223320007324
+    },
+    {
+      "id": "https://openalex.org/keywords/suicide-prevention",
+      "display_name": "Suicide prevention",
+      "score": 0.4990551471710205
+    },
+    {
+      "id": "https://openalex.org/keywords/mental-health",
+      "display_name": "Mental health",
+      "score": 0.48064079880714417
+    },
+    {
+      "id": "https://openalex.org/keywords/clinical-psychology",
+      "display_name": "Clinical psychology",
+      "score": 0.4640570878982544
+    },
+    {
+      "id": "https://openalex.org/keywords/psychology",
+      "display_name": "Psychology",
+      "score": 0.4262073040008545
+    },
+    {
+      "id": "https://openalex.org/keywords/randomized-controlled-trial",
+      "display_name": "Randomized controlled trial",
+      "score": 0.4190801978111267
+    },
+    {
+      "id": "https://openalex.org/keywords/medicine",
+      "display_name": "Medicine",
+      "score": 0.3751735985279083
+    },
+    {
+      "id": "https://openalex.org/keywords/medline",
+      "display_name": "MEDLINE",
+      "score": 0.30456480383872986
+    },
+    {
+      "id": "https://openalex.org/keywords/medical-emergency",
+      "display_name": "Medical emergency",
+      "score": 0.08264169096946716
+    },
+    {
+      "id": "https://openalex.org/keywords/internal-medicine",
+      "display_name": "Internal medicine",
+      "score": 0.07130011916160583
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C2776641880",
+      "wikidata": "https://www.wikidata.org/wiki/Q944142",
+      "display_name": "Suicidal ideation",
+      "level": 4,
+      "score": 0.8681133985519409
+    },
+    {
+      "id": "https://openalex.org/C2779549880",
+      "wikidata": "https://www.wikidata.org/wiki/Q5542226",
+      "display_name": "PsycINFO",
+      "level": 3,
+      "score": 0.7462188005447388
+    },
+    {
+      "id": "https://openalex.org/C95190672",
+      "wikidata": "https://www.wikidata.org/wiki/Q815382",
+      "display_name": "Meta-analysis",
+      "level": 2,
+      "score": 0.6019699573516846
+    },
+    {
+      "id": "https://openalex.org/C118552586",
+      "wikidata": "https://www.wikidata.org/wiki/Q7867",
+      "display_name": "Psychiatry",
+      "level": 1,
+      "score": 0.5190271139144897
+    },
+    {
+      "id": "https://openalex.org/C3017944768",
+      "wikidata": "https://www.wikidata.org/wiki/Q1450463",
+      "display_name": "Poison control",
+      "level": 2,
+      "score": 0.5182223320007324
+    },
+    {
+      "id": "https://openalex.org/C526869908",
+      "wikidata": "https://www.wikidata.org/wiki/Q3298118",
+      "display_name": "Suicide prevention",
+      "level": 3,
+      "score": 0.4990551471710205
+    },
+    {
+      "id": "https://openalex.org/C134362201",
+      "wikidata": "https://www.wikidata.org/wiki/Q317309",
+      "display_name": "Mental health",
+      "level": 2,
+      "score": 0.48064079880714417
+    },
+    {
+      "id": "https://openalex.org/C70410870",
+      "wikidata": "https://www.wikidata.org/wiki/Q199906",
+      "display_name": "Clinical psychology",
+      "level": 1,
+      "score": 0.4640570878982544
+    },
+    {
+      "id": "https://openalex.org/C15744967",
+      "wikidata": "https://www.wikidata.org/wiki/Q9418",
+      "display_name": "Psychology",
+      "level": 0,
+      "score": 0.4262073040008545
+    },
+    {
+      "id": "https://openalex.org/C168563851",
+      "wikidata": "https://www.wikidata.org/wiki/Q1436668",
+      "display_name": "Randomized controlled trial",
+      "level": 2,
+      "score": 0.4190801978111267
+    },
+    {
+      "id": "https://openalex.org/C71924100",
+      "wikidata": "https://www.wikidata.org/wiki/Q11190",
+      "display_name": "Medicine",
+      "level": 0,
+      "score": 0.3751735985279083
+    },
+    {
+      "id": "https://openalex.org/C2779473830",
+      "wikidata": "https://www.wikidata.org/wiki/Q1540899",
+      "display_name": "MEDLINE",
+      "level": 2,
+      "score": 0.30456480383872986
+    },
+    {
+      "id": "https://openalex.org/C545542383",
+      "wikidata": "https://www.wikidata.org/wiki/Q2751242",
+      "display_name": "Medical emergency",
+      "level": 1,
+      "score": 0.08264169096946716
+    },
+    {
+      "id": "https://openalex.org/C126322002",
+      "wikidata": "https://www.wikidata.org/wiki/Q11180",
+      "display_name": "Internal medicine",
+      "level": 1,
+      "score": 0.07130011916160583
+    },
+    {
+      "id": "https://openalex.org/C17744445",
+      "wikidata": "https://www.wikidata.org/wiki/Q36442",
+      "display_name": "Political science",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C199539241",
+      "wikidata": "https://www.wikidata.org/wiki/Q7748",
+      "display_name": "Law",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D013406",
+      "descriptor_name": "Suicide, Attempted",
+      "qualifier_ui": "Q000523",
+      "qualifier_name": "psychology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D013406",
+      "descriptor_name": "Suicide, Attempted",
+      "qualifier_ui": "Q000706",
+      "qualifier_name": "statistics & numerical data",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D059020",
+      "descriptor_name": "Suicidal Ideation",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D011613",
+      "descriptor_name": "Psychotherapy",
+      "qualifier_ui": "Q000379",
+      "qualifier_name": "methods",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D013406",
+      "descriptor_name": "Suicide, Attempted",
+      "qualifier_ui": "Q000523",
+      "qualifier_name": "psychology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D013406",
+      "descriptor_name": "Suicide, Attempted",
+      "qualifier_ui": "Q000706",
+      "qualifier_name": "statistics & numerical data",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D059020",
+      "descriptor_name": "Suicidal Ideation",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D011613",
+      "descriptor_name": "Psychotherapy",
+      "qualifier_ui": "Q000379",
+      "qualifier_name": "methods",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D013406",
+      "descriptor_name": "Suicide, Attempted",
+      "qualifier_ui": "Q000523",
+      "qualifier_name": "psychology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D013406",
+      "descriptor_name": "Suicide, Attempted",
+      "qualifier_ui": "Q000706",
+      "qualifier_name": "statistics & numerical data",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D059020",
+      "descriptor_name": "Suicidal Ideation",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D011613",
+      "descriptor_name": "Psychotherapy",
+      "qualifier_ui": "Q000379",
+      "qualifier_name": "methods",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D013406",
+      "descriptor_name": "Suicide, Attempted",
+      "qualifier_ui": "Q000523",
+      "qualifier_name": "psychology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D013406",
+      "descriptor_name": "Suicide, Attempted",
+      "qualifier_ui": "Q000706",
+      "qualifier_name": "statistics & numerical data",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D059020",
+      "descriptor_name": "Suicidal Ideation",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D011613",
+      "descriptor_name": "Psychotherapy",
+      "qualifier_ui": "Q000379",
+      "qualifier_name": "methods",
+      "is_major_topic": true
+    }
+  ],
+  "locations_count": 6,
+  "locations": [
+    {
+      "id": "doi:10.1001/jamapsychiatry.2024.2854",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1001/jamapsychiatry.2024.2854",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S2495708506",
+        "display_name": "JAMA Psychiatry",
+        "issn_l": "2168-622X",
+        "issn": [
+          "2168-622X",
+          "2168-6238"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320259",
+        "host_organization_name": "American Medical Association",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320259"
+        ],
+        "host_organization_lineage_names": [
+          "American Medical Association"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "JAMA Psychiatry",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:39320902",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/39320902",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "JAMA psychiatry",
+      "raw_type": null
+    },
+    {
+      "id": "pmh:oai:cris.maastrichtuniversity.nl:openaire/bfcbec51-d1be-4379-a155-40b90bac40a4",
+      "is_oa": true,
+      "landing_page_url": "https://cris.maastrichtuniversity.nl/en/publications/bfcbec51-d1be-4379-a155-40b90bac40a4",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306402616",
+        "display_name": "Research Publications (Maastricht University)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I34352273",
+        "host_organization_name": "Maastricht University",
+        "host_organization_lineage": [
+          "https://openalex.org/I34352273"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "other-oa",
+      "license_id": "https://openalex.org/licenses/other-oa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "van Ballegooijen, W, Rawee, J, Palantza, C, Miguel, C, Harrer, M, Cristea, I, de Winter, R, Gilissen, R, Eikelenboom, M, Beekman, A & Cuijpers, P 2025, 'Suicidal Ideation and Suicide Attempts After Direct or Indirect Psychotherapy A Systematic Review and Meta-Analysis', JAMA Psychiatry, vol. 82, no. 1, pp. 31-37. https://doi.org/10.1001/jamapsychiatry.2024.2854",
+      "raw_type": "article"
+    },
+    {
+      "id": "pmh:oai:europepmc.org:11265370",
+      "is_oa": false,
+      "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/11425183",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306400806",
+        "display_name": "Europe PMC (PubMed Central)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1303153112",
+        "host_organization_name": "European Bioinformatics Institute",
+        "host_organization_lineage": [
+          "https://openalex.org/I1303153112"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": null,
+      "raw_type": "Text"
+    },
+    {
+      "id": "pmh:oai:research.vu.nl:openaire_cris_publications/3f894dcb-01be-4441-b3c0-d8c5527b5c7f",
+      "is_oa": true,
+      "landing_page_url": "https://research.vu.nl/en/publications/3f894dcb-01be-4441-b3c0-d8c5527b5c7f",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401107",
+        "display_name": "VU Research Portal",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I865915315",
+        "host_organization_name": "Vrije Universiteit Amsterdam",
+        "host_organization_lineage": [
+          "https://openalex.org/I865915315"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "other-oa",
+      "license_id": "https://openalex.org/licenses/other-oa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "van Ballegooijen, W, Rawee, J, Palantza, C, Miguel, C, Harrer, M, Cristea, I, de Winter, R, Gilissen, R, Eikelenboom, M, Beekman, A & Cuijpers, P 2025, 'Suicidal Ideation and Suicide Attempts After Direct or Indirect Psychotherapy : A Systematic Review and Meta-Analysis', JAMA Psychiatry, vol. 82, no. 1, pp. 31-37. https://doi.org/10.1001/jamapsychiatry.2024.2854",
+      "raw_type": "article"
+    },
+    {
+      "id": "pmh:oai:www.research.unipd.it:11577/3545721",
+      "is_oa": false,
+      "landing_page_url": "https://hdl.handle.net/11577/3545721",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306402448",
+        "display_name": "Padua Research Archive (University of Padua)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I138689650",
+        "host_organization_name": "University of Padua",
+        "host_organization_lineage": [
+          "https://openalex.org/I138689650"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": null,
+      "raw_type": "info:eu-repo/semantics/article"
+    }
+  ],
+  "best_oa_location": {
+    "id": "pmh:oai:cris.maastrichtuniversity.nl:openaire/bfcbec51-d1be-4379-a155-40b90bac40a4",
+    "is_oa": true,
+    "landing_page_url": "https://cris.maastrichtuniversity.nl/en/publications/bfcbec51-d1be-4379-a155-40b90bac40a4",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S4306402616",
+      "display_name": "Research Publications (Maastricht University)",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": false,
+      "host_organization": "https://openalex.org/I34352273",
+      "host_organization_name": "Maastricht University",
+      "host_organization_lineage": [
+        "https://openalex.org/I34352273"
+      ],
+      "host_organization_lineage_names": [],
+      "type": "repository"
+    },
+    "license": "other-oa",
+    "license_id": "https://openalex.org/licenses/other-oa",
+    "version": "submittedVersion",
+    "is_accepted": false,
+    "is_published": false,
+    "raw_source_name": "van Ballegooijen, W, Rawee, J, Palantza, C, Miguel, C, Harrer, M, Cristea, I, de Winter, R, Gilissen, R, Eikelenboom, M, Beekman, A & Cuijpers, P 2025, 'Suicidal Ideation and Suicide Attempts After Direct or Indirect Psychotherapy A Systematic Review and Meta-Analysis', JAMA Psychiatry, vol. 82, no. 1, pp. 31-37. https://doi.org/10.1001/jamapsychiatry.2024.2854",
+    "raw_type": "article"
+  },
+  "sustainable_development_goals": [
+    {
+      "id": "https://metadata.un.org/sdg/3",
+      "score": 0.8299999833106995,
+      "display_name": "Good health and well-being"
+    }
+  ],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "grobid_xml": false,
+    "pdf": false
+  },
+  "referenced_works_count": 30,
+  "referenced_works": [
+    "https://openalex.org/W3126593753",
+    "https://openalex.org/W2112628304",
+    "https://openalex.org/W2124058583",
+    "https://openalex.org/W1512851806",
+    "https://openalex.org/W2596046065",
+    "https://openalex.org/W3094828322",
+    "https://openalex.org/W6782644575",
+    "https://openalex.org/W2303765719",
+    "https://openalex.org/W2991439719",
+    "https://openalex.org/W6685950560",
+    "https://openalex.org/W3193639827",
+    "https://openalex.org/W1982466664",
+    "https://openalex.org/W3108960653",
+    "https://openalex.org/W4285795451",
+    "https://openalex.org/W3118615836",
+    "https://openalex.org/W3087936928",
+    "https://openalex.org/W2125435699",
+    "https://openalex.org/W2122962297",
+    "https://openalex.org/W2570555403",
+    "https://openalex.org/W2104657845",
+    "https://openalex.org/W2169629898",
+    "https://openalex.org/W368221195",
+    "https://openalex.org/W4200567398",
+    "https://openalex.org/W4317821294",
+    "https://openalex.org/W4240484632",
+    "https://openalex.org/W71228264",
+    "https://openalex.org/W2181496938",
+    "https://openalex.org/W3196369884",
+    "https://openalex.org/W4298277474",
+    "https://openalex.org/W3080116252"
+  ],
+  "related_works": [
+    "https://openalex.org/W2160180929",
+    "https://openalex.org/W2802304351",
+    "https://openalex.org/W3205659119",
+    "https://openalex.org/W2260842574",
+    "https://openalex.org/W1989342309",
+    "https://openalex.org/W4231277310",
+    "https://openalex.org/W2086616525",
+    "https://openalex.org/W2014696941",
+    "https://openalex.org/W2237087163",
+    "https://openalex.org/W1967302349"
+  ],
+  "abstract_inverted_index": {
+    "Importance": [
+      0
+    ],
+    "Suicidal": [
+      1
+    ],
+    "ideation": [
+      2,
+      42,
+      86,
+      144,
+      153,
+      190,
+      226,
+      309,
+      337
+    ],
+    "and": [
+      3,
+      37,
+      51,
+      67,
+      81,
+      87,
+      102,
+      141,
+      161,
+      175,
+      182,
+      191,
+      210,
+      217,
+      254,
+      296,
+      299,
+      310
+    ],
+    "suicide": [
+      4,
+      71,
+      91,
+      146,
+      198,
+      263,
+      311
+    ],
+    "attempts": [
+      5,
+      147,
+      264
+    ],
+    "are": [
+      6,
+      12
+    ],
+    "debilitating": [
+      7
+    ],
+    "mental": [
+      8,
+      24,
+      129
+    ],
+    "health": [
+      9,
+      25,
+      130
+    ],
+    "problems": [
+      10
+    ],
+    "that": [
+      11,
+      20
+    ],
+    "often": [
+      13
+    ],
+    "treated": [
+      14
+    ],
+    "with": [
+      15,
+      137,
+      154,
+      223,
+      261
+    ],
+    "indirect": [
+      16,
+      38,
+      68,
+      82,
+      218,
+      255,
+      300,
+      321
+    ],
+    "psychotherapy": [
+      17,
+      19,
+      39,
+      69,
+      83,
+      126,
+      219,
+      256
+    ],
+    "(ie,": [
+      18
+    ],
+    "focuses": [
+      21
+    ],
+    "on": [
+      22,
+      40,
+      70,
+      84
+    ],
+    "other": [
+      23
+    ],
+    "problems,": [
+      26
+    ],
+    "such": [
+      27
+    ],
+    "as": [
+      28
+    ],
+    "depression": [
+      29
+    ],
+    "or": [
+      30,
+      145,
+      338
+    ],
+    "personality": [
+      31
+    ],
+    "disorders).": [
+      32
+    ],
+    "The": [
+      33
+    ],
+    "effects": [
+      34
+    ],
+    "of": [
+      35,
+      65,
+      79,
+      90,
+      99,
+      107,
+      125,
+      320
+    ],
+    "direct": [
+      36,
+      66,
+      80
+    ],
+    "suicidal": [
+      41,
+      85,
+      143,
+      152,
+      189,
+      225,
+      308,
+      336
+    ],
+    "have": [
+      43,
+      54
+    ],
+    "not": [
+      44,
+      331
+    ],
+    "yet": [
+      45
+    ],
+    "been": [
+      46,
+      55
+    ],
+    "examined": [
+      47,
+      61
+    ],
+    "in": [
+      48,
+      133
+    ],
+    "a": [
+      49,
+      58
+    ],
+    "meta-analysis,": [
+      50
+    ],
+    "several": [
+      52
+    ],
+    "trials": [
+      53,
+      124
+    ],
+    "published": [
+      56,
+      114
+    ],
+    "since": [
+      57
+    ],
+    "previous": [
+      59
+    ],
+    "meta-analysis": [
+      60
+    ],
+    "the": [
+      62,
+      76,
+      88,
+      103
+    ],
+    "effect": [
+      63,
+      77,
+      304
+    ],
+    "size": [
+      64
+    ],
+    "attempts.": [
+      72,
+      92,
+      199,
+      312
+    ],
+    "Objective": [
+      73
+    ],
+    "To": [
+      74
+    ],
+    "investigate": [
+      75
+    ],
+    "sizes": [
+      78,
+      305
+    ],
+    "incidence": [
+      89
+    ],
+    "Data": [
+      93,
+      159
+    ],
+    "Sources": [
+      94
+    ],
+    "PubMed,": [
+      95
+    ],
+    "Embase,": [
+      96
+    ],
+    "PsycInfo,": [
+      97
+    ],
+    "Web": [
+      98
+    ],
+    "Science,": [
+      100
+    ],
+    "Scopus,": [
+      101
+    ],
+    "Cochrane": [
+      104
+    ],
+    "Central": [
+      105
+    ],
+    "Register": [
+      106
+    ],
+    "Controlled": [
+      108
+    ],
+    "Trials": [
+      109
+    ],
+    "were": [
+      110,
+      148,
+      157,
+      165,
+      169,
+      214,
+      221,
+      258
+    ],
+    "searched": [
+      111
+    ],
+    "for": [
+      112,
+      127,
+      188,
+      197,
+      306,
+      327,
+      335
+    ],
+    "articles": [
+      113
+    ],
+    "up": [
+      115
+    ],
+    "until": [
+      116
+    ],
+    "April": [
+      117
+    ],
+    "1,": [
+      118
+    ],
+    "2023.": [
+      119
+    ],
+    "Study": [
+      120
+    ],
+    "Selection": [
+      121
+    ],
+    "Randomized": [
+      122
+    ],
+    "clinical": [
+      123
+    ],
+    "any": [
+      128,
+      134,
+      138
+    ],
+    "problem,": [
+      131
+    ],
+    "delivered": [
+      132
+    ],
+    "setting,": [
+      135
+    ],
+    "compared": [
+      136
+    ],
+    "control": [
+      139
+    ],
+    "group,": [
+      140
+    ],
+    "reporting": [
+      142
+    ],
+    "included.": [
+      149,
+      215
+    ],
+    "Studies": [
+      150
+    ],
+    "measuring": [
+      151
+    ],
+    "1": [
+      155
+    ],
+    "item": [
+      156
+    ],
+    "excluded.": [
+      158
+    ],
+    "Extraction": [
+      160
+    ],
+    "Synthesis": [
+      162
+    ],
+    "PRISMA": [
+      163
+    ],
+    "guidelines": [
+      164
+    ],
+    "followed.": [
+      166
+    ],
+    "Summary": [
+      167
+    ],
+    "data": [
+      168
+    ],
+    "extracted": [
+      170
+    ],
+    "by": [
+      171
+    ],
+    "2": [
+      172,
+      237,
+      250,
+      274,
+      286
+    ],
+    "independent": [
+      173
+    ],
+    "researchers": [
+      174
+    ],
+    "pooled": [
+      176,
+      187,
+      196
+    ],
+    "using": [
+      177
+    ],
+    "3-level": [
+      178
+    ],
+    "meta-analyses.": [
+      179
+    ],
+    "Main": [
+      180
+    ],
+    "Outcomes": [
+      181
+    ],
+    "Measures": [
+      183
+    ],
+    "Hedges": [
+      184
+    ],
+    "g": [
+      185,
+      228,
+      241
+    ],
+    "was": [
+      186,
+      195
+    ],
+    "relative": [
+      192
+    ],
+    "risk": [
+      193
+    ],
+    "(RR)": [
+      194
+    ],
+    "Results": [
+      200
+    ],
+    "Of": [
+      201
+    ],
+    "15": [
+      202
+    ],
+    "006": [
+      203
+    ],
+    "studies": [
+      204
+    ],
+    "identified,": [
+      205
+    ],
+    "147": [
+      206
+    ],
+    "comprising": [
+      207
+    ],
+    "193": [
+      208
+    ],
+    "comparisons": [
+      209
+    ],
+    "11": [
+      211
+    ],
+    "001": [
+      212
+    ],
+    "participants": [
+      213
+    ],
+    "Direct": [
+      216,
+      253,
+      298
+    ],
+    "conditions": [
+      220,
+      257
+    ],
+    "associated": [
+      222,
+      260
+    ],
+    "reduced": [
+      224,
+      262
+    ],
+    "(direct:": [
+      227,
+      265
+    ],
+    ",": [
+      229,
+      238,
+      242,
+      251,
+      275,
+      287
+    ],
+    "\u22120.39;": [
+      230
+    ],
+    "95%": [
+      231,
+      244,
+      268,
+      280
+    ],
+    "CI,": [
+      232,
+      245,
+      269,
+      281
+    ],
+    "\u22120.53": [
+      233
+    ],
+    "to": [
+      234,
+      247,
+      271,
+      283,
+      323
+    ],
+    "\u22120.24;": [
+      235
+    ],
+    "I": [
+      236,
+      249,
+      273,
+      285
+    ],
+    "83.2;": [
+      239
+    ],
+    "indirect:": [
+      240,
+      277
+    ],
+    "\u22120.30;": [
+      243
+    ],
+    "\u22120.42": [
+      246
+    ],
+    "\u22120.18;": [
+      248
+    ],
+    "52.2).": [
+      252
+    ],
+    "also": [
+      259
+    ],
+    "RR,": [
+      266,
+      278
+    ],
+    "0.72;": [
+      267
+    ],
+    "0.62": [
+      270
+    ],
+    "0.84;": [
+      272
+    ],
+    "40.5;": [
+      276
+    ],
+    "0.68;": [
+      279
+    ],
+    "0.48": [
+      282
+    ],
+    "0.95;": [
+      284
+    ],
+    "0).": [
+      288
+    ],
+    "Sensitivity": [
+      289
+    ],
+    "analyses": [
+      290
+    ],
+    "largely": [
+      291
+    ],
+    "confirmed": [
+      292
+    ],
+    "these": [
+      293
+    ],
+    "results.": [
+      294
+    ],
+    "Conclusions": [
+      295
+    ],
+    "Relevance": [
+      297
+    ],
+    "interventions": [
+      301,
+      326
+    ],
+    "had": [
+      302
+    ],
+    "similar": [
+      303
+    ],
+    "reducing": [
+      307
+    ],
+    "Suicide": [
+      313
+    ],
+    "prevention": [
+      314
+    ],
+    "strategies": [
+      315
+    ],
+    "could": [
+      316
+    ],
+    "make": [
+      317
+    ],
+    "greater": [
+      318
+    ],
+    "use": [
+      319
+    ],
+    "treatments": [
+      322
+    ],
+    "provide": [
+      324
+    ],
+    "effective": [
+      325
+    ],
+    "people": [
+      328
+    ],
+    "who": [
+      329
+    ],
+    "would": [
+      330
+    ],
+    "likely": [
+      332
+    ],
+    "seek": [
+      333
+    ],
+    "treatment": [
+      334
+    ],
+    "self-harm.": [
+      339
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 23
+    }
+  ],
+  "updated_date": "2025-11-06T03:46:38.306776",
+  "created_date": "2024-09-26T00:00:00"
+}

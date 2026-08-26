@@ -1,0 +1,15 @@
+{
+  "key": "Fong_2021",
+  "collection": {
+    "doi": "10.1007/s10648-024-09862-5"
+  },
+  "publication": {
+    "doi": "10.1016/j.edurev.2021.100407",
+    "eligibility_criteria": "Once potentially relevant studies were identified, titles and abstracts were evaluated using the following inclusion criteria: (1) use of LASSI, (2) an achievement outcome (GPA, grade, achievement test, persistence), and (3) an effect size measure. There was no restriction on language of publication; we included studies written in any language."
+  },
+  "data": {
+    "doi": "10.17605/OSF.IO/UYB7X",
+    "n_records": 1339,
+    "n_records_included": 119
+  }
+}

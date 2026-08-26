@@ -1,0 +1,1342 @@
+{
+  "id": "https://openalex.org/W4283080381",
+  "doi": "https://doi.org/10.1016/j.edurev.2022.100474",
+  "title": "A conducive learning environment in international higher education: A systematic review of research on students\u2019 perspectives",
+  "display_name": "A conducive learning environment in international higher education: A systematic review of research on students\u2019 perspectives",
+  "publication_year": 2022,
+  "publication_date": "2022-06-18",
+  "ids": {
+    "openalex": "https://openalex.org/W4283080381",
+    "doi": "https://doi.org/10.1016/j.edurev.2022.100474"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1016/j.edurev.2022.100474",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1016/j.edurev.2022.100474",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S43764696",
+      "display_name": "Educational Research Review",
+      "issn_l": "1747-938X",
+      "issn": [
+        "1747-938X",
+        "1878-0385"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320990",
+      "host_organization_name": "Elsevier BV",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320990"
+      ],
+      "host_organization_lineage_names": [
+        "Elsevier BV"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Educational Research Review",
+    "raw_type": "journal-article"
+  },
+  "type": "review",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "hybrid",
+    "oa_url": "https://doi.org/10.1016/j.edurev.2022.100474",
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5083924912",
+        "display_name": "Xiaoming Xu",
+        "orcid": "https://orcid.org/0000-0001-7266-7611"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I1334415907",
+          "display_name": "University Medical Center Groningen",
+          "ror": "https://ror.org/03cv38k47",
+          "country_code": "NL",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I1334415907"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I169381384",
+          "display_name": "University of Groningen",
+          "ror": "https://ror.org/012p63287",
+          "country_code": "NL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I169381384"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Xiaoming Xu",
+      "raw_affiliation_strings": [
+        "Center for Educational Development and Research in Health Sciences (CEDAR), LEARN, University of Groningen, University Medical Center Groningen, the Netherlands"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Center for Educational Development and Research in Health Sciences (CEDAR), LEARN, University of Groningen, University Medical Center Groningen, the Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I1334415907",
+            "https://openalex.org/I169381384"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5027763828",
+        "display_name": "Johanna Sch\u00f6nrock-Adema",
+        "orcid": "https://orcid.org/0000-0002-9844-339X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I1334415907",
+          "display_name": "University Medical Center Groningen",
+          "ror": "https://ror.org/03cv38k47",
+          "country_code": "NL",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I1334415907"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I169381384",
+          "display_name": "University of Groningen",
+          "ror": "https://ror.org/012p63287",
+          "country_code": "NL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I169381384"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "J. Sch\u00f6nrock-Adema",
+      "raw_affiliation_strings": [
+        "Center for Educational Development and Research in Health Sciences (CEDAR), LEARN, University of Groningen, University Medical Center Groningen, the Netherlands"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Center for Educational Development and Research in Health Sciences (CEDAR), LEARN, University of Groningen, University Medical Center Groningen, the Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I1334415907",
+            "https://openalex.org/I169381384"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5064655547",
+        "display_name": "Debbie Jaarsma",
+        "orcid": "https://orcid.org/0000-0003-1668-2002"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I1334415907",
+          "display_name": "University Medical Center Groningen",
+          "ror": "https://ror.org/03cv38k47",
+          "country_code": "NL",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I1334415907"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I169381384",
+          "display_name": "University of Groningen",
+          "ror": "https://ror.org/012p63287",
+          "country_code": "NL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I169381384"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I193662353",
+          "display_name": "Utrecht University",
+          "ror": "https://ror.org/04pp8hn57",
+          "country_code": "NL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I193662353"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "A.D.C. Jaarsma",
+      "raw_affiliation_strings": [
+        "Center for Educational Development and Research in Health Sciences (CEDAR), LEARN, University of Groningen, University Medical Center Groningen, the Netherlands",
+        "Utrecht University, Faculty of Veterinary Medicine, the Netherlands"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Center for Educational Development and Research in Health Sciences (CEDAR), LEARN, University of Groningen, University Medical Center Groningen, the Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I1334415907",
+            "https://openalex.org/I169381384"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Utrecht University, Faculty of Veterinary Medicine, the Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I193662353"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5065324993",
+        "display_name": "Robbert Duvivier",
+        "orcid": "https://orcid.org/0000-0001-8282-1715"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210085896",
+          "display_name": "Parnassia Groep",
+          "ror": "https://ror.org/002wh3v03",
+          "country_code": "NL",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210085896"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I1334415907",
+          "display_name": "University Medical Center Groningen",
+          "ror": "https://ror.org/03cv38k47",
+          "country_code": "NL",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I1334415907"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I169381384",
+          "display_name": "University of Groningen",
+          "ror": "https://ror.org/012p63287",
+          "country_code": "NL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I169381384"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "R.J. Duvivier",
+      "raw_affiliation_strings": [
+        "Center for Educational Development and Research in Health Sciences (CEDAR), LEARN, University of Groningen, University Medical Center Groningen, the Netherlands",
+        "Parnassia Psychiatric Institute, The Hague, the Netherlands"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Center for Educational Development and Research in Health Sciences (CEDAR), LEARN, University of Groningen, University Medical Center Groningen, the Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I1334415907",
+            "https://openalex.org/I169381384"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Parnassia Psychiatric Institute, The Hague, the Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I4210085896"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5078464567",
+        "display_name": "N.A. Bos",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I1334415907",
+          "display_name": "University Medical Center Groningen",
+          "ror": "https://ror.org/03cv38k47",
+          "country_code": "NL",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I1334415907"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I169381384",
+          "display_name": "University of Groningen",
+          "ror": "https://ror.org/012p63287",
+          "country_code": "NL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I169381384"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "N.A. Bos",
+      "raw_affiliation_strings": [
+        "Center for Educational Development and Research in Health Sciences (CEDAR), LEARN, University of Groningen, University Medical Center Groningen, the Netherlands"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Center for Educational Development and Research in Health Sciences (CEDAR), LEARN, University of Groningen, University Medical Center Groningen, the Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I1334415907",
+            "https://openalex.org/I169381384"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 5,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5078464567"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I1334415907",
+    "https://openalex.org/I169381384"
+  ],
+  "apc_list": {
+    "value": 4070,
+    "currency": "USD",
+    "value_usd": 4070
+  },
+  "apc_paid": {
+    "value": 4070,
+    "currency": "USD",
+    "value_usd": 4070
+  },
+  "fwci": 11.64724602,
+  "has_fulltext": false,
+  "cited_by_count": 32,
+  "citation_normalized_percentile": {
+    "value": 0.98340649,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 96,
+    "max": 99
+  },
+  "biblio": {
+    "volume": "37",
+    "issue": null,
+    "first_page": "100474",
+    "last_page": "100474"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10907",
+    "display_name": "International Student and Expatriate Challenges",
+    "score": 0.9987000226974487,
+    "subfield": {
+      "id": "https://openalex.org/subfields/3315",
+      "display_name": "Communication"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/33",
+      "display_name": "Social Sciences"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/2",
+      "display_name": "Social Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10907",
+      "display_name": "International Student and Expatriate Challenges",
+      "score": 0.9987000226974487,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3315",
+        "display_name": "Communication"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10546",
+      "display_name": "Higher Education Governance and Development",
+      "score": 0.9889000058174133,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3320",
+        "display_name": "Political Science and International Relations"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12593",
+      "display_name": "Communication in Education and Healthcare",
+      "score": 0.9621999859809875,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3207",
+        "display_name": "Social Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/inclusion",
+      "display_name": "Inclusion (mineral)",
+      "score": 0.6954119801521301
+    },
+    {
+      "id": "https://openalex.org/keywords/higher-education",
+      "display_name": "Higher education",
+      "score": 0.6891113519668579
+    },
+    {
+      "id": "https://openalex.org/keywords/domain",
+      "display_name": "Domain (mathematical analysis)",
+      "score": 0.5165178179740906
+    },
+    {
+      "id": "https://openalex.org/keywords/psychology",
+      "display_name": "Psychology",
+      "score": 0.4903855323791504
+    },
+    {
+      "id": "https://openalex.org/keywords/systematic-review",
+      "display_name": "Systematic review",
+      "score": 0.4262653887271881
+    },
+    {
+      "id": "https://openalex.org/keywords/knowledge-management",
+      "display_name": "Knowledge management",
+      "score": 0.3654031753540039
+    },
+    {
+      "id": "https://openalex.org/keywords/pedagogy",
+      "display_name": "Pedagogy",
+      "score": 0.3607480823993683
+    },
+    {
+      "id": "https://openalex.org/keywords/medical-education",
+      "display_name": "Medical education",
+      "score": 0.3233824372291565
+    },
+    {
+      "id": "https://openalex.org/keywords/mathematics-education",
+      "display_name": "Mathematics education",
+      "score": 0.32319462299346924
+    },
+    {
+      "id": "https://openalex.org/keywords/computer-science",
+      "display_name": "Computer science",
+      "score": 0.23131868243217468
+    },
+    {
+      "id": "https://openalex.org/keywords/political-science",
+      "display_name": "Political science",
+      "score": 0.17854681611061096
+    },
+    {
+      "id": "https://openalex.org/keywords/social-psychology",
+      "display_name": "Social psychology",
+      "score": 0.10296761989593506
+    },
+    {
+      "id": "https://openalex.org/keywords/medline",
+      "display_name": "MEDLINE",
+      "score": 0.0995807945728302
+    },
+    {
+      "id": "https://openalex.org/keywords/medicine",
+      "display_name": "Medicine",
+      "score": 0.09176358580589294
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C109359841",
+      "wikidata": "https://www.wikidata.org/wiki/Q728944",
+      "display_name": "Inclusion (mineral)",
+      "level": 2,
+      "score": 0.6954119801521301
+    },
+    {
+      "id": "https://openalex.org/C120912362",
+      "wikidata": "https://www.wikidata.org/wiki/Q136822",
+      "display_name": "Higher education",
+      "level": 2,
+      "score": 0.6891113519668579
+    },
+    {
+      "id": "https://openalex.org/C36503486",
+      "wikidata": "https://www.wikidata.org/wiki/Q11235244",
+      "display_name": "Domain (mathematical analysis)",
+      "level": 2,
+      "score": 0.5165178179740906
+    },
+    {
+      "id": "https://openalex.org/C15744967",
+      "wikidata": "https://www.wikidata.org/wiki/Q9418",
+      "display_name": "Psychology",
+      "level": 0,
+      "score": 0.4903855323791504
+    },
+    {
+      "id": "https://openalex.org/C189708586",
+      "wikidata": "https://www.wikidata.org/wiki/Q1504425",
+      "display_name": "Systematic review",
+      "level": 3,
+      "score": 0.4262653887271881
+    },
+    {
+      "id": "https://openalex.org/C56739046",
+      "wikidata": "https://www.wikidata.org/wiki/Q192060",
+      "display_name": "Knowledge management",
+      "level": 1,
+      "score": 0.3654031753540039
+    },
+    {
+      "id": "https://openalex.org/C19417346",
+      "wikidata": "https://www.wikidata.org/wiki/Q7922",
+      "display_name": "Pedagogy",
+      "level": 1,
+      "score": 0.3607480823993683
+    },
+    {
+      "id": "https://openalex.org/C509550671",
+      "wikidata": "https://www.wikidata.org/wiki/Q126945",
+      "display_name": "Medical education",
+      "level": 1,
+      "score": 0.3233824372291565
+    },
+    {
+      "id": "https://openalex.org/C145420912",
+      "wikidata": "https://www.wikidata.org/wiki/Q853077",
+      "display_name": "Mathematics education",
+      "level": 1,
+      "score": 0.32319462299346924
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.23131868243217468
+    },
+    {
+      "id": "https://openalex.org/C17744445",
+      "wikidata": "https://www.wikidata.org/wiki/Q36442",
+      "display_name": "Political science",
+      "level": 0,
+      "score": 0.17854681611061096
+    },
+    {
+      "id": "https://openalex.org/C77805123",
+      "wikidata": "https://www.wikidata.org/wiki/Q161272",
+      "display_name": "Social psychology",
+      "level": 1,
+      "score": 0.10296761989593506
+    },
+    {
+      "id": "https://openalex.org/C2779473830",
+      "wikidata": "https://www.wikidata.org/wiki/Q1540899",
+      "display_name": "MEDLINE",
+      "level": 2,
+      "score": 0.0995807945728302
+    },
+    {
+      "id": "https://openalex.org/C71924100",
+      "wikidata": "https://www.wikidata.org/wiki/Q11190",
+      "display_name": "Medicine",
+      "level": 0,
+      "score": 0.09176358580589294
+    },
+    {
+      "id": "https://openalex.org/C134306372",
+      "wikidata": "https://www.wikidata.org/wiki/Q7754",
+      "display_name": "Mathematical analysis",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C199539241",
+      "wikidata": "https://www.wikidata.org/wiki/Q7748",
+      "display_name": "Law",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C33923547",
+      "wikidata": "https://www.wikidata.org/wiki/Q395",
+      "display_name": "Mathematics",
+      "level": 0,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 2,
+  "locations": [
+    {
+      "id": "doi:10.1016/j.edurev.2022.100474",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1016/j.edurev.2022.100474",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S43764696",
+        "display_name": "Educational Research Review",
+        "issn_l": "1747-938X",
+        "issn": [
+          "1747-938X",
+          "1878-0385"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320990",
+        "host_organization_name": "Elsevier BV",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320990"
+        ],
+        "host_organization_lineage_names": [
+          "Elsevier BV"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Educational Research Review",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmh:oai:pure.rug.nl:openaire/be519281-eabf-4703-a55e-bcb766f4a0c2",
+      "is_oa": true,
+      "landing_page_url": "https://research.rug.nl/en/publications/be519281-eabf-4703-a55e-bcb766f4a0c2",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306400420",
+        "display_name": "University of Groningen research database (University of Groningen / Centre for Information Technology)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I169381384",
+        "host_organization_name": "University of Groningen",
+        "host_organization_lineage": [
+          "https://openalex.org/I169381384"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Xu, X, Sch\u00f6nrock-Adema, J, Jaarsma, A D C, Duvivier, R J & Bos, N A 2022, 'A conducive learning environment in international higher education : A systematic review of research on students\u2019 perspectives', Educational Research Review, vol. 37, 100474. https://doi.org/10.1016/j.edurev.2022.100474",
+      "raw_type": "info:eu-repo/semantics/publishedVersion"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1016/j.edurev.2022.100474",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1016/j.edurev.2022.100474",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S43764696",
+      "display_name": "Educational Research Review",
+      "issn_l": "1747-938X",
+      "issn": [
+        "1747-938X",
+        "1878-0385"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320990",
+      "host_organization_name": "Elsevier BV",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320990"
+      ],
+      "host_organization_lineage_names": [
+        "Elsevier BV"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Educational Research Review",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [
+    {
+      "score": 0.5099999904632568,
+      "id": "https://metadata.un.org/sdg/4",
+      "display_name": "Quality Education"
+    }
+  ],
+  "awards": [
+    {
+      "id": "https://openalex.org/G8118684040",
+      "display_name": null,
+      "funder_award_id": "201806140196",
+      "funder_id": "https://openalex.org/F4320322725",
+      "funder_display_name": "China Scholarship Council"
+    }
+  ],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320322725",
+      "display_name": "China Scholarship Council",
+      "ror": "https://ror.org/04atp4p48"
+    }
+  ],
+  "has_content": {
+    "pdf": false,
+    "grobid_xml": false
+  },
+  "referenced_works_count": 94,
+  "referenced_works": [
+    "https://openalex.org/W1985587354",
+    "https://openalex.org/W2509815254",
+    "https://openalex.org/W2606092572",
+    "https://openalex.org/W2780303311",
+    "https://openalex.org/W2605200058",
+    "https://openalex.org/W2803968430",
+    "https://openalex.org/W6605106474",
+    "https://openalex.org/W6630647065",
+    "https://openalex.org/W2074928535",
+    "https://openalex.org/W1970339112",
+    "https://openalex.org/W6774151551",
+    "https://openalex.org/W2886477952",
+    "https://openalex.org/W2605766541",
+    "https://openalex.org/W6783977843",
+    "https://openalex.org/W6731157678",
+    "https://openalex.org/W2056307118",
+    "https://openalex.org/W2137718776",
+    "https://openalex.org/W2887540749",
+    "https://openalex.org/W2118321479",
+    "https://openalex.org/W2162866491",
+    "https://openalex.org/W2126461555",
+    "https://openalex.org/W1970812339",
+    "https://openalex.org/W2325467332",
+    "https://openalex.org/W6699384455",
+    "https://openalex.org/W6688769130",
+    "https://openalex.org/W2021269132",
+    "https://openalex.org/W2911401360",
+    "https://openalex.org/W2080302386",
+    "https://openalex.org/W1839142498",
+    "https://openalex.org/W6686025679",
+    "https://openalex.org/W2021788388",
+    "https://openalex.org/W2008504524",
+    "https://openalex.org/W2592570847",
+    "https://openalex.org/W2135839585",
+    "https://openalex.org/W2028683703",
+    "https://openalex.org/W2273754290",
+    "https://openalex.org/W1966272794",
+    "https://openalex.org/W6611200378",
+    "https://openalex.org/W2774618508",
+    "https://openalex.org/W2048536965",
+    "https://openalex.org/W2193398628",
+    "https://openalex.org/W2101338697",
+    "https://openalex.org/W2070552732",
+    "https://openalex.org/W6773451186",
+    "https://openalex.org/W2121332991",
+    "https://openalex.org/W1934648651",
+    "https://openalex.org/W2005501262",
+    "https://openalex.org/W1995123960",
+    "https://openalex.org/W2167195020",
+    "https://openalex.org/W2163342806",
+    "https://openalex.org/W2507431657",
+    "https://openalex.org/W6678898621",
+    "https://openalex.org/W6636748382",
+    "https://openalex.org/W6688010191",
+    "https://openalex.org/W4237510128",
+    "https://openalex.org/W2469390845",
+    "https://openalex.org/W2134003302",
+    "https://openalex.org/W1990325306",
+    "https://openalex.org/W2140817155",
+    "https://openalex.org/W1989891287",
+    "https://openalex.org/W2042945443",
+    "https://openalex.org/W1986153479",
+    "https://openalex.org/W2103301070",
+    "https://openalex.org/W2411755021",
+    "https://openalex.org/W2300242852",
+    "https://openalex.org/W6750303363",
+    "https://openalex.org/W2586149830",
+    "https://openalex.org/W6639299903",
+    "https://openalex.org/W2074935051",
+    "https://openalex.org/W2013044569",
+    "https://openalex.org/W2818077233",
+    "https://openalex.org/W6755211567",
+    "https://openalex.org/W1972434443",
+    "https://openalex.org/W2126426470",
+    "https://openalex.org/W1972109494",
+    "https://openalex.org/W3003971225",
+    "https://openalex.org/W3006259867",
+    "https://openalex.org/W2128531858",
+    "https://openalex.org/W2115898500",
+    "https://openalex.org/W2050532720",
+    "https://openalex.org/W2565099476",
+    "https://openalex.org/W2898593075",
+    "https://openalex.org/W2316746216",
+    "https://openalex.org/W1997968874",
+    "https://openalex.org/W2797432737",
+    "https://openalex.org/W2201368237",
+    "https://openalex.org/W2182396192",
+    "https://openalex.org/W1888574849",
+    "https://openalex.org/W126248063",
+    "https://openalex.org/W1641141563",
+    "https://openalex.org/W2222079638",
+    "https://openalex.org/W321275225",
+    "https://openalex.org/W3090112044",
+    "https://openalex.org/W1510197162"
+  ],
+  "related_works": [
+    "https://openalex.org/W3185553570",
+    "https://openalex.org/W2155401483",
+    "https://openalex.org/W3045247719",
+    "https://openalex.org/W2102102835",
+    "https://openalex.org/W2757130632",
+    "https://openalex.org/W3185163327",
+    "https://openalex.org/W4385987771",
+    "https://openalex.org/W2801429282",
+    "https://openalex.org/W1532858645",
+    "https://openalex.org/W2766638828"
+  ],
+  "abstract_inverted_index": {
+    "Higher": [
+      0
+    ],
+    "education": [
+      1
+    ],
+    "institutions": [
+      2
+    ],
+    "(HEIs)": [
+      3
+    ],
+    "strive": [
+      4
+    ],
+    "to": [
+      5,
+      32,
+      41,
+      67,
+      100,
+      191
+    ],
+    "meet": [
+      6
+    ],
+    "international": [
+      7,
+      72,
+      130,
+      199
+    ],
+    "students'": [
+      8,
+      73,
+      89,
+      131
+    ],
+    "needs": [
+      9,
+      38
+    ],
+    "and": [
+      10,
+      25,
+      39,
+      55,
+      59,
+      76,
+      110,
+      134,
+      160,
+      172,
+      194
+    ],
+    "expectations": [
+      11,
+      40
+    ],
+    "regarding": [
+      12,
+      78
+    ],
+    "their": [
+      13,
+      79
+    ],
+    "learning": [
+      14,
+      80,
+      196
+    ],
+    "environments.": [
+      15
+    ],
+    "Current": [
+      16
+    ],
+    "literature": [
+      17
+    ],
+    "covers": [
+      18
+    ],
+    "a": [
+      19,
+      34,
+      64
+    ],
+    "wide": [
+      20
+    ],
+    "range": [
+      21
+    ],
+    "of": [
+      22,
+      53,
+      71,
+      113,
+      129,
+      149
+    ],
+    "needs,": [
+      23,
+      74,
+      132
+    ],
+    "expectations,": [
+      24,
+      75,
+      133
+    ],
+    "HEIs'": [
+      26
+    ],
+    "responses.": [
+      27
+    ],
+    "However,": [
+      28
+    ],
+    "there": [
+      29
+    ],
+    "doesn't": [
+      30
+    ],
+    "seem": [
+      31
+    ],
+    "be": [
+      33,
+      42,
+      138,
+      154
+    ],
+    "consensus": [
+      35
+    ],
+    "about": [
+      36
+    ],
+    "the": [
+      37,
+      85,
+      101,
+      107,
+      111,
+      141,
+      147,
+      150
+    ],
+    "addressed.": [
+      43
+    ],
+    "A": [
+      44
+    ],
+    "coherent": [
+      45
+    ],
+    "theoretical": [
+      46,
+      108
+    ],
+    "framework": [
+      47,
+      109
+    ],
+    "may": [
+      48,
+      189
+    ],
+    "help": [
+      49,
+      190
+    ],
+    "HEIs": [
+      50,
+      181
+    ],
+    "identify": [
+      51
+    ],
+    "areas": [
+      52
+    ],
+    "need": [
+      54
+    ],
+    "provide": [
+      56,
+      178
+    ],
+    "additional": [
+      57
+    ],
+    "resources": [
+      58
+    ],
+    "comprehensive": [
+      60
+    ],
+    "services.": [
+      61,
+      162
+    ],
+    "We": [
+      62,
+      87,
+      125
+    ],
+    "performed": [
+      63
+    ],
+    "systematic": [
+      65
+    ],
+    "review": [
+      66
+    ],
+    "obtain": [
+      68
+    ],
+    "an": [
+      69
+    ],
+    "overview": [
+      70
+    ],
+    "experiences": [
+      77,
+      135
+    ],
+    "environments": [
+      81,
+      197
+    ],
+    "as": [
+      82,
+      156
+    ],
+    "described": [
+      83
+    ],
+    "in": [
+      84,
+      106
+    ],
+    "literature.": [
+      86
+    ],
+    "categorized": [
+      88
+    ],
+    "perspectives": [
+      90
+    ],
+    "into": [
+      91
+    ],
+    "dimensions.": [
+      92
+    ],
+    "Subsequently,": [
+      93
+    ],
+    "we": [
+      94
+    ],
+    "investigated": [
+      95
+    ],
+    "whether": [
+      96
+    ],
+    "these": [
+      97,
+      114,
+      145
+    ],
+    "dimensions": [
+      98,
+      128
+    ],
+    "related": [
+      99
+    ],
+    "three": [
+      102,
+      151,
+      175,
+      185
+    ],
+    "key": [
+      103,
+      115
+    ],
+    "domains": [
+      104,
+      116,
+      152
+    ],
+    "outlined": [
+      105
+    ],
+    "coverage": [
+      112
+    ],
+    "by": [
+      117
+    ],
+    "HEIs.": [
+      118
+    ],
+    "Sixty-three": [
+      119
+    ],
+    "studies": [
+      120,
+      164
+    ],
+    "were": [
+      121
+    ],
+    "eligible": [
+      122
+    ],
+    "for": [
+      123,
+      198
+    ],
+    "inclusion.": [
+      124
+    ],
+    "identified": [
+      126
+    ],
+    "18": [
+      127
+    ],
+    "that": [
+      136
+    ],
+    "could": [
+      137,
+      153
+    ],
+    "mapped": [
+      139
+    ],
+    "onto": [
+      140
+    ],
+    "framework.": [
+      142
+    ],
+    "Based": [
+      143
+    ],
+    "on": [
+      144
+    ],
+    "results,": [
+      146
+    ],
+    "content": [
+      148
+    ],
+    "summarized": [
+      155
+    ],
+    "goal": [
+      157
+    ],
+    "direction,": [
+      158
+    ],
+    "relationships,": [
+      159
+    ],
+    "supporting": [
+      161
+    ],
+    "Thirteen": [
+      163
+    ],
+    "covered": [
+      165,
+      169,
+      174
+    ],
+    "one": [
+      166
+    ],
+    "domain,": [
+      167
+    ],
+    "14": [
+      168
+    ],
+    "two": [
+      170
+    ],
+    "domains,": [
+      171
+    ],
+    "36": [
+      173
+    ],
+    "domains.": [
+      176,
+      186
+    ],
+    "To": [
+      177
+    ],
+    "optimal": [
+      179
+    ],
+    "support,": [
+      180
+    ],
+    "should": [
+      182
+    ],
+    "cover": [
+      183
+    ],
+    "all": [
+      184
+    ],
+    "Our": [
+      187
+    ],
+    "study": [
+      188
+    ],
+    "better": [
+      192
+    ],
+    "understand": [
+      193
+    ],
+    "optimize": [
+      195
+    ],
+    "students.": [
+      200
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 8
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 13
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 8
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 3
+    }
+  ],
+  "updated_date": "2025-11-06T03:46:38.306776",
+  "created_date": "2025-10-10T00:00:00"
+}

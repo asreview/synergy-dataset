@@ -1,0 +1,1220 @@
+{
+  "id": "https://openalex.org/W4313812430",
+  "doi": "https://doi.org/10.1007/s11160-022-09751-6",
+  "title": "The drivers of anguillid eel movement in lentic water bodies: a systematic map",
+  "display_name": "The drivers of anguillid eel movement in lentic water bodies: a systematic map",
+  "publication_year": 2023,
+  "publication_date": "2023-01-09",
+  "ids": {
+    "openalex": "https://openalex.org/W4313812430",
+    "doi": "https://doi.org/10.1007/s11160-022-09751-6"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1007/s11160-022-09751-6",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1007/s11160-022-09751-6",
+    "pdf_url": "https://link.springer.com/content/pdf/10.1007/s11160-022-09751-6.pdf",
+    "source": {
+      "id": "https://openalex.org/S140103977",
+      "display_name": "Reviews in Fish Biology and Fisheries",
+      "issn_l": "0960-3166",
+      "issn": [
+        "0960-3166",
+        "1573-5184"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310319900",
+      "host_organization_name": "Springer Science+Business Media",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310319900",
+        "https://openalex.org/P4310319965"
+      ],
+      "host_organization_lineage_names": [
+        "Springer Science+Business Media",
+        "Springer Nature"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Reviews in Fish Biology and Fisheries",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "hybrid",
+    "oa_url": "https://link.springer.com/content/pdf/10.1007/s11160-022-09751-6.pdf",
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5027052665",
+        "display_name": "Michael J. Williamson",
+        "orcid": "https://orcid.org/0000-0001-9681-8920"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I1321067030",
+          "display_name": "Zoological Society of London",
+          "ror": "https://ror.org/03px4ez74",
+          "country_code": "GB",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I1321067030"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Michael J. Williamson",
+      "raw_affiliation_strings": [
+        "Institute of Zoology, Zoological Society of London, Outer Circle, Regent's Park, London, NW1 4RY, UK"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of Zoology, Zoological Society of London, Outer Circle, Regent's Park, London, NW1 4RY, UK",
+          "institution_ids": [
+            "https://openalex.org/I1321067030"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5053170814",
+        "display_name": "David Jacoby",
+        "orcid": "https://orcid.org/0000-0003-2729-3811"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I67415387",
+          "display_name": "Lancaster University",
+          "ror": "https://ror.org/04f2nsd36",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I67415387"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "David M. P. Jacoby",
+      "raw_affiliation_strings": [
+        "Lancaster Environment Centre, Lancaster University, Lancaster, LA1 4YQ, UK"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Lancaster Environment Centre, Lancaster University, Lancaster, LA1 4YQ, UK",
+          "institution_ids": [
+            "https://openalex.org/I67415387"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5061568677",
+        "display_name": "Adam T. Piper",
+        "orcid": "https://orcid.org/0000-0002-9027-3066"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I1321067030",
+          "display_name": "Zoological Society of London",
+          "ror": "https://ror.org/03px4ez74",
+          "country_code": "GB",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I1321067030"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Adam T. Piper",
+      "raw_affiliation_strings": [
+        "Institute of Zoology, Zoological Society of London, Outer Circle, Regent's Park, London, NW1 4RY, UK"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of Zoology, Zoological Society of London, Outer Circle, Regent's Park, London, NW1 4RY, UK",
+          "institution_ids": [
+            "https://openalex.org/I1321067030"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 3,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [],
+  "apc_list": {
+    "value": 3390,
+    "currency": "EUR",
+    "value_usd": 4390
+  },
+  "apc_paid": {
+    "value": 3390,
+    "currency": "EUR",
+    "value_usd": 4390
+  },
+  "fwci": 2.97873599,
+  "has_fulltext": true,
+  "cited_by_count": 7,
+  "citation_normalized_percentile": {
+    "value": 0.89262288,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 89,
+    "max": 98
+  },
+  "biblio": {
+    "volume": null,
+    "issue": null,
+    "first_page": null,
+    "last_page": null
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10302",
+    "display_name": "Fish Ecology and Management Studies",
+    "score": 0.9998999834060669,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2309",
+      "display_name": "Nature and Landscape Conservation"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/23",
+      "display_name": "Environmental Science"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10302",
+      "display_name": "Fish Ecology and Management Studies",
+      "score": 0.9998999834060669,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2309",
+        "display_name": "Nature and Landscape Conservation"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12014",
+      "display_name": "Fish biology, ecology, and behavior",
+      "score": 0.9988999962806702,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2309",
+        "display_name": "Nature and Landscape Conservation"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10230",
+      "display_name": "Marine and fisheries research",
+      "score": 0.9986000061035156,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2306",
+        "display_name": "Global and Planetary Change"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/lake-ecosystem",
+      "display_name": "Lake ecosystem",
+      "score": 0.9068628549575806
+    },
+    {
+      "id": "https://openalex.org/keywords/river-ecosystem",
+      "display_name": "River ecosystem",
+      "score": 0.8630224466323853
+    },
+    {
+      "id": "https://openalex.org/keywords/ecology",
+      "display_name": "Ecology",
+      "score": 0.5669401288032532
+    },
+    {
+      "id": "https://openalex.org/keywords/biology",
+      "display_name": "Biology",
+      "score": 0.48575571179389954
+    },
+    {
+      "id": "https://openalex.org/keywords/fishery",
+      "display_name": "Fishery",
+      "score": 0.47452035546302795
+    },
+    {
+      "id": "https://openalex.org/keywords/ecosystem",
+      "display_name": "Ecosystem",
+      "score": 0.3434494733810425
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C42088612",
+      "wikidata": "https://www.wikidata.org/wiki/Q3229532",
+      "display_name": "Lake ecosystem",
+      "level": 3,
+      "score": 0.9068628549575806
+    },
+    {
+      "id": "https://openalex.org/C129934472",
+      "wikidata": "https://www.wikidata.org/wiki/Q3578576",
+      "display_name": "River ecosystem",
+      "level": 3,
+      "score": 0.8630224466323853
+    },
+    {
+      "id": "https://openalex.org/C18903297",
+      "wikidata": "https://www.wikidata.org/wiki/Q7150",
+      "display_name": "Ecology",
+      "level": 1,
+      "score": 0.5669401288032532
+    },
+    {
+      "id": "https://openalex.org/C86803240",
+      "wikidata": "https://www.wikidata.org/wiki/Q420",
+      "display_name": "Biology",
+      "level": 0,
+      "score": 0.48575571179389954
+    },
+    {
+      "id": "https://openalex.org/C505870484",
+      "wikidata": "https://www.wikidata.org/wiki/Q180538",
+      "display_name": "Fishery",
+      "level": 1,
+      "score": 0.47452035546302795
+    },
+    {
+      "id": "https://openalex.org/C110872660",
+      "wikidata": "https://www.wikidata.org/wiki/Q37813",
+      "display_name": "Ecosystem",
+      "level": 2,
+      "score": 0.3434494733810425
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "id": "doi:10.1007/s11160-022-09751-6",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1007/s11160-022-09751-6",
+      "pdf_url": "https://link.springer.com/content/pdf/10.1007/s11160-022-09751-6.pdf",
+      "source": {
+        "id": "https://openalex.org/S140103977",
+        "display_name": "Reviews in Fish Biology and Fisheries",
+        "issn_l": "0960-3166",
+        "issn": [
+          "0960-3166",
+          "1573-5184"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310319900",
+        "host_organization_name": "Springer Science+Business Media",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310319900",
+          "https://openalex.org/P4310319965"
+        ],
+        "host_organization_lineage_names": [
+          "Springer Science+Business Media",
+          "Springer Nature"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Reviews in Fish Biology and Fisheries",
+      "raw_type": "journal-article"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1007/s11160-022-09751-6",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1007/s11160-022-09751-6",
+    "pdf_url": "https://link.springer.com/content/pdf/10.1007/s11160-022-09751-6.pdf",
+    "source": {
+      "id": "https://openalex.org/S140103977",
+      "display_name": "Reviews in Fish Biology and Fisheries",
+      "issn_l": "0960-3166",
+      "issn": [
+        "0960-3166",
+        "1573-5184"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310319900",
+      "host_organization_name": "Springer Science+Business Media",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310319900",
+        "https://openalex.org/P4310319965"
+      ],
+      "host_organization_lineage_names": [
+        "Springer Science+Business Media",
+        "Springer Nature"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Reviews in Fish Biology and Fisheries",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [
+    {
+      "display_name": "Life below water",
+      "id": "https://metadata.un.org/sdg/14",
+      "score": 0.8600000143051147
+    }
+  ],
+  "awards": [],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320336061",
+      "display_name": "Research England",
+      "ror": "https://ror.org/02wxr8x18"
+    }
+  ],
+  "has_content": {
+    "pdf": true,
+    "grobid_xml": true
+  },
+  "referenced_works_count": 229,
+  "referenced_works": [
+    "https://openalex.org/W2128356338",
+    "https://openalex.org/W1974501493",
+    "https://openalex.org/W1963900374",
+    "https://openalex.org/W2152414259",
+    "https://openalex.org/W1998751386",
+    "https://openalex.org/W3022529965",
+    "https://openalex.org/W2234983292",
+    "https://openalex.org/W2936771214",
+    "https://openalex.org/W3091939041",
+    "https://openalex.org/W4206796877",
+    "https://openalex.org/W4205313343",
+    "https://openalex.org/W2740495954",
+    "https://openalex.org/W2913229195",
+    "https://openalex.org/W3092498410",
+    "https://openalex.org/W3195549771",
+    "https://openalex.org/W2009883455",
+    "https://openalex.org/W3174080914",
+    "https://openalex.org/W2910013980",
+    "https://openalex.org/W3044505829",
+    "https://openalex.org/W2158846043",
+    "https://openalex.org/W2768177815",
+    "https://openalex.org/W1630858009",
+    "https://openalex.org/W2975011040",
+    "https://openalex.org/W2213695869",
+    "https://openalex.org/W1983699682",
+    "https://openalex.org/W2067161168",
+    "https://openalex.org/W1856719834",
+    "https://openalex.org/W2766112150",
+    "https://openalex.org/W2787835387",
+    "https://openalex.org/W2104515745",
+    "https://openalex.org/W2511464588",
+    "https://openalex.org/W2016780324",
+    "https://openalex.org/W1970785106",
+    "https://openalex.org/W4210710787",
+    "https://openalex.org/W2044719283",
+    "https://openalex.org/W2077213021",
+    "https://openalex.org/W2100684744",
+    "https://openalex.org/W2248626722",
+    "https://openalex.org/W2001022178",
+    "https://openalex.org/W2016059343",
+    "https://openalex.org/W2139357296",
+    "https://openalex.org/W2072709865",
+    "https://openalex.org/W2115743197",
+    "https://openalex.org/W3121969390",
+    "https://openalex.org/W3103200737",
+    "https://openalex.org/W1983189641",
+    "https://openalex.org/W2793389733",
+    "https://openalex.org/W1989897532",
+    "https://openalex.org/W2110449700",
+    "https://openalex.org/W1972717044",
+    "https://openalex.org/W3087779438",
+    "https://openalex.org/W2090703966",
+    "https://openalex.org/W2013659648",
+    "https://openalex.org/W2132386503",
+    "https://openalex.org/W3159376748",
+    "https://openalex.org/W2081965910",
+    "https://openalex.org/W345908956",
+    "https://openalex.org/W3025941421",
+    "https://openalex.org/W3104120578",
+    "https://openalex.org/W2007993004",
+    "https://openalex.org/W2965696733",
+    "https://openalex.org/W2127283334",
+    "https://openalex.org/W2884409542",
+    "https://openalex.org/W2941265976",
+    "https://openalex.org/W2136402915",
+    "https://openalex.org/W45701266",
+    "https://openalex.org/W2594398484",
+    "https://openalex.org/W2828210780",
+    "https://openalex.org/W2026790664",
+    "https://openalex.org/W1981918556",
+    "https://openalex.org/W2033240238",
+    "https://openalex.org/W1960686543",
+    "https://openalex.org/W2485589248",
+    "https://openalex.org/W98791596",
+    "https://openalex.org/W2004461489",
+    "https://openalex.org/W2895556550",
+    "https://openalex.org/W2077779780",
+    "https://openalex.org/W2513884524",
+    "https://openalex.org/W3194906825",
+    "https://openalex.org/W2094444890",
+    "https://openalex.org/W2072503064",
+    "https://openalex.org/W3005345075",
+    "https://openalex.org/W2193692002",
+    "https://openalex.org/W2804506005",
+    "https://openalex.org/W2795357522",
+    "https://openalex.org/W2045495988",
+    "https://openalex.org/W2806940624",
+    "https://openalex.org/W1631236906",
+    "https://openalex.org/W3156266120",
+    "https://openalex.org/W173575186",
+    "https://openalex.org/W4220982358",
+    "https://openalex.org/W2294621169",
+    "https://openalex.org/W2095962283",
+    "https://openalex.org/W4292633585",
+    "https://openalex.org/W1855584014",
+    "https://openalex.org/W2028921316",
+    "https://openalex.org/W2912763281",
+    "https://openalex.org/W1944732173",
+    "https://openalex.org/W1805206497",
+    "https://openalex.org/W2033102247",
+    "https://openalex.org/W2773233936",
+    "https://openalex.org/W2268979663",
+    "https://openalex.org/W1093565131",
+    "https://openalex.org/W2344290876",
+    "https://openalex.org/W2945563472",
+    "https://openalex.org/W2026732903",
+    "https://openalex.org/W3164861582",
+    "https://openalex.org/W2018511334",
+    "https://openalex.org/W2073695091",
+    "https://openalex.org/W101483418",
+    "https://openalex.org/W1992852887",
+    "https://openalex.org/W2618530409",
+    "https://openalex.org/W2032727318",
+    "https://openalex.org/W2073183046",
+    "https://openalex.org/W2022314569",
+    "https://openalex.org/W2050770901",
+    "https://openalex.org/W4287774170",
+    "https://openalex.org/W3206754979",
+    "https://openalex.org/W3112691784",
+    "https://openalex.org/W2986897368",
+    "https://openalex.org/W2945833085",
+    "https://openalex.org/W2170682057",
+    "https://openalex.org/W3005193923",
+    "https://openalex.org/W2089612115",
+    "https://openalex.org/W3139367189",
+    "https://openalex.org/W1608876241",
+    "https://openalex.org/W1999356859",
+    "https://openalex.org/W2044135988",
+    "https://openalex.org/W1604265691",
+    "https://openalex.org/W2223820082",
+    "https://openalex.org/W2899747887",
+    "https://openalex.org/W2064818401",
+    "https://openalex.org/W2134074706",
+    "https://openalex.org/W2013281350",
+    "https://openalex.org/W2321909187",
+    "https://openalex.org/W2106773165",
+    "https://openalex.org/W2115571765",
+    "https://openalex.org/W2262304878",
+    "https://openalex.org/W1994131932",
+    "https://openalex.org/W3176053249",
+    "https://openalex.org/W2751604189",
+    "https://openalex.org/W1977629543",
+    "https://openalex.org/W2791711644",
+    "https://openalex.org/W1978939541",
+    "https://openalex.org/W2106314987",
+    "https://openalex.org/W2413489735",
+    "https://openalex.org/W2982666723",
+    "https://openalex.org/W3093362736",
+    "https://openalex.org/W2062785833",
+    "https://openalex.org/W2328679237",
+    "https://openalex.org/W2562587168",
+    "https://openalex.org/W2593590032",
+    "https://openalex.org/W2078697112",
+    "https://openalex.org/W2069622914",
+    "https://openalex.org/W2137588732",
+    "https://openalex.org/W2020266987",
+    "https://openalex.org/W4212798250",
+    "https://openalex.org/W2077159294",
+    "https://openalex.org/W625407226",
+    "https://openalex.org/W2170762776",
+    "https://openalex.org/W2931499481",
+    "https://openalex.org/W1932435829",
+    "https://openalex.org/W3014785599",
+    "https://openalex.org/W1972734387",
+    "https://openalex.org/W2113634510",
+    "https://openalex.org/W1875348951",
+    "https://openalex.org/W3014519212",
+    "https://openalex.org/W4292628909",
+    "https://openalex.org/W2001043435",
+    "https://openalex.org/W2065302924",
+    "https://openalex.org/W2792787614",
+    "https://openalex.org/W2190189434",
+    "https://openalex.org/W2017847708",
+    "https://openalex.org/W1968668542",
+    "https://openalex.org/W2034949625",
+    "https://openalex.org/W2528859876",
+    "https://openalex.org/W3159449035",
+    "https://openalex.org/W1573099084",
+    "https://openalex.org/W3104293635",
+    "https://openalex.org/W2637362475",
+    "https://openalex.org/W2590057436",
+    "https://openalex.org/W4281565694",
+    "https://openalex.org/W2032659364",
+    "https://openalex.org/W1486059790",
+    "https://openalex.org/W2519523617",
+    "https://openalex.org/W3011849100",
+    "https://openalex.org/W2501206249",
+    "https://openalex.org/W1993547954",
+    "https://openalex.org/W1488530666",
+    "https://openalex.org/W2808278379",
+    "https://openalex.org/W2571992668",
+    "https://openalex.org/W2961950276",
+    "https://openalex.org/W3034852855",
+    "https://openalex.org/W4239699762",
+    "https://openalex.org/W2164797795",
+    "https://openalex.org/W2032864866",
+    "https://openalex.org/W2999510575",
+    "https://openalex.org/W2790085254",
+    "https://openalex.org/W2314340300",
+    "https://openalex.org/W2741883028",
+    "https://openalex.org/W2890899349",
+    "https://openalex.org/W3006468047",
+    "https://openalex.org/W1978382813",
+    "https://openalex.org/W2089701641",
+    "https://openalex.org/W2062581906",
+    "https://openalex.org/W2144073021",
+    "https://openalex.org/W2061839758",
+    "https://openalex.org/W2803203945",
+    "https://openalex.org/W2616575237",
+    "https://openalex.org/W4214768639",
+    "https://openalex.org/W1978452609",
+    "https://openalex.org/W2100584160",
+    "https://openalex.org/W3028211794",
+    "https://openalex.org/W2057593694",
+    "https://openalex.org/W2887942395",
+    "https://openalex.org/W2016376689",
+    "https://openalex.org/W2325019492",
+    "https://openalex.org/W2145091445",
+    "https://openalex.org/W2062848696",
+    "https://openalex.org/W2164778773",
+    "https://openalex.org/W2122764423",
+    "https://openalex.org/W2969700004",
+    "https://openalex.org/W2934416811",
+    "https://openalex.org/W3119346639",
+    "https://openalex.org/W2164934041",
+    "https://openalex.org/W1665850336",
+    "https://openalex.org/W2086620533",
+    "https://openalex.org/W2024748224",
+    "https://openalex.org/W2490261995"
+  ],
+  "related_works": [
+    "https://openalex.org/W3126606804",
+    "https://openalex.org/W2108760572",
+    "https://openalex.org/W4388074287",
+    "https://openalex.org/W2717727395",
+    "https://openalex.org/W1203335815",
+    "https://openalex.org/W3080298898",
+    "https://openalex.org/W2092165602",
+    "https://openalex.org/W2793896495",
+    "https://openalex.org/W2796291232",
+    "https://openalex.org/W3144395883"
+  ],
+  "abstract_inverted_index": {
+    "Abstract": [
+      0
+    ],
+    "Anguillid": [
+      1
+    ],
+    "eels": [
+      2,
+      34,
+      231
+    ],
+    "are": [
+      3,
+      49
+    ],
+    "near": [
+      4
+    ],
+    "globally": [
+      5
+    ],
+    "distributed": [
+      6,
+      60
+    ],
+    "catadromous": [
+      7
+    ],
+    "fishes": [
+      8
+    ],
+    "with": [
+      9
+    ],
+    "marine": [
+      10,
+      42
+    ],
+    "spawning": [
+      11
+    ],
+    "areas": [
+      12,
+      18
+    ],
+    "and": [
+      13,
+      15,
+      24,
+      43,
+      46,
+      68,
+      80,
+      98,
+      138,
+      153,
+      171,
+      197,
+      215,
+      217,
+      227
+    ],
+    "inshore": [
+      14
+    ],
+    "inland": [
+      16
+    ],
+    "growth": [
+      17
+    ],
+    "in": [
+      19,
+      40,
+      66,
+      119,
+      129,
+      136,
+      144,
+      178,
+      192,
+      206,
+      232
+    ],
+    "both": [
+      20,
+      41
+    ],
+    "lotic": [
+      21,
+      120,
+      130,
+      152,
+      207
+    ],
+    "(rivers,": [
+      22
+    ],
+    "estuaries)": [
+      23
+    ],
+    "lentic": [
+      25,
+      105,
+      145,
+      154,
+      179,
+      193,
+      234
+    ],
+    "(lakes,": [
+      26
+    ],
+    "ponds,": [
+      27
+    ],
+    "lagoons)": [
+      28
+    ],
+    "water": [
+      29,
+      131,
+      139
+    ],
+    "bodies.": [
+      30
+    ],
+    "As": [
+      31
+    ],
+    "predators,": [
+      32
+    ],
+    "anguillid": [
+      33,
+      85,
+      113,
+      175,
+      230
+    ],
+    "play": [
+      35
+    ],
+    "an": [
+      36
+    ],
+    "important": [
+      37
+    ],
+    "ecological": [
+      38
+    ],
+    "role": [
+      39
+    ],
+    "freshwater": [
+      44
+    ],
+    "systems,": [
+      45
+    ],
+    "several": [
+      47
+    ],
+    "species": [
+      48,
+      61,
+      96
+    ],
+    "harvested": [
+      50
+    ],
+    "commercially": [
+      51
+    ],
+    "for": [
+      52,
+      95
+    ],
+    "food.": [
+      53
+    ],
+    "However,": [
+      54
+    ],
+    "some": [
+      55
+    ],
+    "of": [
+      56,
+      74,
+      88,
+      91,
+      104,
+      149,
+      174,
+      184,
+      186,
+      189,
+      204,
+      229
+    ],
+    "the": [
+      57,
+      78,
+      89,
+      102,
+      147,
+      169,
+      187,
+      200,
+      225
+    ],
+    "more": [
+      58
+    ],
+    "widely": [
+      59
+    ],
+    "have": [
+      62,
+      116
+    ],
+    "undergone": [
+      63
+    ],
+    "severe": [
+      64
+    ],
+    "declines": [
+      65
+    ],
+    "recruitment": [
+      67
+    ],
+    "their": [
+      69,
+      108
+    ],
+    "population": [
+      70
+    ],
+    "status": [
+      71
+    ],
+    "is": [
+      72,
+      93,
+      195
+    ],
+    "now": [
+      73
+    ],
+    "significant": [
+      75
+    ],
+    "concern.": [
+      76
+    ],
+    "Given": [
+      77,
+      122
+    ],
+    "multiple": [
+      79
+    ],
+    "lengthy": [
+      81
+    ],
+    "migrations": [
+      82
+    ],
+    "undertaken": [
+      83
+    ],
+    "by": [
+      84
+    ],
+    "eels,": [
+      86
+    ],
+    "understanding": [
+      87
+    ],
+    "drivers": [
+      90,
+      173,
+      188,
+      203
+    ],
+    "movement": [
+      92,
+      115,
+      177,
+      191,
+      205
+    ],
+    "fundamental": [
+      94
+    ],
+    "conservation": [
+      97,
+      228
+    ],
+    "management.": [
+      99
+    ],
+    "Yet,": [
+      100
+    ],
+    "despite": [
+      101
+    ],
+    "importance": [
+      103
+    ],
+    "systems": [
+      106,
+      155,
+      194
+    ],
+    "to": [
+      107,
+      164,
+      199,
+      223
+    ],
+    "ecology,": [
+      109
+    ],
+    "most": [
+      110
+    ],
+    "studies": [
+      111
+    ],
+    "on": [
+      112,
+      126,
+      168
+    ],
+    "eel": [
+      114,
+      127,
+      176,
+      190
+    ],
+    "been": [
+      117
+    ],
+    "conducted": [
+      118
+    ],
+    "systems.": [
+      121,
+      180,
+      208,
+      235
+    ],
+    "that": [
+      123
+    ],
+    "key": [
+      124,
+      219
+    ],
+    "influences": [
+      125
+    ],
+    "migration": [
+      128
+    ],
+    "bodies,": [
+      132
+    ],
+    "such": [
+      133
+    ],
+    "as": [
+      134
+    ],
+    "fluctuations": [
+      135
+    ],
+    "flow": [
+      137
+    ],
+    "temperature,": [
+      140
+    ],
+    "may": [
+      141
+    ],
+    "be": [
+      142,
+      157
+    ],
+    "minimised": [
+      143
+    ],
+    "environments,": [
+      146
+    ],
+    "transferability": [
+      148
+    ],
+    "findings": [
+      150
+    ],
+    "between": [
+      151
+    ],
+    "cannot": [
+      156
+    ],
+    "assumed.": [
+      158
+    ],
+    "A": [
+      159
+    ],
+    "systematic": [
+      160
+    ],
+    "map": [
+      161
+    ],
+    "was": [
+      162
+    ],
+    "constructed": [
+      163
+    ],
+    "synthesise": [
+      165
+    ],
+    "current": [
+      166,
+      182,
+      212
+    ],
+    "knowledge": [
+      167,
+      185,
+      213
+    ],
+    "extrinsic": [
+      170
+    ],
+    "intrinsic": [
+      172
+    ],
+    "The": [
+      181
+    ],
+    "state": [
+      183
+    ],
+    "presented": [
+      196
+    ],
+    "compared": [
+      198
+    ],
+    "relatively": [
+      201
+    ],
+    "well-understood": [
+      202
+    ],
+    "We": [
+      209
+    ],
+    "also": [
+      210
+    ],
+    "discuss": [
+      211
+    ],
+    "gaps": [
+      214
+    ],
+    "limitations,": [
+      216
+    ],
+    "identify": [
+      218
+    ],
+    "future": [
+      220
+    ],
+    "research": [
+      221
+    ],
+    "requirements": [
+      222
+    ],
+    "inform": [
+      224
+    ],
+    "management": [
+      226
+    ],
+    "understudied": [
+      233
+    ],
+    "Graphical": [
+      236
+    ],
+    "abstract": [
+      237
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 5
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2025-11-06T03:46:38.306776",
+  "created_date": "2025-10-10T00:00:00"
+}

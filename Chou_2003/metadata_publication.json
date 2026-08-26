@@ -1,0 +1,937 @@
+{
+  "id": "https://openalex.org/W2093112693",
+  "doi": "https://doi.org/10.1016/j.jpainsymman.2003.03.003",
+  "title": "Comparative efficacy and safety of long-acting oral opioids for chronic non-cancer pain: a systematic review",
+  "display_name": "Comparative efficacy and safety of long-acting oral opioids for chronic non-cancer pain: a systematic review",
+  "publication_year": 2003,
+  "publication_date": "2003-10-25",
+  "ids": {
+    "openalex": "https://openalex.org/W2093112693",
+    "doi": "https://doi.org/10.1016/j.jpainsymman.2003.03.003",
+    "mag": "2093112693",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/14585554"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1016/j.jpainsymman.2003.03.003",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1016/j.jpainsymman.2003.03.003",
+    "pdf_url": "http://www.jpsmjournal.com/article/S0885392403004056/pdf",
+    "source": {
+      "id": "https://openalex.org/S135898356",
+      "display_name": "Journal of Pain and Symptom Management",
+      "issn_l": "0885-3924",
+      "issn": [
+        "0885-3924",
+        "1873-6513"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320990",
+      "host_organization_name": "Elsevier BV",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320990"
+      ],
+      "host_organization_lineage_names": [
+        "Elsevier BV"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Journal of Pain and Symptom Management",
+    "raw_type": "journal-article"
+  },
+  "type": "review",
+  "indexed_in": [
+    "crossref",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "bronze",
+    "oa_url": "http://www.jpsmjournal.com/article/S0885392403004056/pdf",
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5070442023",
+        "display_name": "Roger Chou",
+        "orcid": "https://orcid.org/0000-0001-9889-8610"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210126548",
+          "display_name": "Oregon Center for Clinical Investigation",
+          "ror": "https://ror.org/02wzwfh06",
+          "country_code": "US",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I4210126548"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I165690674",
+          "display_name": "Oregon Health & Science University",
+          "ror": "https://ror.org/009avj582",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I165690674"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I2803065977",
+          "display_name": "Portland VA Medical Center",
+          "ror": "https://ror.org/02v3txv81",
+          "country_code": "US",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I1322918889",
+            "https://openalex.org/I2799886695",
+            "https://openalex.org/I2803065977",
+            "https://openalex.org/I4210144745"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Roger Chou",
+      "raw_affiliation_strings": [
+        "Departments of Medicine (R.C., M.H.) and Family Medicine (E.C.), Oregon Health & Science University",
+        "Oregon Evidence-Based Practice Center (R.C., M.H., E.C.)",
+        "Portland Veterans Affairs Medical Center (M.H.), Portland, Oregon, USA"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Portland Veterans Affairs Medical Center (M.H.), Portland, Oregon, USA",
+          "institution_ids": [
+            "https://openalex.org/I2803065977"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Oregon Evidence-Based Practice Center (R.C., M.H., E.C.)",
+          "institution_ids": [
+            "https://openalex.org/I4210126548"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Departments of Medicine (R.C., M.H.) and Family Medicine (E.C.), Oregon Health & Science University",
+          "institution_ids": [
+            "https://openalex.org/I165690674"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5091060035",
+        "display_name": "Elizabeth Clark",
+        "orcid": "https://orcid.org/0000-0002-6179-046X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210126548",
+          "display_name": "Oregon Center for Clinical Investigation",
+          "ror": "https://ror.org/02wzwfh06",
+          "country_code": "US",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I4210126548"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I165690674",
+          "display_name": "Oregon Health & Science University",
+          "ror": "https://ror.org/009avj582",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I165690674"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I2803065977",
+          "display_name": "Portland VA Medical Center",
+          "ror": "https://ror.org/02v3txv81",
+          "country_code": "US",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I1322918889",
+            "https://openalex.org/I2799886695",
+            "https://openalex.org/I2803065977",
+            "https://openalex.org/I4210144745"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Elizabeth Clark",
+      "raw_affiliation_strings": [
+        "Departments of Medicine (R.C., M.H.) and Family Medicine (E.C.), Oregon Health & Science University",
+        "Oregon Evidence-Based Practice Center (R.C., M.H., E.C.)",
+        "Portland Veterans Affairs Medical Center (M.H.), Portland, Oregon, USA"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Departments of Medicine (R.C., M.H.) and Family Medicine (E.C.), Oregon Health & Science University",
+          "institution_ids": [
+            "https://openalex.org/I165690674"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Portland Veterans Affairs Medical Center (M.H.), Portland, Oregon, USA",
+          "institution_ids": [
+            "https://openalex.org/I2803065977"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Oregon Evidence-Based Practice Center (R.C., M.H., E.C.)",
+          "institution_ids": [
+            "https://openalex.org/I4210126548"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5011604065",
+        "display_name": "Mark Helfand",
+        "orcid": "https://orcid.org/0000-0003-4846-9900"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210126548",
+          "display_name": "Oregon Center for Clinical Investigation",
+          "ror": "https://ror.org/02wzwfh06",
+          "country_code": "US",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I4210126548"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I165690674",
+          "display_name": "Oregon Health & Science University",
+          "ror": "https://ror.org/009avj582",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I165690674"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I2803065977",
+          "display_name": "Portland VA Medical Center",
+          "ror": "https://ror.org/02v3txv81",
+          "country_code": "US",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I1322918889",
+            "https://openalex.org/I2799886695",
+            "https://openalex.org/I2803065977",
+            "https://openalex.org/I4210144745"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Mark Helfand",
+      "raw_affiliation_strings": [
+        "Departments of Medicine (R.C., M.H.) and Family Medicine (E.C.), Oregon Health & Science University",
+        "Oregon Evidence-Based Practice Center (R.C., M.H., E.C.)",
+        "Portland Veterans Affairs Medical Center (M.H.), Portland, Oregon, USA"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Oregon Evidence-Based Practice Center (R.C., M.H., E.C.)",
+          "institution_ids": [
+            "https://openalex.org/I4210126548"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Departments of Medicine (R.C., M.H.) and Family Medicine (E.C.), Oregon Health & Science University",
+          "institution_ids": [
+            "https://openalex.org/I165690674"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Portland Veterans Affairs Medical Center (M.H.), Portland, Oregon, USA",
+          "institution_ids": [
+            "https://openalex.org/I2803065977"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 3,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5070442023"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I165690674",
+    "https://openalex.org/I2803065977",
+    "https://openalex.org/I4210126548"
+  ],
+  "apc_list": {
+    "value": 3000,
+    "currency": "USD",
+    "value_usd": 3000
+  },
+  "apc_paid": null,
+  "fwci": 12.59374178,
+  "has_fulltext": false,
+  "cited_by_count": 228,
+  "citation_normalized_percentile": {
+    "value": 0.99057325,
+    "is_in_top_1_percent": true,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 89,
+    "max": 100
+  },
+  "biblio": {
+    "volume": "26",
+    "issue": "5",
+    "first_page": "1026",
+    "last_page": "1048"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T11199",
+    "display_name": "Pain Management and Opioid Use",
+    "score": 1.0,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2703",
+      "display_name": "Anesthesiology and Pain Medicine"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/27",
+      "display_name": "Medicine"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/4",
+      "display_name": "Health Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T11199",
+      "display_name": "Pain Management and Opioid Use",
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2703",
+        "display_name": "Anesthesiology and Pain Medicine"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10576",
+      "display_name": "Opioid Use Disorder Treatment",
+      "score": 0.9991999864578247,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2739",
+        "display_name": "Public Health, Environmental and Occupational Health"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10196",
+      "display_name": "Pain Mechanisms and Treatments",
+      "score": 0.9988999962806702,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2737",
+        "display_name": "Physiology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/medicine",
+      "display_name": "Medicine",
+      "score": 0.9161823987960815
+    },
+    {
+      "id": "https://openalex.org/keywords/observational-study",
+      "display_name": "Observational study",
+      "score": 0.8431524038314819
+    },
+    {
+      "id": "https://openalex.org/keywords/adverse-effect",
+      "display_name": "Adverse effect",
+      "score": 0.6778021454811096
+    },
+    {
+      "id": "https://openalex.org/keywords/randomized-controlled-trial",
+      "display_name": "Randomized controlled trial",
+      "score": 0.6742053031921387
+    },
+    {
+      "id": "https://openalex.org/keywords/oxycodone",
+      "display_name": "Oxycodone",
+      "score": 0.5517916679382324
+    },
+    {
+      "id": "https://openalex.org/keywords/chronic-pain",
+      "display_name": "Chronic pain",
+      "score": 0.5214411616325378
+    },
+    {
+      "id": "https://openalex.org/keywords/cancer-pain",
+      "display_name": "Cancer pain",
+      "score": 0.5114468336105347
+    },
+    {
+      "id": "https://openalex.org/keywords/clinical-trial",
+      "display_name": "Clinical trial",
+      "score": 0.4826239049434662
+    },
+    {
+      "id": "https://openalex.org/keywords/intensive-care-medicine",
+      "display_name": "Intensive care medicine",
+      "score": 0.43107423186302185
+    },
+    {
+      "id": "https://openalex.org/keywords/opioid",
+      "display_name": "Opioid",
+      "score": 0.39759665727615356
+    },
+    {
+      "id": "https://openalex.org/keywords/physical-therapy",
+      "display_name": "Physical therapy",
+      "score": 0.3143503665924072
+    },
+    {
+      "id": "https://openalex.org/keywords/cancer",
+      "display_name": "Cancer",
+      "score": 0.24840262532234192
+    },
+    {
+      "id": "https://openalex.org/keywords/internal-medicine",
+      "display_name": "Internal medicine",
+      "score": 0.24714025855064392
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C71924100",
+      "wikidata": "https://www.wikidata.org/wiki/Q11190",
+      "display_name": "Medicine",
+      "level": 0,
+      "score": 0.9161823987960815
+    },
+    {
+      "id": "https://openalex.org/C23131810",
+      "wikidata": "https://www.wikidata.org/wiki/Q818574",
+      "display_name": "Observational study",
+      "level": 2,
+      "score": 0.8431524038314819
+    },
+    {
+      "id": "https://openalex.org/C197934379",
+      "wikidata": "https://www.wikidata.org/wiki/Q2047938",
+      "display_name": "Adverse effect",
+      "level": 2,
+      "score": 0.6778021454811096
+    },
+    {
+      "id": "https://openalex.org/C168563851",
+      "wikidata": "https://www.wikidata.org/wiki/Q1436668",
+      "display_name": "Randomized controlled trial",
+      "level": 2,
+      "score": 0.6742053031921387
+    },
+    {
+      "id": "https://openalex.org/C2776029756",
+      "wikidata": "https://www.wikidata.org/wiki/Q407535",
+      "display_name": "Oxycodone",
+      "level": 4,
+      "score": 0.5517916679382324
+    },
+    {
+      "id": "https://openalex.org/C2781118164",
+      "wikidata": "https://www.wikidata.org/wiki/Q1088113",
+      "display_name": "Chronic pain",
+      "level": 2,
+      "score": 0.5214411616325378
+    },
+    {
+      "id": "https://openalex.org/C2778904085",
+      "wikidata": "https://www.wikidata.org/wiki/Q3712728",
+      "display_name": "Cancer pain",
+      "level": 3,
+      "score": 0.5114468336105347
+    },
+    {
+      "id": "https://openalex.org/C535046627",
+      "wikidata": "https://www.wikidata.org/wiki/Q30612",
+      "display_name": "Clinical trial",
+      "level": 2,
+      "score": 0.4826239049434662
+    },
+    {
+      "id": "https://openalex.org/C177713679",
+      "wikidata": "https://www.wikidata.org/wiki/Q679690",
+      "display_name": "Intensive care medicine",
+      "level": 1,
+      "score": 0.43107423186302185
+    },
+    {
+      "id": "https://openalex.org/C2781063702",
+      "wikidata": "https://www.wikidata.org/wiki/Q427523",
+      "display_name": "Opioid",
+      "level": 3,
+      "score": 0.39759665727615356
+    },
+    {
+      "id": "https://openalex.org/C1862650",
+      "wikidata": "https://www.wikidata.org/wiki/Q186005",
+      "display_name": "Physical therapy",
+      "level": 1,
+      "score": 0.3143503665924072
+    },
+    {
+      "id": "https://openalex.org/C121608353",
+      "wikidata": "https://www.wikidata.org/wiki/Q12078",
+      "display_name": "Cancer",
+      "level": 2,
+      "score": 0.24840262532234192
+    },
+    {
+      "id": "https://openalex.org/C126322002",
+      "wikidata": "https://www.wikidata.org/wiki/Q11180",
+      "display_name": "Internal medicine",
+      "level": 1,
+      "score": 0.24714025855064392
+    },
+    {
+      "id": "https://openalex.org/C170493617",
+      "wikidata": "https://www.wikidata.org/wiki/Q208467",
+      "display_name": "Receptor",
+      "level": 2,
+      "score": 0.0
+    }
+  ],
+  "mesh": [
+    {
+      "descriptor_ui": "D000701",
+      "descriptor_name": "Analgesics, Opioid",
+      "qualifier_ui": "Q000009",
+      "qualifier_name": "adverse effects",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000701",
+      "descriptor_name": "Analgesics, Opioid",
+      "qualifier_ui": "Q000627",
+      "qualifier_name": "therapeutic use",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D002908",
+      "descriptor_name": "Chronic Disease",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D003692",
+      "descriptor_name": "Delayed-Action Preparations",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D010146",
+      "descriptor_name": "Pain",
+      "qualifier_ui": "Q000188",
+      "qualifier_name": "drug therapy",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D016032",
+      "descriptor_name": "Randomized Controlled Trials as Topic",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000701",
+      "descriptor_name": "Analgesics, Opioid",
+      "qualifier_ui": "Q000009",
+      "qualifier_name": "adverse effects",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000701",
+      "descriptor_name": "Analgesics, Opioid",
+      "qualifier_ui": "Q000627",
+      "qualifier_name": "therapeutic use",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D002908",
+      "descriptor_name": "Chronic Disease",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D003692",
+      "descriptor_name": "Delayed-Action Preparations",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D010146",
+      "descriptor_name": "Pain",
+      "qualifier_ui": "Q000188",
+      "qualifier_name": "drug therapy",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D016032",
+      "descriptor_name": "Randomized Controlled Trials as Topic",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000701",
+      "descriptor_name": "Analgesics, Opioid",
+      "qualifier_ui": "Q000009",
+      "qualifier_name": "adverse effects",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000701",
+      "descriptor_name": "Analgesics, Opioid",
+      "qualifier_ui": "Q000627",
+      "qualifier_name": "therapeutic use",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D002908",
+      "descriptor_name": "Chronic Disease",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D003692",
+      "descriptor_name": "Delayed-Action Preparations",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D010146",
+      "descriptor_name": "Pain",
+      "qualifier_ui": "Q000188",
+      "qualifier_name": "drug therapy",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D016032",
+      "descriptor_name": "Randomized Controlled Trials as Topic",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    }
+  ],
+  "locations_count": 2,
+  "locations": [
+    {
+      "id": "doi:10.1016/j.jpainsymman.2003.03.003",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1016/j.jpainsymman.2003.03.003",
+      "pdf_url": "http://www.jpsmjournal.com/article/S0885392403004056/pdf",
+      "source": {
+        "id": "https://openalex.org/S135898356",
+        "display_name": "Journal of Pain and Symptom Management",
+        "issn_l": "0885-3924",
+        "issn": [
+          "0885-3924",
+          "1873-6513"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320990",
+        "host_organization_name": "Elsevier BV",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320990"
+        ],
+        "host_organization_lineage_names": [
+          "Elsevier BV"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Journal of Pain and Symptom Management",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:14585554",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/14585554",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Journal of pain and symptom management",
+      "raw_type": null
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1016/j.jpainsymman.2003.03.003",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1016/j.jpainsymman.2003.03.003",
+    "pdf_url": "http://www.jpsmjournal.com/article/S0885392403004056/pdf",
+    "source": {
+      "id": "https://openalex.org/S135898356",
+      "display_name": "Journal of Pain and Symptom Management",
+      "issn_l": "0885-3924",
+      "issn": [
+        "0885-3924",
+        "1873-6513"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320990",
+      "host_organization_name": "Elsevier BV",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320990"
+      ],
+      "host_organization_lineage_names": [
+        "Elsevier BV"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Journal of Pain and Symptom Management",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [
+    {
+      "id": "https://metadata.un.org/sdg/1",
+      "score": 0.7900000214576721,
+      "display_name": "No poverty"
+    }
+  ],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "grobid_xml": true,
+    "pdf": true
+  },
+  "referenced_works_count": 43,
+  "referenced_works": [
+    "https://openalex.org/W2024150610",
+    "https://openalex.org/W1975229253",
+    "https://openalex.org/W4300668950",
+    "https://openalex.org/W4299480422",
+    "https://openalex.org/W2039443925",
+    "https://openalex.org/W1973846830",
+    "https://openalex.org/W2020143469",
+    "https://openalex.org/W2057143235",
+    "https://openalex.org/W2168514333",
+    "https://openalex.org/W4242756503",
+    "https://openalex.org/W2017178650",
+    "https://openalex.org/W2131877065",
+    "https://openalex.org/W2093371287",
+    "https://openalex.org/W2122540356",
+    "https://openalex.org/W2329526937",
+    "https://openalex.org/W2117950925",
+    "https://openalex.org/W2035397928",
+    "https://openalex.org/W2328243968",
+    "https://openalex.org/W6696400454",
+    "https://openalex.org/W2052993135",
+    "https://openalex.org/W2028685426",
+    "https://openalex.org/W2052655298",
+    "https://openalex.org/W2015925754",
+    "https://openalex.org/W2091329435",
+    "https://openalex.org/W4238857543",
+    "https://openalex.org/W2077547311",
+    "https://openalex.org/W1991565511",
+    "https://openalex.org/W6719036463",
+    "https://openalex.org/W2136743000",
+    "https://openalex.org/W6964920646",
+    "https://openalex.org/W2157882966",
+    "https://openalex.org/W2035220478",
+    "https://openalex.org/W2032231612",
+    "https://openalex.org/W2060793118",
+    "https://openalex.org/W1924932134",
+    "https://openalex.org/W2023153884",
+    "https://openalex.org/W2067563989",
+    "https://openalex.org/W2463943666",
+    "https://openalex.org/W4285719527",
+    "https://openalex.org/W2395709878",
+    "https://openalex.org/W2081158732",
+    "https://openalex.org/W2003672227",
+    "https://openalex.org/W2290133626"
+  ],
+  "related_works": [
+    "https://openalex.org/W2037059059",
+    "https://openalex.org/W2246024722",
+    "https://openalex.org/W2390600591",
+    "https://openalex.org/W2946667327",
+    "https://openalex.org/W2036825593",
+    "https://openalex.org/W4318671286",
+    "https://openalex.org/W1995673621",
+    "https://openalex.org/W2912718090",
+    "https://openalex.org/W4306381808",
+    "https://openalex.org/W4377982552"
+  ],
+  "abstract_inverted_index": null,
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 4
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 3
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2021,
+      "cited_by_count": 8
+    },
+    {
+      "year": 2020,
+      "cited_by_count": 4
+    },
+    {
+      "year": 2019,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2018,
+      "cited_by_count": 12
+    },
+    {
+      "year": 2017,
+      "cited_by_count": 11
+    },
+    {
+      "year": 2016,
+      "cited_by_count": 3
+    },
+    {
+      "year": 2015,
+      "cited_by_count": 11
+    },
+    {
+      "year": 2014,
+      "cited_by_count": 15
+    },
+    {
+      "year": 2013,
+      "cited_by_count": 12
+    },
+    {
+      "year": 2012,
+      "cited_by_count": 8
+    }
+  ],
+  "updated_date": "2025-11-06T03:46:38.306776",
+  "created_date": "2025-10-10T00:00:00"
+}

@@ -1,0 +1,12 @@
+{
+  "key": "Bos_2018",
+  "publication": {
+    "doi": "10.1016/j.jalz.2018.04.007",
+    "eligibility_criteria": "For the current review, we used the following inclusion criteria: (1) all studies had to be prospective population-based cohort studies. Inherent to the nature of population-based studies this meant that except for a selection criterion of age, no other selection criteria were applied; (2) cerebral imaging had to be performed (either magnetic resonance imaging [MRI] or computed tomography) for the visualization of white matter hyperintensities, covert brain infarcts, or microbleeds; (3) all studies had to have investigated the association of any of the three pathologies with the risk of incident all-dementia or AD. We specifically note that we chose all-dementia as primary outcome measure, given that the syndrome diagnosis of dementia can be defined with high consistency across studies and is less dependent on advanced diagnostic testing, which is often not feasible in large population-based studies. Still, we acknowledge the importance of various neuropathologies underlying the clinical manifestation of dementia. To provide additional insight into the association of cerebral small vessel disease with dementia independent of manifest cerebrovascular disease, we also highlighted the associations with a diagnosis of AD (if available in the study) as a secondary outcome measure. We restricted our inclusion to original articles that were written in English and excluded review articles, case reports, conference papers, and editorials."
+  },
+  "data": {
+    "url": "https://osf.io/w3kbq/",
+    "n_records": 5072,
+    "n_records_included": 10
+  }
+}

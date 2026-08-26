@@ -1,0 +1,12 @@
+{
+  "key": "Sepriano_2020",
+  "publication": {
+    "doi": "10.1136/annrheumdis-2019-216653",
+    "eligibility_criteria": "The literature search addressed the safety of DMARDs. Observational studies, namely, cohort studies or registries with >30 cases were the main study type. Participants were adults (\u226518 years old) with a clinical diagnosis of RA. Studies including patients with other diagnoses were eligible only if results from patients with RA were presented separately. The intervention was any DMARD (csDMARD, bDMARD\u2014including biosimilars\u2014or tsDMARD), including all drugs (methotrexate, leflunomide, hydroxychloroquine, sulfasalazine, gold, azathioprine, chlorambucil, chloroquine, ciclosporin, cyclophosphamide, mycophenolate, minocycline, penicillamine, tacrolimus, anakinra, infliximab, etanercept, adalimumab, golimumab, certolizumab pegol, rituximab, abatacept, tocilizumab, sarilumab, sirukumab, olokizumab, ixekizumab, guselkumab, ustekinumab, mavrilimumab, tofacitinib, baricitinib, peficitinib, filgotinib, upadacitinib or fostamatinib), formulations and duration. Glucocorticoids were also included. The comparator was another bDMARD, sDMARD, glucocorticoid, combination therapy or the general population. Studies were only eligible if they included a comparator group. All safety outcomes were considered, namely, infections (including serious infections (SIs), opportunistic infections (OIs) such as tuberculosis and herpes zoster (HZ)), malignancies, mortality, major cardiovascular events (MACEs) including venous thromboembolism/pulmonary embolism (VTE/PE), change in lipid levels, elevation of creatine phosphokinase, impairment in renal function, elevation of liver enzymes, haematological abnormalities, gastrointestinal side effects, demyelinating disease, induction of autoimmune disease and teratogenicity."
+  },
+  "data": {
+    "doi": "10.17605/OSF.IO/T8KNJ",
+    "n_records": 3844,
+    "n_records_included": 43
+  }
+}

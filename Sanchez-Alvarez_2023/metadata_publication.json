@@ -1,0 +1,1788 @@
+{
+  "id": "https://openalex.org/W4381716639",
+  "doi": "https://doi.org/10.1136/rmdopen-2023-003233",
+  "title": "Measuring treatment outcomes and change in disease activity in giant cell arteritis: a systematic literature review informing the development of the EULAR-ACR response criteria on behalf of the EULAR-ACR response criteria in giant cell arteritis task force",
+  "display_name": "Measuring treatment outcomes and change in disease activity in giant cell arteritis: a systematic literature review informing the development of the EULAR-ACR response criteria on behalf of the EULAR-ACR response criteria in giant cell arteritis task force",
+  "publication_year": 2023,
+  "publication_date": "2023-06-01",
+  "ids": {
+    "openalex": "https://openalex.org/W4381716639",
+    "doi": "https://doi.org/10.1136/rmdopen-2023-003233",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/37349123"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1136/rmdopen-2023-003233",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1136/rmdopen-2023-003233",
+    "pdf_url": "https://rmdopen.bmj.com/content/rmdopen/9/2/e003233.full.pdf",
+    "source": {
+      "id": "https://openalex.org/S2738706341",
+      "display_name": "RMD Open",
+      "issn_l": "2056-5933",
+      "issn": [
+        "2056-5933"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310319945",
+      "host_organization_name": "BMJ",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310319945"
+      ],
+      "host_organization_lineage_names": [
+        "BMJ"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "RMD Open",
+    "raw_type": "journal-article"
+  },
+  "type": "review",
+  "indexed_in": [
+    "crossref",
+    "doaj",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "gold",
+    "oa_url": "https://rmdopen.bmj.com/content/rmdopen/9/2/e003233.full.pdf",
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5048150954",
+        "display_name": "Catalina S\u00e1nchez-\u00c1lvarez",
+        "orcid": "https://orcid.org/0000-0002-6287-2213"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I33213144",
+          "display_name": "University of Florida",
+          "ror": "https://ror.org/02y3ad647",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I33213144"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Catalina Sanchez-Alvarez",
+      "raw_affiliation_strings": [
+        "Division of Rheumatology & Clinical Immunology, Department of Internal Medicine, University of Florida, Gainesville, Florida, USA"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Division of Rheumatology & Clinical Immunology, Department of Internal Medicine, University of Florida, Gainesville, Florida, USA",
+          "institution_ids": [
+            "https://openalex.org/I33213144"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5044833713",
+        "display_name": "Milena Bond",
+        "orcid": "https://orcid.org/0000-0002-5400-2955"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210099256",
+          "display_name": "Krankenhaus Bruneck",
+          "ror": "https://ror.org/010xbqa75",
+          "country_code": "IT",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210099256"
+          ]
+        }
+      ],
+      "countries": [
+        "IT"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Milena Bond",
+      "raw_affiliation_strings": [
+        "Department of Rheumatology, Hospital of Bruneck, (ASAA-SABES), Teaching hospital of the Paracelsus University, Bruneck, Italy"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Rheumatology, Hospital of Bruneck, (ASAA-SABES), Teaching hospital of the Paracelsus University, Bruneck, Italy",
+          "institution_ids": [
+            "https://openalex.org/I4210099256"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5016197712",
+        "display_name": "Medha Soowamber",
+        "orcid": "https://orcid.org/0009-0003-3458-1608"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I1291836623",
+          "display_name": "Mount Sinai Hospital",
+          "ror": "https://ror.org/05deks119",
+          "country_code": "CA",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I1291836623",
+            "https://openalex.org/I4210130843"
+          ]
+        }
+      ],
+      "countries": [
+        "CA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Medha Soowamber",
+      "raw_affiliation_strings": [
+        "Department of Rheumatology, Mount Sinai Hospital, Toronto, Ontario, Canada"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Rheumatology, Mount Sinai Hospital, Toronto, Ontario, Canada",
+          "institution_ids": [
+            "https://openalex.org/I1291836623"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5055089221",
+        "display_name": "Dario Camellino",
+        "orcid": "https://orcid.org/0000-0001-6384-6458"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Dario Camellino",
+      "raw_affiliation_strings": [
+        "Department of Rheumatology, Local Health Trust, Genoa, Italy"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Rheumatology, Local Health Trust, Genoa, Italy",
+          "institution_ids": []
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5016584229",
+        "display_name": "Melanie Anderson",
+        "orcid": "https://orcid.org/0000-0001-9786-1656"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I1325899441",
+          "display_name": "University Health Network",
+          "ror": "https://ror.org/042xt5161",
+          "country_code": "CA",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I1325899441"
+          ]
+        }
+      ],
+      "countries": [
+        "CA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Melanie Anderson",
+      "raw_affiliation_strings": [
+        "Department of Library and Information Services, University Health Network, Toronto, Ontario, Canada"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Library and Information Services, University Health Network, Toronto, Ontario, Canada",
+          "institution_ids": [
+            "https://openalex.org/I1325899441"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5016851450",
+        "display_name": "Carol A. Langford",
+        "orcid": "https://orcid.org/0000-0001-9498-321X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I1316902750",
+          "display_name": "Cleveland Clinic",
+          "ror": "https://ror.org/03xjacd83",
+          "country_code": "US",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I1316902750"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Carol A Langford",
+      "raw_affiliation_strings": [
+        "Department of Rheumatic and Immunologic Diseases, Cleveland Clinic, Cleveland, Ohio, USA"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Rheumatic and Immunologic Diseases, Cleveland Clinic, Cleveland, Ohio, USA",
+          "institution_ids": [
+            "https://openalex.org/I1316902750"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5080953929",
+        "display_name": "Christian Dejaco",
+        "orcid": "https://orcid.org/0000-0002-0173-0668"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I202276237",
+          "display_name": "Medical University of Graz",
+          "ror": "https://ror.org/02n0bts35",
+          "country_code": "AT",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I202276237"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210099256",
+          "display_name": "Krankenhaus Bruneck",
+          "ror": "https://ror.org/010xbqa75",
+          "country_code": "IT",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210099256"
+          ]
+        }
+      ],
+      "countries": [
+        "AT",
+        "IT"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Christian Dejaco",
+      "raw_affiliation_strings": [
+        "Department of Rheumatology, Hospital of Bruneck, (ASAA-SABES), Teaching hospital of the Paracelsus University, Bruneck, Italy",
+        "Rheumatology, Medical University Graz, Graz, Austria"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Rheumatology, Hospital of Bruneck, (ASAA-SABES), Teaching hospital of the Paracelsus University, Bruneck, Italy",
+          "institution_ids": [
+            "https://openalex.org/I4210099256"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Rheumatology, Medical University Graz, Graz, Austria",
+          "institution_ids": [
+            "https://openalex.org/I202276237"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5003819915",
+        "display_name": "Zahi Touma",
+        "orcid": "https://orcid.org/0000-0001-5177-2076"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I185261750",
+          "display_name": "University of Toronto",
+          "ror": "https://ror.org/03dbr7087",
+          "country_code": "CA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I185261750"
+          ]
+        }
+      ],
+      "countries": [
+        "CA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Zahi Touma",
+      "raw_affiliation_strings": [
+        "Department of Medicine, Division of Rheumatology, University of Toronto, Toronto, Ontario, Canada"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Medicine, Division of Rheumatology, University of Toronto, Toronto, Ontario, Canada",
+          "institution_ids": [
+            "https://openalex.org/I185261750"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5057223678",
+        "display_name": "Sof\u00eda Ramiro",
+        "orcid": "https://orcid.org/0000-0002-8899-9087"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2800006345",
+          "display_name": "Leiden University Medical Center",
+          "ror": "https://ror.org/05xvt9f17",
+          "country_code": "NL",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2800006345"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210133559",
+          "display_name": "Zuyderland Medisch Centrum",
+          "ror": "https://ror.org/03bfc4534",
+          "country_code": "NL",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210133559",
+            "https://openalex.org/I4210166163"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Sofia Ramiro",
+      "raw_affiliation_strings": [
+        "Department of Rheumatology, Leiden University Medical Center, Leiden, The Netherlands",
+        "Department of Rheumatology, Zuyderland Medical Center, Heerlen, The Netherlands"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Rheumatology, Leiden University Medical Center, Leiden, The Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I2800006345"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Rheumatology, Zuyderland Medical Center, Heerlen, The Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I4210133559"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 5,
+  "institutions_distinct_count": 9,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5057223678"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I2800006345",
+    "https://openalex.org/I4210133559"
+  ],
+  "apc_list": {
+    "value": 1950,
+    "currency": "GBP",
+    "value_usd": 2391
+  },
+  "apc_paid": {
+    "value": 1950,
+    "currency": "GBP",
+    "value_usd": 2391
+  },
+  "fwci": 2.02424991,
+  "has_fulltext": true,
+  "cited_by_count": 6,
+  "citation_normalized_percentile": {
+    "value": 0.85937834,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 89,
+    "max": 98
+  },
+  "biblio": {
+    "volume": "9",
+    "issue": "2",
+    "first_page": "e003233",
+    "last_page": "e003233"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10697",
+    "display_name": "Vasculitis and related conditions",
+    "score": 1.0,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2740",
+      "display_name": "Pulmonary and Respiratory Medicine"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/27",
+      "display_name": "Medicine"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/4",
+      "display_name": "Health Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10697",
+      "display_name": "Vasculitis and related conditions",
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2740",
+        "display_name": "Pulmonary and Respiratory Medicine"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11917",
+      "display_name": "Coagulation, Bradykinin, Polyphosphates, and Angioedema",
+      "score": 0.9861000180244446,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2716",
+        "display_name": "Genetics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12438",
+      "display_name": "Urticaria and Related Conditions",
+      "score": 0.9783999919891357,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2745",
+        "display_name": "Rheumatology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/medicine",
+      "display_name": "Medicine",
+      "score": 0.9701133966445923
+    },
+    {
+      "id": "https://openalex.org/keywords/giant-cell-arteritis",
+      "display_name": "Giant cell arteritis",
+      "score": 0.7040731310844421
+    },
+    {
+      "id": "https://openalex.org/keywords/disease",
+      "display_name": "Disease",
+      "score": 0.5090367197990417
+    },
+    {
+      "id": "https://openalex.org/keywords/systematic-review",
+      "display_name": "Systematic review",
+      "score": 0.4716445803642273
+    },
+    {
+      "id": "https://openalex.org/keywords/physical-therapy",
+      "display_name": "Physical therapy",
+      "score": 0.37517067790031433
+    },
+    {
+      "id": "https://openalex.org/keywords/medline",
+      "display_name": "MEDLINE",
+      "score": 0.3685499429702759
+    },
+    {
+      "id": "https://openalex.org/keywords/internal-medicine",
+      "display_name": "Internal medicine",
+      "score": 0.34781938791275024
+    },
+    {
+      "id": "https://openalex.org/keywords/vasculitis",
+      "display_name": "Vasculitis",
+      "score": 0.2866208553314209
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C71924100",
+      "wikidata": "https://www.wikidata.org/wiki/Q11190",
+      "display_name": "Medicine",
+      "level": 0,
+      "score": 0.9701133966445923
+    },
+    {
+      "id": "https://openalex.org/C2776712624",
+      "wikidata": "https://www.wikidata.org/wiki/Q707816",
+      "display_name": "Giant cell arteritis",
+      "level": 4,
+      "score": 0.7040731310844421
+    },
+    {
+      "id": "https://openalex.org/C2779134260",
+      "wikidata": "https://www.wikidata.org/wiki/Q12136",
+      "display_name": "Disease",
+      "level": 2,
+      "score": 0.5090367197990417
+    },
+    {
+      "id": "https://openalex.org/C189708586",
+      "wikidata": "https://www.wikidata.org/wiki/Q1504425",
+      "display_name": "Systematic review",
+      "level": 3,
+      "score": 0.4716445803642273
+    },
+    {
+      "id": "https://openalex.org/C1862650",
+      "wikidata": "https://www.wikidata.org/wiki/Q186005",
+      "display_name": "Physical therapy",
+      "level": 1,
+      "score": 0.37517067790031433
+    },
+    {
+      "id": "https://openalex.org/C2779473830",
+      "wikidata": "https://www.wikidata.org/wiki/Q1540899",
+      "display_name": "MEDLINE",
+      "level": 2,
+      "score": 0.3685499429702759
+    },
+    {
+      "id": "https://openalex.org/C126322002",
+      "wikidata": "https://www.wikidata.org/wiki/Q11180",
+      "display_name": "Internal medicine",
+      "level": 1,
+      "score": 0.34781938791275024
+    },
+    {
+      "id": "https://openalex.org/C2776015282",
+      "wikidata": "https://www.wikidata.org/wiki/Q644318",
+      "display_name": "Vasculitis",
+      "level": 3,
+      "score": 0.2866208553314209
+    },
+    {
+      "id": "https://openalex.org/C199539241",
+      "wikidata": "https://www.wikidata.org/wiki/Q7748",
+      "display_name": "Law",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C17744445",
+      "wikidata": "https://www.wikidata.org/wiki/Q36442",
+      "display_name": "Political science",
+      "level": 0,
+      "score": 0.0
+    }
+  ],
+  "mesh": [
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D014481",
+      "descriptor_name": "United States",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D013700",
+      "descriptor_name": "Giant Cell Arteritis",
+      "qualifier_ui": "Q000175",
+      "qualifier_name": "diagnosis",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D013700",
+      "descriptor_name": "Giant Cell Arteritis",
+      "qualifier_ui": "Q000188",
+      "qualifier_name": "drug therapy",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D017063",
+      "descriptor_name": "Outcome Assessment, Health Care",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D016896",
+      "descriptor_name": "Treatment Outcome",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D012074",
+      "descriptor_name": "Remission Induction",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D012008",
+      "descriptor_name": "Recurrence",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D014481",
+      "descriptor_name": "United States",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D013700",
+      "descriptor_name": "Giant Cell Arteritis",
+      "qualifier_ui": "Q000175",
+      "qualifier_name": "diagnosis",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D013700",
+      "descriptor_name": "Giant Cell Arteritis",
+      "qualifier_ui": "Q000188",
+      "qualifier_name": "drug therapy",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D017063",
+      "descriptor_name": "Outcome Assessment, Health Care",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D016896",
+      "descriptor_name": "Treatment Outcome",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D012074",
+      "descriptor_name": "Remission Induction",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D012008",
+      "descriptor_name": "Recurrence",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D014481",
+      "descriptor_name": "United States",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D013700",
+      "descriptor_name": "Giant Cell Arteritis",
+      "qualifier_ui": "Q000175",
+      "qualifier_name": "diagnosis",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D013700",
+      "descriptor_name": "Giant Cell Arteritis",
+      "qualifier_ui": "Q000188",
+      "qualifier_name": "drug therapy",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D017063",
+      "descriptor_name": "Outcome Assessment, Health Care",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D016896",
+      "descriptor_name": "Treatment Outcome",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D012074",
+      "descriptor_name": "Remission Induction",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D012008",
+      "descriptor_name": "Recurrence",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D014481",
+      "descriptor_name": "United States",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D013700",
+      "descriptor_name": "Giant Cell Arteritis",
+      "qualifier_ui": "Q000175",
+      "qualifier_name": "diagnosis",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D013700",
+      "descriptor_name": "Giant Cell Arteritis",
+      "qualifier_ui": "Q000188",
+      "qualifier_name": "drug therapy",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D017063",
+      "descriptor_name": "Outcome Assessment, Health Care",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D016896",
+      "descriptor_name": "Treatment Outcome",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D012074",
+      "descriptor_name": "Remission Induction",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D012008",
+      "descriptor_name": "Recurrence",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    }
+  ],
+  "locations_count": 5,
+  "locations": [
+    {
+      "id": "doi:10.1136/rmdopen-2023-003233",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1136/rmdopen-2023-003233",
+      "pdf_url": "https://rmdopen.bmj.com/content/rmdopen/9/2/e003233.full.pdf",
+      "source": {
+        "id": "https://openalex.org/S2738706341",
+        "display_name": "RMD Open",
+        "issn_l": "2056-5933",
+        "issn": [
+          "2056-5933"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310319945",
+        "host_organization_name": "BMJ",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310319945"
+        ],
+        "host_organization_lineage_names": [
+          "BMJ"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "RMD Open",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:37349123",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/37349123",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "RMD open",
+      "raw_type": null
+    },
+    {
+      "id": "pmh:oai:pubmedcentral.nih.gov:10314653",
+      "is_oa": true,
+      "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/10314653",
+      "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10314653/pdf/rmdopen-2023-003233.pdf",
+      "source": {
+        "id": "https://openalex.org/S2764455111",
+        "display_name": "PubMed Central",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by-nc",
+      "license_id": "https://openalex.org/licenses/cc-by-nc",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "RMD Open",
+      "raw_type": "Text"
+    },
+    {
+      "id": "pmh:oai:doaj.org/article:950b1b463bc84a9dbb31bde905ec0d19",
+      "is_oa": false,
+      "landing_page_url": "https://doaj.org/article/950b1b463bc84a9dbb31bde905ec0d19",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401280",
+        "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "RMD Open, Vol 9, Iss 2 (2023)",
+      "raw_type": "article"
+    },
+    {
+      "id": "pmh:oai:iris.unige.it:11567/1203895",
+      "is_oa": false,
+      "landing_page_url": "https://hdl.handle.net/11567/1203895",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4377196291",
+        "display_name": "CINECA IRIS Institutial Research Information System (University of Genoa)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I83816512",
+        "host_organization_name": "University of Genoa",
+        "host_organization_lineage": [
+          "https://openalex.org/I83816512"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": null,
+      "raw_type": "info:eu-repo/semantics/article"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1136/rmdopen-2023-003233",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1136/rmdopen-2023-003233",
+    "pdf_url": "https://rmdopen.bmj.com/content/rmdopen/9/2/e003233.full.pdf",
+    "source": {
+      "id": "https://openalex.org/S2738706341",
+      "display_name": "RMD Open",
+      "issn_l": "2056-5933",
+      "issn": [
+        "2056-5933"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310319945",
+      "host_organization_name": "BMJ",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310319945"
+      ],
+      "host_organization_lineage_names": [
+        "BMJ"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "RMD Open",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [
+    {
+      "id": "https://metadata.un.org/sdg/3",
+      "display_name": "Good health and well-being",
+      "score": 0.6700000166893005
+    }
+  ],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "pdf": true,
+    "grobid_xml": true
+  },
+  "referenced_works_count": 152,
+  "referenced_works": [
+    "https://openalex.org/W2427523709",
+    "https://openalex.org/W3124087555",
+    "https://openalex.org/W2899304926",
+    "https://openalex.org/W3177888126",
+    "https://openalex.org/W2954943567",
+    "https://openalex.org/W4321781622",
+    "https://openalex.org/W2983408194",
+    "https://openalex.org/W3116649543",
+    "https://openalex.org/W4321200492",
+    "https://openalex.org/W3118615836",
+    "https://openalex.org/W2737436316",
+    "https://openalex.org/W3135997688",
+    "https://openalex.org/W3009968066",
+    "https://openalex.org/W3138938240",
+    "https://openalex.org/W3211287668",
+    "https://openalex.org/W3165521566",
+    "https://openalex.org/W2919147531",
+    "https://openalex.org/W2004589503",
+    "https://openalex.org/W6716975936",
+    "https://openalex.org/W2056768892",
+    "https://openalex.org/W109436061",
+    "https://openalex.org/W1992168643",
+    "https://openalex.org/W2159897707",
+    "https://openalex.org/W2150186790",
+    "https://openalex.org/W2292169217",
+    "https://openalex.org/W2581891606",
+    "https://openalex.org/W3081367915",
+    "https://openalex.org/W4221065818",
+    "https://openalex.org/W3109188212",
+    "https://openalex.org/W2922119922",
+    "https://openalex.org/W4225894708",
+    "https://openalex.org/W3165244460",
+    "https://openalex.org/W1913294952",
+    "https://openalex.org/W2070429904",
+    "https://openalex.org/W2769898966",
+    "https://openalex.org/W2322363031",
+    "https://openalex.org/W2321155811",
+    "https://openalex.org/W2990090586",
+    "https://openalex.org/W3144244918",
+    "https://openalex.org/W3014957705",
+    "https://openalex.org/W2741321641",
+    "https://openalex.org/W3014575578",
+    "https://openalex.org/W2553035171",
+    "https://openalex.org/W3004745151",
+    "https://openalex.org/W2086465769",
+    "https://openalex.org/W4214865670",
+    "https://openalex.org/W4210396485",
+    "https://openalex.org/W2089514348",
+    "https://openalex.org/W1977473850",
+    "https://openalex.org/W2904414358",
+    "https://openalex.org/W1485731588",
+    "https://openalex.org/W2913203620",
+    "https://openalex.org/W2017295541",
+    "https://openalex.org/W2906921430",
+    "https://openalex.org/W2300411679",
+    "https://openalex.org/W3131374183",
+    "https://openalex.org/W2799669400",
+    "https://openalex.org/W2067965233",
+    "https://openalex.org/W4220802609",
+    "https://openalex.org/W2903857052",
+    "https://openalex.org/W2921501293",
+    "https://openalex.org/W3010855031",
+    "https://openalex.org/W2024082117",
+    "https://openalex.org/W2463714080",
+    "https://openalex.org/W2608494241",
+    "https://openalex.org/W2886840941",
+    "https://openalex.org/W2341150803",
+    "https://openalex.org/W2012560020",
+    "https://openalex.org/W3119386324",
+    "https://openalex.org/W2015898677",
+    "https://openalex.org/W2206140847",
+    "https://openalex.org/W1982721909",
+    "https://openalex.org/W2044646622",
+    "https://openalex.org/W2126654666",
+    "https://openalex.org/W6600033212",
+    "https://openalex.org/W2013778054",
+    "https://openalex.org/W2115145575",
+    "https://openalex.org/W2337402873",
+    "https://openalex.org/W2754929672",
+    "https://openalex.org/W3092838383",
+    "https://openalex.org/W3033948063",
+    "https://openalex.org/W2794177437",
+    "https://openalex.org/W2909064135",
+    "https://openalex.org/W2109067084",
+    "https://openalex.org/W2961711096",
+    "https://openalex.org/W4205109602",
+    "https://openalex.org/W2002426477",
+    "https://openalex.org/W2268527577",
+    "https://openalex.org/W3124619786",
+    "https://openalex.org/W6766265160",
+    "https://openalex.org/W6714211692",
+    "https://openalex.org/W2919880214",
+    "https://openalex.org/W3091407066",
+    "https://openalex.org/W3048633014",
+    "https://openalex.org/W2902898900",
+    "https://openalex.org/W2316145648",
+    "https://openalex.org/W2955239324",
+    "https://openalex.org/W3112271890",
+    "https://openalex.org/W3027198132",
+    "https://openalex.org/W6774597926",
+    "https://openalex.org/W683957",
+    "https://openalex.org/W2146119217",
+    "https://openalex.org/W2953180826",
+    "https://openalex.org/W198992065",
+    "https://openalex.org/W2400644715",
+    "https://openalex.org/W3203937792",
+    "https://openalex.org/W6704282503",
+    "https://openalex.org/W2409195868",
+    "https://openalex.org/W2778980460",
+    "https://openalex.org/W3158035830",
+    "https://openalex.org/W3042423120",
+    "https://openalex.org/W2377580241",
+    "https://openalex.org/W2531017755",
+    "https://openalex.org/W1969182068",
+    "https://openalex.org/W2883755053",
+    "https://openalex.org/W3097235501",
+    "https://openalex.org/W2805783345",
+    "https://openalex.org/W1597003998",
+    "https://openalex.org/W4226524694",
+    "https://openalex.org/W3120992738",
+    "https://openalex.org/W2917743400",
+    "https://openalex.org/W2116148601",
+    "https://openalex.org/W1992126131",
+    "https://openalex.org/W2417793618",
+    "https://openalex.org/W3088590707",
+    "https://openalex.org/W6604478728",
+    "https://openalex.org/W3163163143",
+    "https://openalex.org/W3197743608",
+    "https://openalex.org/W4226108726",
+    "https://openalex.org/W4211001094",
+    "https://openalex.org/W3164231163",
+    "https://openalex.org/W3114781185",
+    "https://openalex.org/W2943073845",
+    "https://openalex.org/W3109007415",
+    "https://openalex.org/W3132246637",
+    "https://openalex.org/W4281685641",
+    "https://openalex.org/W2918518854",
+    "https://openalex.org/W2964631535",
+    "https://openalex.org/W3125180722",
+    "https://openalex.org/W3036938219",
+    "https://openalex.org/W3121991946",
+    "https://openalex.org/W2753112893",
+    "https://openalex.org/W2801886836",
+    "https://openalex.org/W2962832589",
+    "https://openalex.org/W2790164088",
+    "https://openalex.org/W3208022084",
+    "https://openalex.org/W1853065536",
+    "https://openalex.org/W2089468569",
+    "https://openalex.org/W4307852283",
+    "https://openalex.org/W4291498082",
+    "https://openalex.org/W3165270842",
+    "https://openalex.org/W4225586960"
+  ],
+  "related_works": [
+    "https://openalex.org/W2125206659",
+    "https://openalex.org/W4316254374",
+    "https://openalex.org/W2018834680",
+    "https://openalex.org/W2537085646",
+    "https://openalex.org/W2413026403",
+    "https://openalex.org/W2406163393",
+    "https://openalex.org/W4253050054",
+    "https://openalex.org/W2410561186",
+    "https://openalex.org/W2070311887",
+    "https://openalex.org/W2115099528"
+  ],
+  "abstract_inverted_index": {
+    "Objectives": [
+      0
+    ],
+    "To": [
+      1
+    ],
+    "identify": [
+      2
+    ],
+    "criteria": [
+      3,
+      256
+    ],
+    "and": [
+      4,
+      12,
+      34,
+      40,
+      49,
+      58,
+      107,
+      111,
+      120,
+      130,
+      143,
+      168,
+      187,
+      201,
+      223,
+      226,
+      231
+    ],
+    "descriptors": [
+      5,
+      41,
+      237
+    ],
+    "used": [
+      6,
+      93,
+      164,
+      215,
+      229
+    ],
+    "to": [
+      7,
+      10,
+      28,
+      87,
+      96
+    ],
+    "measure": [
+      8
+    ],
+    "response": [
+      9,
+      86,
+      149,
+      214,
+      255
+    ],
+    "treatment": [
+      11,
+      98,
+      202,
+      234
+    ],
+    "change": [
+      13
+    ],
+    "in": [
+      14,
+      17,
+      104,
+      126,
+      184,
+      216
+    ],
+    "disease": [
+      15,
+      101
+    ],
+    "activity": [
+      16
+    ],
+    "giant": [
+      18
+    ],
+    "cell": [
+      19
+    ],
+    "arteritis": [
+      20
+    ],
+    "(GCA).": [
+      21
+    ],
+    "Methods": [
+      22
+    ],
+    "A": [
+      23
+    ],
+    "systematic": [
+      24
+    ],
+    "literature": [
+      25
+    ],
+    "review": [
+      26
+    ],
+    "(SLR)": [
+      27
+    ],
+    "retrieve": [
+      29
+    ],
+    "randomised": [
+      30
+    ],
+    "controlled": [
+      31
+    ],
+    "trials": [
+      32
+    ],
+    "(RCTs)": [
+      33
+    ],
+    "longitudinal": [
+      35
+    ],
+    "observational": [
+      36
+    ],
+    "studies": [
+      37,
+      61,
+      67,
+      218
+    ],
+    "(LOS).": [
+      38
+    ],
+    "Criteria": [
+      39
+    ],
+    "of": [
+      42,
+      70,
+      85,
+      109,
+      118,
+      128,
+      132,
+      141,
+      156,
+      174,
+      189,
+      198,
+      207,
+      213,
+      219,
+      243,
+      248,
+      253
+    ],
+    "active": [
+      43
+    ],
+    "disease,": [
+      44
+    ],
+    "remission,": [
+      45
+    ],
+    "response,": [
+      46
+    ],
+    "improvement,": [
+      47
+    ],
+    "worsening": [
+      48
+    ],
+    "relapse": [
+      50,
+      232
+    ],
+    "were": [
+      51,
+      62,
+      68,
+      73
+    ],
+    "extracted.": [
+      52
+    ],
+    "RCTs,": [
+      53,
+      76
+    ],
+    "LOS": [
+      54,
+      147,
+      227
+    ],
+    "with": [
+      55,
+      150
+    ],
+    "&gt;20": [
+      56
+    ],
+    "subjects,": [
+      57
+    ],
+    "qualitative": [
+      59,
+      80
+    ],
+    "research": [
+      60
+    ],
+    "included.": [
+      63
+    ],
+    "Results": [
+      64
+    ],
+    "10": [
+      65
+    ],
+    "593": [
+      66
+    ],
+    "retrieved,": [
+      69
+    ],
+    "which": [
+      71
+    ],
+    "116": [
+      72
+    ],
+    "included": [
+      74
+    ],
+    "(11": [
+      75
+    ],
+    "104": [
+      77
+    ],
+    "LOS,": [
+      78
+    ],
+    "1": [
+      79
+    ],
+    "study).": [
+      81
+    ],
+    "No": [
+      82,
+      176
+    ],
+    "unified": [
+      83
+    ],
+    "definition": [
+      84,
+      152,
+      155
+    ],
+    "therapy": [
+      88
+    ],
+    "was": [
+      89,
+      102,
+      112,
+      124,
+      135,
+      162,
+      170,
+      182,
+      192
+    ],
+    "found.": [
+      90
+    ],
+    "Most": [
+      91
+    ],
+    "RCTs": [
+      92,
+      106,
+      129,
+      186,
+      225
+    ],
+    "composite": [
+      94
+    ],
+    "endpoints": [
+      95
+    ],
+    "assess": [
+      97
+    ],
+    "outcomes.": [
+      99,
+      235
+    ],
+    "Active": [
+      100
+    ],
+    "described": [
+      103
+    ],
+    "all": [
+      105,
+      185
+    ],
+    "19%": [
+      108
+    ],
+    "LOS;": [
+      110,
+      133
+    ],
+    "largely": [
+      113
+    ],
+    "defined": [
+      114,
+      137,
+      179,
+      194
+    ],
+    "by": [
+      115
+    ],
+    "a": [
+      116,
+      151,
+      172
+    ],
+    "combination": [
+      117,
+      140,
+      197
+    ],
+    "clinical": [
+      119,
+      142,
+      217
+    ],
+    "laboratory": [
+      121,
+      144,
+      200
+    ],
+    "components.": [
+      122,
+      145,
+      203
+    ],
+    "Remission": [
+      123
+    ],
+    "reported": [
+      125,
+      148,
+      183
+    ],
+    "73%": [
+      127
+    ],
+    "42%": [
+      131
+    ],
+    "It": [
+      134,
+      191
+    ],
+    "predominantly": [
+      136,
+      193
+    ],
+    "as": [
+      138,
+      165,
+      195,
+      233
+    ],
+    "the": [
+      139,
+      154,
+      196,
+      241,
+      244
+    ],
+    "One": [
+      146
+    ],
+    "resembling": [
+      153
+    ],
+    "remission": [
+      157,
+      230
+    ],
+    "from": [
+      158
+    ],
+    "other": [
+      159
+    ],
+    "studies.": [
+      160
+    ],
+    "Improvement": [
+      161
+    ],
+    "rarely": [
+      163
+    ],
+    "an": [
+      166
+    ],
+    "endpoint": [
+      167
+    ],
+    "it": [
+      169
+    ],
+    "mostly": [
+      171
+    ],
+    "surrogate": [
+      173
+    ],
+    "remission.": [
+      175
+    ],
+    "study": [
+      177
+    ],
+    "specifically": [
+      178
+    ],
+    "worsening.": [
+      180
+    ],
+    "Relapse": [
+      181
+    ],
+    "86%": [
+      188
+    ],
+    "LOS.": [
+      190
+    ],
+    "clinical,": [
+      199
+    ],
+    "Conclusions": [
+      204
+    ],
+    "The": [
+      205,
+      236
+    ],
+    "results": [
+      206
+    ],
+    "this": [
+      208
+    ],
+    "SLR": [
+      209
+    ],
+    "demonstrate": [
+      210
+    ],
+    "that": [
+      211
+    ],
+    "definitions": [
+      212
+    ],
+    "GCA": [
+      220
+    ],
+    "are": [
+      221
+    ],
+    "scant": [
+      222
+    ],
+    "heterogeneous.": [
+      224
+    ],
+    "mainly": [
+      228
+    ],
+    "identified": [
+      238
+    ],
+    "will": [
+      239
+    ],
+    "inform": [
+      240
+    ],
+    "development": [
+      242
+    ],
+    "future": [
+      245
+    ],
+    "European": [
+      246
+    ],
+    "Alliance": [
+      247
+    ],
+    "Associations": [
+      249
+    ],
+    "for": [
+      250,
+      257
+    ],
+    "Rheumatology-American": [
+      251
+    ],
+    "College": [
+      252
+    ],
+    "Rheumatology": [
+      254
+    ],
+    "GCA.": [
+      258
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 4
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2025-11-06T03:46:38.306776",
+  "created_date": "2025-10-10T00:00:00"
+}

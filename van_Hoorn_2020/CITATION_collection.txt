@@ -1,0 +1,1 @@
+Ali, F., Tan, A. S.-C., & Wang, S. J.-W. (2025). Can machine learning help accelerate article screening for systematic reviews? Yes, when article separability in embedding space is high. Research Synthesis Methods, 16(1), 194–210. https://doi.org/10.1017/rsm.2024.16

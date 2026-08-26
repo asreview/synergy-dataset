@@ -1,0 +1,1 @@
+Greca, R., Miranda, B., & Bertolino, A. (2023). State of Practical Applicability of Regression Testing Research: A Live Systematic Literature Review. ACM Computing Surveys, 55(13s), 1–36. https://doi.org/10.1145/3579851

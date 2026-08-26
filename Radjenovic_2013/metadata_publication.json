@@ -1,0 +1,826 @@
+{
+  "id": "https://openalex.org/W2160988203",
+  "doi": "https://doi.org/10.1016/j.infsof.2013.02.009",
+  "title": "Software fault prediction metrics: A systematic literature review",
+  "display_name": "Software fault prediction metrics: A systematic literature review",
+  "publication_year": 2013,
+  "publication_date": "2013-02-21",
+  "ids": {
+    "openalex": "https://openalex.org/W2160988203",
+    "doi": "https://doi.org/10.1016/j.infsof.2013.02.009",
+    "mag": "2160988203"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1016/j.infsof.2013.02.009",
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.1016/j.infsof.2013.02.009",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S205010575",
+      "display_name": "Information and Software Technology",
+      "issn_l": "0950-5849",
+      "issn": [
+        "0950-5849",
+        "1873-6025"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320990",
+      "host_organization_name": "Elsevier BV",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320990"
+      ],
+      "host_organization_lineage_names": [
+        "Elsevier BV"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Information and Software Technology",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5018316886",
+        "display_name": "Danijel Radjenovi\u0107",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I37696226",
+          "display_name": "University of Maribor",
+          "ror": "https://ror.org/01d5jce07",
+          "country_code": "SI",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I37696226"
+          ]
+        }
+      ],
+      "countries": [
+        "SI"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Danijel Radjenovi\u0107",
+      "raw_affiliation_strings": [
+        "Pro-bit programska oprema d.o.o., Stari trg 15, SI-3210 Slovenske Konjice, Slovenia",
+        "University of Maribor, Faculty of Electrical Engineering and Computer Science, Smetanova ulica 17, SI-2000 Maribor, Slovenia"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Pro-bit programska oprema d.o.o., Stari trg 15, SI-3210 Slovenske Konjice, Slovenia",
+          "institution_ids": []
+        },
+        {
+          "raw_affiliation_string": "University of Maribor, Faculty of Electrical Engineering and Computer Science, Smetanova ulica 17, SI-2000 Maribor, Slovenia",
+          "institution_ids": [
+            "https://openalex.org/I37696226"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5091735260",
+        "display_name": "Marjan Heri\u010dko",
+        "orcid": "https://orcid.org/0000-0002-1094-0085"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I37696226",
+          "display_name": "University of Maribor",
+          "ror": "https://ror.org/01d5jce07",
+          "country_code": "SI",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I37696226"
+          ]
+        }
+      ],
+      "countries": [
+        "SI"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Marjan Heri\u010dko",
+      "raw_affiliation_strings": [
+        "University of Maribor, Faculty of Electrical Engineering and Computer Science, Smetanova ulica 17, SI-2000 Maribor, Slovenia"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "University of Maribor, Faculty of Electrical Engineering and Computer Science, Smetanova ulica 17, SI-2000 Maribor, Slovenia",
+          "institution_ids": [
+            "https://openalex.org/I37696226"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5030588511",
+        "display_name": "Richard Torkar",
+        "orcid": "https://orcid.org/0000-0002-0118-8143"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I52719799",
+          "display_name": "Blekinge Institute of Technology",
+          "ror": "https://ror.org/0093a8w51",
+          "country_code": "SE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I52719799"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I66862912",
+          "display_name": "Chalmers University of Technology",
+          "ror": "https://ror.org/040wg7k59",
+          "country_code": "SE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I66862912"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I881427289",
+          "display_name": "University of Gothenburg",
+          "ror": "https://ror.org/01tm6cn81",
+          "country_code": "SE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I881427289"
+          ]
+        }
+      ],
+      "countries": [
+        "SE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Richard Torkar",
+      "raw_affiliation_strings": [
+        "Blekinge Institute of Technology, SE-371 79 Karlskrona, Sweden",
+        "Chalmers University of Technology and University of Gothenburg, SE-412 96 Gothenburg, Sweden"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Blekinge Institute of Technology, SE-371 79 Karlskrona, Sweden",
+          "institution_ids": [
+            "https://openalex.org/I52719799"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Chalmers University of Technology and University of Gothenburg, SE-412 96 Gothenburg, Sweden",
+          "institution_ids": [
+            "https://openalex.org/I66862912",
+            "https://openalex.org/I881427289"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5030371362",
+        "display_name": "Ale\u0161 \u017divkovi\u010d",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I37696226",
+          "display_name": "University of Maribor",
+          "ror": "https://ror.org/01d5jce07",
+          "country_code": "SI",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I37696226"
+          ]
+        }
+      ],
+      "countries": [
+        "SI"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Ale\u0161 \u017divkovi\u010d",
+      "raw_affiliation_strings": [
+        "University of Maribor, Faculty of Electrical Engineering and Computer Science, Smetanova ulica 17, SI-2000 Maribor, Slovenia"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "University of Maribor, Faculty of Electrical Engineering and Computer Science, Smetanova ulica 17, SI-2000 Maribor, Slovenia",
+          "institution_ids": [
+            "https://openalex.org/I37696226"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 2,
+  "institutions_distinct_count": 4,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5018316886"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I37696226"
+  ],
+  "apc_list": {
+    "value": 3350,
+    "currency": "USD",
+    "value_usd": 3350
+  },
+  "apc_paid": null,
+  "fwci": 83.35660917,
+  "has_fulltext": false,
+  "cited_by_count": 515,
+  "citation_normalized_percentile": {
+    "value": 0.99950595,
+    "is_in_top_1_percent": true,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 89,
+    "max": 100
+  },
+  "biblio": {
+    "volume": "55",
+    "issue": "8",
+    "first_page": "1397",
+    "last_page": "1418"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10260",
+    "display_name": "Software Engineering Research",
+    "score": 1.0,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1710",
+      "display_name": "Information Systems"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/17",
+      "display_name": "Computer Science"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10260",
+      "display_name": "Software Engineering Research",
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1710",
+        "display_name": "Information Systems"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12423",
+      "display_name": "Software Reliability and Analysis Research",
+      "score": 0.9988999962806702,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1712",
+        "display_name": "Software"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12127",
+      "display_name": "Software System Performance and Reliability",
+      "score": 0.9940999746322632,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1705",
+        "display_name": "Computer Networks and Communications"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/software-metric",
+      "display_name": "Software metric",
+      "score": 0.7512341737747192
+    },
+    {
+      "id": "https://openalex.org/keywords/computer-science",
+      "display_name": "Computer science",
+      "score": 0.6451869010925293
+    },
+    {
+      "id": "https://openalex.org/keywords/software-quality",
+      "display_name": "Software quality",
+      "score": 0.6324131488800049
+    },
+    {
+      "id": "https://openalex.org/keywords/context",
+      "display_name": "Context (archaeology)",
+      "score": 0.586899995803833
+    },
+    {
+      "id": "https://openalex.org/keywords/data-mining",
+      "display_name": "Data mining",
+      "score": 0.5587791800498962
+    },
+    {
+      "id": "https://openalex.org/keywords/software",
+      "display_name": "Software",
+      "score": 0.49523916840553284
+    },
+    {
+      "id": "https://openalex.org/keywords/process",
+      "display_name": "Process (computing)",
+      "score": 0.4921835958957672
+    },
+    {
+      "id": "https://openalex.org/keywords/reliability-engineering",
+      "display_name": "Reliability engineering",
+      "score": 0.37798118591308594
+    },
+    {
+      "id": "https://openalex.org/keywords/software-engineering",
+      "display_name": "Software engineering",
+      "score": 0.3616778254508972
+    },
+    {
+      "id": "https://openalex.org/keywords/software-development",
+      "display_name": "Software development",
+      "score": 0.3541804254055023
+    },
+    {
+      "id": "https://openalex.org/keywords/engineering",
+      "display_name": "Engineering",
+      "score": 0.19507455825805664
+    },
+    {
+      "id": "https://openalex.org/keywords/programming-language",
+      "display_name": "Programming language",
+      "score": 0.09619718790054321
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C82214349",
+      "wikidata": "https://www.wikidata.org/wiki/Q657339",
+      "display_name": "Software metric",
+      "level": 5,
+      "score": 0.7512341737747192
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.6451869010925293
+    },
+    {
+      "id": "https://openalex.org/C117447612",
+      "wikidata": "https://www.wikidata.org/wiki/Q1412670",
+      "display_name": "Software quality",
+      "level": 4,
+      "score": 0.6324131488800049
+    },
+    {
+      "id": "https://openalex.org/C2779343474",
+      "wikidata": "https://www.wikidata.org/wiki/Q3109175",
+      "display_name": "Context (archaeology)",
+      "level": 2,
+      "score": 0.586899995803833
+    },
+    {
+      "id": "https://openalex.org/C124101348",
+      "wikidata": "https://www.wikidata.org/wiki/Q172491",
+      "display_name": "Data mining",
+      "level": 1,
+      "score": 0.5587791800498962
+    },
+    {
+      "id": "https://openalex.org/C2777904410",
+      "wikidata": "https://www.wikidata.org/wiki/Q7397",
+      "display_name": "Software",
+      "level": 2,
+      "score": 0.49523916840553284
+    },
+    {
+      "id": "https://openalex.org/C98045186",
+      "wikidata": "https://www.wikidata.org/wiki/Q205663",
+      "display_name": "Process (computing)",
+      "level": 2,
+      "score": 0.4921835958957672
+    },
+    {
+      "id": "https://openalex.org/C200601418",
+      "wikidata": "https://www.wikidata.org/wiki/Q2193887",
+      "display_name": "Reliability engineering",
+      "level": 1,
+      "score": 0.37798118591308594
+    },
+    {
+      "id": "https://openalex.org/C115903868",
+      "wikidata": "https://www.wikidata.org/wiki/Q80993",
+      "display_name": "Software engineering",
+      "level": 1,
+      "score": 0.3616778254508972
+    },
+    {
+      "id": "https://openalex.org/C529173508",
+      "wikidata": "https://www.wikidata.org/wiki/Q638608",
+      "display_name": "Software development",
+      "level": 3,
+      "score": 0.3541804254055023
+    },
+    {
+      "id": "https://openalex.org/C127413603",
+      "wikidata": "https://www.wikidata.org/wiki/Q11023",
+      "display_name": "Engineering",
+      "level": 0,
+      "score": 0.19507455825805664
+    },
+    {
+      "id": "https://openalex.org/C199360897",
+      "wikidata": "https://www.wikidata.org/wiki/Q9143",
+      "display_name": "Programming language",
+      "level": 1,
+      "score": 0.09619718790054321
+    },
+    {
+      "id": "https://openalex.org/C86803240",
+      "wikidata": "https://www.wikidata.org/wiki/Q420",
+      "display_name": "Biology",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C151730666",
+      "wikidata": "https://www.wikidata.org/wiki/Q7205",
+      "display_name": "Paleontology",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "id": "doi:10.1016/j.infsof.2013.02.009",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1016/j.infsof.2013.02.009",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S205010575",
+        "display_name": "Information and Software Technology",
+        "issn_l": "0950-5849",
+        "issn": [
+          "0950-5849",
+          "1873-6025"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320990",
+        "host_organization_name": "Elsevier BV",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320990"
+        ],
+        "host_organization_lineage_names": [
+          "Elsevier BV"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Information and Software Technology",
+      "raw_type": "journal-article"
+    }
+  ],
+  "best_oa_location": null,
+  "sustainable_development_goals": [
+    {
+      "id": "https://metadata.un.org/sdg/9",
+      "score": 0.6000000238418579,
+      "display_name": "Industry, innovation and infrastructure"
+    }
+  ],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "pdf": false,
+    "grobid_xml": false
+  },
+  "referenced_works_count": 193,
+  "referenced_works": [
+    "https://openalex.org/W1497313266",
+    "https://openalex.org/W2167363007",
+    "https://openalex.org/W2006874588",
+    "https://openalex.org/W4244561708",
+    "https://openalex.org/W2118328848",
+    "https://openalex.org/W1587315015",
+    "https://openalex.org/W1980851144",
+    "https://openalex.org/W2017439596",
+    "https://openalex.org/W2074805796",
+    "https://openalex.org/W6662195452",
+    "https://openalex.org/W2158864412",
+    "https://openalex.org/W2053154970",
+    "https://openalex.org/W6643987616",
+    "https://openalex.org/W1964062576",
+    "https://openalex.org/W6607333190",
+    "https://openalex.org/W2129056090",
+    "https://openalex.org/W2057780988",
+    "https://openalex.org/W4241491750",
+    "https://openalex.org/W2019138463",
+    "https://openalex.org/W6682703326",
+    "https://openalex.org/W2034445489",
+    "https://openalex.org/W2039081830",
+    "https://openalex.org/W2107406649",
+    "https://openalex.org/W1961761736",
+    "https://openalex.org/W2164777277",
+    "https://openalex.org/W2105776892",
+    "https://openalex.org/W2159369248",
+    "https://openalex.org/W2081917329",
+    "https://openalex.org/W2065452689",
+    "https://openalex.org/W1964962870",
+    "https://openalex.org/W4235171514",
+    "https://openalex.org/W1586072269",
+    "https://openalex.org/W1718727263",
+    "https://openalex.org/W2096598237",
+    "https://openalex.org/W2028334964",
+    "https://openalex.org/W6656159218",
+    "https://openalex.org/W1946080619",
+    "https://openalex.org/W6684430084",
+    "https://openalex.org/W4242907487",
+    "https://openalex.org/W2157371319",
+    "https://openalex.org/W2013671469",
+    "https://openalex.org/W2085964828",
+    "https://openalex.org/W2143075743",
+    "https://openalex.org/W2111517663",
+    "https://openalex.org/W4248521920",
+    "https://openalex.org/W1975040830",
+    "https://openalex.org/W1542582976",
+    "https://openalex.org/W2121866145",
+    "https://openalex.org/W6645095377",
+    "https://openalex.org/W1600563377",
+    "https://openalex.org/W1610217643",
+    "https://openalex.org/W2015729052",
+    "https://openalex.org/W1549553848",
+    "https://openalex.org/W2110431240",
+    "https://openalex.org/W1990259865",
+    "https://openalex.org/W6660796068",
+    "https://openalex.org/W1698413860",
+    "https://openalex.org/W2169871156",
+    "https://openalex.org/W2125951552",
+    "https://openalex.org/W2139085711",
+    "https://openalex.org/W2004758929",
+    "https://openalex.org/W6681855307",
+    "https://openalex.org/W2163732854",
+    "https://openalex.org/W2122581326",
+    "https://openalex.org/W2160538621",
+    "https://openalex.org/W2135250985",
+    "https://openalex.org/W2019831608",
+    "https://openalex.org/W2029107788",
+    "https://openalex.org/W2141051748",
+    "https://openalex.org/W2152408529",
+    "https://openalex.org/W2147105902",
+    "https://openalex.org/W2128666163",
+    "https://openalex.org/W1961387288",
+    "https://openalex.org/W6683360861",
+    "https://openalex.org/W2164636917",
+    "https://openalex.org/W2078692096",
+    "https://openalex.org/W2024209326",
+    "https://openalex.org/W2138827327",
+    "https://openalex.org/W2139085281",
+    "https://openalex.org/W2163769078",
+    "https://openalex.org/W1995885068",
+    "https://openalex.org/W6649983631",
+    "https://openalex.org/W6681717597",
+    "https://openalex.org/W1531557024",
+    "https://openalex.org/W2099658949",
+    "https://openalex.org/W4254979514",
+    "https://openalex.org/W2104329051",
+    "https://openalex.org/W2044807274",
+    "https://openalex.org/W2171685678",
+    "https://openalex.org/W6681605806",
+    "https://openalex.org/W6674647664",
+    "https://openalex.org/W2123551785",
+    "https://openalex.org/W2073649165",
+    "https://openalex.org/W2100034782",
+    "https://openalex.org/W6728705269",
+    "https://openalex.org/W3141989311",
+    "https://openalex.org/W6651269141",
+    "https://openalex.org/W6676071549",
+    "https://openalex.org/W6674712254",
+    "https://openalex.org/W2170207476",
+    "https://openalex.org/W2169171327",
+    "https://openalex.org/W2105300539",
+    "https://openalex.org/W2114124859",
+    "https://openalex.org/W6641332849",
+    "https://openalex.org/W2008230257",
+    "https://openalex.org/W1481139129",
+    "https://openalex.org/W2110656807",
+    "https://openalex.org/W2137367944",
+    "https://openalex.org/W4247006332",
+    "https://openalex.org/W2159610968",
+    "https://openalex.org/W1968652658",
+    "https://openalex.org/W2163590173",
+    "https://openalex.org/W1983024824",
+    "https://openalex.org/W6675416180",
+    "https://openalex.org/W2055784794",
+    "https://openalex.org/W2024650695",
+    "https://openalex.org/W2107643286",
+    "https://openalex.org/W6640768872",
+    "https://openalex.org/W2115046268",
+    "https://openalex.org/W2073294644",
+    "https://openalex.org/W2101227285",
+    "https://openalex.org/W1996225375",
+    "https://openalex.org/W6678130491",
+    "https://openalex.org/W2160928200",
+    "https://openalex.org/W2166692380",
+    "https://openalex.org/W6610266079",
+    "https://openalex.org/W6600902652",
+    "https://openalex.org/W2140117423",
+    "https://openalex.org/W6684150715",
+    "https://openalex.org/W2153005821",
+    "https://openalex.org/W2120738100",
+    "https://openalex.org/W2093995814",
+    "https://openalex.org/W2135198476",
+    "https://openalex.org/W2142481192",
+    "https://openalex.org/W2097840435",
+    "https://openalex.org/W2086675139",
+    "https://openalex.org/W1953529280",
+    "https://openalex.org/W1986565273",
+    "https://openalex.org/W1978974356",
+    "https://openalex.org/W2003920582",
+    "https://openalex.org/W2100945416",
+    "https://openalex.org/W2161482408",
+    "https://openalex.org/W2139855137",
+    "https://openalex.org/W2156292929",
+    "https://openalex.org/W74649515",
+    "https://openalex.org/W2132887549",
+    "https://openalex.org/W2022683857",
+    "https://openalex.org/W2112975341",
+    "https://openalex.org/W1843580567",
+    "https://openalex.org/W2100959900",
+    "https://openalex.org/W2047345132",
+    "https://openalex.org/W76990466",
+    "https://openalex.org/W1562463929",
+    "https://openalex.org/W1999414698",
+    "https://openalex.org/W2164548795",
+    "https://openalex.org/W2993781365",
+    "https://openalex.org/W2007347131",
+    "https://openalex.org/W2148957215",
+    "https://openalex.org/W2163499595",
+    "https://openalex.org/W1785944873",
+    "https://openalex.org/W1507539036",
+    "https://openalex.org/W2140475654",
+    "https://openalex.org/W2108161968",
+    "https://openalex.org/W3044165892",
+    "https://openalex.org/W2160958420",
+    "https://openalex.org/W303041664",
+    "https://openalex.org/W292129431",
+    "https://openalex.org/W2146338950",
+    "https://openalex.org/W2168894761",
+    "https://openalex.org/W2151666086",
+    "https://openalex.org/W1489109657",
+    "https://openalex.org/W1963859441",
+    "https://openalex.org/W2146752379",
+    "https://openalex.org/W3109906317",
+    "https://openalex.org/W1840884391",
+    "https://openalex.org/W3161262291",
+    "https://openalex.org/W2752455916",
+    "https://openalex.org/W179867154",
+    "https://openalex.org/W2599650468",
+    "https://openalex.org/W2055800346",
+    "https://openalex.org/W1928699348",
+    "https://openalex.org/W345582953",
+    "https://openalex.org/W2122839350",
+    "https://openalex.org/W2104364184",
+    "https://openalex.org/W2015029815",
+    "https://openalex.org/W2158744032",
+    "https://openalex.org/W1505648523",
+    "https://openalex.org/W43874579",
+    "https://openalex.org/W1974595382",
+    "https://openalex.org/W2533800809",
+    "https://openalex.org/W168970045",
+    "https://openalex.org/W2041413355",
+    "https://openalex.org/W4299647278"
+  ],
+  "related_works": [
+    "https://openalex.org/W82714704",
+    "https://openalex.org/W1519020487",
+    "https://openalex.org/W2382583096",
+    "https://openalex.org/W2512801408",
+    "https://openalex.org/W1527244756",
+    "https://openalex.org/W2078744341",
+    "https://openalex.org/W1835076629",
+    "https://openalex.org/W147463599",
+    "https://openalex.org/W2029555411",
+    "https://openalex.org/W2774439323"
+  ],
+  "abstract_inverted_index": null,
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 21
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 23
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 49
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 47
+    },
+    {
+      "year": 2021,
+      "cited_by_count": 63
+    },
+    {
+      "year": 2020,
+      "cited_by_count": 55
+    },
+    {
+      "year": 2019,
+      "cited_by_count": 54
+    },
+    {
+      "year": 2018,
+      "cited_by_count": 59
+    },
+    {
+      "year": 2017,
+      "cited_by_count": 41
+    },
+    {
+      "year": 2016,
+      "cited_by_count": 37
+    },
+    {
+      "year": 2015,
+      "cited_by_count": 32
+    },
+    {
+      "year": 2014,
+      "cited_by_count": 24
+    },
+    {
+      "year": 2013,
+      "cited_by_count": 9
+    },
+    {
+      "year": 2012,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2025-11-06T03:46:38.306776",
+  "created_date": "2025-10-10T00:00:00"
+}

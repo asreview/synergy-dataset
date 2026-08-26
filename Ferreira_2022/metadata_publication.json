@@ -1,0 +1,1394 @@
+{
+  "id": "https://openalex.org/W4307033662",
+  "doi": "https://doi.org/10.1017/s0007114522003506",
+  "title": "Effects of selenium supplementation on glycaemic control markers in healthy rodents: a systematic review and meta-analysis",
+  "display_name": "Effects of selenium supplementation on glycaemic control markers in healthy rodents: a systematic review and meta-analysis",
+  "publication_year": 2022,
+  "publication_date": "2022-10-21",
+  "ids": {
+    "openalex": "https://openalex.org/W4307033662",
+    "doi": "https://doi.org/10.1017/s0007114522003506",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/36268733"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1017/s0007114522003506",
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.1017/s0007114522003506",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S4218381",
+      "display_name": "British Journal Of Nutrition",
+      "issn_l": "0007-1145",
+      "issn": [
+        "0007-1145",
+        "1475-2662"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310311721",
+      "host_organization_name": "Cambridge University Press",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310311721",
+        "https://openalex.org/P4310311702"
+      ],
+      "host_organization_lineage_names": [
+        "Cambridge University Press",
+        "University of Cambridge"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "British Journal of Nutrition",
+    "raw_type": "journal-article"
+  },
+  "type": "review",
+  "indexed_in": [
+    "crossref",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5043255394",
+        "display_name": "Rannapaula Lawrynhuk Urbano Ferreira",
+        "orcid": "https://orcid.org/0000-0002-5176-1972"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I35046152",
+          "display_name": "Universidade Federal do Rio Grande do Norte",
+          "ror": "https://ror.org/04wn09761",
+          "country_code": "BR",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I35046152"
+          ]
+        }
+      ],
+      "countries": [
+        "BR"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Rannapaula Lawrynhuk Urbano Ferreira",
+      "raw_affiliation_strings": [
+        "Postgraduate Program in Nutrition, Federal University of Rio Grande do Norte, Natal, RN 59078-900, Brazil"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Postgraduate Program in Nutrition, Federal University of Rio Grande do Norte, Natal, RN 59078-900, Brazil",
+          "institution_ids": [
+            "https://openalex.org/I35046152"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5065992984",
+        "display_name": "\u00c2ngela Waleska Freire de Sousa",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I35046152",
+          "display_name": "Universidade Federal do Rio Grande do Norte",
+          "ror": "https://ror.org/04wn09761",
+          "country_code": "BR",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I35046152"
+          ]
+        }
+      ],
+      "countries": [
+        "BR"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "\u00c2ngela Waleska Freire de Sousa",
+      "raw_affiliation_strings": [
+        "Postgraduate Program in Nutrition, Federal University of Rio Grande do Norte, Natal, RN 59078-900, Brazil"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Postgraduate Program in Nutrition, Federal University of Rio Grande do Norte, Natal, RN 59078-900, Brazil",
+          "institution_ids": [
+            "https://openalex.org/I35046152"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5101865685",
+        "display_name": "Ant\u00f3nio Gouveia Oliveira",
+        "orcid": "https://orcid.org/0000-0001-9103-6532"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I35046152",
+          "display_name": "Universidade Federal do Rio Grande do Norte",
+          "ror": "https://ror.org/04wn09761",
+          "country_code": "BR",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I35046152"
+          ]
+        }
+      ],
+      "countries": [
+        "BR"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Antonio Gouveia Oliveira",
+      "raw_affiliation_strings": [
+        "Department of Pharmacy, Federal University of Rio Grande do Norte, Natal, RN, Brazil"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Pharmacy, Federal University of Rio Grande do Norte, Natal, RN, Brazil",
+          "institution_ids": [
+            "https://openalex.org/I35046152"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5008949337",
+        "display_name": "Adriana Augusto de Rezende",
+        "orcid": "https://orcid.org/0000-0003-2452-4047"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I35046152",
+          "display_name": "Universidade Federal do Rio Grande do Norte",
+          "ror": "https://ror.org/04wn09761",
+          "country_code": "BR",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I35046152"
+          ]
+        }
+      ],
+      "countries": [
+        "BR"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Adriana Augusto de Rezende",
+      "raw_affiliation_strings": [
+        "Department of Clinical and Toxicological Analyses, Federal University of Rio Grande do Norte, Natal, RN, Brazil",
+        "Postgraduate Program in Nutrition, Federal University of Rio Grande do Norte, Natal, RN 59078-900, Brazil"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Postgraduate Program in Nutrition, Federal University of Rio Grande do Norte, Natal, RN 59078-900, Brazil",
+          "institution_ids": [
+            "https://openalex.org/I35046152"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Clinical and Toxicological Analyses, Federal University of Rio Grande do Norte, Natal, RN, Brazil",
+          "institution_ids": [
+            "https://openalex.org/I35046152"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5084862691",
+        "display_name": "Ricardo Ney Cobucci",
+        "orcid": "https://orcid.org/0000-0002-0184-2061"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I35046152",
+          "display_name": "Universidade Federal do Rio Grande do Norte",
+          "ror": "https://ror.org/04wn09761",
+          "country_code": "BR",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I35046152"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210088480",
+          "display_name": "Universidade Potiguar",
+          "ror": "https://ror.org/00315pw02",
+          "country_code": "BR",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I4210088480"
+          ]
+        }
+      ],
+      "countries": [
+        "BR"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Ricardo Ney Cobucci",
+      "raw_affiliation_strings": [
+        "Graduate Program in Sciences Applied to Women\u2019s Health, Maternidade Escola Janu\u00e1rio Cicco (MEJC/EBSERH), Federal University of Rio Grande do Norte, Natal, RN, Brazil",
+        "Graduate Program of Biotechnology and Medical School, Universidade Potiguar (UnP), Anima, Natal, RN, Brazil"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Graduate Program of Biotechnology and Medical School, Universidade Potiguar (UnP), Anima, Natal, RN, Brazil",
+          "institution_ids": [
+            "https://openalex.org/I4210088480"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Graduate Program in Sciences Applied to Women\u2019s Health, Maternidade Escola Janu\u00e1rio Cicco (MEJC/EBSERH), Federal University of Rio Grande do Norte, Natal, RN, Brazil",
+          "institution_ids": [
+            "https://openalex.org/I35046152"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5067296586",
+        "display_name": "L\u00facia F\u00e1tima Campos Pedrosa",
+        "orcid": "https://orcid.org/0000-0002-5436-5115"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I35046152",
+          "display_name": "Universidade Federal do Rio Grande do Norte",
+          "ror": "https://ror.org/04wn09761",
+          "country_code": "BR",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I35046152"
+          ]
+        }
+      ],
+      "countries": [
+        "BR"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Lucia Fatima Campos Pedrosa",
+      "raw_affiliation_strings": [
+        "Department of Nutrition, Federal University of Rio Grande do Norte, Natal, RN, Brazil",
+        "Postgraduate Program in Nutrition, Federal University of Rio Grande do Norte, Natal, RN 59078-900, Brazil"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Postgraduate Program in Nutrition, Federal University of Rio Grande do Norte, Natal, RN 59078-900, Brazil",
+          "institution_ids": [
+            "https://openalex.org/I35046152"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Nutrition, Federal University of Rio Grande do Norte, Natal, RN, Brazil",
+          "institution_ids": [
+            "https://openalex.org/I35046152"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 6,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5067296586"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I35046152"
+  ],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 0.16117186,
+  "has_fulltext": false,
+  "cited_by_count": 1,
+  "citation_normalized_percentile": {
+    "value": 0.44043147,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 91,
+    "max": 95
+  },
+  "biblio": {
+    "volume": "130",
+    "issue": "4",
+    "first_page": "564",
+    "last_page": "574"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T11107",
+    "display_name": "Selenium in Biological Systems",
+    "score": 0.9997000098228455,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2916",
+      "display_name": "Nutrition and Dietetics"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/29",
+      "display_name": "Nursing"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/4",
+      "display_name": "Health Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T11107",
+      "display_name": "Selenium in Biological Systems",
+      "score": 0.9997000098228455,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2916",
+        "display_name": "Nutrition and Dietetics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/29",
+        "display_name": "Nursing"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13365",
+      "display_name": "Medical and Biological Ozone Research",
+      "score": 0.9782999753952026,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2736",
+        "display_name": "Pharmacology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11629",
+      "display_name": "Birth, Development, and Health",
+      "score": 0.9674000144004822,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2735",
+        "display_name": "Pediatrics, Perinatology and Child Health"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/selenium",
+      "display_name": "Selenium",
+      "score": 0.8056819438934326
+    },
+    {
+      "id": "https://openalex.org/keywords/meta-analysis",
+      "display_name": "Meta-analysis",
+      "score": 0.736494779586792
+    },
+    {
+      "id": "https://openalex.org/keywords/internal-medicine",
+      "display_name": "Internal medicine",
+      "score": 0.6336503028869629
+    },
+    {
+      "id": "https://openalex.org/keywords/strictly-standardized-mean-difference",
+      "display_name": "Strictly standardized mean difference",
+      "score": 0.6237999200820923
+    },
+    {
+      "id": "https://openalex.org/keywords/medicine",
+      "display_name": "Medicine",
+      "score": 0.6169308423995972
+    },
+    {
+      "id": "https://openalex.org/keywords/subgroup-analysis",
+      "display_name": "Subgroup analysis",
+      "score": 0.5580642819404602
+    },
+    {
+      "id": "https://openalex.org/keywords/glutathione-peroxidase",
+      "display_name": "Glutathione peroxidase",
+      "score": 0.5356478691101074
+    },
+    {
+      "id": "https://openalex.org/keywords/gastroenterology",
+      "display_name": "Gastroenterology",
+      "score": 0.4532318413257599
+    },
+    {
+      "id": "https://openalex.org/keywords/endocrinology",
+      "display_name": "Endocrinology",
+      "score": 0.3461792469024658
+    },
+    {
+      "id": "https://openalex.org/keywords/chemistry",
+      "display_name": "Chemistry",
+      "score": 0.1882058084011078
+    },
+    {
+      "id": "https://openalex.org/keywords/oxidative-stress",
+      "display_name": "Oxidative stress",
+      "score": 0.15223607420921326
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C553756173",
+      "wikidata": "https://www.wikidata.org/wiki/Q876",
+      "display_name": "Selenium",
+      "level": 2,
+      "score": 0.8056819438934326
+    },
+    {
+      "id": "https://openalex.org/C95190672",
+      "wikidata": "https://www.wikidata.org/wiki/Q815382",
+      "display_name": "Meta-analysis",
+      "level": 2,
+      "score": 0.736494779586792
+    },
+    {
+      "id": "https://openalex.org/C126322002",
+      "wikidata": "https://www.wikidata.org/wiki/Q11180",
+      "display_name": "Internal medicine",
+      "level": 1,
+      "score": 0.6336503028869629
+    },
+    {
+      "id": "https://openalex.org/C28804328",
+      "wikidata": "https://www.wikidata.org/wiki/Q7623693",
+      "display_name": "Strictly standardized mean difference",
+      "level": 3,
+      "score": 0.6237999200820923
+    },
+    {
+      "id": "https://openalex.org/C71924100",
+      "wikidata": "https://www.wikidata.org/wiki/Q11190",
+      "display_name": "Medicine",
+      "level": 0,
+      "score": 0.6169308423995972
+    },
+    {
+      "id": "https://openalex.org/C187960798",
+      "wikidata": "https://www.wikidata.org/wiki/Q7631152",
+      "display_name": "Subgroup analysis",
+      "level": 3,
+      "score": 0.5580642819404602
+    },
+    {
+      "id": "https://openalex.org/C2778760513",
+      "wikidata": "https://www.wikidata.org/wiki/Q24773045",
+      "display_name": "Glutathione peroxidase",
+      "level": 4,
+      "score": 0.5356478691101074
+    },
+    {
+      "id": "https://openalex.org/C90924648",
+      "wikidata": "https://www.wikidata.org/wiki/Q120569",
+      "display_name": "Gastroenterology",
+      "level": 1,
+      "score": 0.4532318413257599
+    },
+    {
+      "id": "https://openalex.org/C134018914",
+      "wikidata": "https://www.wikidata.org/wiki/Q162606",
+      "display_name": "Endocrinology",
+      "level": 1,
+      "score": 0.3461792469024658
+    },
+    {
+      "id": "https://openalex.org/C185592680",
+      "wikidata": "https://www.wikidata.org/wiki/Q2329",
+      "display_name": "Chemistry",
+      "level": 0,
+      "score": 0.1882058084011078
+    },
+    {
+      "id": "https://openalex.org/C2776151105",
+      "wikidata": "https://www.wikidata.org/wiki/Q898814",
+      "display_name": "Oxidative stress",
+      "level": 2,
+      "score": 0.15223607420921326
+    },
+    {
+      "id": "https://openalex.org/C2778979269",
+      "wikidata": "https://www.wikidata.org/wiki/Q106951292",
+      "display_name": "Catalase",
+      "level": 3,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C178790620",
+      "wikidata": "https://www.wikidata.org/wiki/Q11351",
+      "display_name": "Organic chemistry",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [
+    {
+      "descriptor_ui": "D012643",
+      "descriptor_name": "Selenium",
+      "qualifier_ui": "Q000494",
+      "qualifier_name": "pharmacology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D018038",
+      "descriptor_name": "Sodium Selenite",
+      "qualifier_ui": "Q000494",
+      "qualifier_name": "pharmacology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000085002",
+      "descriptor_name": "Glycemic Control",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D019587",
+      "descriptor_name": "Dietary Supplements",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000975",
+      "descriptor_name": "Antioxidants",
+      "qualifier_ui": "Q000494",
+      "qualifier_name": "pharmacology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D012643",
+      "descriptor_name": "Selenium",
+      "qualifier_ui": "Q000494",
+      "qualifier_name": "pharmacology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D018038",
+      "descriptor_name": "Sodium Selenite",
+      "qualifier_ui": "Q000494",
+      "qualifier_name": "pharmacology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000085002",
+      "descriptor_name": "Glycemic Control",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D019587",
+      "descriptor_name": "Dietary Supplements",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000975",
+      "descriptor_name": "Antioxidants",
+      "qualifier_ui": "Q000494",
+      "qualifier_name": "pharmacology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D012643",
+      "descriptor_name": "Selenium",
+      "qualifier_ui": "Q000494",
+      "qualifier_name": "pharmacology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D018038",
+      "descriptor_name": "Sodium Selenite",
+      "qualifier_ui": "Q000494",
+      "qualifier_name": "pharmacology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000085002",
+      "descriptor_name": "Glycemic Control",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D019587",
+      "descriptor_name": "Dietary Supplements",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000975",
+      "descriptor_name": "Antioxidants",
+      "qualifier_ui": "Q000494",
+      "qualifier_name": "pharmacology",
+      "is_major_topic": false
+    }
+  ],
+  "locations_count": 2,
+  "locations": [
+    {
+      "id": "doi:10.1017/s0007114522003506",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1017/s0007114522003506",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4218381",
+        "display_name": "British Journal Of Nutrition",
+        "issn_l": "0007-1145",
+        "issn": [
+          "0007-1145",
+          "1475-2662"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310311721",
+        "host_organization_name": "Cambridge University Press",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310311721",
+          "https://openalex.org/P4310311702"
+        ],
+        "host_organization_lineage_names": [
+          "Cambridge University Press",
+          "University of Cambridge"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "British Journal of Nutrition",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:36268733",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/36268733",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "The British journal of nutrition",
+      "raw_type": null
+    }
+  ],
+  "best_oa_location": null,
+  "sustainable_development_goals": [],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "pdf": false,
+    "grobid_xml": false
+  },
+  "referenced_works_count": 56,
+  "referenced_works": [
+    "https://openalex.org/W4235701932",
+    "https://openalex.org/W3148962211",
+    "https://openalex.org/W2902434282",
+    "https://openalex.org/W2058571677",
+    "https://openalex.org/W2608827611",
+    "https://openalex.org/W2987833611",
+    "https://openalex.org/W2001612481",
+    "https://openalex.org/W3030794609",
+    "https://openalex.org/W4220902720",
+    "https://openalex.org/W1988609240",
+    "https://openalex.org/W2161156680",
+    "https://openalex.org/W1831301545",
+    "https://openalex.org/W1997472526",
+    "https://openalex.org/W2981955283",
+    "https://openalex.org/W3013694735",
+    "https://openalex.org/W2042190008",
+    "https://openalex.org/W2028617841",
+    "https://openalex.org/W2100718398",
+    "https://openalex.org/W6644624187",
+    "https://openalex.org/W2079594471",
+    "https://openalex.org/W2994664135",
+    "https://openalex.org/W1969517890",
+    "https://openalex.org/W2021051803",
+    "https://openalex.org/W6642469347",
+    "https://openalex.org/W1978559528",
+    "https://openalex.org/W3038198963",
+    "https://openalex.org/W2123387426",
+    "https://openalex.org/W4225659259",
+    "https://openalex.org/W2007789413",
+    "https://openalex.org/W3094645287",
+    "https://openalex.org/W2002711930",
+    "https://openalex.org/W3036245280",
+    "https://openalex.org/W2565057402",
+    "https://openalex.org/W2056852021",
+    "https://openalex.org/W2008581655",
+    "https://openalex.org/W2007525453",
+    "https://openalex.org/W2075855351",
+    "https://openalex.org/W2896319111",
+    "https://openalex.org/W1968991720",
+    "https://openalex.org/W2074936957",
+    "https://openalex.org/W2157823046",
+    "https://openalex.org/W2769072076",
+    "https://openalex.org/W7075703151",
+    "https://openalex.org/W4207018563",
+    "https://openalex.org/W2027517377",
+    "https://openalex.org/W2167283025",
+    "https://openalex.org/W1976289934",
+    "https://openalex.org/W2015851273",
+    "https://openalex.org/W1983033348",
+    "https://openalex.org/W1971964036",
+    "https://openalex.org/W2007135892",
+    "https://openalex.org/W4255870515",
+    "https://openalex.org/W1996373866",
+    "https://openalex.org/W1977680690",
+    "https://openalex.org/W1968450706",
+    "https://openalex.org/W1826299300"
+  ],
+  "related_works": [
+    "https://openalex.org/W2032132061",
+    "https://openalex.org/W2063458269",
+    "https://openalex.org/W2015288637",
+    "https://openalex.org/W2625676417",
+    "https://openalex.org/W2081829560",
+    "https://openalex.org/W1582696165",
+    "https://openalex.org/W4249505717",
+    "https://openalex.org/W2286824943",
+    "https://openalex.org/W2426761362",
+    "https://openalex.org/W2015848929"
+  ],
+  "abstract_inverted_index": {
+    "Abstract": [
+      0
+    ],
+    "Overexposure": [
+      1
+    ],
+    "to": [
+      2,
+      7,
+      50
+    ],
+    "S": [
+      3,
+      28
+    ],
+    "e": [
+      4,
+      29
+    ],
+    "is": [
+      5
+    ],
+    "detrimental": [
+      6
+    ],
+    "glucose": [
+      8,
+      141
+    ],
+    "metabolism,": [
+      9
+    ],
+    "mainly": [
+      10
+    ],
+    "because": [
+      11
+    ],
+    "of": [
+      12,
+      19,
+      27,
+      55,
+      75,
+      95,
+      119,
+      126,
+      130,
+      195,
+      198,
+      250
+    ],
+    "its": [
+      13
+    ],
+    "pro-oxidant": [
+      14
+    ],
+    "effects": [
+      15,
+      26,
+      249
+    ],
+    "and": [
+      16,
+      57,
+      66,
+      82,
+      101,
+      123,
+      171,
+      191
+    ],
+    "the": [
+      17,
+      25,
+      40,
+      44,
+      58,
+      64,
+      76,
+      87,
+      114,
+      117,
+      127,
+      247
+    ],
+    "overexpression": [
+      18
+    ],
+    "selenoproteins.": [
+      20
+    ],
+    "This": [
+      21
+    ],
+    "systematic": [
+      22
+    ],
+    "review": [
+      23
+    ],
+    "evaluated": [
+      24
+    ],
+    "supplementation": [
+      30,
+      253
+    ],
+    "on": [
+      31,
+      254
+    ],
+    "glycaemic": [
+      32,
+      255
+    ],
+    "control": [
+      33,
+      256
+    ],
+    "in": [
+      34,
+      113,
+      257
+    ],
+    "healthy": [
+      35,
+      258
+    ],
+    "rodents.": [
+      36,
+      259
+    ],
+    "The": [
+      37,
+      53,
+      68,
+      243
+    ],
+    "methodology": [
+      38
+    ],
+    "followed": [
+      39
+    ],
+    "PRISMA.": [
+      41
+    ],
+    "We": [
+      42
+    ],
+    "searched": [
+      43
+    ],
+    "databases": [
+      45
+    ],
+    "for": [
+      46,
+      166,
+      192
+    ],
+    "articles": [
+      47
+    ],
+    "published": [
+      48
+    ],
+    "up": [
+      49
+    ],
+    "May": [
+      51
+    ],
+    "2022.": [
+      52
+    ],
+    "risk": [
+      54,
+      118
+    ],
+    "bias": [
+      56,
+      120
+    ],
+    "methodological": [
+      59
+    ],
+    "quality": [
+      60
+    ],
+    "were": [
+      61,
+      93,
+      111,
+      129
+    ],
+    "assessed": [
+      62
+    ],
+    "using": [
+      63
+    ],
+    "SYRCLE": [
+      65
+    ],
+    "CAMARADES.": [
+      67
+    ],
+    "results": [
+      69
+    ],
+    "are": [
+      70
+    ],
+    "presented": [
+      71
+    ],
+    "as": [
+      72,
+      107
+    ],
+    "meta-analytic": [
+      73
+    ],
+    "estimates": [
+      74
+    ],
+    "overall": [
+      77
+    ],
+    "standardised": [
+      78
+    ],
+    "mean": [
+      79
+    ],
+    "difference": [
+      80
+    ],
+    "(SMD)": [
+      81
+    ],
+    "95": [
+      83
+    ],
+    "%": [
+      84,
+      125,
+      146,
+      154,
+      178,
+      186,
+      205,
+      213,
+      230,
+      238
+    ],
+    "CI.": [
+      85
+    ],
+    "Of": [
+      86
+    ],
+    "2359": [
+      88
+    ],
+    "records": [
+      89
+    ],
+    "retrieved,": [
+      90
+    ],
+    "thirteen": [
+      91
+    ],
+    "studies": [
+      92,
+      110,
+      128
+    ],
+    "included,": [
+      94
+    ],
+    "which": [
+      96
+    ],
+    "eleven": [
+      97
+    ],
+    "used": [
+      98,
+      103
+    ],
+    "sodium": [
+      99,
+      135,
+      199,
+      251
+    ],
+    "selenite": [
+      100,
+      136,
+      200,
+      252
+    ],
+    "two": [
+      102
+    ],
+    "zero-valent": [
+      104
+    ],
+    "Se": [
+      105
+    ],
+    "nanoparticles": [
+      106
+    ],
+    "supplement.": [
+      108
+    ],
+    "Nine": [
+      109
+    ],
+    "included": [
+      112
+    ],
+    "meta-analysis.": [
+      115
+    ],
+    "Generally,": [
+      116
+    ],
+    "was": [
+      121,
+      164
+    ],
+    "high,": [
+      122
+    ],
+    "23\u00b71": [
+      124
+    ],
+    "high": [
+      131
+    ],
+    "quality.": [
+      132
+    ],
+    "Supplementation": [
+      133
+    ],
+    "with": [
+      134
+    ],
+    "significantly": [
+      137
+    ],
+    "increased": [
+      138
+    ],
+    "fasting": [
+      139
+    ],
+    "blood": [
+      140
+    ],
+    "(SMD": [
+      142,
+      174,
+      201,
+      226
+    ],
+    "=": [
+      143,
+      152,
+      157,
+      175,
+      184,
+      189,
+      202,
+      211,
+      216,
+      227,
+      236,
+      241
+    ],
+    "2\u00b757": [
+      144
+    ],
+    "(95": [
+      145,
+      177,
+      204,
+      229
+    ],
+    "CI": [
+      147,
+      179,
+      206,
+      231
+    ],
+    "(1\u00b707,": [
+      148
+    ],
+    "4\u00b707)),": [
+      149
+    ],
+    "I": [
+      150,
+      182,
+      209,
+      234
+    ],
+    "2": [
+      151,
+      183,
+      210,
+      235
+    ],
+    "93\u00b75": [
+      153
+    ],
+    "(": [
+      155,
+      187,
+      214,
+      239
+    ],
+    "P": [
+      156,
+      188,
+      215,
+      240
+    ],
+    "0\u00b7001).": [
+      158
+    ],
+    "Subgroup": [
+      159
+    ],
+    "analyses": [
+      160
+    ],
+    "showed": [
+      161
+    ],
+    "effect": [
+      162
+    ],
+    "size": [
+      163
+    ],
+    "larger": [
+      165
+    ],
+    "interventions": [
+      167
+    ],
+    "lasting": [
+      168
+    ],
+    "between": [
+      169
+    ],
+    "21": [
+      170
+    ],
+    "28": [
+      172
+    ],
+    "d": [
+      173
+    ],
+    "25\u00b774": [
+      176
+    ],
+    "(2\u00b729,": [
+      180
+    ],
+    "9\u00b718)),": [
+      181
+    ],
+    "96\u00b71": [
+      185
+    ],
+    "0\u00b7001))": [
+      190
+    ],
+    "a": [
+      193
+    ],
+    "dose": [
+      194
+    ],
+    "864\u00b77": [
+      196
+    ],
+    "\u03bcg/kg/d": [
+      197
+    ],
+    "10\u00b726": [
+      203
+    ],
+    "(2\u00b742,": [
+      207
+    ],
+    "18\u00b711),": [
+      208
+    ],
+    "97\u00b71": [
+      212
+    ],
+    "0\u00b7010)).": [
+      217
+    ],
+    "However,": [
+      218
+    ],
+    "it": [
+      219
+    ],
+    "did": [
+      220
+    ],
+    "not": [
+      221
+    ],
+    "affect": [
+      222
+    ],
+    "glutathione": [
+      223
+    ],
+    "peroxidase": [
+      224
+    ],
+    "activity": [
+      225
+    ],
+    "0\u00b760": [
+      228
+    ],
+    "(-0\u00b771,": [
+      232
+    ],
+    "1\u00b791)),": [
+      233
+    ],
+    "83\u00b72": [
+      237
+    ],
+    "0\u00b737)).": [
+      242
+    ],
+    "current": [
+      244
+    ],
+    "analysis": [
+      245
+    ],
+    "demonstrated": [
+      246
+    ],
+    "adverse": [
+      248
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2025-11-06T03:46:38.306776",
+  "created_date": "2025-10-10T00:00:00"
+}

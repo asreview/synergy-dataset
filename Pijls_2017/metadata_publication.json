@@ -1,0 +1,1373 @@
+{
+  "id": "https://openalex.org/W2766950531",
+  "doi": "https://doi.org/10.1177/0284185117719575",
+  "title": "Ribbing disease: a systematic review",
+  "display_name": "Ribbing disease: a systematic review",
+  "publication_year": 2017,
+  "publication_date": "2017-07-10",
+  "ids": {
+    "openalex": "https://openalex.org/W2766950531",
+    "doi": "https://doi.org/10.1177/0284185117719575",
+    "mag": "2766950531",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/28691528"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1177/0284185117719575",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1177/0284185117719575",
+    "pdf_url": "https://journals.sagepub.com/doi/pdf/10.1177/0284185117719575",
+    "source": {
+      "id": "https://openalex.org/S160113820",
+      "display_name": "Acta Radiologica",
+      "issn_l": "0284-1851",
+      "issn": [
+        "0284-1851",
+        "1600-0455"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320017",
+      "host_organization_name": "SAGE Publishing",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320017"
+      ],
+      "host_organization_lineage_names": [
+        "SAGE Publishing"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Acta Radiologica",
+    "raw_type": "journal-article"
+  },
+  "type": "review",
+  "indexed_in": [
+    "crossref",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "bronze",
+    "oa_url": "https://journals.sagepub.com/doi/pdf/10.1177/0284185117719575",
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5067054635",
+        "display_name": "Bart G. Pijls",
+        "orcid": "https://orcid.org/0000-0001-5351-5057"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210145063",
+          "display_name": "Haga Hospital",
+          "ror": "https://ror.org/03q4p1y48",
+          "country_code": "NL",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210145063"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I2800006345",
+          "display_name": "Leiden University Medical Center",
+          "ror": "https://ror.org/05xvt9f17",
+          "country_code": "NL",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2800006345"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Bart G Pijls",
+      "raw_affiliation_strings": [
+        "Department of Orthopaedics, Haga Hospital The Hague, The Netherlands",
+        "Department of Orthopaedics, Leiden University Medical Center, Leiden, The Netherlands"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Orthopaedics, Haga Hospital The Hague, The Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I4210145063"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Orthopaedics, Leiden University Medical Center, Leiden, The Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I2800006345"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5012637979",
+        "display_name": "Koen Steentjes",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210145063",
+          "display_name": "Haga Hospital",
+          "ror": "https://ror.org/03q4p1y48",
+          "country_code": "NL",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210145063"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Koen Steentjes",
+      "raw_affiliation_strings": [
+        "Department of Orthopaedics, Haga Hospital The Hague, The Netherlands"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Orthopaedics, Haga Hospital The Hague, The Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I4210145063"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5043612857",
+        "display_name": "Jan W. Schoones",
+        "orcid": "https://orcid.org/0000-0003-1120-4781"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I121797337",
+          "display_name": "Leiden University",
+          "ror": "https://ror.org/027bh9e22",
+          "country_code": "NL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I121797337"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Jan W Schoones",
+      "raw_affiliation_strings": [
+        "Walaeus Library, Leiden University Medical Centre, Leiden, The Netherlands"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Walaeus Library, Leiden University Medical Centre, Leiden, The Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I121797337"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5000198005",
+        "display_name": "P. D. S. Dijkstra",
+        "orcid": "https://orcid.org/0000-0001-5368-757X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2800006345",
+          "display_name": "Leiden University Medical Center",
+          "ror": "https://ror.org/05xvt9f17",
+          "country_code": "NL",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2800006345"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Sander PD Dijkstra",
+      "raw_affiliation_strings": [
+        "Department of Orthopaedics, Leiden University Medical Center, Leiden, The Netherlands"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Orthopaedics, Leiden University Medical Center, Leiden, The Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I2800006345"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 4,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5067054635"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I2800006345",
+    "https://openalex.org/I4210145063"
+  ],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 0.63702372,
+  "has_fulltext": false,
+  "cited_by_count": 16,
+  "citation_normalized_percentile": {
+    "value": 0.7547838,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 90,
+    "max": 98
+  },
+  "biblio": {
+    "volume": "59",
+    "issue": "4",
+    "first_page": "448",
+    "last_page": "453"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T12924",
+    "display_name": "Dermatological and Skeletal Disorders",
+    "score": 1.0,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1311",
+      "display_name": "Genetics"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/13",
+      "display_name": "Biochemistry, Genetics and Molecular Biology"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/1",
+      "display_name": "Life Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T12924",
+      "display_name": "Dermatological and Skeletal Disorders",
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1311",
+        "display_name": "Genetics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13313",
+      "display_name": "Dupuytren's Contracture and Treatments",
+      "score": 0.9922000169754028,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2745",
+        "display_name": "Rheumatology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12960",
+      "display_name": "Heterotopic Ossification and Related Conditions",
+      "score": 0.9905999898910522,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2745",
+        "display_name": "Rheumatology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/medicine",
+      "display_name": "Medicine",
+      "score": 0.9793989658355713
+    },
+    {
+      "id": "https://openalex.org/keywords/surgery",
+      "display_name": "Surgery",
+      "score": 0.5695861577987671
+    },
+    {
+      "id": "https://openalex.org/keywords/radiological-weapon",
+      "display_name": "Radiological weapon",
+      "score": 0.5590126514434814
+    },
+    {
+      "id": "https://openalex.org/keywords/disease",
+      "display_name": "Disease",
+      "score": 0.5434932112693787
+    },
+    {
+      "id": "https://openalex.org/keywords/intramedullary-rod",
+      "display_name": "Intramedullary rod",
+      "score": 0.5236758589744568
+    },
+    {
+      "id": "https://openalex.org/keywords/radiology",
+      "display_name": "Radiology",
+      "score": 0.3734343647956848
+    },
+    {
+      "id": "https://openalex.org/keywords/internal-medicine",
+      "display_name": "Internal medicine",
+      "score": 0.1621612012386322
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C71924100",
+      "wikidata": "https://www.wikidata.org/wiki/Q11190",
+      "display_name": "Medicine",
+      "level": 0,
+      "score": 0.9793989658355713
+    },
+    {
+      "id": "https://openalex.org/C141071460",
+      "wikidata": "https://www.wikidata.org/wiki/Q40821",
+      "display_name": "Surgery",
+      "level": 1,
+      "score": 0.5695861577987671
+    },
+    {
+      "id": "https://openalex.org/C190892606",
+      "wikidata": "https://www.wikidata.org/wiki/Q3512464",
+      "display_name": "Radiological weapon",
+      "level": 2,
+      "score": 0.5590126514434814
+    },
+    {
+      "id": "https://openalex.org/C2779134260",
+      "wikidata": "https://www.wikidata.org/wiki/Q12136",
+      "display_name": "Disease",
+      "level": 2,
+      "score": 0.5434932112693787
+    },
+    {
+      "id": "https://openalex.org/C92162645",
+      "wikidata": "https://www.wikidata.org/wiki/Q655955",
+      "display_name": "Intramedullary rod",
+      "level": 2,
+      "score": 0.5236758589744568
+    },
+    {
+      "id": "https://openalex.org/C126838900",
+      "wikidata": "https://www.wikidata.org/wiki/Q77604",
+      "display_name": "Radiology",
+      "level": 1,
+      "score": 0.3734343647956848
+    },
+    {
+      "id": "https://openalex.org/C126322002",
+      "wikidata": "https://www.wikidata.org/wiki/Q11180",
+      "display_name": "Internal medicine",
+      "level": 1,
+      "score": 0.1621612012386322
+    }
+  ],
+  "mesh": [
+    {
+      "descriptor_ui": "D000328",
+      "descriptor_name": "Adult",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000894",
+      "descriptor_name": "Anti-Inflammatory Agents, Non-Steroidal",
+      "qualifier_ui": "Q000627",
+      "qualifier_name": "therapeutic use",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D003966",
+      "descriptor_name": "Camurati-Engelmann Syndrome",
+      "qualifier_ui": "Q000000981",
+      "qualifier_name": "diagnostic imaging",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D003966",
+      "descriptor_name": "Camurati-Engelmann Syndrome",
+      "qualifier_ui": "Q000628",
+      "qualifier_name": "therapy",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005260",
+      "descriptor_name": "Female",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005938",
+      "descriptor_name": "Glucocorticoids",
+      "qualifier_ui": "Q000627",
+      "qualifier_name": "therapeutic use",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008279",
+      "descriptor_name": "Magnetic Resonance Imaging",
+      "qualifier_ui": "Q000379",
+      "qualifier_name": "methods",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008297",
+      "descriptor_name": "Male",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D010017",
+      "descriptor_name": "Osteoma, Osteoid",
+      "qualifier_ui": "Q000000981",
+      "qualifier_name": "diagnostic imaging",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D010017",
+      "descriptor_name": "Osteoma, Osteoid",
+      "qualifier_ui": "Q000628",
+      "qualifier_name": "therapy",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D011241",
+      "descriptor_name": "Prednisone",
+      "qualifier_ui": "Q000627",
+      "qualifier_name": "therapeutic use",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D013977",
+      "descriptor_name": "Tibia",
+      "qualifier_ui": "Q000000981",
+      "qualifier_name": "diagnostic imaging",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D013977",
+      "descriptor_name": "Tibia",
+      "qualifier_ui": "Q000601",
+      "qualifier_name": "surgery",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D014057",
+      "descriptor_name": "Tomography, X-Ray Computed",
+      "qualifier_ui": "Q000379",
+      "qualifier_name": "methods",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D014965",
+      "descriptor_name": "X-Rays",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000328",
+      "descriptor_name": "Adult",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000894",
+      "descriptor_name": "Anti-Inflammatory Agents, Non-Steroidal",
+      "qualifier_ui": "Q000627",
+      "qualifier_name": "therapeutic use",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D003966",
+      "descriptor_name": "Camurati-Engelmann Syndrome",
+      "qualifier_ui": "Q000000981",
+      "qualifier_name": "diagnostic imaging",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D003966",
+      "descriptor_name": "Camurati-Engelmann Syndrome",
+      "qualifier_ui": "Q000628",
+      "qualifier_name": "therapy",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005260",
+      "descriptor_name": "Female",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005938",
+      "descriptor_name": "Glucocorticoids",
+      "qualifier_ui": "Q000627",
+      "qualifier_name": "therapeutic use",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008279",
+      "descriptor_name": "Magnetic Resonance Imaging",
+      "qualifier_ui": "Q000379",
+      "qualifier_name": "methods",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008297",
+      "descriptor_name": "Male",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D010017",
+      "descriptor_name": "Osteoma, Osteoid",
+      "qualifier_ui": "Q000000981",
+      "qualifier_name": "diagnostic imaging",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D010017",
+      "descriptor_name": "Osteoma, Osteoid",
+      "qualifier_ui": "Q000628",
+      "qualifier_name": "therapy",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D011241",
+      "descriptor_name": "Prednisone",
+      "qualifier_ui": "Q000627",
+      "qualifier_name": "therapeutic use",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D013977",
+      "descriptor_name": "Tibia",
+      "qualifier_ui": "Q000000981",
+      "qualifier_name": "diagnostic imaging",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D013977",
+      "descriptor_name": "Tibia",
+      "qualifier_ui": "Q000601",
+      "qualifier_name": "surgery",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D014057",
+      "descriptor_name": "Tomography, X-Ray Computed",
+      "qualifier_ui": "Q000379",
+      "qualifier_name": "methods",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D014965",
+      "descriptor_name": "X-Rays",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    }
+  ],
+  "locations_count": 4,
+  "locations": [
+    {
+      "id": "doi:10.1177/0284185117719575",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1177/0284185117719575",
+      "pdf_url": "https://journals.sagepub.com/doi/pdf/10.1177/0284185117719575",
+      "source": {
+        "id": "https://openalex.org/S160113820",
+        "display_name": "Acta Radiologica",
+        "issn_l": "0284-1851",
+        "issn": [
+          "0284-1851",
+          "1600-0455"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320017",
+        "host_organization_name": "SAGE Publishing",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320017"
+        ],
+        "host_organization_lineage_names": [
+          "SAGE Publishing"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Acta Radiologica",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:28691528",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/28691528",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Acta radiologica (Stockholm, Sweden : 1987)",
+      "raw_type": null
+    },
+    {
+      "id": "pmh:lumc:oai:scholarlypublications.universiteitleiden.nl:item_3136400",
+      "is_oa": false,
+      "landing_page_url": "http://hdl.handle.net/1887/78112",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401843",
+        "display_name": "Data Archiving and Networked Services (DANS)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1322597698",
+        "host_organization_name": "Royal Netherlands Academy of Arts and Sciences",
+        "host_organization_lineage": [
+          "https://openalex.org/I1322597698"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Acta Radiologica, 59(4), 448 - 453",
+      "raw_type": "info:eu-repo/semantics/article"
+    },
+    {
+      "id": "pmh:oai:scholarlypublications.universiteitleiden.nl:item_3136400",
+      "is_oa": false,
+      "landing_page_url": "https://hdl.handle.net/1887/78112",
+      "pdf_url": null,
+      "source": null,
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Acta Radiologica",
+      "raw_type": "Article / Letter to editor"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1177/0284185117719575",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1177/0284185117719575",
+    "pdf_url": "https://journals.sagepub.com/doi/pdf/10.1177/0284185117719575",
+    "source": {
+      "id": "https://openalex.org/S160113820",
+      "display_name": "Acta Radiologica",
+      "issn_l": "0284-1851",
+      "issn": [
+        "0284-1851",
+        "1600-0455"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320017",
+      "host_organization_name": "SAGE Publishing",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320017"
+      ],
+      "host_organization_lineage_names": [
+        "SAGE Publishing"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Acta Radiologica",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [
+    {
+      "display_name": "Good health and well-being",
+      "score": 0.7900000214576721,
+      "id": "https://metadata.un.org/sdg/3"
+    }
+  ],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "pdf": true,
+    "grobid_xml": true
+  },
+  "referenced_works_count": 29,
+  "referenced_works": [
+    "https://openalex.org/W1965167262",
+    "https://openalex.org/W4319308449",
+    "https://openalex.org/W2007643499",
+    "https://openalex.org/W2062076248",
+    "https://openalex.org/W2031574838",
+    "https://openalex.org/W2134833483",
+    "https://openalex.org/W2070609227",
+    "https://openalex.org/W1982281619",
+    "https://openalex.org/W1979381938",
+    "https://openalex.org/W2088871652",
+    "https://openalex.org/W2006656610",
+    "https://openalex.org/W1963947387",
+    "https://openalex.org/W1942619977",
+    "https://openalex.org/W4231457237",
+    "https://openalex.org/W2021745603",
+    "https://openalex.org/W1987376025",
+    "https://openalex.org/W2238536542",
+    "https://openalex.org/W2036851084",
+    "https://openalex.org/W2050285281",
+    "https://openalex.org/W2071107593",
+    "https://openalex.org/W2019969558",
+    "https://openalex.org/W2034363825",
+    "https://openalex.org/W2152292170",
+    "https://openalex.org/W2070535710",
+    "https://openalex.org/W1594081851",
+    "https://openalex.org/W2409929332",
+    "https://openalex.org/W4285719527",
+    "https://openalex.org/W2182127475",
+    "https://openalex.org/W1859133021"
+  ],
+  "related_works": [
+    "https://openalex.org/W2367350653",
+    "https://openalex.org/W2373505102",
+    "https://openalex.org/W2416073882",
+    "https://openalex.org/W2355609011",
+    "https://openalex.org/W2132611744",
+    "https://openalex.org/W3028827658",
+    "https://openalex.org/W3001439917",
+    "https://openalex.org/W2393032447",
+    "https://openalex.org/W2475099835",
+    "https://openalex.org/W2343294779"
+  ],
+  "abstract_inverted_index": {
+    "Background": [
+      0
+    ],
+    "Ribbing": [
+      1,
+      29,
+      51,
+      193
+    ],
+    "disease,": [
+      2
+    ],
+    "or": [
+      3
+    ],
+    "multiple": [
+      4
+    ],
+    "diaphyseal": [
+      5
+    ],
+    "sclerosis,": [
+      6
+    ],
+    "is": [
+      7,
+      201
+    ],
+    "a": [
+      8,
+      102
+    ],
+    "rare": [
+      9
+    ],
+    "benign": [
+      10
+    ],
+    "bone": [
+      11,
+      148
+    ],
+    "dysplasia.": [
+      12
+    ],
+    "Purpose": [
+      13
+    ],
+    "To": [
+      14
+    ],
+    "systematically": [
+      15
+    ],
+    "review": [
+      16,
+      64
+    ],
+    "the": [
+      17,
+      21,
+      34,
+      63,
+      122,
+      144,
+      206
+    ],
+    "literature": [
+      18,
+      89
+    ],
+    "to": [
+      19,
+      180
+    ],
+    "determine": [
+      20
+    ],
+    "clinical": [
+      22,
+      185
+    ],
+    "and": [
+      23,
+      40,
+      57,
+      79,
+      121,
+      127,
+      163,
+      174,
+      176,
+      187,
+      210
+    ],
+    "radiological": [
+      24
+    ],
+    "presentation": [
+      25,
+      186
+    ],
+    "of": [
+      26,
+      36,
+      47,
+      62,
+      95,
+      104,
+      107,
+      129,
+      151,
+      157,
+      171,
+      190,
+      203,
+      212
+    ],
+    "patients": [
+      27,
+      48,
+      106,
+      191
+    ],
+    "with": [
+      28,
+      50,
+      165,
+      192
+    ],
+    "disease": [
+      30,
+      52,
+      194,
+      208
+    ],
+    "as": [
+      31,
+      33
+    ],
+    "well": [
+      32
+    ],
+    "effects": [
+      35
+    ],
+    "attempted": [
+      37
+    ],
+    "treatments.": [
+      38
+    ],
+    "Material": [
+      39
+    ],
+    "Methods": [
+      41
+    ],
+    "We": [
+      42
+    ],
+    "considered": [
+      43
+    ],
+    "individual": [
+      44
+    ],
+    "patient": [
+      45,
+      55,
+      58
+    ],
+    "data": [
+      46
+    ],
+    "diagnosed": [
+      49
+    ],
+    "derived": [
+      53
+    ],
+    "from": [
+      54
+    ],
+    "reports": [
+      56
+    ],
+    "series.": [
+      59
+    ],
+    "All": [
+      60
+    ],
+    "stages": [
+      61
+    ],
+    "were": [
+      65,
+      74,
+      83,
+      99
+    ],
+    "performed": [
+      66
+    ],
+    "by": [
+      67
+    ],
+    "two": [
+      68
+    ],
+    "reviewers": [
+      69
+    ],
+    "independently.": [
+      70
+    ],
+    "Standard": [
+      71
+    ],
+    "descriptive": [
+      72
+    ],
+    "statistics": [
+      73
+    ],
+    "used": [
+      75,
+      84
+    ],
+    "for": [
+      76
+    ],
+    "quantitative": [
+      77
+    ],
+    "analyses": [
+      78,
+      82
+    ],
+    "mixed": [
+      80,
+      166
+    ],
+    "model": [
+      81
+    ],
+    "when": [
+      85
+    ],
+    "appropriate": [
+      86
+    ],
+    "Results": [
+      87
+    ],
+    "The": [
+      88,
+      113,
+      140,
+      184
+    ],
+    "search": [
+      90
+    ],
+    "yielded": [
+      91
+    ],
+    "420": [
+      92
+    ],
+    "unique": [
+      93
+    ],
+    "hits": [
+      94
+    ],
+    "which": [
+      96
+    ],
+    "23": [
+      97
+    ],
+    "studies": [
+      98
+    ],
+    "included,": [
+      100
+    ],
+    "covering": [
+      101
+    ],
+    "total": [
+      103
+    ],
+    "40": [
+      105
+    ],
+    "whom": [
+      108
+    ],
+    "29": [
+      109
+    ],
+    "had": [
+      110
+    ],
+    "bilateral": [
+      111
+    ],
+    "involvement.": [
+      112
+    ],
+    "mean": [
+      114,
+      123
+    ],
+    "age": [
+      115
+    ],
+    "at": [
+      116
+    ],
+    "diagnosis": [
+      117,
+      126
+    ],
+    "was": [
+      118,
+      133,
+      143,
+      177
+    ],
+    "35": [
+      119,
+      150
+    ],
+    "years": [
+      120,
+      135
+    ],
+    "time": [
+      124
+    ],
+    "between": [
+      125
+    ],
+    "onset": [
+      128
+    ],
+    "symptoms,": [
+      130
+    ],
+    "mostly": [
+      131
+    ],
+    "pain,": [
+      132
+    ],
+    "five": [
+      134
+    ],
+    "(range": [
+      136
+    ],
+    "=": [
+      137
+    ],
+    "1\u201316": [
+      138
+    ],
+    "years).": [
+      139
+    ],
+    "tibial": [
+      141
+    ],
+    "diaphysis": [
+      142
+    ],
+    "most": [
+      145
+    ],
+    "commonly": [
+      146
+    ],
+    "involved": [
+      147
+    ],
+    "in": [
+      149
+    ],
+    "36": [
+      152
+    ],
+    "patients.": [
+      153
+    ],
+    "Non-surgical": [
+      154
+    ],
+    "treatment": [
+      155,
+      169,
+      213
+    ],
+    "consisted": [
+      156,
+      170
+    ],
+    "non-steroidal": [
+      158
+    ],
+    "anti-inflammatory": [
+      159
+    ],
+    "drugs": [
+      160
+    ],
+    "(NSAIDs),": [
+      161
+    ],
+    "prednisone,": [
+      162
+    ],
+    "bisphophonates": [
+      164
+    ],
+    "results.": [
+      167
+    ],
+    "Surgical": [
+      168
+    ],
+    "intramedullary": [
+      172
+    ],
+    "reaming": [
+      173
+    ],
+    "fenestration": [
+      175
+    ],
+    "very": [
+      178
+    ],
+    "effective": [
+      179
+    ],
+    "reduce": [
+      181
+    ],
+    "pain.": [
+      182
+    ],
+    "Conclusion": [
+      183
+    ],
+    "imaging": [
+      188
+    ],
+    "findings": [
+      189
+    ],
+    "are": [
+      195
+    ],
+    "becoming": [
+      196
+    ],
+    "more": [
+      197
+    ],
+    "apparent.": [
+      198
+    ],
+    "However,": [
+      199
+    ],
+    "there": [
+      200
+    ],
+    "paucity": [
+      202
+    ],
+    "evidence": [
+      204
+    ],
+    "on": [
+      205
+    ],
+    "natural": [
+      207
+    ],
+    "progression": [
+      209
+    ],
+    "effectiveness": [
+      211
+    ],
+    "modalities.": [
+      214
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 3
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 3
+    },
+    {
+      "year": 2021,
+      "cited_by_count": 5
+    },
+    {
+      "year": 2020,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2018,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2025-11-06T03:46:38.306776",
+  "created_date": "2025-10-10T00:00:00"
+}

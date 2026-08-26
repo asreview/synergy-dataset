@@ -1,0 +1,12 @@
+{
+  "key": "Lauper_2021",
+  "publication": {
+    "doi": "10.1136/rmdopen-2021-001818",
+    "eligibility_criteria": "Studies were included if they were original longitudinal observational CER studies with \u2265100 participants and exploring effectiveness of different drugs, even if treatment was not the main exposure, nor effectiveness the only outcome. We decided a priori not to include smaller studies (<100 participants), because they could have additional methodological issues that were felt to be out of the scope for this Task Force. Furthermore, studies evaluating extra-articular organ damage were not included as it was felt that this would be a different outcome and thus may need different type of analyses or reporting, as reversibility is rarely achievable."
+  },
+  "data": {
+    "doi": "10.17605/OSF.IO/T8KNJ",
+    "n_records": 9520,
+    "n_records_included": 211
+  }
+}

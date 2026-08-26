@@ -1,0 +1,12 @@
+{
+  "key": "Leenaars_2020",
+  "publication": {
+    "doi": "10.3390/ani10061047",
+    "eligibility_criteria": "We included all studies in which MTX was administered to RA patients or RA animal models in our ongoing review. We excluded studies on other diseases than RA, studies that were not in vivo, studies that did not administer MTX (or only had treatment groups co-administering MTX with other experimental drugs), studies that did not analyse efficacy (e.g., safety studies), and publications that did not contain new data (e.g., reviews and editorials)."
+  },
+  "data": {
+    "doi": "10.17605/OSF.IO/T7GYR",
+    "n_records": 7394,
+    "n_records_included": 590
+  }
+}

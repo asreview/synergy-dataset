@@ -1,0 +1,761 @@
+{
+  "id": "https://openalex.org/W3208575053",
+  "doi": "https://doi.org/10.1007/s10648-021-09640-7",
+  "title": "The Role of Individual Differences in Sourcing: a Systematic Review",
+  "display_name": "The Role of Individual Differences in Sourcing: a Systematic Review",
+  "publication_year": 2021,
+  "publication_date": "2021-10-29",
+  "ids": {
+    "openalex": "https://openalex.org/W3208575053",
+    "doi": "https://doi.org/10.1007/s10648-021-09640-7",
+    "mag": "3208575053"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1007/s10648-021-09640-7",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1007/s10648-021-09640-7",
+    "pdf_url": "https://link.springer.com/content/pdf/10.1007/s10648-021-09640-7.pdf",
+    "source": {
+      "id": "https://openalex.org/S187318745",
+      "display_name": "Educational Psychology Review",
+      "issn_l": "1040-726X",
+      "issn": [
+        "1040-726X",
+        "1573-336X"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310319900",
+      "host_organization_name": "Springer Science+Business Media",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310319900",
+        "https://openalex.org/P4310319965"
+      ],
+      "host_organization_lineage_names": [
+        "Springer Science+Business Media",
+        "Springer Nature"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Educational Psychology Review",
+    "raw_type": "journal-article"
+  },
+  "type": "review",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "hybrid",
+    "oa_url": "https://link.springer.com/content/pdf/10.1007/s10648-021-09640-7.pdf",
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5035118105",
+        "display_name": "\u00d8istein Anmarkrud",
+        "orcid": "https://orcid.org/0000-0003-2477-998X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I184942183",
+          "display_name": "University of Oslo",
+          "ror": "https://ror.org/01xtthb56",
+          "country_code": "NO",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I184942183"
+          ]
+        }
+      ],
+      "countries": [
+        "NO"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "\u00d8istein Anmarkrud",
+      "raw_affiliation_strings": [
+        "University of Oslo, Oslo, Norway"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "University of Oslo, Oslo, Norway",
+          "institution_ids": [
+            "https://openalex.org/I184942183"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5000268884",
+        "display_name": "Ivar Br\u00e5ten",
+        "orcid": "https://orcid.org/0000-0002-9242-9087"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I184942183",
+          "display_name": "University of Oslo",
+          "ror": "https://ror.org/01xtthb56",
+          "country_code": "NO",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I184942183"
+          ]
+        }
+      ],
+      "countries": [
+        "NO"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Ivar Br\u00e5ten",
+      "raw_affiliation_strings": [
+        "University of Oslo, Oslo, Norway"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "University of Oslo, Oslo, Norway",
+          "institution_ids": [
+            "https://openalex.org/I184942183"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5005413260",
+        "display_name": "Elena Florit",
+        "orcid": "https://orcid.org/0000-0002-9130-459X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I119439378",
+          "display_name": "University of Verona",
+          "ror": "https://ror.org/039bp8j42",
+          "country_code": "IT",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I119439378"
+          ]
+        }
+      ],
+      "countries": [
+        "IT"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Elena Florit",
+      "raw_affiliation_strings": [
+        "University of Verona, Verona, Italy"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "University of Verona, Verona, Italy",
+          "institution_ids": [
+            "https://openalex.org/I119439378"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5087305405",
+        "display_name": "Lucia Mas\u00f3n",
+        "orcid": "https://orcid.org/0000-0001-7134-0510"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I138689650",
+          "display_name": "University of Padua",
+          "ror": "https://ror.org/00240q980",
+          "country_code": "IT",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I138689650"
+          ]
+        }
+      ],
+      "countries": [
+        "IT"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Lucia Mason",
+      "raw_affiliation_strings": [
+        "University of Padova, Padua, Italy"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "University of Padova, Padua, Italy",
+          "institution_ids": [
+            "https://openalex.org/I138689650"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 2,
+  "institutions_distinct_count": 4,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [],
+  "apc_list": {
+    "value": 3390,
+    "currency": "EUR",
+    "value_usd": 4390
+  },
+  "apc_paid": {
+    "value": 3390,
+    "currency": "EUR",
+    "value_usd": 4390
+  },
+  "fwci": 12.99530578,
+  "has_fulltext": true,
+  "cited_by_count": 60,
+  "citation_normalized_percentile": {
+    "value": 0.99054858,
+    "is_in_top_1_percent": true,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 89,
+    "max": 100
+  },
+  "biblio": {
+    "volume": "34",
+    "issue": "2",
+    "first_page": "749",
+    "last_page": "792"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T12887",
+    "display_name": "Educational Strategies and Epistemologies",
+    "score": 0.9995999932289124,
+    "subfield": {
+      "id": "https://openalex.org/subfields/3204",
+      "display_name": "Developmental and Educational Psychology"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/32",
+      "display_name": "Psychology"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/2",
+      "display_name": "Social Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T12887",
+      "display_name": "Educational Strategies and Epistemologies",
+      "score": 0.9995999932289124,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3204",
+        "display_name": "Developmental and Educational Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10103",
+      "display_name": "Reading and Literacy Development",
+      "score": 0.9775999784469604,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3204",
+        "display_name": "Developmental and Educational Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10712",
+      "display_name": "Library Science and Information Literacy",
+      "score": 0.9765999913215637,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3309",
+        "display_name": "Library and Information Sciences"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/literacy",
+      "display_name": "Literacy",
+      "score": 0.6257644295692444
+    },
+    {
+      "id": "https://openalex.org/keywords/context",
+      "display_name": "Context (archaeology)",
+      "score": 0.6253420114517212
+    },
+    {
+      "id": "https://openalex.org/keywords/psychology",
+      "display_name": "Psychology",
+      "score": 0.5629380345344543
+    },
+    {
+      "id": "https://openalex.org/keywords/empirical-research",
+      "display_name": "Empirical research",
+      "score": 0.498288631439209
+    },
+    {
+      "id": "https://openalex.org/keywords/reading",
+      "display_name": "Reading (process)",
+      "score": 0.49490660429000854
+    },
+    {
+      "id": "https://openalex.org/keywords/linguistics",
+      "display_name": "Linguistics",
+      "score": 0.18023523688316345
+    },
+    {
+      "id": "https://openalex.org/keywords/epistemology",
+      "display_name": "Epistemology",
+      "score": 0.16927963495254517
+    },
+    {
+      "id": "https://openalex.org/keywords/geography",
+      "display_name": "Geography",
+      "score": 0.11433351039886475
+    },
+    {
+      "id": "https://openalex.org/keywords/pedagogy",
+      "display_name": "Pedagogy",
+      "score": 0.10816174745559692
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C547764534",
+      "wikidata": "https://www.wikidata.org/wiki/Q8236",
+      "display_name": "Literacy",
+      "level": 2,
+      "score": 0.6257644295692444
+    },
+    {
+      "id": "https://openalex.org/C2779343474",
+      "wikidata": "https://www.wikidata.org/wiki/Q3109175",
+      "display_name": "Context (archaeology)",
+      "level": 2,
+      "score": 0.6253420114517212
+    },
+    {
+      "id": "https://openalex.org/C15744967",
+      "wikidata": "https://www.wikidata.org/wiki/Q9418",
+      "display_name": "Psychology",
+      "level": 0,
+      "score": 0.5629380345344543
+    },
+    {
+      "id": "https://openalex.org/C120936955",
+      "wikidata": "https://www.wikidata.org/wiki/Q2155640",
+      "display_name": "Empirical research",
+      "level": 2,
+      "score": 0.498288631439209
+    },
+    {
+      "id": "https://openalex.org/C554936623",
+      "wikidata": "https://www.wikidata.org/wiki/Q199657",
+      "display_name": "Reading (process)",
+      "level": 2,
+      "score": 0.49490660429000854
+    },
+    {
+      "id": "https://openalex.org/C41895202",
+      "wikidata": "https://www.wikidata.org/wiki/Q8162",
+      "display_name": "Linguistics",
+      "level": 1,
+      "score": 0.18023523688316345
+    },
+    {
+      "id": "https://openalex.org/C111472728",
+      "wikidata": "https://www.wikidata.org/wiki/Q9471",
+      "display_name": "Epistemology",
+      "level": 1,
+      "score": 0.16927963495254517
+    },
+    {
+      "id": "https://openalex.org/C205649164",
+      "wikidata": "https://www.wikidata.org/wiki/Q1071",
+      "display_name": "Geography",
+      "level": 0,
+      "score": 0.11433351039886475
+    },
+    {
+      "id": "https://openalex.org/C19417346",
+      "wikidata": "https://www.wikidata.org/wiki/Q7922",
+      "display_name": "Pedagogy",
+      "level": 1,
+      "score": 0.10816174745559692
+    },
+    {
+      "id": "https://openalex.org/C166957645",
+      "wikidata": "https://www.wikidata.org/wiki/Q23498",
+      "display_name": "Archaeology",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C138885662",
+      "wikidata": "https://www.wikidata.org/wiki/Q5891",
+      "display_name": "Philosophy",
+      "level": 0,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 3,
+  "locations": [
+    {
+      "id": "doi:10.1007/s10648-021-09640-7",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1007/s10648-021-09640-7",
+      "pdf_url": "https://link.springer.com/content/pdf/10.1007/s10648-021-09640-7.pdf",
+      "source": {
+        "id": "https://openalex.org/S187318745",
+        "display_name": "Educational Psychology Review",
+        "issn_l": "1040-726X",
+        "issn": [
+          "1040-726X",
+          "1573-336X"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310319900",
+        "host_organization_name": "Springer Science+Business Media",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310319900",
+          "https://openalex.org/P4310319965"
+        ],
+        "host_organization_lineage_names": [
+          "Springer Science+Business Media",
+          "Springer Nature"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Educational Psychology Review",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmh:oai:www.duo.uio.no:10852/91398",
+      "is_oa": true,
+      "landing_page_url": "http://hdl.handle.net/10852/91398",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401717",
+        "display_name": "Duo Research Archive (University of Oslo)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I184942183",
+        "host_organization_name": "University of Oslo",
+        "host_organization_lineage": [
+          "https://openalex.org/I184942183"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "1040-726X",
+      "raw_type": "info:eu-repo/semantics/article"
+    },
+    {
+      "id": "pmh:oai:www.research.unipd.it:11577/3407049",
+      "is_oa": true,
+      "landing_page_url": "https://link.springer.com/article/10.1007/s10648-021-09640-7",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306402448",
+        "display_name": "Padua Research Archive (University of Padua)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I138689650",
+        "host_organization_name": "University of Padua",
+        "host_organization_lineage": [
+          "https://openalex.org/I138689650"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "",
+      "raw_type": "info:eu-repo/semantics/article"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1007/s10648-021-09640-7",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1007/s10648-021-09640-7",
+    "pdf_url": "https://link.springer.com/content/pdf/10.1007/s10648-021-09640-7.pdf",
+    "source": {
+      "id": "https://openalex.org/S187318745",
+      "display_name": "Educational Psychology Review",
+      "issn_l": "1040-726X",
+      "issn": [
+        "1040-726X",
+        "1573-336X"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310319900",
+      "host_organization_name": "Springer Science+Business Media",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310319900",
+        "https://openalex.org/P4310319965"
+      ],
+      "host_organization_lineage_names": [
+        "Springer Science+Business Media",
+        "Springer Nature"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Educational Psychology Review",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [
+    {
+      "id": "https://metadata.un.org/sdg/4",
+      "score": 0.8999999761581421,
+      "display_name": "Quality Education"
+    }
+  ],
+  "awards": [],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320323260",
+      "display_name": "Universitetet i Oslo",
+      "ror": "https://ror.org/01xtthb56"
+    }
+  ],
+  "has_content": {
+    "grobid_xml": true,
+    "pdf": true
+  },
+  "referenced_works_count": 130,
+  "referenced_works": [
+    "https://openalex.org/W653955720",
+    "https://openalex.org/W2123604957",
+    "https://openalex.org/W1995417229",
+    "https://openalex.org/W2063906575",
+    "https://openalex.org/W3039261836",
+    "https://openalex.org/W1769877759",
+    "https://openalex.org/W1983710278",
+    "https://openalex.org/W2947406682",
+    "https://openalex.org/W2741776399",
+    "https://openalex.org/W2617090957",
+    "https://openalex.org/W3004220852",
+    "https://openalex.org/W2045782015",
+    "https://openalex.org/W2143167710",
+    "https://openalex.org/W2590842578",
+    "https://openalex.org/W2752266518",
+    "https://openalex.org/W2077876912",
+    "https://openalex.org/W2617829774",
+    "https://openalex.org/W2905195183",
+    "https://openalex.org/W2936291240",
+    "https://openalex.org/W2085114967",
+    "https://openalex.org/W2098209296",
+    "https://openalex.org/W3197912092",
+    "https://openalex.org/W2503559904",
+    "https://openalex.org/W2888864840",
+    "https://openalex.org/W2157405565",
+    "https://openalex.org/W2042151401",
+    "https://openalex.org/W1433420522",
+    "https://openalex.org/W2477917057",
+    "https://openalex.org/W599924931",
+    "https://openalex.org/W4230170016",
+    "https://openalex.org/W1933253302",
+    "https://openalex.org/W3047426988",
+    "https://openalex.org/W3161811089",
+    "https://openalex.org/W2948005359",
+    "https://openalex.org/W3011336068",
+    "https://openalex.org/W2889158814",
+    "https://openalex.org/W2014283146",
+    "https://openalex.org/W2943883979",
+    "https://openalex.org/W2907739488",
+    "https://openalex.org/W2040698846",
+    "https://openalex.org/W2041867097",
+    "https://openalex.org/W2938469578",
+    "https://openalex.org/W2945737364",
+    "https://openalex.org/W2126559182",
+    "https://openalex.org/W1996359411",
+    "https://openalex.org/W2009754219",
+    "https://openalex.org/W3081652958",
+    "https://openalex.org/W4255404013",
+    "https://openalex.org/W2466441187",
+    "https://openalex.org/W1490090992",
+    "https://openalex.org/W2084015864",
+    "https://openalex.org/W2141399214",
+    "https://openalex.org/W2160715461",
+    "https://openalex.org/W2627091584",
+    "https://openalex.org/W2900296039",
+    "https://openalex.org/W2333138385",
+    "https://openalex.org/W2922233808",
+    "https://openalex.org/W2804538951",
+    "https://openalex.org/W2130365727",
+    "https://openalex.org/W2058382819",
+    "https://openalex.org/W2996533081",
+    "https://openalex.org/W3094606682",
+    "https://openalex.org/W2004325966",
+    "https://openalex.org/W2737475578",
+    "https://openalex.org/W2776498383",
+    "https://openalex.org/W2803375604",
+    "https://openalex.org/W2989573077",
+    "https://openalex.org/W3127057661",
+    "https://openalex.org/W2294258977",
+    "https://openalex.org/W1595896561",
+    "https://openalex.org/W3046215316",
+    "https://openalex.org/W2587165905",
+    "https://openalex.org/W2740555849",
+    "https://openalex.org/W2560438049",
+    "https://openalex.org/W2142450587",
+    "https://openalex.org/W2810557417",
+    "https://openalex.org/W2778057031",
+    "https://openalex.org/W2169365000",
+    "https://openalex.org/W1717461208",
+    "https://openalex.org/W1533249100",
+    "https://openalex.org/W2896439085",
+    "https://openalex.org/W2994336206",
+    "https://openalex.org/W2059669144",
+    "https://openalex.org/W2619944231",
+    "https://openalex.org/W4252507649",
+    "https://openalex.org/W3182841691",
+    "https://openalex.org/W2626853004",
+    "https://openalex.org/W1988879642",
+    "https://openalex.org/W2058067519",
+    "https://openalex.org/W2778411113",
+    "https://openalex.org/W2019215487",
+    "https://openalex.org/W2168371210",
+    "https://openalex.org/W2997302041",
+    "https://openalex.org/W2479475584",
+    "https://openalex.org/W2950691636",
+    "https://openalex.org/W3013483884",
+    "https://openalex.org/W2608321586",
+    "https://openalex.org/W2804805227",
+    "https://openalex.org/W2583750346",
+    "https://openalex.org/W2789372982",
+    "https://openalex.org/W2791311645",
+    "https://openalex.org/W3015953406",
+    "https://openalex.org/W2145289962",
+    "https://openalex.org/W2033060544",
+    "https://openalex.org/W2034306945",
+    "https://openalex.org/W2944024354",
+    "https://openalex.org/W2536212761",
+    "https://openalex.org/W2282348866",
+    "https://openalex.org/W2116034505",
+    "https://openalex.org/W2285464023",
+    "https://openalex.org/W2191057119",
+    "https://openalex.org/W2092270990",
+    "https://openalex.org/W2981273063",
+    "https://openalex.org/W2050275790",
+    "https://openalex.org/W1985990063",
+    "https://openalex.org/W2461413300",
+    "https://openalex.org/W3013766815",
+    "https://openalex.org/W3155297647",
+    "https://openalex.org/W2803680442",
+    "https://openalex.org/W2896427661",
+    "https://openalex.org/W2617357874",
+    "https://openalex.org/W2913225416",
+    "https://openalex.org/W2777912962",
+    "https://openalex.org/W2899618186",
+    "https://openalex.org/W2022764020",
+    "https://openalex.org/W2914028727",
+    "https://openalex.org/W2894180642",
+    "https://openalex.org/W2913616916",
+    "https://openalex.org/W2432701185",
+    "https://openalex.org/W4300811532"
+  ],
+  "related_works": [
+    "https://openalex.org/W4391375266",
+    "https://openalex.org/W2748952813",
+    "https://openalex.org/W2082438799",
+    "https://openalex.org/W1966986837",
+    "https://openalex.org/W2360138227",
+    "https://openalex.org/W4365808155",
+    "https://openalex.org/W1838455177",
+    "https://openalex.org/W1489909378",
+    "https://openalex.org/W2931662336",
+    "https://openalex.org/W2077865380"
+  ],
+  "abstract_inverted_index": null,
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 16
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 19
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 18
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 6
+    },
+    {
+      "year": 2021,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2025-11-06T03:46:38.306776",
+  "created_date": "2021-11-08T00:00:00"
+}

@@ -1,0 +1,1215 @@
+{
+  "id": "https://openalex.org/W3163991033",
+  "doi": "https://doi.org/10.1044/2021_lshss-20-00123",
+  "title": "Orthographic Support for Word Learning in Clinical Populations: A Systematic Review",
+  "display_name": "Orthographic Support for Word Learning in Clinical Populations: A Systematic Review",
+  "publication_year": 2021,
+  "publication_date": "2021-05-24",
+  "ids": {
+    "openalex": "https://openalex.org/W3163991033",
+    "doi": "https://doi.org/10.1044/2021_lshss-20-00123",
+    "mag": "3163991033",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/34029128"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1044/2021_lshss-20-00123",
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.1044/2021_lshss-20-00123",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S62317556",
+      "display_name": "Language Speech and Hearing Services in Schools",
+      "issn_l": "0161-1461",
+      "issn": [
+        "0161-1461",
+        "1558-9129"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320281",
+      "host_organization_name": "American Speech\u2013Language\u2013Hearing Association",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320281"
+      ],
+      "host_organization_lineage_names": [
+        "American Speech\u2013Language\u2013Hearing Association"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Language, Speech, and Hearing Services in Schools",
+    "raw_type": "journal-article"
+  },
+  "type": "review",
+  "indexed_in": [
+    "crossref",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5008982511",
+        "display_name": "Grace T. Clark",
+        "orcid": "https://orcid.org/0000-0002-2427-4781"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I1291425158",
+          "display_name": "Google (United States)",
+          "ror": "https://ror.org/00njsd438",
+          "country_code": "US",
+          "type": "company",
+          "lineage": [
+            "https://openalex.org/I1291425158",
+            "https://openalex.org/I4210128969"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I57206974",
+          "display_name": "New York University",
+          "ror": "https://ror.org/0190ak572",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I57206974"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Grace T. Clark",
+      "raw_affiliation_strings": [
+        "Department of Communicative Sciences and Disorders, New York University, NY",
+        "Google Scholar"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Communicative Sciences and Disorders, New York University, NY",
+          "institution_ids": [
+            "https://openalex.org/I57206974"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Google Scholar",
+          "institution_ids": [
+            "https://openalex.org/I1291425158"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5025343905",
+        "display_name": "Christina Reuterski\u00f6ld",
+        "orcid": "https://orcid.org/0000-0002-0697-9112"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I1291425158",
+          "display_name": "Google (United States)",
+          "ror": "https://ror.org/00njsd438",
+          "country_code": "US",
+          "type": "company",
+          "lineage": [
+            "https://openalex.org/I1291425158",
+            "https://openalex.org/I4210128969"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I57206974",
+          "display_name": "New York University",
+          "ror": "https://ror.org/0190ak572",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I57206974"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Christina Reuterski\u00f6ld",
+      "raw_affiliation_strings": [
+        "Department of Communicative Sciences and Disorders, New York University, NY",
+        "Google Scholar"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Communicative Sciences and Disorders, New York University, NY",
+          "institution_ids": [
+            "https://openalex.org/I57206974"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Google Scholar",
+          "institution_ids": [
+            "https://openalex.org/I1291425158"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 2,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 2.06743501,
+  "has_fulltext": false,
+  "cited_by_count": 11,
+  "citation_normalized_percentile": {
+    "value": 0.84445816,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 89,
+    "max": 98
+  },
+  "biblio": {
+    "volume": "52",
+    "issue": "3",
+    "first_page": "937",
+    "last_page": "948"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10730",
+    "display_name": "Language Development and Disorders",
+    "score": 0.9997000098228455,
+    "subfield": {
+      "id": "https://openalex.org/subfields/3204",
+      "display_name": "Developmental and Educational Psychology"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/32",
+      "display_name": "Psychology"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/2",
+      "display_name": "Social Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10730",
+      "display_name": "Language Development and Disorders",
+      "score": 0.9997000098228455,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3204",
+        "display_name": "Developmental and Educational Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12207",
+      "display_name": "Assistive Technology in Communication and Mobility",
+      "score": 0.9988999962806702,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3609",
+        "display_name": "Occupational Therapy"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/36",
+        "display_name": "Health Professions"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10103",
+      "display_name": "Reading and Literacy Development",
+      "score": 0.9983999729156494,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3204",
+        "display_name": "Developmental and Educational Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/orthography",
+      "display_name": "Orthography",
+      "score": 0.6606007814407349
+    },
+    {
+      "id": "https://openalex.org/keywords/dyslexia",
+      "display_name": "Dyslexia",
+      "score": 0.657800555229187
+    },
+    {
+      "id": "https://openalex.org/keywords/psychology",
+      "display_name": "Psychology",
+      "score": 0.596108078956604
+    },
+    {
+      "id": "https://openalex.org/keywords/autism",
+      "display_name": "Autism",
+      "score": 0.5131500363349915
+    },
+    {
+      "id": "https://openalex.org/keywords/learning-disability",
+      "display_name": "Learning disability",
+      "score": 0.5040215849876404
+    },
+    {
+      "id": "https://openalex.org/keywords/population",
+      "display_name": "Population",
+      "score": 0.47224897146224976
+    },
+    {
+      "id": "https://openalex.org/keywords/cerebral-palsy",
+      "display_name": "Cerebral palsy",
+      "score": 0.4570401608943939
+    },
+    {
+      "id": "https://openalex.org/keywords/audiology",
+      "display_name": "Audiology",
+      "score": 0.3326268494129181
+    },
+    {
+      "id": "https://openalex.org/keywords/medicine",
+      "display_name": "Medicine",
+      "score": 0.27900955080986023
+    },
+    {
+      "id": "https://openalex.org/keywords/developmental-psychology",
+      "display_name": "Developmental psychology",
+      "score": 0.2741725444793701
+    },
+    {
+      "id": "https://openalex.org/keywords/reading",
+      "display_name": "Reading (process)",
+      "score": 0.2592560052871704
+    },
+    {
+      "id": "https://openalex.org/keywords/psychiatry",
+      "display_name": "Psychiatry",
+      "score": 0.13666364550590515
+    },
+    {
+      "id": "https://openalex.org/keywords/linguistics",
+      "display_name": "Linguistics",
+      "score": 0.12947824597358704
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C150670947",
+      "wikidata": "https://www.wikidata.org/wiki/Q43091",
+      "display_name": "Orthography",
+      "level": 3,
+      "score": 0.6606007814407349
+    },
+    {
+      "id": "https://openalex.org/C506058694",
+      "wikidata": "https://www.wikidata.org/wiki/Q132971",
+      "display_name": "Dyslexia",
+      "level": 3,
+      "score": 0.657800555229187
+    },
+    {
+      "id": "https://openalex.org/C15744967",
+      "wikidata": "https://www.wikidata.org/wiki/Q9418",
+      "display_name": "Psychology",
+      "level": 0,
+      "score": 0.596108078956604
+    },
+    {
+      "id": "https://openalex.org/C205778803",
+      "wikidata": "https://www.wikidata.org/wiki/Q38404",
+      "display_name": "Autism",
+      "level": 2,
+      "score": 0.5131500363349915
+    },
+    {
+      "id": "https://openalex.org/C15107229",
+      "wikidata": "https://www.wikidata.org/wiki/Q860740",
+      "display_name": "Learning disability",
+      "level": 2,
+      "score": 0.5040215849876404
+    },
+    {
+      "id": "https://openalex.org/C2908647359",
+      "wikidata": "https://www.wikidata.org/wiki/Q2625603",
+      "display_name": "Population",
+      "level": 2,
+      "score": 0.47224897146224976
+    },
+    {
+      "id": "https://openalex.org/C2779421357",
+      "wikidata": "https://www.wikidata.org/wiki/Q210427",
+      "display_name": "Cerebral palsy",
+      "level": 2,
+      "score": 0.4570401608943939
+    },
+    {
+      "id": "https://openalex.org/C548259974",
+      "wikidata": "https://www.wikidata.org/wiki/Q569965",
+      "display_name": "Audiology",
+      "level": 1,
+      "score": 0.3326268494129181
+    },
+    {
+      "id": "https://openalex.org/C71924100",
+      "wikidata": "https://www.wikidata.org/wiki/Q11190",
+      "display_name": "Medicine",
+      "level": 0,
+      "score": 0.27900955080986023
+    },
+    {
+      "id": "https://openalex.org/C138496976",
+      "wikidata": "https://www.wikidata.org/wiki/Q175002",
+      "display_name": "Developmental psychology",
+      "level": 1,
+      "score": 0.2741725444793701
+    },
+    {
+      "id": "https://openalex.org/C554936623",
+      "wikidata": "https://www.wikidata.org/wiki/Q199657",
+      "display_name": "Reading (process)",
+      "level": 2,
+      "score": 0.2592560052871704
+    },
+    {
+      "id": "https://openalex.org/C118552586",
+      "wikidata": "https://www.wikidata.org/wiki/Q7867",
+      "display_name": "Psychiatry",
+      "level": 1,
+      "score": 0.13666364550590515
+    },
+    {
+      "id": "https://openalex.org/C41895202",
+      "wikidata": "https://www.wikidata.org/wiki/Q8162",
+      "display_name": "Linguistics",
+      "level": 1,
+      "score": 0.12947824597358704
+    },
+    {
+      "id": "https://openalex.org/C99454951",
+      "wikidata": "https://www.wikidata.org/wiki/Q932068",
+      "display_name": "Environmental health",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C138885662",
+      "wikidata": "https://www.wikidata.org/wiki/Q5891",
+      "display_name": "Philosophy",
+      "level": 0,
+      "score": 0.0
+    }
+  ],
+  "mesh": [
+    {
+      "descriptor_ui": "D000293",
+      "descriptor_name": "Adolescent",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000067877",
+      "descriptor_name": "Autism Spectrum Disorder",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D002648",
+      "descriptor_name": "Child",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D004410",
+      "descriptor_name": "Dyslexia",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D007805",
+      "descriptor_name": "Language Development Disorders",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D014706",
+      "descriptor_name": "Verbal Learning",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000293",
+      "descriptor_name": "Adolescent",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000067877",
+      "descriptor_name": "Autism Spectrum Disorder",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D002648",
+      "descriptor_name": "Child",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D004410",
+      "descriptor_name": "Dyslexia",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D007805",
+      "descriptor_name": "Language Development Disorders",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D014706",
+      "descriptor_name": "Verbal Learning",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000293",
+      "descriptor_name": "Adolescent",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000067877",
+      "descriptor_name": "Autism Spectrum Disorder",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D002648",
+      "descriptor_name": "Child",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D004410",
+      "descriptor_name": "Dyslexia",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D007805",
+      "descriptor_name": "Language Development Disorders",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D014706",
+      "descriptor_name": "Verbal Learning",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    }
+  ],
+  "locations_count": 2,
+  "locations": [
+    {
+      "id": "doi:10.1044/2021_lshss-20-00123",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1044/2021_lshss-20-00123",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S62317556",
+        "display_name": "Language Speech and Hearing Services in Schools",
+        "issn_l": "0161-1461",
+        "issn": [
+          "0161-1461",
+          "1558-9129"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320281",
+        "host_organization_name": "American Speech\u2013Language\u2013Hearing Association",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320281"
+        ],
+        "host_organization_lineage_names": [
+          "American Speech\u2013Language\u2013Hearing Association"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Language, Speech, and Hearing Services in Schools",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:34029128",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/34029128",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Language, speech, and hearing services in schools",
+      "raw_type": null
+    }
+  ],
+  "best_oa_location": null,
+  "sustainable_development_goals": [
+    {
+      "score": 0.8600000143051147,
+      "display_name": "Quality Education",
+      "id": "https://metadata.un.org/sdg/4"
+    }
+  ],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "grobid_xml": false,
+    "pdf": false
+  },
+  "referenced_works_count": 51,
+  "referenced_works": [
+    "https://openalex.org/W2979713338",
+    "https://openalex.org/W2604729491",
+    "https://openalex.org/W2010682833",
+    "https://openalex.org/W2025245790",
+    "https://openalex.org/W6981797671",
+    "https://openalex.org/W2839057249",
+    "https://openalex.org/W2125110655",
+    "https://openalex.org/W2166735162",
+    "https://openalex.org/W1992447072",
+    "https://openalex.org/W2006692166",
+    "https://openalex.org/W2599350544",
+    "https://openalex.org/W6633099597",
+    "https://openalex.org/W2568927769",
+    "https://openalex.org/W1963996086",
+    "https://openalex.org/W2979573943",
+    "https://openalex.org/W2144265848",
+    "https://openalex.org/W1995646019",
+    "https://openalex.org/W3125728454",
+    "https://openalex.org/W2906497004",
+    "https://openalex.org/W138391603",
+    "https://openalex.org/W2094644322",
+    "https://openalex.org/W2094776303",
+    "https://openalex.org/W2037494732",
+    "https://openalex.org/W2137070227",
+    "https://openalex.org/W2164777277",
+    "https://openalex.org/W2910312475",
+    "https://openalex.org/W2062061528",
+    "https://openalex.org/W2032667276",
+    "https://openalex.org/W1846915127",
+    "https://openalex.org/W2175753296",
+    "https://openalex.org/W2111990326",
+    "https://openalex.org/W4294215472",
+    "https://openalex.org/W2094297166",
+    "https://openalex.org/W2081019208",
+    "https://openalex.org/W4205353517",
+    "https://openalex.org/W2012820235",
+    "https://openalex.org/W2139511700",
+    "https://openalex.org/W2130823700",
+    "https://openalex.org/W2094295000",
+    "https://openalex.org/W2065031273",
+    "https://openalex.org/W2127213605",
+    "https://openalex.org/W2117164351",
+    "https://openalex.org/W1564188094",
+    "https://openalex.org/W1909988460",
+    "https://openalex.org/W2068382797",
+    "https://openalex.org/W2903101439",
+    "https://openalex.org/W2063546277",
+    "https://openalex.org/W1550079975",
+    "https://openalex.org/W2156098321",
+    "https://openalex.org/W2790783572",
+    "https://openalex.org/W2493819445"
+  ],
+  "related_works": [
+    "https://openalex.org/W2349956239",
+    "https://openalex.org/W2522162613",
+    "https://openalex.org/W2393217036",
+    "https://openalex.org/W4206957170",
+    "https://openalex.org/W2184509518",
+    "https://openalex.org/W2080283158",
+    "https://openalex.org/W3029497955",
+    "https://openalex.org/W2033550741",
+    "https://openalex.org/W2105550552",
+    "https://openalex.org/W768615581"
+  ],
+  "abstract_inverted_index": {
+    "Purpose": [
+      0
+    ],
+    "A": [
+      1
+    ],
+    "systematic": [
+      2
+    ],
+    "review": [
+      3,
+      112,
+      181
+    ],
+    "was": [
+      4,
+      105
+    ],
+    "performed": [
+      5,
+      106
+    ],
+    "to": [
+      6,
+      10,
+      16
+    ],
+    "determine": [
+      7
+    ],
+    "the": [
+      8,
+      24,
+      102,
+      157,
+      163,
+      169,
+      183
+    ],
+    "extent": [
+      9
+    ],
+    "which": [
+      11
+    ],
+    "orthographic": [
+      12,
+      121
+    ],
+    "facilitation,": [
+      13
+    ],
+    "a": [
+      14,
+      70,
+      143
+    ],
+    "strategy": [
+      15
+    ],
+    "improve": [
+      17,
+      174
+    ],
+    "word": [
+      18,
+      85,
+      118,
+      146,
+      175
+    ],
+    "learning,": [
+      19
+    ],
+    "has": [
+      20
+    ],
+    "been": [
+      21
+    ],
+    "demonstrated": [
+      22
+    ],
+    "in": [
+      23,
+      148,
+      156,
+      168,
+      188
+    ],
+    "literature": [
+      25
+    ],
+    "for": [
+      26,
+      58,
+      95,
+      107,
+      123,
+      145,
+      185
+    ],
+    "children": [
+      27,
+      124,
+      132
+    ],
+    "and": [
+      28,
+      50,
+      83,
+      88,
+      137,
+      178
+    ],
+    "adolescents": [
+      29
+    ],
+    "from": [
+      30,
+      69,
+      125
+    ],
+    "clinical": [
+      31,
+      71,
+      127,
+      193
+    ],
+    "categories": [
+      32
+    ],
+    "such": [
+      33
+    ],
+    "as": [
+      34
+    ],
+    "developmental": [
+      35
+    ],
+    "language": [
+      36
+    ],
+    "disorders": [
+      37,
+      41
+    ],
+    "(DLD),": [
+      38
+    ],
+    "autism": [
+      39
+    ],
+    "spectrum": [
+      40
+    ],
+    "(ASD),": [
+      42
+    ],
+    "Down": [
+      43,
+      78,
+      135
+    ],
+    "syndrome,": [
+      44,
+      79,
+      136
+    ],
+    "dyslexia,": [
+      45,
+      75
+    ],
+    "hearing": [
+      46,
+      80
+    ],
+    "impairment,": [
+      47,
+      81
+    ],
+    "intellectual": [
+      48
+    ],
+    "disability,": [
+      49
+    ],
+    "cerebral": [
+      51,
+      76
+    ],
+    "palsy.": [
+      52
+    ],
+    "Method": [
+      53
+    ],
+    "Five": [
+      54
+    ],
+    "databases": [
+      55
+    ],
+    "were": [
+      56,
+      93,
+      154
+    ],
+    "searched": [
+      57
+    ],
+    "all": [
+      59
+    ],
+    "studies": [
+      60,
+      66,
+      92,
+      115
+    ],
+    "published": [
+      61
+    ],
+    "through": [
+      62
+    ],
+    "December": [
+      63
+    ],
+    "2019.": [
+      64
+    ],
+    "Eligible": [
+      65
+    ],
+    "included": [
+      67
+    ],
+    "participants": [
+      68
+    ],
+    "population": [
+      72
+    ],
+    "(DLD,": [
+      73
+    ],
+    "ASD,": [
+      74
+    ],
+    "palsy,": [
+      77
+    ],
+    "etc.)": [
+      82
+    ],
+    "compared": [
+      84
+    ],
+    "learning": [
+      86,
+      119,
+      147,
+      176
+    ],
+    "with": [
+      87,
+      120,
+      133
+    ],
+    "without": [
+      89
+    ],
+    "orthography.": [
+      90,
+      160
+    ],
+    "Selected": [
+      91
+    ],
+    "extracted": [
+      94
+    ],
+    "pertinent": [
+      96
+    ],
+    "information.": [
+      97
+    ],
+    "In": [
+      98
+    ],
+    "addition,": [
+      99
+    ],
+    "assessment": [
+      100
+    ],
+    "of": [
+      101,
+      159,
+      171
+    ],
+    "methodological": [
+      103
+    ],
+    "rigor": [
+      104
+    ],
+    "each": [
+      108
+    ],
+    "study.": [
+      109
+    ],
+    "Results": [
+      110
+    ],
+    "The": [
+      111,
+      180
+    ],
+    "yielded": [
+      113
+    ],
+    "five": [
+      114
+    ],
+    "that": [
+      116
+    ],
+    "targeted": [
+      117
+    ],
+    "facilitation": [
+      122
+    ],
+    "various": [
+      126
+    ],
+    "populations": [
+      128,
+      141
+    ],
+    "including": [
+      129
+    ],
+    "DLD,": [
+      130
+    ],
+    "verbal": [
+      131
+    ],
+    "autism,": [
+      134
+    ],
+    "dyslexia.": [
+      138
+    ],
+    "All": [
+      139
+    ],
+    "studied": [
+      140,
+      164
+    ],
+    "showed": [
+      142
+    ],
+    "benefit": [
+      144
+    ],
+    "picture": [
+      149
+    ],
+    "naming": [
+      150
+    ],
+    "posttests": [
+      151
+    ],
+    "when": [
+      152
+    ],
+    "words": [
+      153,
+      167
+    ],
+    "trained": [
+      155
+    ],
+    "presence": [
+      158,
+      170
+    ],
+    "Conclusions": [
+      161
+    ],
+    "For": [
+      162
+    ],
+    "populations,": [
+      165
+    ],
+    "training": [
+      166
+    ],
+    "orthography": [
+      172
+    ],
+    "will": [
+      173
+    ],
+    "accuracy": [
+      177
+    ],
+    "retention.": [
+      179
+    ],
+    "highlights": [
+      182
+    ],
+    "need": [
+      184
+    ],
+    "more": [
+      186
+    ],
+    "research": [
+      187
+    ],
+    "this": [
+      189
+    ],
+    "area": [
+      190
+    ],
+    "across": [
+      191
+    ],
+    "other": [
+      192
+    ],
+    "populations.": [
+      194
+    ],
+    "Supplemental": [
+      195
+    ],
+    "Material": [
+      196
+    ],
+    "https://doi.org/10.23641/asha.14632791": [
+      197
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 4
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 4
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2025-11-06T03:46:38.306776",
+  "created_date": "2025-10-10T00:00:00"
+}

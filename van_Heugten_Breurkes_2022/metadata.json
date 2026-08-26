@@ -1,0 +1,12 @@
+{
+  "key": "van_Heugten_Breurkes_2022",
+  "publication": {
+    "doi": "10.1145/3530019.3530028",
+    "eligibility_criteria": "the focus of the the paper is not primarily on automated\nsoftware testing\n\u2022 topic is teaching-specific\n\u2022 not software testing, e.g., system, hardware, deployment\nconfiguration\n\u2022 manual testing\n\u2022 model checking and symbolic execution\n\u2022 optimisation or prioritisation (of testing execution)\n\u2022 in-line code assertions instead of test cases\n\u2022 test data generation (test case generation and assertion generation were included)\n\u2022 experience report with no qualitative or quantitative analysis\n\u2022 not software (e.g., testing in a manufacturing context)\n\u2022 not reporting results properly (i.e. not following commonly\naccepted guidelines [42])\n\u2022 behind a paywall (typically other than ACM, IEEE, Springer,\nElsevier, Wiley)\n\u2022 not written in English\nselecting papers from the\nMS pool that met any of the following inclusion criteria:\n\u2022 papers that mine data from existing software repositories to\nunderstand practices used\n\u2022 surveys, interviews and focus groups used to understand\nindustry practices\n\u2022 empirical studies with industrial applications\n\u2022 techniques proposed or discussed by industry\n\u2022 academic case studies or experiments in which industry\nrepresentatives participated"
+  },
+  "data": {
+    "doi": "10.5281/zenodo.6400077",
+    "n_records": 1415,
+    "n_records_included": 48
+  }
+}

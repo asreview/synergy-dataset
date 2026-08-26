@@ -1,0 +1,1050 @@
+{
+  "id": "https://openalex.org/W3206088473",
+  "doi": "https://doi.org/10.3102/00346543211051423",
+  "title": "Understanding the Dynamics of Dosage Response: A Nonlinear Meta-Analysis of Recent Reading Interventions",
+  "display_name": "Understanding the Dynamics of Dosage Response: A Nonlinear Meta-Analysis of Recent Reading Interventions",
+  "publication_year": 2021,
+  "publication_date": "2021-10-20",
+  "ids": {
+    "openalex": "https://openalex.org/W3206088473",
+    "doi": "https://doi.org/10.3102/00346543211051423",
+    "mag": "3206088473"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.3102/00346543211051423",
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.3102/00346543211051423",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S92895470",
+      "display_name": "Review of Educational Research",
+      "issn_l": "0034-6543",
+      "issn": [
+        "0034-6543",
+        "1935-1046"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320017",
+      "host_organization_name": "SAGE Publishing",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320017"
+      ],
+      "host_organization_lineage_names": [
+        "SAGE Publishing"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Review of Educational Research",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5071645029",
+        "display_name": "Garrett J. Roberts",
+        "orcid": "https://orcid.org/0000-0003-1128-5577"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Garrett J. Roberts",
+      "raw_affiliation_strings": [],
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5067599679",
+        "display_name": "Denis Dumas",
+        "orcid": "https://orcid.org/0000-0002-8446-4720"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I131651094",
+          "display_name": "University of Denver",
+          "ror": "https://ror.org/04w7skc03",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I131651094"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Denis G. Dumas",
+      "raw_affiliation_strings": [
+        "University of Denver"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "University of Denver",
+          "institution_ids": [
+            "https://openalex.org/I131651094"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5057205670",
+        "display_name": "Daniel McNeish",
+        "orcid": "https://orcid.org/0000-0003-1643-9408"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I55732556",
+          "display_name": "Arizona State University",
+          "ror": "https://ror.org/03efmqc40",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I55732556"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Daniel McNeish",
+      "raw_affiliation_strings": [
+        "Arizona State University"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Arizona State University",
+          "institution_ids": [
+            "https://openalex.org/I55732556"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5008041816",
+        "display_name": "Brooke Cot\u00e9",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I131651094",
+          "display_name": "University of Denver",
+          "ror": "https://ror.org/04w7skc03",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I131651094"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Brooke Cot\u00e9",
+      "raw_affiliation_strings": [
+        "University of Denver"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "University of Denver",
+          "institution_ids": [
+            "https://openalex.org/I131651094"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 4,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 7.08834861,
+  "has_fulltext": false,
+  "cited_by_count": 36,
+  "citation_normalized_percentile": {
+    "value": 0.9701593,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 89,
+    "max": 99
+  },
+  "biblio": {
+    "volume": "92",
+    "issue": "2",
+    "first_page": "209",
+    "last_page": "248"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10103",
+    "display_name": "Reading and Literacy Development",
+    "score": 0.9991999864578247,
+    "subfield": {
+      "id": "https://openalex.org/subfields/3204",
+      "display_name": "Developmental and Educational Psychology"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/32",
+      "display_name": "Psychology"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/2",
+      "display_name": "Social Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10103",
+      "display_name": "Reading and Literacy Development",
+      "score": 0.9991999864578247,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3204",
+        "display_name": "Developmental and Educational Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11345",
+      "display_name": "Cognitive and developmental aspects of mathematical skills",
+      "score": 0.9937999844551086,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2613",
+        "display_name": "Statistics and Probability"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/26",
+        "display_name": "Mathematics"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11676",
+      "display_name": "Parental Involvement in Education",
+      "score": 0.9800000190734863,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3304",
+        "display_name": "Education"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/moderation",
+      "display_name": "Moderation",
+      "score": 0.7293053865432739
+    },
+    {
+      "id": "https://openalex.org/keywords/reading",
+      "display_name": "Reading (process)",
+      "score": 0.7012978792190552
+    },
+    {
+      "id": "https://openalex.org/keywords/meta-analysis",
+      "display_name": "Meta-analysis",
+      "score": 0.6907057762145996
+    },
+    {
+      "id": "https://openalex.org/keywords/fluency",
+      "display_name": "Fluency",
+      "score": 0.6547614932060242
+    },
+    {
+      "id": "https://openalex.org/keywords/psychological-intervention",
+      "display_name": "Psychological intervention",
+      "score": 0.6423652172088623
+    },
+    {
+      "id": "https://openalex.org/keywords/psychology",
+      "display_name": "Psychology",
+      "score": 0.5251550078392029
+    },
+    {
+      "id": "https://openalex.org/keywords/intervention",
+      "display_name": "Intervention (counseling)",
+      "score": 0.5017485618591309
+    },
+    {
+      "id": "https://openalex.org/keywords/nonlinear-system",
+      "display_name": "Nonlinear system",
+      "score": 0.4287514090538025
+    },
+    {
+      "id": "https://openalex.org/keywords/mathematics",
+      "display_name": "Mathematics",
+      "score": 0.39735525846481323
+    },
+    {
+      "id": "https://openalex.org/keywords/statistics",
+      "display_name": "Statistics",
+      "score": 0.3387334942817688
+    },
+    {
+      "id": "https://openalex.org/keywords/mathematics-education",
+      "display_name": "Mathematics education",
+      "score": 0.26665574312210083
+    },
+    {
+      "id": "https://openalex.org/keywords/medicine",
+      "display_name": "Medicine",
+      "score": 0.25791728496551514
+    },
+    {
+      "id": "https://openalex.org/keywords/physics",
+      "display_name": "Physics",
+      "score": 0.11188071966171265
+    },
+    {
+      "id": "https://openalex.org/keywords/internal-medicine",
+      "display_name": "Internal medicine",
+      "score": 0.0927661657333374
+    },
+    {
+      "id": "https://openalex.org/keywords/linguistics",
+      "display_name": "Linguistics",
+      "score": 0.07457777857780457
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C93225998",
+      "wikidata": "https://www.wikidata.org/wiki/Q1941972",
+      "display_name": "Moderation",
+      "level": 2,
+      "score": 0.7293053865432739
+    },
+    {
+      "id": "https://openalex.org/C554936623",
+      "wikidata": "https://www.wikidata.org/wiki/Q199657",
+      "display_name": "Reading (process)",
+      "level": 2,
+      "score": 0.7012978792190552
+    },
+    {
+      "id": "https://openalex.org/C95190672",
+      "wikidata": "https://www.wikidata.org/wiki/Q815382",
+      "display_name": "Meta-analysis",
+      "level": 2,
+      "score": 0.6907057762145996
+    },
+    {
+      "id": "https://openalex.org/C2777413886",
+      "wikidata": "https://www.wikidata.org/wiki/Q3276013",
+      "display_name": "Fluency",
+      "level": 2,
+      "score": 0.6547614932060242
+    },
+    {
+      "id": "https://openalex.org/C27415008",
+      "wikidata": "https://www.wikidata.org/wiki/Q7256382",
+      "display_name": "Psychological intervention",
+      "level": 2,
+      "score": 0.6423652172088623
+    },
+    {
+      "id": "https://openalex.org/C15744967",
+      "wikidata": "https://www.wikidata.org/wiki/Q9418",
+      "display_name": "Psychology",
+      "level": 0,
+      "score": 0.5251550078392029
+    },
+    {
+      "id": "https://openalex.org/C2780665704",
+      "wikidata": "https://www.wikidata.org/wiki/Q959298",
+      "display_name": "Intervention (counseling)",
+      "level": 2,
+      "score": 0.5017485618591309
+    },
+    {
+      "id": "https://openalex.org/C158622935",
+      "wikidata": "https://www.wikidata.org/wiki/Q660848",
+      "display_name": "Nonlinear system",
+      "level": 2,
+      "score": 0.4287514090538025
+    },
+    {
+      "id": "https://openalex.org/C33923547",
+      "wikidata": "https://www.wikidata.org/wiki/Q395",
+      "display_name": "Mathematics",
+      "level": 0,
+      "score": 0.39735525846481323
+    },
+    {
+      "id": "https://openalex.org/C105795698",
+      "wikidata": "https://www.wikidata.org/wiki/Q12483",
+      "display_name": "Statistics",
+      "level": 1,
+      "score": 0.3387334942817688
+    },
+    {
+      "id": "https://openalex.org/C145420912",
+      "wikidata": "https://www.wikidata.org/wiki/Q853077",
+      "display_name": "Mathematics education",
+      "level": 1,
+      "score": 0.26665574312210083
+    },
+    {
+      "id": "https://openalex.org/C71924100",
+      "wikidata": "https://www.wikidata.org/wiki/Q11190",
+      "display_name": "Medicine",
+      "level": 0,
+      "score": 0.25791728496551514
+    },
+    {
+      "id": "https://openalex.org/C121332964",
+      "wikidata": "https://www.wikidata.org/wiki/Q413",
+      "display_name": "Physics",
+      "level": 0,
+      "score": 0.11188071966171265
+    },
+    {
+      "id": "https://openalex.org/C126322002",
+      "wikidata": "https://www.wikidata.org/wiki/Q11180",
+      "display_name": "Internal medicine",
+      "level": 1,
+      "score": 0.0927661657333374
+    },
+    {
+      "id": "https://openalex.org/C41895202",
+      "wikidata": "https://www.wikidata.org/wiki/Q8162",
+      "display_name": "Linguistics",
+      "level": 1,
+      "score": 0.07457777857780457
+    },
+    {
+      "id": "https://openalex.org/C62520636",
+      "wikidata": "https://www.wikidata.org/wiki/Q944",
+      "display_name": "Quantum mechanics",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C118552586",
+      "wikidata": "https://www.wikidata.org/wiki/Q7867",
+      "display_name": "Psychiatry",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C138885662",
+      "wikidata": "https://www.wikidata.org/wiki/Q5891",
+      "display_name": "Philosophy",
+      "level": 0,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "id": "doi:10.3102/00346543211051423",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.3102/00346543211051423",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S92895470",
+        "display_name": "Review of Educational Research",
+        "issn_l": "0034-6543",
+        "issn": [
+          "0034-6543",
+          "1935-1046"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320017",
+        "host_organization_name": "SAGE Publishing",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320017"
+        ],
+        "host_organization_lineage_names": [
+          "SAGE Publishing"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Review of Educational Research",
+      "raw_type": "journal-article"
+    }
+  ],
+  "best_oa_location": null,
+  "sustainable_development_goals": [
+    {
+      "score": 0.9100000262260437,
+      "display_name": "Quality Education",
+      "id": "https://metadata.un.org/sdg/4"
+    }
+  ],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "pdf": false,
+    "grobid_xml": false
+  },
+  "referenced_works_count": 112,
+  "referenced_works": [
+    "https://openalex.org/W2036892708",
+    "https://openalex.org/W2107775470",
+    "https://openalex.org/W2050794997",
+    "https://openalex.org/W3003387127",
+    "https://openalex.org/W2026383775",
+    "https://openalex.org/W2705454723",
+    "https://openalex.org/W2157115452",
+    "https://openalex.org/W2055583849",
+    "https://openalex.org/W2889652050",
+    "https://openalex.org/W2167080982",
+    "https://openalex.org/W1978936370",
+    "https://openalex.org/W2145103121",
+    "https://openalex.org/W33173607",
+    "https://openalex.org/W120102951",
+    "https://openalex.org/W2909063456",
+    "https://openalex.org/W2049992937",
+    "https://openalex.org/W2044483548",
+    "https://openalex.org/W1982287434",
+    "https://openalex.org/W1988088553",
+    "https://openalex.org/W2058904148",
+    "https://openalex.org/W2057038838",
+    "https://openalex.org/W2168844319",
+    "https://openalex.org/W2747641420",
+    "https://openalex.org/W2902976024",
+    "https://openalex.org/W2017307913",
+    "https://openalex.org/W2133526395",
+    "https://openalex.org/W1971210374",
+    "https://openalex.org/W13790127",
+    "https://openalex.org/W3049684987",
+    "https://openalex.org/W4322697680",
+    "https://openalex.org/W2567289819",
+    "https://openalex.org/W2143451584",
+    "https://openalex.org/W1971070365",
+    "https://openalex.org/W2139646957",
+    "https://openalex.org/W2162190419",
+    "https://openalex.org/W2899209092",
+    "https://openalex.org/W2277546323",
+    "https://openalex.org/W2152322382",
+    "https://openalex.org/W2007495824",
+    "https://openalex.org/W2144295003",
+    "https://openalex.org/W2108926053",
+    "https://openalex.org/W2124608756",
+    "https://openalex.org/W2769932433",
+    "https://openalex.org/W2950341718",
+    "https://openalex.org/W2167934668",
+    "https://openalex.org/W2078865702",
+    "https://openalex.org/W2160506388",
+    "https://openalex.org/W1995147152",
+    "https://openalex.org/W3018610472",
+    "https://openalex.org/W2133558401",
+    "https://openalex.org/W1986554548",
+    "https://openalex.org/W2097969677",
+    "https://openalex.org/W2576440140",
+    "https://openalex.org/W2087458578",
+    "https://openalex.org/W2115208512",
+    "https://openalex.org/W2069102324",
+    "https://openalex.org/W2775743897",
+    "https://openalex.org/W2060764443",
+    "https://openalex.org/W1966280192",
+    "https://openalex.org/W2547673049",
+    "https://openalex.org/W2115680130",
+    "https://openalex.org/W2154973070",
+    "https://openalex.org/W2593266874",
+    "https://openalex.org/W2601011042",
+    "https://openalex.org/W2059705794",
+    "https://openalex.org/W1483137237",
+    "https://openalex.org/W2122977598",
+    "https://openalex.org/W2026738852",
+    "https://openalex.org/W2069217297",
+    "https://openalex.org/W2790946420",
+    "https://openalex.org/W2954041481",
+    "https://openalex.org/W2988436676",
+    "https://openalex.org/W2164207710",
+    "https://openalex.org/W2140545426",
+    "https://openalex.org/W2408830572",
+    "https://openalex.org/W2026763889",
+    "https://openalex.org/W2143360537",
+    "https://openalex.org/W2151729293",
+    "https://openalex.org/W2018985252",
+    "https://openalex.org/W2023456978",
+    "https://openalex.org/W85832130",
+    "https://openalex.org/W2755813992",
+    "https://openalex.org/W2774881836",
+    "https://openalex.org/W2003760300",
+    "https://openalex.org/W2111096567",
+    "https://openalex.org/W2032608535",
+    "https://openalex.org/W2029065086",
+    "https://openalex.org/W2132407537",
+    "https://openalex.org/W2066241698",
+    "https://openalex.org/W1964477715",
+    "https://openalex.org/W2046557344",
+    "https://openalex.org/W2003101522",
+    "https://openalex.org/W2084894448",
+    "https://openalex.org/W2068382797",
+    "https://openalex.org/W2076197890",
+    "https://openalex.org/W2084260842",
+    "https://openalex.org/W2130154003",
+    "https://openalex.org/W2138389016",
+    "https://openalex.org/W1941516561",
+    "https://openalex.org/W2175604664",
+    "https://openalex.org/W1503898738",
+    "https://openalex.org/W2804447009",
+    "https://openalex.org/W142473226",
+    "https://openalex.org/W1987535130",
+    "https://openalex.org/W851417428",
+    "https://openalex.org/W2141168217",
+    "https://openalex.org/W1966326891",
+    "https://openalex.org/W2789453089",
+    "https://openalex.org/W2775638190",
+    "https://openalex.org/W2061805286",
+    "https://openalex.org/W1600868926",
+    "https://openalex.org/W2474356815"
+  ],
+  "related_works": [
+    "https://openalex.org/W2365169615",
+    "https://openalex.org/W2740268725",
+    "https://openalex.org/W3093710306",
+    "https://openalex.org/W750217911",
+    "https://openalex.org/W1970538215",
+    "https://openalex.org/W4206949499",
+    "https://openalex.org/W2296969234",
+    "https://openalex.org/W2400151637",
+    "https://openalex.org/W2975827637",
+    "https://openalex.org/W4226254121"
+  ],
+  "abstract_inverted_index": {
+    "Researchers": [
+      0
+    ],
+    "have": [
+      1
+    ],
+    "noted": [
+      2
+    ],
+    "a": [
+      3,
+      31,
+      35,
+      67,
+      127
+    ],
+    "nonlinear": [
+      4,
+      32
+    ],
+    "association": [
+      5
+    ],
+    "between": [
+      6
+    ],
+    "reading": [
+      7,
+      15,
+      22,
+      48
+    ],
+    "instruction": [
+      8,
+      82
+    ],
+    "dosage": [
+      9,
+      46,
+      74,
+      123
+    ],
+    "(i.e.,": [
+      10
+    ],
+    "hours": [
+      11,
+      80,
+      144
+    ],
+    "of": [
+      12,
+      47,
+      81,
+      145
+    ],
+    "instruction)": [
+      13
+    ],
+    "and": [
+      14,
+      44,
+      150
+    ],
+    "outcomes": [
+      16,
+      102
+    ],
+    "for": [
+      17,
+      50,
+      148
+    ],
+    "Grade": [
+      18
+    ],
+    "K\u20133": [
+      19,
+      51
+    ],
+    "students": [
+      20,
+      118
+    ],
+    "with": [
+      21
+    ],
+    "difficulties": [
+      23
+    ],
+    "(K\u20133": [
+      24
+    ],
+    "SWRD).": [
+      25
+    ],
+    "In": [
+      26
+    ],
+    "this": [
+      27
+    ],
+    "article,": [
+      28
+    ],
+    "we": [
+      29
+    ],
+    "propose": [
+      30
+    ],
+    "meta-analysis": [
+      33
+    ],
+    "as": [
+      34
+    ],
+    "method": [
+      36
+    ],
+    "to": [
+      37
+    ],
+    "identify": [
+      38
+    ],
+    "both": [
+      39
+    ],
+    "the": [
+      40,
+      63,
+      89,
+      111,
+      122,
+      132,
+      137
+    ],
+    "maximum": [
+      41,
+      97,
+      113
+    ],
+    "effect": [
+      42,
+      59,
+      64,
+      114,
+      138
+    ],
+    "size": [
+      43
+    ],
+    "optimal": [
+      45
+    ],
+    "interventions": [
+      49
+    ],
+    "SWRD": [
+      52
+    ],
+    "using": [
+      53
+    ],
+    "26": [
+      54
+    ],
+    "peer-reviewed": [
+      55
+    ],
+    "studies": [
+      56
+    ],
+    "including": [
+      57
+    ],
+    "186": [
+      58
+    ],
+    "sizes.": [
+      60
+    ],
+    "Results": [
+      61
+    ],
+    "suggested": [
+      62
+    ],
+    "sizes": [
+      65
+    ],
+    "followed": [
+      66
+    ],
+    "concave": [
+      68,
+      133
+    ],
+    "parabolic": [
+      69,
+      134
+    ],
+    "shape,": [
+      70,
+      135
+    ],
+    "such": [
+      71
+    ],
+    "that": [
+      72,
+      96
+    ],
+    "increasing": [
+      73
+    ],
+    "improved": [
+      75
+    ],
+    "intervention": [
+      76,
+      90,
+      98
+    ],
+    "effects": [
+      77,
+      91,
+      99
+    ],
+    "until": [
+      78
+    ],
+    "39.92": [
+      79
+    ],
+    "(d": [
+      83,
+      106
+    ],
+    "max": [
+      84,
+      107
+    ],
+    "=": [
+      85,
+      108
+    ],
+    "0.77),": [
+      86
+    ],
+    "after": [
+      87,
+      141
+    ],
+    "which": [
+      88
+    ],
+    "declined.": [
+      92
+    ],
+    "Moderator": [
+      93
+    ],
+    "analyses": [
+      94
+    ],
+    "found": [
+      95
+    ],
+    "on": [
+      100
+    ],
+    "fluency": [
+      101
+    ],
+    "were": [
+      103
+    ],
+    "significantly": [
+      104
+    ],
+    "larger": [
+      105
+    ],
+    "1.34)": [
+      109
+    ],
+    "than": [
+      110,
+      131
+    ],
+    "overall": [
+      112
+    ],
+    "size.": [
+      115
+    ],
+    "Also,": [
+      116
+    ],
+    "when": [
+      117
+    ],
+    "received": [
+      119
+    ],
+    "1:1": [
+      120
+    ],
+    "instruction,": [
+      121
+    ],
+    "response": [
+      124
+    ],
+    "curve": [
+      125
+    ],
+    "displayed": [
+      126
+    ],
+    "different": [
+      128
+    ],
+    "functional": [
+      129
+    ],
+    "form": [
+      130
+    ],
+    "showing": [
+      136
+    ],
+    "increased": [
+      139
+    ],
+    "indefinitely": [
+      140
+    ],
+    "approximately": [
+      142
+    ],
+    "16.8": [
+      143
+    ],
+    "instruction.": [
+      146
+    ],
+    "Implications": [
+      147
+    ],
+    "research": [
+      149
+    ],
+    "practice": [
+      151
+    ],
+    "are": [
+      152
+    ],
+    "discussed.": [
+      153
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 12
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 14
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 9
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2025-11-06T03:46:38.306776",
+  "created_date": "2025-10-10T00:00:00"
+}

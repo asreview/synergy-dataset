@@ -1,0 +1,12 @@
+{
+  "key": "Webers_2022",
+  "publication": {
+    "doi": "10.1136/ard-2022-223298",
+    "eligibility_criteria": "Eligible study designs included randomised controlled trials (RCTs), strategy trials and observational studies (the latter only for safety and extra-musculoskeletal manifestations). All relevant efficacy/safety outcomes were included."
+  },
+  "data": {
+    "doi": "10.17605/OSF.IO/T8KNJ",
+    "n_records": 15474,
+    "n_records_included": 129
+  }
+}

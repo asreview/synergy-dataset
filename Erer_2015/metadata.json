@@ -1,0 +1,12 @@
+{
+  "key": "Erer_2015",
+  "publication": {
+    "doi": "10.1007/s00296-015-3413-z",
+    "eligibility_criteria": " (i) FMF patients of any age; (ii) measured CRP, ESR, or SAA; (iii) included amyloidosis as the outcome variable; and (iv) were longitudinal observational or diagnostic studies."
+  },
+  "data": {
+    "doi": "10.17605/OSF.IO/T8KNJ",
+    "n_records": 1249,
+    "n_records_included": 2
+  }
+}

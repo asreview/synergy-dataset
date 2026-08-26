@@ -1,0 +1,903 @@
+{
+  "id": "https://openalex.org/W4390774377",
+  "doi": "https://doi.org/10.1038/s44185-023-00034-2",
+  "title": "Farming practices to enhance biodiversity across biomes: a systematic review",
+  "display_name": "Farming practices to enhance biodiversity across biomes: a systematic review",
+  "publication_year": 2024,
+  "publication_date": "2024-01-09",
+  "ids": {
+    "openalex": "https://openalex.org/W4390774377",
+    "doi": "https://doi.org/10.1038/s44185-023-00034-2",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/39242701"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1038/s44185-023-00034-2",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1038/s44185-023-00034-2",
+    "pdf_url": "https://www.nature.com/articles/s44185-023-00034-2.pdf",
+    "source": {
+      "id": "https://openalex.org/S4387284748",
+      "display_name": "npj Biodiversity",
+      "issn_l": "2731-4243",
+      "issn": [
+        "2731-4243"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": null,
+      "host_organization_name": null,
+      "host_organization_lineage": [],
+      "host_organization_lineage_names": [],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "npj Biodiversity",
+    "raw_type": "journal-article"
+  },
+  "type": "review",
+  "indexed_in": [
+    "crossref",
+    "doaj",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "diamond",
+    "oa_url": "https://www.nature.com/articles/s44185-023-00034-2.pdf",
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5093707944",
+        "display_name": "Felipe Cozim-Melges",
+        "orcid": "https://orcid.org/0000-0003-0833-8973"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I913481162",
+          "display_name": "Wageningen University & Research",
+          "ror": "https://ror.org/04qw24q55",
+          "country_code": "NL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I913481162"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Felipe Cozim-Melges",
+      "raw_affiliation_strings": [
+        "Farming Systems Ecology Group, Wageningen University & Research, Wageningen, the Netherlands"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Farming Systems Ecology Group, Wageningen University & Research, Wageningen, the Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I913481162"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5026178167",
+        "display_name": "R. Ripoll\u2010Bosch",
+        "orcid": "https://orcid.org/0000-0002-1234-7015"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I913481162",
+          "display_name": "Wageningen University & Research",
+          "ror": "https://ror.org/04qw24q55",
+          "country_code": "NL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I913481162"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Raimon Ripoll-Bosch",
+      "raw_affiliation_strings": [
+        "Animal Production Systems Group, Wageningen University & Research, Wageningen, the Netherlands"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Animal Production Systems Group, Wageningen University & Research, Wageningen, the Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I913481162"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5057945100",
+        "display_name": "G. F. Veen",
+        "orcid": "https://orcid.org/0000-0001-7736-9998"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210107786",
+          "display_name": "Netherlands Institute of Ecology",
+          "ror": "https://ror.org/01g25jp36",
+          "country_code": "NL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I1322597698",
+            "https://openalex.org/I4210107786"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "G. F. Veen",
+      "raw_affiliation_strings": [
+        "Netherlands Institute of Ecology (NIOO-KNAW), Wageningen Gelderland, Wageningen, Netherlands."
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Netherlands Institute of Ecology (NIOO-KNAW), Wageningen Gelderland, Wageningen, Netherlands.",
+          "institution_ids": [
+            "https://openalex.org/I4210107786"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5058003905",
+        "display_name": "Philipp Oggiano",
+        "orcid": "https://orcid.org/0000-0001-8501-808X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210142250",
+          "display_name": "Forschungsinstitut f\u00fcr Biologischen Landbau",
+          "ror": "https://ror.org/039t93g49",
+          "country_code": "CH",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I4210142250"
+          ]
+        }
+      ],
+      "countries": [
+        "CH"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Philipp Oggiano",
+      "raw_affiliation_strings": [
+        "Department of Food System Sciences, Research Institute of Organic Agriculture FiBL, Frick, Switzerland"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Food System Sciences, Research Institute of Organic Agriculture FiBL, Frick, Switzerland",
+          "institution_ids": [
+            "https://openalex.org/I4210142250"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5082244139",
+        "display_name": "Felix J.J.A. Bianchi",
+        "orcid": "https://orcid.org/0000-0001-5947-9405"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I913481162",
+          "display_name": "Wageningen University & Research",
+          "ror": "https://ror.org/04qw24q55",
+          "country_code": "NL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I913481162"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Felix J. J. A. Bianchi",
+      "raw_affiliation_strings": [
+        "Farming Systems Ecology Group, Wageningen University & Research, Wageningen, the Netherlands"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Farming Systems Ecology Group, Wageningen University & Research, Wageningen, the Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I913481162"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5040240993",
+        "display_name": "Wim H. van der Putten",
+        "orcid": "https://orcid.org/0000-0002-9341-4442"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210107786",
+          "display_name": "Netherlands Institute of Ecology",
+          "ror": "https://ror.org/01g25jp36",
+          "country_code": "NL",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I1322597698",
+            "https://openalex.org/I4210107786"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Wim H. van der Putten",
+      "raw_affiliation_strings": [
+        "Netherlands Institute of Ecology (NIOO-KNAW), Wageningen Gelderland, Wageningen, Netherlands"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Netherlands Institute of Ecology (NIOO-KNAW), Wageningen Gelderland, Wageningen, Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I4210107786"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5054910409",
+        "display_name": "H.H.E. van Zanten",
+        "orcid": "https://orcid.org/0000-0002-5262-5518"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I1287097855",
+          "display_name": "Atkins (United States)",
+          "ror": "https://ror.org/05df6vn84",
+          "country_code": "US",
+          "type": "company",
+          "lineage": [
+            "https://openalex.org/I1287097855",
+            "https://openalex.org/I4210094877"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I1319597252",
+          "display_name": "Center for Global Development",
+          "ror": "https://ror.org/0068yvd12",
+          "country_code": "US",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I1319597252"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I205783295",
+          "display_name": "Cornell University",
+          "ror": "https://ror.org/05bnh6r87",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I205783295"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Hannah H. E. van Zanten",
+      "raw_affiliation_strings": [
+        "Department of Global Development, College of Agriculture and Life Sciences, and Cornell Atkinson Center for Sustainability, Cornell University, Ithaca, NY, USA"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Global Development, College of Agriculture and Life Sciences, and Cornell Atkinson Center for Sustainability, Cornell University, Ithaca, NY, USA",
+          "institution_ids": [
+            "https://openalex.org/I1287097855",
+            "https://openalex.org/I1319597252",
+            "https://openalex.org/I205783295"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 3,
+  "institutions_distinct_count": 7,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5093707944"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I913481162"
+  ],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 219.80094617,
+  "has_fulltext": true,
+  "cited_by_count": 72,
+  "citation_normalized_percentile": {
+    "value": 0.99991622,
+    "is_in_top_1_percent": true,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 99,
+    "max": 100
+  },
+  "biblio": {
+    "volume": "3",
+    "issue": "1",
+    "first_page": "1",
+    "last_page": "1"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10367",
+    "display_name": "Agricultural Innovations and Practices",
+    "score": 0.9620000123977661,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1100",
+      "display_name": "General Agricultural and Biological Sciences"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/11",
+      "display_name": "Agricultural and Biological Sciences"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/1",
+      "display_name": "Life Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10367",
+      "display_name": "Agricultural Innovations and Practices",
+      "score": 0.9620000123977661,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1100",
+        "display_name": "General Agricultural and Biological Sciences"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/11",
+        "display_name": "Agricultural and Biological Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11066",
+      "display_name": "Organic Food and Agriculture",
+      "score": 0.9573000073432922,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1110",
+        "display_name": "Plant Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/11",
+        "display_name": "Agricultural and Biological Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11259",
+      "display_name": "Agriculture Sustainability and Environmental Impact",
+      "score": 0.9341999888420105,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2303",
+        "display_name": "Ecology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/biome",
+      "display_name": "Biome",
+      "score": 0.9137399792671204
+    },
+    {
+      "id": "https://openalex.org/keywords/biodiversity",
+      "display_name": "Biodiversity",
+      "score": 0.8293864727020264
+    },
+    {
+      "id": "https://openalex.org/keywords/agriculture",
+      "display_name": "Agriculture",
+      "score": 0.5237025022506714
+    },
+    {
+      "id": "https://openalex.org/keywords/agroforestry",
+      "display_name": "Agroforestry",
+      "score": 0.4871237277984619
+    },
+    {
+      "id": "https://openalex.org/keywords/environmental-resource-management",
+      "display_name": "Environmental resource management",
+      "score": 0.46128764748573303
+    },
+    {
+      "id": "https://openalex.org/keywords/geography",
+      "display_name": "Geography",
+      "score": 0.4329599142074585
+    },
+    {
+      "id": "https://openalex.org/keywords/environmental-science",
+      "display_name": "Environmental science",
+      "score": 0.33427101373672485
+    },
+    {
+      "id": "https://openalex.org/keywords/ecology",
+      "display_name": "Ecology",
+      "score": 0.2952452003955841
+    },
+    {
+      "id": "https://openalex.org/keywords/ecosystem",
+      "display_name": "Ecosystem",
+      "score": 0.25921958684921265
+    },
+    {
+      "id": "https://openalex.org/keywords/biology",
+      "display_name": "Biology",
+      "score": 0.14480188488960266
+    },
+    {
+      "id": "https://openalex.org/keywords/archaeology",
+      "display_name": "Archaeology",
+      "score": 0.055203378200531006
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C89920630",
+      "wikidata": "https://www.wikidata.org/wiki/Q101998",
+      "display_name": "Biome",
+      "level": 3,
+      "score": 0.9137399792671204
+    },
+    {
+      "id": "https://openalex.org/C130217890",
+      "wikidata": "https://www.wikidata.org/wiki/Q47041",
+      "display_name": "Biodiversity",
+      "level": 2,
+      "score": 0.8293864727020264
+    },
+    {
+      "id": "https://openalex.org/C118518473",
+      "wikidata": "https://www.wikidata.org/wiki/Q11451",
+      "display_name": "Agriculture",
+      "level": 2,
+      "score": 0.5237025022506714
+    },
+    {
+      "id": "https://openalex.org/C54286561",
+      "wikidata": "https://www.wikidata.org/wiki/Q397350",
+      "display_name": "Agroforestry",
+      "level": 1,
+      "score": 0.4871237277984619
+    },
+    {
+      "id": "https://openalex.org/C107826830",
+      "wikidata": "https://www.wikidata.org/wiki/Q929380",
+      "display_name": "Environmental resource management",
+      "level": 1,
+      "score": 0.46128764748573303
+    },
+    {
+      "id": "https://openalex.org/C205649164",
+      "wikidata": "https://www.wikidata.org/wiki/Q1071",
+      "display_name": "Geography",
+      "level": 0,
+      "score": 0.4329599142074585
+    },
+    {
+      "id": "https://openalex.org/C39432304",
+      "wikidata": "https://www.wikidata.org/wiki/Q188847",
+      "display_name": "Environmental science",
+      "level": 0,
+      "score": 0.33427101373672485
+    },
+    {
+      "id": "https://openalex.org/C18903297",
+      "wikidata": "https://www.wikidata.org/wiki/Q7150",
+      "display_name": "Ecology",
+      "level": 1,
+      "score": 0.2952452003955841
+    },
+    {
+      "id": "https://openalex.org/C110872660",
+      "wikidata": "https://www.wikidata.org/wiki/Q37813",
+      "display_name": "Ecosystem",
+      "level": 2,
+      "score": 0.25921958684921265
+    },
+    {
+      "id": "https://openalex.org/C86803240",
+      "wikidata": "https://www.wikidata.org/wiki/Q420",
+      "display_name": "Biology",
+      "level": 0,
+      "score": 0.14480188488960266
+    },
+    {
+      "id": "https://openalex.org/C166957645",
+      "wikidata": "https://www.wikidata.org/wiki/Q23498",
+      "display_name": "Archaeology",
+      "level": 1,
+      "score": 0.055203378200531006
+    }
+  ],
+  "mesh": [],
+  "locations_count": 7,
+  "locations": [
+    {
+      "id": "doi:10.1038/s44185-023-00034-2",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1038/s44185-023-00034-2",
+      "pdf_url": "https://www.nature.com/articles/s44185-023-00034-2.pdf",
+      "source": {
+        "id": "https://openalex.org/S4387284748",
+        "display_name": "npj Biodiversity",
+        "issn_l": "2731-4243",
+        "issn": [
+          "2731-4243"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "npj Biodiversity",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:39242701",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/39242701",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "npj biodiversity",
+      "raw_type": null
+    },
+    {
+      "id": "pmh:oai:doaj.org/article:7bf05a61cd094e6f823c05db077b2cb1",
+      "is_oa": false,
+      "landing_page_url": "https://doaj.org/article/7bf05a61cd094e6f823c05db077b2cb1",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401280",
+        "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "npj Biodiversity, Vol 3, Iss 1, Pp 1-11 (2024)",
+      "raw_type": "article"
+    },
+    {
+      "id": "pmh:oai:library.wur.nl:wurpubs/625014",
+      "is_oa": true,
+      "landing_page_url": "https://research.wur.nl/en/publications/farming-practices-to-enhance-biodiversity-across-biomes-a-systema",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306400096",
+        "display_name": "Wageningen University and Researchcenter Publications (Wageningen University & Research)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I913481162",
+        "host_organization_name": "Wageningen University & Research",
+        "host_organization_lineage": [
+          "https://openalex.org/I913481162"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "npj Biodiversity 3 (2024) 1",
+      "raw_type": "Article/Letter to editor"
+    },
+    {
+      "id": "pmh:oai:pubmedcentral.nih.gov:11332212",
+      "is_oa": true,
+      "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/11332212",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S2764455111",
+        "display_name": "PubMed Central",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "other-oa",
+      "license_id": "https://openalex.org/licenses/other-oa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "NPJ Biodivers",
+      "raw_type": "Text"
+    },
+    {
+      "id": "pmh:oai:pure.knaw.nl:openaire_cris_publications/dc816ba4-aa18-4c36-95f4-d209fcfa352e",
+      "is_oa": true,
+      "landing_page_url": "https://pure.knaw.nl/portal/en/publications/dc816ba4-aa18-4c36-95f4-d209fcfa352e",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306400439",
+        "display_name": "KNAW Research Portal (The Royal Netherlands Academy of Arts and Sciences)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1322597698",
+        "host_organization_name": "Royal Netherlands Academy of Arts and Sciences",
+        "host_organization_lineage": [
+          "https://openalex.org/I1322597698"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "other-oa",
+      "license_id": "https://openalex.org/licenses/other-oa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Cozim-Melges , F , Ripoll-Bosch , R , Veen , G F , Oggiano , P , Bianchi , F J J A , van der Putten , W H & van Zanten , H H E 2024 , ' Farming practices to enhance biodiversity across biomes: a systematic review ' , npj Biodiversity , vol. 3 , no. 1 . https://doi.org/10.1038/s44185-023-00034-2",
+      "raw_type": "article"
+    },
+    {
+      "id": "pmh:oai:pure.knaw.nl:publications/dc816ba4-aa18-4c36-95f4-d209fcfa352e",
+      "is_oa": true,
+      "landing_page_url": "https://hdl.handle.net/20.500.11755/dc816ba4-aa18-4c36-95f4-d209fcfa352e",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306400439",
+        "display_name": "KNAW Research Portal (The Royal Netherlands Academy of Arts and Sciences)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1322597698",
+        "host_organization_name": "Royal Netherlands Academy of Arts and Sciences",
+        "host_organization_lineage": [
+          "https://openalex.org/I1322597698"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Cozim-Melges , F , Ripoll-Bosch , R , Veen , G F , Oggiano , P , Bianchi , F J J A , van der Putten , W H & van Zanten , H H E 2024 , ' Farming practices to enhance biodiversity across biomes: a systematic review ' , npj Biodiversity , vol. 3 , no. 1 . https://doi.org/10.1038/s44185-023-00034-2",
+      "raw_type": "article"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1038/s44185-023-00034-2",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1038/s44185-023-00034-2",
+    "pdf_url": "https://www.nature.com/articles/s44185-023-00034-2.pdf",
+    "source": {
+      "id": "https://openalex.org/S4387284748",
+      "display_name": "npj Biodiversity",
+      "issn_l": "2731-4243",
+      "issn": [
+        "2731-4243"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": null,
+      "host_organization_name": null,
+      "host_organization_lineage": [],
+      "host_organization_lineage_names": [],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "npj Biodiversity",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [
+    {
+      "display_name": "Zero hunger",
+      "score": 0.7699999809265137,
+      "id": "https://metadata.un.org/sdg/2"
+    }
+  ],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "pdf": true,
+    "grobid_xml": true
+  },
+  "referenced_works_count": 56,
+  "referenced_works": [
+    "https://openalex.org/W2762931876",
+    "https://openalex.org/W2510388658",
+    "https://openalex.org/W2012829248",
+    "https://openalex.org/W3084261954",
+    "https://openalex.org/W2132879315",
+    "https://openalex.org/W2101780439",
+    "https://openalex.org/W2115388598",
+    "https://openalex.org/W2151300021",
+    "https://openalex.org/W2776610808",
+    "https://openalex.org/W2320914646",
+    "https://openalex.org/W3191003887",
+    "https://openalex.org/W3047805004",
+    "https://openalex.org/W2271174547",
+    "https://openalex.org/W3005048517",
+    "https://openalex.org/W4207056699",
+    "https://openalex.org/W3095634839",
+    "https://openalex.org/W3035187818",
+    "https://openalex.org/W4220687516",
+    "https://openalex.org/W2061862812",
+    "https://openalex.org/W2180213416",
+    "https://openalex.org/W2080072521",
+    "https://openalex.org/W2098287950",
+    "https://openalex.org/W3008800269",
+    "https://openalex.org/W63878338",
+    "https://openalex.org/W2112151272",
+    "https://openalex.org/W2130811469",
+    "https://openalex.org/W1980716532",
+    "https://openalex.org/W2611958349",
+    "https://openalex.org/W2005137447",
+    "https://openalex.org/W1977468405",
+    "https://openalex.org/W2167094923",
+    "https://openalex.org/W4297918764",
+    "https://openalex.org/W3758453",
+    "https://openalex.org/W2791681873",
+    "https://openalex.org/W2990648940",
+    "https://openalex.org/W2577605647",
+    "https://openalex.org/W2809648736",
+    "https://openalex.org/W4283259303",
+    "https://openalex.org/W2916675178",
+    "https://openalex.org/W2064610079",
+    "https://openalex.org/W2056263250",
+    "https://openalex.org/W2156480673",
+    "https://openalex.org/W2118554039",
+    "https://openalex.org/W1896270614",
+    "https://openalex.org/W2108146616",
+    "https://openalex.org/W1981210993",
+    "https://openalex.org/W3015067955",
+    "https://openalex.org/W2735305615",
+    "https://openalex.org/W1649215506",
+    "https://openalex.org/W2153820558",
+    "https://openalex.org/W2035711518",
+    "https://openalex.org/W1980525736",
+    "https://openalex.org/W2272473773",
+    "https://openalex.org/W2192621359",
+    "https://openalex.org/W2474890195",
+    "https://openalex.org/W1589205017"
+  ],
+  "related_works": [
+    "https://openalex.org/W2586774764",
+    "https://openalex.org/W2740743208",
+    "https://openalex.org/W4310016817",
+    "https://openalex.org/W3152287990",
+    "https://openalex.org/W3185490584",
+    "https://openalex.org/W2207589372",
+    "https://openalex.org/W4390599260",
+    "https://openalex.org/W4319790062",
+    "https://openalex.org/W44083323",
+    "https://openalex.org/W4394110022"
+  ],
+  "abstract_inverted_index": null,
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 48
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 24
+    }
+  ],
+  "updated_date": "2025-11-06T03:46:38.306776",
+  "created_date": "2025-10-10T00:00:00"
+}

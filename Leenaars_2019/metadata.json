@@ -1,0 +1,12 @@
+{
+  "key": "Leenaars_2019",
+  "publication": {
+    "doi": "10.5334/jcr.183",
+    "eligibility_criteria": "For our mapping review, we excluded (1) studies on other techniques than microdialysis (e.g. biosensors and microdialysis precursors such as push-pull perfusion), (2) studies measuring other substances than Hist and the amino acids Asn, Asp, GABA, Glu, Gln, Gly, Pro and Tau, (3) retro-dialysis studies, (4)- microdialysis studies that did not report baseline values without the specified molecules in the perfusion fluid,  (5) extra-cerebral microdialysis studies, (6) human and in vitro studies, and (7) papers not containing primary study data. Within publications, experiments using techniques other than microdialysis were also ignored (e.g. in [22]), as well as data on amino acids other than those we searched for (e.g. in [23]). Tagged studies were subsequently screened for inclusion in this review based on the following criterion (besides being included in our mapping): studies measuring one or more of the molecules of interest during (1) naturally occurring sleep stages that were validated with polysomnographic measurements and/or (2) during sleep deprivation.\nTo ensure capturing all relevant studies, we searched for studies with the terms \u201c*sleep*\u201d, \u201c*REM*\u201d, \u201c*rest*\u201d, \u201c*fatig*\u201d, and \u201c*somn*\u201d in the title within the studies included in our mapping review."
+  },
+  "data": {
+    "doi": "10.17605/OSF.IO/PH56S",
+    "n_records": 5873,
+    "n_records_included": 17
+  }
+}

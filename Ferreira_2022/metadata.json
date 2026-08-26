@@ -1,0 +1,12 @@
+{
+  "key": "Ferreira_2022",
+  "publication": {
+    "doi": "10.1017/s0007114522003506",
+    "eligibility_criteria": "Animal model of interest. Study designs to be included.\nAll experimental studies with a control group, randomized or non-randomized, will be included. Case reports, reviews, dissertations, theses, letters, and editorials will be excluded, as well as, in vitro, in silico, ex vivo, and before-after studies without a control group.\nStudies with experimental animal models of class Mammalia (mammals), order Rodentia (rodents) comprising healthy individuals of both sexes subjected to Se supplementation will be included. Studies with animal models of other designations and/or with induced diseases or clinical conditions of any nature will be excluded, and so will be non-experimental models (wild or pet animals), pregnant, weaned, and pubescent animal models.\n\nIntervention of interest.\nAll forms of supplemented Se will be considered, including organic, inorganic, and synthetic compounds, selenium-enriched yeasts, zerovalent Se nanoparticles (SeNPs), and selenized polysaccharides (SPs). All supplementation dosages and administration routes will be considered, including gavage, intraperitoneal, orogastric or oral, simulating the natural route of the diet. Rodents subjected to Se supplementation combined with other micronutrients (vitamins or minerals) will be excluded.\n\nComparison of interest.\nExperimental animal models of class Mammalia, order Rodentia comprising healthy animals of both sexes that have been exposed to basal or standard laboratory diets without supplementation of selenium for weight maintenance will be considered a control.\n\nOutcome measures.\nThe fasting plasma glucose (FPG) concentration will be considered the primary outcome. Secondary outcomes include other glycemic markers and Se biomarkers (Table 2). All markers unrelated to Se status and glycemic control will be excluded."
+  },
+  "data": {
+    "doi": "10.5281/zenodo.6363743",
+    "n_records": 866,
+    "n_records_included": 13
+  }
+}

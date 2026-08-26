@@ -1,0 +1,12 @@
+{
+  "key": "Zakeri-Nasrabadi_2023a",
+  "publication": {
+    "doi": "10.1145/3596908",
+    "eligibility_criteria": "\u2022 EC1: Duplicated resources: Some articles were indexed by more than one digital library. We kept one copy of each duplicated paper.\n\u2022 EC2: Non-English resources: We removed manuscripts written in languages other than English. We observed that none of them provided a new public dataset, including code smell.\n\u2022 EC3: Non-primary studies: All secondary and tertiary studies were removed. We discussed them as related work to our SLR in Section 2.\n\u2022 EC4: Full-text availability: Articles whose full-text was not available or less than two pages were removed.\n\u2022 EC5: Irrelevant papers: Articles focused on other software engineering topics rather than code smells. Our search string terms such as \u201ccode smell\u201d and \u201cdataset\u201d only appeared in the related works section of these articles, or each term appeared in a different article section. For instance, the word \u201cdataset\u201d did not point to a code smells dataset in the paper."
+  },
+  "data": {
+    "doi": "10.5281/zenodo.7533578",
+    "n_records": 2202,
+    "n_records_included": 42
+  }
+}

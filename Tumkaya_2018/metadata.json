@@ -1,0 +1,12 @@
+{
+  "key": "Tumkaya_2018",
+  "publication": {
+    "doi": "10.1016/j.neubiorev.2018.07.016",
+    "eligibility_criteria": "The systematic review included studies that met the following seven criteria: (1) report STM performance defined as \u22645\u202fmin memory (Heisenberg, 2003; Yildizoglu et al., 2015); (2) measure STM in adult Drosophila melanogaster; (3) focus on homozygous loss-of-function mutations, including broad RNA interference (RNAi) knockdown mutants; (4) use the T-maze assay; (5) report the full PI score for control and experimental flies; (6) use mutants with intact locomotor activity, olfactory acuity, and brain development processes; (7) the T-maze assay uses electric shock to condition one of two odors, and memory is tested in an odor-choice assay"
+  },
+  "data": {
+    "doi": "10.5281/zenodo.1307117",
+    "n_records": 721,
+    "n_records_included": 52
+  }
+}

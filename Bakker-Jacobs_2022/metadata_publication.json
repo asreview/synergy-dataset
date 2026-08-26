@@ -1,0 +1,685 @@
+{
+  "id": "https://openalex.org/W4206295441",
+  "doi": "https://doi.org/10.29011/2688-9501.101268",
+  "title": "Overview of Wound Care Interventions for Hospital and Community Care Nurses: A Systematic Scoping Review",
+  "display_name": "Overview of Wound Care Interventions for Hospital and Community Care Nurses: A Systematic Scoping Review",
+  "publication_year": 2022,
+  "publication_date": "2022-01-05",
+  "ids": {
+    "openalex": "https://openalex.org/W4206295441",
+    "doi": "https://doi.org/10.29011/2688-9501.101268"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.29011/2688-9501.101268",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.29011/2688-9501.101268",
+    "pdf_url": "https://www.gavinpublishers.com/assets/articles_pdf/1644926902new_article_pdf2079219888.pdf",
+    "source": {
+      "id": "https://openalex.org/S4210210952",
+      "display_name": "International Journal of Nursing and Health Care Research",
+      "issn_l": "2688-9501",
+      "issn": [
+        "2688-9501"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": null,
+      "host_organization_name": null,
+      "host_organization_lineage": [],
+      "host_organization_lineage_names": [],
+      "type": "journal"
+    },
+    "license": "other-oa",
+    "license_id": "https://openalex.org/licenses/other-oa",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "International Journal of Nursing and Health Care Research",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "hybrid",
+    "oa_url": "https://www.gavinpublishers.com/assets/articles_pdf/1644926902new_article_pdf2079219888.pdf",
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5020905950",
+        "display_name": "Annick Bakker\u2010Jacobs",
+        "orcid": "https://orcid.org/0000-0002-7930-3738"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2802934949",
+          "display_name": "Radboud University Medical Center",
+          "ror": "https://ror.org/05wg1m734",
+          "country_code": "NL",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2802934949"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I145872427",
+          "display_name": "Radboud University Nijmegen",
+          "ror": "https://ror.org/016xsfp80",
+          "country_code": "NL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I145872427"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Annick Bakker-Jacobs",
+      "raw_affiliation_strings": [
+        "Radboud University Medical Center, Radboud Institute for Health Sciences, IQ Healthcare, Nijmegen, The Netherlands"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Radboud University Medical Center, Radboud Institute for Health Sciences, IQ Healthcare, Nijmegen, The Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I145872427",
+            "https://openalex.org/I2802934949"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5083989565",
+        "display_name": "Jeltje Giesen",
+        "orcid": "https://orcid.org/0000-0001-6768-0838"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2802934949",
+          "display_name": "Radboud University Medical Center",
+          "ror": "https://ror.org/05wg1m734",
+          "country_code": "NL",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2802934949"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I145872427",
+          "display_name": "Radboud University Nijmegen",
+          "ror": "https://ror.org/016xsfp80",
+          "country_code": "NL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I145872427"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Jeltje Giesen",
+      "raw_affiliation_strings": [
+        "Radboud University Medical Center, Radboud Institute for Health Sciences, IQ Healthcare, Nijmegen, The Netherlands"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Radboud University Medical Center, Radboud Institute for Health Sciences, IQ Healthcare, Nijmegen, The Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I145872427",
+            "https://openalex.org/I2802934949"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5103076289",
+        "display_name": "Hester Vermeulen",
+        "orcid": "https://orcid.org/0000-0003-1905-2890"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I103855431",
+          "display_name": "HAN University of Applied Sciences",
+          "ror": "https://ror.org/0500gea42",
+          "country_code": "NL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I103855431"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I2802934949",
+          "display_name": "Radboud University Medical Center",
+          "ror": "https://ror.org/05wg1m734",
+          "country_code": "NL",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2802934949"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I145872427",
+          "display_name": "Radboud University Nijmegen",
+          "ror": "https://ror.org/016xsfp80",
+          "country_code": "NL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I145872427"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Hester Vermeulen",
+      "raw_affiliation_strings": [
+        "Faculty of Health and Social Studies, HAN University of Applied Sciences, Nijmegen, The Netherlands",
+        "Radboud University Medical Center, Radboud Institute for Health Sciences, IQ Healthcare, Nijmegen, The Netherlands"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Faculty of Health and Social Studies, HAN University of Applied Sciences, Nijmegen, The Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I103855431"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Radboud University Medical Center, Radboud Institute for Health Sciences, IQ Healthcare, Nijmegen, The Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I145872427",
+            "https://openalex.org/I2802934949"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5057416155",
+        "display_name": "Anneke van Vught",
+        "orcid": "https://orcid.org/0000-0002-4266-744X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I103855431",
+          "display_name": "HAN University of Applied Sciences",
+          "ror": "https://ror.org/0500gea42",
+          "country_code": "NL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I103855431"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Anneke Van Vught",
+      "raw_affiliation_strings": [
+        "Faculty of Health and Social Studies, HAN University of Applied Sciences, Nijmegen, The Netherlands"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Faculty of Health and Social Studies, HAN University of Applied Sciences, Nijmegen, The Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I103855431"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5077203094",
+        "display_name": "Getty Huisman\u2010de Waal",
+        "orcid": "https://orcid.org/0000-0003-2811-4176"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2802934949",
+          "display_name": "Radboud University Medical Center",
+          "ror": "https://ror.org/05wg1m734",
+          "country_code": "NL",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2802934949"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I145872427",
+          "display_name": "Radboud University Nijmegen",
+          "ror": "https://ror.org/016xsfp80",
+          "country_code": "NL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I145872427"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Getty Huisman-De Waal",
+      "raw_affiliation_strings": [
+        "Department of surgery, Radboud University Medical Center, Nijmegen, The Netherlands",
+        "Radboud University Medical Center, Radboud Institute for Health Sciences, IQ Healthcare, Nijmegen, The Netherlands"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Radboud University Medical Center, Radboud Institute for Health Sciences, IQ Healthcare, Nijmegen, The Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I145872427",
+            "https://openalex.org/I2802934949"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of surgery, Radboud University Medical Center, Nijmegen, The Netherlands",
+          "institution_ids": []
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 5,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 0.60010664,
+  "has_fulltext": true,
+  "cited_by_count": 1,
+  "citation_normalized_percentile": {
+    "value": 0.55811728,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 89,
+    "max": 94
+  },
+  "biblio": {
+    "volume": "5",
+    "issue": "1",
+    "first_page": null,
+    "last_page": null
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T11670",
+    "display_name": "Pressure Ulcer Prevention and Management",
+    "score": 0.9995999932289124,
+    "subfield": {
+      "id": "https://openalex.org/subfields/3609",
+      "display_name": "Occupational Therapy"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/36",
+      "display_name": "Health Professions"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/4",
+      "display_name": "Health Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T11670",
+      "display_name": "Pressure Ulcer Prevention and Management",
+      "score": 0.9995999932289124,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3609",
+        "display_name": "Occupational Therapy"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/36",
+        "display_name": "Health Professions"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10771",
+      "display_name": "Wound Healing and Treatments",
+      "score": 0.9957000017166138,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2742",
+        "display_name": "Rehabilitation"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11227",
+      "display_name": "Diabetic Foot Ulcer Assessment and Management",
+      "score": 0.9908999800682068,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2712",
+        "display_name": "Endocrinology, Diabetes and Metabolism"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/psychological-intervention",
+      "display_name": "Psychological intervention",
+      "score": 0.6989614963531494
+    },
+    {
+      "id": "https://openalex.org/keywords/wound-care",
+      "display_name": "Wound care",
+      "score": 0.6841636896133423
+    },
+    {
+      "id": "https://openalex.org/keywords/nursing",
+      "display_name": "Nursing",
+      "score": 0.5426386594772339
+    },
+    {
+      "id": "https://openalex.org/keywords/medicine",
+      "display_name": "Medicine",
+      "score": 0.4600863456726074
+    },
+    {
+      "id": "https://openalex.org/keywords/intensive-care-medicine",
+      "display_name": "Intensive care medicine",
+      "score": 0.21988633275032043
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C27415008",
+      "wikidata": "https://www.wikidata.org/wiki/Q7256382",
+      "display_name": "Psychological intervention",
+      "level": 2,
+      "score": 0.6989614963531494
+    },
+    {
+      "id": "https://openalex.org/C2993807428",
+      "wikidata": "https://www.wikidata.org/wiki/Q25324087",
+      "display_name": "Wound care",
+      "level": 2,
+      "score": 0.6841636896133423
+    },
+    {
+      "id": "https://openalex.org/C159110408",
+      "wikidata": "https://www.wikidata.org/wiki/Q121176",
+      "display_name": "Nursing",
+      "level": 1,
+      "score": 0.5426386594772339
+    },
+    {
+      "id": "https://openalex.org/C71924100",
+      "wikidata": "https://www.wikidata.org/wiki/Q11190",
+      "display_name": "Medicine",
+      "level": 0,
+      "score": 0.4600863456726074
+    },
+    {
+      "id": "https://openalex.org/C177713679",
+      "wikidata": "https://www.wikidata.org/wiki/Q679690",
+      "display_name": "Intensive care medicine",
+      "level": 1,
+      "score": 0.21988633275032043
+    }
+  ],
+  "mesh": [],
+  "locations_count": 3,
+  "locations": [
+    {
+      "id": "doi:10.29011/2688-9501.101268",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.29011/2688-9501.101268",
+      "pdf_url": "https://www.gavinpublishers.com/assets/articles_pdf/1644926902new_article_pdf2079219888.pdf",
+      "source": {
+        "id": "https://openalex.org/S4210210952",
+        "display_name": "International Journal of Nursing and Health Care Research",
+        "issn_l": "2688-9501",
+        "issn": [
+          "2688-9501"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "journal"
+      },
+      "license": "other-oa",
+      "license_id": "https://openalex.org/licenses/other-oa",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "International Journal of Nursing and Health Care Research",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmh:hbo:oai:hbokennisbank.nl:repository_han:oai:repository.han.nl:20.500.12470/2570",
+      "is_oa": false,
+      "landing_page_url": "http://hdl.handle.net/20.500.12470/2570",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401843",
+        "display_name": "Data Archiving and Networked Services (DANS)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1322597698",
+        "host_organization_name": "Royal Netherlands Academy of Arts and Sciences",
+        "host_organization_lineage": [
+          "https://openalex.org/I1322597698"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "International Journal of Nursing and Health Care Research, 5, 1 - 17",
+      "raw_type": "info:eu-repo/semantics/article"
+    },
+    {
+      "id": "pmh:oai:repository.ubn.ru.nl:2066/287770",
+      "is_oa": false,
+      "landing_page_url": "https://repository.ubn.ru.nl/handle/2066/287770",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401067",
+        "display_name": "Radboud Repository (Radboud University)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I145872427",
+        "host_organization_name": "Radboud University Nijmegen",
+        "host_organization_lineage": [
+          "https://openalex.org/I145872427"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "",
+      "raw_type": "Article / Letter to editor"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.29011/2688-9501.101268",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.29011/2688-9501.101268",
+    "pdf_url": "https://www.gavinpublishers.com/assets/articles_pdf/1644926902new_article_pdf2079219888.pdf",
+    "source": {
+      "id": "https://openalex.org/S4210210952",
+      "display_name": "International Journal of Nursing and Health Care Research",
+      "issn_l": "2688-9501",
+      "issn": [
+        "2688-9501"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": null,
+      "host_organization_name": null,
+      "host_organization_lineage": [],
+      "host_organization_lineage_names": [],
+      "type": "journal"
+    },
+    "license": "other-oa",
+    "license_id": "https://openalex.org/licenses/other-oa",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "International Journal of Nursing and Health Care Research",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "pdf": true,
+    "grobid_xml": true
+  },
+  "referenced_works_count": 44,
+  "referenced_works": [
+    "https://openalex.org/W2186500397",
+    "https://openalex.org/W2120956231",
+    "https://openalex.org/W2148091826",
+    "https://openalex.org/W2793579500",
+    "https://openalex.org/W2776178911",
+    "https://openalex.org/W2758967548",
+    "https://openalex.org/W2330043449",
+    "https://openalex.org/W1880446959",
+    "https://openalex.org/W2132996089",
+    "https://openalex.org/W3123951822",
+    "https://openalex.org/W2791794294",
+    "https://openalex.org/W2461030672",
+    "https://openalex.org/W2176653601",
+    "https://openalex.org/W1557527044",
+    "https://openalex.org/W2901669506",
+    "https://openalex.org/W2061165395",
+    "https://openalex.org/W2282197227",
+    "https://openalex.org/W2105178621",
+    "https://openalex.org/W2059012709",
+    "https://openalex.org/W2099460741",
+    "https://openalex.org/W2991142160",
+    "https://openalex.org/W4244500933",
+    "https://openalex.org/W1994216042",
+    "https://openalex.org/W2060797085",
+    "https://openalex.org/W2821342350",
+    "https://openalex.org/W2745626433",
+    "https://openalex.org/W2781465467",
+    "https://openalex.org/W2792303565",
+    "https://openalex.org/W1973762906",
+    "https://openalex.org/W3139131703",
+    "https://openalex.org/W2098923148",
+    "https://openalex.org/W1978863540",
+    "https://openalex.org/W2497708464",
+    "https://openalex.org/W2521452749",
+    "https://openalex.org/W2022921044",
+    "https://openalex.org/W1927880613",
+    "https://openalex.org/W2775960122",
+    "https://openalex.org/W2891378911",
+    "https://openalex.org/W2325575109",
+    "https://openalex.org/W2956304895",
+    "https://openalex.org/W3087393527",
+    "https://openalex.org/W1973343844",
+    "https://openalex.org/W2607274979",
+    "https://openalex.org/W2041778007"
+  ],
+  "related_works": [
+    "https://openalex.org/W2763046336",
+    "https://openalex.org/W1595478777",
+    "https://openalex.org/W2987934605",
+    "https://openalex.org/W2888525334",
+    "https://openalex.org/W2135478766",
+    "https://openalex.org/W2329631515",
+    "https://openalex.org/W2511641414",
+    "https://openalex.org/W1985999282",
+    "https://openalex.org/W3141874435",
+    "https://openalex.org/W1974870697"
+  ],
+  "abstract_inverted_index": {
+    "Contains": [
+      0
+    ],
+    "fulltext": [
+      1
+    ],
+    ":": [
+      2
+    ],
+    "287770.pdf": [
+      3
+    ],
+    "(Publisher\u2019s": [
+      4
+    ],
+    "version": [
+      5
+    ],
+    ")": [
+      6
+    ],
+    "(Open": [
+      7
+    ],
+    "Access)": [
+      8
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2023,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2025-11-06T03:46:38.306776",
+  "created_date": "2025-10-10T00:00:00"
+}

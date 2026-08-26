@@ -1,0 +1,590 @@
+{
+  "id": "https://openalex.org/W3160045617",
+  "doi": "https://doi.org/10.1016/j.cedpsych.2021.101976",
+  "title": "Self-regulated learning training programs enhance university students\u2019 academic performance, self-regulated learning strategies, and motivation: A meta-analysis",
+  "display_name": "Self-regulated learning training programs enhance university students\u2019 academic performance, self-regulated learning strategies, and motivation: A meta-analysis",
+  "publication_year": 2021,
+  "publication_date": "2021-05-15",
+  "ids": {
+    "openalex": "https://openalex.org/W3160045617",
+    "doi": "https://doi.org/10.1016/j.cedpsych.2021.101976",
+    "mag": "3160045617"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1016/j.cedpsych.2021.101976",
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.1016/j.cedpsych.2021.101976",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S64506217",
+      "display_name": "Contemporary Educational Psychology",
+      "issn_l": "0361-476X",
+      "issn": [
+        "0361-476X",
+        "1090-2384"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320990",
+      "host_organization_name": "Elsevier BV",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320990"
+      ],
+      "host_organization_lineage_names": [
+        "Elsevier BV"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Contemporary Educational Psychology",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5059851712",
+        "display_name": "Maria Theobald",
+        "orcid": "https://orcid.org/0000-0003-0766-1680"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210138519",
+          "display_name": "DIPF | Leibniz Institute for Research and Information in Education",
+          "ror": "https://ror.org/0327sr118",
+          "country_code": "DE",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I315704651",
+            "https://openalex.org/I4210138519"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Maria Theobald",
+      "raw_affiliation_strings": [
+        "DIPF | Leibniz Institute for Research and Information in Education, Frankfurt, Germany"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "DIPF | Leibniz Institute for Research and Information in Education, Frankfurt, Germany",
+          "institution_ids": [
+            "https://openalex.org/I4210138519"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 1,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5059851712"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I4210138519"
+  ],
+  "apc_list": {
+    "value": 4050,
+    "currency": "USD",
+    "value_usd": 4050
+  },
+  "apc_paid": null,
+  "fwci": 66.15792033,
+  "has_fulltext": false,
+  "cited_by_count": 341,
+  "citation_normalized_percentile": {
+    "value": 0.99977563,
+    "is_in_top_1_percent": true,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 89,
+    "max": 100
+  },
+  "biblio": {
+    "volume": "66",
+    "issue": null,
+    "first_page": "101976",
+    "last_page": "101976"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10636",
+    "display_name": "Innovative Teaching and Learning Methods",
+    "score": 0.9987999796867371,
+    "subfield": {
+      "id": "https://openalex.org/subfields/3204",
+      "display_name": "Developmental and Educational Psychology"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/32",
+      "display_name": "Psychology"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/2",
+      "display_name": "Social Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10636",
+      "display_name": "Innovative Teaching and Learning Methods",
+      "score": 0.9987999796867371,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3204",
+        "display_name": "Developmental and Educational Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11122",
+      "display_name": "Online Learning and Analytics",
+      "score": 0.9894000291824341,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1706",
+        "display_name": "Computer Science Applications"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12258",
+      "display_name": "Perfectionism, Procrastination, Anxiety Studies",
+      "score": 0.9873999953269958,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3203",
+        "display_name": "Clinical Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/psychology",
+      "display_name": "Psychology",
+      "score": 0.7830591797828674
+    },
+    {
+      "id": "https://openalex.org/keywords/metacognition",
+      "display_name": "Metacognition",
+      "score": 0.7703115940093994
+    },
+    {
+      "id": "https://openalex.org/keywords/moderation",
+      "display_name": "Moderation",
+      "score": 0.7582192420959473
+    },
+    {
+      "id": "https://openalex.org/keywords/cognition",
+      "display_name": "Cognition",
+      "score": 0.5521506071090698
+    },
+    {
+      "id": "https://openalex.org/keywords/self-regulated-learning",
+      "display_name": "Self-regulated learning",
+      "score": 0.5476915836334229
+    },
+    {
+      "id": "https://openalex.org/keywords/meta-analysis",
+      "display_name": "Meta-analysis",
+      "score": 0.5434823036193848
+    },
+    {
+      "id": "https://openalex.org/keywords/academic-achievement",
+      "display_name": "Academic achievement",
+      "score": 0.49814796447753906
+    },
+    {
+      "id": "https://openalex.org/keywords/differential-effects",
+      "display_name": "Differential effects",
+      "score": 0.424323707818985
+    },
+    {
+      "id": "https://openalex.org/keywords/mathematics-education",
+      "display_name": "Mathematics education",
+      "score": 0.37841445207595825
+    },
+    {
+      "id": "https://openalex.org/keywords/medical-education",
+      "display_name": "Medical education",
+      "score": 0.3479952812194824
+    },
+    {
+      "id": "https://openalex.org/keywords/applied-psychology",
+      "display_name": "Applied psychology",
+      "score": 0.34339916706085205
+    },
+    {
+      "id": "https://openalex.org/keywords/social-psychology",
+      "display_name": "Social psychology",
+      "score": 0.2157445251941681
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C15744967",
+      "wikidata": "https://www.wikidata.org/wiki/Q9418",
+      "display_name": "Psychology",
+      "level": 0,
+      "score": 0.7830591797828674
+    },
+    {
+      "id": "https://openalex.org/C118147538",
+      "wikidata": "https://www.wikidata.org/wiki/Q1126970",
+      "display_name": "Metacognition",
+      "level": 3,
+      "score": 0.7703115940093994
+    },
+    {
+      "id": "https://openalex.org/C93225998",
+      "wikidata": "https://www.wikidata.org/wiki/Q1941972",
+      "display_name": "Moderation",
+      "level": 2,
+      "score": 0.7582192420959473
+    },
+    {
+      "id": "https://openalex.org/C169900460",
+      "wikidata": "https://www.wikidata.org/wiki/Q2200417",
+      "display_name": "Cognition",
+      "level": 2,
+      "score": 0.5521506071090698
+    },
+    {
+      "id": "https://openalex.org/C2776503756",
+      "wikidata": "https://www.wikidata.org/wiki/Q1424497",
+      "display_name": "Self-regulated learning",
+      "level": 2,
+      "score": 0.5476915836334229
+    },
+    {
+      "id": "https://openalex.org/C95190672",
+      "wikidata": "https://www.wikidata.org/wiki/Q815382",
+      "display_name": "Meta-analysis",
+      "level": 2,
+      "score": 0.5434823036193848
+    },
+    {
+      "id": "https://openalex.org/C2781206393",
+      "wikidata": "https://www.wikidata.org/wiki/Q2748419",
+      "display_name": "Academic achievement",
+      "level": 2,
+      "score": 0.49814796447753906
+    },
+    {
+      "id": "https://openalex.org/C3019921246",
+      "wikidata": "https://www.wikidata.org/wiki/Q104853310",
+      "display_name": "Differential effects",
+      "level": 2,
+      "score": 0.424323707818985
+    },
+    {
+      "id": "https://openalex.org/C145420912",
+      "wikidata": "https://www.wikidata.org/wiki/Q853077",
+      "display_name": "Mathematics education",
+      "level": 1,
+      "score": 0.37841445207595825
+    },
+    {
+      "id": "https://openalex.org/C509550671",
+      "wikidata": "https://www.wikidata.org/wiki/Q126945",
+      "display_name": "Medical education",
+      "level": 1,
+      "score": 0.3479952812194824
+    },
+    {
+      "id": "https://openalex.org/C75630572",
+      "wikidata": "https://www.wikidata.org/wiki/Q538904",
+      "display_name": "Applied psychology",
+      "level": 1,
+      "score": 0.34339916706085205
+    },
+    {
+      "id": "https://openalex.org/C77805123",
+      "wikidata": "https://www.wikidata.org/wiki/Q161272",
+      "display_name": "Social psychology",
+      "level": 1,
+      "score": 0.2157445251941681
+    },
+    {
+      "id": "https://openalex.org/C126322002",
+      "wikidata": "https://www.wikidata.org/wiki/Q11180",
+      "display_name": "Internal medicine",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C71924100",
+      "wikidata": "https://www.wikidata.org/wiki/Q11190",
+      "display_name": "Medicine",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C169760540",
+      "wikidata": "https://www.wikidata.org/wiki/Q207011",
+      "display_name": "Neuroscience",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "id": "doi:10.1016/j.cedpsych.2021.101976",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1016/j.cedpsych.2021.101976",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S64506217",
+        "display_name": "Contemporary Educational Psychology",
+        "issn_l": "0361-476X",
+        "issn": [
+          "0361-476X",
+          "1090-2384"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320990",
+        "host_organization_name": "Elsevier BV",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320990"
+        ],
+        "host_organization_lineage_names": [
+          "Elsevier BV"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Contemporary Educational Psychology",
+      "raw_type": "journal-article"
+    }
+  ],
+  "best_oa_location": null,
+  "sustainable_development_goals": [],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "grobid_xml": false,
+    "pdf": false
+  },
+  "referenced_works_count": 128,
+  "referenced_works": [
+    "https://openalex.org/W2033250843",
+    "https://openalex.org/W3092810460",
+    "https://openalex.org/W2062965712",
+    "https://openalex.org/W6633838850",
+    "https://openalex.org/W2097012447",
+    "https://openalex.org/W2479925709",
+    "https://openalex.org/W2974818925",
+    "https://openalex.org/W3038409306",
+    "https://openalex.org/W3026749558",
+    "https://openalex.org/W2157565254",
+    "https://openalex.org/W1997819184",
+    "https://openalex.org/W3164861143",
+    "https://openalex.org/W2580551395",
+    "https://openalex.org/W3028421144",
+    "https://openalex.org/W2046127588",
+    "https://openalex.org/W2095907159",
+    "https://openalex.org/W2607870928",
+    "https://openalex.org/W2795794738",
+    "https://openalex.org/W3082696952",
+    "https://openalex.org/W2037557484",
+    "https://openalex.org/W2129313922",
+    "https://openalex.org/W2171150941",
+    "https://openalex.org/W2054219362",
+    "https://openalex.org/W2096035074",
+    "https://openalex.org/W2791919211",
+    "https://openalex.org/W2503629909",
+    "https://openalex.org/W1977501890",
+    "https://openalex.org/W1957711827",
+    "https://openalex.org/W1828171833",
+    "https://openalex.org/W2165862728",
+    "https://openalex.org/W2003278441",
+    "https://openalex.org/W2410976655",
+    "https://openalex.org/W2531068001",
+    "https://openalex.org/W2126180793",
+    "https://openalex.org/W2033585778",
+    "https://openalex.org/W2018397467",
+    "https://openalex.org/W2093950336",
+    "https://openalex.org/W1992049874",
+    "https://openalex.org/W2010710381",
+    "https://openalex.org/W2790459577",
+    "https://openalex.org/W2790505885",
+    "https://openalex.org/W6784342376",
+    "https://openalex.org/W2097728333",
+    "https://openalex.org/W2560140854",
+    "https://openalex.org/W7071764571",
+    "https://openalex.org/W6678230397",
+    "https://openalex.org/W1998910822",
+    "https://openalex.org/W1608563878",
+    "https://openalex.org/W6768127577",
+    "https://openalex.org/W2024520767",
+    "https://openalex.org/W2766820369",
+    "https://openalex.org/W2020249629",
+    "https://openalex.org/W2072012388",
+    "https://openalex.org/W2602920080",
+    "https://openalex.org/W1965723601",
+    "https://openalex.org/W1991735841",
+    "https://openalex.org/W2033589349",
+    "https://openalex.org/W2132684779",
+    "https://openalex.org/W4294215472",
+    "https://openalex.org/W2070840180",
+    "https://openalex.org/W2099858053",
+    "https://openalex.org/W6735087093",
+    "https://openalex.org/W2745915040",
+    "https://openalex.org/W2278567585",
+    "https://openalex.org/W2052870110",
+    "https://openalex.org/W1998950901",
+    "https://openalex.org/W2169365000",
+    "https://openalex.org/W2119011069",
+    "https://openalex.org/W1986244117",
+    "https://openalex.org/W2729814639",
+    "https://openalex.org/W1998808780",
+    "https://openalex.org/W2085929351",
+    "https://openalex.org/W1966398476",
+    "https://openalex.org/W1968295086",
+    "https://openalex.org/W2065259358",
+    "https://openalex.org/W2014514885",
+    "https://openalex.org/W2006546769",
+    "https://openalex.org/W2914319254",
+    "https://openalex.org/W2023163290",
+    "https://openalex.org/W2600289216",
+    "https://openalex.org/W2020143450",
+    "https://openalex.org/W2995918197",
+    "https://openalex.org/W2168406945",
+    "https://openalex.org/W2139297002",
+    "https://openalex.org/W2164030952",
+    "https://openalex.org/W3097393396",
+    "https://openalex.org/W3126533132",
+    "https://openalex.org/W1972862527",
+    "https://openalex.org/W2019634398",
+    "https://openalex.org/W2086645795",
+    "https://openalex.org/W1991999760",
+    "https://openalex.org/W2163540732",
+    "https://openalex.org/W3033202911",
+    "https://openalex.org/W6695311008",
+    "https://openalex.org/W1870191279",
+    "https://openalex.org/W2130337868",
+    "https://openalex.org/W6638164167",
+    "https://openalex.org/W6773607955",
+    "https://openalex.org/W1965110143",
+    "https://openalex.org/W2146006577",
+    "https://openalex.org/W2064809032",
+    "https://openalex.org/W2117766479",
+    "https://openalex.org/W6712722652",
+    "https://openalex.org/W1999649023",
+    "https://openalex.org/W171375216",
+    "https://openalex.org/W2000329591",
+    "https://openalex.org/W1562208008",
+    "https://openalex.org/W2766207584",
+    "https://openalex.org/W2912712856",
+    "https://openalex.org/W1942315160",
+    "https://openalex.org/W2582743722",
+    "https://openalex.org/W2010915385",
+    "https://openalex.org/W1504608115",
+    "https://openalex.org/W2597900308",
+    "https://openalex.org/W71228264",
+    "https://openalex.org/W2399071157",
+    "https://openalex.org/W2991792334",
+    "https://openalex.org/W3002947507",
+    "https://openalex.org/W2011307089",
+    "https://openalex.org/W2121044470",
+    "https://openalex.org/W2973642564",
+    "https://openalex.org/W1775995898",
+    "https://openalex.org/W2156098321",
+    "https://openalex.org/W2796325799",
+    "https://openalex.org/W612752139",
+    "https://openalex.org/W2025300118",
+    "https://openalex.org/W4297918764",
+    "https://openalex.org/W1549788644"
+  ],
+  "related_works": [
+    "https://openalex.org/W2494585315",
+    "https://openalex.org/W2344655277",
+    "https://openalex.org/W4296961619",
+    "https://openalex.org/W2612605749",
+    "https://openalex.org/W3128469092",
+    "https://openalex.org/W2048373682",
+    "https://openalex.org/W3206539705",
+    "https://openalex.org/W3006638339",
+    "https://openalex.org/W2133138740",
+    "https://openalex.org/W2941436445"
+  ],
+  "abstract_inverted_index": null,
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 115
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 88
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 81
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 49
+    },
+    {
+      "year": 2021,
+      "cited_by_count": 6
+    },
+    {
+      "year": 2020,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2025-11-06T03:46:38.306776",
+  "created_date": "2025-10-10T00:00:00"
+}

@@ -1,0 +1,1155 @@
+{
+  "id": "https://openalex.org/W4387006845",
+  "doi": "https://doi.org/10.1145/3613372.3613404",
+  "title": "Evolution of Teamwork Quality Instruments in Agile Software Development: A Systematic Literature Review",
+  "display_name": "Evolution of Teamwork Quality Instruments in Agile Software Development: A Systematic Literature Review",
+  "publication_year": 2023,
+  "publication_date": "2023-09-25",
+  "ids": {
+    "openalex": "https://openalex.org/W4387006845",
+    "doi": "https://doi.org/10.1145/3613372.3613404"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1145/3613372.3613404",
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.1145/3613372.3613404",
+    "pdf_url": null,
+    "source": null,
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Proceedings of the XXXVII Brazilian Symposium on Software Engineering",
+    "raw_type": "proceedings-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5089275210",
+        "display_name": "Ramon N\u00f3brega dos Santos",
+        "orcid": "https://orcid.org/0009-0005-5619-1189"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I41455075",
+          "display_name": "Universidade Federal de Campina Grande",
+          "ror": "https://ror.org/00eftnx64",
+          "country_code": "BR",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I41455075"
+          ]
+        }
+      ],
+      "countries": [
+        "BR"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Ramon N\u00f3brega dos Santos",
+      "raw_affiliation_strings": [
+        "Federal University of Campina Grande, Brazil"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Federal University of Campina Grande, Brazil",
+          "institution_ids": [
+            "https://openalex.org/I41455075"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5042397147",
+        "display_name": "Felipe Cunha",
+        "orcid": "https://orcid.org/0000-0001-6836-7560"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I41455075",
+          "display_name": "Universidade Federal de Campina Grande",
+          "ror": "https://ror.org/00eftnx64",
+          "country_code": "BR",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I41455075"
+          ]
+        }
+      ],
+      "countries": [
+        "BR"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Felipe Oliveira Miranda Cunha",
+      "raw_affiliation_strings": [
+        "Federal University of Campina Grande, Brazil"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Federal University of Campina Grande, Brazil",
+          "institution_ids": [
+            "https://openalex.org/I41455075"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5054668339",
+        "display_name": "Thiago Pereira Rique",
+        "orcid": "https://orcid.org/0000-0003-0897-4953"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I41455075",
+          "display_name": "Universidade Federal de Campina Grande",
+          "ror": "https://ror.org/00eftnx64",
+          "country_code": "BR",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I41455075"
+          ]
+        }
+      ],
+      "countries": [
+        "BR"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Thiago Pereira Rique",
+      "raw_affiliation_strings": [
+        "Federal University of Campina Grande, Brazil"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Federal University of Campina Grande, Brazil",
+          "institution_ids": [
+            "https://openalex.org/I41455075"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5087237928",
+        "display_name": "Mirko Perkusich",
+        "orcid": "https://orcid.org/0000-0002-9433-4962"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I41455075",
+          "display_name": "Universidade Federal de Campina Grande",
+          "ror": "https://ror.org/00eftnx64",
+          "country_code": "BR",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I41455075"
+          ]
+        }
+      ],
+      "countries": [
+        "BR"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Mirko Perkusich",
+      "raw_affiliation_strings": [
+        "Federal University of Campina Grande, Brazil"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Federal University of Campina Grande, Brazil",
+          "institution_ids": [
+            "https://openalex.org/I41455075"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5062122014",
+        "display_name": "Ademar Fran\u00e7a de Sousa Neto",
+        "orcid": "https://orcid.org/0000-0002-1651-4159"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I41455075",
+          "display_name": "Universidade Federal de Campina Grande",
+          "ror": "https://ror.org/00eftnx64",
+          "country_code": "BR",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I41455075"
+          ]
+        }
+      ],
+      "countries": [
+        "BR"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Ademar Fran\u00e7a de Sousa Neto",
+      "raw_affiliation_strings": [
+        "Federal University of Campina Grande, Brazil"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Federal University of Campina Grande, Brazil",
+          "institution_ids": [
+            "https://openalex.org/I41455075"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5080270864",
+        "display_name": "Danyllo Albuquerque",
+        "orcid": "https://orcid.org/0000-0001-5515-7812"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I41455075",
+          "display_name": "Universidade Federal de Campina Grande",
+          "ror": "https://ror.org/00eftnx64",
+          "country_code": "BR",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I41455075"
+          ]
+        }
+      ],
+      "countries": [
+        "BR"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Danyllo Wagner Albuquerque",
+      "raw_affiliation_strings": [
+        "Federal University of Campina Grande, Brazil"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Federal University of Campina Grande, Brazil",
+          "institution_ids": [
+            "https://openalex.org/I41455075"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5012728787",
+        "display_name": "Hyggo Almeida",
+        "orcid": "https://orcid.org/0000-0002-2808-8169"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I41455075",
+          "display_name": "Universidade Federal de Campina Grande",
+          "ror": "https://ror.org/00eftnx64",
+          "country_code": "BR",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I41455075"
+          ]
+        }
+      ],
+      "countries": [
+        "BR"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Hyggo Almeida",
+      "raw_affiliation_strings": [
+        "Federal University of Campina Grande, Brazil"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Federal University of Campina Grande, Brazil",
+          "institution_ids": [
+            "https://openalex.org/I41455075"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5012283902",
+        "display_name": "\u00c2ngelo Perkusich",
+        "orcid": "https://orcid.org/0000-0002-7377-1258"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I41455075",
+          "display_name": "Universidade Federal de Campina Grande",
+          "ror": "https://ror.org/00eftnx64",
+          "country_code": "BR",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I41455075"
+          ]
+        }
+      ],
+      "countries": [
+        "BR"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Angelo Perkusich",
+      "raw_affiliation_strings": [
+        "Federal University of Campina Grande, Brazil"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Federal University of Campina Grande, Brazil",
+          "institution_ids": [
+            "https://openalex.org/I41455075"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 8,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 1.23697525,
+  "has_fulltext": false,
+  "cited_by_count": 2,
+  "citation_normalized_percentile": {
+    "value": 0.81344359,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 95,
+    "max": 97
+  },
+  "biblio": {
+    "volume": null,
+    "issue": null,
+    "first_page": "216",
+    "last_page": "225"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10430",
+    "display_name": "Software Engineering Techniques and Practices",
+    "score": 0.9998999834060669,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1710",
+      "display_name": "Information Systems"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/17",
+      "display_name": "Computer Science"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10430",
+      "display_name": "Software Engineering Techniques and Practices",
+      "score": 0.9998999834060669,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1710",
+        "display_name": "Information Systems"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10260",
+      "display_name": "Software Engineering Research",
+      "score": 0.9987000226974487,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1710",
+        "display_name": "Information Systems"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10970",
+      "display_name": "Team Dynamics and Performance",
+      "score": 0.9764000177383423,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3207",
+        "display_name": "Social Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/teamwork",
+      "display_name": "Teamwork",
+      "score": 0.8039953708648682
+    },
+    {
+      "id": "https://openalex.org/keywords/agile-software-development",
+      "display_name": "Agile software development",
+      "score": 0.7855796813964844
+    },
+    {
+      "id": "https://openalex.org/keywords/computer-science",
+      "display_name": "Computer science",
+      "score": 0.5666434168815613
+    },
+    {
+      "id": "https://openalex.org/keywords/terminology",
+      "display_name": "Terminology",
+      "score": 0.5178573131561279
+    },
+    {
+      "id": "https://openalex.org/keywords/context",
+      "display_name": "Context (archaeology)",
+      "score": 0.48709774017333984
+    },
+    {
+      "id": "https://openalex.org/keywords/quality",
+      "display_name": "Quality (philosophy)",
+      "score": 0.46745190024375916
+    },
+    {
+      "id": "https://openalex.org/keywords/process-management",
+      "display_name": "Process management",
+      "score": 0.44167041778564453
+    },
+    {
+      "id": "https://openalex.org/keywords/knowledge-management",
+      "display_name": "Knowledge management",
+      "score": 0.41747093200683594
+    },
+    {
+      "id": "https://openalex.org/keywords/standardization",
+      "display_name": "Standardization",
+      "score": 0.4171423316001892
+    },
+    {
+      "id": "https://openalex.org/keywords/software-engineering",
+      "display_name": "Software engineering",
+      "score": 0.3568447232246399
+    },
+    {
+      "id": "https://openalex.org/keywords/engineering",
+      "display_name": "Engineering",
+      "score": 0.2713295817375183
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C111226992",
+      "wikidata": "https://www.wikidata.org/wiki/Q626225",
+      "display_name": "Teamwork",
+      "level": 2,
+      "score": 0.8039953708648682
+    },
+    {
+      "id": "https://openalex.org/C14185376",
+      "wikidata": "https://www.wikidata.org/wiki/Q30232",
+      "display_name": "Agile software development",
+      "level": 2,
+      "score": 0.7855796813964844
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.5666434168815613
+    },
+    {
+      "id": "https://openalex.org/C547195049",
+      "wikidata": "https://www.wikidata.org/wiki/Q1725664",
+      "display_name": "Terminology",
+      "level": 2,
+      "score": 0.5178573131561279
+    },
+    {
+      "id": "https://openalex.org/C2779343474",
+      "wikidata": "https://www.wikidata.org/wiki/Q3109175",
+      "display_name": "Context (archaeology)",
+      "level": 2,
+      "score": 0.48709774017333984
+    },
+    {
+      "id": "https://openalex.org/C2779530757",
+      "wikidata": "https://www.wikidata.org/wiki/Q1207505",
+      "display_name": "Quality (philosophy)",
+      "level": 2,
+      "score": 0.46745190024375916
+    },
+    {
+      "id": "https://openalex.org/C195094911",
+      "wikidata": "https://www.wikidata.org/wiki/Q14167904",
+      "display_name": "Process management",
+      "level": 1,
+      "score": 0.44167041778564453
+    },
+    {
+      "id": "https://openalex.org/C56739046",
+      "wikidata": "https://www.wikidata.org/wiki/Q192060",
+      "display_name": "Knowledge management",
+      "level": 1,
+      "score": 0.41747093200683594
+    },
+    {
+      "id": "https://openalex.org/C188087704",
+      "wikidata": "https://www.wikidata.org/wiki/Q369577",
+      "display_name": "Standardization",
+      "level": 2,
+      "score": 0.4171423316001892
+    },
+    {
+      "id": "https://openalex.org/C115903868",
+      "wikidata": "https://www.wikidata.org/wiki/Q80993",
+      "display_name": "Software engineering",
+      "level": 1,
+      "score": 0.3568447232246399
+    },
+    {
+      "id": "https://openalex.org/C127413603",
+      "wikidata": "https://www.wikidata.org/wiki/Q11023",
+      "display_name": "Engineering",
+      "level": 0,
+      "score": 0.2713295817375183
+    },
+    {
+      "id": "https://openalex.org/C86803240",
+      "wikidata": "https://www.wikidata.org/wiki/Q420",
+      "display_name": "Biology",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C41895202",
+      "wikidata": "https://www.wikidata.org/wiki/Q8162",
+      "display_name": "Linguistics",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C138885662",
+      "wikidata": "https://www.wikidata.org/wiki/Q5891",
+      "display_name": "Philosophy",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C199539241",
+      "wikidata": "https://www.wikidata.org/wiki/Q7748",
+      "display_name": "Law",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C151730666",
+      "wikidata": "https://www.wikidata.org/wiki/Q7205",
+      "display_name": "Paleontology",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C17744445",
+      "wikidata": "https://www.wikidata.org/wiki/Q36442",
+      "display_name": "Political science",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C111919701",
+      "wikidata": "https://www.wikidata.org/wiki/Q9135",
+      "display_name": "Operating system",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C111472728",
+      "wikidata": "https://www.wikidata.org/wiki/Q9471",
+      "display_name": "Epistemology",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "id": "doi:10.1145/3613372.3613404",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1145/3613372.3613404",
+      "pdf_url": null,
+      "source": null,
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Proceedings of the XXXVII Brazilian Symposium on Software Engineering",
+      "raw_type": "proceedings-article"
+    }
+  ],
+  "best_oa_location": null,
+  "sustainable_development_goals": [],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "pdf": false,
+    "grobid_xml": false
+  },
+  "referenced_works_count": 31,
+  "referenced_works": [
+    "https://openalex.org/W2015136696",
+    "https://openalex.org/W2410887582",
+    "https://openalex.org/W2246917045",
+    "https://openalex.org/W2796791848",
+    "https://openalex.org/W4312441154",
+    "https://openalex.org/W1944878345",
+    "https://openalex.org/W2148141559",
+    "https://openalex.org/W2521344485",
+    "https://openalex.org/W3125969748",
+    "https://openalex.org/W3080092938",
+    "https://openalex.org/W2115534757",
+    "https://openalex.org/W2079650137",
+    "https://openalex.org/W1523859669",
+    "https://openalex.org/W1567078036",
+    "https://openalex.org/W3010782494",
+    "https://openalex.org/W3031251962",
+    "https://openalex.org/W4214443",
+    "https://openalex.org/W3089268665",
+    "https://openalex.org/W3202977596",
+    "https://openalex.org/W3157093692",
+    "https://openalex.org/W2051526268",
+    "https://openalex.org/W1995717826",
+    "https://openalex.org/W4220716310",
+    "https://openalex.org/W2099901600",
+    "https://openalex.org/W1975675278",
+    "https://openalex.org/W4220698983",
+    "https://openalex.org/W1984056111",
+    "https://openalex.org/W2469636171",
+    "https://openalex.org/W1973833922",
+    "https://openalex.org/W1488904891",
+    "https://openalex.org/W3100992758"
+  ],
+  "related_works": [
+    "https://openalex.org/W2378767206",
+    "https://openalex.org/W2350593162",
+    "https://openalex.org/W1540871478",
+    "https://openalex.org/W2390249510",
+    "https://openalex.org/W2389049429",
+    "https://openalex.org/W3031493161",
+    "https://openalex.org/W2350181254",
+    "https://openalex.org/W2346373303",
+    "https://openalex.org/W2387710870",
+    "https://openalex.org/W3128306253"
+  ],
+  "abstract_inverted_index": {
+    "[Context]": [
+      0
+    ],
+    "Multiple": [
+      1
+    ],
+    "models": [
+      2,
+      24
+    ],
+    "(or": [
+      3
+    ],
+    "instruments)": [
+      4
+    ],
+    "for": [
+      5,
+      14,
+      60,
+      159,
+      195
+    ],
+    "measuring": [
+      6
+    ],
+    "Teamwork": [
+      7,
+      11
+    ],
+    "Quality": [
+      8
+    ],
+    "(TWQ)": [
+      9
+    ],
+    "and": [
+      10,
+      28,
+      39,
+      73,
+      86,
+      116,
+      123
+    ],
+    "Effectiveness": [
+      12
+    ],
+    "(TWE)": [
+      13
+    ],
+    "Agile": [
+      15
+    ],
+    "Software": [
+      16
+    ],
+    "Development": [
+      17
+    ],
+    "(ASD)": [
+      18
+    ],
+    "have": [
+      19,
+      25,
+      40,
+      132,
+      147
+    ],
+    "been": [
+      20
+    ],
+    "created.": [
+      21
+    ],
+    "However,": [
+      22
+    ],
+    "such": [
+      23
+    ],
+    "different": [
+      26,
+      152
+    ],
+    "constructs": [
+      27
+    ],
+    "measures,": [
+      29
+    ],
+    "with": [
+      30,
+      134,
+      151
+    ],
+    "a": [
+      31,
+      65,
+      70,
+      74,
+      91,
+      105,
+      186,
+      193
+    ],
+    "limited": [
+      32
+    ],
+    "understanding": [
+      33
+    ],
+    "of": [
+      34,
+      57,
+      94,
+      108,
+      111
+    ],
+    "how": [
+      35
+    ],
+    "they": [
+      36,
+      146
+    ],
+    "are": [
+      37
+    ],
+    "related": [
+      38
+    ],
+    "evolved.": [
+      41
+    ],
+    "[Goal]": [
+      42
+    ],
+    "Our": [
+      43
+    ],
+    "goal": [
+      44
+    ],
+    "is": [
+      45,
+      174
+    ],
+    "to": [
+      46,
+      51,
+      78,
+      140,
+      156,
+      184,
+      189
+    ],
+    "identify": [
+      47,
+      79
+    ],
+    "all": [
+      48
+    ],
+    "ASD": [
+      49,
+      100,
+      115
+    ],
+    "instruments": [
+      50,
+      59,
+      82,
+      113,
+      122,
+      131
+    ],
+    "gain": [
+      52
+    ],
+    "insights": [
+      53
+    ],
+    "into": [
+      54,
+      119
+    ],
+    "the": [
+      55,
+      80,
+      95,
+      109,
+      135,
+      141,
+      157,
+      167,
+      171
+    ],
+    "evolution": [
+      56,
+      110
+    ],
+    "specific": [
+      58,
+      81,
+      139
+    ],
+    "ASD.": [
+      61
+    ],
+    "[Method]": [
+      62
+    ],
+    "We": [
+      63,
+      103,
+      127,
+      176
+    ],
+    "performed": [
+      64
+    ],
+    "systematic": [
+      66
+    ],
+    "review": [
+      67
+    ],
+    "methodology": [
+      68
+    ],
+    "using": [
+      69
+    ],
+    "search": [
+      71
+    ],
+    "string": [
+      72
+    ],
+    "forward": [
+      75
+    ],
+    "snowballing": [
+      76
+    ],
+    "approach": [
+      77
+    ],
+    "that": [
+      83,
+      129
+    ],
+    "assess": [
+      84
+    ],
+    "TWQ": [
+      85
+    ],
+    "TWE.": [
+      87
+    ],
+    "Later,": [
+      88
+    ],
+    "we": [
+      89
+    ],
+    "conducted": [
+      90
+    ],
+    "frequency": [
+      92
+    ],
+    "analysis": [
+      93
+    ],
+    "factors": [
+      96,
+      138,
+      150,
+      169
+    ],
+    "measured": [
+      97
+    ],
+    "by": [
+      98
+    ],
+    "these": [
+      99,
+      130
+    ],
+    "instruments.": [
+      101,
+      126,
+      199
+    ],
+    "[Results]": [
+      102
+    ],
+    "provided": [
+      104
+    ],
+    "comprehensive": [
+      106
+    ],
+    "view": [
+      107
+    ],
+    "teamwork": [
+      112,
+      121,
+      125,
+      198
+    ],
+    "in": [
+      114
+    ],
+    "classified": [
+      117
+    ],
+    "them": [
+      118
+    ],
+    "Generic": [
+      120
+    ],
+    "Agile-based": [
+      124
+    ],
+    "found": [
+      128
+    ],
+    "evolved": [
+      133
+    ],
+    "more": [
+      136
+    ],
+    "specialized": [
+      137
+    ],
+    "agile": [
+      142,
+      172
+    ],
+    "context.": [
+      143
+    ],
+    "In": [
+      144
+    ],
+    "addition,": [
+      145
+    ],
+    "semantically": [
+      148
+    ],
+    "similar": [
+      149
+    ],
+    "factor": [
+      153
+    ],
+    "names,": [
+      154
+    ],
+    "pointing": [
+      155
+    ],
+    "need": [
+      158
+    ],
+    "terminology": [
+      160
+    ],
+    "standardization.": [
+      161
+    ],
+    "[Conclusion]": [
+      162
+    ],
+    "A": [
+      163
+    ],
+    "conceptual": [
+      164
+    ],
+    "framework": [
+      165
+    ],
+    "integrating": [
+      166
+    ],
+    "instrument": [
+      168
+    ],
+    "within": [
+      170
+    ],
+    "context": [
+      173
+    ],
+    "needed.": [
+      175
+    ],
+    "advocate": [
+      177
+    ],
+    "further": [
+      178
+    ],
+    "studies": [
+      179
+    ],
+    "on": [
+      180
+    ],
+    "this": [
+      181
+    ],
+    "topic,": [
+      182
+    ],
+    "aiming": [
+      183
+    ],
+    "develop": [
+      185
+    ],
+    "unified": [
+      187
+    ],
+    "taxonomy": [
+      188
+    ],
+    "be": [
+      190
+    ],
+    "taken": [
+      191
+    ],
+    "as": [
+      192
+    ],
+    "reference": [
+      194
+    ],
+    "constructing": [
+      196
+    ],
+    "new": [
+      197
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 2
+    }
+  ],
+  "updated_date": "2025-11-06T03:46:38.306776",
+  "created_date": "2025-10-10T00:00:00"
+}

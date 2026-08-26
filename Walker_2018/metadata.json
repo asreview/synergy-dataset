@@ -1,0 +1,15 @@
+{
+  "key": "Walker_2018",
+  "collection": {
+    "doi": "10.1186/s13643-016-0263-z"
+  },
+  "publication": {
+    "doi": "10.1016/j.envint.2017.12.032",
+    "eligibility_criteria": "In order to be eligible for inclusion, studies had to satisfy eligibility criteria specified by the PECO statement (Table 1).\n\nPopulation: Human or animal (whole organism) without restriction based on age, sex, or life stage at exposure or outcome assessment\n\nExposure: Any exposure/stressors at any life stage as long as the study design (i.e., outcome measurement stage) was transgenerational in nature (Fig. 1)\nComparators Humans: a comparison population exposed to lower levels (or no exposure/exposure below detection levels) of the stressor than the more highly exposed subjects\n\nAnimals: comparable animal populations exposed to vehicle-only treatment in experimental studies or a comparison animal population exposed to lower levels (or no exposure/exposure below detection levels) of the stressor than more highly exposed animals in wildlife/farm animals. Note: the comparison groups are defined at the time of exposure and therefore apply to the F0 generation (which in a gestational exposure would include exposure of the offspring (F1) and its gametes (F2); see Fig. 1)\n\nOutcomes: Inherited diseases were excluded. No other restrictions on health outcome or effect measures\n\nThe following additional criteria were also used for exclusion:\n\u2022 articles without original data (i.e., reviews, editorials, commentaries)\n\u2022 studies of non-animal organisms (e.g., plants, fungi)\n\u2022 in vitro exposure studies\n\u2022 non-English publications"
+  },
+  "data": {
+    "doi": "10.1186/s13643-016-0263-z",
+    "n_records": 47132,
+    "n_records_included": 762
+  }
+}

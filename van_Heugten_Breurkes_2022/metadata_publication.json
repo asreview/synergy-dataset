@@ -1,0 +1,1061 @@
+{
+  "id": "https://openalex.org/W4281766368",
+  "doi": "https://doi.org/10.1145/3530019.3530028",
+  "title": "Overlap between Automated Unit and Acceptance Testing \u2013 a Systematic Literature Review",
+  "display_name": "Overlap between Automated Unit and Acceptance Testing \u2013 a Systematic Literature Review",
+  "publication_year": 2022,
+  "publication_date": "2022-06-12",
+  "ids": {
+    "openalex": "https://openalex.org/W4281766368",
+    "doi": "https://doi.org/10.1145/3530019.3530028"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1145/3530019.3530028",
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.1145/3530019.3530028",
+    "pdf_url": null,
+    "source": null,
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "The International Conference on Evaluation and Assessment in Software Engineering 2022",
+    "raw_type": "proceedings-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5046787334",
+        "display_name": "Jack van Heugten Breurkes",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I185492890",
+          "display_name": "University of Canterbury",
+          "ror": "https://ror.org/03y7q9t39",
+          "country_code": "NZ",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I185492890"
+          ]
+        }
+      ],
+      "countries": [
+        "NZ"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Jack van Heugten Breurkes",
+      "raw_affiliation_strings": [
+        "University of Canterbury, New Zealand"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "University of Canterbury, New Zealand",
+          "institution_ids": [
+            "https://openalex.org/I185492890"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5018823718",
+        "display_name": "Fabian Gilson",
+        "orcid": "https://orcid.org/0000-0002-1465-3315"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I185492890",
+          "display_name": "University of Canterbury",
+          "ror": "https://ror.org/03y7q9t39",
+          "country_code": "NZ",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I185492890"
+          ]
+        }
+      ],
+      "countries": [
+        "NZ"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Fabian Gilson",
+      "raw_affiliation_strings": [
+        "University of Canterbury, New Zealand"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "University of Canterbury, New Zealand",
+          "institution_ids": [
+            "https://openalex.org/I185492890"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5034571717",
+        "display_name": "Matthias Galster",
+        "orcid": "https://orcid.org/0000-0003-3491-1833"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I185492890",
+          "display_name": "University of Canterbury",
+          "ror": "https://ror.org/03y7q9t39",
+          "country_code": "NZ",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I185492890"
+          ]
+        }
+      ],
+      "countries": [
+        "NZ"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Matthias Galster",
+      "raw_affiliation_strings": [
+        "University of Canterbury, New Zealand"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "University of Canterbury, New Zealand",
+          "institution_ids": [
+            "https://openalex.org/I185492890"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 3,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 1.20809129,
+  "has_fulltext": false,
+  "cited_by_count": 3,
+  "citation_normalized_percentile": {
+    "value": 0.72,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 90,
+    "max": 96
+  },
+  "biblio": {
+    "volume": null,
+    "issue": null,
+    "first_page": "80",
+    "last_page": "89"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T12423",
+    "display_name": "Software Reliability and Analysis Research",
+    "score": 0.9984999895095825,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1712",
+      "display_name": "Software"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/17",
+      "display_name": "Computer Science"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T12423",
+      "display_name": "Software Reliability and Analysis Research",
+      "score": 0.9984999895095825,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1712",
+        "display_name": "Software"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10260",
+      "display_name": "Software Engineering Research",
+      "score": 0.9940999746322632,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1710",
+        "display_name": "Information Systems"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10743",
+      "display_name": "Software Testing and Debugging Techniques",
+      "score": 0.9937000274658203,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1712",
+        "display_name": "Software"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/unit-testing",
+      "display_name": "Unit testing",
+      "score": 0.8337646722793579
+    },
+    {
+      "id": "https://openalex.org/keywords/acceptance-testing",
+      "display_name": "Acceptance testing",
+      "score": 0.729666531085968
+    },
+    {
+      "id": "https://openalex.org/keywords/test-strategy",
+      "display_name": "Test strategy",
+      "score": 0.7181341648101807
+    },
+    {
+      "id": "https://openalex.org/keywords/keyword-driven-testing",
+      "display_name": "Keyword-driven testing",
+      "score": 0.7142754793167114
+    },
+    {
+      "id": "https://openalex.org/keywords/mindset",
+      "display_name": "Mindset",
+      "score": 0.6210553050041199
+    },
+    {
+      "id": "https://openalex.org/keywords/computer-science",
+      "display_name": "Computer science",
+      "score": 0.5974544286727905
+    },
+    {
+      "id": "https://openalex.org/keywords/manual-testing",
+      "display_name": "Manual testing",
+      "score": 0.5851541757583618
+    },
+    {
+      "id": "https://openalex.org/keywords/integration-testing",
+      "display_name": "Integration testing",
+      "score": 0.5552002191543579
+    },
+    {
+      "id": "https://openalex.org/keywords/test",
+      "display_name": "Test (biology)",
+      "score": 0.5446552038192749
+    },
+    {
+      "id": "https://openalex.org/keywords/white-box-testing",
+      "display_name": "White-box testing",
+      "score": 0.5149860978126526
+    },
+    {
+      "id": "https://openalex.org/keywords/test-management-approach",
+      "display_name": "Test Management Approach",
+      "score": 0.47426140308380127
+    },
+    {
+      "id": "https://openalex.org/keywords/software-engineering",
+      "display_name": "Software engineering",
+      "score": 0.43537747859954834
+    },
+    {
+      "id": "https://openalex.org/keywords/unit",
+      "display_name": "Unit (ring theory)",
+      "score": 0.42172810435295105
+    },
+    {
+      "id": "https://openalex.org/keywords/artificial-intelligence",
+      "display_name": "Artificial intelligence",
+      "score": 0.19527631998062134
+    },
+    {
+      "id": "https://openalex.org/keywords/software",
+      "display_name": "Software",
+      "score": 0.17481091618537903
+    },
+    {
+      "id": "https://openalex.org/keywords/software-development",
+      "display_name": "Software development",
+      "score": 0.14611226320266724
+    },
+    {
+      "id": "https://openalex.org/keywords/psychology",
+      "display_name": "Psychology",
+      "score": 0.13980230689048767
+    },
+    {
+      "id": "https://openalex.org/keywords/software-construction",
+      "display_name": "Software construction",
+      "score": 0.10490772128105164
+    },
+    {
+      "id": "https://openalex.org/keywords/programming-language",
+      "display_name": "Programming language",
+      "score": 0.07867437601089478
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C148027188",
+      "wikidata": "https://www.wikidata.org/wiki/Q907375",
+      "display_name": "Unit testing",
+      "level": 3,
+      "score": 0.8337646722793579
+    },
+    {
+      "id": "https://openalex.org/C131377759",
+      "wikidata": "https://www.wikidata.org/wiki/Q322514",
+      "display_name": "Acceptance testing",
+      "level": 2,
+      "score": 0.729666531085968
+    },
+    {
+      "id": "https://openalex.org/C188598960",
+      "wikidata": "https://www.wikidata.org/wiki/Q7705805",
+      "display_name": "Test strategy",
+      "level": 3,
+      "score": 0.7181341648101807
+    },
+    {
+      "id": "https://openalex.org/C169168650",
+      "wikidata": "https://www.wikidata.org/wiki/Q1675637",
+      "display_name": "Keyword-driven testing",
+      "level": 5,
+      "score": 0.7142754793167114
+    },
+    {
+      "id": "https://openalex.org/C2778491294",
+      "wikidata": "https://www.wikidata.org/wiki/Q1339824",
+      "display_name": "Mindset",
+      "level": 2,
+      "score": 0.6210553050041199
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.5974544286727905
+    },
+    {
+      "id": "https://openalex.org/C182122060",
+      "wikidata": "https://www.wikidata.org/wiki/Q6752328",
+      "display_name": "Manual testing",
+      "level": 5,
+      "score": 0.5851541757583618
+    },
+    {
+      "id": "https://openalex.org/C107683887",
+      "wikidata": "https://www.wikidata.org/wiki/Q782466",
+      "display_name": "Integration testing",
+      "level": 3,
+      "score": 0.5552002191543579
+    },
+    {
+      "id": "https://openalex.org/C2777267654",
+      "wikidata": "https://www.wikidata.org/wiki/Q3519023",
+      "display_name": "Test (biology)",
+      "level": 2,
+      "score": 0.5446552038192749
+    },
+    {
+      "id": "https://openalex.org/C162443782",
+      "wikidata": "https://www.wikidata.org/wiki/Q1066228",
+      "display_name": "White-box testing",
+      "level": 5,
+      "score": 0.5149860978126526
+    },
+    {
+      "id": "https://openalex.org/C7435765",
+      "wikidata": "https://www.wikidata.org/wiki/Q7705776",
+      "display_name": "Test Management Approach",
+      "level": 5,
+      "score": 0.47426140308380127
+    },
+    {
+      "id": "https://openalex.org/C115903868",
+      "wikidata": "https://www.wikidata.org/wiki/Q80993",
+      "display_name": "Software engineering",
+      "level": 1,
+      "score": 0.43537747859954834
+    },
+    {
+      "id": "https://openalex.org/C122637931",
+      "wikidata": "https://www.wikidata.org/wiki/Q118084",
+      "display_name": "Unit (ring theory)",
+      "level": 2,
+      "score": 0.42172810435295105
+    },
+    {
+      "id": "https://openalex.org/C154945302",
+      "wikidata": "https://www.wikidata.org/wiki/Q11660",
+      "display_name": "Artificial intelligence",
+      "level": 1,
+      "score": 0.19527631998062134
+    },
+    {
+      "id": "https://openalex.org/C2777904410",
+      "wikidata": "https://www.wikidata.org/wiki/Q7397",
+      "display_name": "Software",
+      "level": 2,
+      "score": 0.17481091618537903
+    },
+    {
+      "id": "https://openalex.org/C529173508",
+      "wikidata": "https://www.wikidata.org/wiki/Q638608",
+      "display_name": "Software development",
+      "level": 3,
+      "score": 0.14611226320266724
+    },
+    {
+      "id": "https://openalex.org/C15744967",
+      "wikidata": "https://www.wikidata.org/wiki/Q9418",
+      "display_name": "Psychology",
+      "level": 0,
+      "score": 0.13980230689048767
+    },
+    {
+      "id": "https://openalex.org/C186846655",
+      "wikidata": "https://www.wikidata.org/wiki/Q3398377",
+      "display_name": "Software construction",
+      "level": 4,
+      "score": 0.10490772128105164
+    },
+    {
+      "id": "https://openalex.org/C199360897",
+      "wikidata": "https://www.wikidata.org/wiki/Q9143",
+      "display_name": "Programming language",
+      "level": 1,
+      "score": 0.07867437601089478
+    },
+    {
+      "id": "https://openalex.org/C86803240",
+      "wikidata": "https://www.wikidata.org/wiki/Q420",
+      "display_name": "Biology",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C145420912",
+      "wikidata": "https://www.wikidata.org/wiki/Q853077",
+      "display_name": "Mathematics education",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C151730666",
+      "wikidata": "https://www.wikidata.org/wiki/Q7205",
+      "display_name": "Paleontology",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "id": "doi:10.1145/3530019.3530028",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1145/3530019.3530028",
+      "pdf_url": null,
+      "source": null,
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "The International Conference on Evaluation and Assessment in Software Engineering 2022",
+      "raw_type": "proceedings-article"
+    }
+  ],
+  "best_oa_location": null,
+  "sustainable_development_goals": [],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "pdf": false,
+    "grobid_xml": false
+  },
+  "referenced_works_count": 64,
+  "referenced_works": [
+    "https://openalex.org/W2050930639",
+    "https://openalex.org/W3014072309",
+    "https://openalex.org/W2897889469",
+    "https://openalex.org/W2113813971",
+    "https://openalex.org/W2147699275",
+    "https://openalex.org/W1969862077",
+    "https://openalex.org/W2056952837",
+    "https://openalex.org/W2066971941",
+    "https://openalex.org/W263771864",
+    "https://openalex.org/W4245429230",
+    "https://openalex.org/W2032860265",
+    "https://openalex.org/W2079139063",
+    "https://openalex.org/W2891455961",
+    "https://openalex.org/W2901721765",
+    "https://openalex.org/W397180395",
+    "https://openalex.org/W1974156097",
+    "https://openalex.org/W2105438268",
+    "https://openalex.org/W2058554556",
+    "https://openalex.org/W2551905807",
+    "https://openalex.org/W3121667491",
+    "https://openalex.org/W1987903409",
+    "https://openalex.org/W2902728783",
+    "https://openalex.org/W2345039647",
+    "https://openalex.org/W3101648777",
+    "https://openalex.org/W2611190712",
+    "https://openalex.org/W1994660945",
+    "https://openalex.org/W2765115137",
+    "https://openalex.org/W2162590181",
+    "https://openalex.org/W2001552869",
+    "https://openalex.org/W2343321177",
+    "https://openalex.org/W4248598130",
+    "https://openalex.org/W4248731424",
+    "https://openalex.org/W4230313442",
+    "https://openalex.org/W2055975932",
+    "https://openalex.org/W1967689076",
+    "https://openalex.org/W2017425457",
+    "https://openalex.org/W2154054865",
+    "https://openalex.org/W146642348",
+    "https://openalex.org/W2153523756",
+    "https://openalex.org/W2114109012",
+    "https://openalex.org/W4231553975",
+    "https://openalex.org/W4294902957",
+    "https://openalex.org/W2883645405",
+    "https://openalex.org/W2035786419",
+    "https://openalex.org/W2889249603",
+    "https://openalex.org/W2068544219",
+    "https://openalex.org/W2978415956",
+    "https://openalex.org/W3089919374",
+    "https://openalex.org/W1999798506",
+    "https://openalex.org/W3020954115",
+    "https://openalex.org/W2792692216",
+    "https://openalex.org/W2724840363",
+    "https://openalex.org/W2760062689",
+    "https://openalex.org/W3197593145",
+    "https://openalex.org/W2197992444",
+    "https://openalex.org/W2808913401",
+    "https://openalex.org/W2406797504",
+    "https://openalex.org/W2973860448",
+    "https://openalex.org/W2746951992",
+    "https://openalex.org/W3010702408",
+    "https://openalex.org/W2883538400",
+    "https://openalex.org/W3106539045",
+    "https://openalex.org/W4230833047",
+    "https://openalex.org/W2746057339"
+  ],
+  "related_works": [
+    "https://openalex.org/W3214776400",
+    "https://openalex.org/W2188932121",
+    "https://openalex.org/W3197709817",
+    "https://openalex.org/W2284280744",
+    "https://openalex.org/W1971486056",
+    "https://openalex.org/W2111976569",
+    "https://openalex.org/W1902291488",
+    "https://openalex.org/W1548321523",
+    "https://openalex.org/W2593913080",
+    "https://openalex.org/W654934078"
+  ],
+  "abstract_inverted_index": {
+    "Unit": [
+      0
+    ],
+    "and": [
+      1,
+      37,
+      63,
+      129,
+      143,
+      153,
+      158,
+      164
+    ],
+    "automated": [
+      2,
+      83,
+      91,
+      191
+    ],
+    "acceptance": [
+      3,
+      32,
+      92,
+      144,
+      165
+    ],
+    "testing": [
+      4,
+      9,
+      14,
+      27,
+      67,
+      85,
+      93,
+      106,
+      142
+    ],
+    "have": [
+      5,
+      88
+    ],
+    "different": [
+      6,
+      109
+    ],
+    "objectives": [
+      7
+    ],
+    "(e.g.,": [
+      8,
+      19
+    ],
+    "units": [
+      10
+    ],
+    "of": [
+      11,
+      26,
+      71
+    ],
+    "code": [
+      12,
+      183
+    ],
+    "versus": [
+      13
+    ],
+    "complete": [
+      15
+    ],
+    "features).": [
+      16
+    ],
+    "Testing": [
+      17
+    ],
+    "practices": [
+      18,
+      86,
+      94,
+      136
+    ],
+    "test-first,": [
+      20
+    ],
+    "model-based)": [
+      21
+    ],
+    "used": [
+      22
+    ],
+    "for": [
+      23,
+      50,
+      139
+    ],
+    "one": [
+      24
+    ],
+    "\"level\"": [
+      25
+    ],
+    "(for": [
+      28
+    ],
+    "either": [
+      29
+    ],
+    "unit": [
+      30,
+      84,
+      141,
+      163
+    ],
+    "or": [
+      31
+    ],
+    "testing)": [
+      33
+    ],
+    "may": [
+      34,
+      194
+    ],
+    "require": [
+      35
+    ],
+    "knowledge": [
+      36
+    ],
+    "skills": [
+      38,
+      55
+    ],
+    "that": [
+      39,
+      87,
+      125,
+      150,
+      171
+    ],
+    "are": [
+      40,
+      81,
+      134
+    ],
+    "not": [
+      41
+    ],
+    "applicable": [
+      42
+    ],
+    "to": [
+      43,
+      52,
+      57,
+      77,
+      181,
+      189
+    ],
+    "the": [
+      44,
+      54,
+      162,
+      185
+    ],
+    "other.": [
+      45
+    ],
+    "This": [
+      46,
+      111
+    ],
+    "makes": [
+      47
+    ],
+    "it": [
+      48
+    ],
+    "difficult": [
+      49
+    ],
+    "practitioners": [
+      51,
+      168
+    ],
+    "gain": [
+      53
+    ],
+    "required": [
+      56,
+      157
+    ],
+    "effectively": [
+      58
+    ],
+    "test": [
+      59,
+      131,
+      192
+    ],
+    "at": [
+      60,
+      108,
+      160
+    ],
+    "all": [
+      61
+    ],
+    "levels": [
+      62
+    ],
+    "form": [
+      64
+    ],
+    "a": [
+      65,
+      151
+    ],
+    "cohesive": [
+      66
+    ],
+    "strategy.": [
+      68
+    ],
+    "The": [
+      69
+    ],
+    "aim": [
+      70
+    ],
+    "this": [
+      72
+    ],
+    "systematic": [
+      73,
+      112
+    ],
+    "literature": [
+      74,
+      113
+    ],
+    "review": [
+      75,
+      114
+    ],
+    "is": [
+      76,
+      156
+    ],
+    "understand": [
+      78
+    ],
+    "whether": [
+      79
+    ],
+    "there": [
+      80
+    ],
+    "any": [
+      82
+    ],
+    "similarities": [
+      89,
+      100
+    ],
+    "with": [
+      90,
+      119,
+      170
+    ],
+    "(and": [
+      95
+    ],
+    "vice": [
+      96
+    ],
+    "versa).": [
+      97
+    ],
+    "Understanding": [
+      98
+    ],
+    "these": [
+      99
+    ],
+    "can": [
+      101
+    ],
+    "enable": [
+      102,
+      190
+    ],
+    "skill": [
+      103
+    ],
+    "transfer": [
+      104
+    ],
+    "across": [
+      105
+    ],
+    "activities": [
+      107
+    ],
+    "levels.": [
+      110
+    ],
+    "focuses": [
+      115
+    ],
+    "on": [
+      116
+    ],
+    "empirical": [
+      117
+    ],
+    "research": [
+      118
+    ],
+    "an": [
+      120
+    ],
+    "industry": [
+      121
+    ],
+    "focus.": [
+      122
+    ],
+    "We": [
+      123
+    ],
+    "found": [
+      124,
+      149,
+      176
+    ],
+    "test-driven": [
+      126
+    ],
+    "development": [
+      127
+    ],
+    "(TDD)": [
+      128
+    ],
+    "model-based": [
+      130
+    ],
+    "generation": [
+      132,
+      193
+    ],
+    "(MBTG)": [
+      133
+    ],
+    "two": [
+      135
+    ],
+    "widely": [
+      137
+    ],
+    "researched": [
+      138
+    ],
+    "both": [
+      140,
+      161
+    ],
+    "testing.": [
+      145
+    ],
+    "For": [
+      146,
+      173
+    ],
+    "TDD": [
+      147
+    ],
+    "we": [
+      148,
+      175
+    ],
+    "design-": [
+      152
+    ],
+    "test-first": [
+      154
+    ],
+    "mindset": [
+      155
+    ],
+    "helpful": [
+      159
+    ],
+    "levels,": [
+      166
+    ],
+    "but": [
+      167
+    ],
+    "struggle": [
+      169
+    ],
+    "practice.": [
+      172
+    ],
+    "MBTG": [
+      174
+    ],
+    "that,": [
+      177
+    ],
+    "despite": [
+      178
+    ],
+    "its": [
+      179,
+      196
+    ],
+    "ability": [
+      180
+    ],
+    "increase": [
+      182
+    ],
+    "coverage,": [
+      184
+    ],
+    "additional": [
+      186
+    ],
+    "manual": [
+      187
+    ],
+    "effort": [
+      188
+    ],
+    "outweigh": [
+      195
+    ],
+    "benefits.": [
+      197
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2024,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 2
+    }
+  ],
+  "updated_date": "2025-11-06T03:46:38.306776",
+  "created_date": "2025-10-10T00:00:00"
+}

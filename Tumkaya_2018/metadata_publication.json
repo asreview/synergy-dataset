@@ -1,0 +1,1215 @@
+{
+  "id": "https://openalex.org/W2886852821",
+  "doi": "https://doi.org/10.1016/j.neubiorev.2018.07.016",
+  "title": "A systematic review of Drosophila short-term-memory genetics: Meta-analysis reveals robust reproducibility",
+  "display_name": "A systematic review of Drosophila short-term-memory genetics: Meta-analysis reveals robust reproducibility",
+  "publication_year": 2018,
+  "publication_date": "2018-08-02",
+  "ids": {
+    "openalex": "https://openalex.org/W2886852821",
+    "doi": "https://doi.org/10.1016/j.neubiorev.2018.07.016",
+    "mag": "2886852821",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/30077573"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1016/j.neubiorev.2018.07.016",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1016/j.neubiorev.2018.07.016",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S170052170",
+      "display_name": "Neuroscience & Biobehavioral Reviews",
+      "issn_l": "0149-7634",
+      "issn": [
+        "0149-7634",
+        "1873-7528"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320990",
+      "host_organization_name": "Elsevier BV",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320990"
+      ],
+      "host_organization_lineage_names": [
+        "Elsevier BV"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Neuroscience &amp; Biobehavioral Reviews",
+    "raw_type": "journal-article"
+  },
+  "type": "review",
+  "indexed_in": [
+    "crossref",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "hybrid",
+    "oa_url": "https://doi.org/10.1016/j.neubiorev.2018.07.016",
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5010253693",
+        "display_name": "Tayfun Tumkaya",
+        "orcid": "https://orcid.org/0000-0001-8425-3360"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I165932596",
+          "display_name": "National University of Singapore",
+          "ror": "https://ror.org/01tgyzw49",
+          "country_code": "SG",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I165932596"
+          ]
+        }
+      ],
+      "countries": [
+        "SG"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Tayfun Tumkaya",
+      "raw_affiliation_strings": [
+        "Department of Physiology, National University of Singapore, Singapore"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Physiology, National University of Singapore, Singapore",
+          "institution_ids": [
+            "https://openalex.org/I165932596"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5012123270",
+        "display_name": "Stanislav Ott",
+        "orcid": "https://orcid.org/0000-0001-8031-7945"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210126319",
+          "display_name": "Duke-NUS Medical School",
+          "ror": "https://ror.org/02j1m6098",
+          "country_code": "SG",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I165932596",
+            "https://openalex.org/I170897317",
+            "https://openalex.org/I4210126319"
+          ]
+        }
+      ],
+      "countries": [
+        "SG"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Stanislav Ott",
+      "raw_affiliation_strings": [
+        "Program in Neuroscience and Behavioral Disorders, Duke-NUS Medical School, Singapore"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Program in Neuroscience and Behavioral Disorders, Duke-NUS Medical School, Singapore",
+          "institution_ids": [
+            "https://openalex.org/I4210126319"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5023691842",
+        "display_name": "Adam Claridge\u2010Chang",
+        "orcid": "https://orcid.org/0000-0002-4583-3650"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210126319",
+          "display_name": "Duke-NUS Medical School",
+          "ror": "https://ror.org/02j1m6098",
+          "country_code": "SG",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I165932596",
+            "https://openalex.org/I170897317",
+            "https://openalex.org/I4210126319"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I165932596",
+          "display_name": "National University of Singapore",
+          "ror": "https://ror.org/01tgyzw49",
+          "country_code": "SG",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I165932596"
+          ]
+        }
+      ],
+      "countries": [
+        "SG"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Adam Claridge-Chang",
+      "raw_affiliation_strings": [
+        "Department of Physiology, National University of Singapore, Singapore",
+        "Program in Neuroscience and Behavioral Disorders, Duke-NUS Medical School, Singapore"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Physiology, National University of Singapore, Singapore",
+          "institution_ids": [
+            "https://openalex.org/I165932596"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Program in Neuroscience and Behavioral Disorders, Duke-NUS Medical School, Singapore",
+          "institution_ids": [
+            "https://openalex.org/I4210126319"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 3,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5023691842"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I165932596",
+    "https://openalex.org/I4210126319"
+  ],
+  "apc_list": {
+    "value": 4720,
+    "currency": "USD",
+    "value_usd": 4720
+  },
+  "apc_paid": {
+    "value": 4720,
+    "currency": "USD",
+    "value_usd": 4720
+  },
+  "fwci": 1.01170821,
+  "has_fulltext": false,
+  "cited_by_count": 19,
+  "citation_normalized_percentile": {
+    "value": 0.69299182,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 89,
+    "max": 99
+  },
+  "biblio": {
+    "volume": "95",
+    "issue": null,
+    "first_page": "361",
+    "last_page": "382"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10423",
+    "display_name": "Neurobiology and Insect Physiology Research",
+    "score": 0.9998999834060669,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2804",
+      "display_name": "Cellular and Molecular Neuroscience"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/28",
+      "display_name": "Neuroscience"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/1",
+      "display_name": "Life Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10423",
+      "display_name": "Neurobiology and Insect Physiology Research",
+      "score": 0.9998999834060669,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2804",
+        "display_name": "Cellular and Molecular Neuroscience"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/28",
+        "display_name": "Neuroscience"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11403",
+      "display_name": "Invertebrate Immune Response Mechanisms",
+      "score": 0.9944000244140625,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2403",
+        "display_name": "Immunology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/24",
+        "display_name": "Immunology and Microbiology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11056",
+      "display_name": "Physiological and biochemical adaptations",
+      "score": 0.9912999868392944,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2303",
+        "display_name": "Ecology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/biology",
+      "display_name": "Biology",
+      "score": 0.6233518123626709
+    },
+    {
+      "id": "https://openalex.org/keywords/gene",
+      "display_name": "Gene",
+      "score": 0.5724039673805237
+    },
+    {
+      "id": "https://openalex.org/keywords/neuroscience",
+      "display_name": "Neuroscience",
+      "score": 0.5619086623191833
+    },
+    {
+      "id": "https://openalex.org/keywords/computational-biology",
+      "display_name": "Computational biology",
+      "score": 0.45104265213012695
+    },
+    {
+      "id": "https://openalex.org/keywords/drosophila",
+      "display_name": "Drosophila (subgenus)",
+      "score": 0.42671722173690796
+    },
+    {
+      "id": "https://openalex.org/keywords/short-term-memory",
+      "display_name": "Short-term memory",
+      "score": 0.4144701659679413
+    },
+    {
+      "id": "https://openalex.org/keywords/genetics",
+      "display_name": "Genetics",
+      "score": 0.39270204305648804
+    },
+    {
+      "id": "https://openalex.org/keywords/evolutionary-biology",
+      "display_name": "Evolutionary biology",
+      "score": 0.35418784618377686
+    },
+    {
+      "id": "https://openalex.org/keywords/working-memory",
+      "display_name": "Working memory",
+      "score": 0.18899697065353394
+    },
+    {
+      "id": "https://openalex.org/keywords/cognition",
+      "display_name": "Cognition",
+      "score": 0.09928858280181885
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C86803240",
+      "wikidata": "https://www.wikidata.org/wiki/Q420",
+      "display_name": "Biology",
+      "level": 0,
+      "score": 0.6233518123626709
+    },
+    {
+      "id": "https://openalex.org/C104317684",
+      "wikidata": "https://www.wikidata.org/wiki/Q7187",
+      "display_name": "Gene",
+      "level": 2,
+      "score": 0.5724039673805237
+    },
+    {
+      "id": "https://openalex.org/C169760540",
+      "wikidata": "https://www.wikidata.org/wiki/Q207011",
+      "display_name": "Neuroscience",
+      "level": 1,
+      "score": 0.5619086623191833
+    },
+    {
+      "id": "https://openalex.org/C70721500",
+      "wikidata": "https://www.wikidata.org/wiki/Q177005",
+      "display_name": "Computational biology",
+      "level": 1,
+      "score": 0.45104265213012695
+    },
+    {
+      "id": "https://openalex.org/C2776041557",
+      "wikidata": "https://www.wikidata.org/wiki/Q3715451",
+      "display_name": "Drosophila (subgenus)",
+      "level": 3,
+      "score": 0.42671722173690796
+    },
+    {
+      "id": "https://openalex.org/C179226034",
+      "wikidata": "https://www.wikidata.org/wiki/Q18599",
+      "display_name": "Short-term memory",
+      "level": 4,
+      "score": 0.4144701659679413
+    },
+    {
+      "id": "https://openalex.org/C54355233",
+      "wikidata": "https://www.wikidata.org/wiki/Q7162",
+      "display_name": "Genetics",
+      "level": 1,
+      "score": 0.39270204305648804
+    },
+    {
+      "id": "https://openalex.org/C78458016",
+      "wikidata": "https://www.wikidata.org/wiki/Q840400",
+      "display_name": "Evolutionary biology",
+      "level": 1,
+      "score": 0.35418784618377686
+    },
+    {
+      "id": "https://openalex.org/C21963081",
+      "wikidata": "https://www.wikidata.org/wiki/Q11337567",
+      "display_name": "Working memory",
+      "level": 3,
+      "score": 0.18899697065353394
+    },
+    {
+      "id": "https://openalex.org/C169900460",
+      "wikidata": "https://www.wikidata.org/wiki/Q2200417",
+      "display_name": "Cognition",
+      "level": 2,
+      "score": 0.09928858280181885
+    }
+  ],
+  "mesh": [
+    {
+      "descriptor_ui": "D000818",
+      "descriptor_name": "Animals",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D004330",
+      "descriptor_name": "Drosophila",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D004330",
+      "descriptor_name": "Drosophila",
+      "qualifier_ui": "Q000502",
+      "qualifier_name": "physiology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008570",
+      "descriptor_name": "Memory, Short-Term",
+      "qualifier_ui": "Q000502",
+      "qualifier_name": "physiology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D000818",
+      "descriptor_name": "Animals",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D004330",
+      "descriptor_name": "Drosophila",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D004330",
+      "descriptor_name": "Drosophila",
+      "qualifier_ui": "Q000502",
+      "qualifier_name": "physiology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008570",
+      "descriptor_name": "Memory, Short-Term",
+      "qualifier_ui": "Q000502",
+      "qualifier_name": "physiology",
+      "is_major_topic": true
+    }
+  ],
+  "locations_count": 2,
+  "locations": [
+    {
+      "id": "doi:10.1016/j.neubiorev.2018.07.016",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1016/j.neubiorev.2018.07.016",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S170052170",
+        "display_name": "Neuroscience & Biobehavioral Reviews",
+        "issn_l": "0149-7634",
+        "issn": [
+          "0149-7634",
+          "1873-7528"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320990",
+        "host_organization_name": "Elsevier BV",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320990"
+        ],
+        "host_organization_lineage_names": [
+          "Elsevier BV"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Neuroscience &amp; Biobehavioral Reviews",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:30077573",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/30077573",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Neuroscience and biobehavioral reviews",
+      "raw_type": null
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1016/j.neubiorev.2018.07.016",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1016/j.neubiorev.2018.07.016",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S170052170",
+      "display_name": "Neuroscience & Biobehavioral Reviews",
+      "issn_l": "0149-7634",
+      "issn": [
+        "0149-7634",
+        "1873-7528"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320990",
+      "host_organization_name": "Elsevier BV",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320990"
+      ],
+      "host_organization_lineage_names": [
+        "Elsevier BV"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Neuroscience &amp; Biobehavioral Reviews",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [],
+  "awards": [
+    {
+      "id": "https://openalex.org/G1057811188",
+      "display_name": null,
+      "funder_award_id": "MOE2017-T2-1-089",
+      "funder_id": "https://openalex.org/F4320311649",
+      "funder_display_name": "Ministry of Education"
+    },
+    {
+      "id": "https://openalex.org/G7648739176",
+      "display_name": null,
+      "funder_award_id": "MOE2013-T2-2-054",
+      "funder_id": "https://openalex.org/F4320311649",
+      "funder_display_name": "Ministry of Education"
+    }
+  ],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320311649",
+      "display_name": "Ministry of Education",
+      "ror": "https://ror.org/036nq5137"
+    },
+    {
+      "id": "https://openalex.org/F4320335265",
+      "display_name": "Institute of Molecular and Cell Biology",
+      "ror": "https://ror.org/04xpsrn94"
+    },
+    {
+      "id": "https://openalex.org/F4320335846",
+      "display_name": "Biomedical Research Council",
+      "ror": "https://ror.org/03xy0wx88"
+    },
+    {
+      "id": "https://openalex.org/F4320337320",
+      "display_name": "Graduiertenakademie, Technische Universit\u00e4t Dresden",
+      "ror": null
+    }
+  ],
+  "has_content": {
+    "pdf": false,
+    "grobid_xml": false
+  },
+  "referenced_works_count": 163,
+  "referenced_works": [
+    "https://openalex.org/W2172149172",
+    "https://openalex.org/W2124532504",
+    "https://openalex.org/W2291698658",
+    "https://openalex.org/W6684541567",
+    "https://openalex.org/W2108762933",
+    "https://openalex.org/W1674633020",
+    "https://openalex.org/W2203645773",
+    "https://openalex.org/W2406493898",
+    "https://openalex.org/W2129679422",
+    "https://openalex.org/W1786514222",
+    "https://openalex.org/W1603963294",
+    "https://openalex.org/W1987777080",
+    "https://openalex.org/W2119948064",
+    "https://openalex.org/W1999918108",
+    "https://openalex.org/W2115158317",
+    "https://openalex.org/W2105824687",
+    "https://openalex.org/W2020290862",
+    "https://openalex.org/W2107297721",
+    "https://openalex.org/W2165571932",
+    "https://openalex.org/W2280393941",
+    "https://openalex.org/W2148207758",
+    "https://openalex.org/W6746707914",
+    "https://openalex.org/W2219709225",
+    "https://openalex.org/W6666670257",
+    "https://openalex.org/W2127760222",
+    "https://openalex.org/W2059366719",
+    "https://openalex.org/W1939739037",
+    "https://openalex.org/W2103813921",
+    "https://openalex.org/W2017201559",
+    "https://openalex.org/W1697175964",
+    "https://openalex.org/W1994337546",
+    "https://openalex.org/W1987626245",
+    "https://openalex.org/W2112339576",
+    "https://openalex.org/W2155132414",
+    "https://openalex.org/W6746463659",
+    "https://openalex.org/W2061027801",
+    "https://openalex.org/W1605906079",
+    "https://openalex.org/W2000389793",
+    "https://openalex.org/W1919046254",
+    "https://openalex.org/W2104312285",
+    "https://openalex.org/W2060870711",
+    "https://openalex.org/W2290831829",
+    "https://openalex.org/W1994126659",
+    "https://openalex.org/W4321429157",
+    "https://openalex.org/W6717483120",
+    "https://openalex.org/W1585757291",
+    "https://openalex.org/W1622746725",
+    "https://openalex.org/W6684453849",
+    "https://openalex.org/W2075418882",
+    "https://openalex.org/W1990589909",
+    "https://openalex.org/W1599101054",
+    "https://openalex.org/W2007499400",
+    "https://openalex.org/W2048054368",
+    "https://openalex.org/W2221454867",
+    "https://openalex.org/W2125435699",
+    "https://openalex.org/W2019850520",
+    "https://openalex.org/W2061260576",
+    "https://openalex.org/W2120889347",
+    "https://openalex.org/W2085949167",
+    "https://openalex.org/W2169214811",
+    "https://openalex.org/W2079370038",
+    "https://openalex.org/W2144393631",
+    "https://openalex.org/W2166555399",
+    "https://openalex.org/W1971095698",
+    "https://openalex.org/W2024515004",
+    "https://openalex.org/W2082265738",
+    "https://openalex.org/W6626270421",
+    "https://openalex.org/W2057724181",
+    "https://openalex.org/W1966877506",
+    "https://openalex.org/W2329196550",
+    "https://openalex.org/W2087566290",
+    "https://openalex.org/W2171235416",
+    "https://openalex.org/W1989033337",
+    "https://openalex.org/W2076834018",
+    "https://openalex.org/W2104119127",
+    "https://openalex.org/W2064215369",
+    "https://openalex.org/W2747311934",
+    "https://openalex.org/W2031883425",
+    "https://openalex.org/W1973435759",
+    "https://openalex.org/W1987673761",
+    "https://openalex.org/W2029402435",
+    "https://openalex.org/W2047529879",
+    "https://openalex.org/W2043547481",
+    "https://openalex.org/W2081092282",
+    "https://openalex.org/W4243353609",
+    "https://openalex.org/W2122588825",
+    "https://openalex.org/W6718470369",
+    "https://openalex.org/W2073092409",
+    "https://openalex.org/W1975731266",
+    "https://openalex.org/W2211143780",
+    "https://openalex.org/W1980032585",
+    "https://openalex.org/W2094144098",
+    "https://openalex.org/W1897139626",
+    "https://openalex.org/W6722061680",
+    "https://openalex.org/W1854224404",
+    "https://openalex.org/W2096949499",
+    "https://openalex.org/W1887772479",
+    "https://openalex.org/W1433690706",
+    "https://openalex.org/W2067833766",
+    "https://openalex.org/W2054782058",
+    "https://openalex.org/W1988052530",
+    "https://openalex.org/W1979750912",
+    "https://openalex.org/W1979992706",
+    "https://openalex.org/W2084647224",
+    "https://openalex.org/W2155540878",
+    "https://openalex.org/W1989396363",
+    "https://openalex.org/W2067713225",
+    "https://openalex.org/W2497172106",
+    "https://openalex.org/W1997955557",
+    "https://openalex.org/W1980253661",
+    "https://openalex.org/W2164759539",
+    "https://openalex.org/W2310327720",
+    "https://openalex.org/W1988694109",
+    "https://openalex.org/W2089427933",
+    "https://openalex.org/W2129625117",
+    "https://openalex.org/W2023092335",
+    "https://openalex.org/W1991484745",
+    "https://openalex.org/W6677747423",
+    "https://openalex.org/W2001560475",
+    "https://openalex.org/W1968616677",
+    "https://openalex.org/W2078195513",
+    "https://openalex.org/W2102020315",
+    "https://openalex.org/W1999594364",
+    "https://openalex.org/W2002379808",
+    "https://openalex.org/W4249760982",
+    "https://openalex.org/W2137098359",
+    "https://openalex.org/W121366559",
+    "https://openalex.org/W2029079817",
+    "https://openalex.org/W6607850984",
+    "https://openalex.org/W2145341421",
+    "https://openalex.org/W2149673819",
+    "https://openalex.org/W2149919973",
+    "https://openalex.org/W2139168999",
+    "https://openalex.org/W1992290174",
+    "https://openalex.org/W2140882620",
+    "https://openalex.org/W2135903629",
+    "https://openalex.org/W1977447552",
+    "https://openalex.org/W2019416392",
+    "https://openalex.org/W2159307594",
+    "https://openalex.org/W2192326892",
+    "https://openalex.org/W55663680",
+    "https://openalex.org/W2004739431",
+    "https://openalex.org/W2137220579",
+    "https://openalex.org/W2146942647",
+    "https://openalex.org/W1600891589",
+    "https://openalex.org/W2076479572",
+    "https://openalex.org/W2418973194",
+    "https://openalex.org/W2167042818",
+    "https://openalex.org/W3140709557",
+    "https://openalex.org/W2481300999",
+    "https://openalex.org/W2287030368",
+    "https://openalex.org/W2771230123",
+    "https://openalex.org/W193121366",
+    "https://openalex.org/W2171113596",
+    "https://openalex.org/W2570760970",
+    "https://openalex.org/W1982917739",
+    "https://openalex.org/W2761768825",
+    "https://openalex.org/W2165856510",
+    "https://openalex.org/W1009992280",
+    "https://openalex.org/W2063795016",
+    "https://openalex.org/W2439520446",
+    "https://openalex.org/W2774719659",
+    "https://openalex.org/W2119605658"
+  ],
+  "related_works": [
+    "https://openalex.org/W2534156229",
+    "https://openalex.org/W2173880",
+    "https://openalex.org/W2220458821",
+    "https://openalex.org/W2801227923",
+    "https://openalex.org/W2908962691",
+    "https://openalex.org/W2371050059",
+    "https://openalex.org/W2806288029",
+    "https://openalex.org/W2414072389",
+    "https://openalex.org/W4931433",
+    "https://openalex.org/W2336612236"
+  ],
+  "abstract_inverted_index": {
+    "Geneticists": [
+      0
+    ],
+    "use": [
+      1
+    ],
+    "olfactory": [
+      2
+    ],
+    "conditioning": [
+      3
+    ],
+    "in": [
+      4
+    ],
+    "Drosophila": [
+      5
+    ],
+    "to": [
+      6,
+      48,
+      113
+    ],
+    "identify": [
+      7,
+      114
+    ],
+    "learning": [
+      8
+    ],
+    "genes;": [
+      9
+    ],
+    "however,": [
+      10
+    ],
+    "little": [
+      11
+    ],
+    "is": [
+      12,
+      35,
+      139
+    ],
+    "known": [
+      13
+    ],
+    "about": [
+      14
+    ],
+    "how": [
+      15
+    ],
+    "these": [
+      16
+    ],
+    "genes": [
+      17,
+      61,
+      73,
+      87
+    ],
+    "are": [
+      18
+    ],
+    "integrated": [
+      19,
+      144
+    ],
+    "into": [
+      20
+    ],
+    "short-term": [
+      21
+    ],
+    "memory": [
+      22,
+      121
+    ],
+    "(STM)": [
+      23
+    ],
+    "pathways.": [
+      24
+    ],
+    "Here,": [
+      25
+    ],
+    "we": [
+      26,
+      57
+    ],
+    "investigated": [
+      27,
+      83
+    ],
+    "the": [
+      28,
+      31,
+      44,
+      85,
+      110,
+      124
+    ],
+    "hypothesis": [
+      29
+    ],
+    "that": [
+      30,
+      59,
+      105
+    ],
+    "STM": [
+      32,
+      72
+    ],
+    "evidence": [
+      33,
+      127
+    ],
+    "base": [
+      34
+    ],
+    "weak.": [
+      36
+    ],
+    "We": [
+      37
+    ],
+    "performed": [
+      38
+    ],
+    "systematic": [
+      39,
+      136
+    ],
+    "review": [
+      40
+    ],
+    "and": [
+      41,
+      54,
+      66,
+      133
+    ],
+    "meta-analysis": [
+      42
+    ],
+    "of": [
+      43,
+      71,
+      120,
+      126
+    ],
+    "field.": [
+      45
+    ],
+    "Using": [
+      46
+    ],
+    "metrics": [
+      47
+    ],
+    "quantify": [
+      49
+    ],
+    "variation": [
+      50
+    ],
+    "between": [
+      51
+    ],
+    "discovery": [
+      52
+    ],
+    "articles": [
+      53
+    ],
+    "follow-up": [
+      55
+    ],
+    "studies,": [
+      56
+    ],
+    "found": [
+      58
+    ],
+    "seven": [
+      60
+    ],
+    "were": [
+      62
+    ],
+    "both": [
+      63
+    ],
+    "highly": [
+      64,
+      67
+    ],
+    "replicated,": [
+      65
+    ],
+    "reproducible.": [
+      68
+    ],
+    "However,": [
+      69
+    ],
+    "\u223c80%": [
+      70
+    ],
+    "have": [
+      74
+    ],
+    "never": [
+      75
+    ],
+    "been": [
+      76
+    ],
+    "replicated.": [
+      77
+    ],
+    "While": [
+      78
+    ],
+    "only": [
+      79
+    ],
+    "a": [
+      80
+    ],
+    "few": [
+      81
+    ],
+    "studies": [
+      82
+    ],
+    "interactions,": [
+      84
+    ],
+    "reviewed": [
+      86
+    ],
+    "could": [
+      88,
+      98
+    ],
+    "account": [
+      89
+    ],
+    "for": [
+      90,
+      143
+    ],
+    ">1000%": [
+      91
+    ],
+    "memory.": [
+      92
+    ],
+    "This": [
+      93
+    ],
+    "large": [
+      94
+    ],
+    "summed": [
+      95
+    ],
+    "effect": [
+      96
+    ],
+    "size": [
+      97
+    ],
+    "indicate": [
+      99
+    ],
+    "irreproducibility,": [
+      100
+    ],
+    "many": [
+      101
+    ],
+    "shared": [
+      102
+    ],
+    "pathways,": [
+      103
+    ],
+    "or": [
+      104
+    ],
+    "current": [
+      106
+    ],
+    "assay": [
+      107
+    ],
+    "protocols": [
+      108
+    ],
+    "lack": [
+      109
+    ],
+    "specificity": [
+      111
+    ],
+    "needed": [
+      112
+    ],
+    "core": [
+      115
+    ],
+    "plasticity": [
+      116
+    ],
+    "genes.": [
+      117
+    ],
+    "Mechanistic": [
+      118
+    ],
+    "theories": [
+      119
+    ],
+    "will": [
+      122
+    ],
+    "require": [
+      123
+    ],
+    "convergence": [
+      125
+    ],
+    "from": [
+      128
+    ],
+    "system,": [
+      129
+    ],
+    "circuit,": [
+      130
+    ],
+    "cellular,": [
+      131
+    ],
+    "molecular,": [
+      132
+    ],
+    "genetic": [
+      134
+    ],
+    "experiments;": [
+      135
+    ],
+    "data": [
+      137
+    ],
+    "synthesis": [
+      138
+    ],
+    "an": [
+      140
+    ],
+    "essential": [
+      141
+    ],
+    "tool": [
+      142
+    ],
+    "neuroscience.": [
+      145
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 7
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2021,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2020,
+      "cited_by_count": 5
+    },
+    {
+      "year": 2019,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2025-11-06T03:46:38.306776",
+  "created_date": "2025-10-10T00:00:00"
+}

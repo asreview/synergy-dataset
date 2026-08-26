@@ -1,0 +1,1490 @@
+{
+  "id": "https://openalex.org/W3048529076",
+  "doi": "https://doi.org/10.1097/brs.0000000000003645",
+  "title": "Fragility Analysis of Statistically Significant Outcomes of Randomized Control Trials in Spine Surgery",
+  "display_name": "Fragility Analysis of Statistically Significant Outcomes of Randomized Control Trials in Spine Surgery",
+  "publication_year": 2020,
+  "publication_date": "2020-07-31",
+  "ids": {
+    "openalex": "https://openalex.org/W3048529076",
+    "doi": "https://doi.org/10.1097/brs.0000000000003645",
+    "mag": "3048529076",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/32756285"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1097/brs.0000000000003645",
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.1097/brs.0000000000003645",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S4026894",
+      "display_name": "Spine",
+      "issn_l": "0362-2436",
+      "issn": [
+        "0362-2436",
+        "1528-1159"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310315671",
+      "host_organization_name": "Lippincott Williams & Wilkins",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310315671",
+        "https://openalex.org/P4310318547"
+      ],
+      "host_organization_lineage_names": [
+        "Lippincott Williams & Wilkins",
+        "Wolters Kluwer"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Spine",
+    "raw_type": "journal-article"
+  },
+  "type": "review",
+  "indexed_in": [
+    "crossref",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5038989817",
+        "display_name": "Sathish Muthu",
+        "orcid": "https://orcid.org/0000-0002-7143-4354"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210136170",
+          "display_name": "Government Medical College and Hospital",
+          "ror": "https://ror.org/04f6gef75",
+          "country_code": "IN",
+          "type": "other",
+          "lineage": [
+            "https://openalex.org/I4210136170"
+          ]
+        }
+      ],
+      "countries": [
+        "IN"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Sathish Muthu",
+      "raw_affiliation_strings": [
+        "Government Hospital, Velayuthampalayam, Karur, Tamil Nadu, India",
+        "reprint requests to Dr. Sathish Muthu, MS Ortho, Assistant Surgeon, Government Hospital, Velayuthampalayam, Karur 639117, Tamil Nadu, India"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Government Hospital, Velayuthampalayam, Karur, Tamil Nadu, India",
+          "institution_ids": [
+            "https://openalex.org/I4210136170"
+          ]
+        },
+        {
+          "raw_affiliation_string": "reprint requests to Dr. Sathish Muthu, MS Ortho, Assistant Surgeon, Government Hospital, Velayuthampalayam, Karur 639117, Tamil Nadu, India",
+          "institution_ids": [
+            "https://openalex.org/I4210136170"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5012983932",
+        "display_name": "Eswar Ramakrishnan",
+        "orcid": "https://orcid.org/0000-0002-1751-1558"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2801220108",
+          "display_name": "Government General Hospital",
+          "ror": "https://ror.org/05qkf9y72",
+          "country_code": "IN",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2801220108"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I159337121",
+          "display_name": "Madras Medical College",
+          "ror": "https://ror.org/050ztxn78",
+          "country_code": "IN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I159337121"
+          ]
+        }
+      ],
+      "countries": [
+        "IN"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Eswar Ramakrishnan",
+      "raw_affiliation_strings": [
+        "Institute of Orthopaedics and Traumatology, Madras Medical College & Rajiv Gandhi Government General Hospital, Chennai, Tamil Nadu, India."
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of Orthopaedics and Traumatology, Madras Medical College & Rajiv Gandhi Government General Hospital, Chennai, Tamil Nadu, India.",
+          "institution_ids": [
+            "https://openalex.org/I159337121",
+            "https://openalex.org/I2801220108"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 2,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5038989817"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I4210136170"
+  ],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 2.81981378,
+  "has_fulltext": false,
+  "cited_by_count": 38,
+  "citation_normalized_percentile": {
+    "value": 0.89277264,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 89,
+    "max": 100
+  },
+  "biblio": {
+    "volume": "46",
+    "issue": "3",
+    "first_page": "198",
+    "last_page": "208"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10238",
+    "display_name": "Spine and Intervertebral Disc Pathology",
+    "score": 0.9991999864578247,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2734",
+      "display_name": "Pathology and Forensic Medicine"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/27",
+      "display_name": "Medicine"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/4",
+      "display_name": "Health Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10238",
+      "display_name": "Spine and Intervertebral Disc Pathology",
+      "score": 0.9991999864578247,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2734",
+        "display_name": "Pathology and Forensic Medicine"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11509",
+      "display_name": "Hip and Femur Fractures",
+      "score": 0.9983999729156494,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2746",
+        "display_name": "Surgery"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10776",
+      "display_name": "Spinal Fractures and Fixation Techniques",
+      "score": 0.9979000091552734,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2746",
+        "display_name": "Surgery"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/medicine",
+      "display_name": "Medicine",
+      "score": 0.9278727769851685
+    },
+    {
+      "id": "https://openalex.org/keywords/interquartile-range",
+      "display_name": "Interquartile range",
+      "score": 0.7854386568069458
+    },
+    {
+      "id": "https://openalex.org/keywords/sample-size-determination",
+      "display_name": "Sample size determination",
+      "score": 0.7183679342269897
+    },
+    {
+      "id": "https://openalex.org/keywords/randomized-controlled-trial",
+      "display_name": "Randomized controlled trial",
+      "score": 0.6846232414245605
+    },
+    {
+      "id": "https://openalex.org/keywords/statistical-significance",
+      "display_name": "Statistical significance",
+      "score": 0.5967221260070801
+    },
+    {
+      "id": "https://openalex.org/keywords/consolidated-standards-of-reporting-trials",
+      "display_name": "Consolidated Standards of Reporting Trials",
+      "score": 0.44363197684288025
+    },
+    {
+      "id": "https://openalex.org/keywords/internal-medicine",
+      "display_name": "Internal medicine",
+      "score": 0.4172707796096802
+    },
+    {
+      "id": "https://openalex.org/keywords/physical-therapy",
+      "display_name": "Physical therapy",
+      "score": 0.3926847577095032
+    },
+    {
+      "id": "https://openalex.org/keywords/surgery",
+      "display_name": "Surgery",
+      "score": 0.36794936656951904
+    },
+    {
+      "id": "https://openalex.org/keywords/statistics",
+      "display_name": "Statistics",
+      "score": 0.09426447749137878
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C71924100",
+      "wikidata": "https://www.wikidata.org/wiki/Q11190",
+      "display_name": "Medicine",
+      "level": 0,
+      "score": 0.9278727769851685
+    },
+    {
+      "id": "https://openalex.org/C119060515",
+      "wikidata": "https://www.wikidata.org/wiki/Q1916617",
+      "display_name": "Interquartile range",
+      "level": 2,
+      "score": 0.7854386568069458
+    },
+    {
+      "id": "https://openalex.org/C129848803",
+      "wikidata": "https://www.wikidata.org/wiki/Q2564360",
+      "display_name": "Sample size determination",
+      "level": 2,
+      "score": 0.7183679342269897
+    },
+    {
+      "id": "https://openalex.org/C168563851",
+      "wikidata": "https://www.wikidata.org/wiki/Q1436668",
+      "display_name": "Randomized controlled trial",
+      "level": 2,
+      "score": 0.6846232414245605
+    },
+    {
+      "id": "https://openalex.org/C65409693",
+      "wikidata": "https://www.wikidata.org/wiki/Q425265",
+      "display_name": "Statistical significance",
+      "level": 2,
+      "score": 0.5967221260070801
+    },
+    {
+      "id": "https://openalex.org/C49290038",
+      "wikidata": "https://www.wikidata.org/wiki/Q2994654",
+      "display_name": "Consolidated Standards of Reporting Trials",
+      "level": 3,
+      "score": 0.44363197684288025
+    },
+    {
+      "id": "https://openalex.org/C126322002",
+      "wikidata": "https://www.wikidata.org/wiki/Q11180",
+      "display_name": "Internal medicine",
+      "level": 1,
+      "score": 0.4172707796096802
+    },
+    {
+      "id": "https://openalex.org/C1862650",
+      "wikidata": "https://www.wikidata.org/wiki/Q186005",
+      "display_name": "Physical therapy",
+      "level": 1,
+      "score": 0.3926847577095032
+    },
+    {
+      "id": "https://openalex.org/C141071460",
+      "wikidata": "https://www.wikidata.org/wiki/Q40821",
+      "display_name": "Surgery",
+      "level": 1,
+      "score": 0.36794936656951904
+    },
+    {
+      "id": "https://openalex.org/C105795698",
+      "wikidata": "https://www.wikidata.org/wiki/Q12483",
+      "display_name": "Statistics",
+      "level": 1,
+      "score": 0.09426447749137878
+    },
+    {
+      "id": "https://openalex.org/C33923547",
+      "wikidata": "https://www.wikidata.org/wiki/Q395",
+      "display_name": "Mathematics",
+      "level": 0,
+      "score": 0.0
+    }
+  ],
+  "mesh": [
+    {
+      "descriptor_ui": "D015982",
+      "descriptor_name": "Bias",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D016208",
+      "descriptor_name": "Databases, Factual",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D055811",
+      "descriptor_name": "Journal Impact Factor",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D019635",
+      "descriptor_name": "Neurosurgical Procedures",
+      "qualifier_ui": "Q000706",
+      "qualifier_name": "statistics & numerical data",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D011446",
+      "descriptor_name": "Prospective Studies",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D016032",
+      "descriptor_name": "Randomized Controlled Trials as Topic",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D013124",
+      "descriptor_name": "Spinal Injuries",
+      "qualifier_ui": "Q000601",
+      "qualifier_name": "surgery",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015982",
+      "descriptor_name": "Bias",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D016208",
+      "descriptor_name": "Databases, Factual",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D055811",
+      "descriptor_name": "Journal Impact Factor",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D019635",
+      "descriptor_name": "Neurosurgical Procedures",
+      "qualifier_ui": "Q000706",
+      "qualifier_name": "statistics & numerical data",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D011446",
+      "descriptor_name": "Prospective Studies",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D016032",
+      "descriptor_name": "Randomized Controlled Trials as Topic",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D013124",
+      "descriptor_name": "Spinal Injuries",
+      "qualifier_ui": "Q000601",
+      "qualifier_name": "surgery",
+      "is_major_topic": false
+    }
+  ],
+  "locations_count": 2,
+  "locations": [
+    {
+      "id": "doi:10.1097/brs.0000000000003645",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1097/brs.0000000000003645",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4026894",
+        "display_name": "Spine",
+        "issn_l": "0362-2436",
+        "issn": [
+          "0362-2436",
+          "1528-1159"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310315671",
+        "host_organization_name": "Lippincott Williams & Wilkins",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310315671",
+          "https://openalex.org/P4310318547"
+        ],
+        "host_organization_lineage_names": [
+          "Lippincott Williams & Wilkins",
+          "Wolters Kluwer"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Spine",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:32756285",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/32756285",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Spine",
+      "raw_type": null
+    }
+  ],
+  "best_oa_location": null,
+  "sustainable_development_goals": [],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "grobid_xml": false,
+    "pdf": false
+  },
+  "referenced_works_count": 110,
+  "referenced_works": [
+    "https://openalex.org/W1896617497",
+    "https://openalex.org/W1765856203",
+    "https://openalex.org/W2320569759",
+    "https://openalex.org/W2039902164",
+    "https://openalex.org/W6660360697",
+    "https://openalex.org/W6774838480",
+    "https://openalex.org/W2163724055",
+    "https://openalex.org/W7075613458",
+    "https://openalex.org/W2161095279",
+    "https://openalex.org/W2164957370",
+    "https://openalex.org/W2059053909",
+    "https://openalex.org/W2079397260",
+    "https://openalex.org/W2005501262",
+    "https://openalex.org/W2756578555",
+    "https://openalex.org/W1444168786",
+    "https://openalex.org/W6628505203",
+    "https://openalex.org/W1598602811",
+    "https://openalex.org/W2010149513",
+    "https://openalex.org/W2016073161",
+    "https://openalex.org/W2326270384",
+    "https://openalex.org/W1969118658",
+    "https://openalex.org/W2323982829",
+    "https://openalex.org/W2046123363",
+    "https://openalex.org/W2314403270",
+    "https://openalex.org/W2787102513",
+    "https://openalex.org/W2092688813",
+    "https://openalex.org/W2620729232",
+    "https://openalex.org/W2101618872",
+    "https://openalex.org/W2074312046",
+    "https://openalex.org/W2050893190",
+    "https://openalex.org/W2066665758",
+    "https://openalex.org/W2043199083",
+    "https://openalex.org/W2223768634",
+    "https://openalex.org/W2307842541",
+    "https://openalex.org/W2767639473",
+    "https://openalex.org/W2059724197",
+    "https://openalex.org/W7073611277",
+    "https://openalex.org/W2317326679",
+    "https://openalex.org/W2096805167",
+    "https://openalex.org/W2329894732",
+    "https://openalex.org/W2318223035",
+    "https://openalex.org/W2072616254",
+    "https://openalex.org/W6688520205",
+    "https://openalex.org/W2050153843",
+    "https://openalex.org/W2015748473",
+    "https://openalex.org/W2214863797",
+    "https://openalex.org/W2000122573",
+    "https://openalex.org/W2333655636",
+    "https://openalex.org/W1895111093",
+    "https://openalex.org/W6650440932",
+    "https://openalex.org/W2008868785",
+    "https://openalex.org/W2053796050",
+    "https://openalex.org/W1486382450",
+    "https://openalex.org/W1493734536",
+    "https://openalex.org/W2335179125",
+    "https://openalex.org/W2524526560",
+    "https://openalex.org/W1998897185",
+    "https://openalex.org/W2738476895",
+    "https://openalex.org/W2013579667",
+    "https://openalex.org/W1986318772",
+    "https://openalex.org/W2897980574",
+    "https://openalex.org/W2890783488",
+    "https://openalex.org/W2184143792",
+    "https://openalex.org/W2082980678",
+    "https://openalex.org/W2802988852",
+    "https://openalex.org/W2035935211",
+    "https://openalex.org/W2058457689",
+    "https://openalex.org/W2067909974",
+    "https://openalex.org/W2018079465",
+    "https://openalex.org/W2317854198",
+    "https://openalex.org/W2894818608",
+    "https://openalex.org/W1997458448",
+    "https://openalex.org/W2004879008",
+    "https://openalex.org/W2081494650",
+    "https://openalex.org/W2030611016",
+    "https://openalex.org/W2004467703",
+    "https://openalex.org/W2151293380",
+    "https://openalex.org/W2472084313",
+    "https://openalex.org/W1780429040",
+    "https://openalex.org/W1968538608",
+    "https://openalex.org/W1970221292",
+    "https://openalex.org/W1985662075",
+    "https://openalex.org/W2800521673",
+    "https://openalex.org/W2150924872",
+    "https://openalex.org/W2060385671",
+    "https://openalex.org/W1998382163",
+    "https://openalex.org/W2890380612",
+    "https://openalex.org/W2079949712",
+    "https://openalex.org/W2091052216",
+    "https://openalex.org/W6631738036",
+    "https://openalex.org/W1988489273",
+    "https://openalex.org/W1530421334",
+    "https://openalex.org/W2315806125",
+    "https://openalex.org/W2042896479",
+    "https://openalex.org/W2096968635",
+    "https://openalex.org/W6682601156",
+    "https://openalex.org/W2059348534",
+    "https://openalex.org/W2073974961",
+    "https://openalex.org/W2771977846",
+    "https://openalex.org/W2792091789",
+    "https://openalex.org/W2801786524",
+    "https://openalex.org/W2295697473",
+    "https://openalex.org/W2557904139",
+    "https://openalex.org/W2901824386",
+    "https://openalex.org/W1828994992",
+    "https://openalex.org/W2556687404",
+    "https://openalex.org/W2531429888",
+    "https://openalex.org/W2156098321",
+    "https://openalex.org/W3008155648",
+    "https://openalex.org/W2152938409"
+  ],
+  "related_works": [
+    "https://openalex.org/W2416034195",
+    "https://openalex.org/W4253385941",
+    "https://openalex.org/W2339472202",
+    "https://openalex.org/W4236153081",
+    "https://openalex.org/W2295686058",
+    "https://openalex.org/W4229540907",
+    "https://openalex.org/W2015260345",
+    "https://openalex.org/W2436468294",
+    "https://openalex.org/W3094500772",
+    "https://openalex.org/W2291492010"
+  ],
+  "abstract_inverted_index": {
+    "Study": [
+      0
+    ],
+    "Design.": [
+      1
+    ],
+    "Systematic": [
+      2
+    ],
+    "review.": [
+      3
+    ],
+    "Objectives.": [
+      4
+    ],
+    "The": [
+      5,
+      167,
+      194,
+      212,
+      313
+    ],
+    "aim": [
+      6
+    ],
+    "of": [
+      7,
+      15,
+      39,
+      45,
+      50,
+      75,
+      96,
+      151,
+      189,
+      202,
+      209,
+      232,
+      259,
+      264,
+      288,
+      299,
+      315,
+      320,
+      328,
+      332,
+      353
+    ],
+    "this": [
+      8
+    ],
+    "study": [
+      9,
+      113
+    ],
+    "was": [
+      10,
+      127,
+      138,
+      163,
+      171,
+      197,
+      215
+    ],
+    "to": [
+      11,
+      184,
+      205,
+      217,
+      292,
+      342,
+      347
+    ],
+    "assess": [
+      12
+    ],
+    "the": [
+      13,
+      37,
+      46,
+      73,
+      76,
+      186,
+      190,
+      200,
+      289,
+      297,
+      326,
+      329
+    ],
+    "robustness": [
+      14,
+      74,
+      327
+    ],
+    "statistically": [
+      16,
+      82,
+      117
+    ],
+    "significant": [
+      17,
+      83,
+      118,
+      270,
+      274
+    ],
+    "outcomes": [
+      18,
+      123,
+      276,
+      287
+    ],
+    "from": [
+      19,
+      78,
+      102,
+      182
+    ],
+    "randomized": [
+      20
+    ],
+    "control": [
+      21
+    ],
+    "trials": [
+      22,
+      54,
+      142
+    ],
+    "(RCTs)": [
+      23
+    ],
+    "in": [
+      24,
+      55,
+      91,
+      99,
+      207,
+      278,
+      317
+    ],
+    "spine": [
+      25,
+      100,
+      279
+    ],
+    "surgery": [
+      26,
+      57,
+      101,
+      280
+    ],
+    "using": [
+      27
+    ],
+    "Fragility": [
+      28
+    ],
+    "Index": [
+      29
+    ],
+    "(FI)": [
+      30
+    ],
+    "which": [
+      31,
+      42,
+      175
+    ],
+    "is": [
+      32,
+      192
+    ],
+    "a": [
+      33,
+      93,
+      147,
+      269
+    ],
+    "novel": [
+      34
+    ],
+    "metric": [
+      35
+    ],
+    "measuring": [
+      36
+    ],
+    "number": [
+      38,
+      201,
+      231
+    ],
+    "events": [
+      40,
+      63,
+      160,
+      234
+    ],
+    "upon": [
+      41
+    ],
+    "statistical": [
+      43,
+      187,
+      330
+    ],
+    "significance": [
+      44,
+      188,
+      298,
+      331
+    ],
+    "outcome": [
+      47,
+      62,
+      191,
+      233
+    ],
+    "depends.": [
+      48
+    ],
+    "Summary": [
+      49
+    ],
+    "Background": [
+      51
+    ],
+    "Data.": [
+      52
+    ],
+    "Many": [
+      53
+    ],
+    "Spine": [
+      56
+    ],
+    "were": [
+      58,
+      124
+    ],
+    "characterized": [
+      59
+    ],
+    "by": [
+      60
+    ],
+    "fewer": [
+      61
+    ],
+    "along": [
+      64
+    ],
+    "with": [
+      65,
+      81,
+      110,
+      135,
+      146,
+      220,
+      245,
+      335
+    ],
+    "small": [
+      66
+    ],
+    "sample": [
+      67,
+      149,
+      221
+    ],
+    "size.": [
+      68
+    ],
+    "FI": [
+      69,
+      126,
+      169,
+      195,
+      213,
+      316,
+      336
+    ],
+    "helps": [
+      70
+    ],
+    "us": [
+      71
+    ],
+    "identify": [
+      72
+    ],
+    "results": [
+      77,
+      300,
+      309
+    ],
+    "such": [
+      79
+    ],
+    "studies": [
+      80
+    ],
+    "dichotomous": [
+      84,
+      119,
+      275
+    ],
+    "outcomes.": [
+      85,
+      333
+    ],
+    "Methods.": [
+      86
+    ],
+    "We": [
+      87
+    ],
+    "conducted": [
+      88
+    ],
+    "independent": [
+      89
+    ],
+    "and": [
+      90,
+      106,
+      115,
+      132,
+      157,
+      262,
+      286,
+      301
+    ],
+    "duplicate,": [
+      92
+    ],
+    "systematic": [
+      94
+    ],
+    "review": [
+      95
+    ],
+    "published": [
+      97
+    ],
+    "RCTs": [
+      98,
+      109,
+      281,
+      321,
+      334
+    ],
+    "PubMed": [
+      103
+    ],
+    "Central,": [
+      104
+    ],
+    "Embase,": [
+      105
+    ],
+    "Cochrane": [
+      107
+    ],
+    "Database.": [
+      108
+    ],
+    "1:1": [
+      111
+    ],
+    "prospective": [
+      112
+    ],
+    "design": [
+      114
+    ],
+    "reporting": [
+      116,
+      319
+    ],
+    "primary": [
+      120
+    ],
+    "or": [
+      121
+    ],
+    "secondary": [
+      122
+    ],
+    "included.": [
+      125
+    ],
+    "calculated": [
+      128
+    ],
+    "for": [
+      129
+    ],
+    "each": [
+      130
+    ],
+    "RCT": [
+      131
+    ],
+    "its": [
+      133
+    ],
+    "correlation": [
+      134
+    ],
+    "various": [
+      136
+    ],
+    "factors": [
+      137
+    ],
+    "analyzed.": [
+      139
+    ],
+    "Results.": [
+      140
+    ],
+    "Seventy": [
+      141
+    ],
+    "met": [
+      143
+    ],
+    "inclusion": [
+      144
+    ],
+    "criteria": [
+      145
+    ],
+    "median": [
+      148,
+      158,
+      168
+    ],
+    "size": [
+      150,
+      222
+    ],
+    "133": [
+      152
+    ],
+    "(interquartile": [
+      153
+    ],
+    "range": [
+      154
+    ],
+    "[IQR]:": [
+      155
+    ],
+    "80\u2013218)": [
+      156
+    ],
+    "reported": [
+      159,
+      277
+    ],
+    "per": [
+      161
+    ],
+    "trial": [
+      162
+    ],
+    "38": [
+      164
+    ],
+    "(IQR:": [
+      165,
+      173
+    ],
+    "13\u201394).": [
+      166
+    ],
+    "score": [
+      170,
+      196,
+      214
+    ],
+    "2": [
+      172
+    ],
+    "0\u20135),": [
+      174
+    ],
+    "means": [
+      176
+    ],
+    "if": [
+      177
+    ],
+    "we": [
+      178
+    ],
+    "switch": [
+      179
+    ],
+    "two": [
+      180
+    ],
+    "patients": [
+      181,
+      203,
+      290
+    ],
+    "nonevent": [
+      183
+    ],
+    "event,": [
+      185
+    ],
+    "lost.": [
+      193
+    ],
+    "less": [
+      198
+    ],
+    "than": [
+      199
+    ],
+    "lost": [
+      204,
+      291,
+      341
+    ],
+    "follow-up": [
+      206,
+      293,
+      343
+    ],
+    "28": [
+      208
+    ],
+    "70": [
+      210
+    ],
+    "trials.": [
+      211
+    ],
+    "found": [
+      216
+    ],
+    "positively": [
+      218
+    ],
+    "correlated": [
+      219,
+      244
+    ],
+    "(": [
+      223,
+      235,
+      248
+    ],
+    "r": [
+      224,
+      236,
+      249
+    ],
+    "=": [
+      225,
+      228,
+      237,
+      240,
+      250,
+      253
+    ],
+    "0.431,": [
+      226
+    ],
+    "P": [
+      227,
+      239,
+      246,
+      252
+    ],
+    "0.001),": [
+      229
+    ],
+    "total": [
+      230
+    ],
+    "0.305,": [
+      238
+    ],
+    "0.01)": [
+      241
+    ],
+    "while": [
+      242
+    ],
+    "negatively": [
+      243
+    ],
+    "value": [
+      247
+    ],
+    "\u22120.392,": [
+      251
+    ],
+    "0.001).": [
+      254
+    ],
+    "Funding,": [
+      255
+    ],
+    "journal": [
+      256
+    ],
+    "impact-factor,": [
+      257
+    ],
+    "risk": [
+      258
+    ],
+    "bias": [
+      260
+    ],
+    "domains,": [
+      261
+    ],
+    "year": [
+      263
+    ],
+    "publication": [
+      265
+    ],
+    "did": [
+      266
+    ],
+    "not": [
+      267
+    ],
+    "have": [
+      268,
+      295,
+      348
+    ],
+    "correlation.": [
+      271
+    ],
+    "Conclusion.": [
+      272
+    ],
+    "Statistically": [
+      273
+    ],
+    "are": [
+      282
+    ],
+    "more": [
+      283
+    ],
+    "often": [
+      284
+    ],
+    "fragile": [
+      285
+    ],
+    "could": [
+      294
+    ],
+    "changed": [
+      296
+    ],
+    "hence": [
+      302
+    ],
+    "it": [
+      303
+    ],
+    "needs": [
+      304
+    ],
+    "caution": [
+      305
+    ],
+    "before": [
+      306
+    ],
+    "transcending": [
+      307
+    ],
+    "their": [
+      308
+    ],
+    "into": [
+      310
+    ],
+    "clinical": [
+      311
+    ],
+    "application.": [
+      312
+    ],
+    "addition": [
+      314
+    ],
+    "routine": [
+      318
+    ],
+    "would": [
+      322
+    ],
+    "guide": [
+      323
+    ],
+    "readers": [
+      324
+    ],
+    "on": [
+      325
+    ],
+    "\u22655": [
+      337
+    ],
+    "without": [
+      338
+    ],
+    "any": [
+      339
+    ],
+    "patient": [
+      340
+    ],
+    "can": [
+      344
+    ],
+    "be": [
+      345
+    ],
+    "considered": [
+      346
+    ],
+    "clinically": [
+      349
+    ],
+    "robust": [
+      350
+    ],
+    "results.": [
+      351
+    ],
+    "Level": [
+      352
+    ],
+    "Evidence:": [
+      354
+    ],
+    "1": [
+      355
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 6
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 16
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 9
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 5
+    },
+    {
+      "year": 2021,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2020,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2025-11-06T03:46:38.306776",
+  "created_date": "2020-08-18T00:00:00"
+}

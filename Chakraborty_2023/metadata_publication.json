@@ -1,0 +1,588 @@
+{
+  "id": "https://openalex.org/W4384559613",
+  "doi": "https://doi.org/10.1007/s10270-023-01117-1",
+  "title": "Modelling guidance in software engineering: a systematic literature review",
+  "display_name": "Modelling guidance in software engineering: a systematic literature review",
+  "publication_year": 2023,
+  "publication_date": "2023-07-17",
+  "ids": {
+    "openalex": "https://openalex.org/W4384559613",
+    "doi": "https://doi.org/10.1007/s10270-023-01117-1"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1007/s10270-023-01117-1",
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.1007/s10270-023-01117-1",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S64245694",
+      "display_name": "Software & Systems Modeling",
+      "issn_l": "1619-1366",
+      "issn": [
+        "1619-1366",
+        "1619-1374"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310319900",
+      "host_organization_name": "Springer Science+Business Media",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310319900",
+        "https://openalex.org/P4310319965"
+      ],
+      "host_organization_lineage_names": [
+        "Springer Science+Business Media",
+        "Springer Nature"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Software and Systems Modeling",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5101064977",
+        "display_name": "Shalini Chakraborty",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I123185442",
+          "display_name": "Reykjav\u00edk University",
+          "ror": "https://ror.org/05d2kyx68",
+          "country_code": "IS",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I123185442"
+          ]
+        }
+      ],
+      "countries": [
+        "IS"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Shalini Chakraborty",
+      "raw_affiliation_strings": [
+        "Reykjavik University, Menntavegur 1, 102, Reykjav\u00edk, Iceland"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Reykjavik University, Menntavegur 1, 102, Reykjav\u00edk, Iceland",
+          "institution_ids": [
+            "https://openalex.org/I123185442"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5042863450",
+        "display_name": "Grischa Liebel",
+        "orcid": "https://orcid.org/0000-0002-3884-815X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I123185442",
+          "display_name": "Reykjav\u00edk University",
+          "ror": "https://ror.org/05d2kyx68",
+          "country_code": "IS",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I123185442"
+          ]
+        }
+      ],
+      "countries": [
+        "IS"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Grischa Liebel",
+      "raw_affiliation_strings": [
+        "Reykjavik University, Menntavegur 1, 102, Reykjav\u00edk, Iceland"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Reykjavik University, Menntavegur 1, 102, Reykjav\u00edk, Iceland",
+          "institution_ids": [
+            "https://openalex.org/I123185442"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 2,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [],
+  "apc_list": {
+    "value": 2290,
+    "currency": "EUR",
+    "value_usd": 2890
+  },
+  "apc_paid": null,
+  "fwci": 3.09243813,
+  "has_fulltext": false,
+  "cited_by_count": 5,
+  "citation_normalized_percentile": {
+    "value": 0.91091308,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 95,
+    "max": 97
+  },
+  "biblio": {
+    "volume": "23",
+    "issue": "1",
+    "first_page": "249",
+    "last_page": "265"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10260",
+    "display_name": "Software Engineering Research",
+    "score": 0.9998000264167786,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1710",
+      "display_name": "Information Systems"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/17",
+      "display_name": "Computer Science"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10260",
+      "display_name": "Software Engineering Research",
+      "score": 0.9998000264167786,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1710",
+        "display_name": "Information Systems"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11450",
+      "display_name": "Model-Driven Software Engineering Techniques",
+      "score": 0.9986000061035156,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1712",
+        "display_name": "Software"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10430",
+      "display_name": "Software Engineering Techniques and Practices",
+      "score": 0.9983999729156494,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1710",
+        "display_name": "Information Systems"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/terminology",
+      "display_name": "Terminology",
+      "score": 0.772632360458374
+    },
+    {
+      "id": "https://openalex.org/keywords/computer-science",
+      "display_name": "Computer science",
+      "score": 0.6671842932701111
+    },
+    {
+      "id": "https://openalex.org/keywords/systematic-review",
+      "display_name": "Systematic review",
+      "score": 0.642417311668396
+    },
+    {
+      "id": "https://openalex.org/keywords/software-engineering",
+      "display_name": "Software engineering",
+      "score": 0.5193217992782593
+    },
+    {
+      "id": "https://openalex.org/keywords/software-technical-review",
+      "display_name": "Software technical review",
+      "score": 0.49799060821533203
+    },
+    {
+      "id": "https://openalex.org/keywords/management-science",
+      "display_name": "Management science",
+      "score": 0.49271872639656067
+    },
+    {
+      "id": "https://openalex.org/keywords/software",
+      "display_name": "Software",
+      "score": 0.4905838072299957
+    },
+    {
+      "id": "https://openalex.org/keywords/data-science",
+      "display_name": "Data science",
+      "score": 0.43249332904815674
+    },
+    {
+      "id": "https://openalex.org/keywords/software-development",
+      "display_name": "Software development",
+      "score": 0.37538957595825195
+    },
+    {
+      "id": "https://openalex.org/keywords/software-design",
+      "display_name": "Software design",
+      "score": 0.2764207720756531
+    },
+    {
+      "id": "https://openalex.org/keywords/engineering",
+      "display_name": "Engineering",
+      "score": 0.18853837251663208
+    },
+    {
+      "id": "https://openalex.org/keywords/medline",
+      "display_name": "MEDLINE",
+      "score": 0.09559059143066406
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C547195049",
+      "wikidata": "https://www.wikidata.org/wiki/Q1725664",
+      "display_name": "Terminology",
+      "level": 2,
+      "score": 0.772632360458374
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.6671842932701111
+    },
+    {
+      "id": "https://openalex.org/C189708586",
+      "wikidata": "https://www.wikidata.org/wiki/Q1504425",
+      "display_name": "Systematic review",
+      "level": 3,
+      "score": 0.642417311668396
+    },
+    {
+      "id": "https://openalex.org/C115903868",
+      "wikidata": "https://www.wikidata.org/wiki/Q80993",
+      "display_name": "Software engineering",
+      "level": 1,
+      "score": 0.5193217992782593
+    },
+    {
+      "id": "https://openalex.org/C6586637",
+      "wikidata": "https://www.wikidata.org/wiki/Q7554372",
+      "display_name": "Software technical review",
+      "level": 5,
+      "score": 0.49799060821533203
+    },
+    {
+      "id": "https://openalex.org/C539667460",
+      "wikidata": "https://www.wikidata.org/wiki/Q2414942",
+      "display_name": "Management science",
+      "level": 1,
+      "score": 0.49271872639656067
+    },
+    {
+      "id": "https://openalex.org/C2777904410",
+      "wikidata": "https://www.wikidata.org/wiki/Q7397",
+      "display_name": "Software",
+      "level": 2,
+      "score": 0.4905838072299957
+    },
+    {
+      "id": "https://openalex.org/C2522767166",
+      "wikidata": "https://www.wikidata.org/wiki/Q2374463",
+      "display_name": "Data science",
+      "level": 1,
+      "score": 0.43249332904815674
+    },
+    {
+      "id": "https://openalex.org/C529173508",
+      "wikidata": "https://www.wikidata.org/wiki/Q638608",
+      "display_name": "Software development",
+      "level": 3,
+      "score": 0.37538957595825195
+    },
+    {
+      "id": "https://openalex.org/C52913732",
+      "wikidata": "https://www.wikidata.org/wiki/Q857102",
+      "display_name": "Software design",
+      "level": 4,
+      "score": 0.2764207720756531
+    },
+    {
+      "id": "https://openalex.org/C127413603",
+      "wikidata": "https://www.wikidata.org/wiki/Q11023",
+      "display_name": "Engineering",
+      "level": 0,
+      "score": 0.18853837251663208
+    },
+    {
+      "id": "https://openalex.org/C2779473830",
+      "wikidata": "https://www.wikidata.org/wiki/Q1540899",
+      "display_name": "MEDLINE",
+      "level": 2,
+      "score": 0.09559059143066406
+    },
+    {
+      "id": "https://openalex.org/C138885662",
+      "wikidata": "https://www.wikidata.org/wiki/Q5891",
+      "display_name": "Philosophy",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C41895202",
+      "wikidata": "https://www.wikidata.org/wiki/Q8162",
+      "display_name": "Linguistics",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C17744445",
+      "wikidata": "https://www.wikidata.org/wiki/Q36442",
+      "display_name": "Political science",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C199539241",
+      "wikidata": "https://www.wikidata.org/wiki/Q7748",
+      "display_name": "Law",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C199360897",
+      "wikidata": "https://www.wikidata.org/wiki/Q9143",
+      "display_name": "Programming language",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "id": "doi:10.1007/s10270-023-01117-1",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1007/s10270-023-01117-1",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S64245694",
+        "display_name": "Software & Systems Modeling",
+        "issn_l": "1619-1366",
+        "issn": [
+          "1619-1366",
+          "1619-1374"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310319900",
+        "host_organization_name": "Springer Science+Business Media",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310319900",
+          "https://openalex.org/P4310319965"
+        ],
+        "host_organization_lineage_names": [
+          "Springer Science+Business Media",
+          "Springer Nature"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Software and Systems Modeling",
+      "raw_type": "journal-article"
+    }
+  ],
+  "best_oa_location": null,
+  "sustainable_development_goals": [
+    {
+      "score": 0.5799999833106995,
+      "id": "https://metadata.un.org/sdg/9",
+      "display_name": "Industry, innovation and infrastructure"
+    }
+  ],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "pdf": false,
+    "grobid_xml": false
+  },
+  "referenced_works_count": 88,
+  "referenced_works": [
+    "https://openalex.org/W2102740905",
+    "https://openalex.org/W2095084415",
+    "https://openalex.org/W2033014924",
+    "https://openalex.org/W2116530587",
+    "https://openalex.org/W2497916815",
+    "https://openalex.org/W4220779800",
+    "https://openalex.org/W4377291442",
+    "https://openalex.org/W4384009677",
+    "https://openalex.org/W1599080961",
+    "https://openalex.org/W2080408219",
+    "https://openalex.org/W2106011195",
+    "https://openalex.org/W4310860180",
+    "https://openalex.org/W2485355225",
+    "https://openalex.org/W2967395082",
+    "https://openalex.org/W1984936841",
+    "https://openalex.org/W1996832037",
+    "https://openalex.org/W3189259198",
+    "https://openalex.org/W2126203637",
+    "https://openalex.org/W2984222451",
+    "https://openalex.org/W2152091855",
+    "https://openalex.org/W4200419762",
+    "https://openalex.org/W2007803798",
+    "https://openalex.org/W2109165865",
+    "https://openalex.org/W2152863619",
+    "https://openalex.org/W1790520853",
+    "https://openalex.org/W65349074",
+    "https://openalex.org/W3192089198",
+    "https://openalex.org/W4251998459",
+    "https://openalex.org/W2095741627",
+    "https://openalex.org/W2124968587",
+    "https://openalex.org/W2167736435",
+    "https://openalex.org/W1971400127",
+    "https://openalex.org/W2141838402",
+    "https://openalex.org/W4283656956",
+    "https://openalex.org/W4242159984",
+    "https://openalex.org/W2106956101",
+    "https://openalex.org/W2565032187",
+    "https://openalex.org/W2164777277",
+    "https://openalex.org/W3214219979",
+    "https://openalex.org/W2334693167",
+    "https://openalex.org/W2804761052",
+    "https://openalex.org/W2784328625",
+    "https://openalex.org/W4235941825",
+    "https://openalex.org/W2134296331",
+    "https://openalex.org/W2060307524",
+    "https://openalex.org/W2097249290",
+    "https://openalex.org/W2135791720",
+    "https://openalex.org/W2001453920",
+    "https://openalex.org/W1801877240",
+    "https://openalex.org/W2042006856",
+    "https://openalex.org/W1546734197",
+    "https://openalex.org/W2093312782",
+    "https://openalex.org/W2110143060",
+    "https://openalex.org/W2006108348",
+    "https://openalex.org/W1669992463",
+    "https://openalex.org/W4214443",
+    "https://openalex.org/W1999798506",
+    "https://openalex.org/W1976528583",
+    "https://openalex.org/W2171242798",
+    "https://openalex.org/W2048422177",
+    "https://openalex.org/W3088241502",
+    "https://openalex.org/W2052524743",
+    "https://openalex.org/W4233152543",
+    "https://openalex.org/W4206030968",
+    "https://openalex.org/W2893541723",
+    "https://openalex.org/W2895952060",
+    "https://openalex.org/W1795964403",
+    "https://openalex.org/W99700912",
+    "https://openalex.org/W2984441688",
+    "https://openalex.org/W2085762136",
+    "https://openalex.org/W2296406466",
+    "https://openalex.org/W2522530664",
+    "https://openalex.org/W2404230625",
+    "https://openalex.org/W1901619708",
+    "https://openalex.org/W4213330196",
+    "https://openalex.org/W2537396641",
+    "https://openalex.org/W3150055540",
+    "https://openalex.org/W1505885302",
+    "https://openalex.org/W2128961774",
+    "https://openalex.org/W1975675278",
+    "https://openalex.org/W2163786914",
+    "https://openalex.org/W2891421390",
+    "https://openalex.org/W2921671015",
+    "https://openalex.org/W2199735168",
+    "https://openalex.org/W4301914348",
+    "https://openalex.org/W1800478330",
+    "https://openalex.org/W1529377943",
+    "https://openalex.org/W2099293367"
+  ],
+  "related_works": [
+    "https://openalex.org/W2350593162",
+    "https://openalex.org/W2390350206",
+    "https://openalex.org/W1969477129",
+    "https://openalex.org/W2921208823",
+    "https://openalex.org/W2353483812",
+    "https://openalex.org/W4230169674",
+    "https://openalex.org/W4387124215",
+    "https://openalex.org/W2892590175",
+    "https://openalex.org/W1975516699",
+    "https://openalex.org/W2137198064"
+  ],
+  "abstract_inverted_index": null,
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 3
+    }
+  ],
+  "updated_date": "2025-11-06T03:46:38.306776",
+  "created_date": "2025-10-10T00:00:00"
+}

@@ -1,0 +1,1684 @@
+{
+  "id": "https://openalex.org/W4296711918",
+  "doi": "https://doi.org/10.12688/wellcomeopenres.17208.2",
+  "title": "Frailty in people with rheumatoid arthritis: a systematic review of observational studies",
+  "display_name": "Frailty in people with rheumatoid arthritis: a systematic review of observational studies",
+  "publication_year": 2022,
+  "publication_date": "2022-09-20",
+  "ids": {
+    "openalex": "https://openalex.org/W4296711918",
+    "doi": "https://doi.org/10.12688/wellcomeopenres.17208.2",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/37746318"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.12688/wellcomeopenres.17208.2",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.12688/wellcomeopenres.17208.2",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S4210218052",
+      "display_name": "Wellcome Open Research",
+      "issn_l": "2398-502X",
+      "issn": [
+        "2398-502X"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310311838",
+      "host_organization_name": "Wellcome",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310311838"
+      ],
+      "host_organization_lineage_names": [
+        "Wellcome"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Wellcome Open Research",
+    "raw_type": "journal-article"
+  },
+  "type": "review",
+  "indexed_in": [
+    "crossref",
+    "doaj",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "gold",
+    "oa_url": "https://doi.org/10.12688/wellcomeopenres.17208.2",
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5067922316",
+        "display_name": "Peter Hanlon",
+        "orcid": "https://orcid.org/0000-0002-5828-3934"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I7882870",
+          "display_name": "University of Glasgow",
+          "ror": "https://ror.org/00vtgdb53",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I7882870"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I230495080",
+          "display_name": "University of Limerick",
+          "ror": "https://ror.org/00a0n9e72",
+          "country_code": "IE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I230495080"
+          ]
+        }
+      ],
+      "countries": [
+        "GB",
+        "IE"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Peter Hanlon",
+      "raw_affiliation_strings": [
+        ". University of Limerick, Limerick, Ireland",
+        "Institute of Health and Wellbeing, University of Glasgow, Glasgow, UK"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of Health and Wellbeing, University of Glasgow, Glasgow, UK",
+          "institution_ids": [
+            "https://openalex.org/I7882870"
+          ]
+        },
+        {
+          "raw_affiliation_string": ". University of Limerick, Limerick, Ireland",
+          "institution_ids": [
+            "https://openalex.org/I230495080"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5065470440",
+        "display_name": "Holly Morrison",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I7882870",
+          "display_name": "University of Glasgow",
+          "ror": "https://ror.org/00vtgdb53",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I7882870"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I230495080",
+          "display_name": "University of Limerick",
+          "ror": "https://ror.org/00a0n9e72",
+          "country_code": "IE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I230495080"
+          ]
+        }
+      ],
+      "countries": [
+        "GB",
+        "IE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Holly Morrison",
+      "raw_affiliation_strings": [
+        ". University of Limerick, Limerick, Ireland",
+        "Institute of Health and Wellbeing, University of Glasgow, Glasgow, UK"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of Health and Wellbeing, University of Glasgow, Glasgow, UK",
+          "institution_ids": [
+            "https://openalex.org/I7882870"
+          ]
+        },
+        {
+          "raw_affiliation_string": ". University of Limerick, Limerick, Ireland",
+          "institution_ids": [
+            "https://openalex.org/I230495080"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5064335398",
+        "display_name": "Fraser Morton",
+        "orcid": "https://orcid.org/0000-0001-5328-9467"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I7882870",
+          "display_name": "University of Glasgow",
+          "ror": "https://ror.org/00vtgdb53",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I7882870"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Fraser Morton",
+      "raw_affiliation_strings": [
+        "Institute of Infection, Immunity & Inflammation, University of Glasgow, Glasgow, UK"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of Infection, Immunity & Inflammation, University of Glasgow, Glasgow, UK",
+          "institution_ids": [
+            "https://openalex.org/I7882870"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5076869670",
+        "display_name": "Bhautesh Jani",
+        "orcid": "https://orcid.org/0000-0001-7348-514X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I7882870",
+          "display_name": "University of Glasgow",
+          "ror": "https://ror.org/00vtgdb53",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I7882870"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I230495080",
+          "display_name": "University of Limerick",
+          "ror": "https://ror.org/00a0n9e72",
+          "country_code": "IE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I230495080"
+          ]
+        }
+      ],
+      "countries": [
+        "GB",
+        "IE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Bhautesh D Jani",
+      "raw_affiliation_strings": [
+        ". University of Limerick, Limerick, Ireland",
+        "Institute of Health and Wellbeing, University of Glasgow, Glasgow, UK"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": ". University of Limerick, Limerick, Ireland",
+          "institution_ids": [
+            "https://openalex.org/I230495080"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Institute of Health and Wellbeing, University of Glasgow, Glasgow, UK",
+          "institution_ids": [
+            "https://openalex.org/I7882870"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5056428016",
+        "display_name": "Stefan Siebert",
+        "orcid": "https://orcid.org/0000-0002-1802-7311"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I7882870",
+          "display_name": "University of Glasgow",
+          "ror": "https://ror.org/00vtgdb53",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I7882870"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Stefan Siebert",
+      "raw_affiliation_strings": [
+        "Institute of Infection, Immunity & Inflammation, University of Glasgow, Glasgow, UK"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of Infection, Immunity & Inflammation, University of Glasgow, Glasgow, UK",
+          "institution_ids": [
+            "https://openalex.org/I7882870"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5006662436",
+        "display_name": "Jim Lewsey",
+        "orcid": "https://orcid.org/0000-0002-3811-8165"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I7882870",
+          "display_name": "University of Glasgow",
+          "ror": "https://ror.org/00vtgdb53",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I7882870"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I230495080",
+          "display_name": "University of Limerick",
+          "ror": "https://ror.org/00a0n9e72",
+          "country_code": "IE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I230495080"
+          ]
+        }
+      ],
+      "countries": [
+        "GB",
+        "IE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Jim Lewsey",
+      "raw_affiliation_strings": [
+        ". University of Limerick, Limerick, Ireland",
+        "Institute of Health and Wellbeing, University of Glasgow, Glasgow, UK"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of Health and Wellbeing, University of Glasgow, Glasgow, UK",
+          "institution_ids": [
+            "https://openalex.org/I7882870"
+          ]
+        },
+        {
+          "raw_affiliation_string": ". University of Limerick, Limerick, Ireland",
+          "institution_ids": [
+            "https://openalex.org/I230495080"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5050990483",
+        "display_name": "David McAllister",
+        "orcid": "https://orcid.org/0000-0003-3550-1764"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I7882870",
+          "display_name": "University of Glasgow",
+          "ror": "https://ror.org/00vtgdb53",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I7882870"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I230495080",
+          "display_name": "University of Limerick",
+          "ror": "https://ror.org/00a0n9e72",
+          "country_code": "IE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I230495080"
+          ]
+        }
+      ],
+      "countries": [
+        "GB",
+        "IE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "David McAllister",
+      "raw_affiliation_strings": [
+        ". University of Limerick, Limerick, Ireland",
+        "Institute of Health and Wellbeing, University of Glasgow, Glasgow, UK"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of Health and Wellbeing, University of Glasgow, Glasgow, UK",
+          "institution_ids": [
+            "https://openalex.org/I7882870"
+          ]
+        },
+        {
+          "raw_affiliation_string": ". University of Limerick, Limerick, Ireland",
+          "institution_ids": [
+            "https://openalex.org/I230495080"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5033844837",
+        "display_name": "Frances S Mair",
+        "orcid": "https://orcid.org/0000-0001-9780-1135"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I7882870",
+          "display_name": "University of Glasgow",
+          "ror": "https://ror.org/00vtgdb53",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I7882870"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I230495080",
+          "display_name": "University of Limerick",
+          "ror": "https://ror.org/00a0n9e72",
+          "country_code": "IE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I230495080"
+          ]
+        }
+      ],
+      "countries": [
+        "GB",
+        "IE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Frances S Mair",
+      "raw_affiliation_strings": [
+        ". University of Limerick, Limerick, Ireland",
+        "Institute of Health and Wellbeing, University of Glasgow, Glasgow, UK"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of Health and Wellbeing, University of Glasgow, Glasgow, UK",
+          "institution_ids": [
+            "https://openalex.org/I7882870"
+          ]
+        },
+        {
+          "raw_affiliation_string": ". University of Limerick, Limerick, Ireland",
+          "institution_ids": [
+            "https://openalex.org/I230495080"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 2,
+  "institutions_distinct_count": 8,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5067922316"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I230495080",
+    "https://openalex.org/I7882870"
+  ],
+  "apc_list": {
+    "value": 920,
+    "currency": "GBP",
+    "value_usd": 1128
+  },
+  "apc_paid": {
+    "value": 920,
+    "currency": "GBP",
+    "value_usd": 1128
+  },
+  "fwci": 2.0880923,
+  "has_fulltext": false,
+  "cited_by_count": 11,
+  "citation_normalized_percentile": {
+    "value": 0.79872974,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 89,
+    "max": 99
+  },
+  "biblio": {
+    "volume": "6",
+    "issue": null,
+    "first_page": "244",
+    "last_page": "244"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T11011",
+    "display_name": "Frailty in Older Adults",
+    "score": 0.9954000115394592,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2717",
+      "display_name": "Geriatrics and Gerontology"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/27",
+      "display_name": "Medicine"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/4",
+      "display_name": "Health Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T11011",
+      "display_name": "Frailty in Older Adults",
+      "score": 0.9954000115394592,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2717",
+        "display_name": "Geriatrics and Gerontology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12246",
+      "display_name": "Chronic Disease Management Strategies",
+      "score": 0.9912999868392944,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2713",
+        "display_name": "Epidemiology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10804",
+      "display_name": "Health Systems, Economic Evaluations, Quality of Life",
+      "score": 0.9878000020980835,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2002",
+        "display_name": "Economics and Econometrics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/medicine",
+      "display_name": "Medicine",
+      "score": 0.8765021562576294
+    },
+    {
+      "id": "https://openalex.org/keywords/checklist",
+      "display_name": "Checklist",
+      "score": 0.7901502847671509
+    },
+    {
+      "id": "https://openalex.org/keywords/observational-study",
+      "display_name": "Observational study",
+      "score": 0.7512637376785278
+    },
+    {
+      "id": "https://openalex.org/keywords/rheumatoid-arthritis",
+      "display_name": "Rheumatoid arthritis",
+      "score": 0.7511796355247498
+    },
+    {
+      "id": "https://openalex.org/keywords/quality-of-life",
+      "display_name": "Quality of life (healthcare)",
+      "score": 0.5410597920417786
+    },
+    {
+      "id": "https://openalex.org/keywords/gerontology",
+      "display_name": "Gerontology",
+      "score": 0.5205774903297424
+    },
+    {
+      "id": "https://openalex.org/keywords/physical-therapy",
+      "display_name": "Physical therapy",
+      "score": 0.47241488099098206
+    },
+    {
+      "id": "https://openalex.org/keywords/disease",
+      "display_name": "Disease",
+      "score": 0.4626162350177765
+    },
+    {
+      "id": "https://openalex.org/keywords/internal-medicine",
+      "display_name": "Internal medicine",
+      "score": 0.39504826068878174
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C71924100",
+      "wikidata": "https://www.wikidata.org/wiki/Q11190",
+      "display_name": "Medicine",
+      "level": 0,
+      "score": 0.8765021562576294
+    },
+    {
+      "id": "https://openalex.org/C2779356329",
+      "wikidata": "https://www.wikidata.org/wiki/Q922625",
+      "display_name": "Checklist",
+      "level": 2,
+      "score": 0.7901502847671509
+    },
+    {
+      "id": "https://openalex.org/C23131810",
+      "wikidata": "https://www.wikidata.org/wiki/Q818574",
+      "display_name": "Observational study",
+      "level": 2,
+      "score": 0.7512637376785278
+    },
+    {
+      "id": "https://openalex.org/C2777575956",
+      "wikidata": "https://www.wikidata.org/wiki/Q187255",
+      "display_name": "Rheumatoid arthritis",
+      "level": 2,
+      "score": 0.7511796355247498
+    },
+    {
+      "id": "https://openalex.org/C2779951463",
+      "wikidata": "https://www.wikidata.org/wiki/Q7268788",
+      "display_name": "Quality of life (healthcare)",
+      "level": 2,
+      "score": 0.5410597920417786
+    },
+    {
+      "id": "https://openalex.org/C74909509",
+      "wikidata": "https://www.wikidata.org/wiki/Q10387",
+      "display_name": "Gerontology",
+      "level": 1,
+      "score": 0.5205774903297424
+    },
+    {
+      "id": "https://openalex.org/C1862650",
+      "wikidata": "https://www.wikidata.org/wiki/Q186005",
+      "display_name": "Physical therapy",
+      "level": 1,
+      "score": 0.47241488099098206
+    },
+    {
+      "id": "https://openalex.org/C2779134260",
+      "wikidata": "https://www.wikidata.org/wiki/Q12136",
+      "display_name": "Disease",
+      "level": 2,
+      "score": 0.4626162350177765
+    },
+    {
+      "id": "https://openalex.org/C126322002",
+      "wikidata": "https://www.wikidata.org/wiki/Q11180",
+      "display_name": "Internal medicine",
+      "level": 1,
+      "score": 0.39504826068878174
+    },
+    {
+      "id": "https://openalex.org/C180747234",
+      "wikidata": "https://www.wikidata.org/wiki/Q23373",
+      "display_name": "Cognitive psychology",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C159110408",
+      "wikidata": "https://www.wikidata.org/wiki/Q121176",
+      "display_name": "Nursing",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C15744967",
+      "wikidata": "https://www.wikidata.org/wiki/Q9418",
+      "display_name": "Psychology",
+      "level": 0,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 5,
+  "locations": [
+    {
+      "id": "doi:10.12688/wellcomeopenres.17208.2",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.12688/wellcomeopenres.17208.2",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4210218052",
+        "display_name": "Wellcome Open Research",
+        "issn_l": "2398-502X",
+        "issn": [
+          "2398-502X"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310311838",
+        "host_organization_name": "Wellcome",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310311838"
+        ],
+        "host_organization_lineage_names": [
+          "Wellcome"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Wellcome Open Research",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:37746318",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/37746318",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Wellcome open research",
+      "raw_type": null
+    },
+    {
+      "id": "pmh:oai:eprints.gla.ac.uk:252876",
+      "is_oa": false,
+      "landing_page_url": null,
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306400411",
+        "display_name": "Enlighten: Publications (The University of Glasgow)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I7882870",
+        "host_organization_name": "University of Glasgow",
+        "host_organization_lineage": [
+          "https://openalex.org/I7882870"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "acceptedVersion",
+      "is_accepted": true,
+      "is_published": false,
+      "raw_source_name": "",
+      "raw_type": "Articles"
+    },
+    {
+      "id": "pmh:oai:pubmedcentral.nih.gov:10511856",
+      "is_oa": true,
+      "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/10511856",
+      "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10511856/pdf/wellcomeopenres-6-20165.pdf",
+      "source": {
+        "id": "https://openalex.org/S2764455111",
+        "display_name": "PubMed Central",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Wellcome Open Res",
+      "raw_type": "Text"
+    },
+    {
+      "id": "pmh:oai:doaj.org/article:df87344ebba9499baf3ca815e97b550f",
+      "is_oa": false,
+      "landing_page_url": "https://doaj.org/article/df87344ebba9499baf3ca815e97b550f",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401280",
+        "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Wellcome Open Research, Vol 6 (2022)",
+      "raw_type": "article"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.12688/wellcomeopenres.17208.2",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.12688/wellcomeopenres.17208.2",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S4210218052",
+      "display_name": "Wellcome Open Research",
+      "issn_l": "2398-502X",
+      "issn": [
+        "2398-502X"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310311838",
+      "host_organization_name": "Wellcome",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310311838"
+      ],
+      "host_organization_lineage_names": [
+        "Wellcome"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Wellcome Open Research",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [
+    {
+      "score": 0.800000011920929,
+      "display_name": "Good health and well-being",
+      "id": "https://metadata.un.org/sdg/3"
+    }
+  ],
+  "awards": [
+    {
+      "id": "https://openalex.org/G2802369907",
+      "display_name": "Treatment effectiveness in multimorbidity: Combining efficacy estimates from clinical trials with the natural history obtained from large routine healthcare databases to determine net overall treatment benefits.",
+      "funder_award_id": "201492",
+      "funder_id": "https://openalex.org/F4320311904",
+      "funder_display_name": "Wellcome Trust"
+    },
+    {
+      "id": "https://openalex.org/G8115722520",
+      "display_name": null,
+      "funder_award_id": "MR/S021949/1",
+      "funder_id": "https://openalex.org/F4320334626",
+      "funder_display_name": "Medical Research Council"
+    }
+  ],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320311904",
+      "display_name": "Wellcome Trust",
+      "ror": "https://ror.org/029chgv08"
+    },
+    {
+      "id": "https://openalex.org/F4320334626",
+      "display_name": "Medical Research Council",
+      "ror": "https://ror.org/03x94j517"
+    }
+  ],
+  "has_content": {
+    "pdf": false,
+    "grobid_xml": false
+  },
+  "referenced_works_count": 57,
+  "referenced_works": [
+    "https://openalex.org/W2910337210",
+    "https://openalex.org/W3027864088",
+    "https://openalex.org/W3137932039",
+    "https://openalex.org/W2142514031",
+    "https://openalex.org/W2807745201",
+    "https://openalex.org/W2164059021",
+    "https://openalex.org/W2139520621",
+    "https://openalex.org/W2129700906",
+    "https://openalex.org/W2979434443",
+    "https://openalex.org/W2996332045",
+    "https://openalex.org/W2997607867",
+    "https://openalex.org/W2581298254",
+    "https://openalex.org/W4294215472",
+    "https://openalex.org/W2888939741",
+    "https://openalex.org/W3099018494",
+    "https://openalex.org/W3082288237",
+    "https://openalex.org/W2128952811",
+    "https://openalex.org/W1967236556",
+    "https://openalex.org/W2042184870",
+    "https://openalex.org/W3026313088",
+    "https://openalex.org/W2965539672",
+    "https://openalex.org/W3039709015",
+    "https://openalex.org/W2103925825",
+    "https://openalex.org/W2755651830",
+    "https://openalex.org/W3093166361",
+    "https://openalex.org/W2949365429",
+    "https://openalex.org/W3135526661",
+    "https://openalex.org/W7073875466",
+    "https://openalex.org/W2915456051",
+    "https://openalex.org/W2982227367",
+    "https://openalex.org/W3108414770",
+    "https://openalex.org/W2965720692",
+    "https://openalex.org/W2999628584",
+    "https://openalex.org/W2166136965",
+    "https://openalex.org/W2136239977",
+    "https://openalex.org/W2168088553",
+    "https://openalex.org/W2766120251",
+    "https://openalex.org/W2160293835",
+    "https://openalex.org/W2579628708",
+    "https://openalex.org/W2989750877",
+    "https://openalex.org/W3093385449",
+    "https://openalex.org/W3093941538",
+    "https://openalex.org/W3119134848",
+    "https://openalex.org/W2902435079",
+    "https://openalex.org/W1646292059",
+    "https://openalex.org/W2888357387",
+    "https://openalex.org/W2122981355",
+    "https://openalex.org/W2115950673",
+    "https://openalex.org/W2963759193",
+    "https://openalex.org/W2043300911",
+    "https://openalex.org/W2999101149",
+    "https://openalex.org/W2000472589",
+    "https://openalex.org/W2140027546",
+    "https://openalex.org/W3099542260",
+    "https://openalex.org/W246286872",
+    "https://openalex.org/W4296711918",
+    "https://openalex.org/W2156098321"
+  ],
+  "related_works": [
+    "https://openalex.org/W2156283049",
+    "https://openalex.org/W2316954211",
+    "https://openalex.org/W2761967325",
+    "https://openalex.org/W2427075784",
+    "https://openalex.org/W2326094713",
+    "https://openalex.org/W2082406232",
+    "https://openalex.org/W2617939361",
+    "https://openalex.org/W4210646529",
+    "https://openalex.org/W2045151582",
+    "https://openalex.org/W4238056209"
+  ],
+  "abstract_inverted_index": {
+    "<ns4:p><ns4:bold>Background:": [
+      0
+    ],
+    "</ns4:bold>Frailty,": [
+      1
+    ],
+    "an": [
+      2,
+      9,
+      116
+    ],
+    "age-related": [
+      3
+    ],
+    "decline": [
+      4
+    ],
+    "in": [
+      5,
+      13,
+      23,
+      42,
+      80,
+      106,
+      169,
+      194,
+      247,
+      268
+    ],
+    "physiological": [
+      6
+    ],
+    "reserve,": [
+      7
+    ],
+    "is": [
+      8,
+      245,
+      256,
+      266,
+      271,
+      294
+    ],
+    "increasingly": [
+      10
+    ],
+    "important": [
+      11
+    ],
+    "concept": [
+      12
+    ],
+    "the": [
+      14,
+      48,
+      73,
+      89,
+      279,
+      289
+    ],
+    "management": [
+      15
+    ],
+    "of": [
+      16,
+      21,
+      40,
+      75,
+      101,
+      153,
+      167,
+      261,
+      281
+    ],
+    "chronic": [
+      17
+    ],
+    "diseases.": [
+      18
+    ],
+    "The": [
+      19
+    ],
+    "implications": [
+      20
+    ],
+    "frailty": [
+      22,
+      41,
+      51,
+      76,
+      78,
+      92,
+      270,
+      282,
+      293
+    ],
+    "people": [
+      24,
+      43,
+      107
+    ],
+    "with": [
+      25,
+      44,
+      84,
+      108,
+      173,
+      215,
+      233,
+      258
+    ],
+    "rheumatoid": [
+      26,
+      45,
+      85,
+      109,
+      174,
+      248,
+      297
+    ],
+    "arthritis": [
+      27,
+      298
+    ],
+    "are": [
+      28
+    ],
+    "not": [
+      29
+    ],
+    "well": [
+      30
+    ],
+    "understood.": [
+      31
+    ],
+    "We": [
+      32,
+      132,
+      273
+    ],
+    "undertook": [
+      33
+    ],
+    "a": [
+      34,
+      259
+    ],
+    "systematic": [
+      35
+    ],
+    "review": [
+      36
+    ],
+    "to": [
+      37,
+      66,
+      162,
+      189,
+      206,
+      291
+    ],
+    "assess": [
+      38
+    ],
+    "prevalence": [
+      39,
+      74,
+      156,
+      183,
+      200
+    ],
+    "arthritis,": [
+      46,
+      86,
+      249
+    ],
+    "and": [
+      47,
+      52,
+      93,
+      123,
+      226,
+      232,
+      235,
+      255,
+      288
+    ],
+    "relationship": [
+      49,
+      90
+    ],
+    "between": [
+      50,
+      91
+    ],
+    "disease": [
+      53,
+      94,
+      217,
+      228
+    ],
+    "activity": [
+      54,
+      95,
+      218
+    ],
+    "or": [
+      55,
+      87,
+      96,
+      104,
+      180,
+      198
+    ],
+    "clinical": [
+      56,
+      97,
+      284
+    ],
+    "outcomes.</ns4:p><ns4:p>": [
+      57
+    ],
+    "<ns4:bold>Methods:": [
+      58
+    ],
+    "</ns4:bold>We": [
+      59,
+      137
+    ],
+    "searched": [
+      60
+    ],
+    "four": [
+      61
+    ],
+    "electronic": [
+      62
+    ],
+    "databases": [
+      63
+    ],
+    "(January": [
+      64
+    ],
+    "2001": [
+      65
+    ],
+    "April": [
+      67
+    ],
+    "2021)": [
+      68
+    ],
+    "for": [
+      69
+    ],
+    "observational": [
+      70
+    ],
+    "studies": [
+      71,
+      277
+    ],
+    "assessing": [
+      72
+    ],
+    "(any": [
+      77
+    ],
+    "measure)": [
+      79
+    ],
+    "adults": [
+      81
+    ],
+    "(\u226518": [
+      82
+    ],
+    "years)": [
+      83,
+      182
+    ],
+    "analysing": [
+      88
+    ],
+    "outcomes": [
+      98,
+      285
+    ],
+    "(e.g.": [
+      99
+    ],
+    "quality": [
+      100,
+      112,
+      121
+    ],
+    "life,": [
+      102
+    ],
+    "hospitalisation": [
+      103
+    ],
+    "mortality)": [
+      105
+    ],
+    "arthritis.": [
+      110,
+      175
+    ],
+    "Study": [
+      111
+    ],
+    "was": [
+      113,
+      212
+    ],
+    "assessed": [
+      114
+    ],
+    "using": [
+      115
+    ],
+    "adapted": [
+      117
+    ],
+    "Newcastle-Ottawa": [
+      118
+    ],
+    "Scale.": [
+      119
+    ],
+    "Screening,": [
+      120
+    ],
+    "assessment": [
+      122,
+      166
+    ],
+    "data": [
+      124
+    ],
+    "extraction": [
+      125
+    ],
+    "were": [
+      126,
+      146
+    ],
+    "performed": [
+      127
+    ],
+    "independently": [
+      128
+    ],
+    "by": [
+      129,
+      296
+    ],
+    "two": [
+      130
+    ],
+    "reviewers.": [
+      131
+    ],
+    "used": [
+      133,
+      149
+    ],
+    "narrative": [
+      134
+    ],
+    "synthesis.</ns4:p><ns4:p>": [
+      135
+    ],
+    "<ns4:bold>Results:": [
+      136
+    ],
+    "identified": [
+      138
+    ],
+    "17": [
+      139
+    ],
+    "analyses,": [
+      140
+    ],
+    "from": [
+      141,
+      158,
+      185,
+      202
+    ],
+    "14": [
+      142
+    ],
+    "different": [
+      143,
+      151
+    ],
+    "populations.": [
+      144
+    ],
+    "15/17": [
+      145
+    ],
+    "cross-sectional.": [
+      147
+    ],
+    "Studies": [
+      148
+    ],
+    "11": [
+      150
+    ],
+    "measures": [
+      152
+    ],
+    "frailty.": [
+      154
+    ],
+    "Frailty": [
+      155,
+      211
+    ],
+    "ranged": [
+      157,
+      184,
+      201
+    ],
+    "10%": [
+      159
+    ],
+    "(frailty": [
+      160,
+      187
+    ],
+    "phenotype)": [
+      161,
+      188
+    ],
+    "36%": [
+      163
+    ],
+    "(comprehensive": [
+      164
+    ],
+    "rheumatologic": [
+      165
+    ],
+    "frailty)": [
+      168
+    ],
+    "general": [
+      170
+    ],
+    "adult": [
+      171
+    ],
+    "populations": [
+      172,
+      178,
+      196
+    ],
+    "In": [
+      176
+    ],
+    "younger": [
+      177
+    ],
+    "(&lt;60": [
+      179
+    ],
+    "&lt;65": [
+      181,
+      253
+    ],
+    "2.4%": [
+      186
+    ],
+    "19.9%": [
+      190
+    ],
+    "(Kihon": [
+      191,
+      204
+    ],
+    "checklist)": [
+      192,
+      205
+    ],
+    "while": [
+      193
+    ],
+    "older": [
+      195
+    ],
+    "(&gt;60": [
+      197
+    ],
+    "&gt;65)": [
+      199
+    ],
+    "31.2%": [
+      203
+    ],
+    "55%": [
+      207
+    ],
+    "(Geriatric": [
+      208
+    ],
+    "8": [
+      209
+    ],
+    "tool).": [
+      210
+    ],
+    "cross-sectionally": [
+      213
+    ],
+    "associated": [
+      214,
+      257
+    ],
+    "higher": [
+      216
+    ],
+    "(10/10": [
+      219
+    ],
+    "studies),": [
+      220,
+      231
+    ],
+    "lower": [
+      221
+    ],
+    "physical": [
+      222
+    ],
+    "function": [
+      223
+    ],
+    "(7/7": [
+      224
+    ],
+    "studies)": [
+      225
+    ],
+    "longer": [
+      227
+    ],
+    "duration": [
+      229
+    ],
+    "(2/5": [
+      230
+    ],
+    "hospitalization": [
+      234
+    ],
+    "osteoporotic": [
+      236
+    ],
+    "fractures": [
+      237
+    ],
+    "(1/1": [
+      238
+    ],
+    "study,": [
+      239
+    ],
+    "3.7": [
+      240
+    ],
+    "years": [
+      241
+    ],
+    "follow-up).</ns4:p><ns4:p>": [
+      242
+    ],
+    "<ns4:bold>Conclusion:": [
+      243
+    ],
+    "</ns4:bold>Frailty": [
+      244
+    ],
+    "common": [
+      246
+    ],
+    "including": [
+      250
+    ],
+    "those": [
+      251
+    ],
+    "aged": [
+      252
+    ],
+    "years,": [
+      254
+    ],
+    "range": [
+      260
+    ],
+    "adverse": [
+      262
+    ],
+    "features.": [
+      263
+    ],
+    "However,": [
+      264
+    ],
+    "these": [
+      265
+    ],
+    "heterogeneity": [
+      267
+    ],
+    "how": [
+      269
+    ],
+    "measured.": [
+      272
+    ],
+    "found": [
+      274
+    ],
+    "few": [
+      275
+    ],
+    "longitudinal": [
+      276
+    ],
+    "making": [
+      278
+    ],
+    "impact": [
+      280
+    ],
+    "on": [
+      283
+    ],
+    "over": [
+      286
+    ],
+    "time": [
+      287
+    ],
+    "extent": [
+      290
+    ],
+    "which": [
+      292
+    ],
+    "caused": [
+      295
+    ],
+    "unclear.</ns4:p>": [
+      299
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 6
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 2
+    }
+  ],
+  "updated_date": "2025-11-06T03:46:38.306776",
+  "created_date": "2025-10-10T00:00:00"
+}
