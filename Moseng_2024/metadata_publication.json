@@ -1,0 +1,2262 @@
+{
+  "id": "https://openalex.org/W4390753804",
+  "doi": "https://doi.org/10.1136/ard-2023-225041",
+  "title": "EULAR recommendations for the non-pharmacological core management of hip and knee osteoarthritis: 2023 update",
+  "display_name": "EULAR recommendations for the non-pharmacological core management of hip and knee osteoarthritis: 2023 update",
+  "publication_year": 2024,
+  "publication_date": "2024-01-11",
+  "ids": {
+    "openalex": "https://openalex.org/W4390753804",
+    "doi": "https://doi.org/10.1136/ard-2023-225041",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/38212040"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1136/ard-2023-225041",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1136/ard-2023-225041",
+    "pdf_url": "https://ard.bmj.com/content/annrheumdis/early/2024/01/11/ard-2023-225041.full.pdf",
+    "source": {
+      "id": "https://openalex.org/S25650217",
+      "display_name": "Annals of the Rheumatic Diseases",
+      "issn_l": "0003-4967",
+      "issn": [
+        "0003-4967",
+        "1468-2060"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310319945",
+      "host_organization_name": "BMJ",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310319945"
+      ],
+      "host_organization_lineage_names": [],
+      "type": "journal"
+    },
+    "license": "cc-by-nc",
+    "license_id": "https://openalex.org/licenses/cc-by-nc",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Annals of the Rheumatic Diseases",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref",
+    "datacite",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "hybrid",
+    "oa_url": "https://ard.bmj.com/content/annrheumdis/early/2024/01/11/ard-2023-225041.full.pdf",
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5071758473",
+        "display_name": "Tuva Moseng",
+        "orcid": "https://orcid.org/0000-0003-0920-888X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210117451",
+          "display_name": "Diakonhjemmet Hospital",
+          "ror": "https://ror.org/02jvh3a15",
+          "country_code": "NO",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210117451"
+          ]
+        }
+      ],
+      "countries": [
+        "NO"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Tuva Moseng",
+      "raw_affiliation_strings": [
+        "Center for treatment of Rheumatic and Musculoskeletal Diseases (REMEDY), Diakonhjemmet Hospital, Oslo, Norway"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Center for treatment of Rheumatic and Musculoskeletal Diseases (REMEDY), Diakonhjemmet Hospital, Oslo, Norway",
+          "institution_ids": [
+            "https://openalex.org/I4210117451"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Center for treatment of Rheumatic and Musculoskeletal Diseases (REMEDY), Diakonhjemmet Hospital, Oslo, Norway",
+          "institution_ids": [
+            "https://openalex.org/I4210117451"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5032474439",
+        "display_name": "T. P. M. Vliet Vlieland",
+        "orcid": "https://orcid.org/0000-0001-6322-3859"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2800006345",
+          "display_name": "Leiden University Medical Center",
+          "ror": "https://ror.org/05xvt9f17",
+          "country_code": "NL",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2800006345"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Theodora P M Vliet Vlieland",
+      "raw_affiliation_strings": [
+        "Department of Orthopaedics, Rehabilitation and Physical Therapy, Leiden University Medical Center (LUMC), Leiden, Netherlands"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Orthopaedics, Rehabilitation and Physical Therapy, Leiden University Medical Center (LUMC), Leiden, Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I2800006345"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5080519590",
+        "display_name": "Simone Battista",
+        "orcid": "https://orcid.org/0000-0002-7471-1951"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I83816512",
+          "display_name": "University of Genoa",
+          "ror": "https://ror.org/0107c5v14",
+          "country_code": "IT",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I83816512"
+          ]
+        }
+      ],
+      "countries": [
+        "IT"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Simone Battista",
+      "raw_affiliation_strings": [
+        "University of Genoa Department of Neuroscience Ophthalmological Rehabilitation Genetics and Mother and Child Health, Genova, Italy"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "University of Genoa Department of Neuroscience Ophthalmological Rehabilitation Genetics and Mother and Child Health, Genova, Italy",
+          "institution_ids": [
+            "https://openalex.org/I83816512"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5040179932",
+        "display_name": "David Beckw\u00e9e",
+        "orcid": "https://orcid.org/0000-0001-9951-9993"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I13469542",
+          "display_name": "Vrije Universiteit Brussel",
+          "ror": "https://ror.org/006e5kg04",
+          "country_code": "BE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I13469542"
+          ]
+        }
+      ],
+      "countries": [
+        "BE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "David Beckw\u00e9e",
+      "raw_affiliation_strings": [
+        "Rehabilitation Research Department, Vrije Universiteit Brussel, Brussel, Belgium"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Rehabilitation Research Department, Vrije Universiteit Brussel, Brussel, Belgium",
+          "institution_ids": [
+            "https://openalex.org/I13469542"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5047688414",
+        "display_name": "Vladimira Boyadzhieva",
+        "orcid": "https://orcid.org/0000-0002-6780-5810"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I30147112",
+          "display_name": "Medical University of Sofia",
+          "ror": "https://ror.org/01n9zy652",
+          "country_code": "BG",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I30147112"
+          ]
+        }
+      ],
+      "countries": [
+        "BG"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Vladimira Boyadzhieva",
+      "raw_affiliation_strings": [
+        "UMHAT \"St. Iv. Rilski\" Clinic of Rheumatology, Medical University Sofia, Sofia, Bulgaria"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "UMHAT \"St. Iv. Rilski\" Clinic of Rheumatology, Medical University Sofia, Sofia, Bulgaria",
+          "institution_ids": [
+            "https://openalex.org/I30147112"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5100608680",
+        "display_name": "Philip G. Conaghan",
+        "orcid": "https://orcid.org/0000-0002-3478-5665"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210114713",
+          "display_name": "NIHR Leeds Musculoskeletal Biomedical Research Unit",
+          "ror": "https://ror.org/035f5f914",
+          "country_code": "GB",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I2799390153",
+            "https://openalex.org/I34931013",
+            "https://openalex.org/I4210114713"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I130828816",
+          "display_name": "University of Leeds",
+          "ror": "https://ror.org/024mrxd33",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I130828816"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Philip G Conaghan",
+      "raw_affiliation_strings": [
+        "Leeds Institute of Rheumatic and Musculoskeletal Medicine, University of Leeds and NIHR Leeds Biomechanical Reserch Centre, Leeds, UK"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Leeds Institute of Rheumatic and Musculoskeletal Medicine, University of Leeds and NIHR Leeds Biomechanical Reserch Centre, Leeds, UK",
+          "institution_ids": [
+            "https://openalex.org/I4210114713"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Leeds Institute of Rheumatic and Musculoskeletal Medicine, University of Leeds and NIHR Leeds Biomechanical Reserch Centre, Leeds, UK",
+          "institution_ids": [
+            "https://openalex.org/I130828816"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5022016251",
+        "display_name": "Daniela Costa",
+        "orcid": "https://orcid.org/0000-0001-8469-6356"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I83558840",
+          "display_name": "Universidade Nova de Lisboa",
+          "ror": "https://ror.org/02xankh89",
+          "country_code": "PT",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I83558840"
+          ]
+        }
+      ],
+      "countries": [
+        "PT"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Daniela Costa",
+      "raw_affiliation_strings": [
+        "Comprehensive Health Research Center (CHRC), Universidade Nova de Lisboa, Lisboa, Portugal"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Comprehensive Health Research Center (CHRC), Universidade Nova de Lisboa, Lisboa, Portugal",
+          "institution_ids": [
+            "https://openalex.org/I83558840"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5015121992",
+        "display_name": "Michael Doherty",
+        "orcid": "https://orcid.org/0000-0002-5763-8326"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I142263535",
+          "display_name": "University of Nottingham",
+          "ror": "https://ror.org/01ee9ar58",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I142263535"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Michael Doherty",
+      "raw_affiliation_strings": [
+        "Department of Academic Rheumatology, University of Nottingham, Nottingham, UK"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Academic Rheumatology, University of Nottingham, Nottingham, UK",
+          "institution_ids": [
+            "https://openalex.org/I142263535"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5005708677",
+        "display_name": "Andrew Finney",
+        "orcid": "https://orcid.org/0000-0001-7353-7480"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I56007636",
+          "display_name": "Keele University",
+          "ror": "https://ror.org/00340yn33",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I56007636"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Andrew G Finney",
+      "raw_affiliation_strings": [
+        "Research Institute for Primary Care and Health Sciences, Keele University School of Medicine, Keele, UK",
+        "School of Nursing and Midwifery, Keele University, Keele, UK"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "School of Nursing and Midwifery, Keele University, Keele, UK",
+          "institution_ids": [
+            "https://openalex.org/I56007636"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Research Institute for Primary Care and Health Sciences, Keele University School of Medicine, Keele, UK",
+          "institution_ids": [
+            "https://openalex.org/I56007636"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5061796584",
+        "display_name": "Tsvetoslav Georgiev",
+        "orcid": "https://orcid.org/0000-0002-1652-4648"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210096790",
+          "display_name": "University Hospital St. Marina",
+          "ror": "https://ror.org/00t954r14",
+          "country_code": "BG",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210096790"
+          ]
+        }
+      ],
+      "countries": [
+        "BG"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Tsvetoslav Georgiev",
+      "raw_affiliation_strings": [
+        "Clinic of Rheumatology, University Hospital St. Marina, First Department of Internal Medicine, Medical University Varna, Varna, Bulgaria"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Clinic of Rheumatology, University Hospital St. Marina, First Department of Internal Medicine, Medical University Varna, Varna, Bulgaria",
+          "institution_ids": [
+            "https://openalex.org/I4210096790"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5078444478",
+        "display_name": "Milena Gobbo",
+        "orcid": "https://orcid.org/0000-0002-4244-1432"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Milena Gobbo",
+      "raw_affiliation_strings": [
+        "Positivamente Centro de Psicolog\u00eda, Madrid, Spain"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Positivamente Centro de Psicolog\u00eda, Madrid, Spain",
+          "institution_ids": [
+            null
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5070472122",
+        "display_name": "Norelee Kennedy",
+        "orcid": "https://orcid.org/0000-0001-6047-1240"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I230495080",
+          "display_name": "University of Limerick",
+          "ror": "https://ror.org/00a0n9e72",
+          "country_code": "IE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I230495080"
+          ]
+        }
+      ],
+      "countries": [
+        "IE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Norelee Kennedy",
+      "raw_affiliation_strings": [
+        "School of Allied Health, Faculty of Education and Health Sciences and Health Research Institute, University of Limerick, Limerick, Ireland"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "School of Allied Health, Faculty of Education and Health Sciences and Health Research Institute, University of Limerick, Limerick, Ireland",
+          "institution_ids": [
+            "https://openalex.org/I230495080"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5069520992",
+        "display_name": "Ingvild Kjeken",
+        "orcid": "https://orcid.org/0000-0002-3971-2852"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210117451",
+          "display_name": "Diakonhjemmet Hospital",
+          "ror": "https://ror.org/02jvh3a15",
+          "country_code": "NO",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210117451"
+          ]
+        }
+      ],
+      "countries": [
+        "NO"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Ingvild Kjeken",
+      "raw_affiliation_strings": [
+        "Center for treatment of Rheumatic and Musculoskeletal Diseases (REMEDY), Diakonhjemmet Hospital, Oslo, Norway"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Center for treatment of Rheumatic and Musculoskeletal Diseases (REMEDY), Diakonhjemmet Hospital, Oslo, Norway",
+          "institution_ids": [
+            "https://openalex.org/I4210117451"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5004826465",
+        "display_name": "F\u00e9line P B Kroon",
+        "orcid": "https://orcid.org/0000-0002-8940-0582"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2800006345",
+          "display_name": "Leiden University Medical Center",
+          "ror": "https://ror.org/05xvt9f17",
+          "country_code": "NL",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2800006345"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210133559",
+          "display_name": "Zuyderland Medisch Centrum",
+          "ror": "https://ror.org/03bfc4534",
+          "country_code": "NL",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210133559",
+            "https://openalex.org/I4210166163"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "F\u00e9line P B Kroon",
+      "raw_affiliation_strings": [
+        "Department of Rheumatology, Leiden University Medical Center (LUMC), Leiden, The Netherlands",
+        "Department of Rheumatology, Zuyderland Medical Centre Heerlen, Heerlen, The Netherlands"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Rheumatology, Zuyderland Medical Centre Heerlen, Heerlen, The Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I4210133559"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Rheumatology, Leiden University Medical Center (LUMC), Leiden, The Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I2800006345"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5040064633",
+        "display_name": "Stefan Lohmander",
+        "orcid": "https://orcid.org/0000-0002-5424-9448"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I187531555",
+          "display_name": "Lund University",
+          "ror": "https://ror.org/012a77v79",
+          "country_code": "SE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I187531555"
+          ]
+        }
+      ],
+      "countries": [
+        "SE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "L Stefan Lohmander",
+      "raw_affiliation_strings": [
+        "Department of Clinical Sciences Lund, Orthopaedics, Lund University, Lund, Sweden"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Clinical Sciences Lund, Orthopaedics, Lund University, Lund, Sweden",
+          "institution_ids": [
+            "https://openalex.org/I187531555"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5043160276",
+        "display_name": "Hans Lund",
+        "orcid": "https://orcid.org/0000-0001-6847-8324"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I179863766",
+          "display_name": "Western Norway University of Applied Sciences",
+          "ror": "https://ror.org/05phns765",
+          "country_code": "NO",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I179863766"
+          ]
+        }
+      ],
+      "countries": [
+        "NO"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Hans Lund",
+      "raw_affiliation_strings": [
+        "Centre for Evidence-Based Practice, Western Norway University of Applied Sciences, Bergen, Norway"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Centre for Evidence-Based Practice, Western Norway University of Applied Sciences, Bergen, Norway",
+          "institution_ids": [
+            "https://openalex.org/I179863766"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5027298393",
+        "display_name": "Christian Mallen",
+        "orcid": "https://orcid.org/0000-0002-2677-1028"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I56007636",
+          "display_name": "Keele University",
+          "ror": "https://ror.org/00340yn33",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I56007636"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Christian D Mallen",
+      "raw_affiliation_strings": [
+        "Keele University School of Medicine, Keele, UK"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Keele University School of Medicine, Keele, UK",
+          "institution_ids": [
+            "https://openalex.org/I56007636"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5089477356",
+        "display_name": "Karel Pavelk\u00e1",
+        "orcid": "https://orcid.org/0000-0003-1952-8422"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I21250087",
+          "display_name": "Charles University",
+          "ror": "https://ror.org/024d6js02",
+          "country_code": "CZ",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I21250087"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210092695",
+          "display_name": "Institute of Rheumatology",
+          "ror": "https://ror.org/00jk0vn85",
+          "country_code": "CZ",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I4210092695"
+          ]
+        }
+      ],
+      "countries": [
+        "CZ"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Karel Pavelka",
+      "raw_affiliation_strings": [
+        "Institute of Rheumatology, Department of Rheumatology, Charles University First Faculty of Medicine, Praha, Czech Republic"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of Rheumatology, Department of Rheumatology, Charles University First Faculty of Medicine, Praha, Czech Republic",
+          "institution_ids": [
+            "https://openalex.org/I4210092695"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Institute of Rheumatology, Department of Rheumatology, Charles University First Faculty of Medicine, Praha, Czech Republic",
+          "institution_ids": [
+            "https://openalex.org/I21250087"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5037115798",
+        "display_name": "I. Pitsillidou",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Irene A Pitsillidou",
+      "raw_affiliation_strings": [
+        "EULAR Patient Research Partner, Cyprus League Against Rheumatism, Nicosia, Cyprus"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "EULAR Patient Research Partner, Cyprus League Against Rheumatism, Nicosia, Cyprus",
+          "institution_ids": [
+            null
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5026125944",
+        "display_name": "Margaret P. Rayman",
+        "orcid": "https://orcid.org/0000-0003-3126-5709"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I28290843",
+          "display_name": "University of Surrey",
+          "ror": "https://ror.org/00ks66431",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I28290843"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Margaret P Rayman",
+      "raw_affiliation_strings": [
+        "Department of Nutritional Sciences, University of Surrey Faculty of Health and Medical Sciences, Guildford, UK"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Nutritional Sciences, University of Surrey Faculty of Health and Medical Sciences, Guildford, UK",
+          "institution_ids": [
+            "https://openalex.org/I28290843"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5039187353",
+        "display_name": "Anne Therese Tveter",
+        "orcid": "https://orcid.org/0000-0003-1701-9835"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210117451",
+          "display_name": "Diakonhjemmet Hospital",
+          "ror": "https://ror.org/02jvh3a15",
+          "country_code": "NO",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210117451"
+          ]
+        }
+      ],
+      "countries": [
+        "NO"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Anne Therese Tveter",
+      "raw_affiliation_strings": [
+        "Center for treatment of Rheumatic and Musculoskeletal Diseases (REMEDY), Diakonhjemmet Hospital, Oslo, Norway"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Center for treatment of Rheumatic and Musculoskeletal Diseases (REMEDY), Diakonhjemmet Hospital, Oslo, Norway",
+          "institution_ids": [
+            "https://openalex.org/I4210117451"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5009968203",
+        "display_name": "Johanna E Vriezekolk",
+        "orcid": "https://orcid.org/0000-0003-4783-8663"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210136697",
+          "display_name": "Sint Maartenskliniek",
+          "ror": "https://ror.org/042yqf226",
+          "country_code": "NL",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210136697"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Johanna E Vriezekolk",
+      "raw_affiliation_strings": [
+        "Research & Innovation, Sint Maartenskliniek, Nijmegen, The Netherlands"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Research & Innovation, Sint Maartenskliniek, Nijmegen, The Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I4210136697"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5056581471",
+        "display_name": "Dieter Wiek",
+        "orcid": "https://orcid.org/0000-0002-8778-958X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210122387",
+          "display_name": "Deutsche Rheuma-Liga",
+          "ror": "https://ror.org/02w6f6b92",
+          "country_code": "DE",
+          "type": "other",
+          "lineage": [
+            "https://openalex.org/I4210122387"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Dieter Wiek",
+      "raw_affiliation_strings": [
+        "EULAR Patient Research Partner, Deutsche Rheuma-Liga, Bonn, Germany"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "EULAR Patient Research Partner, Deutsche Rheuma-Liga, Bonn, Germany",
+          "institution_ids": [
+            "https://openalex.org/I4210122387"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5069204854",
+        "display_name": "Gustavo Zanoli",
+        "orcid": "https://orcid.org/0000-0002-6213-9089"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210163675",
+          "display_name": "La Maddalena",
+          "ror": "https://ror.org/04st1y556",
+          "country_code": "IT",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210163675"
+          ]
+        }
+      ],
+      "countries": [
+        "IT"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Gustavo Zanoli",
+      "raw_affiliation_strings": [
+        "Orthopaedic Ward, Casa di Cura Santa Maria Maddalena, Novara, Italy"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Orthopaedic Ward, Casa di Cura Santa Maria Maddalena, Novara, Italy",
+          "institution_ids": [
+            "https://openalex.org/I4210163675"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5030802221",
+        "display_name": "Nina \u00d8ster\u00e5s",
+        "orcid": "https://orcid.org/0000-0001-8602-342X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210117451",
+          "display_name": "Diakonhjemmet Hospital",
+          "ror": "https://ror.org/02jvh3a15",
+          "country_code": "NO",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210117451"
+          ]
+        }
+      ],
+      "countries": [
+        "NO"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Nina \u00d8ster\u00e5s",
+      "raw_affiliation_strings": [
+        "Center for treatment of Rheumatic and Musculoskeletal Diseases (REMEDY), Diakonhjemmet Hospital, Oslo, Norway"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Center for treatment of Rheumatic and Musculoskeletal Diseases (REMEDY), Diakonhjemmet Hospital, Oslo, Norway",
+          "institution_ids": [
+            "https://openalex.org/I4210117451"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 11,
+  "institutions_distinct_count": 25,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5071758473"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I4210117451"
+  ],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 178.40790049,
+  "has_fulltext": true,
+  "cited_by_count": 170,
+  "citation_normalized_percentile": {
+    "value": 0.99983588,
+    "is_in_top_1_percent": true,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 99,
+    "max": 100
+  },
+  "biblio": {
+    "volume": "83",
+    "issue": "6",
+    "first_page": "730",
+    "last_page": "740"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10105",
+    "display_name": "Osteoarthritis Treatment and Mechanisms",
+    "score": 0.9993000030517578,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2745",
+      "display_name": "Rheumatology"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/27",
+      "display_name": "Medicine"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/4",
+      "display_name": "Health Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10105",
+      "display_name": "Osteoarthritis Treatment and Mechanisms",
+      "score": 0.9993000030517578,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2745",
+        "display_name": "Rheumatology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10562",
+      "display_name": "Total Knee Arthroplasty Outcomes",
+      "score": 0.9923999905586243,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2746",
+        "display_name": "Surgery"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10442",
+      "display_name": "Knee injuries and reconstruction techniques",
+      "score": 0.9695000052452087,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2746",
+        "display_name": "Surgery"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/medicine",
+      "display_name": "Medicine",
+      "score": 0.8529770374298096
+    },
+    {
+      "id": "https://openalex.org/keywords/physical-therapy",
+      "display_name": "Physical therapy",
+      "score": 0.652844250202179
+    },
+    {
+      "id": "https://openalex.org/keywords/osteoarthritis",
+      "display_name": "Osteoarthritis",
+      "score": 0.6002975106239319
+    },
+    {
+      "id": "https://openalex.org/keywords/psychological-intervention",
+      "display_name": "Psychological intervention",
+      "score": 0.5118398070335388
+    },
+    {
+      "id": "https://openalex.org/keywords/systematic-review",
+      "display_name": "Systematic review",
+      "score": 0.44941553473472595
+    },
+    {
+      "id": "https://openalex.org/keywords/multidisciplinary-approach",
+      "display_name": "Multidisciplinary approach",
+      "score": 0.44349002838134766
+    },
+    {
+      "id": "https://openalex.org/keywords/expert-opinion",
+      "display_name": "Expert opinion",
+      "score": 0.4158305525779724
+    },
+    {
+      "id": "https://openalex.org/keywords/medline",
+      "display_name": "MEDLINE",
+      "score": 0.37827515602111816
+    },
+    {
+      "id": "https://openalex.org/keywords/physical-medicine-and-rehabilitation",
+      "display_name": "Physical medicine and rehabilitation",
+      "score": 0.32545357942581177
+    },
+    {
+      "id": "https://openalex.org/keywords/alternative-medicine",
+      "display_name": "Alternative medicine",
+      "score": 0.3184588849544525
+    },
+    {
+      "id": "https://openalex.org/keywords/intensive-care-medicine",
+      "display_name": "Intensive care medicine",
+      "score": 0.16439801454544067
+    },
+    {
+      "id": "https://openalex.org/keywords/nursing",
+      "display_name": "Nursing",
+      "score": 0.13958856463432312
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C71924100",
+      "wikidata": "https://www.wikidata.org/wiki/Q11190",
+      "display_name": "Medicine",
+      "level": 0,
+      "score": 0.8529770374298096
+    },
+    {
+      "id": "https://openalex.org/C1862650",
+      "wikidata": "https://www.wikidata.org/wiki/Q186005",
+      "display_name": "Physical therapy",
+      "level": 1,
+      "score": 0.652844250202179
+    },
+    {
+      "id": "https://openalex.org/C2776164576",
+      "wikidata": "https://www.wikidata.org/wiki/Q62736",
+      "display_name": "Osteoarthritis",
+      "level": 3,
+      "score": 0.6002975106239319
+    },
+    {
+      "id": "https://openalex.org/C27415008",
+      "wikidata": "https://www.wikidata.org/wiki/Q7256382",
+      "display_name": "Psychological intervention",
+      "level": 2,
+      "score": 0.5118398070335388
+    },
+    {
+      "id": "https://openalex.org/C189708586",
+      "wikidata": "https://www.wikidata.org/wiki/Q1504425",
+      "display_name": "Systematic review",
+      "level": 3,
+      "score": 0.44941553473472595
+    },
+    {
+      "id": "https://openalex.org/C22467394",
+      "wikidata": "https://www.wikidata.org/wiki/Q849359",
+      "display_name": "Multidisciplinary approach",
+      "level": 2,
+      "score": 0.44349002838134766
+    },
+    {
+      "id": "https://openalex.org/C3020580240",
+      "wikidata": "https://www.wikidata.org/wiki/Q663272",
+      "display_name": "Expert opinion",
+      "level": 2,
+      "score": 0.4158305525779724
+    },
+    {
+      "id": "https://openalex.org/C2779473830",
+      "wikidata": "https://www.wikidata.org/wiki/Q1540899",
+      "display_name": "MEDLINE",
+      "level": 2,
+      "score": 0.37827515602111816
+    },
+    {
+      "id": "https://openalex.org/C99508421",
+      "wikidata": "https://www.wikidata.org/wiki/Q2678675",
+      "display_name": "Physical medicine and rehabilitation",
+      "level": 1,
+      "score": 0.32545357942581177
+    },
+    {
+      "id": "https://openalex.org/C204787440",
+      "wikidata": "https://www.wikidata.org/wiki/Q188504",
+      "display_name": "Alternative medicine",
+      "level": 2,
+      "score": 0.3184588849544525
+    },
+    {
+      "id": "https://openalex.org/C177713679",
+      "wikidata": "https://www.wikidata.org/wiki/Q679690",
+      "display_name": "Intensive care medicine",
+      "level": 1,
+      "score": 0.16439801454544067
+    },
+    {
+      "id": "https://openalex.org/C159110408",
+      "wikidata": "https://www.wikidata.org/wiki/Q121176",
+      "display_name": "Nursing",
+      "level": 1,
+      "score": 0.13958856463432312
+    },
+    {
+      "id": "https://openalex.org/C142724271",
+      "wikidata": "https://www.wikidata.org/wiki/Q7208",
+      "display_name": "Pathology",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C144024400",
+      "wikidata": "https://www.wikidata.org/wiki/Q21201",
+      "display_name": "Sociology",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C199539241",
+      "wikidata": "https://www.wikidata.org/wiki/Q7748",
+      "display_name": "Law",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C36289849",
+      "wikidata": "https://www.wikidata.org/wiki/Q34749",
+      "display_name": "Social science",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C17744445",
+      "wikidata": "https://www.wikidata.org/wiki/Q36442",
+      "display_name": "Political science",
+      "level": 0,
+      "score": 0.0
+    }
+  ],
+  "mesh": [
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D020370",
+      "descriptor_name": "Osteoarthritis, Knee",
+      "qualifier_ui": "Q000628",
+      "qualifier_name": "therapy",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D020370",
+      "descriptor_name": "Osteoarthritis, Knee",
+      "qualifier_ui": "Q000534",
+      "qualifier_name": "rehabilitation",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D015207",
+      "descriptor_name": "Osteoarthritis, Hip",
+      "qualifier_ui": "Q000628",
+      "qualifier_name": "therapy",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D015207",
+      "descriptor_name": "Osteoarthritis, Hip",
+      "qualifier_ui": "Q000534",
+      "qualifier_name": "rehabilitation",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D005081",
+      "descriptor_name": "Exercise Therapy",
+      "qualifier_ui": "Q000379",
+      "qualifier_name": "methods",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D010353",
+      "descriptor_name": "Patient Education as Topic",
+      "qualifier_ui": "Q000379",
+      "qualifier_name": "methods",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005060",
+      "descriptor_name": "Europe",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000073278",
+      "descriptor_name": "Self-Management",
+      "qualifier_ui": "Q000379",
+      "qualifier_name": "methods",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D012656",
+      "descriptor_name": "Self-Help Devices",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D019317",
+      "descriptor_name": "Evidence-Based Medicine",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015431",
+      "descriptor_name": "Weight Loss",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D020370",
+      "descriptor_name": "Osteoarthritis, Knee",
+      "qualifier_ui": "Q000628",
+      "qualifier_name": "therapy",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D020370",
+      "descriptor_name": "Osteoarthritis, Knee",
+      "qualifier_ui": "Q000534",
+      "qualifier_name": "rehabilitation",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D015207",
+      "descriptor_name": "Osteoarthritis, Hip",
+      "qualifier_ui": "Q000628",
+      "qualifier_name": "therapy",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D015207",
+      "descriptor_name": "Osteoarthritis, Hip",
+      "qualifier_ui": "Q000534",
+      "qualifier_name": "rehabilitation",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D005081",
+      "descriptor_name": "Exercise Therapy",
+      "qualifier_ui": "Q000379",
+      "qualifier_name": "methods",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D010353",
+      "descriptor_name": "Patient Education as Topic",
+      "qualifier_ui": "Q000379",
+      "qualifier_name": "methods",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005060",
+      "descriptor_name": "Europe",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000073278",
+      "descriptor_name": "Self-Management",
+      "qualifier_ui": "Q000379",
+      "qualifier_name": "methods",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D012656",
+      "descriptor_name": "Self-Help Devices",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D019317",
+      "descriptor_name": "Evidence-Based Medicine",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015431",
+      "descriptor_name": "Weight Loss",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D020370",
+      "descriptor_name": "Osteoarthritis, Knee",
+      "qualifier_ui": "Q000628",
+      "qualifier_name": "therapy",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D020370",
+      "descriptor_name": "Osteoarthritis, Knee",
+      "qualifier_ui": "Q000534",
+      "qualifier_name": "rehabilitation",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D015207",
+      "descriptor_name": "Osteoarthritis, Hip",
+      "qualifier_ui": "Q000628",
+      "qualifier_name": "therapy",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D015207",
+      "descriptor_name": "Osteoarthritis, Hip",
+      "qualifier_ui": "Q000534",
+      "qualifier_name": "rehabilitation",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D005081",
+      "descriptor_name": "Exercise Therapy",
+      "qualifier_ui": "Q000379",
+      "qualifier_name": "methods",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D010353",
+      "descriptor_name": "Patient Education as Topic",
+      "qualifier_ui": "Q000379",
+      "qualifier_name": "methods",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005060",
+      "descriptor_name": "Europe",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000073278",
+      "descriptor_name": "Self-Management",
+      "qualifier_ui": "Q000379",
+      "qualifier_name": "methods",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D012656",
+      "descriptor_name": "Self-Help Devices",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D019317",
+      "descriptor_name": "Evidence-Based Medicine",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015431",
+      "descriptor_name": "Weight Loss",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D020370",
+      "descriptor_name": "Osteoarthritis, Knee",
+      "qualifier_ui": "Q000628",
+      "qualifier_name": "therapy",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D020370",
+      "descriptor_name": "Osteoarthritis, Knee",
+      "qualifier_ui": "Q000534",
+      "qualifier_name": "rehabilitation",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D015207",
+      "descriptor_name": "Osteoarthritis, Hip",
+      "qualifier_ui": "Q000628",
+      "qualifier_name": "therapy",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D015207",
+      "descriptor_name": "Osteoarthritis, Hip",
+      "qualifier_ui": "Q000534",
+      "qualifier_name": "rehabilitation",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D005081",
+      "descriptor_name": "Exercise Therapy",
+      "qualifier_ui": "Q000379",
+      "qualifier_name": "methods",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D010353",
+      "descriptor_name": "Patient Education as Topic",
+      "qualifier_ui": "Q000379",
+      "qualifier_name": "methods",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005060",
+      "descriptor_name": "Europe",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000073278",
+      "descriptor_name": "Self-Management",
+      "qualifier_ui": "Q000379",
+      "qualifier_name": "methods",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D012656",
+      "descriptor_name": "Self-Help Devices",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D019317",
+      "descriptor_name": "Evidence-Based Medicine",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015431",
+      "descriptor_name": "Weight Loss",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D020370",
+      "descriptor_name": "Osteoarthritis, Knee",
+      "qualifier_ui": "Q000628",
+      "qualifier_name": "therapy",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D020370",
+      "descriptor_name": "Osteoarthritis, Knee",
+      "qualifier_ui": "Q000534",
+      "qualifier_name": "rehabilitation",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D015207",
+      "descriptor_name": "Osteoarthritis, Hip",
+      "qualifier_ui": "Q000628",
+      "qualifier_name": "therapy",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D015207",
+      "descriptor_name": "Osteoarthritis, Hip",
+      "qualifier_ui": "Q000534",
+      "qualifier_name": "rehabilitation",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D005081",
+      "descriptor_name": "Exercise Therapy",
+      "qualifier_ui": "Q000379",
+      "qualifier_name": "methods",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D010353",
+      "descriptor_name": "Patient Education as Topic",
+      "qualifier_ui": "Q000379",
+      "qualifier_name": "methods",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005060",
+      "descriptor_name": "Europe",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000073278",
+      "descriptor_name": "Self-Management",
+      "qualifier_ui": "Q000379",
+      "qualifier_name": "methods",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D012656",
+      "descriptor_name": "Self-Help Devices",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D019317",
+      "descriptor_name": "Evidence-Based Medicine",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015431",
+      "descriptor_name": "Weight Loss",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D020370",
+      "descriptor_name": "Osteoarthritis, Knee",
+      "qualifier_ui": "Q000628",
+      "qualifier_name": "therapy",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D020370",
+      "descriptor_name": "Osteoarthritis, Knee",
+      "qualifier_ui": "Q000534",
+      "qualifier_name": "rehabilitation",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D015207",
+      "descriptor_name": "Osteoarthritis, Hip",
+      "qualifier_ui": "Q000628",
+      "qualifier_name": "therapy",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D015207",
+      "descriptor_name": "Osteoarthritis, Hip",
+      "qualifier_ui": "Q000534",
+      "qualifier_name": "rehabilitation",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D005081",
+      "descriptor_name": "Exercise Therapy",
+      "qualifier_ui": "Q000379",
+      "qualifier_name": "methods",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D010353",
+      "descriptor_name": "Patient Education as Topic",
+      "qualifier_ui": "Q000379",
+      "qualifier_name": "methods",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005060",
+      "descriptor_name": "Europe",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000073278",
+      "descriptor_name": "Self-Management",
+      "qualifier_ui": "Q000379",
+      "qualifier_name": "methods",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D012656",
+      "descriptor_name": "Self-Help Devices",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D019317",
+      "descriptor_name": "Evidence-Based Medicine",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015431",
+      "descriptor_name": "Weight Loss",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D020370",
+      "descriptor_name": "Osteoarthritis, Knee",
+      "qualifier_ui": "Q000628",
+      "qualifier_name": "therapy",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D020370",
+      "descriptor_name": "Osteoarthritis, Knee",
+      "qualifier_ui": "Q000534",
+      "qualifier_name": "rehabilitation",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D015207",
+      "descriptor_name": "Osteoarthritis, Hip",
+      "qualifier_ui": "Q000628",
+      "qualifier_name": "therapy",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D015207",
+      "descriptor_name": "Osteoarthritis, Hip",
+      "qualifier_ui": "Q000534",
+      "qualifier_name": "rehabilitation",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D005081",
+      "descriptor_name": "Exercise Therapy",
+      "qualifier_ui": "Q000379",
+      "qualifier_name": "methods",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D010353",
+      "descriptor_name": "Patient Education as Topic",
+      "qualifier_ui": "Q000379",
+      "qualifier_name": "methods",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005060",
+      "descriptor_name": "Europe",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000073278",
+      "descriptor_name": "Self-Management",
+      "qualifier_ui": "Q000379",
+      "qualifier_name": "methods",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D012656",
+      "descriptor_name": "Self-Help Devices",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D019317",
+      "descriptor_name": "Evidence-Based Medicine",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015431",
+      "descriptor_name": "Weight Loss",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    }
+  ],
+  "locations_count": 8,
+  "locations": [
+    {
+      "id": "doi:10.1136/ard-2023-225041",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1136/ard-2023-225041",
+      "pdf_url": "https://ard.bmj.com/content/annrheumdis/early/2024/01/11/ard-2023-225041.full.pdf",
+      "source": {
+        "id": "https://openalex.org/S25650217",
+        "display_name": "Annals of the Rheumatic Diseases",
+        "issn_l": "0003-4967",
+        "issn": [
+          "0003-4967",
+          "1468-2060"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310319945",
+        "host_organization_name": "BMJ",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310319945"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "journal"
+      },
+      "license": "cc-by-nc",
+      "license_id": "https://openalex.org/licenses/cc-by-nc",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Annals of the Rheumatic Diseases"
+    },
+    {
+      "id": "pmid:38212040",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/38212040",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Annals of the rheumatic diseases"
+    },
+    {
+      "id": "pmh:oai:pubmedcentral.nih.gov:11103326",
+      "is_oa": true,
+      "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/11103326",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S2764455111",
+        "display_name": "PubMed Central",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "other-oa",
+      "license_id": "https://openalex.org/licenses/other-oa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Ann Rheum Dis"
+    },
+    {
+      "id": "pmh:oai:lup.lub.lu.se:c5578d71-ecaf-4111-888b-e1f3c68d29b0",
+      "is_oa": false,
+      "landing_page_url": "https://lup.lub.lu.se/record/c5578d71-ecaf-4111-888b-e1f3c68d29b0",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306400536",
+        "display_name": "Lund University Publications (Lund University)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I187531555",
+        "host_organization_name": "Lund University",
+        "host_organization_lineage": [
+          "https://openalex.org/I187531555"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "ISSN: 1468-2060"
+    },
+    {
+      "id": "pmh:oai:scholarlypublications.universiteitleiden.nl:item_4195538",
+      "is_oa": false,
+      "landing_page_url": "https://www.sciencedirect.com/science/article/pii/S0003496724001298?via%3Dihub",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S25650217",
+        "display_name": "Annals of the Rheumatic Diseases",
+        "issn_l": "0003-4967",
+        "issn": [
+          "0003-4967",
+          "1468-2060"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310319945",
+        "host_organization_name": "BMJ",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310319945"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Annals of the Rheumatic Diseases"
+    },
+    {
+      "id": "pmh:oai:open-archive.highwire.org:annrheumdis:83/6/730",
+      "is_oa": false,
+      "landing_page_url": "http://ard.bmj.com/cgi/content/short/83/6/730",
+      "pdf_url": null,
+      "source": null,
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": ""
+    },
+    {
+      "id": "pmh:oai:figshare.com:article/26796961",
+      "is_oa": true,
+      "landing_page_url": "https://figshare.com/articles/journal_contribution/EULAR_recommendations_for_the_non-pharmacological_core_management_of_hip_and_knee_osteoarthritis_2023_update/26796961",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306400572",
+        "display_name": "OPAL (Open@LaTrobe) (La Trobe University)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I196829312",
+        "host_organization_name": "La Trobe University",
+        "host_organization_lineage": [
+          "https://openalex.org/I196829312"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by-nc-sa",
+      "license_id": "https://openalex.org/licenses/cc-by-nc-sa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": ""
+    },
+    {
+      "id": "doi:10.34961/researchrepository-ul.26796961.v1",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.34961/researchrepository-ul.26796961.v1",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401529",
+        "display_name": "University of Limerick Institutional Repository (University of Limerick)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I230495080",
+        "host_organization_name": "University of Limerick",
+        "host_organization_lineage": [
+          "https://openalex.org/I230495080"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": null,
+      "is_accepted": false,
+      "is_published": null,
+      "raw_source_name": null
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1136/ard-2023-225041",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1136/ard-2023-225041",
+    "pdf_url": "https://ard.bmj.com/content/annrheumdis/early/2024/01/11/ard-2023-225041.full.pdf",
+    "source": {
+      "id": "https://openalex.org/S25650217",
+      "display_name": "Annals of the Rheumatic Diseases",
+      "issn_l": "0003-4967",
+      "issn": [
+        "0003-4967",
+        "1468-2060"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310319945",
+      "host_organization_name": "BMJ",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310319945"
+      ],
+      "host_organization_lineage_names": [],
+      "type": "journal"
+    },
+    "license": "cc-by-nc",
+    "license_id": "https://openalex.org/licenses/cc-by-nc",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Annals of the Rheumatic Diseases",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [],
+  "grants": [
+    {
+      "funder": "https://openalex.org/F4320325330",
+      "funder_display_name": "European League Against Rheumatism",
+      "award_id": "HPR055"
+    }
+  ],
+  "awards": [],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320325330",
+      "display_name": "European League Against Rheumatism",
+      "ror": "https://ror.org/03f7j3221"
+    }
+  ],
+  "has_content": {
+    "grobid_xml": true,
+    "pdf": true
+  },
+  "referenced_works_count": 90,
+  "referenced_works": [
+    "https://openalex.org/W4390753804",
+    "https://openalex.org/W4211067786",
+    "https://openalex.org/W6770247764",
+    "https://openalex.org/W1947261881",
+    "https://openalex.org/W2322290949",
+    "https://openalex.org/W2972593257",
+    "https://openalex.org/W6681452319",
+    "https://openalex.org/W2145881672",
+    "https://openalex.org/W2129688566",
+    "https://openalex.org/W6744806350",
+    "https://openalex.org/W2508979351",
+    "https://openalex.org/W3175185406",
+    "https://openalex.org/W2624253901",
+    "https://openalex.org/W2809408585",
+    "https://openalex.org/W3097293788",
+    "https://openalex.org/W3104544013",
+    "https://openalex.org/W2899000771",
+    "https://openalex.org/W3047759316",
+    "https://openalex.org/W4214808059",
+    "https://openalex.org/W3008799005",
+    "https://openalex.org/W4240032685",
+    "https://openalex.org/W2950716456",
+    "https://openalex.org/W6782070896",
+    "https://openalex.org/W3011236554",
+    "https://openalex.org/W3189925552",
+    "https://openalex.org/W3012527580",
+    "https://openalex.org/W3087026071",
+    "https://openalex.org/W2986998757",
+    "https://openalex.org/W3106453980",
+    "https://openalex.org/W3205545063",
+    "https://openalex.org/W6803207084",
+    "https://openalex.org/W4225365669",
+    "https://openalex.org/W2914053210",
+    "https://openalex.org/W2679888505",
+    "https://openalex.org/W2596958165",
+    "https://openalex.org/W4220682076",
+    "https://openalex.org/W3130638755",
+    "https://openalex.org/W3210319063",
+    "https://openalex.org/W3176696665",
+    "https://openalex.org/W2833868476",
+    "https://openalex.org/W3106603484",
+    "https://openalex.org/W4287147172",
+    "https://openalex.org/W2991460432",
+    "https://openalex.org/W3155970462",
+    "https://openalex.org/W2906889442",
+    "https://openalex.org/W4224252273",
+    "https://openalex.org/W3116499819",
+    "https://openalex.org/W3211050383",
+    "https://openalex.org/W2288508021",
+    "https://openalex.org/W2191401004",
+    "https://openalex.org/W3156536616",
+    "https://openalex.org/W3015206749",
+    "https://openalex.org/W3124135966",
+    "https://openalex.org/W3158122792",
+    "https://openalex.org/W2883037423",
+    "https://openalex.org/W2902795876",
+    "https://openalex.org/W2910294255",
+    "https://openalex.org/W3024297443",
+    "https://openalex.org/W3118808395",
+    "https://openalex.org/W2105889061",
+    "https://openalex.org/W2587952359",
+    "https://openalex.org/W2942974215",
+    "https://openalex.org/W2016397698",
+    "https://openalex.org/W4225539143",
+    "https://openalex.org/W4220925153",
+    "https://openalex.org/W2573378326",
+    "https://openalex.org/W2139716595",
+    "https://openalex.org/W3152546112",
+    "https://openalex.org/W2944065612",
+    "https://openalex.org/W2803670725",
+    "https://openalex.org/W2968387223",
+    "https://openalex.org/W3000036091",
+    "https://openalex.org/W2955666772",
+    "https://openalex.org/W3203022039",
+    "https://openalex.org/W4220657961",
+    "https://openalex.org/W4200451609",
+    "https://openalex.org/W4281843235",
+    "https://openalex.org/W4296783796",
+    "https://openalex.org/W2910560171",
+    "https://openalex.org/W2089258837",
+    "https://openalex.org/W2809595048",
+    "https://openalex.org/W2799617891",
+    "https://openalex.org/W2777469204",
+    "https://openalex.org/W2052643851",
+    "https://openalex.org/W3209095050",
+    "https://openalex.org/W2756578555",
+    "https://openalex.org/W4229443069",
+    "https://openalex.org/W2152221029",
+    "https://openalex.org/W2147148117",
+    "https://openalex.org/W4226268653"
+  ],
+  "related_works": [
+    "https://openalex.org/W650762618",
+    "https://openalex.org/W4286508873",
+    "https://openalex.org/W2185045523",
+    "https://openalex.org/W2175024588",
+    "https://openalex.org/W4242815383",
+    "https://openalex.org/W2579996474",
+    "https://openalex.org/W4386590483",
+    "https://openalex.org/W2007640890",
+    "https://openalex.org/W2346491184",
+    "https://openalex.org/W156969523"
+  ],
+  "abstract_inverted_index": null,
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 116
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 54
+    }
+  ],
+  "updated_date": "2025-11-06T03:46:38.306776",
+  "created_date": "2025-10-10T00:00:00"
+}

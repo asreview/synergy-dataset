@@ -1,0 +1,1562 @@
+{
+  "id": "https://openalex.org/W3164504982",
+  "doi": "https://doi.org/10.1136/rmdopen-2021-001647",
+  "title": "Effectiveness of self-management interventions in inflammatory arthritis: a systematic review informing the 2021 EULAR recommendations for the implementation of self-management strategies in patients with inflammatory arthritis",
+  "display_name": "Effectiveness of self-management interventions in inflammatory arthritis: a systematic review informing the 2021 EULAR recommendations for the implementation of self-management strategies in patients with inflammatory arthritis",
+  "publication_year": 2021,
+  "publication_date": "2021-05-01",
+  "ids": {
+    "openalex": "https://openalex.org/W3164504982",
+    "doi": "https://doi.org/10.1136/rmdopen-2021-001647",
+    "mag": "3164504982",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/34049997"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1136/rmdopen-2021-001647",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1136/rmdopen-2021-001647",
+    "pdf_url": "https://rmdopen.bmj.com/content/rmdopen/7/2/e001647.full.pdf",
+    "source": {
+      "id": "https://openalex.org/S2738706341",
+      "display_name": "RMD Open",
+      "issn_l": "2056-5933",
+      "issn": [
+        "2056-5933"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310319945",
+      "host_organization_name": "BMJ",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310319945"
+      ],
+      "host_organization_lineage_names": [
+        "BMJ"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "RMD Open",
+    "raw_type": "journal-article"
+  },
+  "type": "review",
+  "indexed_in": [
+    "crossref",
+    "doaj",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "gold",
+    "oa_url": "https://rmdopen.bmj.com/content/rmdopen/7/2/e001647.full.pdf",
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5069951725",
+        "display_name": "Andr\u00e9a Marques",
+        "orcid": "https://orcid.org/0000-0002-2026-9926"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I56243300",
+          "display_name": "Escola Superior de Enfermagem de Coimbra",
+          "ror": "https://ror.org/03c3y8w73",
+          "country_code": "PT",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I56243300"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I2802025818",
+          "display_name": "Hospitais da Universidade de Coimbra",
+          "ror": "https://ror.org/04032fz76",
+          "country_code": "PT",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2802025818"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210159453",
+          "display_name": "Center for Rheumatology",
+          "ror": "https://ror.org/04rtaxr13",
+          "country_code": "US",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I4210159453"
+          ]
+        }
+      ],
+      "countries": [
+        "PT",
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Andr\u00e9a Marques",
+      "raw_affiliation_strings": [
+        "Centro Hospitalar e Universit\u00e1rio de Coimbra EPE",
+        "Higher School of Nursing of Coimbra, Health Sciences Research Unit: Nursing",
+        "Rheumatology Department"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Rheumatology Department",
+          "institution_ids": [
+            "https://openalex.org/I4210159453"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Centro Hospitalar e Universit\u00e1rio de Coimbra EPE",
+          "institution_ids": [
+            "https://openalex.org/I2802025818"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Higher School of Nursing of Coimbra, Health Sciences Research Unit: Nursing",
+          "institution_ids": [
+            "https://openalex.org/I56243300"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5034049147",
+        "display_name": "Eduardo Santos",
+        "orcid": "https://orcid.org/0000-0003-0557-2377"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I56243300",
+          "display_name": "Escola Superior de Enfermagem de Coimbra",
+          "ror": "https://ror.org/03c3y8w73",
+          "country_code": "PT",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I56243300"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I2802025818",
+          "display_name": "Hospitais da Universidade de Coimbra",
+          "ror": "https://ror.org/04032fz76",
+          "country_code": "PT",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2802025818"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210159453",
+          "display_name": "Center for Rheumatology",
+          "ror": "https://ror.org/04rtaxr13",
+          "country_code": "US",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I4210159453"
+          ]
+        }
+      ],
+      "countries": [
+        "PT",
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Eduardo Santos",
+      "raw_affiliation_strings": [
+        "Centro Hospitalar e Universit\u00e1rio de Coimbra EPE",
+        "Higher School of Nursing of Coimbra, Health Sciences Research Unit: Nursing",
+        "Rheumatology Department"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Rheumatology Department",
+          "institution_ids": [
+            "https://openalex.org/I4210159453"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Higher School of Nursing of Coimbra, Health Sciences Research Unit: Nursing",
+          "institution_ids": [
+            "https://openalex.org/I56243300"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Centro Hospitalar e Universit\u00e1rio de Coimbra EPE",
+          "institution_ids": [
+            "https://openalex.org/I2802025818"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5009133635",
+        "display_name": "Elena Nikiphorou",
+        "orcid": "https://orcid.org/0000-0001-6847-3726"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I111483173",
+          "display_name": "King University",
+          "ror": "https://ror.org/01evb6z23",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I111483173"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Elena Nikiphorou",
+      "raw_affiliation_strings": [
+        "Centre for Rheumatic Diseases",
+        "King College London"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Centre for Rheumatic Diseases",
+          "institution_ids": []
+        },
+        {
+          "raw_affiliation_string": "King College London",
+          "institution_ids": [
+            "https://openalex.org/I111483173"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5091052078",
+        "display_name": "Ailsa Bosworth",
+        "orcid": "https://orcid.org/0000-0001-7634-414X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210089904",
+          "display_name": "Arthritis Society",
+          "ror": "https://ror.org/00bpw5437",
+          "country_code": "CA",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I4210089904"
+          ]
+        }
+      ],
+      "countries": [
+        "CA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Ailsa Bosworth",
+      "raw_affiliation_strings": [
+        "National Rheumatoid Arthritis Society"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "National Rheumatoid Arthritis Society",
+          "institution_ids": [
+            "https://openalex.org/I4210089904"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5001730778",
+        "display_name": "Loreto Carmona",
+        "orcid": "https://orcid.org/0000-0002-4401-2551"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210156053",
+          "display_name": "Instituto de Salud Musculoesquel\u00e9tica",
+          "ror": "https://ror.org/0575y1m09",
+          "country_code": "ES",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I4210156053"
+          ]
+        }
+      ],
+      "countries": [
+        "ES"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Loreto Carmona",
+      "raw_affiliation_strings": [
+        "Instituto de Salud Musculoesquel\u00e9tica"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Instituto de Salud Musculoesquel\u00e9tica",
+          "institution_ids": [
+            "https://openalex.org/I4210156053"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 4,
+  "institutions_distinct_count": 5,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [],
+  "apc_list": {
+    "value": 1950,
+    "currency": "GBP",
+    "value_usd": 2391
+  },
+  "apc_paid": {
+    "value": 1950,
+    "currency": "GBP",
+    "value_usd": 2391
+  },
+  "fwci": 7.42624563,
+  "has_fulltext": true,
+  "cited_by_count": 48,
+  "citation_normalized_percentile": {
+    "value": 0.96945701,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 97,
+    "max": 100
+  },
+  "biblio": {
+    "volume": "7",
+    "issue": "2",
+    "first_page": "e001647",
+    "last_page": "e001647"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T11616",
+    "display_name": "Autoimmune and Inflammatory Disorders Research",
+    "score": 0.9991999864578247,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2720",
+      "display_name": "Hematology"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/27",
+      "display_name": "Medicine"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/4",
+      "display_name": "Health Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T11616",
+      "display_name": "Autoimmune and Inflammatory Disorders Research",
+      "score": 0.9991999864578247,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2720",
+        "display_name": "Hematology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10200",
+      "display_name": "Rheumatoid Arthritis Research and Therapies",
+      "score": 0.9979000091552734,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2745",
+        "display_name": "Rheumatology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11092",
+      "display_name": "Spondyloarthritis Studies and Treatments",
+      "score": 0.989799976348877,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2745",
+        "display_name": "Rheumatology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/medicine",
+      "display_name": "Medicine",
+      "score": 0.9691636562347412
+    },
+    {
+      "id": "https://openalex.org/keywords/inflammatory-arthritis",
+      "display_name": "Inflammatory arthritis",
+      "score": 0.6496825814247131
+    },
+    {
+      "id": "https://openalex.org/keywords/self-management",
+      "display_name": "Self-management",
+      "score": 0.6338461637496948
+    },
+    {
+      "id": "https://openalex.org/keywords/psychological-intervention",
+      "display_name": "Psychological intervention",
+      "score": 0.6278271079063416
+    },
+    {
+      "id": "https://openalex.org/keywords/arthritis",
+      "display_name": "Arthritis",
+      "score": 0.6072076559066772
+    },
+    {
+      "id": "https://openalex.org/keywords/intensive-care-medicine",
+      "display_name": "Intensive care medicine",
+      "score": 0.4217246174812317
+    },
+    {
+      "id": "https://openalex.org/keywords/physical-therapy",
+      "display_name": "Physical therapy",
+      "score": 0.40436503291130066
+    },
+    {
+      "id": "https://openalex.org/keywords/immunology",
+      "display_name": "Immunology",
+      "score": 0.36801281571388245
+    },
+    {
+      "id": "https://openalex.org/keywords/nursing",
+      "display_name": "Nursing",
+      "score": 0.08089762926101685
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C71924100",
+      "wikidata": "https://www.wikidata.org/wiki/Q11190",
+      "display_name": "Medicine",
+      "level": 0,
+      "score": 0.9691636562347412
+    },
+    {
+      "id": "https://openalex.org/C2776821229",
+      "wikidata": "https://www.wikidata.org/wiki/Q16965166",
+      "display_name": "Inflammatory arthritis",
+      "level": 3,
+      "score": 0.6496825814247131
+    },
+    {
+      "id": "https://openalex.org/C2776933761",
+      "wikidata": "https://www.wikidata.org/wiki/Q4117674",
+      "display_name": "Self-management",
+      "level": 2,
+      "score": 0.6338461637496948
+    },
+    {
+      "id": "https://openalex.org/C27415008",
+      "wikidata": "https://www.wikidata.org/wiki/Q7256382",
+      "display_name": "Psychological intervention",
+      "level": 2,
+      "score": 0.6278271079063416
+    },
+    {
+      "id": "https://openalex.org/C2777077863",
+      "wikidata": "https://www.wikidata.org/wiki/Q170990",
+      "display_name": "Arthritis",
+      "level": 2,
+      "score": 0.6072076559066772
+    },
+    {
+      "id": "https://openalex.org/C177713679",
+      "wikidata": "https://www.wikidata.org/wiki/Q679690",
+      "display_name": "Intensive care medicine",
+      "level": 1,
+      "score": 0.4217246174812317
+    },
+    {
+      "id": "https://openalex.org/C1862650",
+      "wikidata": "https://www.wikidata.org/wiki/Q186005",
+      "display_name": "Physical therapy",
+      "level": 1,
+      "score": 0.40436503291130066
+    },
+    {
+      "id": "https://openalex.org/C203014093",
+      "wikidata": "https://www.wikidata.org/wiki/Q101929",
+      "display_name": "Immunology",
+      "level": 1,
+      "score": 0.36801281571388245
+    },
+    {
+      "id": "https://openalex.org/C159110408",
+      "wikidata": "https://www.wikidata.org/wiki/Q121176",
+      "display_name": "Nursing",
+      "level": 1,
+      "score": 0.08089762926101685
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C119857082",
+      "wikidata": "https://www.wikidata.org/wiki/Q2539",
+      "display_name": "Machine learning",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [
+    {
+      "descriptor_ui": "D000328",
+      "descriptor_name": "Adult",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D001168",
+      "descriptor_name": "Arthritis",
+      "qualifier_ui": "Q000628",
+      "qualifier_name": "therapy",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D015444",
+      "descriptor_name": "Exercise",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000073278",
+      "descriptor_name": "Self-Management",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D000328",
+      "descriptor_name": "Adult",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D001168",
+      "descriptor_name": "Arthritis",
+      "qualifier_ui": "Q000628",
+      "qualifier_name": "therapy",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D015444",
+      "descriptor_name": "Exercise",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000073278",
+      "descriptor_name": "Self-Management",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D000328",
+      "descriptor_name": "Adult",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D001168",
+      "descriptor_name": "Arthritis",
+      "qualifier_ui": "Q000628",
+      "qualifier_name": "therapy",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D015444",
+      "descriptor_name": "Exercise",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000073278",
+      "descriptor_name": "Self-Management",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    }
+  ],
+  "locations_count": 5,
+  "locations": [
+    {
+      "id": "doi:10.1136/rmdopen-2021-001647",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1136/rmdopen-2021-001647",
+      "pdf_url": "https://rmdopen.bmj.com/content/rmdopen/7/2/e001647.full.pdf",
+      "source": {
+        "id": "https://openalex.org/S2738706341",
+        "display_name": "RMD Open",
+        "issn_l": "2056-5933",
+        "issn": [
+          "2056-5933"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310319945",
+        "host_organization_name": "BMJ",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310319945"
+        ],
+        "host_organization_lineage_names": [
+          "BMJ"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "RMD Open",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:34049997",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/34049997",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "RMD open",
+      "raw_type": null
+    },
+    {
+      "id": "pmh:oai:doaj.org/article:86cd5c4e36b7402ca3876f3e0ad22b60",
+      "is_oa": true,
+      "landing_page_url": "https://doaj.org/article/86cd5c4e36b7402ca3876f3e0ad22b60",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401280",
+        "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by-sa",
+      "license_id": "https://openalex.org/licenses/cc-by-sa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "RMD Open, Vol 7, Iss 2 (2021)",
+      "raw_type": "article"
+    },
+    {
+      "id": "pmh:oai:kclpure.kcl.ac.uk:publications/7884b292-14e9-4aaa-bdfb-21134557e095",
+      "is_oa": true,
+      "landing_page_url": "http://www.scopus.com/inward/record.url?scp=85107211605&partnerID=8YFLogxK",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306400063",
+        "display_name": "Scopus (Elsevier)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "other-oa",
+      "license_id": "https://openalex.org/licenses/other-oa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Marques , A , Santos , E , Nikiphorou , E , Bosworth , A & Carmona , L 2021 , ' Effectiveness of self-management interventions in inflammatory arthritis : A systematic review informing the 2021 EULAR recommendations for the implementation of self-management strategies in patients with inflammatory arthritis ' , RMD Open , vol. 7 , no. 2 , e001647 . https://doi.org/10.1136/rmdopen-2021-001647",
+      "raw_type": "article"
+    },
+    {
+      "id": "pmh:oai:pubmedcentral.nih.gov:8166594",
+      "is_oa": true,
+      "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/8166594",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S2764455111",
+        "display_name": "PubMed Central",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "other-oa",
+      "license_id": "https://openalex.org/licenses/other-oa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "RMD Open",
+      "raw_type": "Text"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1136/rmdopen-2021-001647",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1136/rmdopen-2021-001647",
+    "pdf_url": "https://rmdopen.bmj.com/content/rmdopen/7/2/e001647.full.pdf",
+    "source": {
+      "id": "https://openalex.org/S2738706341",
+      "display_name": "RMD Open",
+      "issn_l": "2056-5933",
+      "issn": [
+        "2056-5933"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310319945",
+      "host_organization_name": "BMJ",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310319945"
+      ],
+      "host_organization_lineage_names": [
+        "BMJ"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "RMD Open",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [
+    {
+      "display_name": "Quality Education",
+      "id": "https://metadata.un.org/sdg/4",
+      "score": 0.46000000834465027
+    }
+  ],
+  "awards": [
+    {
+      "id": "https://openalex.org/G7592847076",
+      "display_name": null,
+      "funder_award_id": "PAR028",
+      "funder_id": "https://openalex.org/F4320325330",
+      "funder_display_name": "European League Against Rheumatism"
+    }
+  ],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320325330",
+      "display_name": "European League Against Rheumatism",
+      "ror": "https://ror.org/03f7j3221"
+    }
+  ],
+  "has_content": {
+    "grobid_xml": true,
+    "pdf": true
+  },
+  "referenced_works_count": 82,
+  "referenced_works": [
+    "https://openalex.org/W2027619473",
+    "https://openalex.org/W3043245288",
+    "https://openalex.org/W1968845132",
+    "https://openalex.org/W2316306290",
+    "https://openalex.org/W2206432491",
+    "https://openalex.org/W2135079284",
+    "https://openalex.org/W2334954761",
+    "https://openalex.org/W2147148117",
+    "https://openalex.org/W2833868476",
+    "https://openalex.org/W2567362164",
+    "https://openalex.org/W2117946264",
+    "https://openalex.org/W4294215472",
+    "https://openalex.org/W2145881672",
+    "https://openalex.org/W2152348310",
+    "https://openalex.org/W2128952811",
+    "https://openalex.org/W2083180635",
+    "https://openalex.org/W2156605473",
+    "https://openalex.org/W1928997348",
+    "https://openalex.org/W2031792094",
+    "https://openalex.org/W2043531290",
+    "https://openalex.org/W2118771994",
+    "https://openalex.org/W2104389209",
+    "https://openalex.org/W1990166011",
+    "https://openalex.org/W2756578555",
+    "https://openalex.org/W1834403691",
+    "https://openalex.org/W2098923148",
+    "https://openalex.org/W2165010366",
+    "https://openalex.org/W9834130",
+    "https://openalex.org/W2318405787",
+    "https://openalex.org/W6702707163",
+    "https://openalex.org/W1996429297",
+    "https://openalex.org/W2902327185",
+    "https://openalex.org/W2098119856",
+    "https://openalex.org/W4241289196",
+    "https://openalex.org/W1906810134",
+    "https://openalex.org/W2076757717",
+    "https://openalex.org/W2009208377",
+    "https://openalex.org/W2138709848",
+    "https://openalex.org/W2122740969",
+    "https://openalex.org/W2117016823",
+    "https://openalex.org/W2022537466",
+    "https://openalex.org/W2057955134",
+    "https://openalex.org/W2123524311",
+    "https://openalex.org/W2059979356",
+    "https://openalex.org/W2165305466",
+    "https://openalex.org/W1934758652",
+    "https://openalex.org/W6640108314",
+    "https://openalex.org/W2114297254",
+    "https://openalex.org/W6638819300",
+    "https://openalex.org/W2975924810",
+    "https://openalex.org/W2753297814",
+    "https://openalex.org/W6719559728",
+    "https://openalex.org/W2048673746",
+    "https://openalex.org/W2897009353",
+    "https://openalex.org/W2066262428",
+    "https://openalex.org/W2464266473",
+    "https://openalex.org/W2129774721",
+    "https://openalex.org/W2530361824",
+    "https://openalex.org/W6635814523",
+    "https://openalex.org/W2039472991",
+    "https://openalex.org/W6640195886",
+    "https://openalex.org/W2087586058",
+    "https://openalex.org/W2038823323",
+    "https://openalex.org/W2728453645",
+    "https://openalex.org/W2892466912",
+    "https://openalex.org/W2144913786",
+    "https://openalex.org/W2159517816",
+    "https://openalex.org/W2801391995",
+    "https://openalex.org/W2091895018",
+    "https://openalex.org/W1912615674",
+    "https://openalex.org/W2771112383",
+    "https://openalex.org/W1562208008",
+    "https://openalex.org/W2807802389",
+    "https://openalex.org/W246286872",
+    "https://openalex.org/W1599340746",
+    "https://openalex.org/W2083656320",
+    "https://openalex.org/W2588681363",
+    "https://openalex.org/W2156098321",
+    "https://openalex.org/W1836409160",
+    "https://openalex.org/W1916406953",
+    "https://openalex.org/W850186367",
+    "https://openalex.org/W2991792334"
+  ],
+  "related_works": [
+    "https://openalex.org/W608944690",
+    "https://openalex.org/W2130050060",
+    "https://openalex.org/W2136389594",
+    "https://openalex.org/W4312379077",
+    "https://openalex.org/W3131645162",
+    "https://openalex.org/W2925920308",
+    "https://openalex.org/W2077260755",
+    "https://openalex.org/W3024690712",
+    "https://openalex.org/W2322308589",
+    "https://openalex.org/W4239846922"
+  ],
+  "abstract_inverted_index": {
+    "Objective": [
+      0
+    ],
+    "To": [
+      1
+    ],
+    "perform": [
+      2
+    ],
+    "a": [
+      3,
+      103,
+      111,
+      235
+    ],
+    "systematic": [
+      4
+    ],
+    "review": [
+      5
+    ],
+    "(SR)": [
+      6
+    ],
+    "on": [
+      7,
+      203,
+      229
+    ],
+    "the": [
+      8,
+      17,
+      39,
+      93,
+      118,
+      210,
+      214,
+      220,
+      230,
+      240,
+      243
+    ],
+    "effectiveness": [
+      9,
+      244
+    ],
+    "of": [
+      10,
+      70,
+      72,
+      87,
+      95,
+      198,
+      213,
+      222,
+      242,
+      245
+    ],
+    "self-management": [
+      11,
+      132,
+      199,
+      215,
+      233
+    ],
+    "interventions,": [
+      12
+    ],
+    "in": [
+      13,
+      26,
+      54,
+      139,
+      144,
+      149,
+      154,
+      159,
+      165,
+      178,
+      183,
+      188,
+      217
+    ],
+    "order": [
+      14
+    ],
+    "to": [
+      15,
+      38,
+      92,
+      238
+    ],
+    "inform": [
+      16
+    ],
+    "European": [
+      18
+    ],
+    "League": [
+      19
+    ],
+    "Against": [
+      20
+    ],
+    "Rheumatism": [
+      21
+    ],
+    "Recommendations": [
+      22
+    ],
+    "for": [
+      23,
+      110
+    ],
+    "its": [
+      24,
+      246
+    ],
+    "implementation": [
+      25
+    ],
+    "patients": [
+      27
+    ],
+    "with": [
+      28,
+      47,
+      63
+    ],
+    "inflammatory": [
+      29
+    ],
+    "arthritis": [
+      30
+    ],
+    "(IA).": [
+      31
+    ],
+    "Methods": [
+      32
+    ],
+    "The": [
+      33,
+      49,
+      68,
+      129,
+      168,
+      207
+    ],
+    "SR": [
+      34
+    ],
+    "was": [
+      35,
+      52,
+      89
+    ],
+    "conducted": [
+      36
+    ],
+    "according": [
+      37,
+      91
+    ],
+    "Cochrane": [
+      40,
+      59
+    ],
+    "Handbook": [
+      41
+    ],
+    "and": [
+      42,
+      66,
+      76,
+      99,
+      114,
+      126,
+      162,
+      186,
+      196,
+      219
+    ],
+    "included": [
+      43
+    ],
+    "adults": [
+      44
+    ],
+    "(\u226518": [
+      45
+    ],
+    "years)": [
+      46
+    ],
+    "IA.": [
+      48
+    ],
+    "search": [
+      50
+    ],
+    "strategy": [
+      51
+    ],
+    "run": [
+      53
+    ],
+    "Medline": [
+      55
+    ],
+    "through": [
+      56
+    ],
+    "PubMed,": [
+      57
+    ],
+    "Embase,": [
+      58
+    ],
+    "Library,": [
+      60
+    ],
+    "CINAHL": [
+      61
+    ],
+    "Plus": [
+      62
+    ],
+    "Full": [
+      64
+    ],
+    "Text,": [
+      65
+    ],
+    "PEDro.": [
+      67
+    ],
+    "assessment": [
+      69
+    ],
+    "risk": [
+      71
+    ],
+    "bias,": [
+      73
+    ],
+    "data": [
+      74
+    ],
+    "extraction": [
+      75
+    ],
+    "synthesis": [
+      77
+    ],
+    "were": [
+      78,
+      108,
+      134,
+      172
+    ],
+    "performed": [
+      79
+    ],
+    "by": [
+      80
+    ],
+    "two": [
+      81,
+      166,
+      189
+    ],
+    "reviewers": [
+      82
+    ],
+    "independently.": [
+      83
+    ],
+    "A": [
+      84
+    ],
+    "narrative": [
+      85
+    ],
+    "Summary": [
+      86
+    ],
+    "Findings": [
+      88
+    ],
+    "provided": [
+      90
+    ],
+    "Grading": [
+      94
+    ],
+    "Recommendations,": [
+      96
+    ],
+    "Assessment,": [
+      97
+    ],
+    "Development": [
+      98
+    ],
+    "Evaluation.": [
+      100
+    ],
+    "Results": [
+      101
+    ],
+    "From": [
+      102
+    ],
+    "total": [
+      104
+    ],
+    "1577": [
+      105
+    ],
+    "references,": [
+      106
+    ],
+    "57": [
+      107
+    ],
+    "selected": [
+      109
+    ],
+    "full-text": [
+      112
+    ],
+    "review,": [
+      113
+    ],
+    "32": [
+      115
+    ],
+    "studies": [
+      116
+    ],
+    "fulfilled": [
+      117
+    ],
+    "inclusion": [
+      119
+    ],
+    "criteria": [
+      120
+    ],
+    "(19": [
+      121
+    ],
+    "randomised": [
+      122
+    ],
+    "controlled": [
+      123
+    ],
+    "trials": [
+      124
+    ],
+    "(RCTs)": [
+      125
+    ],
+    "13": [
+      127
+    ],
+    "SRs).": [
+      128
+    ],
+    "most": [
+      130,
+      169
+    ],
+    "studied": [
+      131,
+      170
+    ],
+    "components": [
+      133,
+      195
+    ],
+    "specific": [
+      135,
+      194
+    ],
+    "interactive": [
+      136
+    ],
+    "disease": [
+      137
+    ],
+    "education": [
+      138,
+      158,
+      187
+    ],
+    "ten": [
+      140
+    ],
+    "RCTs,": [
+      141,
+      146,
+      151,
+      156
+    ],
+    "problem": [
+      142
+    ],
+    "solving": [
+      143
+    ],
+    "nine": [
+      145
+    ],
+    "cognitive\u2013behavioural": [
+      147
+    ],
+    "therapy": [
+      148
+    ],
+    "eight": [
+      150
+    ],
+    "goal": [
+      152
+    ],
+    "setting": [
+      153
+    ],
+    "six": [
+      155,
+      179
+    ],
+    "patient": [
+      157
+    ],
+    "five": [
+      160,
+      184
+    ],
+    "RCTs": [
+      161
+    ],
+    "response": [
+      163
+    ],
+    "training": [
+      164
+    ],
+    "RCTs.": [
+      167
+    ],
+    "interventions": [
+      171,
+      182,
+      197,
+      216
+    ],
+    "multicomponent": [
+      173
+    ],
+    "or": [
+      174
+    ],
+    "single": [
+      175
+    ],
+    "exercise/physical": [
+      176
+    ],
+    "activity": [
+      177
+    ],
+    "SRs,": [
+      180
+    ],
+    "psychosocial": [
+      181
+    ],
+    "SRs": [
+      185
+    ],
+    "SRs.": [
+      190
+    ],
+    "Overall,": [
+      191
+    ],
+    "all": [
+      192
+    ],
+    "these": [
+      193
+    ],
+    "have": [
+      200
+    ],
+    "beneficial": [
+      201,
+      211
+    ],
+    "effects": [
+      202
+    ],
+    "IAs-related": [
+      204
+    ],
+    "outcomes.": [
+      205
+    ],
+    "Conclusions": [
+      206
+    ],
+    "findings": [
+      208
+    ],
+    "confirm": [
+      209
+    ],
+    "effect": [
+      212
+    ],
+    "IA": [
+      218
+    ],
+    "importance": [
+      221
+    ],
+    "their": [
+      223
+    ],
+    "implementation.": [
+      224
+    ],
+    "Further": [
+      225
+    ],
+    "research": [
+      226
+    ],
+    "should": [
+      227
+    ],
+    "focus": [
+      228
+    ],
+    "understanding": [
+      231
+    ],
+    "that": [
+      232
+    ],
+    "is": [
+      234
+    ],
+    "complex": [
+      236
+    ],
+    "intervention": [
+      237
+    ],
+    "allow": [
+      239
+    ],
+    "isolation": [
+      241
+    ],
+    "different": [
+      247
+    ],
+    "components.": [
+      248
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 8
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 20
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 11
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 5
+    },
+    {
+      "year": 2021,
+      "cited_by_count": 4
+    }
+  ],
+  "updated_date": "2025-11-06T03:46:38.306776",
+  "created_date": "2025-10-10T00:00:00"
+}

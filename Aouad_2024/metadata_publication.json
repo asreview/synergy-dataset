@@ -1,0 +1,1198 @@
+{
+  "id": "https://openalex.org/W4396814222",
+  "doi": "https://doi.org/10.1136/ard-2024-225567",
+  "title": "Patient research partner involvement in rheumatology research: a systematic literature review informing the 2023 updated EULAR recommendations for the involvement of patient research partners",
+  "display_name": "Patient research partner involvement in rheumatology research: a systematic literature review informing the 2023 updated EULAR recommendations for the involvement of patient research partners",
+  "publication_year": 2024,
+  "publication_date": "2024-05-15",
+  "ids": {
+    "openalex": "https://openalex.org/W4396814222",
+    "doi": "https://doi.org/10.5167/uzh-260064",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/38724076"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1136/ard-2024-225567",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1136/ard-2024-225567",
+    "pdf_url": "https://ard.bmj.com/content/annrheumdis/early/2024/05/07/ard-2024-225567.full.pdf",
+    "source": {
+      "id": "https://openalex.org/S25650217",
+      "display_name": "Annals of the Rheumatic Diseases",
+      "issn_l": "0003-4967",
+      "issn": [
+        "0003-4967",
+        "1468-2060"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310319945",
+      "host_organization_name": "BMJ",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310319945"
+      ],
+      "host_organization_lineage_names": [],
+      "type": "journal"
+    },
+    "license": "cc-by-nc-nd",
+    "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Annals of the Rheumatic Diseases",
+    "raw_type": "journal-article"
+  },
+  "type": "review",
+  "indexed_in": [
+    "crossref",
+    "datacite",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "hybrid",
+    "oa_url": "https://ard.bmj.com/content/annrheumdis/early/2024/05/07/ard-2024-225567.full.pdf",
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5071921530",
+        "display_name": "Krystel Aouad",
+        "orcid": "https://orcid.org/0000-0001-8708-9324"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2803082546",
+          "display_name": "Saint George Hospital",
+          "ror": "https://ror.org/04bagh120",
+          "country_code": "LB",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2803082546"
+          ]
+        }
+      ],
+      "countries": [
+        "LB"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Krystel Aouad",
+      "raw_affiliation_strings": [
+        "Rheumatology Department, Saint George University of Beirut, Saint George Hospital University Medical Center, PO box 166378, Beirut, Lebanon"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Rheumatology Department, Saint George University of Beirut, Saint George Hospital University Medical Center, PO box 166378, Beirut, Lebanon",
+          "institution_ids": [
+            "https://openalex.org/I2803082546"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5045047976",
+        "display_name": "Maarten de Wit",
+        "orcid": "https://orcid.org/0000-0002-8428-6354"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Maarten de Wit",
+      "raw_affiliation_strings": [
+        "EULAR Study Group for collaborative research, Patient Research Partner, Amsterdam, The Netherlands"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "EULAR Study Group for collaborative research, Patient Research Partner, Amsterdam, The Netherlands",
+          "institution_ids": [
+            null
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5077973925",
+        "display_name": "Muriel Elha\u00ef",
+        "orcid": "https://orcid.org/0000-0001-8627-5758"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210100468",
+          "display_name": "University Hospital of Zurich",
+          "ror": "https://ror.org/01462r250",
+          "country_code": "CH",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210100468"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I202697423",
+          "display_name": "University of Zurich",
+          "ror": "https://ror.org/02crff812",
+          "country_code": "CH",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I202697423"
+          ]
+        }
+      ],
+      "countries": [
+        "CH"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Muriel Elhai",
+      "raw_affiliation_strings": [
+        "Rheumatology Department, University of Zurich, University Hospital Zurich, Zurich, Switzerland"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Rheumatology Department, University of Zurich, University Hospital Zurich, Zurich, Switzerland",
+          "institution_ids": [
+            "https://openalex.org/I4210100468"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Rheumatology Department, University of Zurich, University Hospital Zurich, Zurich, Switzerland",
+          "institution_ids": [
+            "https://openalex.org/I202697423"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5069000959",
+        "display_name": "Diego Benavent",
+        "orcid": "https://orcid.org/0000-0001-9119-5330"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2802050225",
+          "display_name": "Bellvitge University Hospital",
+          "ror": "https://ror.org/00epner96",
+          "country_code": "ES",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I157913058",
+            "https://openalex.org/I2802050225",
+            "https://openalex.org/I4210153292"
+          ]
+        }
+      ],
+      "countries": [
+        "ES"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Diego Benavent",
+      "raw_affiliation_strings": [
+        "Rheumatology Department, Hospital Universitari de Bellvitge, Barcelona, Spain"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Rheumatology Department, Hospital Universitari de Bellvitge, Barcelona, Spain",
+          "institution_ids": [
+            "https://openalex.org/I2802050225"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5069551662",
+        "display_name": "Heidi Bertheussen",
+        "orcid": "https://orcid.org/0000-0001-6693-9254"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Heidi Bertheussen",
+      "raw_affiliation_strings": [
+        "Patient Research Partner, Oslo, Norway"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Patient Research Partner, Oslo, Norway",
+          "institution_ids": [
+            null
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5072628102",
+        "display_name": "C. Zabalan",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Condruta Zabalan",
+      "raw_affiliation_strings": [
+        "Patient Research Partner, Bucharest, Romania"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Patient Research Partner, Bucharest, Romania",
+          "institution_ids": [
+            null
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5053831292",
+        "display_name": "Jette Primdahl",
+        "orcid": "https://orcid.org/0000-0002-1049-4150"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Jette Primdahl",
+      "raw_affiliation_strings": [
+        "Danish Hospital for Rheumatic Diseases, University Hospital of Southern Denmark, S\u00f8nderborg, Denmark"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Danish Hospital for Rheumatic Diseases, University Hospital of Southern Denmark, S\u00f8nderborg, Denmark",
+          "institution_ids": [
+            null
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5034322412",
+        "display_name": "Paul Studenic",
+        "orcid": "https://orcid.org/0000-0002-8895-6941"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I76134821",
+          "display_name": "Medical University of Vienna",
+          "ror": "https://ror.org/05n3x4p02",
+          "country_code": "AT",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I76134821"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I28166907",
+          "display_name": "Karolinska Institutet",
+          "ror": "https://ror.org/056d84691",
+          "country_code": "SE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I28166907"
+          ]
+        }
+      ],
+      "countries": [
+        "AT",
+        "SE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Paul Studenic",
+      "raw_affiliation_strings": [
+        "Rheumatology Division, Department of Medicine(Solna), Karolinska Institutet, Stockholm, Sweden",
+        "Rheumatology Division, Internal Medicine Department, Medical University of Vienna, Vienna, Austria"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Rheumatology Division, Internal Medicine Department, Medical University of Vienna, Vienna, Austria",
+          "institution_ids": [
+            "https://openalex.org/I76134821"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Rheumatology Division, Department of Medicine(Solna), Karolinska Institutet, Stockholm, Sweden",
+          "institution_ids": [
+            "https://openalex.org/I28166907"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5091895459",
+        "display_name": "Laure Gossec",
+        "orcid": "https://orcid.org/0000-0002-4528-310X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I154526488",
+          "display_name": "Inserm",
+          "ror": "https://ror.org/02vjkv261",
+          "country_code": "FR",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I154526488"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210133907",
+          "display_name": "Institut Pierre Louis d\u2018\u00c9pid\u00e9miologie et de Sant\u00e9 Publique",
+          "ror": "https://ror.org/02qqh1125",
+          "country_code": "FR",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I154526488",
+            "https://openalex.org/I39804081",
+            "https://openalex.org/I4210133907"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210121705",
+          "display_name": "Piti\u00e9-Salp\u00eatri\u00e8re Hospital",
+          "ror": "https://ror.org/02mh9a093",
+          "country_code": "FR",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210097159",
+            "https://openalex.org/I4210121705"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I39804081",
+          "display_name": "Sorbonne Universit\u00e9",
+          "ror": "https://ror.org/02en5vm52",
+          "country_code": "FR",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I39804081"
+          ]
+        }
+      ],
+      "countries": [
+        "FR"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Laure Gossec",
+      "raw_affiliation_strings": [
+        "INSERM, Institut Pierre Louis d'Epid\u00e9miologie et de Sant\u00e9 Publique, Sorbonne Universit\u00e9, Paris, France",
+        "Rheumatology Department, University Hospital Piti\u00e9 Salp\u00eatri\u00e8re, Paris, France"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Rheumatology Department, University Hospital Piti\u00e9 Salp\u00eatri\u00e8re, Paris, France",
+          "institution_ids": [
+            "https://openalex.org/I4210121705"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Rheumatology Department, University Hospital Piti\u00e9 Salp\u00eatri\u00e8re, Paris, France",
+          "institution_ids": [
+            "https://openalex.org/I39804081"
+          ]
+        },
+        {
+          "raw_affiliation_string": "INSERM, Institut Pierre Louis d'Epid\u00e9miologie et de Sant\u00e9 Publique, Sorbonne Universit\u00e9, Paris, France",
+          "institution_ids": [
+            "https://openalex.org/I4210133907"
+          ]
+        },
+        {
+          "raw_affiliation_string": "INSERM, Institut Pierre Louis d'Epid\u00e9miologie et de Sant\u00e9 Publique, Sorbonne Universit\u00e9, Paris, France",
+          "institution_ids": [
+            "https://openalex.org/I154526488"
+          ]
+        },
+        {
+          "raw_affiliation_string": "INSERM, Institut Pierre Louis d'Epid\u00e9miologie et de Sant\u00e9 Publique, Sorbonne Universit\u00e9, Paris, France",
+          "institution_ids": [
+            "https://openalex.org/I39804081"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 6,
+  "institutions_distinct_count": 9,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5071921530"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I2803082546"
+  ],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 9.23622122,
+  "cited_by_count": 5,
+  "citation_normalized_percentile": {
+    "value": 0.9583761,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 95,
+    "max": 97
+  },
+  "biblio": {
+    "volume": "83",
+    "issue": "10",
+    "first_page": "1268",
+    "last_page": "1277"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T11639",
+    "display_name": "Mental Health and Patient Involvement",
+    "score": 0.9998000264167786,
+    "subfield": {
+      "id": "https://openalex.org/subfields/3600",
+      "display_name": "General Health Professions"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/36",
+      "display_name": "Health Professions"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/4",
+      "display_name": "Health Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T11639",
+      "display_name": "Mental Health and Patient Involvement",
+      "score": 0.9998000264167786,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3600",
+        "display_name": "General Health Professions"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/36",
+        "display_name": "Health Professions"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12918",
+      "display_name": "Healthcare Systems and Technology",
+      "score": 0.9926000237464905,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1407",
+        "display_name": "Organizational Behavior and Human Resource Management"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/14",
+        "display_name": "Business, Management and Accounting"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12664",
+      "display_name": "Clinical practice guidelines implementation",
+      "score": 0.9912999868392944,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2739",
+        "display_name": "Public Health, Environmental and Occupational Health"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/medicine",
+      "display_name": "Medicine",
+      "score": 0.9368804693222046
+    },
+    {
+      "id": "https://openalex.org/keywords/alternative-medicine",
+      "display_name": "Alternative medicine",
+      "score": 0.5502868890762329
+    },
+    {
+      "id": "https://openalex.org/keywords/family-medicine",
+      "display_name": "Family medicine",
+      "score": 0.5360707640647888
+    },
+    {
+      "id": "https://openalex.org/keywords/rheumatology",
+      "display_name": "Rheumatology",
+      "score": 0.5043572187423706
+    },
+    {
+      "id": "https://openalex.org/keywords/systematic-review",
+      "display_name": "Systematic review",
+      "score": 0.4774782657623291
+    },
+    {
+      "id": "https://openalex.org/keywords/medline",
+      "display_name": "MEDLINE",
+      "score": 0.4199274182319641
+    },
+    {
+      "id": "https://openalex.org/keywords/clinical-research",
+      "display_name": "Clinical research",
+      "score": 0.4154638648033142
+    },
+    {
+      "id": "https://openalex.org/keywords/internal-medicine",
+      "display_name": "Internal medicine",
+      "score": 0.4059021770954132
+    },
+    {
+      "id": "https://openalex.org/keywords/physical-therapy",
+      "display_name": "Physical therapy",
+      "score": 0.3329112231731415
+    },
+    {
+      "id": "https://openalex.org/keywords/pathology",
+      "display_name": "Pathology",
+      "score": 0.14459377527236938
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C71924100",
+      "wikidata": "https://www.wikidata.org/wiki/Q11190",
+      "display_name": "Medicine",
+      "level": 0,
+      "score": 0.9368804693222046
+    },
+    {
+      "id": "https://openalex.org/C204787440",
+      "wikidata": "https://www.wikidata.org/wiki/Q188504",
+      "display_name": "Alternative medicine",
+      "level": 2,
+      "score": 0.5502868890762329
+    },
+    {
+      "id": "https://openalex.org/C512399662",
+      "wikidata": "https://www.wikidata.org/wiki/Q3505712",
+      "display_name": "Family medicine",
+      "level": 1,
+      "score": 0.5360707640647888
+    },
+    {
+      "id": "https://openalex.org/C198451711",
+      "wikidata": "https://www.wikidata.org/wiki/Q327657",
+      "display_name": "Rheumatology",
+      "level": 2,
+      "score": 0.5043572187423706
+    },
+    {
+      "id": "https://openalex.org/C189708586",
+      "wikidata": "https://www.wikidata.org/wiki/Q1504425",
+      "display_name": "Systematic review",
+      "level": 3,
+      "score": 0.4774782657623291
+    },
+    {
+      "id": "https://openalex.org/C2779473830",
+      "wikidata": "https://www.wikidata.org/wiki/Q1540899",
+      "display_name": "MEDLINE",
+      "level": 2,
+      "score": 0.4199274182319641
+    },
+    {
+      "id": "https://openalex.org/C502991105",
+      "wikidata": "https://www.wikidata.org/wiki/Q5133849",
+      "display_name": "Clinical research",
+      "level": 2,
+      "score": 0.4154638648033142
+    },
+    {
+      "id": "https://openalex.org/C126322002",
+      "wikidata": "https://www.wikidata.org/wiki/Q11180",
+      "display_name": "Internal medicine",
+      "level": 1,
+      "score": 0.4059021770954132
+    },
+    {
+      "id": "https://openalex.org/C1862650",
+      "wikidata": "https://www.wikidata.org/wiki/Q186005",
+      "display_name": "Physical therapy",
+      "level": 1,
+      "score": 0.3329112231731415
+    },
+    {
+      "id": "https://openalex.org/C142724271",
+      "wikidata": "https://www.wikidata.org/wiki/Q7208",
+      "display_name": "Pathology",
+      "level": 1,
+      "score": 0.14459377527236938
+    },
+    {
+      "id": "https://openalex.org/C17744445",
+      "wikidata": "https://www.wikidata.org/wiki/Q36442",
+      "display_name": "Political science",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C199539241",
+      "wikidata": "https://www.wikidata.org/wiki/Q7748",
+      "display_name": "Law",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D012219",
+      "descriptor_name": "Rheumatology",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D010358",
+      "descriptor_name": "Patient Participation",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D035843",
+      "descriptor_name": "Biomedical Research",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D012216",
+      "descriptor_name": "Rheumatic Diseases",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D012219",
+      "descriptor_name": "Rheumatology",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D010358",
+      "descriptor_name": "Patient Participation",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D035843",
+      "descriptor_name": "Biomedical Research",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D012216",
+      "descriptor_name": "Rheumatic Diseases",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D012219",
+      "descriptor_name": "Rheumatology",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D010358",
+      "descriptor_name": "Patient Participation",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D035843",
+      "descriptor_name": "Biomedical Research",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D012216",
+      "descriptor_name": "Rheumatic Diseases",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D012219",
+      "descriptor_name": "Rheumatology",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D010358",
+      "descriptor_name": "Patient Participation",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D035843",
+      "descriptor_name": "Biomedical Research",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D012216",
+      "descriptor_name": "Rheumatic Diseases",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D012219",
+      "descriptor_name": "Rheumatology",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D010358",
+      "descriptor_name": "Patient Participation",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D035843",
+      "descriptor_name": "Biomedical Research",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D012216",
+      "descriptor_name": "Rheumatic Diseases",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D012219",
+      "descriptor_name": "Rheumatology",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D010358",
+      "descriptor_name": "Patient Participation",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D035843",
+      "descriptor_name": "Biomedical Research",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D012216",
+      "descriptor_name": "Rheumatic Diseases",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    }
+  ],
+  "locations_count": 6,
+  "locations": [
+    {
+      "id": "doi:10.1136/ard-2024-225567",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1136/ard-2024-225567",
+      "pdf_url": "https://ard.bmj.com/content/annrheumdis/early/2024/05/07/ard-2024-225567.full.pdf",
+      "source": {
+        "id": "https://openalex.org/S25650217",
+        "display_name": "Annals of the Rheumatic Diseases",
+        "issn_l": "0003-4967",
+        "issn": [
+          "0003-4967",
+          "1468-2060"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310319945",
+        "host_organization_name": "BMJ",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310319945"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "journal"
+      },
+      "license": "cc-by-nc-nd",
+      "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Annals of the Rheumatic Diseases"
+    },
+    {
+      "id": "pmid:38724076",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/38724076",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Annals of the rheumatic diseases"
+    },
+    {
+      "id": "pmh:oai:www.zora.uzh.ch:260064",
+      "is_oa": false,
+      "landing_page_url": null,
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401281",
+        "display_name": "Zurich Open Repository and Archive (University of Zurich)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I202697423",
+        "host_organization_name": "University of Zurich",
+        "host_organization_lineage": [
+          "https://openalex.org/I202697423"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Aouad, Krystel; de Wit, Maarten; Elhai, Muriel; Benavent, Diego; Bertheussen, Heidi; Zabalan, Condruta; Primdahl, Jette; Studenic, Paul; Gossec, Laure  (2024). Patient research partner involvement in rheumatology research: a systematic literature review informing the 2023 updated EULAR recommendations for the involvement of patient research partners.  Annals of the Rheumatic Diseases, 83(10):1268-1277."
+    },
+    {
+      "id": "pmh:oai:HAL:hal-04679036v1",
+      "is_oa": true,
+      "landing_page_url": "https://hal.sorbonne-universite.fr/hal-04679036",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306402512",
+        "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1294671590",
+        "host_organization_name": "Centre National de la Recherche Scientifique",
+        "host_organization_lineage": [
+          "https://openalex.org/I1294671590"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "ISSN: 0003-4967"
+    },
+    {
+      "id": "pmh:oai:pubmedcentral.nih.gov:11503057",
+      "is_oa": true,
+      "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/11503057",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S2764455111",
+        "display_name": "PubMed Central",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "other-oa",
+      "license_id": "https://openalex.org/licenses/other-oa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Ann Rheum Dis"
+    },
+    {
+      "id": "doi:10.5167/uzh-260064",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.5167/uzh-260064",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S7407051291",
+        "display_name": "Universit\u00e4t Z\u00fcrich, ZORA",
+        "issn_l": null,
+        "issn": [],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [
+          null
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": null,
+      "is_accepted": false,
+      "is_published": null,
+      "raw_source_name": null
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1136/ard-2024-225567",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1136/ard-2024-225567",
+    "pdf_url": "https://ard.bmj.com/content/annrheumdis/early/2024/05/07/ard-2024-225567.full.pdf",
+    "source": {
+      "id": "https://openalex.org/S25650217",
+      "display_name": "Annals of the Rheumatic Diseases",
+      "issn_l": "0003-4967",
+      "issn": [
+        "0003-4967",
+        "1468-2060"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310319945",
+      "host_organization_name": "BMJ",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310319945"
+      ],
+      "host_organization_lineage_names": [],
+      "type": "journal"
+    },
+    "license": "cc-by-nc-nd",
+    "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Annals of the Rheumatic Diseases",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [
+    {
+      "score": 0.5600000023841858,
+      "id": "https://metadata.un.org/sdg/17",
+      "display_name": "Partnerships for the goals"
+    }
+  ],
+  "grants": [
+    {
+      "funder": "https://openalex.org/F4320325330",
+      "funder_display_name": "European League Against Rheumatism",
+      "award_id": "RES005"
+    }
+  ],
+  "awards": [],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320325330",
+      "display_name": "European League Against Rheumatism",
+      "ror": "https://ror.org/03f7j3221"
+    }
+  ],
+  "has_content": {
+    "pdf": true,
+    "grobid_xml": false
+  },
+  "referenced_works_count": 61,
+  "referenced_works": [
+    "https://openalex.org/W3163294855",
+    "https://openalex.org/W3009904241",
+    "https://openalex.org/W2939533710",
+    "https://openalex.org/W2904305011",
+    "https://openalex.org/W2792131201",
+    "https://openalex.org/W2565880918",
+    "https://openalex.org/W3135612453",
+    "https://openalex.org/W2736523563",
+    "https://openalex.org/W4322733442",
+    "https://openalex.org/W2133179213",
+    "https://openalex.org/W2107277931",
+    "https://openalex.org/W2773904964",
+    "https://openalex.org/W2554271301",
+    "https://openalex.org/W2971041704",
+    "https://openalex.org/W3157984705",
+    "https://openalex.org/W4283815142",
+    "https://openalex.org/W2124559084",
+    "https://openalex.org/W2107190786",
+    "https://openalex.org/W4302763375",
+    "https://openalex.org/W4292380560",
+    "https://openalex.org/W3011896432",
+    "https://openalex.org/W2981180296",
+    "https://openalex.org/W2735220131",
+    "https://openalex.org/W3047861731",
+    "https://openalex.org/W2924322406",
+    "https://openalex.org/W2142225512",
+    "https://openalex.org/W4307096617",
+    "https://openalex.org/W2528129584",
+    "https://openalex.org/W2021897744",
+    "https://openalex.org/W2948606093",
+    "https://openalex.org/W3212000809",
+    "https://openalex.org/W4280511924",
+    "https://openalex.org/W3185944714",
+    "https://openalex.org/W3174994548",
+    "https://openalex.org/W2344333097",
+    "https://openalex.org/W3096686354",
+    "https://openalex.org/W2805179362",
+    "https://openalex.org/W3042942140",
+    "https://openalex.org/W3135322409",
+    "https://openalex.org/W2947607471",
+    "https://openalex.org/W2887078884",
+    "https://openalex.org/W4221046428",
+    "https://openalex.org/W4313561946",
+    "https://openalex.org/W2995688291",
+    "https://openalex.org/W2750645742",
+    "https://openalex.org/W4283811397",
+    "https://openalex.org/W3202798892",
+    "https://openalex.org/W2102347458",
+    "https://openalex.org/W4306252374",
+    "https://openalex.org/W4289520958",
+    "https://openalex.org/W2625686186",
+    "https://openalex.org/W3178462055",
+    "https://openalex.org/W4281491220",
+    "https://openalex.org/W2890598093",
+    "https://openalex.org/W2811001341",
+    "https://openalex.org/W6746725548",
+    "https://openalex.org/W2610339143",
+    "https://openalex.org/W3205996447",
+    "https://openalex.org/W2766614211",
+    "https://openalex.org/W2916943702",
+    "https://openalex.org/W4399711259"
+  ],
+  "related_works": [
+    "https://openalex.org/W2110429064",
+    "https://openalex.org/W4231130946",
+    "https://openalex.org/W1998396539",
+    "https://openalex.org/W1995287569",
+    "https://openalex.org/W1984617893",
+    "https://openalex.org/W3095316427",
+    "https://openalex.org/W4409308079",
+    "https://openalex.org/W2070311887",
+    "https://openalex.org/W2115099528",
+    "https://openalex.org/W2959917903"
+  ],
+  "abstract_inverted_index": null,
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 3
+    }
+  ],
+  "updated_date": "2025-11-06T03:46:38.306776",
+  "created_date": "2025-10-10T00:00:00"
+}

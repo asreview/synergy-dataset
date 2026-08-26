@@ -1,0 +1,847 @@
+{
+  "id": "https://openalex.org/W3120723271",
+  "doi": "https://doi.org/10.1007/s10270-020-00847-w",
+  "title": "What is a process model composed of?",
+  "display_name": "What is a process model composed of?",
+  "publication_year": 2021,
+  "publication_date": "2021-01-09",
+  "ids": {
+    "openalex": "https://openalex.org/W3120723271",
+    "doi": "https://doi.org/10.1007/s10270-020-00847-w",
+    "mag": "3120723271"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1007/s10270-020-00847-w",
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.1007/s10270-020-00847-w",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S64245694",
+      "display_name": "Software & Systems Modeling",
+      "issn_l": "1619-1366",
+      "issn": [
+        "1619-1366",
+        "1619-1374"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310319900",
+      "host_organization_name": "Springer Science+Business Media",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310319900",
+        "https://openalex.org/P4310319965"
+      ],
+      "host_organization_lineage_names": [
+        "Springer Science+Business Media",
+        "Springer Nature"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Software and Systems Modeling",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "arxiv",
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "green",
+    "oa_url": "https://arxiv.org/pdf/2011.09177",
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5013204281",
+        "display_name": "Greta Adamo",
+        "orcid": "https://orcid.org/0000-0001-8108-2383"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2277624104",
+          "display_name": "Fondazione Bruno Kessler",
+          "ror": "https://ror.org/01j33xk10",
+          "country_code": "IT",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I2277624104"
+          ]
+        }
+      ],
+      "countries": [
+        "IT"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Greta Adamo",
+      "raw_affiliation_strings": [
+        "Fondazione Bruno Kessler, Via Sommarive, 18, 38123, Povo, TN, Italy"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Fondazione Bruno Kessler, Via Sommarive, 18, 38123, Povo, TN, Italy",
+          "institution_ids": [
+            "https://openalex.org/I2277624104"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5069353228",
+        "display_name": "Chiara Ghidini",
+        "orcid": "https://orcid.org/0000-0003-1563-4965"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2277624104",
+          "display_name": "Fondazione Bruno Kessler",
+          "ror": "https://ror.org/01j33xk10",
+          "country_code": "IT",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I2277624104"
+          ]
+        }
+      ],
+      "countries": [
+        "IT"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Chiara Ghidini",
+      "raw_affiliation_strings": [
+        "Fondazione Bruno Kessler, Via Sommarive, 18, 38123, Povo, TN, Italy"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Fondazione Bruno Kessler, Via Sommarive, 18, 38123, Povo, TN, Italy",
+          "institution_ids": [
+            "https://openalex.org/I2277624104"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5070124724",
+        "display_name": "Chiara Di Francescomarino",
+        "orcid": "https://orcid.org/0000-0002-0264-9394"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2277624104",
+          "display_name": "Fondazione Bruno Kessler",
+          "ror": "https://ror.org/01j33xk10",
+          "country_code": "IT",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I2277624104"
+          ]
+        }
+      ],
+      "countries": [
+        "IT"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Chiara Di\u00a0Francescomarino",
+      "raw_affiliation_strings": [
+        "Fondazione Bruno Kessler, Via Sommarive, 18, 38123, Povo, TN, Italy"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Fondazione Bruno Kessler, Via Sommarive, 18, 38123, Povo, TN, Italy",
+          "institution_ids": [
+            "https://openalex.org/I2277624104"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 3,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5013204281"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I2277624104"
+  ],
+  "apc_list": {
+    "value": 2290,
+    "currency": "EUR",
+    "value_usd": 2890
+  },
+  "apc_paid": null,
+  "fwci": 1.41554281,
+  "has_fulltext": false,
+  "cited_by_count": 9,
+  "citation_normalized_percentile": {
+    "value": 0.8229138,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 89,
+    "max": 97
+  },
+  "biblio": {
+    "volume": "20",
+    "issue": "4",
+    "first_page": "1215",
+    "last_page": "1243"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10703",
+    "display_name": "Business Process Modeling and Analysis",
+    "score": 0.9998999834060669,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1404",
+      "display_name": "Management Information Systems"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/14",
+      "display_name": "Business, Management and Accounting"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/2",
+      "display_name": "Social Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10703",
+      "display_name": "Business Process Modeling and Analysis",
+      "score": 0.9998999834060669,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1404",
+        "display_name": "Management Information Systems"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/14",
+        "display_name": "Business, Management and Accounting"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10679",
+      "display_name": "Service-Oriented Architecture and Web Services",
+      "score": 0.994700014591217,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1710",
+        "display_name": "Information Systems"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11572",
+      "display_name": "Information Technology Governance and Strategy",
+      "score": 0.9642000198364258,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1404",
+        "display_name": "Management Information Systems"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/14",
+        "display_name": "Business, Management and Accounting"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/computer-science",
+      "display_name": "Computer science",
+      "score": 0.7203623056411743
+    },
+    {
+      "id": "https://openalex.org/keywords/process",
+      "display_name": "Process (computing)",
+      "score": 0.6158723831176758
+    },
+    {
+      "id": "https://openalex.org/keywords/business-process-modeling",
+      "display_name": "Business process modeling",
+      "score": 0.5476263761520386
+    },
+    {
+      "id": "https://openalex.org/keywords/business-process-management",
+      "display_name": "Business process management",
+      "score": 0.5229383707046509
+    },
+    {
+      "id": "https://openalex.org/keywords/business-process",
+      "display_name": "Business process",
+      "score": 0.5078285336494446
+    },
+    {
+      "id": "https://openalex.org/keywords/process-modeling",
+      "display_name": "Process modeling",
+      "score": 0.5077136754989624
+    },
+    {
+      "id": "https://openalex.org/keywords/representation",
+      "display_name": "Representation (politics)",
+      "score": 0.504778265953064
+    },
+    {
+      "id": "https://openalex.org/keywords/artifact-centric-business-process-model",
+      "display_name": "Artifact-centric business process model",
+      "score": 0.48026204109191895
+    },
+    {
+      "id": "https://openalex.org/keywords/business-process-model-and-notation",
+      "display_name": "Business Process Model and Notation",
+      "score": 0.47256937623023987
+    },
+    {
+      "id": "https://openalex.org/keywords/meaning",
+      "display_name": "Meaning (existential)",
+      "score": 0.46850115060806274
+    },
+    {
+      "id": "https://openalex.org/keywords/systematic-review",
+      "display_name": "Systematic review",
+      "score": 0.4373597204685211
+    },
+    {
+      "id": "https://openalex.org/keywords/data-science",
+      "display_name": "Data science",
+      "score": 0.3785041868686676
+    },
+    {
+      "id": "https://openalex.org/keywords/management-science",
+      "display_name": "Management science",
+      "score": 0.3700270652770996
+    },
+    {
+      "id": "https://openalex.org/keywords/work-in-process",
+      "display_name": "Work in process",
+      "score": 0.3699619174003601
+    },
+    {
+      "id": "https://openalex.org/keywords/process-management",
+      "display_name": "Process management",
+      "score": 0.3697761297225952
+    },
+    {
+      "id": "https://openalex.org/keywords/knowledge-management",
+      "display_name": "Knowledge management",
+      "score": 0.3225616216659546
+    },
+    {
+      "id": "https://openalex.org/keywords/epistemology",
+      "display_name": "Epistemology",
+      "score": 0.11122298240661621
+    },
+    {
+      "id": "https://openalex.org/keywords/programming-language",
+      "display_name": "Programming language",
+      "score": 0.1048768162727356
+    },
+    {
+      "id": "https://openalex.org/keywords/engineering",
+      "display_name": "Engineering",
+      "score": 0.1011209785938263
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.7203623056411743
+    },
+    {
+      "id": "https://openalex.org/C98045186",
+      "wikidata": "https://www.wikidata.org/wiki/Q205663",
+      "display_name": "Process (computing)",
+      "level": 2,
+      "score": 0.6158723831176758
+    },
+    {
+      "id": "https://openalex.org/C207505557",
+      "wikidata": "https://www.wikidata.org/wiki/Q4374012",
+      "display_name": "Business process modeling",
+      "level": 4,
+      "score": 0.5476263761520386
+    },
+    {
+      "id": "https://openalex.org/C80309976",
+      "wikidata": "https://www.wikidata.org/wiki/Q7007379",
+      "display_name": "Business process management",
+      "level": 4,
+      "score": 0.5229383707046509
+    },
+    {
+      "id": "https://openalex.org/C85345410",
+      "wikidata": "https://www.wikidata.org/wiki/Q851587",
+      "display_name": "Business process",
+      "level": 3,
+      "score": 0.5078285336494446
+    },
+    {
+      "id": "https://openalex.org/C76956256",
+      "wikidata": "https://www.wikidata.org/wiki/Q27610560",
+      "display_name": "Process modeling",
+      "level": 3,
+      "score": 0.5077136754989624
+    },
+    {
+      "id": "https://openalex.org/C2776359362",
+      "wikidata": "https://www.wikidata.org/wiki/Q2145286",
+      "display_name": "Representation (politics)",
+      "level": 3,
+      "score": 0.504778265953064
+    },
+    {
+      "id": "https://openalex.org/C162754035",
+      "wikidata": "https://www.wikidata.org/wiki/Q17006331",
+      "display_name": "Artifact-centric business process model",
+      "level": 5,
+      "score": 0.48026204109191895
+    },
+    {
+      "id": "https://openalex.org/C179299601",
+      "wikidata": "https://www.wikidata.org/wiki/Q1017605",
+      "display_name": "Business Process Model and Notation",
+      "level": 5,
+      "score": 0.47256937623023987
+    },
+    {
+      "id": "https://openalex.org/C2780876879",
+      "wikidata": "https://www.wikidata.org/wiki/Q3054749",
+      "display_name": "Meaning (existential)",
+      "level": 2,
+      "score": 0.46850115060806274
+    },
+    {
+      "id": "https://openalex.org/C189708586",
+      "wikidata": "https://www.wikidata.org/wiki/Q1504425",
+      "display_name": "Systematic review",
+      "level": 3,
+      "score": 0.4373597204685211
+    },
+    {
+      "id": "https://openalex.org/C2522767166",
+      "wikidata": "https://www.wikidata.org/wiki/Q2374463",
+      "display_name": "Data science",
+      "level": 1,
+      "score": 0.3785041868686676
+    },
+    {
+      "id": "https://openalex.org/C539667460",
+      "wikidata": "https://www.wikidata.org/wiki/Q2414942",
+      "display_name": "Management science",
+      "level": 1,
+      "score": 0.3700270652770996
+    },
+    {
+      "id": "https://openalex.org/C174998907",
+      "wikidata": "https://www.wikidata.org/wiki/Q357662",
+      "display_name": "Work in process",
+      "level": 2,
+      "score": 0.3699619174003601
+    },
+    {
+      "id": "https://openalex.org/C195094911",
+      "wikidata": "https://www.wikidata.org/wiki/Q14167904",
+      "display_name": "Process management",
+      "level": 1,
+      "score": 0.3697761297225952
+    },
+    {
+      "id": "https://openalex.org/C56739046",
+      "wikidata": "https://www.wikidata.org/wiki/Q192060",
+      "display_name": "Knowledge management",
+      "level": 1,
+      "score": 0.3225616216659546
+    },
+    {
+      "id": "https://openalex.org/C111472728",
+      "wikidata": "https://www.wikidata.org/wiki/Q9471",
+      "display_name": "Epistemology",
+      "level": 1,
+      "score": 0.11122298240661621
+    },
+    {
+      "id": "https://openalex.org/C199360897",
+      "wikidata": "https://www.wikidata.org/wiki/Q9143",
+      "display_name": "Programming language",
+      "level": 1,
+      "score": 0.1048768162727356
+    },
+    {
+      "id": "https://openalex.org/C127413603",
+      "wikidata": "https://www.wikidata.org/wiki/Q11023",
+      "display_name": "Engineering",
+      "level": 0,
+      "score": 0.1011209785938263
+    },
+    {
+      "id": "https://openalex.org/C21547014",
+      "wikidata": "https://www.wikidata.org/wiki/Q1423657",
+      "display_name": "Operations management",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C138885662",
+      "wikidata": "https://www.wikidata.org/wiki/Q5891",
+      "display_name": "Philosophy",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C2779473830",
+      "wikidata": "https://www.wikidata.org/wiki/Q1540899",
+      "display_name": "MEDLINE",
+      "level": 2,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C199539241",
+      "wikidata": "https://www.wikidata.org/wiki/Q7748",
+      "display_name": "Law",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C17744445",
+      "wikidata": "https://www.wikidata.org/wiki/Q36442",
+      "display_name": "Political science",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C94625758",
+      "wikidata": "https://www.wikidata.org/wiki/Q7163",
+      "display_name": "Politics",
+      "level": 2,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 4,
+  "locations": [
+    {
+      "id": "doi:10.1007/s10270-020-00847-w",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1007/s10270-020-00847-w",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S64245694",
+        "display_name": "Software & Systems Modeling",
+        "issn_l": "1619-1366",
+        "issn": [
+          "1619-1366",
+          "1619-1374"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310319900",
+        "host_organization_name": "Springer Science+Business Media",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310319900",
+          "https://openalex.org/P4310319965"
+        ],
+        "host_organization_lineage_names": [
+          "Springer Science+Business Media",
+          "Springer Nature"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Software and Systems Modeling",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmh:oai:arXiv.org:2011.09177",
+      "is_oa": true,
+      "landing_page_url": "http://arxiv.org/abs/2011.09177",
+      "pdf_url": "https://arxiv.org/pdf/2011.09177",
+      "source": {
+        "id": "https://openalex.org/S4306400194",
+        "display_name": "arXiv (Cornell University)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I205783295",
+        "host_organization_name": "Cornell University",
+        "host_organization_lineage": [
+          "https://openalex.org/I205783295"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": null,
+      "raw_type": "text"
+    },
+    {
+      "id": "pmh:oai:iris.unitn.it:11572/362608",
+      "is_oa": false,
+      "landing_page_url": "https://hdl.handle.net/11572/362608",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401913",
+        "display_name": "Institutional Research Information System (Universit\u00e0 degli Studi di Trento)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I193223587",
+        "host_organization_name": "University of Trento",
+        "host_organization_lineage": [
+          "https://openalex.org/I193223587"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": null,
+      "raw_type": "info:eu-repo/semantics/article"
+    },
+    {
+      "id": "pmh:oai:unibz.it:11319738650001241",
+      "is_oa": false,
+      "landing_page_url": "https://bia.unibz.it/esploro/outputs/journalArticle/What-is-a-process-model-composed/991006805497901241",
+      "pdf_url": null,
+      "source": null,
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": null,
+      "raw_type": "Article"
+    }
+  ],
+  "best_oa_location": {
+    "id": "pmh:oai:arXiv.org:2011.09177",
+    "is_oa": true,
+    "landing_page_url": "http://arxiv.org/abs/2011.09177",
+    "pdf_url": "https://arxiv.org/pdf/2011.09177",
+    "source": {
+      "id": "https://openalex.org/S4306400194",
+      "display_name": "arXiv (Cornell University)",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_core": false,
+      "host_organization": "https://openalex.org/I205783295",
+      "host_organization_name": "Cornell University",
+      "host_organization_lineage": [
+        "https://openalex.org/I205783295"
+      ],
+      "host_organization_lineage_names": [],
+      "type": "repository"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "submittedVersion",
+    "is_accepted": false,
+    "is_published": false,
+    "raw_source_name": null,
+    "raw_type": "text"
+  },
+  "sustainable_development_goals": [],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "pdf": false,
+    "grobid_xml": false
+  },
+  "referenced_works_count": 108,
+  "referenced_works": [
+    "https://openalex.org/W2081587383",
+    "https://openalex.org/W2766426528",
+    "https://openalex.org/W2950767304",
+    "https://openalex.org/W3033563657",
+    "https://openalex.org/W4394026715",
+    "https://openalex.org/W2094608307",
+    "https://openalex.org/W2794878507",
+    "https://openalex.org/W1998985627",
+    "https://openalex.org/W2902293873",
+    "https://openalex.org/W2367149031",
+    "https://openalex.org/W2118769075",
+    "https://openalex.org/W2590396609",
+    "https://openalex.org/W2011527410",
+    "https://openalex.org/W1553971244",
+    "https://openalex.org/W2500964445",
+    "https://openalex.org/W1988614677",
+    "https://openalex.org/W2118328848",
+    "https://openalex.org/W2809812071",
+    "https://openalex.org/W2169079243",
+    "https://openalex.org/W2067785884",
+    "https://openalex.org/W2015384282",
+    "https://openalex.org/W182758532",
+    "https://openalex.org/W641711790",
+    "https://openalex.org/W2104880801",
+    "https://openalex.org/W2156683747",
+    "https://openalex.org/W2292869481",
+    "https://openalex.org/W2056937523",
+    "https://openalex.org/W2002239630",
+    "https://openalex.org/W1525489295",
+    "https://openalex.org/W1797996897",
+    "https://openalex.org/W2109574337",
+    "https://openalex.org/W2016698151",
+    "https://openalex.org/W2132752230",
+    "https://openalex.org/W2495835496",
+    "https://openalex.org/W2098485521",
+    "https://openalex.org/W1897190479",
+    "https://openalex.org/W2075955015",
+    "https://openalex.org/W4256581596",
+    "https://openalex.org/W1602959193",
+    "https://openalex.org/W1979586866",
+    "https://openalex.org/W1626459767",
+    "https://openalex.org/W2152643945",
+    "https://openalex.org/W4235941825",
+    "https://openalex.org/W2537814132",
+    "https://openalex.org/W1678156062",
+    "https://openalex.org/W1616493615",
+    "https://openalex.org/W2700545724",
+    "https://openalex.org/W2498246423",
+    "https://openalex.org/W2014315740",
+    "https://openalex.org/W1966080916",
+    "https://openalex.org/W1501172337",
+    "https://openalex.org/W2157302999",
+    "https://openalex.org/W1996109622",
+    "https://openalex.org/W13833313",
+    "https://openalex.org/W2063670358",
+    "https://openalex.org/W1669992463",
+    "https://openalex.org/W2508400185",
+    "https://openalex.org/W2017090401",
+    "https://openalex.org/W4253231317",
+    "https://openalex.org/W2146110187",
+    "https://openalex.org/W2067974371",
+    "https://openalex.org/W1968000319",
+    "https://openalex.org/W2179510525",
+    "https://openalex.org/W2101266455",
+    "https://openalex.org/W4250242035",
+    "https://openalex.org/W2006061326",
+    "https://openalex.org/W2149805949",
+    "https://openalex.org/W2134675983",
+    "https://openalex.org/W2113887368",
+    "https://openalex.org/W2292391595",
+    "https://openalex.org/W2564182445",
+    "https://openalex.org/W2145070944",
+    "https://openalex.org/W2296067794",
+    "https://openalex.org/W2115121100",
+    "https://openalex.org/W2140760306",
+    "https://openalex.org/W2588070621",
+    "https://openalex.org/W1573009460",
+    "https://openalex.org/W2920407406",
+    "https://openalex.org/W216129249",
+    "https://openalex.org/W2024275443",
+    "https://openalex.org/W1564705874",
+    "https://openalex.org/W153836158",
+    "https://openalex.org/W2736491283",
+    "https://openalex.org/W89653425",
+    "https://openalex.org/W2104537183",
+    "https://openalex.org/W2486652859",
+    "https://openalex.org/W204225421",
+    "https://openalex.org/W2168894761",
+    "https://openalex.org/W2048931035",
+    "https://openalex.org/W25364003",
+    "https://openalex.org/W2108234081",
+    "https://openalex.org/W2400673479",
+    "https://openalex.org/W1863462177",
+    "https://openalex.org/W1589398260",
+    "https://openalex.org/W1587329505",
+    "https://openalex.org/W2477922195",
+    "https://openalex.org/W1485350188",
+    "https://openalex.org/W2899891186",
+    "https://openalex.org/W158858167",
+    "https://openalex.org/W994990881",
+    "https://openalex.org/W2114536112",
+    "https://openalex.org/W2518053923",
+    "https://openalex.org/W320653075",
+    "https://openalex.org/W3135838696",
+    "https://openalex.org/W1966631994",
+    "https://openalex.org/W1998067080",
+    "https://openalex.org/W1587772696",
+    "https://openalex.org/W2594765876"
+  ],
+  "related_works": [
+    "https://openalex.org/W2004965561",
+    "https://openalex.org/W2184258672",
+    "https://openalex.org/W4360764654",
+    "https://openalex.org/W2548538367",
+    "https://openalex.org/W2066228984",
+    "https://openalex.org/W3142251153",
+    "https://openalex.org/W2048424351",
+    "https://openalex.org/W2787262806",
+    "https://openalex.org/W4399962773",
+    "https://openalex.org/W2293459815"
+  ],
+  "abstract_inverted_index": null,
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 3
+    },
+    {
+      "year": 2021,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2019,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2025-11-06T03:46:38.306776",
+  "created_date": "2021-01-18T00:00:00"
+}

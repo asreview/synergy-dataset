@@ -1,0 +1,1034 @@
+{
+  "id": "https://openalex.org/W4313332995",
+  "doi": "https://doi.org/10.1016/j.xfnr.2022.12.001",
+  "title": "Accuracy and utility of blood and urine biomarkers for the noninvasive diagnosis of endometriosis: a systematic literature review and meta-analysis",
+  "display_name": "Accuracy and utility of blood and urine biomarkers for the noninvasive diagnosis of endometriosis: a systematic literature review and meta-analysis",
+  "publication_year": 2022,
+  "publication_date": "2022-12-29",
+  "ids": {
+    "openalex": "https://openalex.org/W4313332995",
+    "doi": "https://doi.org/10.1016/j.xfnr.2022.12.001"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1016/j.xfnr.2022.12.001",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1016/j.xfnr.2022.12.001",
+    "pdf_url": "http://www.fertstertreviews.org/article/S2666571922000214/pdf",
+    "source": {
+      "id": "https://openalex.org/S4210180086",
+      "display_name": "F&S Reviews",
+      "issn_l": "2666-5719",
+      "issn": [
+        "2666-5719"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320990",
+      "host_organization_name": "Elsevier BV",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320990"
+      ],
+      "host_organization_lineage_names": [
+        "Elsevier BV"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "F&amp;S Reviews",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "hybrid",
+    "oa_url": "http://www.fertstertreviews.org/article/S2666571922000214/pdf",
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5073797315",
+        "display_name": "Wioletta Doli\u0144ska",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I69768126",
+          "display_name": "Hull York Medical School",
+          "ror": "https://ror.org/0003e4m70",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I69768126"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I191240316",
+          "display_name": "University of Hull",
+          "ror": "https://ror.org/04nkhwh30",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I191240316"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Wioletta Doli\u0144ska",
+      "raw_affiliation_strings": [
+        "Centre for Biomedicine, Hull York Medical School, University of Hull, Hull, United Kingdom"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Centre for Biomedicine, Hull York Medical School, University of Hull, Hull, United Kingdom",
+          "institution_ids": [
+            "https://openalex.org/I191240316",
+            "https://openalex.org/I69768126"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5091615598",
+        "display_name": "Hannah Draper",
+        "orcid": "https://orcid.org/0000-0003-0262-7731"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210105771",
+          "display_name": "Endometriosis",
+          "ror": "https://ror.org/01q5m4507",
+          "country_code": "GB",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I4210105771"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I69768126",
+          "display_name": "Hull York Medical School",
+          "ror": "https://ror.org/0003e4m70",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I69768126"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I191240316",
+          "display_name": "University of Hull",
+          "ror": "https://ror.org/04nkhwh30",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I191240316"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Hannah Draper",
+      "raw_affiliation_strings": [
+        "British Society for Gynaecological Endoscopy-accredited Endometriosis Centre, Hull University Teaching Hospitals NHS Trust, Hull, United Kingdom",
+        "Centre for Biomedicine, Hull York Medical School, University of Hull, Hull, United Kingdom"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Centre for Biomedicine, Hull York Medical School, University of Hull, Hull, United Kingdom",
+          "institution_ids": [
+            "https://openalex.org/I191240316",
+            "https://openalex.org/I69768126"
+          ]
+        },
+        {
+          "raw_affiliation_string": "British Society for Gynaecological Endoscopy-accredited Endometriosis Centre, Hull University Teaching Hospitals NHS Trust, Hull, United Kingdom",
+          "institution_ids": [
+            "https://openalex.org/I4210105771"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5036683442",
+        "display_name": "Lara Othman",
+        "orcid": "https://orcid.org/0000-0002-7373-086X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I69768126",
+          "display_name": "Hull York Medical School",
+          "ror": "https://ror.org/0003e4m70",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I69768126"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I191240316",
+          "display_name": "University of Hull",
+          "ror": "https://ror.org/04nkhwh30",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I191240316"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Lara Othman",
+      "raw_affiliation_strings": [
+        "Hull York Medical School, University of Hull, Hull, United Kingdom"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Hull York Medical School, University of Hull, Hull, United Kingdom",
+          "institution_ids": [
+            "https://openalex.org/I191240316",
+            "https://openalex.org/I69768126"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5108242472",
+        "display_name": "Chloe Thompson",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I69768126",
+          "display_name": "Hull York Medical School",
+          "ror": "https://ror.org/0003e4m70",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I69768126"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I191240316",
+          "display_name": "University of Hull",
+          "ror": "https://ror.org/04nkhwh30",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I191240316"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Chloe Thompson",
+      "raw_affiliation_strings": [
+        "Centre for Biomedicine, Hull York Medical School, University of Hull, Hull, United Kingdom"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Centre for Biomedicine, Hull York Medical School, University of Hull, Hull, United Kingdom",
+          "institution_ids": [
+            "https://openalex.org/I191240316",
+            "https://openalex.org/I69768126"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5026760256",
+        "display_name": "Samantha Girvan",
+        "orcid": "https://orcid.org/0000-0001-9487-6262"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I69768126",
+          "display_name": "Hull York Medical School",
+          "ror": "https://ror.org/0003e4m70",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I69768126"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I191240316",
+          "display_name": "University of Hull",
+          "ror": "https://ror.org/04nkhwh30",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I191240316"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Samantha Girvan",
+      "raw_affiliation_strings": [
+        "Centre for Biomedicine, Hull York Medical School, University of Hull, Hull, United Kingdom"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Centre for Biomedicine, Hull York Medical School, University of Hull, Hull, United Kingdom",
+          "institution_ids": [
+            "https://openalex.org/I191240316",
+            "https://openalex.org/I69768126"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5109552120",
+        "display_name": "Keith Cunningham",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210105771",
+          "display_name": "Endometriosis",
+          "ror": "https://ror.org/01q5m4507",
+          "country_code": "GB",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I4210105771"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Keith Cunningham",
+      "raw_affiliation_strings": [
+        "British Society for Gynaecological Endoscopy-accredited Endometriosis Centre, Hull University Teaching Hospitals NHS Trust, Hull, United Kingdom"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "British Society for Gynaecological Endoscopy-accredited Endometriosis Centre, Hull University Teaching Hospitals NHS Trust, Hull, United Kingdom",
+          "institution_ids": [
+            "https://openalex.org/I4210105771"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5038815501",
+        "display_name": "Jane Allen",
+        "orcid": "https://orcid.org/0000-0003-3779-2411"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210105771",
+          "display_name": "Endometriosis",
+          "ror": "https://ror.org/01q5m4507",
+          "country_code": "GB",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I4210105771"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Jane Allen",
+      "raw_affiliation_strings": [
+        "British Society for Gynaecological Endoscopy-accredited Endometriosis Centre, Hull University Teaching Hospitals NHS Trust, Hull, United Kingdom"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "British Society for Gynaecological Endoscopy-accredited Endometriosis Centre, Hull University Teaching Hospitals NHS Trust, Hull, United Kingdom",
+          "institution_ids": [
+            "https://openalex.org/I4210105771"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5002725702",
+        "display_name": "Alan S. Rigby",
+        "orcid": "https://orcid.org/0000-0001-8331-3907"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I69768126",
+          "display_name": "Hull York Medical School",
+          "ror": "https://ror.org/0003e4m70",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I69768126"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I191240316",
+          "display_name": "University of Hull",
+          "ror": "https://ror.org/04nkhwh30",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I191240316"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Alan Rigby",
+      "raw_affiliation_strings": [
+        "Hull York Medical School, University of Hull, Hull, United Kingdom"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Hull York Medical School, University of Hull, Hull, United Kingdom",
+          "institution_ids": [
+            "https://openalex.org/I191240316",
+            "https://openalex.org/I69768126"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5102727109",
+        "display_name": "Kevin Phillips",
+        "orcid": "https://orcid.org/0000-0002-4963-1095"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210105771",
+          "display_name": "Endometriosis",
+          "ror": "https://ror.org/01q5m4507",
+          "country_code": "GB",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I4210105771"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Kevin Phillips",
+      "raw_affiliation_strings": [
+        "British Society for Gynaecological Endoscopy-accredited Endometriosis Centre, Hull University Teaching Hospitals NHS Trust, Hull, United Kingdom"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "British Society for Gynaecological Endoscopy-accredited Endometriosis Centre, Hull University Teaching Hospitals NHS Trust, Hull, United Kingdom",
+          "institution_ids": [
+            "https://openalex.org/I4210105771"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5057414314",
+        "display_name": "Barbara\u2010ann Guinn",
+        "orcid": "https://orcid.org/0000-0003-0639-4541"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I69768126",
+          "display_name": "Hull York Medical School",
+          "ror": "https://ror.org/0003e4m70",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I69768126"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I191240316",
+          "display_name": "University of Hull",
+          "ror": "https://ror.org/04nkhwh30",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I191240316"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Barbara-ann Guinn",
+      "raw_affiliation_strings": [
+        "Centre for Biomedicine, Hull York Medical School, University of Hull, Hull, United Kingdom"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Centre for Biomedicine, Hull York Medical School, University of Hull, Hull, United Kingdom",
+          "institution_ids": [
+            "https://openalex.org/I191240316",
+            "https://openalex.org/I69768126"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 10,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5057414314"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I191240316",
+    "https://openalex.org/I69768126"
+  ],
+  "apc_list": {
+    "value": 3500,
+    "currency": "USD",
+    "value_usd": 3500
+  },
+  "apc_paid": {
+    "value": 3500,
+    "currency": "USD",
+    "value_usd": 3500
+  },
+  "fwci": 5.13603505,
+  "has_fulltext": true,
+  "cited_by_count": 17,
+  "citation_normalized_percentile": {
+    "value": 0.91869263,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 96,
+    "max": 99
+  },
+  "biblio": {
+    "volume": "4",
+    "issue": "2",
+    "first_page": "116",
+    "last_page": "130"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10935",
+    "display_name": "Endometriosis Research and Treatment",
+    "score": 1.0,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2743",
+      "display_name": "Reproductive Medicine"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/27",
+      "display_name": "Medicine"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/4",
+      "display_name": "Health Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10935",
+      "display_name": "Endometriosis Research and Treatment",
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2743",
+        "display_name": "Reproductive Medicine"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10989",
+      "display_name": "Uterine Myomas and Treatments",
+      "score": 0.991100013256073,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2729",
+        "display_name": "Obstetrics and Gynecology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10668",
+      "display_name": "Endometrial and Cervical Cancer Treatments",
+      "score": 0.9815000295639038,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2729",
+        "display_name": "Obstetrics and Gynecology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/medicine",
+      "display_name": "Medicine",
+      "score": 0.865719199180603
+    },
+    {
+      "id": "https://openalex.org/keywords/systematic-review",
+      "display_name": "Systematic review",
+      "score": 0.6381663084030151
+    },
+    {
+      "id": "https://openalex.org/keywords/meta-analysis",
+      "display_name": "Meta-analysis",
+      "score": 0.6288493275642395
+    },
+    {
+      "id": "https://openalex.org/keywords/medline",
+      "display_name": "MEDLINE",
+      "score": 0.5912867784500122
+    },
+    {
+      "id": "https://openalex.org/keywords/data-extraction",
+      "display_name": "Data extraction",
+      "score": 0.5896250009536743
+    },
+    {
+      "id": "https://openalex.org/keywords/cochrane-library",
+      "display_name": "Cochrane Library",
+      "score": 0.5455431938171387
+    },
+    {
+      "id": "https://openalex.org/keywords/endometriosis",
+      "display_name": "Endometriosis",
+      "score": 0.4987325668334961
+    },
+    {
+      "id": "https://openalex.org/keywords/biomarker",
+      "display_name": "Biomarker",
+      "score": 0.464504212141037
+    },
+    {
+      "id": "https://openalex.org/keywords/urine",
+      "display_name": "Urine",
+      "score": 0.42815354466438293
+    },
+    {
+      "id": "https://openalex.org/keywords/internal-medicine",
+      "display_name": "Internal medicine",
+      "score": 0.3545583486557007
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C71924100",
+      "wikidata": "https://www.wikidata.org/wiki/Q11190",
+      "display_name": "Medicine",
+      "level": 0,
+      "score": 0.865719199180603
+    },
+    {
+      "id": "https://openalex.org/C189708586",
+      "wikidata": "https://www.wikidata.org/wiki/Q1504425",
+      "display_name": "Systematic review",
+      "level": 3,
+      "score": 0.6381663084030151
+    },
+    {
+      "id": "https://openalex.org/C95190672",
+      "wikidata": "https://www.wikidata.org/wiki/Q815382",
+      "display_name": "Meta-analysis",
+      "level": 2,
+      "score": 0.6288493275642395
+    },
+    {
+      "id": "https://openalex.org/C2779473830",
+      "wikidata": "https://www.wikidata.org/wiki/Q1540899",
+      "display_name": "MEDLINE",
+      "level": 2,
+      "score": 0.5912867784500122
+    },
+    {
+      "id": "https://openalex.org/C2777466982",
+      "wikidata": "https://www.wikidata.org/wiki/Q5227287",
+      "display_name": "Data extraction",
+      "level": 3,
+      "score": 0.5896250009536743
+    },
+    {
+      "id": "https://openalex.org/C2776478404",
+      "wikidata": "https://www.wikidata.org/wiki/Q1105187",
+      "display_name": "Cochrane Library",
+      "level": 3,
+      "score": 0.5455431938171387
+    },
+    {
+      "id": "https://openalex.org/C2779522080",
+      "wikidata": "https://www.wikidata.org/wiki/Q205764",
+      "display_name": "Endometriosis",
+      "level": 2,
+      "score": 0.4987325668334961
+    },
+    {
+      "id": "https://openalex.org/C2781197716",
+      "wikidata": "https://www.wikidata.org/wiki/Q864574",
+      "display_name": "Biomarker",
+      "level": 2,
+      "score": 0.464504212141037
+    },
+    {
+      "id": "https://openalex.org/C2780026642",
+      "wikidata": "https://www.wikidata.org/wiki/Q40924",
+      "display_name": "Urine",
+      "level": 2,
+      "score": 0.42815354466438293
+    },
+    {
+      "id": "https://openalex.org/C126322002",
+      "wikidata": "https://www.wikidata.org/wiki/Q11180",
+      "display_name": "Internal medicine",
+      "level": 1,
+      "score": 0.3545583486557007
+    },
+    {
+      "id": "https://openalex.org/C199539241",
+      "wikidata": "https://www.wikidata.org/wiki/Q7748",
+      "display_name": "Law",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C17744445",
+      "wikidata": "https://www.wikidata.org/wiki/Q36442",
+      "display_name": "Political science",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C55493867",
+      "wikidata": "https://www.wikidata.org/wiki/Q7094",
+      "display_name": "Biochemistry",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C185592680",
+      "wikidata": "https://www.wikidata.org/wiki/Q2329",
+      "display_name": "Chemistry",
+      "level": 0,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 2,
+  "locations": [
+    {
+      "id": "doi:10.1016/j.xfnr.2022.12.001",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1016/j.xfnr.2022.12.001",
+      "pdf_url": "http://www.fertstertreviews.org/article/S2666571922000214/pdf",
+      "source": {
+        "id": "https://openalex.org/S4210180086",
+        "display_name": "F&S Reviews",
+        "issn_l": "2666-5719",
+        "issn": [
+          "2666-5719"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320990",
+        "host_organization_name": "Elsevier BV",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320990"
+        ],
+        "host_organization_lineage_names": [
+          "Elsevier BV"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "F&amp;S Reviews",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmh:oai:hull-repository.worktribe.com:4189373",
+      "is_oa": true,
+      "landing_page_url": "https://hull-repository.worktribe.com/output/4189373",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306400827",
+        "display_name": "Repository@Hull (Worktribe) (University of Hull)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I191240316",
+        "host_organization_name": "University of Hull",
+        "host_organization_lineage": [
+          "https://openalex.org/I191240316"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": null,
+      "raw_type": "publishedVersion"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1016/j.xfnr.2022.12.001",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1016/j.xfnr.2022.12.001",
+    "pdf_url": "http://www.fertstertreviews.org/article/S2666571922000214/pdf",
+    "source": {
+      "id": "https://openalex.org/S4210180086",
+      "display_name": "F&S Reviews",
+      "issn_l": "2666-5719",
+      "issn": [
+        "2666-5719"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320990",
+      "host_organization_name": "Elsevier BV",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320990"
+      ],
+      "host_organization_lineage_names": [
+        "Elsevier BV"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "F&amp;S Reviews",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [
+    {
+      "display_name": "Good health and well-being",
+      "id": "https://metadata.un.org/sdg/3",
+      "score": 0.6700000166893005
+    }
+  ],
+  "awards": [
+    {
+      "id": "https://openalex.org/G6779627715",
+      "display_name": null,
+      "funder_award_id": "IR5\\1018",
+      "funder_id": "https://openalex.org/F4320311904",
+      "funder_display_name": "Wellcome Trust"
+    }
+  ],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320311904",
+      "display_name": "Wellcome Trust",
+      "ror": "https://ror.org/029chgv08"
+    },
+    {
+      "id": "https://openalex.org/F4320320241",
+      "display_name": "Academy of Medical Sciences",
+      "ror": "https://ror.org/00c489v88"
+    }
+  ],
+  "has_content": {
+    "grobid_xml": true,
+    "pdf": true
+  },
+  "referenced_works_count": 96,
+  "referenced_works": [
+    "https://openalex.org/W4234160457",
+    "https://openalex.org/W3116156571",
+    "https://openalex.org/W2005542169",
+    "https://openalex.org/W4225303574",
+    "https://openalex.org/W3118357284",
+    "https://openalex.org/W1976254258",
+    "https://openalex.org/W3165510799",
+    "https://openalex.org/W2157609773",
+    "https://openalex.org/W4211092896",
+    "https://openalex.org/W4214754424",
+    "https://openalex.org/W3208503352",
+    "https://openalex.org/W6808279297",
+    "https://openalex.org/W2007359876",
+    "https://openalex.org/W2128514007",
+    "https://openalex.org/W2012650501",
+    "https://openalex.org/W2971722175",
+    "https://openalex.org/W3096429829",
+    "https://openalex.org/W6758304683",
+    "https://openalex.org/W2915126436",
+    "https://openalex.org/W6688806782",
+    "https://openalex.org/W6704043943",
+    "https://openalex.org/W6714839012",
+    "https://openalex.org/W2160282642",
+    "https://openalex.org/W2161374186",
+    "https://openalex.org/W2169205464",
+    "https://openalex.org/W6644111349",
+    "https://openalex.org/W2107638293",
+    "https://openalex.org/W2066876575",
+    "https://openalex.org/W2230403972",
+    "https://openalex.org/W2003740803",
+    "https://openalex.org/W2165441271",
+    "https://openalex.org/W2559764858",
+    "https://openalex.org/W2143886331",
+    "https://openalex.org/W3132707236",
+    "https://openalex.org/W2599854323",
+    "https://openalex.org/W2075586126",
+    "https://openalex.org/W2347155122",
+    "https://openalex.org/W2089646129",
+    "https://openalex.org/W3103016976",
+    "https://openalex.org/W2060293761",
+    "https://openalex.org/W3001615165",
+    "https://openalex.org/W2113348991",
+    "https://openalex.org/W3082745559",
+    "https://openalex.org/W2093966693",
+    "https://openalex.org/W2119940810",
+    "https://openalex.org/W2039193468",
+    "https://openalex.org/W2006082519",
+    "https://openalex.org/W2050558848",
+    "https://openalex.org/W2902973302",
+    "https://openalex.org/W1935876281",
+    "https://openalex.org/W2145383112",
+    "https://openalex.org/W6696413716",
+    "https://openalex.org/W6720978548",
+    "https://openalex.org/W2907530084",
+    "https://openalex.org/W2117845602",
+    "https://openalex.org/W2753278547",
+    "https://openalex.org/W4293874413",
+    "https://openalex.org/W4290851966",
+    "https://openalex.org/W2803831571",
+    "https://openalex.org/W2968520120",
+    "https://openalex.org/W2141948830",
+    "https://openalex.org/W289750203",
+    "https://openalex.org/W2157621041",
+    "https://openalex.org/W2254587346",
+    "https://openalex.org/W2614203370",
+    "https://openalex.org/W2133891301",
+    "https://openalex.org/W2170070360",
+    "https://openalex.org/W2947754321",
+    "https://openalex.org/W2107597801",
+    "https://openalex.org/W2951326119",
+    "https://openalex.org/W2141436010",
+    "https://openalex.org/W2287019370",
+    "https://openalex.org/W1984211786",
+    "https://openalex.org/W2026056052",
+    "https://openalex.org/W2963756129",
+    "https://openalex.org/W2615397547",
+    "https://openalex.org/W4280645308",
+    "https://openalex.org/W3193423663",
+    "https://openalex.org/W4243723374",
+    "https://openalex.org/W2752264659",
+    "https://openalex.org/W2232032155",
+    "https://openalex.org/W4214683656",
+    "https://openalex.org/W2560687396",
+    "https://openalex.org/W2164565395",
+    "https://openalex.org/W2080505512",
+    "https://openalex.org/W4206156322",
+    "https://openalex.org/W1987304256",
+    "https://openalex.org/W1975675278",
+    "https://openalex.org/W2476404396",
+    "https://openalex.org/W2911475875",
+    "https://openalex.org/W2410974791",
+    "https://openalex.org/W2291336593",
+    "https://openalex.org/W2340998250",
+    "https://openalex.org/W4237183341",
+    "https://openalex.org/W4211250493",
+    "https://openalex.org/W2218198076"
+  ],
+  "related_works": [
+    "https://openalex.org/W3027459656",
+    "https://openalex.org/W4224238739",
+    "https://openalex.org/W4225784257",
+    "https://openalex.org/W4224210768",
+    "https://openalex.org/W3134414398",
+    "https://openalex.org/W2128909377",
+    "https://openalex.org/W4381893392",
+    "https://openalex.org/W3082854370",
+    "https://openalex.org/W4315436681",
+    "https://openalex.org/W3012877941"
+  ],
+  "abstract_inverted_index": null,
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 7
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 7
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 3
+    }
+  ],
+  "updated_date": "2025-11-14T23:14:49.485078",
+  "created_date": "2025-10-10T00:00:00"
+}

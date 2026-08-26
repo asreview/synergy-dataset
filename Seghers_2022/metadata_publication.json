@@ -1,0 +1,1761 @@
+{
+  "id": "https://openalex.org/W4213445087",
+  "doi": "https://doi.org/10.3390/cancers14051147",
+  "title": "Patient Preferences for Treatment Outcomes in Oncology with a Focus on the Older Patient\u2014A Systematic Review",
+  "display_name": "Patient Preferences for Treatment Outcomes in Oncology with a Focus on the Older Patient\u2014A Systematic Review",
+  "publication_year": 2022,
+  "publication_date": "2022-02-23",
+  "ids": {
+    "openalex": "https://openalex.org/W4213445087",
+    "doi": "https://doi.org/10.3390/cancers14051147",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/35267455"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.3390/cancers14051147",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.3390/cancers14051147",
+    "pdf_url": "https://www.mdpi.com/2072-6694/14/5/1147/pdf?version=1645762065",
+    "source": {
+      "id": "https://openalex.org/S168415115",
+      "display_name": "Cancers",
+      "issn_l": "2072-6694",
+      "issn": [
+        "2072-6694"
+      ],
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310310987",
+      "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310310987"
+      ],
+      "host_organization_lineage_names": [
+        "Multidisciplinary Digital Publishing Institute"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Cancers",
+    "raw_type": "journal-article"
+  },
+  "type": "review",
+  "indexed_in": [
+    "crossref",
+    "doaj",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "gold",
+    "oa_url": "https://www.mdpi.com/2072-6694/14/5/1147/pdf?version=1645762065",
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5017241369",
+        "display_name": "Nelleke Seghers",
+        "orcid": "https://orcid.org/0000-0002-9046-8525"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210106388",
+          "display_name": "Diakonessenhuis hospital",
+          "ror": "https://ror.org/01nrpzj54",
+          "country_code": "NL",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210106388"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Petronella A. L. (Nelleke) Seghers",
+      "raw_affiliation_strings": [
+        "Department of Geriatric Medicine, Diakonessenhuis, 3582 KE Utrecht, The Netherlands"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Geriatric Medicine, Diakonessenhuis, 3582 KE Utrecht, The Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I4210106388"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5078552506",
+        "display_name": "Anke Wiersma",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210106388",
+          "display_name": "Diakonessenhuis hospital",
+          "ror": "https://ror.org/01nrpzj54",
+          "country_code": "NL",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210106388"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Anke Wiersma",
+      "raw_affiliation_strings": [
+        "Department of Internal Medicine, Diakonessenhuis, 3582 KE Utrecht, The Netherlands"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Internal Medicine, Diakonessenhuis, 3582 KE Utrecht, The Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I4210106388"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5087074307",
+        "display_name": "Suzanne Festen",
+        "orcid": "https://orcid.org/0000-0002-9080-690X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I1334415907",
+          "display_name": "University Medical Center Groningen",
+          "ror": "https://ror.org/03cv38k47",
+          "country_code": "NL",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I1334415907"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I169381384",
+          "display_name": "University of Groningen",
+          "ror": "https://ror.org/012p63287",
+          "country_code": "NL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I169381384"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Suzanne Festen",
+      "raw_affiliation_strings": [
+        "University Center for Geriatric Medicine, University Medical Hospital Groningen, University of Groningen, 9713 GZ Groningen, The Netherlands"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "University Center for Geriatric Medicine, University Medical Hospital Groningen, University of Groningen, 9713 GZ Groningen, The Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I1334415907",
+            "https://openalex.org/I169381384"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5017006675",
+        "display_name": "Mariken Stegmann",
+        "orcid": "https://orcid.org/0000-0001-8491-1407"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I1334415907",
+          "display_name": "University Medical Center Groningen",
+          "ror": "https://ror.org/03cv38k47",
+          "country_code": "NL",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I1334415907"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I169381384",
+          "display_name": "University of Groningen",
+          "ror": "https://ror.org/012p63287",
+          "country_code": "NL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I169381384"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Mariken E. Stegmann",
+      "raw_affiliation_strings": [
+        "Department of General Practice and Elderly Care Medicine, University Medical Center Groningen, University of Groningen, 9713 GZ Groningen, The Netherlands"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of General Practice and Elderly Care Medicine, University Medical Center Groningen, University of Groningen, 9713 GZ Groningen, The Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I1334415907",
+            "https://openalex.org/I169381384"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5068111941",
+        "display_name": "Pierre Soubeyran",
+        "orcid": "https://orcid.org/0000-0003-3244-7299"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210134409",
+          "display_name": "Institut Bergoni\u00e9",
+          "ror": "https://ror.org/02yw1f353",
+          "country_code": "FR",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210134409"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I15057530",
+          "display_name": "Universit\u00e9 de Bordeaux",
+          "ror": "https://ror.org/057qpr032",
+          "country_code": "FR",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I15057530"
+          ]
+        }
+      ],
+      "countries": [
+        "FR"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Pierre Soubeyran",
+      "raw_affiliation_strings": [
+        "Department of Oncology, Institut Bergoni\u00e9, Universit\u00e9 de Bordeaux, 33076 Bordeaux, France"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Oncology, Institut Bergoni\u00e9, Universit\u00e9 de Bordeaux, 33076 Bordeaux, France",
+          "institution_ids": [
+            "https://openalex.org/I15057530",
+            "https://openalex.org/I4210134409"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5006753918",
+        "display_name": "Siri Rostoft",
+        "orcid": "https://orcid.org/0000-0002-4277-8641"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I1281400175",
+          "display_name": "Oslo University Hospital",
+          "ror": "https://ror.org/00j9c2840",
+          "country_code": "NO",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I1281400175"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I184942183",
+          "display_name": "University of Oslo",
+          "ror": "https://ror.org/01xtthb56",
+          "country_code": "NO",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I184942183"
+          ]
+        }
+      ],
+      "countries": [
+        "NO"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Siri Rostoft",
+      "raw_affiliation_strings": [
+        "Department of Geriatric Medicine, Oslo University Hospital, 0424 Oslo, Norway",
+        "Institute of Clinical Medicine, University of Oslo, 0318 Oslo, Norway"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of Clinical Medicine, University of Oslo, 0318 Oslo, Norway",
+          "institution_ids": [
+            "https://openalex.org/I184942183"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Geriatric Medicine, Oslo University Hospital, 0424 Oslo, Norway",
+          "institution_ids": [
+            "https://openalex.org/I1281400175"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5021523068",
+        "display_name": "Shane O\u2019Hanlon",
+        "orcid": "https://orcid.org/0000-0002-9270-2768"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210115218",
+          "display_name": "St. Vincent's University Hospital",
+          "ror": "https://ror.org/029tkqm80",
+          "country_code": "IE",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210115218"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I100930933",
+          "display_name": "University College Dublin",
+          "ror": "https://ror.org/05m7pjf47",
+          "country_code": "IE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I100930933"
+          ]
+        }
+      ],
+      "countries": [
+        "IE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Shane O\u2019Hanlon",
+      "raw_affiliation_strings": [
+        "Department of Geriatric Medicine, St. Vincent\u2019s University Hospital, D04 T6F4 Dublin, Ireland",
+        "School of Medicine, University College Dublin, D04 V1W8 Dublin, Ireland"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Geriatric Medicine, St. Vincent\u2019s University Hospital, D04 T6F4 Dublin, Ireland",
+          "institution_ids": [
+            "https://openalex.org/I4210115218"
+          ]
+        },
+        {
+          "raw_affiliation_string": "School of Medicine, University College Dublin, D04 V1W8 Dublin, Ireland",
+          "institution_ids": [
+            "https://openalex.org/I100930933"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5062761646",
+        "display_name": "Johanneke E. A. Portielje",
+        "orcid": "https://orcid.org/0000-0002-0246-1631"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2800006345",
+          "display_name": "Leiden University Medical Center",
+          "ror": "https://ror.org/05xvt9f17",
+          "country_code": "NL",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2800006345"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Johanneke E. A. Portielje",
+      "raw_affiliation_strings": [
+        "Department of Medical Oncology, Leiden University Medical Center-LUMC, 2333 ZA Leiden, The Netherlands"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Medical Oncology, Leiden University Medical Center-LUMC, 2333 ZA Leiden, The Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I2800006345"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5006283942",
+        "display_name": "Marije E. Hamaker",
+        "orcid": "https://orcid.org/0000-0002-2261-9301"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210106388",
+          "display_name": "Diakonessenhuis hospital",
+          "ror": "https://ror.org/01nrpzj54",
+          "country_code": "NL",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210106388"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Marije E. Hamaker",
+      "raw_affiliation_strings": [
+        "Department of Geriatric Medicine, Diakonessenhuis, 3582 KE Utrecht, The Netherlands"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Geriatric Medicine, Diakonessenhuis, 3582 KE Utrecht, The Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I4210106388"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 4,
+  "institutions_distinct_count": 9,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [],
+  "apc_list": {
+    "value": 2400,
+    "currency": "CHF",
+    "value_usd": 2598
+  },
+  "apc_paid": {
+    "value": 2400,
+    "currency": "CHF",
+    "value_usd": 2598
+  },
+  "fwci": 20.55392391,
+  "has_fulltext": true,
+  "cited_by_count": 89,
+  "citation_normalized_percentile": {
+    "value": 0.99243443,
+    "is_in_top_1_percent": true,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 99,
+    "max": 100
+  },
+  "biblio": {
+    "volume": "14",
+    "issue": "5",
+    "first_page": "1147",
+    "last_page": "1147"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10804",
+    "display_name": "Health Systems, Economic Evaluations, Quality of Life",
+    "score": 0.9991000294685364,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2002",
+      "display_name": "Economics and Econometrics"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/20",
+      "display_name": "Economics, Econometrics and Finance"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/2",
+      "display_name": "Social Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10804",
+      "display_name": "Health Systems, Economic Evaluations, Quality of Life",
+      "score": 0.9991000294685364,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2002",
+        "display_name": "Economics and Econometrics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10177",
+      "display_name": "Palliative Care and End-of-Life Issues",
+      "score": 0.9979000091552734,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2739",
+        "display_name": "Public Health, Environmental and Occupational Health"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10178",
+      "display_name": "Cancer survivorship and care",
+      "score": 0.996999979019165,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2730",
+        "display_name": "Oncology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/medicine",
+      "display_name": "Medicine",
+      "score": 0.836193323135376
+    },
+    {
+      "id": "https://openalex.org/keywords/quality-of-life",
+      "display_name": "Quality of life (healthcare)",
+      "score": 0.5884353518486023
+    },
+    {
+      "id": "https://openalex.org/keywords/medline",
+      "display_name": "MEDLINE",
+      "score": 0.5623220205307007
+    },
+    {
+      "id": "https://openalex.org/keywords/disease",
+      "display_name": "Disease",
+      "score": 0.5273997187614441
+    },
+    {
+      "id": "https://openalex.org/keywords/cancer",
+      "display_name": "Cancer",
+      "score": 0.5240409970283508
+    },
+    {
+      "id": "https://openalex.org/keywords/population",
+      "display_name": "Population",
+      "score": 0.4742390513420105
+    },
+    {
+      "id": "https://openalex.org/keywords/internal-medicine",
+      "display_name": "Internal medicine",
+      "score": 0.46654367446899414
+    },
+    {
+      "id": "https://openalex.org/keywords/relative-survival",
+      "display_name": "Relative survival",
+      "score": 0.4390419125556946
+    },
+    {
+      "id": "https://openalex.org/keywords/intensive-care-medicine",
+      "display_name": "Intensive care medicine",
+      "score": 0.3668360114097595
+    },
+    {
+      "id": "https://openalex.org/keywords/cancer-registry",
+      "display_name": "Cancer registry",
+      "score": 0.20490628480911255
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C71924100",
+      "wikidata": "https://www.wikidata.org/wiki/Q11190",
+      "display_name": "Medicine",
+      "level": 0,
+      "score": 0.836193323135376
+    },
+    {
+      "id": "https://openalex.org/C2779951463",
+      "wikidata": "https://www.wikidata.org/wiki/Q7268788",
+      "display_name": "Quality of life (healthcare)",
+      "level": 2,
+      "score": 0.5884353518486023
+    },
+    {
+      "id": "https://openalex.org/C2779473830",
+      "wikidata": "https://www.wikidata.org/wiki/Q1540899",
+      "display_name": "MEDLINE",
+      "level": 2,
+      "score": 0.5623220205307007
+    },
+    {
+      "id": "https://openalex.org/C2779134260",
+      "wikidata": "https://www.wikidata.org/wiki/Q12136",
+      "display_name": "Disease",
+      "level": 2,
+      "score": 0.5273997187614441
+    },
+    {
+      "id": "https://openalex.org/C121608353",
+      "wikidata": "https://www.wikidata.org/wiki/Q12078",
+      "display_name": "Cancer",
+      "level": 2,
+      "score": 0.5240409970283508
+    },
+    {
+      "id": "https://openalex.org/C2908647359",
+      "wikidata": "https://www.wikidata.org/wiki/Q2625603",
+      "display_name": "Population",
+      "level": 2,
+      "score": 0.4742390513420105
+    },
+    {
+      "id": "https://openalex.org/C126322002",
+      "wikidata": "https://www.wikidata.org/wiki/Q11180",
+      "display_name": "Internal medicine",
+      "level": 1,
+      "score": 0.46654367446899414
+    },
+    {
+      "id": "https://openalex.org/C2780558122",
+      "wikidata": "https://www.wikidata.org/wiki/Q7310803",
+      "display_name": "Relative survival",
+      "level": 4,
+      "score": 0.4390419125556946
+    },
+    {
+      "id": "https://openalex.org/C177713679",
+      "wikidata": "https://www.wikidata.org/wiki/Q679690",
+      "display_name": "Intensive care medicine",
+      "level": 1,
+      "score": 0.3668360114097595
+    },
+    {
+      "id": "https://openalex.org/C2778527826",
+      "wikidata": "https://www.wikidata.org/wiki/Q1787017",
+      "display_name": "Cancer registry",
+      "level": 3,
+      "score": 0.20490628480911255
+    },
+    {
+      "id": "https://openalex.org/C159110408",
+      "wikidata": "https://www.wikidata.org/wiki/Q121176",
+      "display_name": "Nursing",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C17744445",
+      "wikidata": "https://www.wikidata.org/wiki/Q36442",
+      "display_name": "Political science",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C99454951",
+      "wikidata": "https://www.wikidata.org/wiki/Q932068",
+      "display_name": "Environmental health",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C199539241",
+      "wikidata": "https://www.wikidata.org/wiki/Q7748",
+      "display_name": "Law",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 10,
+  "locations": [
+    {
+      "id": "doi:10.3390/cancers14051147",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.3390/cancers14051147",
+      "pdf_url": "https://www.mdpi.com/2072-6694/14/5/1147/pdf?version=1645762065",
+      "source": {
+        "id": "https://openalex.org/S168415115",
+        "display_name": "Cancers",
+        "issn_l": "2072-6694",
+        "issn": [
+          "2072-6694"
+        ],
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310310987",
+        "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310310987"
+        ],
+        "host_organization_lineage_names": [
+          "Multidisciplinary Digital Publishing Institute"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Cancers",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:35267455",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/35267455",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Cancers",
+      "raw_type": null
+    },
+    {
+      "id": "pmh:lumc:oai:scholarlypublications.universiteitleiden.nl:item_3566780",
+      "is_oa": false,
+      "landing_page_url": "http://hdl.handle.net/1887/3566780",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401843",
+        "display_name": "Data Archiving and Networked Services (DANS)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1322597698",
+        "host_organization_name": "Royal Netherlands Academy of Arts and Sciences",
+        "host_organization_lineage": [
+          "https://openalex.org/I1322597698"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Cancers, 14(5). MDPI",
+      "raw_type": "info:eu-repo/semantics/article"
+    },
+    {
+      "id": "pmh:oai:HAL:hal-03604587v1",
+      "is_oa": false,
+      "landing_page_url": "https://hal.science/hal-03604587",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306402512",
+        "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1294671590",
+        "host_organization_name": "Centre National de la Recherche Scientifique",
+        "host_organization_lineage": [
+          "https://openalex.org/I1294671590"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Cancers, 2022, 14 (5), pp.1147. &#x27E8;10.3390/cancers14051147&#x27E9;",
+      "raw_type": "Journal articles"
+    },
+    {
+      "id": "pmh:oai:doaj.org/article:feb85e4e5f8e469ea37e7c83d7e6f620",
+      "is_oa": true,
+      "landing_page_url": "https://doaj.org/article/feb85e4e5f8e469ea37e7c83d7e6f620",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401280",
+        "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by-sa",
+      "license_id": "https://openalex.org/licenses/cc-by-sa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Cancers, Vol 14, Iss 1147, p 1147 (2022)",
+      "raw_type": "article"
+    },
+    {
+      "id": "pmh:oai:mdpi.com:/2072-6694/14/5/1147/",
+      "is_oa": true,
+      "landing_page_url": "https://dx.doi.org/10.3390/cancers14051147",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306400947",
+        "display_name": "MDPI (MDPI AG)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I4210097602",
+        "host_organization_name": "Multidisciplinary Digital Publishing Institute (Switzerland)",
+        "host_organization_lineage": [
+          "https://openalex.org/I4210097602"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Cancers; Volume 14; Issue 5; Pages: 1147",
+      "raw_type": "Text"
+    },
+    {
+      "id": "pmh:oai:pubmedcentral.nih.gov:8909757",
+      "is_oa": true,
+      "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/8909757",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S2764455111",
+        "display_name": "PubMed Central",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "other-oa",
+      "license_id": "https://openalex.org/licenses/other-oa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Cancers (Basel)",
+      "raw_type": "Text"
+    },
+    {
+      "id": "pmh:oai:scholarlypublications.universiteitleiden.nl:item_3566780",
+      "is_oa": true,
+      "landing_page_url": "https://hdl.handle.net/1887/3566780",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S168415115",
+        "display_name": "Cancers",
+        "issn_l": "2072-6694",
+        "issn": [
+          "2072-6694"
+        ],
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310310987",
+        "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310310987"
+        ],
+        "host_organization_lineage_names": [
+          "Multidisciplinary Digital Publishing Institute"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Cancers",
+      "raw_type": "Article / Letter to editor"
+    },
+    {
+      "id": "pmh:oai:www.duo.uio.no:10852/94798",
+      "is_oa": true,
+      "landing_page_url": "http://hdl.handle.net/10852/94798",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401717",
+        "display_name": "Duo Research Archive (University of Oslo)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I184942183",
+        "host_organization_name": "University of Oslo",
+        "host_organization_lineage": [
+          "https://openalex.org/I184942183"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "2072-6694",
+      "raw_type": "info:eu-repo/semantics/article"
+    },
+    {
+      "id": "pmh:rug:oai:pure.rug.nl:publications/b0265a63-eda8-430d-9d1c-5272605156ff",
+      "is_oa": true,
+      "landing_page_url": "https://research.rug.nl/en/publications/b0265a63-eda8-430d-9d1c-5272605156ff",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401843",
+        "display_name": "Data Archiving and Networked Services (DANS)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1322597698",
+        "host_organization_name": "Royal Netherlands Academy of Arts and Sciences",
+        "host_organization_lineage": [
+          "https://openalex.org/I1322597698"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "other-oa",
+      "license_id": "https://openalex.org/licenses/other-oa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Cancers, 14(5):1147. MDPI AG",
+      "raw_type": "info:eu-repo/semantics/other"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.3390/cancers14051147",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.3390/cancers14051147",
+    "pdf_url": "https://www.mdpi.com/2072-6694/14/5/1147/pdf?version=1645762065",
+    "source": {
+      "id": "https://openalex.org/S168415115",
+      "display_name": "Cancers",
+      "issn_l": "2072-6694",
+      "issn": [
+        "2072-6694"
+      ],
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310310987",
+      "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310310987"
+      ],
+      "host_organization_lineage_names": [
+        "Multidisciplinary Digital Publishing Institute"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Cancers",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [],
+  "awards": [
+    {
+      "id": "https://openalex.org/G5395238416",
+      "display_name": null,
+      "funder_award_id": "Horizon2020, 945218",
+      "funder_id": "https://openalex.org/F4320320300",
+      "funder_display_name": "European Commission"
+    }
+  ],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320320300",
+      "display_name": "European Commission",
+      "ror": "https://ror.org/00k4n6c32"
+    }
+  ],
+  "has_content": {
+    "pdf": true,
+    "grobid_xml": true
+  },
+  "referenced_works_count": 64,
+  "referenced_works": [
+    "https://openalex.org/W2805692471",
+    "https://openalex.org/W3164497739",
+    "https://openalex.org/W2160715400",
+    "https://openalex.org/W3027977945",
+    "https://openalex.org/W1942996532",
+    "https://openalex.org/W3203660410",
+    "https://openalex.org/W2183638947",
+    "https://openalex.org/W2102281554",
+    "https://openalex.org/W2277431766",
+    "https://openalex.org/W2156875127",
+    "https://openalex.org/W3103438037",
+    "https://openalex.org/W2142080041",
+    "https://openalex.org/W2966853457",
+    "https://openalex.org/W1998000796",
+    "https://openalex.org/W2399071205",
+    "https://openalex.org/W2964911031",
+    "https://openalex.org/W2762027870",
+    "https://openalex.org/W3118615836",
+    "https://openalex.org/W2121619367",
+    "https://openalex.org/W2610194621",
+    "https://openalex.org/W1986238524",
+    "https://openalex.org/W2048732444",
+    "https://openalex.org/W2166753373",
+    "https://openalex.org/W2111648462",
+    "https://openalex.org/W2146315701",
+    "https://openalex.org/W2052456753",
+    "https://openalex.org/W3017220879",
+    "https://openalex.org/W3088223840",
+    "https://openalex.org/W2039607804",
+    "https://openalex.org/W2122763619",
+    "https://openalex.org/W1975498291",
+    "https://openalex.org/W2547875670",
+    "https://openalex.org/W2255680170",
+    "https://openalex.org/W2608581628",
+    "https://openalex.org/W2766985632",
+    "https://openalex.org/W3039490980",
+    "https://openalex.org/W3032879253",
+    "https://openalex.org/W3005867736",
+    "https://openalex.org/W2075050261",
+    "https://openalex.org/W2758750581",
+    "https://openalex.org/W2979053882",
+    "https://openalex.org/W2893570865",
+    "https://openalex.org/W2941041144",
+    "https://openalex.org/W2980334736",
+    "https://openalex.org/W3045062195",
+    "https://openalex.org/W3135830684",
+    "https://openalex.org/W3043730230",
+    "https://openalex.org/W2922430335",
+    "https://openalex.org/W2051315590",
+    "https://openalex.org/W3128069985",
+    "https://openalex.org/W2465032045",
+    "https://openalex.org/W3134242227",
+    "https://openalex.org/W2601280897",
+    "https://openalex.org/W2964088882",
+    "https://openalex.org/W2057847860",
+    "https://openalex.org/W3214461908",
+    "https://openalex.org/W2611964643",
+    "https://openalex.org/W6803229084",
+    "https://openalex.org/W2921192143",
+    "https://openalex.org/W3187136054",
+    "https://openalex.org/W2788503067",
+    "https://openalex.org/W3209213927",
+    "https://openalex.org/W2019253472",
+    "https://openalex.org/W4206268638"
+  ],
+  "related_works": [
+    "https://openalex.org/W2333245858",
+    "https://openalex.org/W2062826693",
+    "https://openalex.org/W2987227731",
+    "https://openalex.org/W2761576542",
+    "https://openalex.org/W4399386565",
+    "https://openalex.org/W2416035579",
+    "https://openalex.org/W1975674711",
+    "https://openalex.org/W1978877551",
+    "https://openalex.org/W2081115418",
+    "https://openalex.org/W2268975736"
+  ],
+  "abstract_inverted_index": {
+    "For": [
+      0
+    ],
+    "physicians,": [
+      1
+    ],
+    "it": [
+      2
+    ],
+    "is": [
+      3,
+      43
+    ],
+    "important": [
+      4
+    ],
+    "to": [
+      5,
+      23,
+      44,
+      50,
+      85,
+      120,
+      136,
+      265
+    ],
+    "know": [
+      6
+    ],
+    "which": [
+      7,
+      46,
+      61
+    ],
+    "treatment": [
+      8,
+      30,
+      201,
+      206,
+      228,
+      247,
+      270
+    ],
+    "outcomes": [
+      9,
+      37,
+      47,
+      250
+    ],
+    "are": [
+      10,
+      248
+    ],
+    "prioritized": [
+      11,
+      216
+    ],
+    "overall": [
+      12,
+      188,
+      234
+    ],
+    "by": [
+      13,
+      187
+    ],
+    "older": [
+      14,
+      51
+    ],
+    "patients": [
+      15,
+      33,
+      52,
+      89,
+      145,
+      261
+    ],
+    "with": [
+      16,
+      53,
+      90,
+      165,
+      262
+    ],
+    "cancer,": [
+      17
+    ],
+    "since": [
+      18
+    ],
+    "this": [
+      19
+    ],
+    "will": [
+      20
+    ],
+    "help": [
+      21
+    ],
+    "them": [
+      22
+    ],
+    "tailor": [
+      24
+    ],
+    "the": [
+      25,
+      108,
+      121,
+      138,
+      173,
+      181,
+      249,
+      253
+    ],
+    "amount": [
+      26
+    ],
+    "of": [
+      27,
+      79,
+      81,
+      93,
+      123,
+      140,
+      159,
+      178,
+      197,
+      210,
+      232,
+      246
+    ],
+    "information": [
+      28
+    ],
+    "and": [
+      29,
+      65,
+      95,
+      116,
+      192,
+      205,
+      227,
+      237,
+      240,
+      242
+    ],
+    "recommendations.": [
+      31
+    ],
+    "Older": [
+      32
+    ],
+    "might": [
+      34
+    ],
+    "prioritize": [
+      35
+    ],
+    "other": [
+      36,
+      87
+    ],
+    "than": [
+      38
+    ],
+    "younger": [
+      39
+    ],
+    "patients.": [
+      40
+    ],
+    "Our": [
+      41
+    ],
+    "objective": [
+      42
+    ],
+    "summarize": [
+      45
+    ],
+    "matter": [
+      48
+    ],
+    "most": [
+      49
+    ],
+    "cancer.": [
+      54
+    ],
+    "A": [
+      55
+    ],
+    "systematic": [
+      56
+    ],
+    "review": [
+      57
+    ],
+    "was": [
+      58,
+      114,
+      134,
+      215
+    ],
+    "conducted,": [
+      59
+    ],
+    "in": [
+      60,
+      88,
+      118,
+      151,
+      217,
+      268
+    ],
+    "we": [
+      62
+    ],
+    "searched": [
+      63
+    ],
+    "Embase": [
+      64
+    ],
+    "Medline": [
+      66
+    ],
+    "on": [
+      67,
+      256
+    ],
+    "22": [
+      68
+    ],
+    "December": [
+      69
+    ],
+    "2020.": [
+      70
+    ],
+    "Studies": [
+      71
+    ],
+    "were": [
+      72,
+      146,
+      155,
+      221
+    ],
+    "eligible": [
+      73
+    ],
+    "if": [
+      74,
+      96
+    ],
+    "they": [
+      75,
+      97
+    ],
+    "reported": [
+      76
+    ],
+    "some": [
+      77
+    ],
+    "form": [
+      78
+    ],
+    "prioritization": [
+      80
+    ],
+    "outcome": [
+      82,
+      102,
+      112,
+      128
+    ],
+    "categories": [
+      83
+    ],
+    "relative": [
+      84
+    ],
+    "each": [
+      86,
+      106
+    ],
+    "all": [
+      91,
+      172
+    ],
+    "types": [
+      92
+    ],
+    "cancer": [
+      94,
+      225,
+      263
+    ],
+    "included": [
+      98,
+      126
+    ],
+    "at": [
+      99
+    ],
+    "least": [
+      100
+    ],
+    "three": [
+      101
+    ],
+    "categories.": [
+      103
+    ],
+    "Subsequently,": [
+      104
+    ],
+    "for": [
+      105,
+      148
+    ],
+    "study,": [
+      107
+    ],
+    "highest": [
+      109,
+      182,
+      254
+    ],
+    "or": [
+      110,
+      183,
+      199
+    ],
+    "second-highest": [
+      111,
+      184
+    ],
+    "category": [
+      113
+    ],
+    "identified": [
+      115,
+      176
+    ],
+    "presented": [
+      117
+    ],
+    "relation": [
+      119
+    ],
+    "number": [
+      122
+    ],
+    "studies": [
+      124,
+      153,
+      161,
+      220
+    ],
+    "that": [
+      125,
+      127,
+      154,
+      251
+    ],
+    "category.": [
+      129
+    ],
+    "An": [
+      130
+    ],
+    "adapted": [
+      131
+    ],
+    "Newcastle\u2013Ottawa": [
+      132
+    ],
+    "Scale": [
+      133
+    ],
+    "used": [
+      135
+    ],
+    "assess": [
+      137
+    ],
+    "risk": [
+      139
+    ],
+    "bias.": [
+      141
+    ],
+    "In": [
+      142
+    ],
+    "total,": [
+      143
+    ],
+    "4374": [
+      144
+    ],
+    "asked": [
+      147
+    ],
+    "their": [
+      149
+    ],
+    "priorities": [
+      150
+    ],
+    "28": [
+      152
+    ],
+    "included.": [
+      156
+    ],
+    "Only": [
+      157
+    ],
+    "six": [
+      158
+    ],
+    "these": [
+      160
+    ],
+    "had": [
+      162
+    ],
+    "a": [
+      163,
+      166,
+      257
+    ],
+    "population": [
+      164
+    ],
+    "median": [
+      167
+    ],
+    "age": [
+      168
+    ],
+    "above": [
+      169
+    ],
+    "70.": [
+      170
+    ],
+    "Of": [
+      171
+    ],
+    "studies,": [
+      174
+    ],
+    "79%": [
+      175
+    ],
+    "quality": [
+      177,
+      231
+    ],
+    "life": [
+      179
+    ],
+    "as": [
+      180
+    ],
+    "priority,": [
+      185
+    ],
+    "followed": [
+      186
+    ],
+    "survival": [
+      189,
+      194
+    ],
+    "(67%),": [
+      190
+    ],
+    "progression-": [
+      191,
+      236
+    ],
+    "disease-free": [
+      193,
+      238
+    ],
+    "(56%),": [
+      195
+    ],
+    "absence": [
+      196
+    ],
+    "severe": [
+      198,
+      241
+    ],
+    "persistent": [
+      200,
+      243
+    ],
+    "side": [
+      202,
+      213,
+      244
+    ],
+    "effects": [
+      203,
+      214,
+      245
+    ],
+    "(54%),": [
+      204
+    ],
+    "response": [
+      207
+    ],
+    "(50%).": [
+      208
+    ],
+    "Absence": [
+      209
+    ],
+    "transient": [
+      211
+    ],
+    "short-term": [
+      212
+    ],
+    "16%.": [
+      218
+    ],
+    "The": [
+      219
+    ],
+    "heterogeneous": [
+      222
+    ],
+    "considering": [
+      223
+    ],
+    "age,": [
+      224
+    ],
+    "type,": [
+      226
+    ],
+    "settings.": [
+      229
+    ],
+    "Overall,": [
+      230
+    ],
+    "life,": [
+      233
+    ],
+    "survival,": [
+      235,
+      239
+    ],
+    "receive": [
+      252
+    ],
+    "priority": [
+      255
+    ],
+    "group": [
+      258
+    ],
+    "level": [
+      259
+    ],
+    "when": [
+      260
+    ],
+    "need": [
+      264
+    ],
+    "make": [
+      266
+    ],
+    "trade-offs": [
+      267
+    ],
+    "oncologic": [
+      269
+    ],
+    "decisions.": [
+      271
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 17
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 40
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 22
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 10
+    }
+  ],
+  "updated_date": "2025-11-06T03:46:38.306776",
+  "created_date": "2025-10-10T00:00:00"
+}

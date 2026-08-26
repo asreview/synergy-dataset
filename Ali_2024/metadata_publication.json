@@ -1,0 +1,977 @@
+{
+  "id": "https://openalex.org/W4396925395",
+  "doi": "https://doi.org/10.1007/s12599-024-00868-5",
+  "title": "Data-Driven Identification and Analysis of Waiting Times in Business Processes",
+  "display_name": "Data-Driven Identification and Analysis of Waiting Times in Business Processes",
+  "publication_year": 2024,
+  "publication_date": "2024-05-15",
+  "ids": {
+    "openalex": "https://openalex.org/W4396925395",
+    "doi": "https://doi.org/10.1007/s12599-024-00868-5"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1007/s12599-024-00868-5",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1007/s12599-024-00868-5",
+    "pdf_url": "https://link.springer.com/content/pdf/10.1007/s12599-024-00868-5.pdf",
+    "source": {
+      "id": "https://openalex.org/S27339233",
+      "display_name": "Business & Information Systems Engineering",
+      "issn_l": "1867-0202",
+      "issn": [
+        "1867-0202",
+        "2363-7005"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310319965",
+      "host_organization_name": "Springer Nature",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310319965"
+      ],
+      "host_organization_lineage_names": [
+        "Springer Nature"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Business &amp; Information Systems Engineering",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "hybrid",
+    "oa_url": "https://link.springer.com/content/pdf/10.1007/s12599-024-00868-5.pdf",
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5101636086",
+        "display_name": "Muhammad Awais Ali",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I56085075",
+          "display_name": "University of Tartu",
+          "ror": "https://ror.org/03z77qz90",
+          "country_code": "EE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I56085075"
+          ]
+        }
+      ],
+      "countries": [
+        "EE"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Muhammad Awais Ali",
+      "raw_affiliation_strings": [
+        "University of Tartu, Tartu, Estonia"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "University of Tartu, Tartu, Estonia",
+          "institution_ids": [
+            "https://openalex.org/I56085075"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5038886027",
+        "display_name": "Fredrik Milani",
+        "orcid": "https://orcid.org/0000-0002-1322-915X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I56085075",
+          "display_name": "University of Tartu",
+          "ror": "https://ror.org/03z77qz90",
+          "country_code": "EE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I56085075"
+          ]
+        }
+      ],
+      "countries": [
+        "EE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Fredrik Milani",
+      "raw_affiliation_strings": [
+        "University of Tartu, Tartu, Estonia"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "University of Tartu, Tartu, Estonia",
+          "institution_ids": [
+            "https://openalex.org/I56085075"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5085212075",
+        "display_name": "Marlon Dumas",
+        "orcid": "https://orcid.org/0000-0002-9247-7476"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I56085075",
+          "display_name": "University of Tartu",
+          "ror": "https://ror.org/03z77qz90",
+          "country_code": "EE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I56085075"
+          ]
+        }
+      ],
+      "countries": [
+        "EE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Marlon Dumas",
+      "raw_affiliation_strings": [
+        "University of Tartu, Tartu, Estonia"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "University of Tartu, Tartu, Estonia",
+          "institution_ids": [
+            "https://openalex.org/I56085075"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 3,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5101636086"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I56085075"
+  ],
+  "apc_list": {
+    "value": 2790,
+    "currency": "EUR",
+    "value_usd": 3590
+  },
+  "apc_paid": {
+    "value": 2790,
+    "currency": "EUR",
+    "value_usd": 3590
+  },
+  "fwci": 2.841137,
+  "has_fulltext": false,
+  "cited_by_count": 3,
+  "citation_normalized_percentile": {
+    "value": 0.88664,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 90,
+    "max": 97
+  },
+  "biblio": {
+    "volume": "67",
+    "issue": "2",
+    "first_page": "191",
+    "last_page": "208"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10703",
+    "display_name": "Business Process Modeling and Analysis",
+    "score": 0.9997000098228455,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1404",
+      "display_name": "Management Information Systems"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/14",
+      "display_name": "Business, Management and Accounting"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/2",
+      "display_name": "Social Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10703",
+      "display_name": "Business Process Modeling and Analysis",
+      "score": 0.9997000098228455,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1404",
+        "display_name": "Management Information Systems"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/14",
+        "display_name": "Business, Management and Accounting"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11741",
+      "display_name": "Flexible and Reconfigurable Manufacturing Systems",
+      "score": 0.9776999950408936,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2209",
+        "display_name": "Industrial and Manufacturing Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10910",
+      "display_name": "Corporate Governance and Management",
+      "score": 0.9660999774932861,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1408",
+        "display_name": "Strategy and Management"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/14",
+        "display_name": "Business, Management and Accounting"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/identification",
+      "display_name": "Identification (biology)",
+      "score": 0.6861250400543213
+    },
+    {
+      "id": "https://openalex.org/keywords/computer-science",
+      "display_name": "Computer science",
+      "score": 0.4808374345302582
+    },
+    {
+      "id": "https://openalex.org/keywords/data-science",
+      "display_name": "Data science",
+      "score": 0.3830585479736328
+    },
+    {
+      "id": "https://openalex.org/keywords/data-mining",
+      "display_name": "Data mining",
+      "score": 0.3544989824295044
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C116834253",
+      "wikidata": "https://www.wikidata.org/wiki/Q2039217",
+      "display_name": "Identification (biology)",
+      "level": 2,
+      "score": 0.6861250400543213
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.4808374345302582
+    },
+    {
+      "id": "https://openalex.org/C2522767166",
+      "wikidata": "https://www.wikidata.org/wiki/Q2374463",
+      "display_name": "Data science",
+      "level": 1,
+      "score": 0.3830585479736328
+    },
+    {
+      "id": "https://openalex.org/C124101348",
+      "wikidata": "https://www.wikidata.org/wiki/Q172491",
+      "display_name": "Data mining",
+      "level": 1,
+      "score": 0.3544989824295044
+    },
+    {
+      "id": "https://openalex.org/C59822182",
+      "wikidata": "https://www.wikidata.org/wiki/Q441",
+      "display_name": "Botany",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C86803240",
+      "wikidata": "https://www.wikidata.org/wiki/Q420",
+      "display_name": "Biology",
+      "level": 0,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "id": "doi:10.1007/s12599-024-00868-5",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1007/s12599-024-00868-5",
+      "pdf_url": "https://link.springer.com/content/pdf/10.1007/s12599-024-00868-5.pdf",
+      "source": {
+        "id": "https://openalex.org/S27339233",
+        "display_name": "Business & Information Systems Engineering",
+        "issn_l": "1867-0202",
+        "issn": [
+          "1867-0202",
+          "2363-7005"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310319965",
+        "host_organization_name": "Springer Nature",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310319965"
+        ],
+        "host_organization_lineage_names": [
+          "Springer Nature"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Business &amp; Information Systems Engineering",
+      "raw_type": "journal-article"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1007/s12599-024-00868-5",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1007/s12599-024-00868-5",
+    "pdf_url": "https://link.springer.com/content/pdf/10.1007/s12599-024-00868-5.pdf",
+    "source": {
+      "id": "https://openalex.org/S27339233",
+      "display_name": "Business & Information Systems Engineering",
+      "issn_l": "1867-0202",
+      "issn": [
+        "1867-0202",
+        "2363-7005"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310319965",
+      "host_organization_name": "Springer Nature",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310319965"
+      ],
+      "host_organization_lineage_names": [
+        "Springer Nature"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Business &amp; Information Systems Engineering",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "grobid_xml": false,
+    "pdf": true
+  },
+  "referenced_works_count": 73,
+  "referenced_works": [
+    "https://openalex.org/W2794332371",
+    "https://openalex.org/W4285392143",
+    "https://openalex.org/W2606805422",
+    "https://openalex.org/W2997219463",
+    "https://openalex.org/W2963107557",
+    "https://openalex.org/W2118328848",
+    "https://openalex.org/W2156562203",
+    "https://openalex.org/W2990921393",
+    "https://openalex.org/W4294837798",
+    "https://openalex.org/W2915013583",
+    "https://openalex.org/W2886688976",
+    "https://openalex.org/W2896923706",
+    "https://openalex.org/W3135002932",
+    "https://openalex.org/W1843425376",
+    "https://openalex.org/W4288080168",
+    "https://openalex.org/W3188570529",
+    "https://openalex.org/W2126923860",
+    "https://openalex.org/W4285233590",
+    "https://openalex.org/W2963798886",
+    "https://openalex.org/W2787347494",
+    "https://openalex.org/W2735294808",
+    "https://openalex.org/W2794220533",
+    "https://openalex.org/W4210382442",
+    "https://openalex.org/W3014019369",
+    "https://openalex.org/W4255474037",
+    "https://openalex.org/W1981194367",
+    "https://openalex.org/W2536924776",
+    "https://openalex.org/W2202878295",
+    "https://openalex.org/W2995409423",
+    "https://openalex.org/W2997566538",
+    "https://openalex.org/W4285166917",
+    "https://openalex.org/W4298002952",
+    "https://openalex.org/W4362587500",
+    "https://openalex.org/W3008836958",
+    "https://openalex.org/W4285272689",
+    "https://openalex.org/W4379800675",
+    "https://openalex.org/W2804881873",
+    "https://openalex.org/W2803223001",
+    "https://openalex.org/W2070280150",
+    "https://openalex.org/W2914395008",
+    "https://openalex.org/W2964878639",
+    "https://openalex.org/W2117744514",
+    "https://openalex.org/W2037596646",
+    "https://openalex.org/W2492230818",
+    "https://openalex.org/W2797664868",
+    "https://openalex.org/W2471826340",
+    "https://openalex.org/W2153384920",
+    "https://openalex.org/W4200320907",
+    "https://openalex.org/W2988410656",
+    "https://openalex.org/W2294509818",
+    "https://openalex.org/W2406153272",
+    "https://openalex.org/W2908615249",
+    "https://openalex.org/W1822489740",
+    "https://openalex.org/W2052757975",
+    "https://openalex.org/W2902518394",
+    "https://openalex.org/W1973094642",
+    "https://openalex.org/W1973573653",
+    "https://openalex.org/W2912617255",
+    "https://openalex.org/W3109072042",
+    "https://openalex.org/W2784015064",
+    "https://openalex.org/W1924273093",
+    "https://openalex.org/W2517077281",
+    "https://openalex.org/W2936018264",
+    "https://openalex.org/W3148333226",
+    "https://openalex.org/W2964066696",
+    "https://openalex.org/W3093944949",
+    "https://openalex.org/W38029959",
+    "https://openalex.org/W4243932450",
+    "https://openalex.org/W2106556581",
+    "https://openalex.org/W2173412009",
+    "https://openalex.org/W2964300152",
+    "https://openalex.org/W2550155259",
+    "https://openalex.org/W2943710525"
+  ],
+  "related_works": [
+    "https://openalex.org/W4391375266",
+    "https://openalex.org/W2748952813",
+    "https://openalex.org/W2390279801",
+    "https://openalex.org/W2358668433",
+    "https://openalex.org/W4396701345",
+    "https://openalex.org/W2376932109",
+    "https://openalex.org/W2001405890",
+    "https://openalex.org/W4396696052",
+    "https://openalex.org/W2382290278",
+    "https://openalex.org/W4395014643"
+  ],
+  "abstract_inverted_index": {
+    "Abstract": [
+      0
+    ],
+    "Reducing": [
+      1
+    ],
+    "waiting": [
+      2,
+      44,
+      59,
+      88,
+      94,
+      138,
+      162,
+      173,
+      200
+    ],
+    "times": [
+      3,
+      45,
+      201
+    ],
+    "in": [
+      4,
+      12,
+      24,
+      27,
+      75,
+      142,
+      177,
+      188,
+      202,
+      212
+    ],
+    "end-to-end": [
+      5
+    ],
+    "business": [
+      6,
+      16,
+      68,
+      203
+    ],
+    "processes": [
+      7
+    ],
+    "is": [
+      8,
+      99
+    ],
+    "a": [
+      9,
+      51,
+      53,
+      100,
+      103,
+      122,
+      168,
+      192,
+      206
+    ],
+    "recurrent": [
+      10
+    ],
+    "concern": [
+      11
+    ],
+    "the": [
+      13,
+      28,
+      65,
+      76,
+      128,
+      143,
+      189,
+      213
+    ],
+    "field": [
+      14,
+      26
+    ],
+    "of": [
+      15,
+      21,
+      43,
+      56,
+      67,
+      87,
+      102,
+      106,
+      130,
+      137,
+      161,
+      171,
+      179,
+      194,
+      208
+    ],
+    "process": [
+      17,
+      34,
+      69
+    ],
+    "management.": [
+      18
+    ],
+    "The": [
+      19,
+      119,
+      164,
+      184
+    ],
+    "uptake": [
+      20
+    ],
+    "data-driven": [
+      22,
+      172
+    ],
+    "approaches": [
+      23,
+      57,
+      82,
+      132,
+      197,
+      211
+    ],
+    "this": [
+      25,
+      148
+    ],
+    "past": [
+      29
+    ],
+    "two": [
+      30
+    ],
+    "decades,": [
+      31
+    ],
+    "most": [
+      32
+    ],
+    "notably": [
+      33
+    ],
+    "mining,": [
+      35
+    ],
+    "has": [
+      36
+    ],
+    "created": [
+      37
+    ],
+    "new": [
+      38
+    ],
+    "opportunities": [
+      39
+    ],
+    "for": [
+      40,
+      58,
+      93,
+      133
+    ],
+    "fine-grained": [
+      41
+    ],
+    "analysis": [
+      42,
+      63,
+      136,
+      175
+    ],
+    "based": [
+      46
+    ],
+    "on": [
+      47,
+      64
+    ],
+    "execution": [
+      48,
+      70
+    ],
+    "data.": [
+      49
+    ],
+    "As": [
+      50
+    ],
+    "result,": [
+      52
+    ],
+    "wide": [
+      54
+    ],
+    "range": [
+      55
+    ],
+    "time": [
+      60,
+      89,
+      139,
+      174
+    ],
+    "identification": [
+      61,
+      134
+    ],
+    "and": [
+      62,
+      90,
+      110,
+      135,
+      145,
+      159,
+      182,
+      205
+    ],
+    "basis": [
+      66
+    ],
+    "data": [
+      71
+    ],
+    "have": [
+      72,
+      83
+    ],
+    "been": [
+      73
+    ],
+    "reported": [
+      74
+    ],
+    "literature.": [
+      77
+    ],
+    "In": [
+      78
+    ],
+    "many": [
+      79
+    ],
+    "instances,": [
+      80
+    ],
+    "different": [
+      81,
+      85,
+      91,
+      157
+    ],
+    "considered": [
+      84
+    ],
+    "notions": [
+      86,
+      160
+    ],
+    "causes": [
+      92,
+      158
+    ],
+    "time.": [
+      95,
+      163
+    ],
+    "At": [
+      96
+    ],
+    "present,": [
+      97
+    ],
+    "there": [
+      98
+    ],
+    "lack": [
+      101,
+      207
+    ],
+    "consolidated": [
+      104
+    ],
+    "overview": [
+      105
+    ],
+    "these": [
+      107
+    ],
+    "manifold": [
+      108
+    ],
+    "approaches,": [
+      109
+    ],
+    "how": [
+      111
+    ],
+    "they": [
+      112
+    ],
+    "relate": [
+      113
+    ],
+    "to": [
+      114,
+      167,
+      198
+    ],
+    "or": [
+      115
+    ],
+    "complement": [
+      116
+    ],
+    "each": [
+      117
+    ],
+    "other.": [
+      118
+    ],
+    "article": [
+      120
+    ],
+    "presents": [
+      121
+    ],
+    "literature": [
+      123
+    ],
+    "review": [
+      124
+    ],
+    "that": [
+      125
+    ],
+    "starts": [
+      126
+    ],
+    "with": [
+      127
+    ],
+    "question": [
+      129,
+      149
+    ],
+    "what": [
+      131
+    ],
+    "are": [
+      140
+    ],
+    "available": [
+      141
+    ],
+    "literature,": [
+      144
+    ],
+    "then": [
+      146
+    ],
+    "refines": [
+      147
+    ],
+    "by": [
+      150
+    ],
+    "adding": [
+      151
+    ],
+    "questions": [
+      152
+    ],
+    "which": [
+      153
+    ],
+    "shed": [
+      154
+    ],
+    "light": [
+      155
+    ],
+    "onto": [
+      156
+    ],
+    "survey": [
+      165,
+      185
+    ],
+    "leads": [
+      166
+    ],
+    "multidimensional": [
+      169
+    ],
+    "taxonomy": [
+      170
+    ],
+    "techniques,": [
+      176
+    ],
+    "terms": [
+      178
+    ],
+    "purpose,": [
+      180
+    ],
+    "causes,": [
+      181
+    ],
+    "measures.": [
+      183
+    ],
+    "identifies": [
+      186
+    ],
+    "gaps": [
+      187
+    ],
+    "field,": [
+      190
+    ],
+    "chiefly": [
+      191
+    ],
+    "scarcity": [
+      193
+    ],
+    "integrated": [
+      195
+    ],
+    "multi-causal": [
+      196
+    ],
+    "analyze": [
+      199
+    ],
+    "processes,": [
+      204
+    ],
+    "empirically": [
+      209
+    ],
+    "validated": [
+      210
+    ],
+    "field.": [
+      214
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2025-11-06T06:51:31.235846",
+  "created_date": "2025-10-10T00:00:00"
+}

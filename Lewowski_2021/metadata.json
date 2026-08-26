@@ -1,0 +1,12 @@
+{
+  "key": "Lewowski_2021",
+  "publication": {
+    "doi": "10.1016/j.infsof.2021.106783",
+    "eligibility_criteria": "A paper would be further processed (i.e., relevant data would be extracted from it) only if all of the following statements would be true regarding it:\n1. The entry is a single journal paper, chapter of a book or conference proceedings paper which requires peer review (i.e., it is not an editorial, abstract, technical report etc.).\n2. The paper is written in English.\n3. The paper was published in 1999 or later.\n4. Title or abstract of the paper indicates that it is related to software engineering.\n5. Title or abstract of the paper indicates that at least one code smell/anti-pattern plays an important part of the study.\n6. Title or abstract of the paper indicates that it might use machine learning techniques.\n7. Abstract or full text of the paper indicates that it focuses on code smells/anti-patterns in programming languages.\n8. Abstract or full text of the paper indicates that it focuses on code smells/anti-patterns detection using source code.\n9. The paper does not focus on techniques for resolving code smells/anti-patterns.\n10. The paper does not focus on using code smells/anti-patterns as predictors of other code or project traits.\n11. The paper focuses on detection/prediction of code smells/anti-patterns.\n12. If the paper is a chapter of a book or conference proceedings publication, its authors have not published a study under the same title in a journal (we want to include the paper once and it may be expected that the journal version includes more details).\n13. Full text of the paper is available."
+  },
+  "data": {
+    "doi": "10.5281/zenodo.5647093",
+    "n_records": 1642,
+    "n_records_included": 45
+  }
+}

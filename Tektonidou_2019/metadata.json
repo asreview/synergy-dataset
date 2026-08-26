@@ -1,0 +1,12 @@
+{
+  "key": "Tektonidou_2019",
+  "publication": {
+    "doi": "10.1136/rmdopen-2019-000924",
+    "eligibility_criteria": "1.  Exclusion criteria for the systematic literature review\n\u2022 Animal studies\n\u2022 Basic science studies, laboratory definition studies\n\u2022 Pediatric studies\n\u2022 Narrative review, editorials, letters\n\u2022 Case reports \n\u2022 Conference abstracts\n\u2022 Non-English language publications\n\u2022 Not related to PICO questions (unrelated topic) \n\u2022 Publications on the same cohort (same cohorts)\n\u2022 Other (other disorder or not related to prevention or management topics in APS)"
+  },
+  "data": {
+    "doi": "10.17605/OSF.IO/T8KNJ",
+    "n_records": 5653,
+    "n_records_included": 180
+  }
+}

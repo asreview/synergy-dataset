@@ -1,0 +1,462 @@
+{
+  "id": "https://openalex.org/W4285321206",
+  "doi": "https://doi.org/10.29011/26889501.101265",
+  "title": "Overview of Pain Interventions for Hospital and Community Care Nurses: A Systematic Scoping Review",
+  "display_name": "Overview of Pain Interventions for Hospital and Community Care Nurses: A Systematic Scoping Review",
+  "publication_year": 2021,
+  "publication_date": "2021-12-14",
+  "ids": {
+    "openalex": "https://openalex.org/W4285321206",
+    "doi": "https://doi.org/10.29011/26889501.101265"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.29011/26889501.101265",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.29011/26889501.101265",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S4210210952",
+      "display_name": "International Journal of Nursing and Health Care Research",
+      "issn_l": "2688-9501",
+      "issn": [
+        "2688-9501"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": null,
+      "host_organization_name": null,
+      "host_organization_lineage": [],
+      "host_organization_lineage_names": [],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "International Journal of Nursing and Health Care Research",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "hybrid",
+    "oa_url": "https://doi.org/10.29011/26889501.101265",
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5020905950",
+        "display_name": "Annick Bakker\u2010Jacobs",
+        "orcid": "https://orcid.org/0000-0002-7930-3738"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": true,
+      "raw_author_name": "Jeltje H Giesen, Annick Bakker-Jacobs, Anneke van Vught, Hester Vermeulen, Getty Huisman-de Waal",
+      "raw_affiliation_strings": [],
+      "affiliations": []
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 0,
+  "institutions_distinct_count": 1,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5020905950"
+  ],
+  "corresponding_institution_ids": [],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 0.0,
+  "has_fulltext": false,
+  "cited_by_count": 0,
+  "citation_normalized_percentile": {
+    "value": 0.38137844,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": null,
+  "biblio": {
+    "volume": "4",
+    "issue": "10",
+    "first_page": null,
+    "last_page": null
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T11199",
+    "display_name": "Pain Management and Opioid Use",
+    "score": 0.9718000292778015,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2703",
+      "display_name": "Anesthesiology and Pain Medicine"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/27",
+      "display_name": "Medicine"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/4",
+      "display_name": "Health Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T11199",
+      "display_name": "Pain Management and Opioid Use",
+      "score": 0.9718000292778015,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2703",
+        "display_name": "Anesthesiology and Pain Medicine"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11292",
+      "display_name": "Pediatric Pain Management Techniques",
+      "score": 0.968999981880188,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2735",
+        "display_name": "Pediatrics, Perinatology and Child Health"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10084",
+      "display_name": "Musculoskeletal pain and rehabilitation",
+      "score": 0.9243999719619751,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2736",
+        "display_name": "Pharmacology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/psychological-intervention",
+      "display_name": "Psychological intervention",
+      "score": 0.6728978753089905
+    },
+    {
+      "id": "https://openalex.org/keywords/medicine",
+      "display_name": "Medicine",
+      "score": 0.4592146873474121
+    },
+    {
+      "id": "https://openalex.org/keywords/systematic-review",
+      "display_name": "Systematic review",
+      "score": 0.4104490876197815
+    },
+    {
+      "id": "https://openalex.org/keywords/nursing",
+      "display_name": "Nursing",
+      "score": 0.3953924775123596
+    },
+    {
+      "id": "https://openalex.org/keywords/psychology",
+      "display_name": "Psychology",
+      "score": 0.37276628613471985
+    },
+    {
+      "id": "https://openalex.org/keywords/medline",
+      "display_name": "MEDLINE",
+      "score": 0.3469441831111908
+    },
+    {
+      "id": "https://openalex.org/keywords/political-science",
+      "display_name": "Political science",
+      "score": 0.08051422238349915
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C27415008",
+      "wikidata": "https://www.wikidata.org/wiki/Q7256382",
+      "display_name": "Psychological intervention",
+      "level": 2,
+      "score": 0.6728978753089905
+    },
+    {
+      "id": "https://openalex.org/C71924100",
+      "wikidata": "https://www.wikidata.org/wiki/Q11190",
+      "display_name": "Medicine",
+      "level": 0,
+      "score": 0.4592146873474121
+    },
+    {
+      "id": "https://openalex.org/C189708586",
+      "wikidata": "https://www.wikidata.org/wiki/Q1504425",
+      "display_name": "Systematic review",
+      "level": 3,
+      "score": 0.4104490876197815
+    },
+    {
+      "id": "https://openalex.org/C159110408",
+      "wikidata": "https://www.wikidata.org/wiki/Q121176",
+      "display_name": "Nursing",
+      "level": 1,
+      "score": 0.3953924775123596
+    },
+    {
+      "id": "https://openalex.org/C15744967",
+      "wikidata": "https://www.wikidata.org/wiki/Q9418",
+      "display_name": "Psychology",
+      "level": 0,
+      "score": 0.37276628613471985
+    },
+    {
+      "id": "https://openalex.org/C2779473830",
+      "wikidata": "https://www.wikidata.org/wiki/Q1540899",
+      "display_name": "MEDLINE",
+      "level": 2,
+      "score": 0.3469441831111908
+    },
+    {
+      "id": "https://openalex.org/C17744445",
+      "wikidata": "https://www.wikidata.org/wiki/Q36442",
+      "display_name": "Political science",
+      "level": 0,
+      "score": 0.08051422238349915
+    },
+    {
+      "id": "https://openalex.org/C199539241",
+      "wikidata": "https://www.wikidata.org/wiki/Q7748",
+      "display_name": "Law",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 4,
+  "locations": [
+    {
+      "id": "doi:10.29011/26889501.101265",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.29011/26889501.101265",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4210210952",
+        "display_name": "International Journal of Nursing and Health Care Research",
+        "issn_l": "2688-9501",
+        "issn": [
+          "2688-9501"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "International Journal of Nursing and Health Care Research",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmh:hbo:oai:hbokennisbank.nl:repository_han:oai:repository.han.nl:20.500.12470/2538",
+      "is_oa": false,
+      "landing_page_url": "http://hdl.handle.net/20.500.12470/2538",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401843",
+        "display_name": "Data Archiving and Networked Services (DANS)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1322597698",
+        "host_organization_name": "Royal Netherlands Academy of Arts and Sciences",
+        "host_organization_lineage": [
+          "https://openalex.org/I1322597698"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "International Journal of Nursing and Health Care Research, 4, 1 - 19",
+      "raw_type": "info:eu-repo/semantics/article"
+    },
+    {
+      "id": "pmh:oai:repository.ubn.ru.nl:2066/246363",
+      "is_oa": false,
+      "landing_page_url": "https://repository.ubn.ru.nl/handle/2066/246363",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401067",
+        "display_name": "Radboud Repository (Radboud University)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I145872427",
+        "host_organization_name": "Radboud University Nijmegen",
+        "host_organization_lineage": [
+          "https://openalex.org/I145872427"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "",
+      "raw_type": "Article / Letter to editor"
+    },
+    {
+      "id": "pmh:ru:oai:repository.ubn.ru.nl:2066/246363",
+      "is_oa": false,
+      "landing_page_url": "http://hdl.handle.net/2066/246363",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401843",
+        "display_name": "Data Archiving and Networked Services (DANS)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1322597698",
+        "host_organization_name": "Royal Netherlands Academy of Arts and Sciences",
+        "host_organization_lineage": [
+          "https://openalex.org/I1322597698"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "International Journal of Nursing and Health Care Research, 4",
+      "raw_type": "info:eu-repo/semantics/article"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.29011/26889501.101265",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.29011/26889501.101265",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S4210210952",
+      "display_name": "International Journal of Nursing and Health Care Research",
+      "issn_l": "2688-9501",
+      "issn": [
+        "2688-9501"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": null,
+      "host_organization_name": null,
+      "host_organization_lineage": [],
+      "host_organization_lineage_names": [],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "International Journal of Nursing and Health Care Research",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "grobid_xml": false,
+    "pdf": false
+  },
+  "referenced_works_count": 0,
+  "referenced_works": [],
+  "related_works": [
+    "https://openalex.org/W2748952813",
+    "https://openalex.org/W2931662336",
+    "https://openalex.org/W2077865380",
+    "https://openalex.org/W2900068172",
+    "https://openalex.org/W2134894512",
+    "https://openalex.org/W2238030311",
+    "https://openalex.org/W1982842519",
+    "https://openalex.org/W2053487507",
+    "https://openalex.org/W2070311887",
+    "https://openalex.org/W2115099528"
+  ],
+  "abstract_inverted_index": {
+    "Contains": [
+      0
+    ],
+    "fulltext": [
+      1
+    ],
+    ":": [
+      2
+    ],
+    "246363.pdf": [
+      3
+    ],
+    "(Publisher\u2019s": [
+      4
+    ],
+    "version": [
+      5
+    ],
+    ")": [
+      6
+    ],
+    "(Open": [
+      7
+    ],
+    "Access)": [
+      8
+    ]
+  },
+  "counts_by_year": [],
+  "updated_date": "2025-11-06T03:46:38.306776",
+  "created_date": "2022-07-14T00:00:00"
+}

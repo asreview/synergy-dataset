@@ -1,0 +1,1 @@
+van Heugten Breurkes, J., Gilson, F., & Galster, M. (2022). Overlap between Automated Unit and Acceptance Testing – a Systematic Literature Review. The International Conference on Evaluation and Assessment in Software Engineering 2022, 80–89. https://doi.org/10.1145/3530019.3530028

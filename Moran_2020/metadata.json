@@ -1,0 +1,12 @@
+{
+  "key": "Moran_2020",
+  "publication": {
+    "doi": "10.1111/brv.12655",
+    "eligibility_criteria": "We screened records to find original experimental studies that manipulated the condition of animals in independent treatment groups through their diet, via both dietary quantity (i.e. partial restriction, complete deprivation or enrichment) or quality treatments (e.g. protein restriction or enrichment), and including both short-term and longer-term manipulations up to extended periods of weeks to months. We screened for studies that then subjected those animals to behavioural observations in contexts relating to risk (e.g. novel environments, novel object, risk-sensitive foraging, predator response) in independent trials (for inclusion and exclusion decision trees see Appendix S1). we excluded studies using species with compromised genetic diversity and/or evolved adaptive responses (e.g. domesticated animals, laboratory breeds, genetically modified organisms; as per Kelly et al., 2018) as well as studies on humans. Studies manipulating the micronutrient content of diets, or subjecting animals to high-fat diets were also excluded as the relationship between these diet manipulations and body condition is not clear and was considered beyond the scope of this review. Dietary treatments were excluded as \u2018non-independent\u2019: (i) where the behaviour was measured in the presence of high and low food availability, or dietary treatments such as periods of deprivation were applied within the novel environment (i.e. non-independence of treatments from the behavioural assay); (ii) where the dietary treatments were coupled with additional non-dietary factors (e.g. temperature; i.e. non-independence of the diet factor within treatments); or, (iii) the dietary treatments were applied longitudinally (within individuals) rather than crosssectionally (i.e. non-independence between high and low treatments)."
+  },
+  "data": {
+    "doi": "10.17605/OSF.IO/3TPHJ",
+    "n_records": 5244,
+    "n_records_included": 142
+  }
+}

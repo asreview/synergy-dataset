@@ -1,0 +1,1651 @@
+{
+  "id": "https://openalex.org/W3089540584",
+  "doi": "https://doi.org/10.1111/brv.12655",
+  "title": "Poor nutritional condition promotes high\u2010risk behaviours: a systematic review and meta\u2010analysis",
+  "display_name": "Poor nutritional condition promotes high\u2010risk behaviours: a systematic review and meta\u2010analysis",
+  "publication_year": 2020,
+  "publication_date": "2020-10-05",
+  "ids": {
+    "openalex": "https://openalex.org/W3089540584",
+    "doi": "https://doi.org/10.1111/brv.12655",
+    "mag": "3089540584",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/33015971"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1111/brv.12655",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1111/brv.12655",
+    "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/brv.12655",
+    "source": {
+      "id": "https://openalex.org/S86137544",
+      "display_name": "Biological reviews/Biological reviews of the Cambridge Philosophical Society",
+      "issn_l": "0006-3231",
+      "issn": [
+        "0006-3231",
+        "1464-7931",
+        "1469-185X"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320595",
+      "host_organization_name": "Wiley",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320595"
+      ],
+      "host_organization_lineage_names": [
+        "Wiley"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Biological Reviews",
+    "raw_type": "journal-article"
+  },
+  "type": "review",
+  "indexed_in": [
+    "crossref",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "bronze",
+    "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/brv.12655",
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5067708753",
+        "display_name": "Nicholas P. Moran",
+        "orcid": "https://orcid.org/0000-0002-7331-0400"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I20121455",
+          "display_name": "Bielefeld University",
+          "ror": "https://ror.org/02hpadn98",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I20121455"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I96673099",
+          "display_name": "Technical University of Denmark",
+          "ror": "https://ror.org/04qtj9h94",
+          "country_code": "DK",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I96673099"
+          ]
+        }
+      ],
+      "countries": [
+        "DE",
+        "DK"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Nicholas P. Moran",
+      "raw_affiliation_strings": [
+        "Centre for Ocean Life DTU-Aqua, Technical University of Denmark, Building 201, Kemitorvet, Kgs. Lyngby, 2800 Denmark",
+        "Evolutionary Biology, Bielefeld University, Morgenbreede 45, Bielefeld, 33615 Germany"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Centre for Ocean Life DTU-Aqua, Technical University of Denmark, Building 201, Kemitorvet, Kgs. Lyngby, 2800 Denmark",
+          "institution_ids": [
+            "https://openalex.org/I96673099"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Evolutionary Biology, Bielefeld University, Morgenbreede 45, Bielefeld, 33615 Germany",
+          "institution_ids": [
+            "https://openalex.org/I20121455"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5040342843",
+        "display_name": "Alfredo S\u00e1nchez\u2010T\u00f3jar",
+        "orcid": "https://orcid.org/0000-0002-2886-0649"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I20121455",
+          "display_name": "Bielefeld University",
+          "ror": "https://ror.org/02hpadn98",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I20121455"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Alfredo S\u00e1nchez\u2010T\u00f3jar",
+      "raw_affiliation_strings": [
+        "Evolutionary Biology, Bielefeld University, Morgenbreede 45, Bielefeld, 33615 Germany"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Evolutionary Biology, Bielefeld University, Morgenbreede 45, Bielefeld, 33615 Germany",
+          "institution_ids": [
+            "https://openalex.org/I20121455"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5078989298",
+        "display_name": "Holger Schielzeth",
+        "orcid": "https://orcid.org/0000-0002-9124-2261"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I76198965",
+          "display_name": "Friedrich Schiller University Jena",
+          "ror": "https://ror.org/05qpz1x62",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I76198965"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Holger Schielzeth",
+      "raw_affiliation_strings": [
+        "Institute of Ecology and Evolution Friedrich Schiller University Jena  Dornburger Stra\u00dfe 159 Jena 07743 Germany"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of Ecology and Evolution Friedrich Schiller University Jena  Dornburger Stra\u00dfe 159 Jena 07743 Germany",
+          "institution_ids": [
+            "https://openalex.org/I76198965"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5019944834",
+        "display_name": "Klaus Reinhold",
+        "orcid": "https://orcid.org/0000-0002-0249-8346"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I20121455",
+          "display_name": "Bielefeld University",
+          "ror": "https://ror.org/02hpadn98",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I20121455"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Klaus Reinhold",
+      "raw_affiliation_strings": [
+        "Evolutionary Biology, Bielefeld University, Morgenbreede 45, Bielefeld, 33615 Germany"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Evolutionary Biology, Bielefeld University, Morgenbreede 45, Bielefeld, 33615 Germany",
+          "institution_ids": [
+            "https://openalex.org/I20121455"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 2,
+  "institutions_distinct_count": 4,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5067708753"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I20121455",
+    "https://openalex.org/I96673099"
+  ],
+  "apc_list": {
+    "value": 4890,
+    "currency": "USD",
+    "value_usd": 4890
+  },
+  "apc_paid": null,
+  "fwci": 9.57039682,
+  "has_fulltext": false,
+  "cited_by_count": 117,
+  "citation_normalized_percentile": {
+    "value": 0.98080481,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 90,
+    "max": 100
+  },
+  "biblio": {
+    "volume": "96",
+    "issue": "1",
+    "first_page": "269",
+    "last_page": "288"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T11542",
+    "display_name": "Behavioral Health and Interventions",
+    "score": 0.9811999797821045,
+    "subfield": {
+      "id": "https://openalex.org/subfields/3202",
+      "display_name": "Applied Psychology"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/32",
+      "display_name": "Psychology"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/2",
+      "display_name": "Social Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T11542",
+      "display_name": "Behavioral Health and Interventions",
+      "score": 0.9811999797821045,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3202",
+        "display_name": "Applied Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10174",
+      "display_name": "Animal Behavior and Reproduction",
+      "score": 0.9682000279426575,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1105",
+        "display_name": "Ecology, Evolution, Behavior and Systematics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/11",
+        "display_name": "Agricultural and Biological Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11118",
+      "display_name": "Evolutionary Psychology and Human Behavior",
+      "score": 0.9065999984741211,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3205",
+        "display_name": "Experimental and Cognitive Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/meta-analysis",
+      "display_name": "Meta-analysis",
+      "score": 0.7076926231384277
+    },
+    {
+      "id": "https://openalex.org/keywords/systematic-review",
+      "display_name": "Systematic review",
+      "score": 0.4493737518787384
+    },
+    {
+      "id": "https://openalex.org/keywords/medicine",
+      "display_name": "Medicine",
+      "score": 0.38012078404426575
+    },
+    {
+      "id": "https://openalex.org/keywords/psychology",
+      "display_name": "Psychology",
+      "score": 0.369620144367218
+    },
+    {
+      "id": "https://openalex.org/keywords/risk-analysis",
+      "display_name": "Risk analysis (engineering)",
+      "score": 0.36046817898750305
+    },
+    {
+      "id": "https://openalex.org/keywords/environmental-health",
+      "display_name": "Environmental health",
+      "score": 0.33653950691223145
+    },
+    {
+      "id": "https://openalex.org/keywords/medline",
+      "display_name": "MEDLINE",
+      "score": 0.30891743302345276
+    },
+    {
+      "id": "https://openalex.org/keywords/biology",
+      "display_name": "Biology",
+      "score": 0.24796682596206665
+    },
+    {
+      "id": "https://openalex.org/keywords/internal-medicine",
+      "display_name": "Internal medicine",
+      "score": 0.19382062554359436
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C95190672",
+      "wikidata": "https://www.wikidata.org/wiki/Q815382",
+      "display_name": "Meta-analysis",
+      "level": 2,
+      "score": 0.7076926231384277
+    },
+    {
+      "id": "https://openalex.org/C189708586",
+      "wikidata": "https://www.wikidata.org/wiki/Q1504425",
+      "display_name": "Systematic review",
+      "level": 3,
+      "score": 0.4493737518787384
+    },
+    {
+      "id": "https://openalex.org/C71924100",
+      "wikidata": "https://www.wikidata.org/wiki/Q11190",
+      "display_name": "Medicine",
+      "level": 0,
+      "score": 0.38012078404426575
+    },
+    {
+      "id": "https://openalex.org/C15744967",
+      "wikidata": "https://www.wikidata.org/wiki/Q9418",
+      "display_name": "Psychology",
+      "level": 0,
+      "score": 0.369620144367218
+    },
+    {
+      "id": "https://openalex.org/C112930515",
+      "wikidata": "https://www.wikidata.org/wiki/Q4389547",
+      "display_name": "Risk analysis (engineering)",
+      "level": 1,
+      "score": 0.36046817898750305
+    },
+    {
+      "id": "https://openalex.org/C99454951",
+      "wikidata": "https://www.wikidata.org/wiki/Q932068",
+      "display_name": "Environmental health",
+      "level": 1,
+      "score": 0.33653950691223145
+    },
+    {
+      "id": "https://openalex.org/C2779473830",
+      "wikidata": "https://www.wikidata.org/wiki/Q1540899",
+      "display_name": "MEDLINE",
+      "level": 2,
+      "score": 0.30891743302345276
+    },
+    {
+      "id": "https://openalex.org/C86803240",
+      "wikidata": "https://www.wikidata.org/wiki/Q420",
+      "display_name": "Biology",
+      "level": 0,
+      "score": 0.24796682596206665
+    },
+    {
+      "id": "https://openalex.org/C126322002",
+      "wikidata": "https://www.wikidata.org/wiki/Q11180",
+      "display_name": "Internal medicine",
+      "level": 1,
+      "score": 0.19382062554359436
+    },
+    {
+      "id": "https://openalex.org/C55493867",
+      "wikidata": "https://www.wikidata.org/wiki/Q7094",
+      "display_name": "Biochemistry",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [
+    {
+      "descriptor_ui": "D000818",
+      "descriptor_name": "Animals",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D001522",
+      "descriptor_name": "Behavior, Animal",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D010802",
+      "descriptor_name": "Phylogeny",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D011235",
+      "descriptor_name": "Predatory Behavior",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D012309",
+      "descriptor_name": "Risk-Taking",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D012919",
+      "descriptor_name": "Social Behavior",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000818",
+      "descriptor_name": "Animals",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D001522",
+      "descriptor_name": "Behavior, Animal",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D010802",
+      "descriptor_name": "Phylogeny",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D011235",
+      "descriptor_name": "Predatory Behavior",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D012309",
+      "descriptor_name": "Risk-Taking",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D012919",
+      "descriptor_name": "Social Behavior",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    }
+  ],
+  "locations_count": 2,
+  "locations": [
+    {
+      "id": "doi:10.1111/brv.12655",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1111/brv.12655",
+      "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/brv.12655",
+      "source": {
+        "id": "https://openalex.org/S86137544",
+        "display_name": "Biological reviews/Biological reviews of the Cambridge Philosophical Society",
+        "issn_l": "0006-3231",
+        "issn": [
+          "0006-3231",
+          "1464-7931",
+          "1469-185X"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320595",
+        "host_organization_name": "Wiley",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320595"
+        ],
+        "host_organization_lineage_names": [
+          "Wiley"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Biological Reviews",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:33015971",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/33015971",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Biological reviews of the Cambridge Philosophical Society",
+      "raw_type": null
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1111/brv.12655",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1111/brv.12655",
+    "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/brv.12655",
+    "source": {
+      "id": "https://openalex.org/S86137544",
+      "display_name": "Biological reviews/Biological reviews of the Cambridge Philosophical Society",
+      "issn_l": "0006-3231",
+      "issn": [
+        "0006-3231",
+        "1464-7931",
+        "1469-185X"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320595",
+      "host_organization_name": "Wiley",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320595"
+      ],
+      "host_organization_lineage_names": [
+        "Wiley"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Biological Reviews",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [
+    {
+      "id": "https://metadata.un.org/sdg/2",
+      "display_name": "Zero hunger",
+      "score": 0.75
+    }
+  ],
+  "awards": [
+    {
+      "id": "https://openalex.org/G2118470747",
+      "display_name": null,
+      "funder_award_id": "316099922",
+      "funder_id": "https://openalex.org/F4320320879",
+      "funder_display_name": "Deutsche Forschungsgemeinschaft"
+    },
+    {
+      "id": "https://openalex.org/G8370335770",
+      "display_name": null,
+      "funder_award_id": "396782608",
+      "funder_id": "https://openalex.org/F4320320879",
+      "funder_display_name": "Deutsche Forschungsgemeinschaft"
+    }
+  ],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320320879",
+      "display_name": "Deutsche Forschungsgemeinschaft",
+      "ror": "https://ror.org/018mejw64"
+    }
+  ],
+  "has_content": {
+    "pdf": true,
+    "grobid_xml": true
+  },
+  "referenced_works_count": 211,
+  "referenced_works": [
+    "https://openalex.org/W2171977524",
+    "https://openalex.org/W1980903540",
+    "https://openalex.org/W2789294594",
+    "https://openalex.org/W2002612888",
+    "https://openalex.org/W2021815770",
+    "https://openalex.org/W2016988119",
+    "https://openalex.org/W2137910594",
+    "https://openalex.org/W2809264328",
+    "https://openalex.org/W6752615718",
+    "https://openalex.org/W2115434519",
+    "https://openalex.org/W1980909784",
+    "https://openalex.org/W2008672797",
+    "https://openalex.org/W2028762088",
+    "https://openalex.org/W2002282016",
+    "https://openalex.org/W1992395755",
+    "https://openalex.org/W2163647458",
+    "https://openalex.org/W2089439484",
+    "https://openalex.org/W1982070964",
+    "https://openalex.org/W2018190198",
+    "https://openalex.org/W2164681407",
+    "https://openalex.org/W2157460694",
+    "https://openalex.org/W2033755520",
+    "https://openalex.org/W1983002649",
+    "https://openalex.org/W2706492387",
+    "https://openalex.org/W2046977586",
+    "https://openalex.org/W2099266809",
+    "https://openalex.org/W2139429099",
+    "https://openalex.org/W1987299912",
+    "https://openalex.org/W2088057507",
+    "https://openalex.org/W2035539607",
+    "https://openalex.org/W2026108731",
+    "https://openalex.org/W1986677496",
+    "https://openalex.org/W2089826708",
+    "https://openalex.org/W2314260265",
+    "https://openalex.org/W1615166725",
+    "https://openalex.org/W1996505899",
+    "https://openalex.org/W4406444310",
+    "https://openalex.org/W2289954443",
+    "https://openalex.org/W2149722140",
+    "https://openalex.org/W2775770881",
+    "https://openalex.org/W2145424757",
+    "https://openalex.org/W2116334171",
+    "https://openalex.org/W2509648687",
+    "https://openalex.org/W2123848112",
+    "https://openalex.org/W2123316994",
+    "https://openalex.org/W2758206696",
+    "https://openalex.org/W2789340854",
+    "https://openalex.org/W2112690430",
+    "https://openalex.org/W6676740561",
+    "https://openalex.org/W2117066938",
+    "https://openalex.org/W6677605428",
+    "https://openalex.org/W2123957313",
+    "https://openalex.org/W2101336396",
+    "https://openalex.org/W2052216156",
+    "https://openalex.org/W2001497504",
+    "https://openalex.org/W2179983872",
+    "https://openalex.org/W1878198480",
+    "https://openalex.org/W6639565631",
+    "https://openalex.org/W2748536425",
+    "https://openalex.org/W2570638075",
+    "https://openalex.org/W2143634720",
+    "https://openalex.org/W2043778196",
+    "https://openalex.org/W1976634796",
+    "https://openalex.org/W2012425956",
+    "https://openalex.org/W2170168980",
+    "https://openalex.org/W2139097042",
+    "https://openalex.org/W2951002538",
+    "https://openalex.org/W2002380878",
+    "https://openalex.org/W2146016096",
+    "https://openalex.org/W2563535325",
+    "https://openalex.org/W2767259858",
+    "https://openalex.org/W2030932746",
+    "https://openalex.org/W1982617101",
+    "https://openalex.org/W2088481818",
+    "https://openalex.org/W2169737291",
+    "https://openalex.org/W4235945700",
+    "https://openalex.org/W6689801396",
+    "https://openalex.org/W2035140566",
+    "https://openalex.org/W2948797876",
+    "https://openalex.org/W2895288138",
+    "https://openalex.org/W2016494206",
+    "https://openalex.org/W1969765663",
+    "https://openalex.org/W1969545940",
+    "https://openalex.org/W2341445309",
+    "https://openalex.org/W2023333859",
+    "https://openalex.org/W2161232580",
+    "https://openalex.org/W2040432151",
+    "https://openalex.org/W2141673634",
+    "https://openalex.org/W1997704125",
+    "https://openalex.org/W2008242230",
+    "https://openalex.org/W2124828913",
+    "https://openalex.org/W2611164047",
+    "https://openalex.org/W1993361033",
+    "https://openalex.org/W1502185143",
+    "https://openalex.org/W2164032731",
+    "https://openalex.org/W1763731187",
+    "https://openalex.org/W2003224237",
+    "https://openalex.org/W2080255336",
+    "https://openalex.org/W2123538619",
+    "https://openalex.org/W2536375081",
+    "https://openalex.org/W2022783492",
+    "https://openalex.org/W1979439417",
+    "https://openalex.org/W2128478842",
+    "https://openalex.org/W2051458414",
+    "https://openalex.org/W2104458517",
+    "https://openalex.org/W2993295537",
+    "https://openalex.org/W1972503649",
+    "https://openalex.org/W8577541",
+    "https://openalex.org/W1967213282",
+    "https://openalex.org/W2003886690",
+    "https://openalex.org/W1963486899",
+    "https://openalex.org/W6641290612",
+    "https://openalex.org/W2068307889",
+    "https://openalex.org/W2101566652",
+    "https://openalex.org/W2313914595",
+    "https://openalex.org/W2177436571",
+    "https://openalex.org/W6685465391",
+    "https://openalex.org/W2095210132",
+    "https://openalex.org/W1977574177",
+    "https://openalex.org/W2889318007",
+    "https://openalex.org/W2005501262",
+    "https://openalex.org/W4294215472",
+    "https://openalex.org/W2000015698",
+    "https://openalex.org/W2911177544",
+    "https://openalex.org/W2994341359",
+    "https://openalex.org/W2783082245",
+    "https://openalex.org/W2551997037",
+    "https://openalex.org/W1970128129",
+    "https://openalex.org/W2883414374",
+    "https://openalex.org/W2006793918",
+    "https://openalex.org/W2597975094",
+    "https://openalex.org/W2252441360",
+    "https://openalex.org/W2057636528",
+    "https://openalex.org/W2019655958",
+    "https://openalex.org/W7056811937",
+    "https://openalex.org/W2098469032",
+    "https://openalex.org/W3026917185",
+    "https://openalex.org/W2031780420",
+    "https://openalex.org/W1505645266",
+    "https://openalex.org/W2273774628",
+    "https://openalex.org/W2766280754",
+    "https://openalex.org/W2410471422",
+    "https://openalex.org/W2793590241",
+    "https://openalex.org/W2939898561",
+    "https://openalex.org/W2560438049",
+    "https://openalex.org/W6730945383",
+    "https://openalex.org/W2883251903",
+    "https://openalex.org/W2952314317",
+    "https://openalex.org/W2332624653",
+    "https://openalex.org/W2090452998",
+    "https://openalex.org/W2887290545",
+    "https://openalex.org/W2109179717",
+    "https://openalex.org/W182409622",
+    "https://openalex.org/W2021148103",
+    "https://openalex.org/W2404291896",
+    "https://openalex.org/W2800175186",
+    "https://openalex.org/W2035760569",
+    "https://openalex.org/W2107746442",
+    "https://openalex.org/W2575272836",
+    "https://openalex.org/W2908289791",
+    "https://openalex.org/W169554444",
+    "https://openalex.org/W2921257954",
+    "https://openalex.org/W3033951980",
+    "https://openalex.org/W2887481618",
+    "https://openalex.org/W2592920059",
+    "https://openalex.org/W1609810996",
+    "https://openalex.org/W2605455618",
+    "https://openalex.org/W1989202144",
+    "https://openalex.org/W2041362297",
+    "https://openalex.org/W2147660831",
+    "https://openalex.org/W32657901",
+    "https://openalex.org/W4406584958",
+    "https://openalex.org/W1967612706",
+    "https://openalex.org/W2314409481",
+    "https://openalex.org/W2800526624",
+    "https://openalex.org/W2014512017",
+    "https://openalex.org/W2049799703",
+    "https://openalex.org/W2155318736",
+    "https://openalex.org/W4313207337",
+    "https://openalex.org/W2112962221",
+    "https://openalex.org/W2060679447",
+    "https://openalex.org/W1966884196",
+    "https://openalex.org/W2179552999",
+    "https://openalex.org/W2139168999",
+    "https://openalex.org/W4298346378",
+    "https://openalex.org/W2125461399",
+    "https://openalex.org/W2590756906",
+    "https://openalex.org/W2618640844",
+    "https://openalex.org/W2512982351",
+    "https://openalex.org/W2040017592",
+    "https://openalex.org/W2119670152",
+    "https://openalex.org/W1562001154",
+    "https://openalex.org/W2765787026",
+    "https://openalex.org/W1986509340",
+    "https://openalex.org/W19912579",
+    "https://openalex.org/W2122281416",
+    "https://openalex.org/W6678484072",
+    "https://openalex.org/W2149208966",
+    "https://openalex.org/W1976437706",
+    "https://openalex.org/W2069253934",
+    "https://openalex.org/W2143328227",
+    "https://openalex.org/W2052214162",
+    "https://openalex.org/W2158968822",
+    "https://openalex.org/W2328201677",
+    "https://openalex.org/W2604125881",
+    "https://openalex.org/W2056955231",
+    "https://openalex.org/W2240006587",
+    "https://openalex.org/W2156098321",
+    "https://openalex.org/W4240402692",
+    "https://openalex.org/W2991792334",
+    "https://openalex.org/W4237059730"
+  ],
+  "related_works": [
+    "https://openalex.org/W3134325150",
+    "https://openalex.org/W3210678099",
+    "https://openalex.org/W4200025911",
+    "https://openalex.org/W4405644996",
+    "https://openalex.org/W4394486262",
+    "https://openalex.org/W3088977003",
+    "https://openalex.org/W4387745674",
+    "https://openalex.org/W4294636802",
+    "https://openalex.org/W2070311887",
+    "https://openalex.org/W2115099528"
+  ],
+  "abstract_inverted_index": {
+    "ABSTRACT": [
+      0
+    ],
+    "Animal": [
+      1
+    ],
+    "behaviour": [
+      2,
+      28,
+      117,
+      133
+    ],
+    "can": [
+      3,
+      15
+    ],
+    "lead": [
+      4
+    ],
+    "to": [
+      5,
+      34,
+      61,
+      75,
+      121,
+      148,
+      197,
+      239
+    ],
+    "varying": [
+      6
+    ],
+    "levels": [
+      7
+    ],
+    "of": [
+      8,
+      22,
+      81,
+      210,
+      217,
+      261,
+      276
+    ],
+    "risk,": [
+      9
+    ],
+    "and": [
+      10,
+      20,
+      77,
+      113,
+      124,
+      138,
+      145,
+      201,
+      259,
+      269,
+      279,
+      310
+    ],
+    "an": [
+      11,
+      253
+    ],
+    "individual's": [
+      12
+    ],
+    "physical": [
+      13
+    ],
+    "condition": [
+      14,
+      31,
+      46,
+      109,
+      129,
+      206,
+      218
+    ],
+    "alter": [
+      16
+    ],
+    "the": [
+      17,
+      79,
+      136,
+      150,
+      157,
+      188,
+      193,
+      202,
+      249,
+      257,
+      262,
+      274
+    ],
+    "potential": [
+      18,
+      58
+    ],
+    "costs": [
+      19
+    ],
+    "benefits": [
+      21,
+      80
+    ],
+    "undertaking": [
+      23
+    ],
+    "risky": [
+      24,
+      82
+    ],
+    "behaviours.": [
+      25
+    ],
+    "How": [
+      26
+    ],
+    "risk\u2010taking": [
+      27,
+      116,
+      132,
+      199
+    ],
+    "depends": [
+      29
+    ],
+    "on": [
+      30,
+      131,
+      161,
+      219,
+      299
+    ],
+    "is": [
+      32,
+      93
+    ],
+    "subject": [
+      33
+    ],
+    "contrasting": [
+      35
+    ],
+    "hypotheses.": [
+      36
+    ],
+    "The": [
+      37,
+      63
+    ],
+    "asset": [
+      38
+    ],
+    "protection": [
+      39
+    ],
+    "principle": [
+      40
+    ],
+    "proposes": [
+      41,
+      67
+    ],
+    "that": [
+      42,
+      68,
+      71,
+      102,
+      156,
+      295
+    ],
+    "individuals": [
+      43,
+      70,
+      159,
+      171
+    ],
+    "in": [
+      44,
+      94,
+      118,
+      228,
+      230,
+      281,
+      304
+    ],
+    "better": [
+      45
+    ],
+    "should": [
+      47
+    ],
+    "be": [
+      48
+    ],
+    "more": [
+      49,
+      60,
+      73
+    ],
+    "risk": [
+      50,
+      92,
+      168,
+      302
+    ],
+    "averse,": [
+      51
+    ],
+    "as": [
+      52,
+      89,
+      192
+    ],
+    "they": [
+      53
+    ],
+    "have": [
+      54
+    ],
+    "higher": [
+      55
+    ],
+    "future": [
+      56
+    ],
+    "reproductive": [
+      57
+    ],
+    "(i.e.": [
+      59
+    ],
+    "lose).": [
+      62
+    ],
+    "state\u2010dependent": [
+      64
+    ],
+    "safety": [
+      65
+    ],
+    "hypothesis": [
+      66
+    ],
+    "high\u2010condition": [
+      69,
+      170,
+      233
+    ],
+    "are": [
+      72
+    ],
+    "likely": [
+      74
+    ],
+    "survive": [
+      76
+    ],
+    "maximise": [
+      78
+    ],
+    "situations": [
+      83
+    ],
+    "may": [
+      84
+    ],
+    "make": [
+      85
+    ],
+    "apparently": [
+      86
+    ],
+    "riskier": [
+      87
+    ],
+    "choices,": [
+      88
+    ],
+    "their": [
+      90
+    ],
+    "individual": [
+      91
+    ],
+    "fact": [
+      95
+    ],
+    "lower.": [
+      96
+    ],
+    "We": [
+      97,
+      141
+    ],
+    "systematically": [
+      98
+    ],
+    "searched": [
+      99
+    ],
+    "for": [
+      100
+    ],
+    "studies": [
+      101
+    ],
+    "experimentally": [
+      103
+    ],
+    "manipulated": [
+      104
+    ],
+    "animals\u2019": [
+      105
+    ],
+    "nutritional": [
+      106,
+      297
+    ],
+    "or": [
+      107
+    ],
+    "energetic": [
+      108
+    ],
+    "through": [
+      110
+    ],
+    "diet": [
+      111
+    ],
+    "treatments,": [
+      112
+    ],
+    "subsequently": [
+      114
+    ],
+    "measured": [
+      115
+    ],
+    "contexts": [
+      119,
+      306
+    ],
+    "relating": [
+      120
+    ],
+    "predation,": [
+      122,
+      308
+    ],
+    "novelty": [
+      123,
+      309
+    ],
+    "exploration.": [
+      125,
+      311
+    ],
+    "Our": [
+      126,
+      265
+    ],
+    "meta\u2010analysis": [
+      127,
+      154,
+      270
+    ],
+    "quantified": [
+      128
+    ],
+    "effects": [
+      130
+    ],
+    "at": [
+      134
+    ],
+    "both": [
+      135
+    ],
+    "mean": [
+      137
+    ],
+    "variance": [
+      139,
+      211,
+      221,
+      229,
+      263
+    ],
+    "level.": [
+      140
+    ],
+    "preregistered": [
+      142
+    ],
+    "our": [
+      143,
+      292
+    ],
+    "methods": [
+      144
+    ],
+    "hypotheses": [
+      146
+    ],
+    "prior": [
+      147
+    ],
+    "conducting": [
+      149
+    ],
+    "study.": [
+      151
+    ],
+    "Phylogenetic": [
+      152
+    ],
+    "multilevel": [
+      153
+    ],
+    "revealed": [
+      155,
+      184,
+      212
+    ],
+    "lower\u2010nutritional\u2010condition": [
+      158
+    ],
+    "showed": [
+      160
+    ],
+    "average": [
+      162,
+      223,
+      300
+    ],
+    "ca.": [
+      163
+    ],
+    "26%": [
+      164
+    ],
+    "greater": [
+      165
+    ],
+    "tendency": [
+      166
+    ],
+    "towards": [
+      167
+    ],
+    "than": [
+      169
+    ],
+    "(95%": [
+      172
+    ],
+    "confidence": [
+      173,
+      236
+    ],
+    "interval:": [
+      174,
+      237
+    ],
+    "15\u201338%;": [
+      175
+    ],
+    "N": [
+      176,
+      241
+    ],
+    "=": [
+      177,
+      242
+    ],
+    "126": [
+      178
+    ],
+    "studies,": [
+      179,
+      244
+    ],
+    "1297": [
+      180
+    ],
+    "effect": [
+      181,
+      216,
+      246,
+      288
+    ],
+    "sizes).": [
+      182
+    ],
+    "Meta\u2010regressions": [
+      183
+    ],
+    "several": [
+      185
+    ],
+    "factors": [
+      186
+    ],
+    "influencing": [
+      187,
+      256
+    ],
+    "overall": [
+      189,
+      215
+    ],
+    "effect,": [
+      190
+    ],
+    "such": [
+      191
+    ],
+    "experimental": [
+      194,
+      250
+    ],
+    "context": [
+      195,
+      251
+    ],
+    "used": [
+      196
+    ],
+    "measure": [
+      198
+    ],
+    "behaviour,": [
+      200
+    ],
+    "life": [
+      203
+    ],
+    "stage": [
+      204
+    ],
+    "when": [
+      205
+    ],
+    "was": [
+      207,
+      252,
+      290
+    ],
+    "manipulated.": [
+      208
+    ],
+    "Meta\u2010analysis": [
+      209
+    ],
+    "no": [
+      213
+    ],
+    "clear": [
+      214
+    ],
+    "behavioural": [
+      220,
+      283
+    ],
+    "(on": [
+      222
+    ],
+    "ca": [
+      224
+    ],
+    ".": [
+      225
+    ],
+    "3%": [
+      226
+    ],
+    "decrease": [
+      227
+    ],
+    "low\u2010": [
+      231
+    ],
+    "versus": [
+      232
+    ],
+    "groups;": [
+      234
+    ],
+    "95%": [
+      235
+    ],
+    "\u22128": [
+      238
+    ],
+    "3%;": [
+      240
+    ],
+    "119": [
+      243
+    ],
+    "1235": [
+      245
+    ],
+    "sizes),": [
+      247
+    ],
+    "however,": [
+      248
+    ],
+    "important": [
+      254
+    ],
+    "factor": [
+      255
+    ],
+    "strength": [
+      258
+    ],
+    "direction": [
+      260
+    ],
+    "effect.": [
+      264
+    ],
+    "comprehensive": [
+      266
+    ],
+    "systematic": [
+      267
+    ],
+    "review": [
+      268
+    ],
+    "provide": [
+      271
+    ],
+    "insights": [
+      272
+    ],
+    "into": [
+      273
+    ],
+    "roles": [
+      275
+    ],
+    "state": [
+      277,
+      298
+    ],
+    "dependency": [
+      278
+    ],
+    "plasticity": [
+      280
+    ],
+    "intraspecific": [
+      282
+    ],
+    "variation.": [
+      284
+    ],
+    "While": [
+      285
+    ],
+    "heterogeneity": [
+      286
+    ],
+    "among": [
+      287
+    ],
+    "sizes": [
+      289
+    ],
+    "high,": [
+      291
+    ],
+    "results": [
+      293
+    ],
+    "show": [
+      294
+    ],
+    "poor": [
+      296
+    ],
+    "increases": [
+      301
+    ],
+    "taking": [
+      303
+    ],
+    "ecological": [
+      305
+    ],
+    "involving": [
+      307
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 28
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 24
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 24
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 28
+    },
+    {
+      "year": 2021,
+      "cited_by_count": 10
+    },
+    {
+      "year": 2020,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2018,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2025-11-23T05:10:03.516525",
+  "created_date": "2025-10-10T00:00:00"
+}

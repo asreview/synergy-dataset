@@ -1,0 +1,12 @@
+{
+  "key": "Oud_2018",
+  "publication": {
+    "doi": "10.1177/0004867418791257",
+    "eligibility_criteria": "We included RCTs on four specialized psychotherapies (DBT, MBT, TFP and ST) for adults (18 years and older) with BPD, which included an individual psychotherapy component and had a duration of 16 weeks or more. Eligible comparison groups were other protocolized and specialized psychotherapies, or control groups, for example, treatment as usual (TAU), waiting list, attention control or community treatment by experts (CTBE). Studies were excluded with an arbitrary cut-off of <66% of the participants having BPD, unless disaggregated data were provided. Also, studies were excluded that tested incomplete versions of specialized treatment, for example, studies that investigated only skills training instead of the full DBT program."
+  },
+  "data": {
+    "url": "https://osf.io/pjr97",
+    "n_records": 973,
+    "n_records_included": 20
+  }
+}

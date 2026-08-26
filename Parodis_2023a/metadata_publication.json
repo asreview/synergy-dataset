@@ -1,0 +1,1931 @@
+{
+  "id": "https://openalex.org/W4385480990",
+  "doi": "https://doi.org/10.1136/rmdopen-2023-003297",
+  "title": "Systematic literature review informing the EULAR recommendations for the non-pharmacological management of systemic lupus erythematosus and systemic sclerosis",
+  "display_name": "Systematic literature review informing the EULAR recommendations for the non-pharmacological management of systemic lupus erythematosus and systemic sclerosis",
+  "publication_year": 2023,
+  "publication_date": "2023-08-01",
+  "ids": {
+    "openalex": "https://openalex.org/W4385480990",
+    "doi": "https://doi.org/10.1136/rmdopen-2023-003297",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/37532469"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1136/rmdopen-2023-003297",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1136/rmdopen-2023-003297",
+    "pdf_url": "https://rmdopen.bmj.com/content/rmdopen/9/3/e003297.full.pdf",
+    "source": {
+      "id": "https://openalex.org/S2738706341",
+      "display_name": "RMD Open",
+      "issn_l": "2056-5933",
+      "issn": [
+        "2056-5933"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310319945",
+      "host_organization_name": "BMJ",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310319945"
+      ],
+      "host_organization_lineage_names": [
+        "BMJ"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "RMD Open",
+    "raw_type": "journal-article"
+  },
+  "type": "review",
+  "indexed_in": [
+    "crossref",
+    "doaj",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "gold",
+    "oa_url": "https://rmdopen.bmj.com/content/rmdopen/9/3/e003297.full.pdf",
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5086543859",
+        "display_name": "Ioannis Parodis",
+        "orcid": "https://orcid.org/0000-0002-4875-5395"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I28166907",
+          "display_name": "Karolinska Institutet",
+          "ror": "https://ror.org/056d84691",
+          "country_code": "SE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I28166907"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I1335113835",
+          "display_name": "Karolinska University Hospital",
+          "ror": "https://ror.org/00m8d6786",
+          "country_code": "SE",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I1335113835"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I26437253",
+          "display_name": "\u00d6rebro University",
+          "ror": "https://ror.org/05kytsw45",
+          "country_code": "SE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I26437253"
+          ]
+        }
+      ],
+      "countries": [
+        "SE"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Ioannis Parodis",
+      "raw_affiliation_strings": [
+        "Department of Gastroenterology, Dermatology and Rheumatology, Karolinska University Hospital, Stockholm, Sweden",
+        "Department of Rheumatology, Faculty of Medicine and Health, \u00d6rebro University, \u00d6rebro, Sweden",
+        "Division of Rheumatology, Department of Medicine Solna, Karolinska Institutet, Stockholm, Sweden"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Rheumatology, Faculty of Medicine and Health, \u00d6rebro University, \u00d6rebro, Sweden",
+          "institution_ids": [
+            "https://openalex.org/I26437253"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Division of Rheumatology, Department of Medicine Solna, Karolinska Institutet, Stockholm, Sweden",
+          "institution_ids": [
+            "https://openalex.org/I28166907"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Gastroenterology, Dermatology and Rheumatology, Karolinska University Hospital, Stockholm, Sweden",
+          "institution_ids": [
+            "https://openalex.org/I1335113835"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5059049923",
+        "display_name": "Alvaro G\u00f3mez",
+        "orcid": "https://orcid.org/0000-0001-9618-1755"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I28166907",
+          "display_name": "Karolinska Institutet",
+          "ror": "https://ror.org/056d84691",
+          "country_code": "SE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I28166907"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I1335113835",
+          "display_name": "Karolinska University Hospital",
+          "ror": "https://ror.org/00m8d6786",
+          "country_code": "SE",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I1335113835"
+          ]
+        }
+      ],
+      "countries": [
+        "SE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Alvaro Gomez",
+      "raw_affiliation_strings": [
+        "Department of Gastroenterology, Dermatology and Rheumatology, Karolinska University Hospital, Stockholm, Sweden",
+        "Division of Rheumatology, Department of Medicine Solna, Karolinska Institutet, Stockholm, Sweden"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Gastroenterology, Dermatology and Rheumatology, Karolinska University Hospital, Stockholm, Sweden",
+          "institution_ids": [
+            "https://openalex.org/I1335113835"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Division of Rheumatology, Department of Medicine Solna, Karolinska Institutet, Stockholm, Sweden",
+          "institution_ids": [
+            "https://openalex.org/I28166907"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5043366320",
+        "display_name": "Alexander Tsoi",
+        "orcid": "https://orcid.org/0009-0004-4815-7477"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I28166907",
+          "display_name": "Karolinska Institutet",
+          "ror": "https://ror.org/056d84691",
+          "country_code": "SE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I28166907"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I1335113835",
+          "display_name": "Karolinska University Hospital",
+          "ror": "https://ror.org/00m8d6786",
+          "country_code": "SE",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I1335113835"
+          ]
+        }
+      ],
+      "countries": [
+        "SE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Alexander Tsoi",
+      "raw_affiliation_strings": [
+        "Department of Gastroenterology, Dermatology and Rheumatology, Karolinska University Hospital, Stockholm, Sweden",
+        "Division of Rheumatology, Department of Medicine Solna, Karolinska Institutet, Stockholm, Sweden"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Gastroenterology, Dermatology and Rheumatology, Karolinska University Hospital, Stockholm, Sweden",
+          "institution_ids": [
+            "https://openalex.org/I1335113835"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Division of Rheumatology, Department of Medicine Solna, Karolinska Institutet, Stockholm, Sweden",
+          "institution_ids": [
+            "https://openalex.org/I28166907"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5003923116",
+        "display_name": "Jun Weng Chow",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I28166907",
+          "display_name": "Karolinska Institutet",
+          "ror": "https://ror.org/056d84691",
+          "country_code": "SE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I28166907"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I1335113835",
+          "display_name": "Karolinska University Hospital",
+          "ror": "https://ror.org/00m8d6786",
+          "country_code": "SE",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I1335113835"
+          ]
+        }
+      ],
+      "countries": [
+        "SE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Jun Weng Chow",
+      "raw_affiliation_strings": [
+        "Department of Gastroenterology, Dermatology and Rheumatology, Karolinska University Hospital, Stockholm, Sweden",
+        "Division of Rheumatology, Department of Medicine Solna, Karolinska Institutet, Stockholm, Sweden"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Gastroenterology, Dermatology and Rheumatology, Karolinska University Hospital, Stockholm, Sweden",
+          "institution_ids": [
+            "https://openalex.org/I1335113835"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Division of Rheumatology, Department of Medicine Solna, Karolinska Institutet, Stockholm, Sweden",
+          "institution_ids": [
+            "https://openalex.org/I28166907"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5005816699",
+        "display_name": "Denise Pezzella",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I28166907",
+          "display_name": "Karolinska Institutet",
+          "ror": "https://ror.org/056d84691",
+          "country_code": "SE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I28166907"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I1335113835",
+          "display_name": "Karolinska University Hospital",
+          "ror": "https://ror.org/00m8d6786",
+          "country_code": "SE",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I1335113835"
+          ]
+        }
+      ],
+      "countries": [
+        "SE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Denise Pezzella",
+      "raw_affiliation_strings": [
+        "Department of Gastroenterology, Dermatology and Rheumatology, Karolinska University Hospital, Stockholm, Sweden",
+        "Division of Rheumatology, Department of Medicine Solna, Karolinska Institutet, Stockholm, Sweden"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Division of Rheumatology, Department of Medicine Solna, Karolinska Institutet, Stockholm, Sweden",
+          "institution_ids": [
+            "https://openalex.org/I28166907"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Gastroenterology, Dermatology and Rheumatology, Karolinska University Hospital, Stockholm, Sweden",
+          "institution_ids": [
+            "https://openalex.org/I1335113835"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5084328421",
+        "display_name": "Charlotte Girard",
+        "orcid": "https://orcid.org/0000-0002-4901-2059"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I114457229",
+          "display_name": "University of Geneva",
+          "ror": "https://ror.org/01swzsf04",
+          "country_code": "CH",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I114457229"
+          ]
+        }
+      ],
+      "countries": [
+        "CH"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Charlotte Girard",
+      "raw_affiliation_strings": [
+        "Division of Rheumatology, Department of Medicine, University of Geneva, Geneva, Switzerland"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Division of Rheumatology, Department of Medicine, University of Geneva, Geneva, Switzerland",
+          "institution_ids": [
+            "https://openalex.org/I114457229"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5020718006",
+        "display_name": "Tanja Stamm",
+        "orcid": "https://orcid.org/0000-0003-3073-7284"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2799334681",
+          "display_name": "Ludwig Boltzmann Gesellschaft",
+          "ror": "https://ror.org/01v1jam04",
+          "country_code": "AT",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I2799334681"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I76134821",
+          "display_name": "Medical University of Vienna",
+          "ror": "https://ror.org/05n3x4p02",
+          "country_code": "AT",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I76134821"
+          ]
+        }
+      ],
+      "countries": [
+        "AT"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Tanja A Stamm",
+      "raw_affiliation_strings": [
+        "Ludwig Boltzmann Institute for Arthritis and Rehabilitation, Ludwig Boltzmann Gesellschaft, Vienna, Austria",
+        "Section for Outcomes Research, Medical University of Vienna, Vienna, Austria"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Ludwig Boltzmann Institute for Arthritis and Rehabilitation, Ludwig Boltzmann Gesellschaft, Vienna, Austria",
+          "institution_ids": [
+            "https://openalex.org/I2799334681"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Section for Outcomes Research, Medical University of Vienna, Vienna, Austria",
+          "institution_ids": [
+            "https://openalex.org/I76134821"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5074346843",
+        "display_name": "Carina Bostr\u00f6m",
+        "orcid": "https://orcid.org/0000-0002-2506-687X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I28166907",
+          "display_name": "Karolinska Institutet",
+          "ror": "https://ror.org/056d84691",
+          "country_code": "SE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I28166907"
+          ]
+        }
+      ],
+      "countries": [
+        "SE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Carina Bostr\u00f6m",
+      "raw_affiliation_strings": [
+        "Division of Physiotherapy, Department of Neurobiology, Care Sciences and Society, Karolinska Institutet, Stockholm, Sweden"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Division of Physiotherapy, Department of Neurobiology, Care Sciences and Society, Karolinska Institutet, Stockholm, Sweden",
+          "institution_ids": [
+            "https://openalex.org/I28166907"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 3,
+  "institutions_distinct_count": 8,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5086543859"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I1335113835",
+    "https://openalex.org/I26437253",
+    "https://openalex.org/I28166907"
+  ],
+  "apc_list": {
+    "value": 1950,
+    "currency": "GBP",
+    "value_usd": 2391
+  },
+  "apc_paid": {
+    "value": 1950,
+    "currency": "GBP",
+    "value_usd": 2391
+  },
+  "fwci": 12.22862007,
+  "has_fulltext": true,
+  "cited_by_count": 32,
+  "citation_normalized_percentile": {
+    "value": 0.98494431,
+    "is_in_top_1_percent": true,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 96,
+    "max": 100
+  },
+  "biblio": {
+    "volume": "9",
+    "issue": "3",
+    "first_page": "e003297",
+    "last_page": "e003297"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T11330",
+    "display_name": "Systemic Sclerosis and Related Diseases",
+    "score": 0.9991000294685364,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2734",
+      "display_name": "Pathology and Forensic Medicine"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/27",
+      "display_name": "Medicine"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/4",
+      "display_name": "Health Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T11330",
+      "display_name": "Systemic Sclerosis and Related Diseases",
+      "score": 0.9991000294685364,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2734",
+        "display_name": "Pathology and Forensic Medicine"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10308",
+      "display_name": "Systemic Lupus Erythematosus Research",
+      "score": 0.9883999824523926,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2745",
+        "display_name": "Rheumatology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11453",
+      "display_name": "Diagnosis and Treatment of Venous Diseases",
+      "score": 0.9865999817848206,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2746",
+        "display_name": "Surgery"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/medicine",
+      "display_name": "Medicine",
+      "score": 0.9479652643203735
+    },
+    {
+      "id": "https://openalex.org/keywords/critical-appraisal",
+      "display_name": "Critical appraisal",
+      "score": 0.6747905015945435
+    },
+    {
+      "id": "https://openalex.org/keywords/psychological-intervention",
+      "display_name": "Psychological intervention",
+      "score": 0.6372596621513367
+    },
+    {
+      "id": "https://openalex.org/keywords/intensive-care-medicine",
+      "display_name": "Intensive care medicine",
+      "score": 0.5982550978660583
+    },
+    {
+      "id": "https://openalex.org/keywords/disease",
+      "display_name": "Disease",
+      "score": 0.5029484629631042
+    },
+    {
+      "id": "https://openalex.org/keywords/intervention",
+      "display_name": "Intervention (counseling)",
+      "score": 0.4744856357574463
+    },
+    {
+      "id": "https://openalex.org/keywords/quality-of-life",
+      "display_name": "Quality of life (healthcare)",
+      "score": 0.4692271649837494
+    },
+    {
+      "id": "https://openalex.org/keywords/systemic-disease",
+      "display_name": "Systemic disease",
+      "score": 0.46230000257492065
+    },
+    {
+      "id": "https://openalex.org/keywords/disease-management",
+      "display_name": "Disease management",
+      "score": 0.45342421531677246
+    },
+    {
+      "id": "https://openalex.org/keywords/systemic-therapy",
+      "display_name": "Systemic therapy",
+      "score": 0.4522760510444641
+    },
+    {
+      "id": "https://openalex.org/keywords/systematic-review",
+      "display_name": "Systematic review",
+      "score": 0.4462845027446747
+    },
+    {
+      "id": "https://openalex.org/keywords/physical-therapy",
+      "display_name": "Physical therapy",
+      "score": 0.44398176670074463
+    },
+    {
+      "id": "https://openalex.org/keywords/clinical-trial",
+      "display_name": "Clinical trial",
+      "score": 0.4306575059890747
+    },
+    {
+      "id": "https://openalex.org/keywords/medline",
+      "display_name": "MEDLINE",
+      "score": 0.4178204834461212
+    },
+    {
+      "id": "https://openalex.org/keywords/alternative-medicine",
+      "display_name": "Alternative medicine",
+      "score": 0.40181660652160645
+    },
+    {
+      "id": "https://openalex.org/keywords/dermatology",
+      "display_name": "Dermatology",
+      "score": 0.36088597774505615
+    },
+    {
+      "id": "https://openalex.org/keywords/internal-medicine",
+      "display_name": "Internal medicine",
+      "score": 0.18707004189491272
+    },
+    {
+      "id": "https://openalex.org/keywords/pathology",
+      "display_name": "Pathology",
+      "score": 0.169830322265625
+    },
+    {
+      "id": "https://openalex.org/keywords/psychiatry",
+      "display_name": "Psychiatry",
+      "score": 0.08747434616088867
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C71924100",
+      "wikidata": "https://www.wikidata.org/wiki/Q11190",
+      "display_name": "Medicine",
+      "level": 0,
+      "score": 0.9479652643203735
+    },
+    {
+      "id": "https://openalex.org/C152541439",
+      "wikidata": "https://www.wikidata.org/wiki/Q5186693",
+      "display_name": "Critical appraisal",
+      "level": 3,
+      "score": 0.6747905015945435
+    },
+    {
+      "id": "https://openalex.org/C27415008",
+      "wikidata": "https://www.wikidata.org/wiki/Q7256382",
+      "display_name": "Psychological intervention",
+      "level": 2,
+      "score": 0.6372596621513367
+    },
+    {
+      "id": "https://openalex.org/C177713679",
+      "wikidata": "https://www.wikidata.org/wiki/Q679690",
+      "display_name": "Intensive care medicine",
+      "level": 1,
+      "score": 0.5982550978660583
+    },
+    {
+      "id": "https://openalex.org/C2779134260",
+      "wikidata": "https://www.wikidata.org/wiki/Q12136",
+      "display_name": "Disease",
+      "level": 2,
+      "score": 0.5029484629631042
+    },
+    {
+      "id": "https://openalex.org/C2780665704",
+      "wikidata": "https://www.wikidata.org/wiki/Q959298",
+      "display_name": "Intervention (counseling)",
+      "level": 2,
+      "score": 0.4744856357574463
+    },
+    {
+      "id": "https://openalex.org/C2779951463",
+      "wikidata": "https://www.wikidata.org/wiki/Q7268788",
+      "display_name": "Quality of life (healthcare)",
+      "level": 2,
+      "score": 0.4692271649837494
+    },
+    {
+      "id": "https://openalex.org/C2778674544",
+      "wikidata": "https://www.wikidata.org/wiki/Q1414805",
+      "display_name": "Systemic disease",
+      "level": 3,
+      "score": 0.46230000257492065
+    },
+    {
+      "id": "https://openalex.org/C2982889124",
+      "wikidata": "https://www.wikidata.org/wiki/Q107439039",
+      "display_name": "Disease management",
+      "level": 4,
+      "score": 0.45342421531677246
+    },
+    {
+      "id": "https://openalex.org/C185926286",
+      "wikidata": "https://www.wikidata.org/wiki/Q1929812",
+      "display_name": "Systemic therapy",
+      "level": 4,
+      "score": 0.4522760510444641
+    },
+    {
+      "id": "https://openalex.org/C189708586",
+      "wikidata": "https://www.wikidata.org/wiki/Q1504425",
+      "display_name": "Systematic review",
+      "level": 3,
+      "score": 0.4462845027446747
+    },
+    {
+      "id": "https://openalex.org/C1862650",
+      "wikidata": "https://www.wikidata.org/wiki/Q186005",
+      "display_name": "Physical therapy",
+      "level": 1,
+      "score": 0.44398176670074463
+    },
+    {
+      "id": "https://openalex.org/C535046627",
+      "wikidata": "https://www.wikidata.org/wiki/Q30612",
+      "display_name": "Clinical trial",
+      "level": 2,
+      "score": 0.4306575059890747
+    },
+    {
+      "id": "https://openalex.org/C2779473830",
+      "wikidata": "https://www.wikidata.org/wiki/Q1540899",
+      "display_name": "MEDLINE",
+      "level": 2,
+      "score": 0.4178204834461212
+    },
+    {
+      "id": "https://openalex.org/C204787440",
+      "wikidata": "https://www.wikidata.org/wiki/Q188504",
+      "display_name": "Alternative medicine",
+      "level": 2,
+      "score": 0.40181660652160645
+    },
+    {
+      "id": "https://openalex.org/C16005928",
+      "wikidata": "https://www.wikidata.org/wiki/Q171171",
+      "display_name": "Dermatology",
+      "level": 1,
+      "score": 0.36088597774505615
+    },
+    {
+      "id": "https://openalex.org/C126322002",
+      "wikidata": "https://www.wikidata.org/wiki/Q11180",
+      "display_name": "Internal medicine",
+      "level": 1,
+      "score": 0.18707004189491272
+    },
+    {
+      "id": "https://openalex.org/C142724271",
+      "wikidata": "https://www.wikidata.org/wiki/Q7208",
+      "display_name": "Pathology",
+      "level": 1,
+      "score": 0.169830322265625
+    },
+    {
+      "id": "https://openalex.org/C118552586",
+      "wikidata": "https://www.wikidata.org/wiki/Q7867",
+      "display_name": "Psychiatry",
+      "level": 1,
+      "score": 0.08747434616088867
+    },
+    {
+      "id": "https://openalex.org/C159110408",
+      "wikidata": "https://www.wikidata.org/wiki/Q121176",
+      "display_name": "Nursing",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C530470458",
+      "wikidata": "https://www.wikidata.org/wiki/Q128581",
+      "display_name": "Breast cancer",
+      "level": 3,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C17744445",
+      "wikidata": "https://www.wikidata.org/wiki/Q36442",
+      "display_name": "Political science",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C2779734285",
+      "wikidata": "https://www.wikidata.org/wiki/Q11085",
+      "display_name": "Parkinson's disease",
+      "level": 3,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C199539241",
+      "wikidata": "https://www.wikidata.org/wiki/Q7748",
+      "display_name": "Law",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C121608353",
+      "wikidata": "https://www.wikidata.org/wiki/Q12078",
+      "display_name": "Cancer",
+      "level": 2,
+      "score": 0.0
+    }
+  ],
+  "mesh": [
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D011788",
+      "descriptor_name": "Quality of Life",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D012595",
+      "descriptor_name": "Scleroderma, Systemic",
+      "qualifier_ui": "Q000175",
+      "qualifier_name": "diagnosis",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D012595",
+      "descriptor_name": "Scleroderma, Systemic",
+      "qualifier_ui": "Q000628",
+      "qualifier_name": "therapy",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D008180",
+      "descriptor_name": "Lupus Erythematosus, Systemic",
+      "qualifier_ui": "Q000628",
+      "qualifier_name": "therapy",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D011788",
+      "descriptor_name": "Quality of Life",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D012595",
+      "descriptor_name": "Scleroderma, Systemic",
+      "qualifier_ui": "Q000175",
+      "qualifier_name": "diagnosis",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D012595",
+      "descriptor_name": "Scleroderma, Systemic",
+      "qualifier_ui": "Q000628",
+      "qualifier_name": "therapy",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D008180",
+      "descriptor_name": "Lupus Erythematosus, Systemic",
+      "qualifier_ui": "Q000628",
+      "qualifier_name": "therapy",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D011788",
+      "descriptor_name": "Quality of Life",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D012595",
+      "descriptor_name": "Scleroderma, Systemic",
+      "qualifier_ui": "Q000175",
+      "qualifier_name": "diagnosis",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D012595",
+      "descriptor_name": "Scleroderma, Systemic",
+      "qualifier_ui": "Q000628",
+      "qualifier_name": "therapy",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D008180",
+      "descriptor_name": "Lupus Erythematosus, Systemic",
+      "qualifier_ui": "Q000628",
+      "qualifier_name": "therapy",
+      "is_major_topic": true
+    }
+  ],
+  "locations_count": 4,
+  "locations": [
+    {
+      "id": "doi:10.1136/rmdopen-2023-003297",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1136/rmdopen-2023-003297",
+      "pdf_url": "https://rmdopen.bmj.com/content/rmdopen/9/3/e003297.full.pdf",
+      "source": {
+        "id": "https://openalex.org/S2738706341",
+        "display_name": "RMD Open",
+        "issn_l": "2056-5933",
+        "issn": [
+          "2056-5933"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310319945",
+        "host_organization_name": "BMJ",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310319945"
+        ],
+        "host_organization_lineage_names": [
+          "BMJ"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "RMD Open",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:37532469",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/37532469",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "RMD open",
+      "raw_type": null
+    },
+    {
+      "id": "pmh:oai:pubmedcentral.nih.gov:10401222",
+      "is_oa": true,
+      "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/10401222",
+      "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10401222/pdf/rmdopen-2023-003297.pdf",
+      "source": {
+        "id": "https://openalex.org/S2764455111",
+        "display_name": "PubMed Central",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by-nc",
+      "license_id": "https://openalex.org/licenses/cc-by-nc",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "RMD Open",
+      "raw_type": "Text"
+    },
+    {
+      "id": "pmh:oai:doaj.org/article:404e147de0a94f2e9f96626308498151",
+      "is_oa": false,
+      "landing_page_url": "https://doaj.org/article/404e147de0a94f2e9f96626308498151",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401280",
+        "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "RMD Open, Vol 9, Iss 3 (2023)",
+      "raw_type": "article"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1136/rmdopen-2023-003297",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1136/rmdopen-2023-003297",
+    "pdf_url": "https://rmdopen.bmj.com/content/rmdopen/9/3/e003297.full.pdf",
+    "source": {
+      "id": "https://openalex.org/S2738706341",
+      "display_name": "RMD Open",
+      "issn_l": "2056-5933",
+      "issn": [
+        "2056-5933"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310319945",
+      "host_organization_name": "BMJ",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310319945"
+      ],
+      "host_organization_lineage_names": [
+        "BMJ"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "RMD Open",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [
+    {
+      "id": "https://metadata.un.org/sdg/4",
+      "display_name": "Quality Education",
+      "score": 0.4399999976158142
+    }
+  ],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "pdf": true,
+    "grobid_xml": true
+  },
+  "referenced_works_count": 268,
+  "referenced_works": [
+    "https://openalex.org/W2486559230",
+    "https://openalex.org/W4211001791",
+    "https://openalex.org/W3049412992",
+    "https://openalex.org/W2939761201",
+    "https://openalex.org/W2996445537",
+    "https://openalex.org/W2113162173",
+    "https://openalex.org/W2604748713",
+    "https://openalex.org/W2607308515",
+    "https://openalex.org/W2346088751",
+    "https://openalex.org/W3185126705",
+    "https://openalex.org/W4385480990",
+    "https://openalex.org/W2771023586",
+    "https://openalex.org/W2141475907",
+    "https://openalex.org/W2020939873",
+    "https://openalex.org/W2101904342",
+    "https://openalex.org/W1997181054",
+    "https://openalex.org/W1985349240",
+    "https://openalex.org/W2159019869",
+    "https://openalex.org/W2321481218",
+    "https://openalex.org/W2134268182",
+    "https://openalex.org/W2060053669",
+    "https://openalex.org/W1964890171",
+    "https://openalex.org/W2161435583",
+    "https://openalex.org/W2138029257",
+    "https://openalex.org/W2017724916",
+    "https://openalex.org/W2053661978",
+    "https://openalex.org/W2194226637",
+    "https://openalex.org/W6608874935",
+    "https://openalex.org/W2105360571",
+    "https://openalex.org/W2341956150",
+    "https://openalex.org/W2466147368",
+    "https://openalex.org/W2328976470",
+    "https://openalex.org/W6715305754",
+    "https://openalex.org/W2800160638",
+    "https://openalex.org/W2891485207",
+    "https://openalex.org/W2902611713",
+    "https://openalex.org/W2798121121",
+    "https://openalex.org/W2964702155",
+    "https://openalex.org/W2943638946",
+    "https://openalex.org/W2962745442",
+    "https://openalex.org/W6783010563",
+    "https://openalex.org/W3002846599",
+    "https://openalex.org/W3116637113",
+    "https://openalex.org/W3134110728",
+    "https://openalex.org/W3121779998",
+    "https://openalex.org/W2050028399",
+    "https://openalex.org/W3006192892",
+    "https://openalex.org/W1971949100",
+    "https://openalex.org/W2111290477",
+    "https://openalex.org/W2025044149",
+    "https://openalex.org/W2046258318",
+    "https://openalex.org/W2137657753",
+    "https://openalex.org/W2171687847",
+    "https://openalex.org/W6701482834",
+    "https://openalex.org/W2302026342",
+    "https://openalex.org/W2576770259",
+    "https://openalex.org/W2533293758",
+    "https://openalex.org/W6753591503",
+    "https://openalex.org/W2799805513",
+    "https://openalex.org/W2770085109",
+    "https://openalex.org/W2948740762",
+    "https://openalex.org/W3019401952",
+    "https://openalex.org/W3029853460",
+    "https://openalex.org/W3091040476",
+    "https://openalex.org/W2123263258",
+    "https://openalex.org/W3168438193",
+    "https://openalex.org/W3161944999",
+    "https://openalex.org/W2024360183",
+    "https://openalex.org/W2283541705",
+    "https://openalex.org/W6703947702",
+    "https://openalex.org/W1540662404",
+    "https://openalex.org/W1970507307",
+    "https://openalex.org/W2164814058",
+    "https://openalex.org/W2167044943",
+    "https://openalex.org/W1884948120",
+    "https://openalex.org/W2000283719",
+    "https://openalex.org/W2990023900",
+    "https://openalex.org/W2115128470",
+    "https://openalex.org/W2126031441",
+    "https://openalex.org/W1966140664",
+    "https://openalex.org/W177009614",
+    "https://openalex.org/W2333618334",
+    "https://openalex.org/W6668229400",
+    "https://openalex.org/W2019208617",
+    "https://openalex.org/W2559291672",
+    "https://openalex.org/W2163174503",
+    "https://openalex.org/W2762957540",
+    "https://openalex.org/W2918323694",
+    "https://openalex.org/W2910758251",
+    "https://openalex.org/W6762351135",
+    "https://openalex.org/W6795984452",
+    "https://openalex.org/W6697496289",
+    "https://openalex.org/W6684755515",
+    "https://openalex.org/W6684307606",
+    "https://openalex.org/W2098996463",
+    "https://openalex.org/W2087431371",
+    "https://openalex.org/W2022662168",
+    "https://openalex.org/W1972314093",
+    "https://openalex.org/W2022369505",
+    "https://openalex.org/W1974822875",
+    "https://openalex.org/W2316759283",
+    "https://openalex.org/W2622437294",
+    "https://openalex.org/W4230302218",
+    "https://openalex.org/W3037391452",
+    "https://openalex.org/W224820888",
+    "https://openalex.org/W2075666479",
+    "https://openalex.org/W2096079060",
+    "https://openalex.org/W2044013840",
+    "https://openalex.org/W2145509425",
+    "https://openalex.org/W1977238898",
+    "https://openalex.org/W2410588200",
+    "https://openalex.org/W1987645433",
+    "https://openalex.org/W1997638322",
+    "https://openalex.org/W2143344086",
+    "https://openalex.org/W2028981992",
+    "https://openalex.org/W2802669175",
+    "https://openalex.org/W2076557613",
+    "https://openalex.org/W2424862939",
+    "https://openalex.org/W3165425285",
+    "https://openalex.org/W2887244444",
+    "https://openalex.org/W2955368244",
+    "https://openalex.org/W2029595956",
+    "https://openalex.org/W2802398833",
+    "https://openalex.org/W2077956931",
+    "https://openalex.org/W2915806676",
+    "https://openalex.org/W6628398248",
+    "https://openalex.org/W416784247",
+    "https://openalex.org/W2111833126",
+    "https://openalex.org/W6815786920",
+    "https://openalex.org/W3048282484",
+    "https://openalex.org/W3097959877",
+    "https://openalex.org/W1978413428",
+    "https://openalex.org/W2035210646",
+    "https://openalex.org/W1422475925",
+    "https://openalex.org/W6704720425",
+    "https://openalex.org/W1979349008",
+    "https://openalex.org/W1969406005",
+    "https://openalex.org/W2153655961",
+    "https://openalex.org/W2149501307",
+    "https://openalex.org/W1973843470",
+    "https://openalex.org/W6684853157",
+    "https://openalex.org/W2048087961",
+    "https://openalex.org/W2153790797",
+    "https://openalex.org/W2104009440",
+    "https://openalex.org/W6714772331",
+    "https://openalex.org/W2771019778",
+    "https://openalex.org/W2528322677",
+    "https://openalex.org/W2346288265",
+    "https://openalex.org/W2612672200",
+    "https://openalex.org/W3024423706",
+    "https://openalex.org/W2799901538",
+    "https://openalex.org/W2791718481",
+    "https://openalex.org/W2891333467",
+    "https://openalex.org/W2911381435",
+    "https://openalex.org/W2773419062",
+    "https://openalex.org/W2950106202",
+    "https://openalex.org/W3017578039",
+    "https://openalex.org/W2297190778",
+    "https://openalex.org/W3022876592",
+    "https://openalex.org/W3017025643",
+    "https://openalex.org/W3126234964",
+    "https://openalex.org/W3157996382",
+    "https://openalex.org/W4288058663",
+    "https://openalex.org/W2037377025",
+    "https://openalex.org/W3172566804",
+    "https://openalex.org/W2411448422",
+    "https://openalex.org/W3156028409",
+    "https://openalex.org/W2044841727",
+    "https://openalex.org/W6683618881",
+    "https://openalex.org/W2092939646",
+    "https://openalex.org/W1882177236",
+    "https://openalex.org/W2169229368",
+    "https://openalex.org/W2617630556",
+    "https://openalex.org/W2800908041",
+    "https://openalex.org/W2223901806",
+    "https://openalex.org/W2984301928",
+    "https://openalex.org/W2950119151",
+    "https://openalex.org/W3154979932",
+    "https://openalex.org/W2588943728",
+    "https://openalex.org/W2910426587",
+    "https://openalex.org/W2945395791",
+    "https://openalex.org/W1991132321",
+    "https://openalex.org/W1972683250",
+    "https://openalex.org/W2165644298",
+    "https://openalex.org/W6607339790",
+    "https://openalex.org/W2516067607",
+    "https://openalex.org/W2998644159",
+    "https://openalex.org/W2069405250",
+    "https://openalex.org/W2166127621",
+    "https://openalex.org/W2093288386",
+    "https://openalex.org/W2472684452",
+    "https://openalex.org/W6607281418",
+    "https://openalex.org/W2024370272",
+    "https://openalex.org/W981434500",
+    "https://openalex.org/W2946561618",
+    "https://openalex.org/W2944603152",
+    "https://openalex.org/W3028462361",
+    "https://openalex.org/W1974670368",
+    "https://openalex.org/W1542767592",
+    "https://openalex.org/W2100075236",
+    "https://openalex.org/W2601928369",
+    "https://openalex.org/W180024770",
+    "https://openalex.org/W2559015933",
+    "https://openalex.org/W2805634482",
+    "https://openalex.org/W2061693941",
+    "https://openalex.org/W2013052079",
+    "https://openalex.org/W2464660530",
+    "https://openalex.org/W2282417303",
+    "https://openalex.org/W2070019766",
+    "https://openalex.org/W1964373595",
+    "https://openalex.org/W2589317743",
+    "https://openalex.org/W6770570640",
+    "https://openalex.org/W2121361663",
+    "https://openalex.org/W2230721060",
+    "https://openalex.org/W6747687912",
+    "https://openalex.org/W6770474013",
+    "https://openalex.org/W2905828254",
+    "https://openalex.org/W2064999867",
+    "https://openalex.org/W1965683411",
+    "https://openalex.org/W2106654072",
+    "https://openalex.org/W1967992422",
+    "https://openalex.org/W1777746765",
+    "https://openalex.org/W4292806894",
+    "https://openalex.org/W2473786944",
+    "https://openalex.org/W2138871559",
+    "https://openalex.org/W1977815054",
+    "https://openalex.org/W2114242035",
+    "https://openalex.org/W2149564130",
+    "https://openalex.org/W2112778345",
+    "https://openalex.org/W2461084394",
+    "https://openalex.org/W2166281097",
+    "https://openalex.org/W2067495470",
+    "https://openalex.org/W2803692240",
+    "https://openalex.org/W1991250143",
+    "https://openalex.org/W2409346846",
+    "https://openalex.org/W1985004174",
+    "https://openalex.org/W2988646998",
+    "https://openalex.org/W2078022252",
+    "https://openalex.org/W2170266396",
+    "https://openalex.org/W2153802114",
+    "https://openalex.org/W2021792184",
+    "https://openalex.org/W6678119585",
+    "https://openalex.org/W2103570238",
+    "https://openalex.org/W1930959615",
+    "https://openalex.org/W3002144628",
+    "https://openalex.org/W2619248156",
+    "https://openalex.org/W2941659141",
+    "https://openalex.org/W6999269323",
+    "https://openalex.org/W2065003249",
+    "https://openalex.org/W3093802118",
+    "https://openalex.org/W6718149487",
+    "https://openalex.org/W3011449451",
+    "https://openalex.org/W3004967952",
+    "https://openalex.org/W2912816385",
+    "https://openalex.org/W3083150437",
+    "https://openalex.org/W2071292414",
+    "https://openalex.org/W2069014773",
+    "https://openalex.org/W1845447069",
+    "https://openalex.org/W2779259054",
+    "https://openalex.org/W3165713320",
+    "https://openalex.org/W2326106990",
+    "https://openalex.org/W4226034377",
+    "https://openalex.org/W2886522610",
+    "https://openalex.org/W4383998741",
+    "https://openalex.org/W3120950565",
+    "https://openalex.org/W4233911894",
+    "https://openalex.org/W2737966001",
+    "https://openalex.org/W2945023625"
+  ],
+  "related_works": [
+    "https://openalex.org/W3124148945",
+    "https://openalex.org/W2167191881",
+    "https://openalex.org/W4286214506",
+    "https://openalex.org/W4323793248",
+    "https://openalex.org/W2756578555",
+    "https://openalex.org/W3109170811",
+    "https://openalex.org/W2983768185",
+    "https://openalex.org/W2099892634",
+    "https://openalex.org/W2181543466",
+    "https://openalex.org/W2741972933"
+  ],
+  "abstract_inverted_index": {
+    "Through": [
+      0
+    ],
+    "this": [
+      1,
+      156
+    ],
+    "systematic": [
+      2
+    ],
+    "literature": [
+      3
+    ],
+    "review,": [
+      4
+    ],
+    "we": [
+      5
+    ],
+    "assembled": [
+      6
+    ],
+    "evidence": [
+      7
+    ],
+    "to": [
+      8,
+      80,
+      102,
+      115,
+      151
+    ],
+    "inform": [
+      9
+    ],
+    "the": [
+      10,
+      14,
+      52,
+      72,
+      153
+    ],
+    "EULAR": [
+      11
+    ],
+    "recommendations": [
+      12
+    ],
+    "for": [
+      13,
+      38,
+      42,
+      46
+    ],
+    "non-pharmacological": [
+      15,
+      122
+    ],
+    "management": [
+      16,
+      75,
+      123,
+      162
+    ],
+    "of": [
+      17,
+      54,
+      105,
+      124,
+      132
+    ],
+    "systemic": [
+      18,
+      23
+    ],
+    "lupus": [
+      19
+    ],
+    "erythematosus": [
+      20
+    ],
+    "(SLE)": [
+      21
+    ],
+    "and": [
+      22,
+      33,
+      44,
+      77,
+      88,
+      112,
+      126,
+      138,
+      167,
+      183,
+      189
+    ],
+    "sclerosis": [
+      24
+    ],
+    "(SSc).": [
+      25
+    ],
+    "We": [
+      26
+    ],
+    "screened": [
+      27
+    ],
+    "articles": [
+      28,
+      59
+    ],
+    "published": [
+      29
+    ],
+    "between": [
+      30
+    ],
+    "January": [
+      31
+    ],
+    "2000": [
+      32
+    ],
+    "June": [
+      34
+    ],
+    "2021.": [
+      35
+    ],
+    "Studies": [
+      36,
+      107
+    ],
+    "selected": [
+      37
+    ],
+    "data": [
+      39
+    ],
+    "extraction": [
+      40
+    ],
+    "(118": [
+      41
+    ],
+    "SLE": [
+      43,
+      98,
+      125
+    ],
+    "92": [
+      45
+    ],
+    "SSc)": [
+      47
+    ],
+    "were": [
+      48,
+      62
+    ],
+    "thematically": [
+      49
+    ],
+    "categorised": [
+      50
+    ],
+    "by": [
+      51
+    ],
+    "character": [
+      53
+    ],
+    "their": [
+      55
+    ],
+    "intervention.": [
+      56
+    ],
+    "Of": [
+      57
+    ],
+    "208": [
+      58
+    ],
+    "included,": [
+      60
+    ],
+    "51": [
+      61
+    ],
+    "classified": [
+      63
+    ],
+    "as": [
+      64
+    ],
+    "robust": [
+      65
+    ],
+    "in": [
+      66,
+      83,
+      173,
+      177,
+      194
+    ],
+    "critical": [
+      67
+    ],
+    "appraisal.": [
+      68
+    ],
+    "Physical": [
+      69
+    ],
+    "activity": [
+      70
+    ],
+    "was": [
+      71,
+      78
+    ],
+    "most": [
+      73
+    ],
+    "studied": [
+      74,
+      93
+    ],
+    "strategy": [
+      76
+    ],
+    "found": [
+      79,
+      99,
+      110
+    ],
+    "be": [
+      81,
+      136
+    ],
+    "efficacious": [
+      82
+    ],
+    "both": [
+      84,
+      187
+    ],
+    "diseases.": [
+      85
+    ],
+    "Patient": [
+      86
+    ],
+    "education": [
+      87
+    ],
+    "self-management": [
+      89
+    ],
+    "also": [
+      90
+    ],
+    "constituted": [
+      91
+    ],
+    "widely": [
+      92
+    ],
+    "topics.": [
+      94
+    ],
+    "Many": [
+      95
+    ],
+    "studies": [
+      96
+    ],
+    "on": [
+      97,
+      108
+    ],
+    "psychological": [
+      100
+    ],
+    "interventions": [
+      101
+    ],
+    "improve": [
+      103,
+      116
+    ],
+    "quality": [
+      104
+    ],
+    "life.": [
+      106
+    ],
+    "SSc": [
+      109,
+      127
+    ],
+    "phototherapy": [
+      111,
+      182
+    ],
+    "laser": [
+      113,
+      184
+    ],
+    "treatment": [
+      114,
+      146
+    ],
+    "cutaneous": [
+      117
+    ],
+    "disease": [
+      118
+    ],
+    "manifestations.": [
+      119
+    ],
+    "In": [
+      120
+    ],
+    "summary,": [
+      121
+    ],
+    "encompasses": [
+      128
+    ],
+    "a": [
+      129
+    ],
+    "wide": [
+      130
+    ],
+    "range": [
+      131
+    ],
+    "interventions,": [
+      133
+    ],
+    "which": [
+      134
+    ],
+    "can": [
+      135
+    ],
+    "combined": [
+      137
+    ],
+    "provided": [
+      139
+    ],
+    "either": [
+      140
+    ],
+    "with": [
+      141
+    ],
+    "or": [
+      142
+    ],
+    "without": [
+      143
+    ],
+    "adjunct": [
+      144
+    ],
+    "pharmacological": [
+      145
+    ],
+    "but": [
+      147
+    ],
+    "should": [
+      148
+    ],
+    "not": [
+      149
+    ],
+    "aim": [
+      150
+    ],
+    "substitute": [
+      152
+    ],
+    "latter": [
+      154
+    ],
+    "when": [
+      155
+    ],
+    "is": [
+      157
+    ],
+    "deemed": [
+      158
+    ],
+    "required.": [
+      159
+    ],
+    "While": [
+      160
+    ],
+    "some": [
+      161
+    ],
+    "strategies": [
+      163
+    ],
+    "i.e.,": [
+      164
+    ],
+    "physical": [
+      165
+    ],
+    "exercise": [
+      166
+    ],
+    "patient": [
+      168
+    ],
+    "education,": [
+      169
+    ],
+    "are": [
+      170
+    ],
+    "already": [
+      171
+    ],
+    "established": [
+      172
+    ],
+    "current": [
+      174
+    ],
+    "clinical": [
+      175
+    ],
+    "practice": [
+      176
+    ],
+    "several": [
+      178
+    ],
+    "centres,": [
+      179
+    ],
+    "others": [
+      180
+    ],
+    "e.g.,": [
+      181
+    ],
+    "treatment,": [
+      185
+    ],
+    "show": [
+      186
+    ],
+    "feasibility": [
+      188
+    ],
+    "efficacy,": [
+      190
+    ],
+    "yet": [
+      191
+    ],
+    "require": [
+      192
+    ],
+    "testing": [
+      193
+    ],
+    "more": [
+      195
+    ],
+    "rigorous": [
+      196
+    ],
+    "trials": [
+      197
+    ],
+    "than": [
+      198
+    ],
+    "those": [
+      199
+    ],
+    "hitherto": [
+      200
+    ],
+    "conducted.": [
+      201
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 12
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 17
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 3
+    }
+  ],
+  "updated_date": "2025-11-06T03:46:38.306776",
+  "created_date": "2025-10-10T00:00:00"
+}

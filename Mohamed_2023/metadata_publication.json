@@ -1,0 +1,1836 @@
+{
+  "id": "https://openalex.org/W4389514320",
+  "doi": "https://doi.org/10.1093/carcin/bgad091",
+  "title": "Identification of biomarkers for the early detection of non-small cell lung cancer: a systematic review and meta-analysis",
+  "display_name": "Identification of biomarkers for the early detection of non-small cell lung cancer: a systematic review and meta-analysis",
+  "publication_year": 2023,
+  "publication_date": "2023-12-08",
+  "ids": {
+    "openalex": "https://openalex.org/W4389514320",
+    "doi": "https://doi.org/10.1093/carcin/bgad091",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/38066655"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1093/carcin/bgad091",
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.1093/carcin/bgad091",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S184620562",
+      "display_name": "Carcinogenesis",
+      "issn_l": "0143-3334",
+      "issn": [
+        "0143-3334",
+        "1460-2180"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310311648",
+      "host_organization_name": "Oxford University Press",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310311648",
+        "https://openalex.org/P4310311647"
+      ],
+      "host_organization_lineage_names": [
+        "Oxford University Press",
+        "University of Oxford"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Carcinogenesis",
+    "raw_type": "journal-article"
+  },
+  "type": "review",
+  "indexed_in": [
+    "crossref",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "green",
+    "oa_url": "https://hull-repository.worktribe.com/output/4468216",
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5113589668",
+        "display_name": "Eithar Mohamed",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I69768126",
+          "display_name": "Hull York Medical School",
+          "ror": "https://ror.org/0003e4m70",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I69768126"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I191240316",
+          "display_name": "University of Hull",
+          "ror": "https://ror.org/04nkhwh30",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I191240316"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Eithar Mohamed",
+      "raw_affiliation_strings": [
+        "Centre for Biomedicine, Hull York Medical School, University of Hull , Kingston-upon-Hull, HU6 7RX , UK"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Centre for Biomedicine, Hull York Medical School, University of Hull , Kingston-upon-Hull, HU6 7RX , UK",
+          "institution_ids": [
+            "https://openalex.org/I191240316",
+            "https://openalex.org/I69768126"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5061522111",
+        "display_name": "Daniel Martinez",
+        "orcid": "https://orcid.org/0000-0001-8063-860X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I232005693",
+          "display_name": "Universidad Francisco de Vitoria",
+          "ror": "https://ror.org/03ha64j07",
+          "country_code": "ES",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I232005693"
+          ]
+        }
+      ],
+      "countries": [
+        "ES"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Daniel J Garc\u00eda Mart\u00ednez",
+      "raw_affiliation_strings": [
+        "Department of Biotechnology, Pozuelo de Alarc\u00f3n, University Francisco De Vitoria , Madrid, 28223 , Spain"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Biotechnology, Pozuelo de Alarc\u00f3n, University Francisco De Vitoria , Madrid, 28223 , Spain",
+          "institution_ids": [
+            "https://openalex.org/I232005693"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5006364887",
+        "display_name": "Mohammad\u2010Salar Hosseini",
+        "orcid": "https://orcid.org/0000-0003-2765-5018"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I163205636",
+          "display_name": "Tabriz University of Medical Sciences",
+          "ror": "https://ror.org/04krpx645",
+          "country_code": "IR",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I163205636"
+          ]
+        }
+      ],
+      "countries": [
+        "IR"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Mohammad-Salar Hosseini",
+      "raw_affiliation_strings": [
+        "Research Centre for Evidence-Based Medicine, Tabriz University of Medical Sciences , Tabriz , Iran"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Research Centre for Evidence-Based Medicine, Tabriz University of Medical Sciences , Tabriz , Iran",
+          "institution_ids": [
+            "https://openalex.org/I163205636"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5085805449",
+        "display_name": "Si Qi Yoong",
+        "orcid": "https://orcid.org/0000-0003-0102-7793"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I165932596",
+          "display_name": "National University of Singapore",
+          "ror": "https://ror.org/01tgyzw49",
+          "country_code": "SG",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I165932596"
+          ]
+        }
+      ],
+      "countries": [
+        "SG"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Si Qi Yoong",
+      "raw_affiliation_strings": [
+        "Alice Lee Centre for Nursing Studies, Yong Loo Lin School of Medicine, National University of Singapore , Singapore 117597 , Singapore"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Alice Lee Centre for Nursing Studies, Yong Loo Lin School of Medicine, National University of Singapore , Singapore 117597 , Singapore",
+          "institution_ids": [
+            "https://openalex.org/I165932596"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5087782158",
+        "display_name": "Daniel Fletcher",
+        "orcid": "https://orcid.org/0000-0002-6847-841X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I69768126",
+          "display_name": "Hull York Medical School",
+          "ror": "https://ror.org/0003e4m70",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I69768126"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I191240316",
+          "display_name": "University of Hull",
+          "ror": "https://ror.org/04nkhwh30",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I191240316"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Daniel Fletcher",
+      "raw_affiliation_strings": [
+        "Centre for Biomedicine, Hull York Medical School, University of Hull , Kingston-upon-Hull, HU6 7RX , UK"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Centre for Biomedicine, Hull York Medical School, University of Hull , Kingston-upon-Hull, HU6 7RX , UK",
+          "institution_ids": [
+            "https://openalex.org/I191240316",
+            "https://openalex.org/I69768126"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5009430044",
+        "display_name": "Simon P. Hart",
+        "orcid": "https://orcid.org/0000-0003-4606-9559"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I69768126",
+          "display_name": "Hull York Medical School",
+          "ror": "https://ror.org/0003e4m70",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I69768126"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I191240316",
+          "display_name": "University of Hull",
+          "ror": "https://ror.org/04nkhwh30",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I191240316"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Simon Hart",
+      "raw_affiliation_strings": [
+        "Respiratory Medicine, Hull York Medical School, University of Hull , Kingston-upon-Hull, HU6 7RX , UK"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Respiratory Medicine, Hull York Medical School, University of Hull , Kingston-upon-Hull, HU6 7RX , UK",
+          "institution_ids": [
+            "https://openalex.org/I191240316",
+            "https://openalex.org/I69768126"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5057414314",
+        "display_name": "Barbara\u2010ann Guinn",
+        "orcid": "https://orcid.org/0000-0003-0639-4541"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I69768126",
+          "display_name": "Hull York Medical School",
+          "ror": "https://ror.org/0003e4m70",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I69768126"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I191240316",
+          "display_name": "University of Hull",
+          "ror": "https://ror.org/04nkhwh30",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I191240316"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Barbara-ann Guinn",
+      "raw_affiliation_strings": [
+        "Centre for Biomedicine, Hull York Medical School, University of Hull , Kingston-upon-Hull, HU6 7RX , UK"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Centre for Biomedicine, Hull York Medical School, University of Hull , Kingston-upon-Hull, HU6 7RX , UK",
+          "institution_ids": [
+            "https://openalex.org/I191240316",
+            "https://openalex.org/I69768126"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 4,
+  "institutions_distinct_count": 7,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [],
+  "apc_list": {
+    "value": 4428,
+    "currency": "USD",
+    "value_usd": 4428
+  },
+  "apc_paid": null,
+  "fwci": 5.70232864,
+  "has_fulltext": false,
+  "cited_by_count": 24,
+  "citation_normalized_percentile": {
+    "value": 0.97153325,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 89,
+    "max": 100
+  },
+  "biblio": {
+    "volume": "45",
+    "issue": "1-2",
+    "first_page": "1",
+    "last_page": "22"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T12334",
+    "display_name": "Lung Cancer Research Studies",
+    "score": 0.9987999796867371,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2730",
+      "display_name": "Oncology"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/27",
+      "display_name": "Medicine"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/4",
+      "display_name": "Health Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T12334",
+      "display_name": "Lung Cancer Research Studies",
+      "score": 0.9987999796867371,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2730",
+        "display_name": "Oncology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11482",
+      "display_name": "RNA modifications and cancer",
+      "score": 0.9979000091552734,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10202",
+      "display_name": "Lung Cancer Diagnosis and Treatment",
+      "score": 0.9883000254631042,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2740",
+        "display_name": "Pulmonary and Respiratory Medicine"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/carcinoembryonic-antigen",
+      "display_name": "Carcinoembryonic antigen",
+      "score": 0.7423087954521179
+    },
+    {
+      "id": "https://openalex.org/keywords/medicine",
+      "display_name": "Medicine",
+      "score": 0.725007951259613
+    },
+    {
+      "id": "https://openalex.org/keywords/lung-cancer",
+      "display_name": "Lung cancer",
+      "score": 0.6761466264724731
+    },
+    {
+      "id": "https://openalex.org/keywords/oncology",
+      "display_name": "Oncology",
+      "score": 0.5667785406112671
+    },
+    {
+      "id": "https://openalex.org/keywords/biomarker",
+      "display_name": "Biomarker",
+      "score": 0.5494921207427979
+    },
+    {
+      "id": "https://openalex.org/keywords/internal-medicine",
+      "display_name": "Internal medicine",
+      "score": 0.5316781401634216
+    },
+    {
+      "id": "https://openalex.org/keywords/false-positive-paradox",
+      "display_name": "False positive paradox",
+      "score": 0.5009655952453613
+    },
+    {
+      "id": "https://openalex.org/keywords/stage",
+      "display_name": "Stage (stratigraphy)",
+      "score": 0.4844072461128235
+    },
+    {
+      "id": "https://openalex.org/keywords/cytokeratin",
+      "display_name": "Cytokeratin",
+      "score": 0.47029516100883484
+    },
+    {
+      "id": "https://openalex.org/keywords/sputum",
+      "display_name": "Sputum",
+      "score": 0.46618908643722534
+    },
+    {
+      "id": "https://openalex.org/keywords/cancer",
+      "display_name": "Cancer",
+      "score": 0.46228456497192383
+    },
+    {
+      "id": "https://openalex.org/keywords/meta-analysis",
+      "display_name": "Meta-analysis",
+      "score": 0.4383723735809326
+    },
+    {
+      "id": "https://openalex.org/keywords/enolase",
+      "display_name": "Enolase",
+      "score": 0.42674893140792847
+    },
+    {
+      "id": "https://openalex.org/keywords/receiver-operating-characteristic",
+      "display_name": "Receiver operating characteristic",
+      "score": 0.4194461405277252
+    },
+    {
+      "id": "https://openalex.org/keywords/pathology",
+      "display_name": "Pathology",
+      "score": 0.34658491611480713
+    },
+    {
+      "id": "https://openalex.org/keywords/biology",
+      "display_name": "Biology",
+      "score": 0.16951757669448853
+    },
+    {
+      "id": "https://openalex.org/keywords/immunohistochemistry",
+      "display_name": "Immunohistochemistry",
+      "score": 0.11982572078704834
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C2777387746",
+      "wikidata": "https://www.wikidata.org/wiki/Q769706",
+      "display_name": "Carcinoembryonic antigen",
+      "level": 3,
+      "score": 0.7423087954521179
+    },
+    {
+      "id": "https://openalex.org/C71924100",
+      "wikidata": "https://www.wikidata.org/wiki/Q11190",
+      "display_name": "Medicine",
+      "level": 0,
+      "score": 0.725007951259613
+    },
+    {
+      "id": "https://openalex.org/C2776256026",
+      "wikidata": "https://www.wikidata.org/wiki/Q47912",
+      "display_name": "Lung cancer",
+      "level": 2,
+      "score": 0.6761466264724731
+    },
+    {
+      "id": "https://openalex.org/C143998085",
+      "wikidata": "https://www.wikidata.org/wiki/Q162555",
+      "display_name": "Oncology",
+      "level": 1,
+      "score": 0.5667785406112671
+    },
+    {
+      "id": "https://openalex.org/C2781197716",
+      "wikidata": "https://www.wikidata.org/wiki/Q864574",
+      "display_name": "Biomarker",
+      "level": 2,
+      "score": 0.5494921207427979
+    },
+    {
+      "id": "https://openalex.org/C126322002",
+      "wikidata": "https://www.wikidata.org/wiki/Q11180",
+      "display_name": "Internal medicine",
+      "level": 1,
+      "score": 0.5316781401634216
+    },
+    {
+      "id": "https://openalex.org/C64869954",
+      "wikidata": "https://www.wikidata.org/wiki/Q1859747",
+      "display_name": "False positive paradox",
+      "level": 2,
+      "score": 0.5009655952453613
+    },
+    {
+      "id": "https://openalex.org/C146357865",
+      "wikidata": "https://www.wikidata.org/wiki/Q1123245",
+      "display_name": "Stage (stratigraphy)",
+      "level": 2,
+      "score": 0.4844072461128235
+    },
+    {
+      "id": "https://openalex.org/C2779012181",
+      "wikidata": "https://www.wikidata.org/wiki/Q2750567",
+      "display_name": "Cytokeratin",
+      "level": 3,
+      "score": 0.47029516100883484
+    },
+    {
+      "id": "https://openalex.org/C2776301714",
+      "wikidata": "https://www.wikidata.org/wiki/Q259346",
+      "display_name": "Sputum",
+      "level": 3,
+      "score": 0.46618908643722534
+    },
+    {
+      "id": "https://openalex.org/C121608353",
+      "wikidata": "https://www.wikidata.org/wiki/Q12078",
+      "display_name": "Cancer",
+      "level": 2,
+      "score": 0.46228456497192383
+    },
+    {
+      "id": "https://openalex.org/C95190672",
+      "wikidata": "https://www.wikidata.org/wiki/Q815382",
+      "display_name": "Meta-analysis",
+      "level": 2,
+      "score": 0.4383723735809326
+    },
+    {
+      "id": "https://openalex.org/C188618488",
+      "wikidata": "https://www.wikidata.org/wiki/Q24776639",
+      "display_name": "Enolase",
+      "level": 3,
+      "score": 0.42674893140792847
+    },
+    {
+      "id": "https://openalex.org/C58471807",
+      "wikidata": "https://www.wikidata.org/wiki/Q327120",
+      "display_name": "Receiver operating characteristic",
+      "level": 2,
+      "score": 0.4194461405277252
+    },
+    {
+      "id": "https://openalex.org/C142724271",
+      "wikidata": "https://www.wikidata.org/wiki/Q7208",
+      "display_name": "Pathology",
+      "level": 1,
+      "score": 0.34658491611480713
+    },
+    {
+      "id": "https://openalex.org/C86803240",
+      "wikidata": "https://www.wikidata.org/wiki/Q420",
+      "display_name": "Biology",
+      "level": 0,
+      "score": 0.16951757669448853
+    },
+    {
+      "id": "https://openalex.org/C204232928",
+      "wikidata": "https://www.wikidata.org/wiki/Q899285",
+      "display_name": "Immunohistochemistry",
+      "level": 2,
+      "score": 0.11982572078704834
+    },
+    {
+      "id": "https://openalex.org/C119857082",
+      "wikidata": "https://www.wikidata.org/wiki/Q2539",
+      "display_name": "Machine learning",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C151730666",
+      "wikidata": "https://www.wikidata.org/wiki/Q7205",
+      "display_name": "Paleontology",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C55493867",
+      "wikidata": "https://www.wikidata.org/wiki/Q7094",
+      "display_name": "Biochemistry",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C2781069245",
+      "wikidata": "https://www.wikidata.org/wiki/Q12204",
+      "display_name": "Tuberculosis",
+      "level": 2,
+      "score": 0.0
+    }
+  ],
+  "mesh": [
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D002289",
+      "descriptor_name": "Carcinoma, Non-Small-Cell Lung",
+      "qualifier_ui": "Q000175",
+      "qualifier_name": "diagnosis",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D002272",
+      "descriptor_name": "Carcinoembryonic Antigen",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008175",
+      "descriptor_name": "Lung Neoplasms",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D014408",
+      "descriptor_name": "Biomarkers, Tumor",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D055088",
+      "descriptor_name": "Early Detection of Cancer",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000951",
+      "descriptor_name": "Antigens, Neoplasm",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D035683",
+      "descriptor_name": "MicroRNAs",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D010751",
+      "descriptor_name": "Phosphopyruvate Hydratase",
+      "qualifier_ui": "Q000032",
+      "qualifier_name": "analysis",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D009687",
+      "descriptor_name": "Nuclear Proteins",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D002289",
+      "descriptor_name": "Carcinoma, Non-Small-Cell Lung",
+      "qualifier_ui": "Q000175",
+      "qualifier_name": "diagnosis",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D002272",
+      "descriptor_name": "Carcinoembryonic Antigen",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008175",
+      "descriptor_name": "Lung Neoplasms",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D014408",
+      "descriptor_name": "Biomarkers, Tumor",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D055088",
+      "descriptor_name": "Early Detection of Cancer",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000951",
+      "descriptor_name": "Antigens, Neoplasm",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D035683",
+      "descriptor_name": "MicroRNAs",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D010751",
+      "descriptor_name": "Phosphopyruvate Hydratase",
+      "qualifier_ui": "Q000032",
+      "qualifier_name": "analysis",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D009687",
+      "descriptor_name": "Nuclear Proteins",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D002289",
+      "descriptor_name": "Carcinoma, Non-Small-Cell Lung",
+      "qualifier_ui": "Q000175",
+      "qualifier_name": "diagnosis",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D002272",
+      "descriptor_name": "Carcinoembryonic Antigen",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008175",
+      "descriptor_name": "Lung Neoplasms",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D014408",
+      "descriptor_name": "Biomarkers, Tumor",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D055088",
+      "descriptor_name": "Early Detection of Cancer",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000951",
+      "descriptor_name": "Antigens, Neoplasm",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D035683",
+      "descriptor_name": "MicroRNAs",
+      "qualifier_ui": "Q000235",
+      "qualifier_name": "genetics",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D010751",
+      "descriptor_name": "Phosphopyruvate Hydratase",
+      "qualifier_ui": "Q000032",
+      "qualifier_name": "analysis",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D009687",
+      "descriptor_name": "Nuclear Proteins",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    }
+  ],
+  "locations_count": 3,
+  "locations": [
+    {
+      "id": "doi:10.1093/carcin/bgad091",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1093/carcin/bgad091",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S184620562",
+        "display_name": "Carcinogenesis",
+        "issn_l": "0143-3334",
+        "issn": [
+          "0143-3334",
+          "1460-2180"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310311648",
+        "host_organization_name": "Oxford University Press",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310311648",
+          "https://openalex.org/P4310311647"
+        ],
+        "host_organization_lineage_names": [
+          "Oxford University Press",
+          "University of Oxford"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Carcinogenesis",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:38066655",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/38066655",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Carcinogenesis",
+      "raw_type": null
+    },
+    {
+      "id": "pmh:oai:hull-repository.worktribe.com:4468216",
+      "is_oa": true,
+      "landing_page_url": "https://hull-repository.worktribe.com/output/4468216",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306400827",
+        "display_name": "Repository@Hull (Worktribe) (University of Hull)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I191240316",
+        "host_organization_name": "University of Hull",
+        "host_organization_lineage": [
+          "https://openalex.org/I191240316"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": null,
+      "raw_type": "acceptedVersion"
+    }
+  ],
+  "best_oa_location": {
+    "id": "pmh:oai:hull-repository.worktribe.com:4468216",
+    "is_oa": true,
+    "landing_page_url": "https://hull-repository.worktribe.com/output/4468216",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S4306400827",
+      "display_name": "Repository@Hull (Worktribe) (University of Hull)",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": false,
+      "host_organization": "https://openalex.org/I191240316",
+      "host_organization_name": "University of Hull",
+      "host_organization_lineage": [
+        "https://openalex.org/I191240316"
+      ],
+      "host_organization_lineage_names": [],
+      "type": "repository"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "submittedVersion",
+    "is_accepted": false,
+    "is_published": false,
+    "raw_source_name": null,
+    "raw_type": "acceptedVersion"
+  },
+  "sustainable_development_goals": [
+    {
+      "display_name": "Good health and well-being",
+      "score": 0.8899999856948853,
+      "id": "https://metadata.un.org/sdg/3"
+    }
+  ],
+  "awards": [],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320311314",
+      "display_name": "University of Hull",
+      "ror": "https://ror.org/04nkhwh30"
+    }
+  ],
+  "has_content": {
+    "pdf": false,
+    "grobid_xml": false
+  },
+  "referenced_works_count": 152,
+  "referenced_works": [
+    "https://openalex.org/W2883500730",
+    "https://openalex.org/W2979026278",
+    "https://openalex.org/W2466033276",
+    "https://openalex.org/W3008784107",
+    "https://openalex.org/W2115944658",
+    "https://openalex.org/W1558762677",
+    "https://openalex.org/W1971486598",
+    "https://openalex.org/W1896982762",
+    "https://openalex.org/W6695945000",
+    "https://openalex.org/W2051240173",
+    "https://openalex.org/W2122078852",
+    "https://openalex.org/W2129977538",
+    "https://openalex.org/W2997781325",
+    "https://openalex.org/W2060272389",
+    "https://openalex.org/W2113396130",
+    "https://openalex.org/W2966158141",
+    "https://openalex.org/W2789537033",
+    "https://openalex.org/W3123893780",
+    "https://openalex.org/W2107638293",
+    "https://openalex.org/W3019350884",
+    "https://openalex.org/W2973485049",
+    "https://openalex.org/W2803410130",
+    "https://openalex.org/W1964435302",
+    "https://openalex.org/W2157823046",
+    "https://openalex.org/W2990648940",
+    "https://openalex.org/W3128106383",
+    "https://openalex.org/W1966114315",
+    "https://openalex.org/W3093647809",
+    "https://openalex.org/W4229030009",
+    "https://openalex.org/W4316495911",
+    "https://openalex.org/W3211121436",
+    "https://openalex.org/W2012034410",
+    "https://openalex.org/W2126877448",
+    "https://openalex.org/W1499906828",
+    "https://openalex.org/W4233648682",
+    "https://openalex.org/W2607751941",
+    "https://openalex.org/W2805365557",
+    "https://openalex.org/W2059649193",
+    "https://openalex.org/W3133347861",
+    "https://openalex.org/W1981671675",
+    "https://openalex.org/W3160761432",
+    "https://openalex.org/W2999673403",
+    "https://openalex.org/W2527809645",
+    "https://openalex.org/W2150330298",
+    "https://openalex.org/W3045242741",
+    "https://openalex.org/W2148977892",
+    "https://openalex.org/W4232978717",
+    "https://openalex.org/W6630478596",
+    "https://openalex.org/W4244572131",
+    "https://openalex.org/W3116249896",
+    "https://openalex.org/W2961081936",
+    "https://openalex.org/W2141490694",
+    "https://openalex.org/W2140005531",
+    "https://openalex.org/W1999019277",
+    "https://openalex.org/W3044627739",
+    "https://openalex.org/W2967804629",
+    "https://openalex.org/W2943695944",
+    "https://openalex.org/W2183183868",
+    "https://openalex.org/W2604941614",
+    "https://openalex.org/W2902808460",
+    "https://openalex.org/W4240778921",
+    "https://openalex.org/W2058585175",
+    "https://openalex.org/W3198999817",
+    "https://openalex.org/W3112099727",
+    "https://openalex.org/W2170111830",
+    "https://openalex.org/W2080384607",
+    "https://openalex.org/W2009365842",
+    "https://openalex.org/W2350443416",
+    "https://openalex.org/W2534725047",
+    "https://openalex.org/W2078294783",
+    "https://openalex.org/W2809692604",
+    "https://openalex.org/W3005675684",
+    "https://openalex.org/W3023114058",
+    "https://openalex.org/W1725563978",
+    "https://openalex.org/W2064919087",
+    "https://openalex.org/W2184392553",
+    "https://openalex.org/W2120368275",
+    "https://openalex.org/W2117373085",
+    "https://openalex.org/W2016293149",
+    "https://openalex.org/W2128767954",
+    "https://openalex.org/W2554140915",
+    "https://openalex.org/W2756845623",
+    "https://openalex.org/W2033656642",
+    "https://openalex.org/W2147464891",
+    "https://openalex.org/W2020065300",
+    "https://openalex.org/W2146618353",
+    "https://openalex.org/W2953600484",
+    "https://openalex.org/W2046968962",
+    "https://openalex.org/W4205954025",
+    "https://openalex.org/W2064004757",
+    "https://openalex.org/W4282917402",
+    "https://openalex.org/W4318616111",
+    "https://openalex.org/W4306660751",
+    "https://openalex.org/W4360864663",
+    "https://openalex.org/W1566092511",
+    "https://openalex.org/W4308522021",
+    "https://openalex.org/W2112660237",
+    "https://openalex.org/W3011872783",
+    "https://openalex.org/W4212947492",
+    "https://openalex.org/W2069810305",
+    "https://openalex.org/W3004097361",
+    "https://openalex.org/W4319333355",
+    "https://openalex.org/W4311595506",
+    "https://openalex.org/W6848759670",
+    "https://openalex.org/W4308389606",
+    "https://openalex.org/W3041524607",
+    "https://openalex.org/W2901043034",
+    "https://openalex.org/W3021520660",
+    "https://openalex.org/W2109836925",
+    "https://openalex.org/W4281249847",
+    "https://openalex.org/W3173894310",
+    "https://openalex.org/W2759040709",
+    "https://openalex.org/W4206933525",
+    "https://openalex.org/W2000911934",
+    "https://openalex.org/W4323045980",
+    "https://openalex.org/W3116126282",
+    "https://openalex.org/W3125354468",
+    "https://openalex.org/W2883245154",
+    "https://openalex.org/W3179547066",
+    "https://openalex.org/W2808999888",
+    "https://openalex.org/W2969278643",
+    "https://openalex.org/W4305014649",
+    "https://openalex.org/W6717647155",
+    "https://openalex.org/W2169357958",
+    "https://openalex.org/W2624628086",
+    "https://openalex.org/W2555363519",
+    "https://openalex.org/W2339886595",
+    "https://openalex.org/W2117712470",
+    "https://openalex.org/W4220849608",
+    "https://openalex.org/W4307338514",
+    "https://openalex.org/W3034531160",
+    "https://openalex.org/W4311836210",
+    "https://openalex.org/W2999743196",
+    "https://openalex.org/W2130813048",
+    "https://openalex.org/W1996745846",
+    "https://openalex.org/W6838589773",
+    "https://openalex.org/W4363673822",
+    "https://openalex.org/W3012453990",
+    "https://openalex.org/W2783943238",
+    "https://openalex.org/W6687626063",
+    "https://openalex.org/W3003324272",
+    "https://openalex.org/W2531153177",
+    "https://openalex.org/W2045140076",
+    "https://openalex.org/W2080287383",
+    "https://openalex.org/W3167843360",
+    "https://openalex.org/W2915726162",
+    "https://openalex.org/W1509926505",
+    "https://openalex.org/W4282034103",
+    "https://openalex.org/W4313441269",
+    "https://openalex.org/W2194166243",
+    "https://openalex.org/W2418559992",
+    "https://openalex.org/W2286093822"
+  ],
+  "related_works": [
+    "https://openalex.org/W2280632276",
+    "https://openalex.org/W2053839600",
+    "https://openalex.org/W2422451333",
+    "https://openalex.org/W4249184829",
+    "https://openalex.org/W2358864443",
+    "https://openalex.org/W2443090837",
+    "https://openalex.org/W2403094844",
+    "https://openalex.org/W2418757228",
+    "https://openalex.org/W1998435831",
+    "https://openalex.org/W2028570091"
+  ],
+  "abstract_inverted_index": {
+    "Abstract": [
+      0
+    ],
+    "Lung": [
+      1
+    ],
+    "cancer": [
+      2,
+      82
+    ],
+    "(LC)": [
+      3
+    ],
+    "causes": [
+      4
+    ],
+    "few": [
+      5
+    ],
+    "symptoms": [
+      6
+    ],
+    "in": [
+      7,
+      40,
+      63,
+      70,
+      102
+    ],
+    "the": [
+      8,
+      15,
+      32,
+      64,
+      93,
+      103,
+      108,
+      112,
+      131,
+      152,
+      163,
+      182
+    ],
+    "earliest": [
+      9,
+      104
+    ],
+    "stages,": [
+      10
+    ],
+    "leading": [
+      11
+    ],
+    "to": [
+      12,
+      27,
+      88
+    ],
+    "one": [
+      13
+    ],
+    "of": [
+      14,
+      44,
+      67,
+      96,
+      115,
+      121,
+      135,
+      145,
+      155,
+      184,
+      199
+    ],
+    "highest": [
+      16
+    ],
+    "mortality": [
+      17,
+      33
+    ],
+    "rates": [
+      18
+    ],
+    "among": [
+      19
+    ],
+    "cancers.": [
+      20
+    ],
+    "Low-dose": [
+      21
+    ],
+    "computerised": [
+      22
+    ],
+    "tomography": [
+      23
+    ],
+    "(LDCT)": [
+      24
+    ],
+    "is": [
+      25,
+      48,
+      231
+    ],
+    "used": [
+      26
+    ],
+    "screen": [
+      28
+    ],
+    "high-risk": [
+      29,
+      73
+    ],
+    "individuals,": [
+      30
+    ],
+    "reducing": [
+      31
+    ],
+    "rate": [
+      34
+    ],
+    "by": [
+      35
+    ],
+    "20%.": [
+      36
+    ],
+    "However,": [
+      37
+    ],
+    "LDCT": [
+      38
+    ],
+    "results": [
+      39
+    ],
+    "a": [
+      41,
+      118,
+      140
+    ],
+    "high": [
+      42,
+      57,
+      203,
+      208
+    ],
+    "number": [
+      43
+    ],
+    "false": [
+      45
+    ],
+    "positives": [
+      46
+    ],
+    "and": [
+      47,
+      53,
+      59,
+      81,
+      133,
+      138,
+      176,
+      179,
+      220,
+      245
+    ],
+    "associated": [
+      49
+    ],
+    "with": [
+      50,
+      56,
+      72,
+      188,
+      202,
+      218,
+      242
+    ],
+    "unnecessary": [
+      51
+    ],
+    "follow-up": [
+      52
+    ],
+    "cost.": [
+      54
+    ],
+    "Biomarkers": [
+      55
+    ],
+    "sensitivities": [
+      58,
+      204
+    ],
+    "specificities": [
+      60,
+      209
+    ],
+    "could": [
+      61
+    ],
+    "assist": [
+      62
+    ],
+    "early": [
+      65,
+      113,
+      195,
+      226
+    ],
+    "detection": [
+      66
+    ],
+    "LC,": [
+      68,
+      116
+    ],
+    "especially": [
+      69
+    ],
+    "patients": [
+      71,
+      241
+    ],
+    "features.": [
+      74
+    ],
+    "Carcinoembryonic": [
+      75
+    ],
+    "antigen": [
+      76,
+      83
+    ],
+    "(CEA),": [
+      77
+    ],
+    "cytokeratin": [
+      78
+    ],
+    "19": [
+      79
+    ],
+    "fragments": [
+      80
+    ],
+    "125": [
+      84
+    ],
+    "have": [
+      85,
+      99
+    ],
+    "been": [
+      86
+    ],
+    "found": [
+      87
+    ],
+    "be": [
+      89
+    ],
+    "highly": [
+      90
+    ],
+    "expressed": [
+      91
+    ],
+    "during": [
+      92
+    ],
+    "later": [
+      94
+    ],
+    "stages": [
+      95
+    ],
+    "LC": [
+      97,
+      196,
+      227
+    ],
+    "but": [
+      98
+    ],
+    "low": [
+      100
+    ],
+    "sensitivity": [
+      101
+    ],
+    "stages.": [
+      105
+    ],
+    "We": [
+      106,
+      124
+    ],
+    "determined": [
+      107
+    ],
+    "best": [
+      109
+    ],
+    "biomarkers": [
+      110,
+      137,
+      157,
+      201
+    ],
+    "for": [
+      111,
+      194,
+      249
+    ],
+    "diagnosis": [
+      114
+    ],
+    "using": [
+      117,
+      233
+    ],
+    "systematic": [
+      119
+    ],
+    "review": [
+      120
+    ],
+    "eight": [
+      122
+    ],
+    "databases.": [
+      123
+    ],
+    "identified": [
+      125
+    ],
+    "98": [
+      126
+    ],
+    "articles": [
+      127
+    ],
+    "that": [
+      128,
+      151,
+      239
+    ],
+    "focussed": [
+      129,
+      166
+    ],
+    "on": [
+      130,
+      167,
+      171,
+      174
+    ],
+    "identification": [
+      132
+    ],
+    "assessment": [
+      134,
+      230
+    ],
+    "diagnostic": [
+      136,
+      153
+    ],
+    "achieved": [
+      139
+    ],
+    "pooled": [
+      141
+    ],
+    "area": [
+      142
+    ],
+    "under": [
+      143
+    ],
+    "curve": [
+      144
+    ],
+    "0.85": [
+      146
+    ],
+    "(95%": [
+      147
+    ],
+    "CI": [
+      148
+    ],
+    "0.82\u20130.088),": [
+      149
+    ],
+    "indicating": [
+      150
+    ],
+    "performance": [
+      154
+    ],
+    "these": [
+      156
+    ],
+    "when": [
+      158
+    ],
+    "combined": [
+      159,
+      187
+    ],
+    "was": [
+      160
+    ],
+    "excellent.": [
+      161
+    ],
+    "Of": [
+      162
+    ],
+    "studies,": [
+      164
+    ],
+    "30": [
+      165
+    ],
+    "single/antigen": [
+      168
+    ],
+    "panels,": [
+      169,
+      178
+    ],
+    "22": [
+      170
+    ],
+    "autoantibodies,": [
+      172
+    ],
+    "31": [
+      173
+    ],
+    "miRNA": [
+      175
+    ],
+    "RNA": [
+      177
+    ],
+    "15": [
+      180
+    ],
+    "suggested": [
+      181
+    ],
+    "use": [
+      183
+    ],
+    "circulating": [
+      185
+    ],
+    "DNA": [
+      186
+    ],
+    "CEA": [
+      189
+    ],
+    "or": [
+      190,
+      213
+    ],
+    "neuron-specific": [
+      191
+    ],
+    "enolase": [
+      192
+    ],
+    "(NSE)": [
+      193
+    ],
+    "detection.": [
+      197,
+      228
+    ],
+    "Verification": [
+      198
+    ],
+    "blood": [
+      200
+    ],
+    "(Ciz1,": [
+      205
+    ],
+    "exoGCC2,": [
+      206
+    ],
+    "ITGA2B),": [
+      207
+    ],
+    "(CYFR21-1,": [
+      210
+    ],
+    "antiHE4,": [
+      211
+    ],
+    "OPNV)": [
+      212
+    ],
+    "both": [
+      214
+    ],
+    "(HSP90\u03b1,": [
+      215
+    ],
+    "CEA)": [
+      216
+    ],
+    "along": [
+      217
+    ],
+    "miR-15b": [
+      219
+    ],
+    "miR-27b/miR-21": [
+      221
+    ],
+    "from": [
+      222
+    ],
+    "sputum": [
+      223
+    ],
+    "may": [
+      224
+    ],
+    "improve": [
+      225
+    ],
+    "Further": [
+      229
+    ],
+    "needed": [
+      232
+    ],
+    "appropriate": [
+      234
+    ],
+    "sample": [
+      235
+    ],
+    "sizes,": [
+      236
+    ],
+    "control": [
+      237
+    ],
+    "groups": [
+      238
+    ],
+    "include": [
+      240
+    ],
+    "non-malignant": [
+      243
+    ],
+    "conditions,": [
+      244
+    ],
+    "standardised": [
+      246
+    ],
+    "cut-off": [
+      247
+    ],
+    "levels": [
+      248
+    ],
+    "each": [
+      250
+    ],
+    "biomarker.": [
+      251
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 13
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 10
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2025-11-06T03:46:38.306776",
+  "created_date": "2025-10-10T00:00:00"
+}

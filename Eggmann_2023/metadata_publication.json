@@ -1,0 +1,1228 @@
+{
+  "id": "https://openalex.org/W4360864652",
+  "doi": "https://doi.org/10.3390/ma16072580",
+  "title": "Impact of Irradiation on the Adhesive Performance of Resin-Based Dental Biomaterials: A Systematic Review of Laboratory Studies",
+  "display_name": "Impact of Irradiation on the Adhesive Performance of Resin-Based Dental Biomaterials: A Systematic Review of Laboratory Studies",
+  "publication_year": 2023,
+  "publication_date": "2023-03-24",
+  "ids": {
+    "openalex": "https://openalex.org/W4360864652",
+    "doi": "https://doi.org/10.3390/ma16072580",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/37048873"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.3390/ma16072580",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.3390/ma16072580",
+    "pdf_url": "https://www.mdpi.com/1996-1944/16/7/2580/pdf?version=1679971198",
+    "source": {
+      "id": "https://openalex.org/S18714766",
+      "display_name": "Materials",
+      "issn_l": "1996-1944",
+      "issn": [
+        "1996-1944"
+      ],
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310310987",
+      "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310310987"
+      ],
+      "host_organization_lineage_names": [
+        "Multidisciplinary Digital Publishing Institute"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Materials",
+    "raw_type": "journal-article"
+  },
+  "type": "review",
+  "indexed_in": [
+    "crossref",
+    "doaj",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "gold",
+    "oa_url": "https://www.mdpi.com/1996-1944/16/7/2580/pdf?version=1679971198",
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5085709570",
+        "display_name": "Florin Eggmann",
+        "orcid": "https://orcid.org/0000-0001-6185-1480"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I1850255",
+          "display_name": "University of Basel",
+          "ror": "https://ror.org/02s6k3f65",
+          "country_code": "CH",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I1850255"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I79576946",
+          "display_name": "University of Pennsylvania",
+          "ror": "https://ror.org/00b30xv10",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I79576946"
+          ]
+        }
+      ],
+      "countries": [
+        "CH",
+        "US"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Florin Eggmann",
+      "raw_affiliation_strings": [
+        "Department of Periodontology, Endodontology, and Cariology, University Center for Dental Medicine Basel UZB, University of Basel, CH-4058 Basel, Switzerland",
+        "Department of Preventive and Restorative Sciences, Robert Schattner Center, Penn Dental Medicine, University of Pennsylvania, Philadelphia, PA 19104, USA"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Periodontology, Endodontology, and Cariology, University Center for Dental Medicine Basel UZB, University of Basel, CH-4058 Basel, Switzerland",
+          "institution_ids": [
+            "https://openalex.org/I1850255"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Preventive and Restorative Sciences, Robert Schattner Center, Penn Dental Medicine, University of Pennsylvania, Philadelphia, PA 19104, USA",
+          "institution_ids": [
+            "https://openalex.org/I79576946"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5025603151",
+        "display_name": "Jonathan D. Hwang",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I79576946",
+          "display_name": "University of Pennsylvania",
+          "ror": "https://ror.org/00b30xv10",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I79576946"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Jonathan D. Hwang",
+      "raw_affiliation_strings": [
+        "Department of Preventive and Restorative Sciences, Robert Schattner Center, Penn Dental Medicine, University of Pennsylvania, Philadelphia, PA 19104, USA"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Preventive and Restorative Sciences, Robert Schattner Center, Penn Dental Medicine, University of Pennsylvania, Philadelphia, PA 19104, USA",
+          "institution_ids": [
+            "https://openalex.org/I79576946"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5080358534",
+        "display_name": "Jose M. Ayub",
+        "orcid": "https://orcid.org/0009-0007-7005-1654"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I79576946",
+          "display_name": "University of Pennsylvania",
+          "ror": "https://ror.org/00b30xv10",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I79576946"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Jose M. Ayub",
+      "raw_affiliation_strings": [
+        "Department of Preventive and Restorative Sciences, Robert Schattner Center, Penn Dental Medicine, University of Pennsylvania, Philadelphia, PA 19104, USA"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Preventive and Restorative Sciences, Robert Schattner Center, Penn Dental Medicine, University of Pennsylvania, Philadelphia, PA 19104, USA",
+          "institution_ids": [
+            "https://openalex.org/I79576946"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5059113059",
+        "display_name": "Francis K. Mante",
+        "orcid": "https://orcid.org/0000-0001-9656-9784"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I79576946",
+          "display_name": "University of Pennsylvania",
+          "ror": "https://ror.org/00b30xv10",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I79576946"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Francis K. Mante",
+      "raw_affiliation_strings": [
+        "Department of Preventive and Restorative Sciences, Robert Schattner Center, Penn Dental Medicine, University of Pennsylvania, Philadelphia, PA 19104, USA"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Preventive and Restorative Sciences, Robert Schattner Center, Penn Dental Medicine, University of Pennsylvania, Philadelphia, PA 19104, USA",
+          "institution_ids": [
+            "https://openalex.org/I79576946"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 2,
+  "institutions_distinct_count": 4,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5059113059",
+    "https://openalex.org/A5085709570"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I1850255",
+    "https://openalex.org/I79576946"
+  ],
+  "apc_list": {
+    "value": 2300,
+    "currency": "CHF",
+    "value_usd": 2490
+  },
+  "apc_paid": {
+    "value": 2300,
+    "currency": "CHF",
+    "value_usd": 2490
+  },
+  "fwci": 3.02103002,
+  "has_fulltext": false,
+  "cited_by_count": 7,
+  "citation_normalized_percentile": {
+    "value": 0.85866909,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 94,
+    "max": 97
+  },
+  "biblio": {
+    "volume": "16",
+    "issue": "7",
+    "first_page": "2580",
+    "last_page": "2580"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10359",
+    "display_name": "Dental Implant Techniques and Outcomes",
+    "score": 0.9958999752998352,
+    "subfield": {
+      "id": "https://openalex.org/subfields/3504",
+      "display_name": "Oral Surgery"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/35",
+      "display_name": "Dentistry"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/4",
+      "display_name": "Health Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10359",
+      "display_name": "Dental Implant Techniques and Outcomes",
+      "score": 0.9958999752998352,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3504",
+        "display_name": "Oral Surgery"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/35",
+        "display_name": "Dentistry"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10113",
+      "display_name": "Dental materials and restorations",
+      "score": 0.9948999881744385,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3505",
+        "display_name": "Orthodontics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/35",
+        "display_name": "Dentistry"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12198",
+      "display_name": "Oral health in cancer treatment",
+      "score": 0.9926000237464905,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2740",
+        "display_name": "Pulmonary and Respiratory Medicine"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/adhesive",
+      "display_name": "Adhesive",
+      "score": 0.7864250540733337
+    },
+    {
+      "id": "https://openalex.org/keywords/materials-science",
+      "display_name": "Materials science",
+      "score": 0.7346628904342651
+    },
+    {
+      "id": "https://openalex.org/keywords/enamel-paint",
+      "display_name": "Enamel paint",
+      "score": 0.6144400835037231
+    },
+    {
+      "id": "https://openalex.org/keywords/dentin",
+      "display_name": "Dentin",
+      "score": 0.5792274475097656
+    },
+    {
+      "id": "https://openalex.org/keywords/dentistry",
+      "display_name": "Dentistry",
+      "score": 0.520737886428833
+    },
+    {
+      "id": "https://openalex.org/keywords/irradiation",
+      "display_name": "Irradiation",
+      "score": 0.49528685212135315
+    },
+    {
+      "id": "https://openalex.org/keywords/composite-material",
+      "display_name": "Composite material",
+      "score": 0.4292798340320587
+    },
+    {
+      "id": "https://openalex.org/keywords/resin-composite",
+      "display_name": "Resin composite",
+      "score": 0.4280298054218292
+    },
+    {
+      "id": "https://openalex.org/keywords/composite-number",
+      "display_name": "Composite number",
+      "score": 0.3208794891834259
+    },
+    {
+      "id": "https://openalex.org/keywords/medicine",
+      "display_name": "Medicine",
+      "score": 0.12053713202476501
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C68928338",
+      "wikidata": "https://www.wikidata.org/wiki/Q131790",
+      "display_name": "Adhesive",
+      "level": 3,
+      "score": 0.7864250540733337
+    },
+    {
+      "id": "https://openalex.org/C192562407",
+      "wikidata": "https://www.wikidata.org/wiki/Q228736",
+      "display_name": "Materials science",
+      "level": 0,
+      "score": 0.7346628904342651
+    },
+    {
+      "id": "https://openalex.org/C156887251",
+      "wikidata": "https://www.wikidata.org/wiki/Q2386424",
+      "display_name": "Enamel paint",
+      "level": 2,
+      "score": 0.6144400835037231
+    },
+    {
+      "id": "https://openalex.org/C2779263046",
+      "wikidata": "https://www.wikidata.org/wiki/Q189637",
+      "display_name": "Dentin",
+      "level": 2,
+      "score": 0.5792274475097656
+    },
+    {
+      "id": "https://openalex.org/C199343813",
+      "wikidata": "https://www.wikidata.org/wiki/Q12128",
+      "display_name": "Dentistry",
+      "level": 1,
+      "score": 0.520737886428833
+    },
+    {
+      "id": "https://openalex.org/C111337013",
+      "wikidata": "https://www.wikidata.org/wiki/Q2737837",
+      "display_name": "Irradiation",
+      "level": 2,
+      "score": 0.49528685212135315
+    },
+    {
+      "id": "https://openalex.org/C159985019",
+      "wikidata": "https://www.wikidata.org/wiki/Q181790",
+      "display_name": "Composite material",
+      "level": 1,
+      "score": 0.4292798340320587
+    },
+    {
+      "id": "https://openalex.org/C3019280483",
+      "wikidata": "https://www.wikidata.org/wiki/Q1780993",
+      "display_name": "Resin composite",
+      "level": 3,
+      "score": 0.4280298054218292
+    },
+    {
+      "id": "https://openalex.org/C104779481",
+      "wikidata": "https://www.wikidata.org/wiki/Q50707",
+      "display_name": "Composite number",
+      "level": 2,
+      "score": 0.3208794891834259
+    },
+    {
+      "id": "https://openalex.org/C71924100",
+      "wikidata": "https://www.wikidata.org/wiki/Q11190",
+      "display_name": "Medicine",
+      "level": 0,
+      "score": 0.12053713202476501
+    },
+    {
+      "id": "https://openalex.org/C185544564",
+      "wikidata": "https://www.wikidata.org/wiki/Q81197",
+      "display_name": "Nuclear physics",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C121332964",
+      "wikidata": "https://www.wikidata.org/wiki/Q413",
+      "display_name": "Physics",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C2779227376",
+      "wikidata": "https://www.wikidata.org/wiki/Q6505497",
+      "display_name": "Layer (electronics)",
+      "level": 2,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 5,
+  "locations": [
+    {
+      "id": "doi:10.3390/ma16072580",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.3390/ma16072580",
+      "pdf_url": "https://www.mdpi.com/1996-1944/16/7/2580/pdf?version=1679971198",
+      "source": {
+        "id": "https://openalex.org/S18714766",
+        "display_name": "Materials",
+        "issn_l": "1996-1944",
+        "issn": [
+          "1996-1944"
+        ],
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310310987",
+        "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310310987"
+        ],
+        "host_organization_lineage_names": [
+          "Multidisciplinary Digital Publishing Institute"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Materials",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:37048873",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/37048873",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Materials (Basel, Switzerland)",
+      "raw_type": null
+    },
+    {
+      "id": "pmh:oai:pubmedcentral.nih.gov:10095157",
+      "is_oa": true,
+      "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/10095157",
+      "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10095157/pdf/materials-16-02580.pdf",
+      "source": {
+        "id": "https://openalex.org/S2764455111",
+        "display_name": "PubMed Central",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Materials (Basel)",
+      "raw_type": "Text"
+    },
+    {
+      "id": "pmh:oai:doaj.org/article:997205cc3f034db49172d8e2a7c973b2",
+      "is_oa": false,
+      "landing_page_url": "https://doaj.org/article/997205cc3f034db49172d8e2a7c973b2",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401280",
+        "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Materials, Vol 16, Iss 7, p 2580 (2023)",
+      "raw_type": "article"
+    },
+    {
+      "id": "pmh:oai:mdpi.com:/1996-1944/16/7/2580/",
+      "is_oa": true,
+      "landing_page_url": "https://dx.doi.org/10.3390/ma16072580",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306400947",
+        "display_name": "MDPI (MDPI AG)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I4210097602",
+        "host_organization_name": "Multidisciplinary Digital Publishing Institute (Switzerland)",
+        "host_organization_lineage": [
+          "https://openalex.org/I4210097602"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Materials; Volume 16; Issue 7; Pages: 2580",
+      "raw_type": "Text"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.3390/ma16072580",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.3390/ma16072580",
+    "pdf_url": "https://www.mdpi.com/1996-1944/16/7/2580/pdf?version=1679971198",
+    "source": {
+      "id": "https://openalex.org/S18714766",
+      "display_name": "Materials",
+      "issn_l": "1996-1944",
+      "issn": [
+        "1996-1944"
+      ],
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310310987",
+      "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310310987"
+      ],
+      "host_organization_lineage_names": [
+        "Multidisciplinary Digital Publishing Institute"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Materials",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "grobid_xml": true,
+    "pdf": true
+  },
+  "referenced_works_count": 64,
+  "referenced_works": [
+    "https://openalex.org/W3000603055",
+    "https://openalex.org/W4200247705",
+    "https://openalex.org/W2155384808",
+    "https://openalex.org/W2171524637",
+    "https://openalex.org/W2997271239",
+    "https://openalex.org/W2089257078",
+    "https://openalex.org/W2604388273",
+    "https://openalex.org/W2765631041",
+    "https://openalex.org/W2394630575",
+    "https://openalex.org/W2990409567",
+    "https://openalex.org/W4281654026",
+    "https://openalex.org/W4323294427",
+    "https://openalex.org/W4280512285",
+    "https://openalex.org/W2144591044",
+    "https://openalex.org/W4220844584",
+    "https://openalex.org/W2415694937",
+    "https://openalex.org/W2730408755",
+    "https://openalex.org/W2736646821",
+    "https://openalex.org/W6718001670",
+    "https://openalex.org/W4214559553",
+    "https://openalex.org/W4214615958",
+    "https://openalex.org/W2111205465",
+    "https://openalex.org/W4282924826",
+    "https://openalex.org/W3144543375",
+    "https://openalex.org/W4307454498",
+    "https://openalex.org/W2808974852",
+    "https://openalex.org/W2735619549",
+    "https://openalex.org/W2037608040",
+    "https://openalex.org/W6715774912",
+    "https://openalex.org/W2005329934",
+    "https://openalex.org/W2790049667",
+    "https://openalex.org/W3049799149",
+    "https://openalex.org/W2191053955",
+    "https://openalex.org/W6644466356",
+    "https://openalex.org/W3011030273",
+    "https://openalex.org/W2941959189",
+    "https://openalex.org/W4289538567",
+    "https://openalex.org/W2809478135",
+    "https://openalex.org/W2042387957",
+    "https://openalex.org/W2742295466",
+    "https://openalex.org/W3203145546",
+    "https://openalex.org/W6810868901",
+    "https://openalex.org/W2076873280",
+    "https://openalex.org/W2427014356",
+    "https://openalex.org/W6712026114",
+    "https://openalex.org/W2075823263",
+    "https://openalex.org/W2413562516",
+    "https://openalex.org/W2412323911",
+    "https://openalex.org/W3001751430",
+    "https://openalex.org/W4285115394",
+    "https://openalex.org/W1630427731",
+    "https://openalex.org/W2769425801",
+    "https://openalex.org/W6715375421",
+    "https://openalex.org/W2914176971",
+    "https://openalex.org/W2984458982",
+    "https://openalex.org/W1985833985",
+    "https://openalex.org/W4313412559",
+    "https://openalex.org/W4220994757",
+    "https://openalex.org/W4226070192",
+    "https://openalex.org/W2108836663",
+    "https://openalex.org/W4226082243",
+    "https://openalex.org/W2040385059",
+    "https://openalex.org/W4210670182",
+    "https://openalex.org/W1977584184"
+  ],
+  "related_works": [
+    "https://openalex.org/W2146848393",
+    "https://openalex.org/W1973515071",
+    "https://openalex.org/W2045527640",
+    "https://openalex.org/W4388566509",
+    "https://openalex.org/W2170325754",
+    "https://openalex.org/W4312194701",
+    "https://openalex.org/W2366621090",
+    "https://openalex.org/W2239797455",
+    "https://openalex.org/W2405807925",
+    "https://openalex.org/W2005700634"
+  ],
+  "abstract_inverted_index": {
+    "Head": [
+      0
+    ],
+    "and": [
+      1,
+      65,
+      80,
+      111,
+      126,
+      133,
+      139,
+      187,
+      194,
+      203
+    ],
+    "neck": [
+      2,
+      112
+    ],
+    "cancers": [
+      3
+    ],
+    "are": [
+      4
+    ],
+    "a": [
+      5,
+      14,
+      27,
+      144
+    ],
+    "significant": [
+      6,
+      145
+    ],
+    "global": [
+      7
+    ],
+    "health": [
+      8
+    ],
+    "burden,": [
+      9
+    ],
+    "with": [
+      10,
+      56,
+      92,
+      136
+    ],
+    "radiation": [
+      11
+    ],
+    "therapy": [
+      12
+    ],
+    "being": [
+      13
+    ],
+    "frequently": [
+      15
+    ],
+    "utilized": [
+      16
+    ],
+    "treatment.": [
+      17
+    ],
+    "The": [
+      18,
+      46,
+      86,
+      114,
+      157
+    ],
+    "aim": [
+      19
+    ],
+    "of": [
+      20,
+      30,
+      37,
+      43,
+      71,
+      77,
+      82,
+      109,
+      123,
+      141,
+      159,
+      164,
+      184,
+      200
+    ],
+    "this": [
+      21
+    ],
+    "systematic": [
+      22,
+      172
+    ],
+    "review": [
+      23,
+      173
+    ],
+    "was": [
+      24,
+      169
+    ],
+    "to": [
+      25,
+      101,
+      106,
+      205
+    ],
+    "provide": [
+      26
+    ],
+    "critical": [
+      28
+    ],
+    "appraisal": [
+      29
+    ],
+    "laboratory": [
+      31,
+      50,
+      195
+    ],
+    "studies": [
+      32,
+      51,
+      58,
+      94,
+      196
+    ],
+    "that": [
+      33,
+      117,
+      175
+    ],
+    "assessed": [
+      34
+    ],
+    "the": [
+      35,
+      40,
+      69,
+      120,
+      181,
+      189,
+      198
+    ],
+    "effect": [
+      36,
+      158
+    ],
+    "irradiation": [
+      38,
+      90,
+      102,
+      118,
+      142,
+      160,
+      176
+    ],
+    "on": [
+      39,
+      129,
+      147,
+      161,
+      180
+    ],
+    "adhesive": [
+      41,
+      148,
+      182,
+      201
+    ],
+    "performance": [
+      42,
+      183,
+      199
+    ],
+    "resin-based": [
+      44,
+      127,
+      166,
+      185
+    ],
+    "biomaterials.": [
+      45
+    ],
+    "analysis": [
+      47
+    ],
+    "included": [
+      48
+    ],
+    "23": [
+      49
+    ],
+    "obtained": [
+      52
+    ],
+    "from": [
+      53,
+      98
+    ],
+    "five": [
+      54
+    ],
+    "databases,": [
+      55
+    ],
+    "most": [
+      57,
+      93,
+      155
+    ],
+    "using": [
+      59,
+      103
+    ],
+    "human": [
+      60
+    ],
+    "enamel,": [
+      61
+    ],
+    "dentin,": [
+      62
+    ],
+    "or": [
+      63
+    ],
+    "both,": [
+      64
+    ],
+    "bonding": [
+      66,
+      76
+    ],
+    "procedures": [
+      67
+    ],
+    "involving": [
+      68
+    ],
+    "fabrication": [
+      70
+    ],
+    "direct": [
+      72,
+      165
+    ],
+    "restorations,": [
+      73
+    ],
+    "standardized": [
+      74
+    ],
+    "specimens,": [
+      75,
+      135
+    ],
+    "orthodontic": [
+      78
+    ],
+    "brackets,": [
+      79
+    ],
+    "luting": [
+      81
+    ],
+    "endodontic": [
+      83
+    ],
+    "fiber": [
+      84
+    ],
+    "posts.": [
+      85
+    ],
+    "protocols": [
+      87
+    ],
+    "used": [
+      88
+    ],
+    "for": [
+      89,
+      191
+    ],
+    "varied,": [
+      91
+    ],
+    "exposing": [
+      95
+    ],
+    "specimens": [
+      96
+    ],
+    "made": [
+      97
+    ],
+    "extracted": [
+      99
+    ],
+    "teeth": [
+      100
+    ],
+    "cabinet": [
+      104
+    ],
+    "irradiators": [
+      105
+    ],
+    "simulate": [
+      107
+    ],
+    "treatment": [
+      108
+    ],
+    "head": [
+      110
+    ],
+    "cancer.": [
+      113
+    ],
+    "findings": [
+      115
+    ],
+    "indicate": [
+      116
+    ],
+    "reduces": [
+      119
+    ],
+    "bond": [
+      121
+    ],
+    "strength": [
+      122
+    ],
+    "dental": [
+      124
+    ],
+    "adhesives": [
+      125,
+      138
+    ],
+    "composites": [
+      128
+    ],
+    "flat,": [
+      130
+    ],
+    "ground": [
+      131
+    ],
+    "enamel": [
+      132
+    ],
+    "dentin": [
+      134
+    ],
+    "different": [
+      137
+    ],
+    "timing": [
+      140
+    ],
+    "having": [
+      143
+    ],
+    "impact": [
+      146
+    ],
+    "performance.": [
+      149
+    ],
+    "Irradiation": [
+      150
+    ],
+    "also": [
+      151
+    ],
+    "increased": [
+      152
+    ],
+    "microleakage": [
+      153
+    ],
+    "in": [
+      154
+    ],
+    "studies.": [
+      156
+    ],
+    "marginal": [
+      162
+    ],
+    "adaptation": [
+      163
+    ],
+    "composite": [
+      167
+    ],
+    "restorations": [
+      168
+    ],
+    "inconclusive.": [
+      170
+    ],
+    "This": [
+      171
+    ],
+    "indicates": [
+      174
+    ],
+    "has": [
+      177
+    ],
+    "detrimental": [
+      178
+    ],
+    "effects": [
+      179
+    ],
+    "biomaterials": [
+      186
+    ],
+    "highlights": [
+      188
+    ],
+    "need": [
+      190
+    ],
+    "further": [
+      192
+    ],
+    "clinical": [
+      193
+    ],
+    "evaluating": [
+      197
+    ],
+    "materials": [
+      202
+    ],
+    "approaches": [
+      204
+    ],
+    "improve": [
+      206
+    ],
+    "it.": [
+      207
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 3
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 2
+    }
+  ],
+  "updated_date": "2025-11-06T03:46:38.306776",
+  "created_date": "2025-10-10T00:00:00"
+}

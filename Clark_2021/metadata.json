@@ -1,0 +1,15 @@
+{
+  "key": "Clark_2021",
+  "collection": {
+    "doi": "10.1017/rsm.2024.16"
+  },
+  "publication": {
+    "doi": "10.1044/2021_lshss-20-00123",
+    "eligibility_criteria": "Studies were included if they fit the inclusion criteria\nand were group studies, randomized controlled trials, single case experimental design studies, case series, and/or\nmultiple case studies. Inclusion criteria were (a) participants under age 18 years, (b) participants belonging to a\nclinical category (i.e., DLD, ASD, Down syndrome, dyslexia, intellectual disability, hearing impairment, or cerebral\npalsy), (c) outcomes that include word learning, (d) an experimental or quasi-experimental design, (e) publication in a peer-reviewed journal, and (f ) orthography as a manipulated condition. Given the small number of studies\nidentified, an attempt was made to search the gray literature (e.g., find conference presentations); however, no relevant studies were found so the a priori criteria to focus on\npeer-reviewed published studies was followed. Exclusion\ncriteria were (a) outcome measures solely targeting reading or spelling ability and (b) adult populations."
+  },
+  "data": {
+    "doi": "10.25340/R4/VB85L1",
+    "n_records": 801,
+    "n_records_included": 5
+  }
+}

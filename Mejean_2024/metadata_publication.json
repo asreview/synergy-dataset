@@ -1,0 +1,1132 @@
+{
+  "id": "https://openalex.org/W4393138782",
+  "doi": "https://doi.org/10.1088/1748-9326/ad376e",
+  "title": "Climate change impacts increase economic inequality: evidence from a systematic literature review",
+  "display_name": "Climate change impacts increase economic inequality: evidence from a systematic literature review",
+  "publication_year": 2024,
+  "publication_date": "2024-03-25",
+  "ids": {
+    "openalex": "https://openalex.org/W4393138782",
+    "doi": "https://doi.org/10.1088/1748-9326/ad376e"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1088/1748-9326/ad376e",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1088/1748-9326/ad376e",
+    "pdf_url": "https://iopscience.iop.org/article/10.1088/1748-9326/ad376e/pdf",
+    "source": {
+      "id": "https://openalex.org/S139338987",
+      "display_name": "Environmental Research Letters",
+      "issn_l": "1748-9326",
+      "issn": [
+        "1748-9326"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320083",
+      "host_organization_name": "IOP Publishing",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320083",
+        "https://openalex.org/P4310311669"
+      ],
+      "host_organization_lineage_names": [
+        "IOP Publishing",
+        "Institute of Physics"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Environmental Research Letters",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref",
+    "doaj"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "gold",
+    "oa_url": "https://iopscience.iop.org/article/10.1088/1748-9326/ad376e/pdf",
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5088027363",
+        "display_name": "Aur\u00e9lie M\u00e9jean",
+        "orcid": "https://orcid.org/0000-0003-2859-3613"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210103046",
+          "display_name": "Centre international de recherche sur l\u2019environnement et le d\u00e9veloppement",
+          "ror": "https://ror.org/01b436806",
+          "country_code": "FR",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I1294671590",
+            "https://openalex.org/I131077856",
+            "https://openalex.org/I142631665",
+            "https://openalex.org/I22248866",
+            "https://openalex.org/I277688954",
+            "https://openalex.org/I277688954",
+            "https://openalex.org/I4210103046",
+            "https://openalex.org/I4210145102",
+            "https://openalex.org/I90669466"
+          ]
+        }
+      ],
+      "countries": [
+        "FR"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Aur\u00e9lie M\u00e9jean",
+      "raw_affiliation_strings": [
+        "CNRS, CIRED, 45bis avenue de la Belle Gabrielle, Nogent-sur-Marne, 94736, FRANCE"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "CNRS, CIRED, 45bis avenue de la Belle Gabrielle, Nogent-sur-Marne, 94736, FRANCE",
+          "institution_ids": [
+            "https://openalex.org/I4210103046"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5011460579",
+        "display_name": "Peron A. Collins-Sowah",
+        "orcid": "https://orcid.org/0000-0003-0076-8477"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I60200437",
+          "display_name": "Potsdam Institute for Climate Impact Research",
+          "ror": "https://ror.org/03e8s1d88",
+          "country_code": "DE",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I315704651",
+            "https://openalex.org/I60200437"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Peron Collins-Sowah",
+      "raw_affiliation_strings": [
+        "Potsdam-Institut fur Klimafolgenforschung (PIK) e V, Telegrafenberg A 31, Potsdam, Brandenburg, 14473, GERMANY"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Potsdam-Institut fur Klimafolgenforschung (PIK) e V, Telegrafenberg A 31, Potsdam, Brandenburg, 14473, GERMANY",
+          "institution_ids": [
+            "https://openalex.org/I60200437"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5002022183",
+        "display_name": "C\u00e9line Guivarch",
+        "orcid": "https://orcid.org/0000-0002-9405-256X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210103046",
+          "display_name": "Centre international de recherche sur l\u2019environnement et le d\u00e9veloppement",
+          "ror": "https://ror.org/01b436806",
+          "country_code": "FR",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I1294671590",
+            "https://openalex.org/I131077856",
+            "https://openalex.org/I142631665",
+            "https://openalex.org/I22248866",
+            "https://openalex.org/I277688954",
+            "https://openalex.org/I277688954",
+            "https://openalex.org/I4210103046",
+            "https://openalex.org/I4210145102",
+            "https://openalex.org/I90669466"
+          ]
+        }
+      ],
+      "countries": [
+        "FR"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "C\u00e9line Guivarch",
+      "raw_affiliation_strings": [
+        "Centre International de Recherche sur l'Environnement et le Developpement, 45bis avenue de la Belle Gabrielle, Nogent sur Marne, Ile-de-France, 94736, FRANCE"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Centre International de Recherche sur l'Environnement et le Developpement, 45bis avenue de la Belle Gabrielle, Nogent sur Marne, Ile-de-France, 94736, FRANCE",
+          "institution_ids": [
+            "https://openalex.org/I4210103046"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5074755240",
+        "display_name": "Franziska Piontek",
+        "orcid": "https://orcid.org/0000-0003-4305-7552"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I60200437",
+          "display_name": "Potsdam Institute for Climate Impact Research",
+          "ror": "https://ror.org/03e8s1d88",
+          "country_code": "DE",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I315704651",
+            "https://openalex.org/I60200437"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Franziska Piontek",
+      "raw_affiliation_strings": [
+        "Potsdam-Institut fur Klimafolgenforschung eV, Telegrafenberg A 31, Potsdam, 14473, GERMANY"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Potsdam-Institut fur Klimafolgenforschung eV, Telegrafenberg A 31, Potsdam, 14473, GERMANY",
+          "institution_ids": [
+            "https://openalex.org/I60200437"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5084928459",
+        "display_name": "Bjoern Soergel",
+        "orcid": "https://orcid.org/0000-0002-2630-7081"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I60200437",
+          "display_name": "Potsdam Institute for Climate Impact Research",
+          "ror": "https://ror.org/03e8s1d88",
+          "country_code": "DE",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I315704651",
+            "https://openalex.org/I60200437"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Bjoern Soergel",
+      "raw_affiliation_strings": [
+        "Sustainable Solutions, Potsdam-Institut fur Klimafolgenforschung eV, Telegrafenberg A 31, Potsdam, 14473, GERMANY"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Sustainable Solutions, Potsdam-Institut fur Klimafolgenforschung eV, Telegrafenberg A 31, Potsdam, 14473, GERMANY",
+          "institution_ids": [
+            "https://openalex.org/I60200437"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5088696040",
+        "display_name": "Nicolas Taconet",
+        "orcid": "https://orcid.org/0000-0002-6512-4384"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210103046",
+          "display_name": "Centre international de recherche sur l\u2019environnement et le d\u00e9veloppement",
+          "ror": "https://ror.org/01b436806",
+          "country_code": "FR",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I1294671590",
+            "https://openalex.org/I131077856",
+            "https://openalex.org/I142631665",
+            "https://openalex.org/I22248866",
+            "https://openalex.org/I277688954",
+            "https://openalex.org/I277688954",
+            "https://openalex.org/I4210103046",
+            "https://openalex.org/I4210145102",
+            "https://openalex.org/I90669466"
+          ]
+        }
+      ],
+      "countries": [
+        "FR"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Nicolas Taconet",
+      "raw_affiliation_strings": [
+        "CIRED, 45bis avenue de la Belle Gabrielle, Nogent-sur-Marne, \u00cele-de-France, 94736, FRANCE"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "CIRED, 45bis avenue de la Belle Gabrielle, Nogent-sur-Marne, \u00cele-de-France, 94736, FRANCE",
+          "institution_ids": [
+            "https://openalex.org/I4210103046"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 2,
+  "institutions_distinct_count": 6,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5088027363"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I4210103046"
+  ],
+  "apc_list": {
+    "value": 1550,
+    "currency": "GBP",
+    "value_usd": 1901
+  },
+  "apc_paid": {
+    "value": 1550,
+    "currency": "GBP",
+    "value_usd": 1901
+  },
+  "fwci": 13.25213226,
+  "has_fulltext": false,
+  "cited_by_count": 19,
+  "citation_normalized_percentile": {
+    "value": 0.97853813,
+    "is_in_top_1_percent": true,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 98,
+    "max": 100
+  },
+  "biblio": {
+    "volume": "19",
+    "issue": "4",
+    "first_page": "043003",
+    "last_page": "043003"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T11886",
+    "display_name": "Agricultural risk and resilience",
+    "score": 0.9591000080108643,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1111",
+      "display_name": "Soil Science"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/11",
+      "display_name": "Agricultural and Biological Sciences"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/1",
+      "display_name": "Life Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T11886",
+      "display_name": "Agricultural risk and resilience",
+      "score": 0.9591000080108643,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1111",
+        "display_name": "Soil Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/11",
+        "display_name": "Agricultural and Biological Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12617",
+      "display_name": "Energy, Environment, and Transportation Policies",
+      "score": 0.9574999809265137,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2105",
+        "display_name": "Renewable Energy, Sustainability and the Environment"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/21",
+        "display_name": "Energy"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12781",
+      "display_name": "Global Health Care Issues",
+      "score": 0.953499972820282,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3600",
+        "display_name": "General Health Professions"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/36",
+        "display_name": "Health Professions"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/climate-change",
+      "display_name": "Climate change",
+      "score": 0.7100754976272583
+    },
+    {
+      "id": "https://openalex.org/keywords/inequality",
+      "display_name": "Inequality",
+      "score": 0.46938011050224304
+    },
+    {
+      "id": "https://openalex.org/keywords/natural-resource-economics",
+      "display_name": "Natural resource economics",
+      "score": 0.46304944157600403
+    },
+    {
+      "id": "https://openalex.org/keywords/systematic-review",
+      "display_name": "Systematic review",
+      "score": 0.46298280358314514
+    },
+    {
+      "id": "https://openalex.org/keywords/environmental-science",
+      "display_name": "Environmental science",
+      "score": 0.4326742887496948
+    },
+    {
+      "id": "https://openalex.org/keywords/economics",
+      "display_name": "Economics",
+      "score": 0.42605364322662354
+    },
+    {
+      "id": "https://openalex.org/keywords/political-science",
+      "display_name": "Political science",
+      "score": 0.183746337890625
+    },
+    {
+      "id": "https://openalex.org/keywords/medline",
+      "display_name": "MEDLINE",
+      "score": 0.16091975569725037
+    },
+    {
+      "id": "https://openalex.org/keywords/ecology",
+      "display_name": "Ecology",
+      "score": 0.1002596914768219
+    },
+    {
+      "id": "https://openalex.org/keywords/mathematics",
+      "display_name": "Mathematics",
+      "score": 0.07506489753723145
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C132651083",
+      "wikidata": "https://www.wikidata.org/wiki/Q7942",
+      "display_name": "Climate change",
+      "level": 2,
+      "score": 0.7100754976272583
+    },
+    {
+      "id": "https://openalex.org/C45555294",
+      "wikidata": "https://www.wikidata.org/wiki/Q28113351",
+      "display_name": "Inequality",
+      "level": 2,
+      "score": 0.46938011050224304
+    },
+    {
+      "id": "https://openalex.org/C175605778",
+      "wikidata": "https://www.wikidata.org/wiki/Q3299701",
+      "display_name": "Natural resource economics",
+      "level": 1,
+      "score": 0.46304944157600403
+    },
+    {
+      "id": "https://openalex.org/C189708586",
+      "wikidata": "https://www.wikidata.org/wiki/Q1504425",
+      "display_name": "Systematic review",
+      "level": 3,
+      "score": 0.46298280358314514
+    },
+    {
+      "id": "https://openalex.org/C39432304",
+      "wikidata": "https://www.wikidata.org/wiki/Q188847",
+      "display_name": "Environmental science",
+      "level": 0,
+      "score": 0.4326742887496948
+    },
+    {
+      "id": "https://openalex.org/C162324750",
+      "wikidata": "https://www.wikidata.org/wiki/Q8134",
+      "display_name": "Economics",
+      "level": 0,
+      "score": 0.42605364322662354
+    },
+    {
+      "id": "https://openalex.org/C17744445",
+      "wikidata": "https://www.wikidata.org/wiki/Q36442",
+      "display_name": "Political science",
+      "level": 0,
+      "score": 0.183746337890625
+    },
+    {
+      "id": "https://openalex.org/C2779473830",
+      "wikidata": "https://www.wikidata.org/wiki/Q1540899",
+      "display_name": "MEDLINE",
+      "level": 2,
+      "score": 0.16091975569725037
+    },
+    {
+      "id": "https://openalex.org/C18903297",
+      "wikidata": "https://www.wikidata.org/wiki/Q7150",
+      "display_name": "Ecology",
+      "level": 1,
+      "score": 0.1002596914768219
+    },
+    {
+      "id": "https://openalex.org/C33923547",
+      "wikidata": "https://www.wikidata.org/wiki/Q395",
+      "display_name": "Mathematics",
+      "level": 0,
+      "score": 0.07506489753723145
+    },
+    {
+      "id": "https://openalex.org/C134306372",
+      "wikidata": "https://www.wikidata.org/wiki/Q7754",
+      "display_name": "Mathematical analysis",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C86803240",
+      "wikidata": "https://www.wikidata.org/wiki/Q420",
+      "display_name": "Biology",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C199539241",
+      "wikidata": "https://www.wikidata.org/wiki/Q7748",
+      "display_name": "Law",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 3,
+  "locations": [
+    {
+      "id": "doi:10.1088/1748-9326/ad376e",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1088/1748-9326/ad376e",
+      "pdf_url": "https://iopscience.iop.org/article/10.1088/1748-9326/ad376e/pdf",
+      "source": {
+        "id": "https://openalex.org/S139338987",
+        "display_name": "Environmental Research Letters",
+        "issn_l": "1748-9326",
+        "issn": [
+          "1748-9326"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320083",
+        "host_organization_name": "IOP Publishing",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320083",
+          "https://openalex.org/P4310311669"
+        ],
+        "host_organization_lineage_names": [
+          "IOP Publishing",
+          "Institute of Physics"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Environmental Research Letters",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmh:oai:HAL:hal-04637031v1",
+      "is_oa": true,
+      "landing_page_url": "https://hal.science/hal-04637031",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306402512",
+        "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1294671590",
+        "host_organization_name": "Centre National de la Recherche Scientifique",
+        "host_organization_lineage": [
+          "https://openalex.org/I1294671590"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Environmental Research Letters, 2024, 19 (4), pp.043003. &#x27E8;10.1088/1748-9326/ad376e&#x27E9;",
+      "raw_type": "Journal articles"
+    },
+    {
+      "id": "pmh:oai:doaj.org/article:d877cdbb7d914bc3b0daeb512450fdf4",
+      "is_oa": false,
+      "landing_page_url": "https://doaj.org/article/d877cdbb7d914bc3b0daeb512450fdf4",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401280",
+        "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Environmental Research Letters, Vol 19, Iss 4, p 043003 (2024)",
+      "raw_type": "article"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1088/1748-9326/ad376e",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1088/1748-9326/ad376e",
+    "pdf_url": "https://iopscience.iop.org/article/10.1088/1748-9326/ad376e/pdf",
+    "source": {
+      "id": "https://openalex.org/S139338987",
+      "display_name": "Environmental Research Letters",
+      "issn_l": "1748-9326",
+      "issn": [
+        "1748-9326"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320083",
+      "host_organization_name": "IOP Publishing",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320083",
+        "https://openalex.org/P4310311669"
+      ],
+      "host_organization_lineage_names": [
+        "IOP Publishing",
+        "Institute of Physics"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Environmental Research Letters",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "grobid_xml": false,
+    "pdf": true
+  },
+  "referenced_works_count": 50,
+  "referenced_works": [
+    "https://openalex.org/W6634216228",
+    "https://openalex.org/W6768697731",
+    "https://openalex.org/W2562670863",
+    "https://openalex.org/W3007941309",
+    "https://openalex.org/W6855177584",
+    "https://openalex.org/W3167785258",
+    "https://openalex.org/W1997256928",
+    "https://openalex.org/W2784284591",
+    "https://openalex.org/W4285992060",
+    "https://openalex.org/W3019465255",
+    "https://openalex.org/W4309079147",
+    "https://openalex.org/W3166244113",
+    "https://openalex.org/W3125505924",
+    "https://openalex.org/W6892581521",
+    "https://openalex.org/W3216113712",
+    "https://openalex.org/W2905345415",
+    "https://openalex.org/W3187000522",
+    "https://openalex.org/W4229445397",
+    "https://openalex.org/W2181807383",
+    "https://openalex.org/W6728490268",
+    "https://openalex.org/W2043523796",
+    "https://openalex.org/W1678509351",
+    "https://openalex.org/W6682799867",
+    "https://openalex.org/W2530597942",
+    "https://openalex.org/W2538902588",
+    "https://openalex.org/W2116632955",
+    "https://openalex.org/W2807857486",
+    "https://openalex.org/W2887281932",
+    "https://openalex.org/W2190664777",
+    "https://openalex.org/W3118583549",
+    "https://openalex.org/W4229014196",
+    "https://openalex.org/W2774729542",
+    "https://openalex.org/W4281833437",
+    "https://openalex.org/W4205583000",
+    "https://openalex.org/W4206763858",
+    "https://openalex.org/W3137566707",
+    "https://openalex.org/W2337940438",
+    "https://openalex.org/W2047117206",
+    "https://openalex.org/W2782523300",
+    "https://openalex.org/W4292675449",
+    "https://openalex.org/W2604319158",
+    "https://openalex.org/W2147373553",
+    "https://openalex.org/W2226292999",
+    "https://openalex.org/W1585227707",
+    "https://openalex.org/W3181294875",
+    "https://openalex.org/W3094411645",
+    "https://openalex.org/W4385118605",
+    "https://openalex.org/W2978328895",
+    "https://openalex.org/W1568714696",
+    "https://openalex.org/W2155465754"
+  ],
+  "related_works": [
+    "https://openalex.org/W4391375266",
+    "https://openalex.org/W2395691387",
+    "https://openalex.org/W2792383399",
+    "https://openalex.org/W3024289321",
+    "https://openalex.org/W2766255174",
+    "https://openalex.org/W1502198272",
+    "https://openalex.org/W3194840763",
+    "https://openalex.org/W2118699598",
+    "https://openalex.org/W3124384296",
+    "https://openalex.org/W3122646731"
+  ],
+  "abstract_inverted_index": {
+    "Abstract": [
+      0
+    ],
+    "While": [
+      1,
+      110
+    ],
+    "it": [
+      2
+    ],
+    "is": [
+      3,
+      80
+    ],
+    "widely": [
+      4
+    ],
+    "assumed": [
+      5
+    ],
+    "that": [
+      6,
+      16,
+      57,
+      149
+    ],
+    "poor": [
+      7
+    ],
+    "countries": [
+      8,
+      74
+    ],
+    "will": [
+      9,
+      19
+    ],
+    "suffer": [
+      10
+    ],
+    "more": [
+      11
+    ],
+    "from": [
+      12,
+      45,
+      49
+    ],
+    "climate": [
+      13,
+      17,
+      58,
+      105,
+      130
+    ],
+    "change,": [
+      14
+    ],
+    "and": [
+      15,
+      25,
+      41,
+      65,
+      72,
+      95,
+      116,
+      132
+    ],
+    "change": [
+      18,
+      59,
+      106,
+      131
+    ],
+    "exacerbate": [
+      20
+    ],
+    "inequalities": [
+      21
+    ],
+    "within": [
+      22,
+      73
+    ],
+    "countries,": [
+      23
+    ],
+    "systematic": [
+      24,
+      36,
+      141
+    ],
+    "large-scale": [
+      26
+    ],
+    "evidence": [
+      27,
+      44,
+      56
+    ],
+    "on": [
+      28,
+      75
+    ],
+    "this": [
+      29,
+      35
+    ],
+    "issue": [
+      30
+    ],
+    "has": [
+      31
+    ],
+    "been": [
+      32
+    ],
+    "limited.": [
+      33
+    ],
+    "In": [
+      34
+    ],
+    "literature": [
+      37,
+      121
+    ],
+    "review,": [
+      38
+    ],
+    "we": [
+      39,
+      53,
+      99
+    ],
+    "examine": [
+      40
+    ],
+    "synthesize": [
+      42
+    ],
+    "the": [
+      43,
+      46,
+      68,
+      101,
+      111,
+      119
+    ],
+    "literature.": [
+      47
+    ],
+    "Drawing": [
+      48
+    ],
+    "127": [
+      50
+    ],
+    "individual": [
+      51
+    ],
+    "papers,": [
+      52
+    ],
+    "find": [
+      54
+    ],
+    "robust": [
+      55
+    ],
+    "impacts": [
+      60
+    ],
+    "indeed": [
+      61
+    ],
+    "increase": [
+      62
+    ],
+    "economic": [
+      63,
+      91,
+      93,
+      108,
+      133
+    ],
+    "inequality": [
+      64,
+      134
+    ],
+    "disproportionately": [
+      66
+    ],
+    "affect": [
+      67
+    ],
+    "poor,": [
+      69
+    ],
+    "both": [
+      70
+    ],
+    "globally": [
+      71
+    ],
+    "all": [
+      76
+    ],
+    "continents.": [
+      77
+    ],
+    "This": [
+      78
+    ],
+    "result": [
+      79
+    ],
+    "valid": [
+      81
+    ],
+    "across": [
+      82
+    ],
+    "a": [
+      83,
+      125
+    ],
+    "wide": [
+      84
+    ],
+    "range": [
+      85
+    ],
+    "of": [
+      86,
+      90,
+      113
+    ],
+    "physical": [
+      87
+    ],
+    "impacts,": [
+      88
+    ],
+    "types": [
+      89
+    ],
+    "inequality,": [
+      92
+    ],
+    "sectors,": [
+      94
+    ],
+    "assessment": [
+      96
+    ],
+    "methods.": [
+      97
+    ],
+    "Furthermore,": [
+      98
+    ],
+    "highlight": [
+      100
+    ],
+    "channels": [
+      102
+    ],
+    "through": [
+      103
+    ],
+    "which": [
+      104
+    ],
+    "increases": [
+      107
+    ],
+    "inequality.": [
+      109
+    ],
+    "diversity": [
+      112
+    ],
+    "different": [
+      114
+    ],
+    "approaches": [
+      115
+    ],
+    "metrics": [
+      117
+    ],
+    "in": [
+      118,
+      137,
+      148
+    ],
+    "existing": [
+      120
+    ],
+    "base": [
+      122
+    ],
+    "precludes": [
+      123
+    ],
+    "extracting": [
+      124
+    ],
+    "universal": [
+      126
+    ],
+    "quantitative": [
+      127
+    ],
+    "relation": [
+      128
+    ],
+    "between": [
+      129
+    ],
+    "for": [
+      135
+    ],
+    "use": [
+      136
+    ],
+    "future": [
+      138
+    ],
+    "modelling,": [
+      139
+    ],
+    "our": [
+      140
+    ],
+    "analysis": [
+      142
+    ],
+    "provides": [
+      143
+    ],
+    "an": [
+      144
+    ],
+    "important": [
+      145
+    ],
+    "stepping": [
+      146
+    ],
+    "stone": [
+      147
+    ],
+    "direction.": [
+      150
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 14
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 5
+    }
+  ],
+  "updated_date": "2025-11-06T03:46:38.306776",
+  "created_date": "2025-10-10T00:00:00"
+}

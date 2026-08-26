@@ -1,0 +1,1308 @@
+{
+  "id": "https://openalex.org/W4200017961",
+  "doi": "https://doi.org/10.1002/ecs2.3860",
+  "title": "Climate change impacts on ecosystems and adaptation options in nine countries in southern Africa: What do we know?",
+  "display_name": "Climate change impacts on ecosystems and adaptation options in nine countries in southern Africa: What do we know?",
+  "publication_year": 2021,
+  "publication_date": "2021-12-01",
+  "ids": {
+    "openalex": "https://openalex.org/W4200017961",
+    "doi": "https://doi.org/10.1002/ecs2.3860"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1002/ecs2.3860",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1002/ecs2.3860",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S98723585",
+      "display_name": "Ecosphere",
+      "issn_l": "2150-8925",
+      "issn": [
+        "2150-8925"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320595",
+      "host_organization_name": "Wiley",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320595"
+      ],
+      "host_organization_lineage_names": [
+        "Wiley"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Ecosphere",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref",
+    "doaj"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "gold",
+    "oa_url": "https://doi.org/10.1002/ecs2.3860",
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5021388614",
+        "display_name": "Alpo Kapuka",
+        "orcid": "https://orcid.org/0000-0003-1522-3509"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I205984670",
+          "display_name": "Czech University of Life Sciences Prague",
+          "ror": "https://ror.org/0415vcw02",
+          "country_code": "CZ",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I205984670"
+          ]
+        }
+      ],
+      "countries": [
+        "CZ"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Alpo Kapuka",
+      "raw_affiliation_strings": [
+        "Czech University of Life Sciences Prague, Faculty of Forestry and Wood Sciences Kam\u00fdck\u00e1 129 Prague 6 \u2010 Suchdol 165 00 Czech Republic"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Czech University of Life Sciences Prague, Faculty of Forestry and Wood Sciences Kam\u00fdck\u00e1 129 Prague 6 \u2010 Suchdol 165 00 Czech Republic",
+          "institution_ids": [
+            "https://openalex.org/I205984670"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5041131365",
+        "display_name": "Tom\u00e1\u0161 Hl\u00e1sny",
+        "orcid": "https://orcid.org/0000-0001-9771-7435"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I205984670",
+          "display_name": "Czech University of Life Sciences Prague",
+          "ror": "https://ror.org/0415vcw02",
+          "country_code": "CZ",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I205984670"
+          ]
+        }
+      ],
+      "countries": [
+        "CZ"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Tom\u00e1\u0161 Hl\u00e1sny",
+      "raw_affiliation_strings": [
+        "Czech University of Life Sciences Prague, Faculty of Forestry and Wood Sciences Kam\u00fdck\u00e1 129 Prague 6 \u2010 Suchdol 165 00 Czech Republic"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Czech University of Life Sciences Prague, Faculty of Forestry and Wood Sciences Kam\u00fdck\u00e1 129 Prague 6 \u2010 Suchdol 165 00 Czech Republic",
+          "institution_ids": [
+            "https://openalex.org/I205984670"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 2,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5041131365"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I205984670"
+  ],
+  "apc_list": {
+    "value": 1550,
+    "currency": "EUR",
+    "value_usd": 1925
+  },
+  "apc_paid": {
+    "value": 1550,
+    "currency": "EUR",
+    "value_usd": 1925
+  },
+  "fwci": 1.1696941,
+  "has_fulltext": false,
+  "cited_by_count": 21,
+  "citation_normalized_percentile": {
+    "value": 0.90271679,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 96,
+    "max": 99
+  },
+  "biblio": {
+    "volume": "12",
+    "issue": "12",
+    "first_page": null,
+    "last_page": null
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10895",
+    "display_name": "Species Distribution and Climate Change",
+    "score": 0.9997000098228455,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2302",
+      "display_name": "Ecological Modeling"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/23",
+      "display_name": "Environmental Science"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10895",
+      "display_name": "Species Distribution and Climate Change",
+      "score": 0.9997000098228455,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2302",
+        "display_name": "Ecological Modeling"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10005",
+      "display_name": "Ecology and Vegetation Dynamics Studies",
+      "score": 0.9991999864578247,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2309",
+        "display_name": "Nature and Landscape Conservation"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10199",
+      "display_name": "Wildlife Ecology and Conservation",
+      "score": 0.9965999722480774,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2303",
+        "display_name": "Ecology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/threatened-species",
+      "display_name": "Threatened species",
+      "score": 0.7074933052062988
+    },
+    {
+      "id": "https://openalex.org/keywords/climate-change",
+      "display_name": "Climate change",
+      "score": 0.6782128810882568
+    },
+    {
+      "id": "https://openalex.org/keywords/environmental-resource-management",
+      "display_name": "Environmental resource management",
+      "score": 0.6690682172775269
+    },
+    {
+      "id": "https://openalex.org/keywords/biodiversity",
+      "display_name": "Biodiversity",
+      "score": 0.6174132823944092
+    },
+    {
+      "id": "https://openalex.org/keywords/ecosystem",
+      "display_name": "Ecosystem",
+      "score": 0.5823407173156738
+    },
+    {
+      "id": "https://openalex.org/keywords/geography",
+      "display_name": "Geography",
+      "score": 0.48072412610054016
+    },
+    {
+      "id": "https://openalex.org/keywords/environmental-planning",
+      "display_name": "Environmental planning",
+      "score": 0.4577670395374298
+    },
+    {
+      "id": "https://openalex.org/keywords/novel-ecosystem",
+      "display_name": "Novel ecosystem",
+      "score": 0.4484420716762543
+    },
+    {
+      "id": "https://openalex.org/keywords/variety",
+      "display_name": "Variety (cybernetics)",
+      "score": 0.4290877878665924
+    },
+    {
+      "id": "https://openalex.org/keywords/adaptive-management",
+      "display_name": "Adaptive management",
+      "score": 0.4286341667175293
+    },
+    {
+      "id": "https://openalex.org/keywords/extinction",
+      "display_name": "Extinction (optical mineralogy)",
+      "score": 0.42181068658828735
+    },
+    {
+      "id": "https://openalex.org/keywords/ecosystem-services",
+      "display_name": "Ecosystem services",
+      "score": 0.4120194613933563
+    },
+    {
+      "id": "https://openalex.org/keywords/ecology",
+      "display_name": "Ecology",
+      "score": 0.39987000823020935
+    },
+    {
+      "id": "https://openalex.org/keywords/environmental-science",
+      "display_name": "Environmental science",
+      "score": 0.2085651159286499
+    },
+    {
+      "id": "https://openalex.org/keywords/habitat",
+      "display_name": "Habitat",
+      "score": 0.15152770280838013
+    },
+    {
+      "id": "https://openalex.org/keywords/biology",
+      "display_name": "Biology",
+      "score": 0.13816305994987488
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C24518262",
+      "wikidata": "https://www.wikidata.org/wiki/Q16197023",
+      "display_name": "Threatened species",
+      "level": 3,
+      "score": 0.7074933052062988
+    },
+    {
+      "id": "https://openalex.org/C132651083",
+      "wikidata": "https://www.wikidata.org/wiki/Q7942",
+      "display_name": "Climate change",
+      "level": 2,
+      "score": 0.6782128810882568
+    },
+    {
+      "id": "https://openalex.org/C107826830",
+      "wikidata": "https://www.wikidata.org/wiki/Q929380",
+      "display_name": "Environmental resource management",
+      "level": 1,
+      "score": 0.6690682172775269
+    },
+    {
+      "id": "https://openalex.org/C130217890",
+      "wikidata": "https://www.wikidata.org/wiki/Q47041",
+      "display_name": "Biodiversity",
+      "level": 2,
+      "score": 0.6174132823944092
+    },
+    {
+      "id": "https://openalex.org/C110872660",
+      "wikidata": "https://www.wikidata.org/wiki/Q37813",
+      "display_name": "Ecosystem",
+      "level": 2,
+      "score": 0.5823407173156738
+    },
+    {
+      "id": "https://openalex.org/C205649164",
+      "wikidata": "https://www.wikidata.org/wiki/Q1071",
+      "display_name": "Geography",
+      "level": 0,
+      "score": 0.48072412610054016
+    },
+    {
+      "id": "https://openalex.org/C91375879",
+      "wikidata": "https://www.wikidata.org/wiki/Q15473274",
+      "display_name": "Environmental planning",
+      "level": 1,
+      "score": 0.4577670395374298
+    },
+    {
+      "id": "https://openalex.org/C180440007",
+      "wikidata": "https://www.wikidata.org/wiki/Q7064541",
+      "display_name": "Novel ecosystem",
+      "level": 3,
+      "score": 0.4484420716762543
+    },
+    {
+      "id": "https://openalex.org/C136197465",
+      "wikidata": "https://www.wikidata.org/wiki/Q1729295",
+      "display_name": "Variety (cybernetics)",
+      "level": 2,
+      "score": 0.4290877878665924
+    },
+    {
+      "id": "https://openalex.org/C2775917145",
+      "wikidata": "https://www.wikidata.org/wiki/Q4680750",
+      "display_name": "Adaptive management",
+      "level": 2,
+      "score": 0.4286341667175293
+    },
+    {
+      "id": "https://openalex.org/C101991246",
+      "wikidata": "https://www.wikidata.org/wiki/Q5422078",
+      "display_name": "Extinction (optical mineralogy)",
+      "level": 2,
+      "score": 0.42181068658828735
+    },
+    {
+      "id": "https://openalex.org/C58941895",
+      "wikidata": "https://www.wikidata.org/wiki/Q295865",
+      "display_name": "Ecosystem services",
+      "level": 3,
+      "score": 0.4120194613933563
+    },
+    {
+      "id": "https://openalex.org/C18903297",
+      "wikidata": "https://www.wikidata.org/wiki/Q7150",
+      "display_name": "Ecology",
+      "level": 1,
+      "score": 0.39987000823020935
+    },
+    {
+      "id": "https://openalex.org/C39432304",
+      "wikidata": "https://www.wikidata.org/wiki/Q188847",
+      "display_name": "Environmental science",
+      "level": 0,
+      "score": 0.2085651159286499
+    },
+    {
+      "id": "https://openalex.org/C185933670",
+      "wikidata": "https://www.wikidata.org/wiki/Q52105",
+      "display_name": "Habitat",
+      "level": 2,
+      "score": 0.15152770280838013
+    },
+    {
+      "id": "https://openalex.org/C86803240",
+      "wikidata": "https://www.wikidata.org/wiki/Q420",
+      "display_name": "Biology",
+      "level": 0,
+      "score": 0.13816305994987488
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C154945302",
+      "wikidata": "https://www.wikidata.org/wiki/Q11660",
+      "display_name": "Artificial intelligence",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C151730666",
+      "wikidata": "https://www.wikidata.org/wiki/Q7205",
+      "display_name": "Paleontology",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 2,
+  "locations": [
+    {
+      "id": "doi:10.1002/ecs2.3860",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1002/ecs2.3860",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S98723585",
+        "display_name": "Ecosphere",
+        "issn_l": "2150-8925",
+        "issn": [
+          "2150-8925"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320595",
+        "host_organization_name": "Wiley",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320595"
+        ],
+        "host_organization_lineage_names": [
+          "Wiley"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Ecosphere",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmh:oai:doaj.org/article:cbc379eb45c24cd097f0ed324d520c43",
+      "is_oa": true,
+      "landing_page_url": "https://doaj.org/article/cbc379eb45c24cd097f0ed324d520c43",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401280",
+        "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by-sa",
+      "license_id": "https://openalex.org/licenses/cc-by-sa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Ecosphere, Vol 12, Iss 12, Pp n/a-n/a (2021)",
+      "raw_type": "article"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1002/ecs2.3860",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1002/ecs2.3860",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S98723585",
+      "display_name": "Ecosphere",
+      "issn_l": "2150-8925",
+      "issn": [
+        "2150-8925"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320595",
+      "host_organization_name": "Wiley",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320595"
+      ],
+      "host_organization_lineage_names": [
+        "Wiley"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Ecosphere",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [
+    {
+      "display_name": "Life in Land",
+      "score": 0.4399999976158142,
+      "id": "https://metadata.un.org/sdg/15"
+    }
+  ],
+  "awards": [
+    {
+      "id": "https://openalex.org/G172888814",
+      "display_name": null,
+      "funder_award_id": "CZ.02.1.01/0.0/0.0/16_019/0000",
+      "funder_id": "https://openalex.org/F4320321005",
+      "funder_display_name": "Ministerstvo \u0160kolstv\u00ed, Ml\u00e1de\u017ee a T\u011blov\u00fdchovy"
+    },
+    {
+      "id": "https://openalex.org/G1239465997",
+      "display_name": null,
+      "funder_award_id": "OPRDE",
+      "funder_id": "https://openalex.org/F4320321005",
+      "funder_display_name": "Ministerstvo \u0160kolstv\u00ed, Ml\u00e1de\u017ee a T\u011blov\u00fdchovy"
+    },
+    {
+      "id": "https://openalex.org/G4875063589",
+      "display_name": null,
+      "funder_award_id": "\"EVA4.0\"",
+      "funder_id": "https://openalex.org/F4320321005",
+      "funder_display_name": "Ministerstvo \u0160kolstv\u00ed, Ml\u00e1de\u017ee a T\u011blov\u00fdchovy"
+    }
+  ],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320321005",
+      "display_name": "Ministerstvo \u0160kolstv\u00ed, Ml\u00e1de\u017ee a T\u011blov\u00fdchovy",
+      "ror": "https://ror.org/037n8p820"
+    }
+  ],
+  "has_content": {
+    "pdf": false,
+    "grobid_xml": false
+  },
+  "referenced_works_count": 108,
+  "referenced_works": [
+    "https://openalex.org/W2093127724",
+    "https://openalex.org/W1951564719",
+    "https://openalex.org/W2055384269",
+    "https://openalex.org/W2113582726",
+    "https://openalex.org/W2601889861",
+    "https://openalex.org/W2072605297",
+    "https://openalex.org/W3048934836",
+    "https://openalex.org/W1987641213",
+    "https://openalex.org/W2005660293",
+    "https://openalex.org/W2144769052",
+    "https://openalex.org/W2154433795",
+    "https://openalex.org/W2894615420",
+    "https://openalex.org/W3017782772",
+    "https://openalex.org/W2039591565",
+    "https://openalex.org/W2886501194",
+    "https://openalex.org/W1994169406",
+    "https://openalex.org/W2138324625",
+    "https://openalex.org/W2037085682",
+    "https://openalex.org/W2774587119",
+    "https://openalex.org/W2570329023",
+    "https://openalex.org/W1972340678",
+    "https://openalex.org/W3092647363",
+    "https://openalex.org/W2105659061",
+    "https://openalex.org/W2028935872",
+    "https://openalex.org/W3097259428",
+    "https://openalex.org/W2039806658",
+    "https://openalex.org/W2566452311",
+    "https://openalex.org/W2052080448",
+    "https://openalex.org/W3014480162",
+    "https://openalex.org/W2165301409",
+    "https://openalex.org/W2810169612",
+    "https://openalex.org/W1976438223",
+    "https://openalex.org/W2113762263",
+    "https://openalex.org/W2009442830",
+    "https://openalex.org/W2936006898",
+    "https://openalex.org/W2797669268",
+    "https://openalex.org/W2138605014",
+    "https://openalex.org/W2060915688",
+    "https://openalex.org/W2767014843",
+    "https://openalex.org/W2498808420",
+    "https://openalex.org/W2787966898",
+    "https://openalex.org/W2137947512",
+    "https://openalex.org/W2807951559",
+    "https://openalex.org/W2974545260",
+    "https://openalex.org/W2605479890",
+    "https://openalex.org/W1840334945",
+    "https://openalex.org/W3087138237",
+    "https://openalex.org/W2999177517",
+    "https://openalex.org/W3082467793",
+    "https://openalex.org/W2487451717",
+    "https://openalex.org/W2411881004",
+    "https://openalex.org/W2110325406",
+    "https://openalex.org/W2085705288",
+    "https://openalex.org/W2808836827",
+    "https://openalex.org/W2084014490",
+    "https://openalex.org/W1978172376",
+    "https://openalex.org/W2989739663",
+    "https://openalex.org/W2123220132",
+    "https://openalex.org/W2131720988",
+    "https://openalex.org/W3001949784",
+    "https://openalex.org/W3087394861",
+    "https://openalex.org/W3083424950",
+    "https://openalex.org/W2143221836",
+    "https://openalex.org/W2611754963",
+    "https://openalex.org/W1968640136",
+    "https://openalex.org/W4294215472",
+    "https://openalex.org/W2808174141",
+    "https://openalex.org/W3015160029",
+    "https://openalex.org/W2829577346",
+    "https://openalex.org/W2093091643",
+    "https://openalex.org/W3129371263",
+    "https://openalex.org/W2802050897",
+    "https://openalex.org/W3013670223",
+    "https://openalex.org/W2807011459",
+    "https://openalex.org/W2594681306",
+    "https://openalex.org/W2598701004",
+    "https://openalex.org/W2161139387",
+    "https://openalex.org/W2113893564",
+    "https://openalex.org/W1519181149",
+    "https://openalex.org/W2766461291",
+    "https://openalex.org/W2488227122",
+    "https://openalex.org/W2475886832",
+    "https://openalex.org/W1999671022",
+    "https://openalex.org/W967476467",
+    "https://openalex.org/W2586120410",
+    "https://openalex.org/W2038030759",
+    "https://openalex.org/W2168226629",
+    "https://openalex.org/W2907670214",
+    "https://openalex.org/W2896025240",
+    "https://openalex.org/W3082228091",
+    "https://openalex.org/W2143663836",
+    "https://openalex.org/W2788843768",
+    "https://openalex.org/W2046501037",
+    "https://openalex.org/W2107473566",
+    "https://openalex.org/W2078421439",
+    "https://openalex.org/W2969484761",
+    "https://openalex.org/W2766316242",
+    "https://openalex.org/W2145638163",
+    "https://openalex.org/W2780672488",
+    "https://openalex.org/W2521108041",
+    "https://openalex.org/W2789825832",
+    "https://openalex.org/W2741660167",
+    "https://openalex.org/W2796009603",
+    "https://openalex.org/W2144139018",
+    "https://openalex.org/W2160016187",
+    "https://openalex.org/W2957648619",
+    "https://openalex.org/W3004377517",
+    "https://openalex.org/W2519111412"
+  ],
+  "related_works": [
+    "https://openalex.org/W2358472149",
+    "https://openalex.org/W1972027241",
+    "https://openalex.org/W3016556954",
+    "https://openalex.org/W2752541426",
+    "https://openalex.org/W2191785941",
+    "https://openalex.org/W3208781921",
+    "https://openalex.org/W2495080308",
+    "https://openalex.org/W3204904105",
+    "https://openalex.org/W137710656",
+    "https://openalex.org/W1555497647"
+  ],
+  "abstract_inverted_index": {
+    "Abstract": [
+      0
+    ],
+    "Southern": [
+      1
+    ],
+    "Africa": [
+      2
+    ],
+    "harbors": [
+      3
+    ],
+    "exceptional": [
+      4
+    ],
+    "biodiversity": [
+      5
+    ],
+    "that": [
+      6,
+      94,
+      101,
+      190
+    ],
+    "is": [
+      7,
+      203
+    ],
+    "increasingly": [
+      8
+    ],
+    "threatened": [
+      9
+    ],
+    "by": [
+      10,
+      115
+    ],
+    "climate": [
+      11,
+      57,
+      224
+    ],
+    "change,": [
+      12
+    ],
+    "land": [
+      13
+    ],
+    "use,": [
+      14
+    ],
+    "and": [
+      15,
+      24,
+      26,
+      35,
+      53,
+      63,
+      70,
+      74,
+      84,
+      108,
+      110,
+      129,
+      131,
+      141,
+      155,
+      161,
+      176,
+      185,
+      201,
+      208,
+      212,
+      229,
+      240
+    ],
+    "other": [
+      16
+    ],
+    "pressures.": [
+      17
+    ],
+    "However,": [
+      18,
+      119
+    ],
+    "risks": [
+      19,
+      226
+    ],
+    "to": [
+      20,
+      78,
+      144,
+      199,
+      227,
+      235
+    ],
+    "the": [
+      21,
+      46,
+      95,
+      120,
+      165,
+      191,
+      220
+    ],
+    "regional": [
+      22,
+      242
+    ],
+    "ecosystems": [
+      23,
+      64,
+      130,
+      202,
+      228
+    ],
+    "quality": [
+      25
+    ],
+    "consistency": [
+      27
+    ],
+    "of": [
+      28,
+      56,
+      98,
+      106,
+      127,
+      134,
+      164,
+      173,
+      179,
+      194,
+      196,
+      223
+    ],
+    "adaptation": [
+      29,
+      243
+    ],
+    "strategies": [
+      30
+    ],
+    "remain": [
+      31
+    ],
+    "understudied,": [
+      32
+    ],
+    "making": [
+      33
+    ],
+    "conservation": [
+      34,
+      159,
+      174
+    ],
+    "restoration": [
+      36
+    ],
+    "efforts": [
+      37
+    ],
+    "challenging.": [
+      38
+    ],
+    "Here,": [
+      39
+    ],
+    "we": [
+      40
+    ],
+    "reviewed": [
+      41,
+      121
+    ],
+    "scientific": [
+      42
+    ],
+    "articles": [
+      43
+    ],
+    "published": [
+      44
+    ],
+    "during": [
+      45
+    ],
+    "period": [
+      47
+    ],
+    "2000\u20132020,": [
+      48
+    ],
+    "which": [
+      49
+    ],
+    "(1)": [
+      50
+    ],
+    "addressed": [
+      51,
+      123
+    ],
+    "observed": [
+      52
+    ],
+    "projected": [
+      54
+    ],
+    "impacts": [
+      55
+    ],
+    "change": [
+      58,
+      225
+    ],
+    "on": [
+      59
+    ],
+    "different": [
+      60
+    ],
+    "species,": [
+      61
+    ],
+    "populations,": [
+      62
+    ],
+    "in": [
+      65,
+      183,
+      205
+    ],
+    "nine": [
+      66
+    ],
+    "southern": [
+      67,
+      206
+    ],
+    "African": [
+      68
+    ],
+    "countries,": [
+      69
+    ],
+    "(2)": [
+      71
+    ],
+    "formulated": [
+      72
+    ],
+    "management": [
+      73,
+      109,
+      184
+    ],
+    "policy": [
+      75,
+      111,
+      186
+    ],
+    "responses": [
+      76,
+      151
+    ],
+    "aiming": [
+      77
+    ],
+    "mitigate": [
+      79
+    ],
+    "these": [
+      80,
+      89
+    ],
+    "impacts.": [
+      81
+    ],
+    "We": [
+      82,
+      92,
+      188
+    ],
+    "identified": [
+      83,
+      149
+    ],
+    "evaluated": [
+      85
+    ],
+    "28": [
+      86
+    ],
+    "papers": [
+      87
+    ],
+    "meeting": [
+      88
+    ],
+    "search": [
+      90
+    ],
+    "criteria.": [
+      91
+    ],
+    "found": [
+      93
+    ],
+    "three": [
+      96
+    ],
+    "components": [
+      97
+    ],
+    "our": [
+      99
+    ],
+    "investigation,": [
+      100
+    ],
+    "is,": [
+      102
+    ],
+    "ecosystem": [
+      103
+    ],
+    "type,": [
+      104
+    ],
+    "type": [
+      105
+    ],
+    "impact,": [
+      107
+    ],
+    "responses,": [
+      112,
+      232
+    ],
+    "were": [
+      113
+    ],
+    "covered": [
+      114
+    ],
+    "research": [
+      116,
+      211,
+      238
+    ],
+    "rather": [
+      117
+    ],
+    "fragmentarily.": [
+      118
+    ],
+    "publications": [
+      122,
+      166
+    ],
+    "a": [
+      124,
+      132
+    ],
+    "large": [
+      125
+    ],
+    "variety": [
+      126,
+      133
+    ],
+    "species": [
+      128,
+      200
+    ],
+    "processes,": [
+      135
+    ],
+    "from": [
+      136
+    ],
+    "local": [
+      137
+    ],
+    "extinction,": [
+      138
+    ],
+    "range": [
+      139
+    ],
+    "contraction,": [
+      140
+    ],
+    "increased": [
+      142
+    ],
+    "mortality": [
+      143
+    ],
+    "modified": [
+      145
+    ],
+    "inter\u2010specific": [
+      146
+    ],
+    "interactions.": [
+      147
+    ],
+    "The": [
+      148
+    ],
+    "human": [
+      150
+    ],
+    "included": [
+      152
+    ],
+    "active": [
+      153
+    ],
+    "vegetation": [
+      154
+    ],
+    "animal": [
+      156
+    ],
+    "management,": [
+      157
+    ],
+    "improved": [
+      158
+    ],
+    "policies,": [
+      160,
+      175
+    ],
+    "monitoring.": [
+      162
+    ],
+    "Most": [
+      163
+    ],
+    "highlighted": [
+      167
+    ],
+    "severe": [
+      168
+    ],
+    "data": [
+      169
+    ],
+    "limitations,": [
+      170
+    ],
+    "lacking": [
+      171
+    ],
+    "coordination": [
+      172
+    ],
+    "insufficient": [
+      177
+    ],
+    "consideration": [
+      178
+    ],
+    "transient": [
+      180
+    ],
+    "environmental": [
+      181
+    ],
+    "conditions": [
+      182
+    ],
+    "planning.": [
+      187
+    ],
+    "conclude": [
+      189
+    ],
+    "current": [
+      192
+    ],
+    "level": [
+      193
+    ],
+    "understanding": [
+      195
+    ],
+    "climatic": [
+      197
+    ],
+    "threats": [
+      198
+    ],
+    "limited": [
+      204
+    ],
+    "Africa,": [
+      207
+    ],
+    "new": [
+      209
+    ],
+    "coordinated": [
+      210
+    ],
+    "monitoring": [
+      213
+    ],
+    "actions": [
+      214
+    ],
+    "are": [
+      215
+    ],
+    "needed.": [
+      216
+    ],
+    "This": [
+      217
+    ],
+    "review": [
+      218
+    ],
+    "characterized": [
+      219
+    ],
+    "high": [
+      221
+    ],
+    "diversity": [
+      222
+    ],
+    "related": [
+      230
+    ],
+    "social": [
+      231
+    ],
+    "potentially": [
+      233
+    ],
+    "helping": [
+      234
+    ],
+    "attract": [
+      236
+    ],
+    "further": [
+      237
+    ],
+    "attention": [
+      239
+    ],
+    "inform": [
+      241
+    ],
+    "strategies.": [
+      244
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 10
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 4
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 4
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 3
+    }
+  ],
+  "updated_date": "2025-11-06T03:46:38.306776",
+  "created_date": "2025-10-10T00:00:00"
+}

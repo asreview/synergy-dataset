@@ -1,0 +1,807 @@
+{
+  "id": "https://openalex.org/W4304695229",
+  "doi": "https://doi.org/10.1016/j.jgo.2022.09.012",
+  "title": "A meta-analysis on the role older adults with cancer favour in treatment decision making",
+  "display_name": "A meta-analysis on the role older adults with cancer favour in treatment decision making",
+  "publication_year": 2022,
+  "publication_date": "2022-10-12",
+  "ids": {
+    "openalex": "https://openalex.org/W4304695229",
+    "doi": "https://doi.org/10.1016/j.jgo.2022.09.012",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/36243627"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1016/j.jgo.2022.09.012",
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.1016/j.jgo.2022.09.012",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S199414623",
+      "display_name": "Journal of Geriatric Oncology",
+      "issn_l": "1879-4068",
+      "issn": [
+        "1879-4068",
+        "1879-4076"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320990",
+      "host_organization_name": "Elsevier BV",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320990"
+      ],
+      "host_organization_lineage_names": [
+        "Elsevier BV"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Journal of Geriatric Oncology",
+    "raw_type": "journal-article"
+  },
+  "type": "review",
+  "indexed_in": [
+    "crossref",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5016942198",
+        "display_name": "Maike S. van der Waal",
+        "orcid": "https://orcid.org/0000-0002-8021-3510"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I3018483916",
+          "display_name": "University Medical Center Utrecht",
+          "ror": "https://ror.org/0575yy874",
+          "country_code": "NL",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I3018483916"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Maike S. van der Waal",
+      "raw_affiliation_strings": [
+        "Department of Geriatric Medicine, Universitair Medisch Centrum Utrecht, the Netherlands"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Geriatric Medicine, Universitair Medisch Centrum Utrecht, the Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I3018483916"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5052083961",
+        "display_name": "Nelleke Seghers",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210106388",
+          "display_name": "Diakonessenhuis hospital",
+          "ror": "https://ror.org/01nrpzj54",
+          "country_code": "NL",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210106388"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Nelleke Seghers",
+      "raw_affiliation_strings": [
+        "Department of Geriatric Medicine, Diakonessenhuis, Utrecht/Zeist/Doorn, the Netherlands"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Geriatric Medicine, Diakonessenhuis, Utrecht/Zeist/Doorn, the Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I4210106388"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5073590530",
+        "display_name": "Paco M J Welsing",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I3018483916",
+          "display_name": "University Medical Center Utrecht",
+          "ror": "https://ror.org/0575yy874",
+          "country_code": "NL",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I3018483916"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Paco M.J. Welsing",
+      "raw_affiliation_strings": [
+        "Julius Center Research Program Methodology, Universitair Medisch Centrum Utrecht, the Netherlands"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Julius Center Research Program Methodology, Universitair Medisch Centrum Utrecht, the Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I3018483916"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5029955703",
+        "display_name": "Lieke H. van Huis",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210106388",
+          "display_name": "Diakonessenhuis hospital",
+          "ror": "https://ror.org/01nrpzj54",
+          "country_code": "NL",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210106388"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Lieke H. van Huis",
+      "raw_affiliation_strings": [
+        "Department of Internal Medicine, Diakonessenhuis, Utrecht/Zeist/Doorn, the Netherlands"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Internal Medicine, Diakonessenhuis, Utrecht/Zeist/Doorn, the Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I4210106388"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5110250710",
+        "display_name": "Mari\u00eblle H. Emmelot\u2010Vonk",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I3018483916",
+          "display_name": "University Medical Center Utrecht",
+          "ror": "https://ror.org/0575yy874",
+          "country_code": "NL",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I3018483916"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Marielle H. Emmelot-Vonk",
+      "raw_affiliation_strings": [
+        "Department of Geriatric Medicine, Universitair Medisch Centrum Utrecht, the Netherlands"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Geriatric Medicine, Universitair Medisch Centrum Utrecht, the Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I3018483916"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5006283942",
+        "display_name": "Marije E. Hamaker",
+        "orcid": "https://orcid.org/0000-0002-2261-9301"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210106388",
+          "display_name": "Diakonessenhuis hospital",
+          "ror": "https://ror.org/01nrpzj54",
+          "country_code": "NL",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210106388"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Marije E. Hamaker",
+      "raw_affiliation_strings": [
+        "Department of Geriatric Medicine, Diakonessenhuis, Utrecht/Zeist/Doorn, the Netherlands"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Geriatric Medicine, Diakonessenhuis, Utrecht/Zeist/Doorn, the Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I4210106388"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 6,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5006283942"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I4210106388"
+  ],
+  "apc_list": {
+    "value": 3400,
+    "currency": "USD",
+    "value_usd": 3400
+  },
+  "apc_paid": null,
+  "fwci": 1.80997714,
+  "has_fulltext": false,
+  "cited_by_count": 5,
+  "citation_normalized_percentile": {
+    "value": 0.83115152,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 95,
+    "max": 97
+  },
+  "biblio": {
+    "volume": "14",
+    "issue": "1",
+    "first_page": "101383",
+    "last_page": "101383"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10827",
+    "display_name": "Patient-Provider Communication in Healthcare",
+    "score": 1.0,
+    "subfield": {
+      "id": "https://openalex.org/subfields/3600",
+      "display_name": "General Health Professions"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/36",
+      "display_name": "Health Professions"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/4",
+      "display_name": "Health Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10827",
+      "display_name": "Patient-Provider Communication in Healthcare",
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3600",
+        "display_name": "General Health Professions"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/36",
+        "display_name": "Health Professions"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10177",
+      "display_name": "Palliative Care and End-of-Life Issues",
+      "score": 0.9994000196456909,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2739",
+        "display_name": "Public Health, Environmental and Occupational Health"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10178",
+      "display_name": "Cancer survivorship and care",
+      "score": 0.9937999844551086,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2730",
+        "display_name": "Oncology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/medicine",
+      "display_name": "Medicine",
+      "score": 0.8921041488647461
+    },
+    {
+      "id": "https://openalex.org/keywords/preference",
+      "display_name": "Preference",
+      "score": 0.7920405864715576
+    },
+    {
+      "id": "https://openalex.org/keywords/meta-analysis",
+      "display_name": "Meta-analysis",
+      "score": 0.6141698360443115
+    },
+    {
+      "id": "https://openalex.org/keywords/medline",
+      "display_name": "MEDLINE",
+      "score": 0.5950121283531189
+    },
+    {
+      "id": "https://openalex.org/keywords/cancer",
+      "display_name": "Cancer",
+      "score": 0.5137937664985657
+    },
+    {
+      "id": "https://openalex.org/keywords/young-adult",
+      "display_name": "Young adult",
+      "score": 0.48918893933296204
+    },
+    {
+      "id": "https://openalex.org/keywords/subgroup-analysis",
+      "display_name": "Subgroup analysis",
+      "score": 0.4532843232154846
+    },
+    {
+      "id": "https://openalex.org/keywords/gerontology",
+      "display_name": "Gerontology",
+      "score": 0.37117183208465576
+    },
+    {
+      "id": "https://openalex.org/keywords/family-medicine",
+      "display_name": "Family medicine",
+      "score": 0.3394622802734375
+    },
+    {
+      "id": "https://openalex.org/keywords/internal-medicine",
+      "display_name": "Internal medicine",
+      "score": 0.19720637798309326
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C71924100",
+      "wikidata": "https://www.wikidata.org/wiki/Q11190",
+      "display_name": "Medicine",
+      "level": 0,
+      "score": 0.8921041488647461
+    },
+    {
+      "id": "https://openalex.org/C2781249084",
+      "wikidata": "https://www.wikidata.org/wiki/Q908656",
+      "display_name": "Preference",
+      "level": 2,
+      "score": 0.7920405864715576
+    },
+    {
+      "id": "https://openalex.org/C95190672",
+      "wikidata": "https://www.wikidata.org/wiki/Q815382",
+      "display_name": "Meta-analysis",
+      "level": 2,
+      "score": 0.6141698360443115
+    },
+    {
+      "id": "https://openalex.org/C2779473830",
+      "wikidata": "https://www.wikidata.org/wiki/Q1540899",
+      "display_name": "MEDLINE",
+      "level": 2,
+      "score": 0.5950121283531189
+    },
+    {
+      "id": "https://openalex.org/C121608353",
+      "wikidata": "https://www.wikidata.org/wiki/Q12078",
+      "display_name": "Cancer",
+      "level": 2,
+      "score": 0.5137937664985657
+    },
+    {
+      "id": "https://openalex.org/C205545832",
+      "wikidata": "https://www.wikidata.org/wiki/Q17156455",
+      "display_name": "Young adult",
+      "level": 2,
+      "score": 0.48918893933296204
+    },
+    {
+      "id": "https://openalex.org/C187960798",
+      "wikidata": "https://www.wikidata.org/wiki/Q7631152",
+      "display_name": "Subgroup analysis",
+      "level": 3,
+      "score": 0.4532843232154846
+    },
+    {
+      "id": "https://openalex.org/C74909509",
+      "wikidata": "https://www.wikidata.org/wiki/Q10387",
+      "display_name": "Gerontology",
+      "level": 1,
+      "score": 0.37117183208465576
+    },
+    {
+      "id": "https://openalex.org/C512399662",
+      "wikidata": "https://www.wikidata.org/wiki/Q3505712",
+      "display_name": "Family medicine",
+      "level": 1,
+      "score": 0.3394622802734375
+    },
+    {
+      "id": "https://openalex.org/C126322002",
+      "wikidata": "https://www.wikidata.org/wiki/Q11180",
+      "display_name": "Internal medicine",
+      "level": 1,
+      "score": 0.19720637798309326
+    },
+    {
+      "id": "https://openalex.org/C175444787",
+      "wikidata": "https://www.wikidata.org/wiki/Q39072",
+      "display_name": "Microeconomics",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C199539241",
+      "wikidata": "https://www.wikidata.org/wiki/Q7748",
+      "display_name": "Law",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C17744445",
+      "wikidata": "https://www.wikidata.org/wiki/Q36442",
+      "display_name": "Political science",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C162324750",
+      "wikidata": "https://www.wikidata.org/wiki/Q8134",
+      "display_name": "Economics",
+      "level": 0,
+      "score": 0.0
+    }
+  ],
+  "mesh": [
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000368",
+      "descriptor_name": "Aged",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D003657",
+      "descriptor_name": "Decision Making",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D010358",
+      "descriptor_name": "Patient Participation",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D057240",
+      "descriptor_name": "Patient Preference",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D009369",
+      "descriptor_name": "Neoplasms",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D011795",
+      "descriptor_name": "Surveys and Questionnaires",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000368",
+      "descriptor_name": "Aged",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D003657",
+      "descriptor_name": "Decision Making",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D010358",
+      "descriptor_name": "Patient Participation",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D057240",
+      "descriptor_name": "Patient Preference",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D009369",
+      "descriptor_name": "Neoplasms",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D011795",
+      "descriptor_name": "Surveys and Questionnaires",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    }
+  ],
+  "locations_count": 2,
+  "locations": [
+    {
+      "id": "doi:10.1016/j.jgo.2022.09.012",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1016/j.jgo.2022.09.012",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S199414623",
+        "display_name": "Journal of Geriatric Oncology",
+        "issn_l": "1879-4068",
+        "issn": [
+          "1879-4068",
+          "1879-4076"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320990",
+        "host_organization_name": "Elsevier BV",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320990"
+        ],
+        "host_organization_lineage_names": [
+          "Elsevier BV"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Journal of Geriatric Oncology",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:36243627",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/36243627",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Journal of geriatric oncology",
+      "raw_type": null
+    }
+  ],
+  "best_oa_location": null,
+  "sustainable_development_goals": [
+    {
+      "score": 0.6000000238418579,
+      "display_name": "Peace, Justice and strong institutions",
+      "id": "https://metadata.un.org/sdg/16"
+    }
+  ],
+  "awards": [
+    {
+      "id": "https://openalex.org/G1517949540",
+      "display_name": null,
+      "funder_award_id": "945218",
+      "funder_id": "https://openalex.org/F4320320300",
+      "funder_display_name": "European Commission"
+    }
+  ],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320320300",
+      "display_name": "European Commission",
+      "ror": "https://ror.org/00k4n6c32"
+    }
+  ],
+  "has_content": {
+    "pdf": false,
+    "grobid_xml": false
+  },
+  "referenced_works_count": 50,
+  "referenced_works": [
+    "https://openalex.org/W2091021992",
+    "https://openalex.org/W3091199432",
+    "https://openalex.org/W2088882392",
+    "https://openalex.org/W2991696549",
+    "https://openalex.org/W6629658187",
+    "https://openalex.org/W3112724311",
+    "https://openalex.org/W2788643517",
+    "https://openalex.org/W6746911271",
+    "https://openalex.org/W2120771911",
+    "https://openalex.org/W2553019438",
+    "https://openalex.org/W3085500045",
+    "https://openalex.org/W6722787226",
+    "https://openalex.org/W2770826674",
+    "https://openalex.org/W6643713925",
+    "https://openalex.org/W1933427532",
+    "https://openalex.org/W6736371185",
+    "https://openalex.org/W3009916786",
+    "https://openalex.org/W2084432494",
+    "https://openalex.org/W2027672733",
+    "https://openalex.org/W2162293921",
+    "https://openalex.org/W2573457834",
+    "https://openalex.org/W2123548059",
+    "https://openalex.org/W2100992290",
+    "https://openalex.org/W2754495680",
+    "https://openalex.org/W2981706554",
+    "https://openalex.org/W2536996413",
+    "https://openalex.org/W3209480926",
+    "https://openalex.org/W1514161468",
+    "https://openalex.org/W2565759034",
+    "https://openalex.org/W1990677988",
+    "https://openalex.org/W1978275750",
+    "https://openalex.org/W2522143824",
+    "https://openalex.org/W3000269183",
+    "https://openalex.org/W3031924157",
+    "https://openalex.org/W2808452472",
+    "https://openalex.org/W1981637939",
+    "https://openalex.org/W2276173793",
+    "https://openalex.org/W2083532410",
+    "https://openalex.org/W2079997221",
+    "https://openalex.org/W2002893163",
+    "https://openalex.org/W2050189303",
+    "https://openalex.org/W2605523309",
+    "https://openalex.org/W2490421289",
+    "https://openalex.org/W2775314291",
+    "https://openalex.org/W3081933341",
+    "https://openalex.org/W1973974369",
+    "https://openalex.org/W2167563616",
+    "https://openalex.org/W2808349365",
+    "https://openalex.org/W2890056217",
+    "https://openalex.org/W2806921758"
+  ],
+  "related_works": [
+    "https://openalex.org/W2092961885",
+    "https://openalex.org/W2602611201",
+    "https://openalex.org/W4385186532",
+    "https://openalex.org/W2377377225",
+    "https://openalex.org/W3194627231",
+    "https://openalex.org/W2396849083",
+    "https://openalex.org/W2767082141",
+    "https://openalex.org/W2340650675",
+    "https://openalex.org/W4320922465",
+    "https://openalex.org/W3160400159"
+  ],
+  "abstract_inverted_index": null,
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 3
+    }
+  ],
+  "updated_date": "2025-11-06T03:46:38.306776",
+  "created_date": "2025-10-10T00:00:00"
+}

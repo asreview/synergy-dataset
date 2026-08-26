@@ -1,0 +1,12 @@
+{
+  "key": "Williamson_2023",
+  "publication": {
+    "doi": "10.1007/s11160-022-09751-6",
+    "eligibility_criteria": "In detail, articles were excluded if, first, their titles did not contain one of the terms \u2018eel\u2019, \u2018fish\u2019, \u2018movement\u2019, \u2018telemetry\u2019, \u2018environmental\u2019 or \u2018ecology\u2019 (or correlates of these terms); second, if it was clear that eels were not the model species, that the study was not undertaken in a lentic system, and the study was not movement ecology focused, and third, if a full text could not be retrieved using either the Institute of Zoology or the University College London institution subscriptions. Finally, a full text screening of the articles was undertaken to ensure that eel species were the primary or secondary model species, the study was undertaken in a lentic system, the study was not ex situ, and the article was in English."
+  },
+  "data": {
+    "doi": "10.5281/zenodo.7250310",
+    "n_records": 832,
+    "n_records_included": 13
+  }
+}

@@ -1,0 +1,1375 @@
+{
+  "id": "https://openalex.org/W4404195354",
+  "doi": "https://doi.org/10.1080/17437199.2024.2423725",
+  "title": "The prevalence of posttraumatic stress disorder symptomatology and diagnosis in burn survivors: a systematic review and meta-analysis",
+  "display_name": "The prevalence of posttraumatic stress disorder symptomatology and diagnosis in burn survivors: a systematic review and meta-analysis",
+  "publication_year": 2024,
+  "publication_date": "2024-11-07",
+  "ids": {
+    "openalex": "https://openalex.org/W4404195354",
+    "doi": "https://doi.org/10.1080/17437199.2024.2423725",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/39511919"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1080/17437199.2024.2423725",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1080/17437199.2024.2423725",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S111502347",
+      "display_name": "Health Psychology Review",
+      "issn_l": "1743-7199",
+      "issn": [
+        "1743-7199",
+        "1743-7202"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320547",
+      "host_organization_name": "Taylor & Francis",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320547"
+      ],
+      "host_organization_lineage_names": [
+        "Taylor & Francis"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Health Psychology Review",
+    "raw_type": "journal-article"
+  },
+  "type": "review",
+  "indexed_in": [
+    "crossref",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "hybrid",
+    "oa_url": "https://doi.org/10.1080/17437199.2024.2423725",
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5087460422",
+        "display_name": "Elise Boersma-van Dam",
+        "orcid": "https://orcid.org/0000-0003-4448-4812"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I193662353",
+          "display_name": "Utrecht University",
+          "ror": "https://ror.org/04pp8hn57",
+          "country_code": "NL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I193662353"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Elise Boersma-van Dam",
+      "raw_affiliation_strings": [
+        "Department of Clinical Psychology, Utrecht University, Utrecht, Netherlands"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Clinical Psychology, Utrecht University, Utrecht, Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I193662353"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5103081104",
+        "display_name": "Laura Shepherd",
+        "orcid": "https://orcid.org/0000-0003-0205-6596"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I1334287468",
+          "display_name": "Nottingham University Hospitals NHS Trust",
+          "ror": "https://ror.org/05y3qh794",
+          "country_code": "GB",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I1334287468"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Laura Shepherd",
+      "raw_affiliation_strings": [
+        "Department of Clinical Psychology &amp; Neuropsychology, Nottingham University Hospitals NHS Trust, Nottingham, UK"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Clinical Psychology &amp; Neuropsychology, Nottingham University Hospitals NHS Trust, Nottingham, UK",
+          "institution_ids": [
+            "https://openalex.org/I1334287468"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5041799420",
+        "display_name": "Rens van de Schoot",
+        "orcid": "https://orcid.org/0000-0001-7736-2091"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I193662353",
+          "display_name": "Utrecht University",
+          "ror": "https://ror.org/04pp8hn57",
+          "country_code": "NL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I193662353"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Rens van de Schoot",
+      "raw_affiliation_strings": [
+        "Department of Methodology and Statistics, Faculty of Social and Behavioral Sciences, Utrecht University, Utrecht, Netherlands"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Methodology and Statistics, Faculty of Social and Behavioral Sciences, Utrecht University, Utrecht, Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I193662353"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5103475168",
+        "display_name": "Iris M. Engelhard",
+        "orcid": "https://orcid.org/0009-0005-1117-932X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I193662353",
+          "display_name": "Utrecht University",
+          "ror": "https://ror.org/04pp8hn57",
+          "country_code": "NL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I193662353"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Iris M. Engelhard",
+      "raw_affiliation_strings": [
+        "Department of Clinical Psychology, Utrecht University, Utrecht, Netherlands"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Clinical Psychology, Utrecht University, Utrecht, Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I193662353"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5041841892",
+        "display_name": "Nancy E. E. Van Loey",
+        "orcid": "https://orcid.org/0000-0001-8227-7625"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I55106644",
+          "display_name": "Amsterdam University of Applied Sciences",
+          "ror": "https://ror.org/00y2z2s03",
+          "country_code": "NL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I55106644"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I193662353",
+          "display_name": "Utrecht University",
+          "ror": "https://ror.org/04pp8hn57",
+          "country_code": "NL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I193662353"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Nancy E. E. Van Loey",
+      "raw_affiliation_strings": [
+        "Amsterdam University of Applied Sciences, Research Group Integrated Complex Care, Faculty of Health, Center of Expertise Urban Vitality, Amsterdam, Netherlands",
+        "Department of Clinical Psychology, Utrecht University, Utrecht, Netherlands"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Clinical Psychology, Utrecht University, Utrecht, Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I193662353"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Amsterdam University of Applied Sciences, Research Group Integrated Complex Care, Faculty of Health, Center of Expertise Urban Vitality, Amsterdam, Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I55106644"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 2,
+  "institutions_distinct_count": 5,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5087460422"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I193662353"
+  ],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 2.76465932,
+  "has_fulltext": false,
+  "cited_by_count": 3,
+  "citation_normalized_percentile": {
+    "value": 0.84811827,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 96,
+    "max": 97
+  },
+  "biblio": {
+    "volume": "19",
+    "issue": "2",
+    "first_page": "278",
+    "last_page": "304"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T11422",
+    "display_name": "Burn Injury Management and Outcomes",
+    "score": 0.9984999895095825,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2713",
+      "display_name": "Epidemiology"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/27",
+      "display_name": "Medicine"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/4",
+      "display_name": "Health Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T11422",
+      "display_name": "Burn Injury Management and Outcomes",
+      "score": 0.9984999895095825,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2713",
+        "display_name": "Epidemiology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10242",
+      "display_name": "Posttraumatic Stress Disorder Research",
+      "score": 0.9984999895095825,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3203",
+        "display_name": "Clinical Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11430",
+      "display_name": "Disaster Response and Management",
+      "score": 0.9879999756813049,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3604",
+        "display_name": "Emergency Medical Services"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/36",
+        "display_name": "Health Professions"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/meta-analysis",
+      "display_name": "Meta-analysis",
+      "score": 0.7563688158988953
+    },
+    {
+      "id": "https://openalex.org/keywords/posttraumatic-stress",
+      "display_name": "Posttraumatic stress",
+      "score": 0.6960446834564209
+    },
+    {
+      "id": "https://openalex.org/keywords/clinical-psychology",
+      "display_name": "Clinical psychology",
+      "score": 0.5631532073020935
+    },
+    {
+      "id": "https://openalex.org/keywords/medicine",
+      "display_name": "Medicine",
+      "score": 0.5087342858314514
+    },
+    {
+      "id": "https://openalex.org/keywords/psychiatry",
+      "display_name": "Psychiatry",
+      "score": 0.47378015518188477
+    },
+    {
+      "id": "https://openalex.org/keywords/psychology",
+      "display_name": "Psychology",
+      "score": 0.4362718462944031
+    },
+    {
+      "id": "https://openalex.org/keywords/internal-medicine",
+      "display_name": "Internal medicine",
+      "score": 0.15456244349479675
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C95190672",
+      "wikidata": "https://www.wikidata.org/wiki/Q815382",
+      "display_name": "Meta-analysis",
+      "level": 2,
+      "score": 0.7563688158988953
+    },
+    {
+      "id": "https://openalex.org/C2991847609",
+      "wikidata": "https://www.wikidata.org/wiki/Q202387",
+      "display_name": "Posttraumatic stress",
+      "level": 2,
+      "score": 0.6960446834564209
+    },
+    {
+      "id": "https://openalex.org/C70410870",
+      "wikidata": "https://www.wikidata.org/wiki/Q199906",
+      "display_name": "Clinical psychology",
+      "level": 1,
+      "score": 0.5631532073020935
+    },
+    {
+      "id": "https://openalex.org/C71924100",
+      "wikidata": "https://www.wikidata.org/wiki/Q11190",
+      "display_name": "Medicine",
+      "level": 0,
+      "score": 0.5087342858314514
+    },
+    {
+      "id": "https://openalex.org/C118552586",
+      "wikidata": "https://www.wikidata.org/wiki/Q7867",
+      "display_name": "Psychiatry",
+      "level": 1,
+      "score": 0.47378015518188477
+    },
+    {
+      "id": "https://openalex.org/C15744967",
+      "wikidata": "https://www.wikidata.org/wiki/Q9418",
+      "display_name": "Psychology",
+      "level": 0,
+      "score": 0.4362718462944031
+    },
+    {
+      "id": "https://openalex.org/C126322002",
+      "wikidata": "https://www.wikidata.org/wiki/Q11180",
+      "display_name": "Internal medicine",
+      "level": 1,
+      "score": 0.15456244349479675
+    }
+  ],
+  "mesh": [
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D013313",
+      "descriptor_name": "Stress Disorders, Post-Traumatic",
+      "qualifier_ui": "Q000453",
+      "qualifier_name": "epidemiology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D013313",
+      "descriptor_name": "Stress Disorders, Post-Traumatic",
+      "qualifier_ui": "Q000175",
+      "qualifier_name": "diagnosis",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D013313",
+      "descriptor_name": "Stress Disorders, Post-Traumatic",
+      "qualifier_ui": "Q000209",
+      "qualifier_name": "etiology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D002056",
+      "descriptor_name": "Burns",
+      "qualifier_ui": "Q000523",
+      "qualifier_name": "psychology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D002056",
+      "descriptor_name": "Burns",
+      "qualifier_ui": "Q000453",
+      "qualifier_name": "epidemiology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D017741",
+      "descriptor_name": "Survivors",
+      "qualifier_ui": "Q000523",
+      "qualifier_name": "psychology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D017741",
+      "descriptor_name": "Survivors",
+      "qualifier_ui": "Q000706",
+      "qualifier_name": "statistics & numerical data",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D015995",
+      "descriptor_name": "Prevalence",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000328",
+      "descriptor_name": "Adult",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D013313",
+      "descriptor_name": "Stress Disorders, Post-Traumatic",
+      "qualifier_ui": "Q000453",
+      "qualifier_name": "epidemiology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D013313",
+      "descriptor_name": "Stress Disorders, Post-Traumatic",
+      "qualifier_ui": "Q000175",
+      "qualifier_name": "diagnosis",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D013313",
+      "descriptor_name": "Stress Disorders, Post-Traumatic",
+      "qualifier_ui": "Q000209",
+      "qualifier_name": "etiology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D002056",
+      "descriptor_name": "Burns",
+      "qualifier_ui": "Q000523",
+      "qualifier_name": "psychology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D002056",
+      "descriptor_name": "Burns",
+      "qualifier_ui": "Q000453",
+      "qualifier_name": "epidemiology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D017741",
+      "descriptor_name": "Survivors",
+      "qualifier_ui": "Q000523",
+      "qualifier_name": "psychology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D017741",
+      "descriptor_name": "Survivors",
+      "qualifier_ui": "Q000706",
+      "qualifier_name": "statistics & numerical data",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D015995",
+      "descriptor_name": "Prevalence",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000328",
+      "descriptor_name": "Adult",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D013313",
+      "descriptor_name": "Stress Disorders, Post-Traumatic",
+      "qualifier_ui": "Q000453",
+      "qualifier_name": "epidemiology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D013313",
+      "descriptor_name": "Stress Disorders, Post-Traumatic",
+      "qualifier_ui": "Q000175",
+      "qualifier_name": "diagnosis",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D013313",
+      "descriptor_name": "Stress Disorders, Post-Traumatic",
+      "qualifier_ui": "Q000209",
+      "qualifier_name": "etiology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D002056",
+      "descriptor_name": "Burns",
+      "qualifier_ui": "Q000523",
+      "qualifier_name": "psychology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D002056",
+      "descriptor_name": "Burns",
+      "qualifier_ui": "Q000453",
+      "qualifier_name": "epidemiology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D017741",
+      "descriptor_name": "Survivors",
+      "qualifier_ui": "Q000523",
+      "qualifier_name": "psychology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D017741",
+      "descriptor_name": "Survivors",
+      "qualifier_ui": "Q000706",
+      "qualifier_name": "statistics & numerical data",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D015995",
+      "descriptor_name": "Prevalence",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000328",
+      "descriptor_name": "Adult",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    }
+  ],
+  "locations_count": 2,
+  "locations": [
+    {
+      "id": "doi:10.1080/17437199.2024.2423725",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1080/17437199.2024.2423725",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S111502347",
+        "display_name": "Health Psychology Review",
+        "issn_l": "1743-7199",
+        "issn": [
+          "1743-7199",
+          "1743-7202"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320547",
+        "host_organization_name": "Taylor & Francis",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320547"
+        ],
+        "host_organization_lineage_names": [
+          "Taylor & Francis"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Health Psychology Review",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:39511919",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/39511919",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Health psychology review",
+      "raw_type": null
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1080/17437199.2024.2423725",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1080/17437199.2024.2423725",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S111502347",
+      "display_name": "Health Psychology Review",
+      "issn_l": "1743-7199",
+      "issn": [
+        "1743-7199",
+        "1743-7202"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320547",
+      "host_organization_name": "Taylor & Francis",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320547"
+      ],
+      "host_organization_lineage_names": [
+        "Taylor & Francis"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Health Psychology Review",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [
+    {
+      "id": "https://metadata.un.org/sdg/3",
+      "score": 0.7099999785423279,
+      "display_name": "Good health and well-being"
+    }
+  ],
+  "awards": [
+    {
+      "id": "https://openalex.org/G633051295",
+      "display_name": null,
+      "funder_award_id": "17.102",
+      "funder_id": "https://openalex.org/F4320321969",
+      "funder_display_name": "Nederlandse Brandwonden Stichting"
+    }
+  ],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320321969",
+      "display_name": "Nederlandse Brandwonden Stichting",
+      "ror": "https://ror.org/01fz2rj87"
+    }
+  ],
+  "has_content": {
+    "pdf": false,
+    "grobid_xml": false
+  },
+  "referenced_works_count": 119,
+  "referenced_works": [
+    "https://openalex.org/W1990169949",
+    "https://openalex.org/W2296042795",
+    "https://openalex.org/W2782994180",
+    "https://openalex.org/W1990811743",
+    "https://openalex.org/W2804964418",
+    "https://openalex.org/W2093982682",
+    "https://openalex.org/W4312192574",
+    "https://openalex.org/W3094348685",
+    "https://openalex.org/W4386858083",
+    "https://openalex.org/W2076368752",
+    "https://openalex.org/W2471940872",
+    "https://openalex.org/W1989233213",
+    "https://openalex.org/W2059711622",
+    "https://openalex.org/W2150126266",
+    "https://openalex.org/W2934693490",
+    "https://openalex.org/W3163701312",
+    "https://openalex.org/W4376130074",
+    "https://openalex.org/W3011142669",
+    "https://openalex.org/W3012354877",
+    "https://openalex.org/W2302099710",
+    "https://openalex.org/W2087455121",
+    "https://openalex.org/W3126840357",
+    "https://openalex.org/W2529837816",
+    "https://openalex.org/W2027845679",
+    "https://openalex.org/W4382700925",
+    "https://openalex.org/W4281288281",
+    "https://openalex.org/W1988520993",
+    "https://openalex.org/W2016515357",
+    "https://openalex.org/W2028393208",
+    "https://openalex.org/W1964629756",
+    "https://openalex.org/W1648551648",
+    "https://openalex.org/W2064623422",
+    "https://openalex.org/W2146362691",
+    "https://openalex.org/W2076125639",
+    "https://openalex.org/W2281031530",
+    "https://openalex.org/W1998345275",
+    "https://openalex.org/W2046229376",
+    "https://openalex.org/W2418488649",
+    "https://openalex.org/W1989786769",
+    "https://openalex.org/W2805896075",
+    "https://openalex.org/W2013583875",
+    "https://openalex.org/W2259954424",
+    "https://openalex.org/W2075336300",
+    "https://openalex.org/W2035065951",
+    "https://openalex.org/W4240484632",
+    "https://openalex.org/W2790303093",
+    "https://openalex.org/W2125435699",
+    "https://openalex.org/W2066358461",
+    "https://openalex.org/W2599620944",
+    "https://openalex.org/W4214602453",
+    "https://openalex.org/W3122858734",
+    "https://openalex.org/W2143077576",
+    "https://openalex.org/W2810657124",
+    "https://openalex.org/W1985428810",
+    "https://openalex.org/W2792482874",
+    "https://openalex.org/W2030702342",
+    "https://openalex.org/W2087048968",
+    "https://openalex.org/W2324394441",
+    "https://openalex.org/W2275288673",
+    "https://openalex.org/W2145141370",
+    "https://openalex.org/W2417616718",
+    "https://openalex.org/W3207158199",
+    "https://openalex.org/W6726251965",
+    "https://openalex.org/W2004906911",
+    "https://openalex.org/W2022970779",
+    "https://openalex.org/W3118615836",
+    "https://openalex.org/W2014397717",
+    "https://openalex.org/W1973645458",
+    "https://openalex.org/W2069672963",
+    "https://openalex.org/W2090810034",
+    "https://openalex.org/W2392742950",
+    "https://openalex.org/W2326255318",
+    "https://openalex.org/W2072274948",
+    "https://openalex.org/W3087936928",
+    "https://openalex.org/W2411200191",
+    "https://openalex.org/W2582743722",
+    "https://openalex.org/W1966936118",
+    "https://openalex.org/W2953174290",
+    "https://openalex.org/W2050768782",
+    "https://openalex.org/W2406017040",
+    "https://openalex.org/W2074583546",
+    "https://openalex.org/W2011185900",
+    "https://openalex.org/W7074234824",
+    "https://openalex.org/W3208556823",
+    "https://openalex.org/W2509449317",
+    "https://openalex.org/W1966460145",
+    "https://openalex.org/W2891643468",
+    "https://openalex.org/W4324030847",
+    "https://openalex.org/W3029407058",
+    "https://openalex.org/W4206945549",
+    "https://openalex.org/W2042881941",
+    "https://openalex.org/W2036002647",
+    "https://openalex.org/W2033932030",
+    "https://openalex.org/W3202449090",
+    "https://openalex.org/W2082855609",
+    "https://openalex.org/W1995810168",
+    "https://openalex.org/W2098332523",
+    "https://openalex.org/W2993266563",
+    "https://openalex.org/W2002574328",
+    "https://openalex.org/W2783658081",
+    "https://openalex.org/W4304813445",
+    "https://openalex.org/W2791755250",
+    "https://openalex.org/W2053005805",
+    "https://openalex.org/W2086890995",
+    "https://openalex.org/W2117749068",
+    "https://openalex.org/W2161637988",
+    "https://openalex.org/W2139168999",
+    "https://openalex.org/W2781076709",
+    "https://openalex.org/W2074721026",
+    "https://openalex.org/W6637315428",
+    "https://openalex.org/W2023315065",
+    "https://openalex.org/W1991253174",
+    "https://openalex.org/W2103646625",
+    "https://openalex.org/W179022864",
+    "https://openalex.org/W3096540528",
+    "https://openalex.org/W1574433669",
+    "https://openalex.org/W2515754735",
+    "https://openalex.org/W1506726456",
+    "https://openalex.org/W3171418018"
+  ],
+  "related_works": [
+    "https://openalex.org/W4391375266",
+    "https://openalex.org/W2748952813",
+    "https://openalex.org/W3134325150",
+    "https://openalex.org/W3210678099",
+    "https://openalex.org/W4200025911",
+    "https://openalex.org/W4394486262",
+    "https://openalex.org/W3088977003",
+    "https://openalex.org/W4387745674",
+    "https://openalex.org/W3111640694",
+    "https://openalex.org/W4226264679"
+  ],
+  "abstract_inverted_index": {
+    "Great": [
+      0
+    ],
+    "disparity": [
+      1
+    ],
+    "is": [
+      2
+    ],
+    "observed": [
+      3
+    ],
+    "among": [
+      4
+    ],
+    "studies": [
+      5,
+      43,
+      88,
+      121,
+      141,
+      143
+    ],
+    "investigating": [
+      6
+    ],
+    "the": [
+      7,
+      21,
+      31,
+      45,
+      64,
+      92,
+      106
+    ],
+    "prevalence": [
+      8,
+      23,
+      46,
+      68,
+      97,
+      107,
+      135
+    ],
+    "of": [
+      9,
+      24,
+      47,
+      66,
+      78,
+      98,
+      181
+    ],
+    "PTSD": [
+      10,
+      25,
+      48,
+      67,
+      99,
+      134,
+      160
+    ],
+    "after": [
+      11,
+      50
+    ],
+    "burns.": [
+      12,
+      51
+    ],
+    "This": [
+      13
+    ],
+    "systematic": [
+      14
+    ],
+    "review": [
+      15
+    ],
+    "and": [
+      16,
+      58,
+      72,
+      105,
+      120,
+      142,
+      158,
+      179
+    ],
+    "meta-analysis": [
+      17
+    ],
+    "aimed": [
+      18
+    ],
+    "to": [
+      19,
+      62,
+      73,
+      129,
+      139,
+      155
+    ],
+    "explore": [
+      20
+    ],
+    "pooled": [
+      22,
+      96
+    ],
+    "in": [
+      26,
+      91,
+      133,
+      164
+    ],
+    "adult": [
+      27
+    ],
+    "burn": [
+      28,
+      166,
+      182
+    ],
+    "survivors": [
+      29,
+      183
+    ],
+    "over": [
+      30,
+      70,
+      81,
+      116,
+      136
+    ],
+    "first": [
+      32
+    ],
+    "two": [
+      33
+    ],
+    "years": [
+      34
+    ],
+    "post-burn.": [
+      35
+    ],
+    "Five": [
+      36
+    ],
+    "electronic": [
+      37
+    ],
+    "databases": [
+      38
+    ],
+    "were": [
+      39,
+      89,
+      126
+    ],
+    "searched": [
+      40
+    ],
+    "for": [
+      41,
+      191
+    ],
+    "observational": [
+      42
+    ],
+    "assessing": [
+      44
+    ],
+    "symptoms": [
+      49
+    ],
+    "Meta-analysis": [
+      52
+    ],
+    "was": [
+      53,
+      83,
+      100
+    ],
+    "performed": [
+      54
+    ],
+    "using": [
+      55
+    ],
+    "an": [
+      56
+    ],
+    "auto-correlation": [
+      57
+    ],
+    "hierarchical": [
+      59
+    ],
+    "effects": [
+      60
+    ],
+    "model": [
+      61
+    ],
+    "estimate": [
+      63
+    ],
+    "course": [
+      65
+    ],
+    "rates": [
+      69,
+      171
+    ],
+    "time": [
+      71,
+      82,
+      137
+    ],
+    "establish": [
+      74
+    ],
+    "point-prevalences.": [
+      75
+    ],
+    "The": [
+      76,
+      94
+    ],
+    "effect": [
+      77
+    ],
+    "different": [
+      79
+    ],
+    "moderators": [
+      80
+    ],
+    "tested": [
+      84
+    ],
+    "with": [
+      85,
+      168
+    ],
+    "meta-regression.": [
+      86
+    ],
+    "Thirty-two": [
+      87
+    ],
+    "included": [
+      90
+    ],
+    "meta-analysis.": [
+      93
+    ],
+    "overall": [
+      95
+    ],
+    "20.5%": [
+      101
+    ],
+    "(95%": [
+      102
+    ],
+    "CI": [
+      103
+    ],
+    "16.4-24.6)": [
+      104
+    ],
+    "significantly": [
+      108
+    ],
+    "decreased": [
+      109
+    ],
+    "by": [
+      110
+    ],
+    "about": [
+      111,
+      162
+    ],
+    "0.37%": [
+      112
+    ],
+    "per": [
+      113
+    ],
+    "month": [
+      114
+    ],
+    "post-burn": [
+      115,
+      175
+    ],
+    "time.": [
+      117
+    ],
+    "Questionnaire-based": [
+      118
+    ],
+    "studies,": [
+      119
+    ],
+    "published": [
+      122
+    ],
+    "from": [
+      123,
+      172
+    ],
+    "2000": [
+      124
+    ],
+    "onwards,": [
+      125
+    ],
+    "more": [
+      127
+    ],
+    "likely": [
+      128,
+      154
+    ],
+    "show": [
+      130
+    ],
+    "a": [
+      131
+    ],
+    "decrease": [
+      132
+    ],
+    "compared": [
+      138
+    ],
+    "diagnostic": [
+      140
+    ],
+    "before": [
+      144
+    ],
+    "2000.": [
+      145
+    ],
+    "A": [
+      146
+    ],
+    "qualitative": [
+      147
+    ],
+    "comparison": [
+      148
+    ],
+    "revealed": [
+      149
+    ],
+    "that": [
+      150
+    ],
+    "inter-continental": [
+      151
+    ],
+    "differences": [
+      152
+    ],
+    "are": [
+      153,
+      189
+    ],
+    "be": [
+      156
+    ],
+    "complex": [
+      157
+    ],
+    "multi-factorial.": [
+      159
+    ],
+    "affects": [
+      161
+    ],
+    "one": [
+      163
+    ],
+    "five": [
+      165
+    ],
+    "survivors,": [
+      167
+    ],
+    "moderately": [
+      169
+    ],
+    "decreasing": [
+      170
+    ],
+    "six": [
+      173
+    ],
+    "months": [
+      174
+    ],
+    "onwards.": [
+      176
+    ],
+    "Early": [
+      177
+    ],
+    "screening": [
+      178
+    ],
+    "identification": [
+      180
+    ],
+    "who": [
+      184
+    ],
+    "require": [
+      185
+    ],
+    "specialist": [
+      186
+    ],
+    "psychological": [
+      187
+    ],
+    "care": [
+      188
+    ],
+    "vital": [
+      190
+    ],
+    "burns": [
+      192
+    ],
+    "services.": [
+      193
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 3
+    }
+  ],
+  "updated_date": "2025-11-06T03:46:38.306776",
+  "created_date": "2025-10-10T00:00:00"
+}

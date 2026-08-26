@@ -1,0 +1,793 @@
+{
+  "id": "https://openalex.org/W2904978158",
+  "doi": "https://doi.org/10.1016/j.compedu.2018.12.004",
+  "title": "Online e-learning and cognitive disabilities: A systematic review",
+  "display_name": "Online e-learning and cognitive disabilities: A systematic review",
+  "publication_year": 2018,
+  "publication_date": "2018-12-10",
+  "ids": {
+    "openalex": "https://openalex.org/W2904978158",
+    "doi": "https://doi.org/10.1016/j.compedu.2018.12.004",
+    "mag": "2904978158"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1016/j.compedu.2018.12.004",
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.1016/j.compedu.2018.12.004",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S4210172634",
+      "display_name": "Computers & Education",
+      "issn_l": "0360-1315",
+      "issn": [
+        "0360-1315",
+        "1873-782X"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320990",
+      "host_organization_name": "Elsevier BV",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320990"
+      ],
+      "host_organization_lineage_names": [
+        "Elsevier BV"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Computers &amp; Education",
+    "raw_type": "journal-article"
+  },
+  "type": "review",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "green",
+    "oa_url": "https://hal.science/hal-01954983",
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5070911583",
+        "display_name": "Pierre-Antoine Cinquin",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210127234",
+          "display_name": "Laboratoire Epid\u00e9miologie et Analyses en Sant\u00e9 Publique : Risques, Maladies Chroniques et Handicaps",
+          "ror": "https://ror.org/02ywmqv15",
+          "country_code": "FR",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I134560555",
+            "https://openalex.org/I154526488",
+            "https://openalex.org/I4210127234",
+            "https://openalex.org/I4210145734",
+            "https://openalex.org/I4412460029"
+          ]
+        }
+      ],
+      "countries": [
+        "FR"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Pierre-Antoine Cinquin",
+      "raw_affiliation_strings": [
+        "HACS - Laboratoire Handicap Activit\u00e9 Cognition et Syst\u00e8me Nerveux (146 rue L\u00e9oSaignat\r\n33000 Bordeaux - France)",
+        "Potioc - Popular interaction with 3d content (200, avenue de la Vieille Tour \r\n33405 Talence cedex \r\n - France)"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "HACS - Laboratoire Handicap Activit\u00e9 Cognition et Syst\u00e8me Nerveux (146 rue L\u00e9oSaignat\r\n33000 Bordeaux - France)",
+          "institution_ids": [
+            "https://openalex.org/I4210127234"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Potioc - Popular interaction with 3d content (200, avenue de la Vieille Tour \r\n33405 Talence cedex \r\n - France)",
+          "institution_ids": []
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5037665368",
+        "display_name": "Pascal Guitton",
+        "orcid": "https://orcid.org/0000-0001-5914-682X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I15057530",
+          "display_name": "Universit\u00e9 de Bordeaux",
+          "ror": "https://ror.org/057qpr032",
+          "country_code": "FR",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I15057530"
+          ]
+        }
+      ],
+      "countries": [
+        "FR"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Pascal Guitton",
+      "raw_affiliation_strings": [
+        "Potioc - Popular interaction with 3d content (200, avenue de la Vieille Tour \r\n33405 Talence cedex \r\n - France)",
+        "UB - Universit\u00e9 de Bordeaux (35, place Pey Berland - 33076 Bordeaux - France)"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Potioc - Popular interaction with 3d content (200, avenue de la Vieille Tour \r\n33405 Talence cedex \r\n - France)",
+          "institution_ids": []
+        },
+        {
+          "raw_affiliation_string": "UB - Universit\u00e9 de Bordeaux (35, place Pey Berland - 33076 Bordeaux - France)",
+          "institution_ids": [
+            "https://openalex.org/I15057530"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5080872433",
+        "display_name": "H\u00e9l\u00e8ne Sauzeon",
+        "orcid": "https://orcid.org/0000-0001-5781-9891"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210127234",
+          "display_name": "Laboratoire Epid\u00e9miologie et Analyses en Sant\u00e9 Publique : Risques, Maladies Chroniques et Handicaps",
+          "ror": "https://ror.org/02ywmqv15",
+          "country_code": "FR",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I134560555",
+            "https://openalex.org/I154526488",
+            "https://openalex.org/I4210127234",
+            "https://openalex.org/I4210145734",
+            "https://openalex.org/I4412460029"
+          ]
+        }
+      ],
+      "countries": [
+        "FR"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "H\u00e9l\u00e8ne Sauz\u00e9on",
+      "raw_affiliation_strings": [
+        "Flowers - Flowing Epigenetic Robots and Systems (200, avenue de la Vieille Tour \r\n33405 Talence cedex - France)",
+        "HACS - Laboratoire Handicap Activit\u00e9 Cognition et Syst\u00e8me Nerveux (146 rue L\u00e9oSaignat\r\n33000 Bordeaux - France)"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Flowers - Flowing Epigenetic Robots and Systems (200, avenue de la Vieille Tour \r\n33405 Talence cedex - France)",
+          "institution_ids": []
+        },
+        {
+          "raw_affiliation_string": "HACS - Laboratoire Handicap Activit\u00e9 Cognition et Syst\u00e8me Nerveux (146 rue L\u00e9oSaignat\r\n33000 Bordeaux - France)",
+          "institution_ids": [
+            "https://openalex.org/I4210127234"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 3,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [],
+  "apc_list": {
+    "value": 4220,
+    "currency": "USD",
+    "value_usd": 4220
+  },
+  "apc_paid": null,
+  "fwci": 42.53476389,
+  "has_fulltext": false,
+  "cited_by_count": 157,
+  "citation_normalized_percentile": {
+    "value": 0.99952696,
+    "is_in_top_1_percent": true,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 90,
+    "max": 100
+  },
+  "biblio": {
+    "volume": "130",
+    "issue": null,
+    "first_page": "152",
+    "last_page": "167"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T12481",
+    "display_name": "Digital Accessibility for Disabilities",
+    "score": 0.9937999844551086,
+    "subfield": {
+      "id": "https://openalex.org/subfields/3307",
+      "display_name": "Human Factors and Ergonomics"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/33",
+      "display_name": "Social Sciences"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/2",
+      "display_name": "Social Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T12481",
+      "display_name": "Digital Accessibility for Disabilities",
+      "score": 0.9937999844551086,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3307",
+        "display_name": "Human Factors and Ergonomics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11122",
+      "display_name": "Online Learning and Analytics",
+      "score": 0.9797000288963318,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1706",
+        "display_name": "Computer Science Applications"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12207",
+      "display_name": "Assistive Technology in Communication and Mobility",
+      "score": 0.9732000231742859,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3609",
+        "display_name": "Occupational Therapy"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/36",
+        "display_name": "Health Professions"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/inclusion",
+      "display_name": "Inclusion (mineral)",
+      "score": 0.692439079284668
+    },
+    {
+      "id": "https://openalex.org/keywords/cognition",
+      "display_name": "Cognition",
+      "score": 0.542978048324585
+    },
+    {
+      "id": "https://openalex.org/keywords/psychology",
+      "display_name": "Psychology",
+      "score": 0.5210599303245544
+    },
+    {
+      "id": "https://openalex.org/keywords/systematic-review",
+      "display_name": "Systematic review",
+      "score": 0.4600510597229004
+    },
+    {
+      "id": "https://openalex.org/keywords/dyslexia",
+      "display_name": "Dyslexia",
+      "score": 0.44962674379348755
+    },
+    {
+      "id": "https://openalex.org/keywords/function",
+      "display_name": "Function (biology)",
+      "score": 0.4354778230190277
+    },
+    {
+      "id": "https://openalex.org/keywords/neuropsychology",
+      "display_name": "Neuropsychology",
+      "score": 0.4338945746421814
+    },
+    {
+      "id": "https://openalex.org/keywords/identification",
+      "display_name": "Identification (biology)",
+      "score": 0.42167115211486816
+    },
+    {
+      "id": "https://openalex.org/keywords/computer-science",
+      "display_name": "Computer science",
+      "score": 0.34122076630592346
+    },
+    {
+      "id": "https://openalex.org/keywords/cognitive-psychology",
+      "display_name": "Cognitive psychology",
+      "score": 0.3263014554977417
+    },
+    {
+      "id": "https://openalex.org/keywords/medline",
+      "display_name": "MEDLINE",
+      "score": 0.20428112149238586
+    },
+    {
+      "id": "https://openalex.org/keywords/social-psychology",
+      "display_name": "Social psychology",
+      "score": 0.17451977729797363
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C109359841",
+      "wikidata": "https://www.wikidata.org/wiki/Q728944",
+      "display_name": "Inclusion (mineral)",
+      "level": 2,
+      "score": 0.692439079284668
+    },
+    {
+      "id": "https://openalex.org/C169900460",
+      "wikidata": "https://www.wikidata.org/wiki/Q2200417",
+      "display_name": "Cognition",
+      "level": 2,
+      "score": 0.542978048324585
+    },
+    {
+      "id": "https://openalex.org/C15744967",
+      "wikidata": "https://www.wikidata.org/wiki/Q9418",
+      "display_name": "Psychology",
+      "level": 0,
+      "score": 0.5210599303245544
+    },
+    {
+      "id": "https://openalex.org/C189708586",
+      "wikidata": "https://www.wikidata.org/wiki/Q1504425",
+      "display_name": "Systematic review",
+      "level": 3,
+      "score": 0.4600510597229004
+    },
+    {
+      "id": "https://openalex.org/C506058694",
+      "wikidata": "https://www.wikidata.org/wiki/Q132971",
+      "display_name": "Dyslexia",
+      "level": 3,
+      "score": 0.44962674379348755
+    },
+    {
+      "id": "https://openalex.org/C14036430",
+      "wikidata": "https://www.wikidata.org/wiki/Q3736076",
+      "display_name": "Function (biology)",
+      "level": 2,
+      "score": 0.4354778230190277
+    },
+    {
+      "id": "https://openalex.org/C14216870",
+      "wikidata": "https://www.wikidata.org/wiki/Q3872",
+      "display_name": "Neuropsychology",
+      "level": 3,
+      "score": 0.4338945746421814
+    },
+    {
+      "id": "https://openalex.org/C116834253",
+      "wikidata": "https://www.wikidata.org/wiki/Q2039217",
+      "display_name": "Identification (biology)",
+      "level": 2,
+      "score": 0.42167115211486816
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.34122076630592346
+    },
+    {
+      "id": "https://openalex.org/C180747234",
+      "wikidata": "https://www.wikidata.org/wiki/Q23373",
+      "display_name": "Cognitive psychology",
+      "level": 1,
+      "score": 0.3263014554977417
+    },
+    {
+      "id": "https://openalex.org/C2779473830",
+      "wikidata": "https://www.wikidata.org/wiki/Q1540899",
+      "display_name": "MEDLINE",
+      "level": 2,
+      "score": 0.20428112149238586
+    },
+    {
+      "id": "https://openalex.org/C77805123",
+      "wikidata": "https://www.wikidata.org/wiki/Q161272",
+      "display_name": "Social psychology",
+      "level": 1,
+      "score": 0.17451977729797363
+    },
+    {
+      "id": "https://openalex.org/C554936623",
+      "wikidata": "https://www.wikidata.org/wiki/Q199657",
+      "display_name": "Reading (process)",
+      "level": 2,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C199539241",
+      "wikidata": "https://www.wikidata.org/wiki/Q7748",
+      "display_name": "Law",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C78458016",
+      "wikidata": "https://www.wikidata.org/wiki/Q840400",
+      "display_name": "Evolutionary biology",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C17744445",
+      "wikidata": "https://www.wikidata.org/wiki/Q36442",
+      "display_name": "Political science",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C86803240",
+      "wikidata": "https://www.wikidata.org/wiki/Q420",
+      "display_name": "Biology",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C169760540",
+      "wikidata": "https://www.wikidata.org/wiki/Q207011",
+      "display_name": "Neuroscience",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C59822182",
+      "wikidata": "https://www.wikidata.org/wiki/Q441",
+      "display_name": "Botany",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 3,
+  "locations": [
+    {
+      "id": "doi:10.1016/j.compedu.2018.12.004",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1016/j.compedu.2018.12.004",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4210172634",
+        "display_name": "Computers & Education",
+        "issn_l": "0360-1315",
+        "issn": [
+          "0360-1315",
+          "1873-782X"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320990",
+        "host_organization_name": "Elsevier BV",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320990"
+        ],
+        "host_organization_lineage_names": [
+          "Elsevier BV"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Computers &amp; Education",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmh:oai:HAL:hal-01954983v1",
+      "is_oa": true,
+      "landing_page_url": "https://hal.science/hal-01954983",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306402512",
+        "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1294671590",
+        "host_organization_name": "Centre National de la Recherche Scientifique",
+        "host_organization_lineage": [
+          "https://openalex.org/I1294671590"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "other-oa",
+      "license_id": "https://openalex.org/licenses/other-oa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "https://authors.elsevier.com/c/1YFoa1HucdE8lA",
+      "raw_type": "Journal articles"
+    },
+    {
+      "id": "pmh:oai:oskar-bordeaux.fr:20.500.12278/7905",
+      "is_oa": false,
+      "landing_page_url": "https://oskar-bordeaux.fr/handle/20.500.12278/7905",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306402569",
+        "display_name": "Oskar-Bordeaux (Universite de Bordeaux)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "",
+      "raw_type": "Article de revue"
+    }
+  ],
+  "best_oa_location": {
+    "id": "pmh:oai:HAL:hal-01954983v1",
+    "is_oa": true,
+    "landing_page_url": "https://hal.science/hal-01954983",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S4306402512",
+      "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": false,
+      "host_organization": "https://openalex.org/I1294671590",
+      "host_organization_name": "Centre National de la Recherche Scientifique",
+      "host_organization_lineage": [
+        "https://openalex.org/I1294671590"
+      ],
+      "host_organization_lineage_names": [],
+      "type": "repository"
+    },
+    "license": "other-oa",
+    "license_id": "https://openalex.org/licenses/other-oa",
+    "version": "submittedVersion",
+    "is_accepted": false,
+    "is_published": false,
+    "raw_source_name": "https://authors.elsevier.com/c/1YFoa1HucdE8lA",
+    "raw_type": "Journal articles"
+  },
+  "sustainable_development_goals": [
+    {
+      "id": "https://metadata.un.org/sdg/10",
+      "score": 0.8100000023841858,
+      "display_name": "Reduced inequalities"
+    }
+  ],
+  "awards": [
+    {
+      "id": "https://openalex.org/G8088825545",
+      "display_name": null,
+      "funder_award_id": "n\u00b02016-KB-01",
+      "funder_id": "https://openalex.org/F4320323712",
+      "funder_display_name": "Universit\u00e9 de Bordeaux"
+    }
+  ],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320323712",
+      "display_name": "Universit\u00e9 de Bordeaux",
+      "ror": "https://ror.org/057qpr032"
+    }
+  ],
+  "has_content": {
+    "grobid_xml": false,
+    "pdf": false
+  },
+  "referenced_works_count": 97,
+  "referenced_works": [
+    "https://openalex.org/W6631501500",
+    "https://openalex.org/W6674351896",
+    "https://openalex.org/W2612866199",
+    "https://openalex.org/W2044842795",
+    "https://openalex.org/W2154739415",
+    "https://openalex.org/W6638518697",
+    "https://openalex.org/W2062242288",
+    "https://openalex.org/W6730514753",
+    "https://openalex.org/W2054575423",
+    "https://openalex.org/W2494948277",
+    "https://openalex.org/W2003645097",
+    "https://openalex.org/W1964069484",
+    "https://openalex.org/W6732311126",
+    "https://openalex.org/W6634072639",
+    "https://openalex.org/W2064975883",
+    "https://openalex.org/W2028535010",
+    "https://openalex.org/W2009989063",
+    "https://openalex.org/W2051195175",
+    "https://openalex.org/W1719593048",
+    "https://openalex.org/W6675946136",
+    "https://openalex.org/W2577028479",
+    "https://openalex.org/W2129961807",
+    "https://openalex.org/W2139000771",
+    "https://openalex.org/W6684102985",
+    "https://openalex.org/W6722405233",
+    "https://openalex.org/W6736683376",
+    "https://openalex.org/W6675138796",
+    "https://openalex.org/W2155979592",
+    "https://openalex.org/W1985424812",
+    "https://openalex.org/W2039052749",
+    "https://openalex.org/W2086415991",
+    "https://openalex.org/W1999886369",
+    "https://openalex.org/W2007872832",
+    "https://openalex.org/W2005166570",
+    "https://openalex.org/W6728562207",
+    "https://openalex.org/W6633938043",
+    "https://openalex.org/W2675328778",
+    "https://openalex.org/W6680939257",
+    "https://openalex.org/W6676120282",
+    "https://openalex.org/W2023476219",
+    "https://openalex.org/W1977551932",
+    "https://openalex.org/W6724049572",
+    "https://openalex.org/W2152559109",
+    "https://openalex.org/W4242883546",
+    "https://openalex.org/W6734784262",
+    "https://openalex.org/W6607532742",
+    "https://openalex.org/W2155252080",
+    "https://openalex.org/W2479485957",
+    "https://openalex.org/W2561441173",
+    "https://openalex.org/W2034345673",
+    "https://openalex.org/W1994839612",
+    "https://openalex.org/W1986170737",
+    "https://openalex.org/W6989161247",
+    "https://openalex.org/W2032594690",
+    "https://openalex.org/W6755487440",
+    "https://openalex.org/W1567766206",
+    "https://openalex.org/W2142957327",
+    "https://openalex.org/W2054646001",
+    "https://openalex.org/W1526169916",
+    "https://openalex.org/W1812868705",
+    "https://openalex.org/W2534340424",
+    "https://openalex.org/W1793734229",
+    "https://openalex.org/W2010361629",
+    "https://openalex.org/W2484185914",
+    "https://openalex.org/W2208181183",
+    "https://openalex.org/W2343236757",
+    "https://openalex.org/W4230707883",
+    "https://openalex.org/W1499840710",
+    "https://openalex.org/W1511511026",
+    "https://openalex.org/W1552361153",
+    "https://openalex.org/W2596401057",
+    "https://openalex.org/W2152863375",
+    "https://openalex.org/W2096052074",
+    "https://openalex.org/W184914860",
+    "https://openalex.org/W2559337190",
+    "https://openalex.org/W2605674449",
+    "https://openalex.org/W2573261414",
+    "https://openalex.org/W2896239837",
+    "https://openalex.org/W3005117680",
+    "https://openalex.org/W1497396804",
+    "https://openalex.org/W2098611145",
+    "https://openalex.org/W2024337161",
+    "https://openalex.org/W2501957138",
+    "https://openalex.org/W2141846678",
+    "https://openalex.org/W2607008478",
+    "https://openalex.org/W1601975121",
+    "https://openalex.org/W26289092",
+    "https://openalex.org/W2165189772",
+    "https://openalex.org/W1565440654",
+    "https://openalex.org/W52727769",
+    "https://openalex.org/W2109732433",
+    "https://openalex.org/W2307938957",
+    "https://openalex.org/W2911443031",
+    "https://openalex.org/W2916233246",
+    "https://openalex.org/W186415708",
+    "https://openalex.org/W2106262139",
+    "https://openalex.org/W2913210298"
+  ],
+  "related_works": [
+    "https://openalex.org/W3029497955",
+    "https://openalex.org/W2033550741",
+    "https://openalex.org/W2960228290",
+    "https://openalex.org/W630264576",
+    "https://openalex.org/W1491001619",
+    "https://openalex.org/W4241280300",
+    "https://openalex.org/W362809262",
+    "https://openalex.org/W2920739593",
+    "https://openalex.org/W2546280231",
+    "https://openalex.org/W3123583794"
+  ],
+  "abstract_inverted_index": null,
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 25
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 18
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 30
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 26
+    },
+    {
+      "year": 2021,
+      "cited_by_count": 27
+    },
+    {
+      "year": 2020,
+      "cited_by_count": 19
+    },
+    {
+      "year": 2019,
+      "cited_by_count": 10
+    },
+    {
+      "year": 2018,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2017,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2025-11-06T03:46:38.306776",
+  "created_date": "2025-10-10T00:00:00"
+}

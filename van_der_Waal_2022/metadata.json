@@ -1,0 +1,12 @@
+{
+  "key": "van_der_Waal_2022",
+  "publication": {
+    "doi": "10.1016/j.jgo.2022.09.012",
+    "eligibility_criteria": "Language was limited to English and date range was set from January 2008 until June 2021.\n\nStudies included in this review were performed among adults (defined as eighteen years and older) with cancer treated in research centres that are part of a western healthcare system (including: European Union, United Kingdom, United States of America, Canada, Japan, Australia, and New Zealand). Japan was included, as previous studies have shown that the Japanese healthcare system is comparable to the western health care system [9,10]. We excluded conference abstracts, non-original research, studies on paediatric population (defined as younger than eighteen years old), as well as studies addressing specific ethnographic subgroups within western healthcare systems. For meta analysis purposes, studies were filtered on reporting data from the Control Preference Scale (CPS), which is a questionnaire to assess the patients\u2019 preference for their role in treatment decision making (Table 1)"
+  },
+  "data": {
+    "doi": "10.5281/zenodo.7308296",
+    "n_records": 2148,
+    "n_records_included": 33
+  }
+}

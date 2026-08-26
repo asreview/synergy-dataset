@@ -1,0 +1,1391 @@
+{
+  "id": "https://openalex.org/W3208207373",
+  "doi": "https://doi.org/10.3102/00346543211051428",
+  "title": "The Teacher\u2019s Invisible Hand: A Meta-Analysis of the Relevance of Teacher\u2013Student Relationship Quality for Peer Relationships and the Contribution of Student Behavior",
+  "display_name": "The Teacher\u2019s Invisible Hand: A Meta-Analysis of the Relevance of Teacher\u2013Student Relationship Quality for Peer Relationships and the Contribution of Student Behavior",
+  "publication_year": 2021,
+  "publication_date": "2021-10-23",
+  "ids": {
+    "openalex": "https://openalex.org/W3208207373",
+    "doi": "https://doi.org/10.3102/00346543211051428",
+    "mag": "3208207373"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.3102/00346543211051428",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.3102/00346543211051428",
+    "pdf_url": "https://journals.sagepub.com/doi/pdf/10.3102/00346543211051428",
+    "source": {
+      "id": "https://openalex.org/S92895470",
+      "display_name": "Review of Educational Research",
+      "issn_l": "0034-6543",
+      "issn": [
+        "0034-6543",
+        "1935-1046"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320017",
+      "host_organization_name": "SAGE Publishing",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320017"
+      ],
+      "host_organization_lineage_names": [
+        "SAGE Publishing"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Review of Educational Research",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "hybrid",
+    "oa_url": "https://journals.sagepub.com/doi/pdf/10.3102/00346543211051428",
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5060457712",
+        "display_name": "Hinke M. Endedijk",
+        "orcid": "https://orcid.org/0000-0001-5607-2589"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Hinke M. Endedijk",
+      "raw_affiliation_strings": [],
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5043430205",
+        "display_name": "Linda D. Breeman",
+        "orcid": "https://orcid.org/0000-0002-4441-2731"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I121797337",
+          "display_name": "Leiden University",
+          "ror": "https://ror.org/027bh9e22",
+          "country_code": "NL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I121797337"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Linda D. Breeman",
+      "raw_affiliation_strings": [
+        "Leiden University"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Leiden University",
+          "institution_ids": [
+            "https://openalex.org/I121797337"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5069426228",
+        "display_name": "Caspar J. Van Lissa",
+        "orcid": "https://orcid.org/0000-0002-0808-5024"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I193662353",
+          "display_name": "Utrecht University",
+          "ror": "https://ror.org/04pp8hn57",
+          "country_code": "NL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I193662353"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Caspar J. van Lissa",
+      "raw_affiliation_strings": [
+        "Utrecht University"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Utrecht University",
+          "institution_ids": [
+            "https://openalex.org/I193662353"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5003725154",
+        "display_name": "Marloes M. H. G. Hendrickx",
+        "orcid": "https://orcid.org/0000-0002-1290-3886"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I83019370",
+          "display_name": "Eindhoven University of Technology",
+          "ror": "https://ror.org/02c2kyt77",
+          "country_code": "NL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I83019370"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Marloes M. H. G. Hendrickx",
+      "raw_affiliation_strings": [
+        "Eindhoven University of Technology"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Eindhoven University of Technology",
+          "institution_ids": [
+            "https://openalex.org/I83019370"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5030790381",
+        "display_name": "Larissa den Boer",
+        "orcid": "https://orcid.org/0000-0003-2131-5709"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I151001089",
+          "display_name": "Avans University of Applied Sciences",
+          "ror": "https://ror.org/015d5s513",
+          "country_code": "NL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I151001089"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Larissa den Boer",
+      "raw_affiliation_strings": [
+        "Avans Hogeschool"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Avans Hogeschool",
+          "institution_ids": [
+            "https://openalex.org/I151001089"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5047943220",
+        "display_name": "Tim Mainhard",
+        "orcid": "https://orcid.org/0000-0003-2151-1398"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I193662353",
+          "display_name": "Utrecht University",
+          "ror": "https://ror.org/04pp8hn57",
+          "country_code": "NL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I193662353"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Tim Mainhard",
+      "raw_affiliation_strings": [
+        "Utrecht University"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Utrecht University",
+          "institution_ids": [
+            "https://openalex.org/I193662353"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 6,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 37.39050381,
+  "has_fulltext": false,
+  "cited_by_count": 127,
+  "citation_normalized_percentile": {
+    "value": 0.99840063,
+    "is_in_top_1_percent": true,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 96,
+    "max": 100
+  },
+  "biblio": {
+    "volume": "92",
+    "issue": "3",
+    "first_page": "370",
+    "last_page": "412"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10589",
+    "display_name": "Early Childhood Education and Development",
+    "score": 0.9970999956130981,
+    "subfield": {
+      "id": "https://openalex.org/subfields/3304",
+      "display_name": "Education"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/33",
+      "display_name": "Social Sciences"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/2",
+      "display_name": "Social Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10589",
+      "display_name": "Early Childhood Education and Development",
+      "score": 0.9970999956130981,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3304",
+        "display_name": "Education"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11676",
+      "display_name": "Parental Involvement in Education",
+      "score": 0.9948999881744385,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3304",
+        "display_name": "Education"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10485",
+      "display_name": "Bullying, Victimization, and Aggression",
+      "score": 0.9907000064849854,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3207",
+        "display_name": "Social Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/psychology",
+      "display_name": "Psychology",
+      "score": 0.8126448392868042
+    },
+    {
+      "id": "https://openalex.org/keywords/affect",
+      "display_name": "Affect (linguistics)",
+      "score": 0.7084096074104309
+    },
+    {
+      "id": "https://openalex.org/keywords/quality",
+      "display_name": "Quality (philosophy)",
+      "score": 0.5681312680244446
+    },
+    {
+      "id": "https://openalex.org/keywords/association",
+      "display_name": "Association (psychology)",
+      "score": 0.5672051310539246
+    },
+    {
+      "id": "https://openalex.org/keywords/meta-analysis",
+      "display_name": "Meta-analysis",
+      "score": 0.5392995476722717
+    },
+    {
+      "id": "https://openalex.org/keywords/relevance",
+      "display_name": "Relevance (law)",
+      "score": 0.5195903778076172
+    },
+    {
+      "id": "https://openalex.org/keywords/student-teacher",
+      "display_name": "Student teacher",
+      "score": 0.43847593665122986
+    },
+    {
+      "id": "https://openalex.org/keywords/social-psychology",
+      "display_name": "Social psychology",
+      "score": 0.4292186200618744
+    },
+    {
+      "id": "https://openalex.org/keywords/mathematics-education",
+      "display_name": "Mathematics education",
+      "score": 0.3874250650405884
+    },
+    {
+      "id": "https://openalex.org/keywords/developmental-psychology",
+      "display_name": "Developmental psychology",
+      "score": 0.3523802161216736
+    },
+    {
+      "id": "https://openalex.org/keywords/teacher-education",
+      "display_name": "Teacher education",
+      "score": 0.28324341773986816
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C15744967",
+      "wikidata": "https://www.wikidata.org/wiki/Q9418",
+      "display_name": "Psychology",
+      "level": 0,
+      "score": 0.8126448392868042
+    },
+    {
+      "id": "https://openalex.org/C2776035688",
+      "wikidata": "https://www.wikidata.org/wiki/Q1606558",
+      "display_name": "Affect (linguistics)",
+      "level": 2,
+      "score": 0.7084096074104309
+    },
+    {
+      "id": "https://openalex.org/C2779530757",
+      "wikidata": "https://www.wikidata.org/wiki/Q1207505",
+      "display_name": "Quality (philosophy)",
+      "level": 2,
+      "score": 0.5681312680244446
+    },
+    {
+      "id": "https://openalex.org/C142853389",
+      "wikidata": "https://www.wikidata.org/wiki/Q744778",
+      "display_name": "Association (psychology)",
+      "level": 2,
+      "score": 0.5672051310539246
+    },
+    {
+      "id": "https://openalex.org/C95190672",
+      "wikidata": "https://www.wikidata.org/wiki/Q815382",
+      "display_name": "Meta-analysis",
+      "level": 2,
+      "score": 0.5392995476722717
+    },
+    {
+      "id": "https://openalex.org/C158154518",
+      "wikidata": "https://www.wikidata.org/wiki/Q7310970",
+      "display_name": "Relevance (law)",
+      "level": 2,
+      "score": 0.5195903778076172
+    },
+    {
+      "id": "https://openalex.org/C3020207766",
+      "wikidata": "https://www.wikidata.org/wiki/Q4405230",
+      "display_name": "Student teacher",
+      "level": 3,
+      "score": 0.43847593665122986
+    },
+    {
+      "id": "https://openalex.org/C77805123",
+      "wikidata": "https://www.wikidata.org/wiki/Q161272",
+      "display_name": "Social psychology",
+      "level": 1,
+      "score": 0.4292186200618744
+    },
+    {
+      "id": "https://openalex.org/C145420912",
+      "wikidata": "https://www.wikidata.org/wiki/Q853077",
+      "display_name": "Mathematics education",
+      "level": 1,
+      "score": 0.3874250650405884
+    },
+    {
+      "id": "https://openalex.org/C138496976",
+      "wikidata": "https://www.wikidata.org/wiki/Q175002",
+      "display_name": "Developmental psychology",
+      "level": 1,
+      "score": 0.3523802161216736
+    },
+    {
+      "id": "https://openalex.org/C2780805685",
+      "wikidata": "https://www.wikidata.org/wiki/Q1374230",
+      "display_name": "Teacher education",
+      "level": 2,
+      "score": 0.28324341773986816
+    },
+    {
+      "id": "https://openalex.org/C46312422",
+      "wikidata": "https://www.wikidata.org/wiki/Q11024",
+      "display_name": "Communication",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C199539241",
+      "wikidata": "https://www.wikidata.org/wiki/Q7748",
+      "display_name": "Law",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C126322002",
+      "wikidata": "https://www.wikidata.org/wiki/Q11180",
+      "display_name": "Internal medicine",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C542102704",
+      "wikidata": "https://www.wikidata.org/wiki/Q183257",
+      "display_name": "Psychotherapist",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C138885662",
+      "wikidata": "https://www.wikidata.org/wiki/Q5891",
+      "display_name": "Philosophy",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C111472728",
+      "wikidata": "https://www.wikidata.org/wiki/Q9471",
+      "display_name": "Epistemology",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C71924100",
+      "wikidata": "https://www.wikidata.org/wiki/Q11190",
+      "display_name": "Medicine",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C17744445",
+      "wikidata": "https://www.wikidata.org/wiki/Q36442",
+      "display_name": "Political science",
+      "level": 0,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 10,
+  "locations": [
+    {
+      "id": "doi:10.3102/00346543211051428",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.3102/00346543211051428",
+      "pdf_url": "https://journals.sagepub.com/doi/pdf/10.3102/00346543211051428",
+      "source": {
+        "id": "https://openalex.org/S92895470",
+        "display_name": "Review of Educational Research",
+        "issn_l": "0034-6543",
+        "issn": [
+          "0034-6543",
+          "1935-1046"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320017",
+        "host_organization_name": "SAGE Publishing",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320017"
+        ],
+        "host_organization_lineage_names": [
+          "SAGE Publishing"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Review of Educational Research",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmh:oai:tilburguniversity.edu:openaire/9b7fc59d-d5e4-49e7-b9c3-88249d244b76",
+      "is_oa": true,
+      "landing_page_url": "https://research.tilburguniversity.edu/en/publications/9b7fc59d-d5e4-49e7-b9c3-88249d244b76",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401490",
+        "display_name": "Research portal (Tilburg University)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I193700539",
+        "host_organization_name": "Tilburg University",
+        "host_organization_lineage": [
+          "https://openalex.org/I193700539"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Endedijk, H M, Breeman, L D, van Lissa, C J, Hendrickx, M M H G, den Boer, L & Mainhard, T 2022, 'The Teacher's Invisible Hand : A Meta-Analysis of the Relevance of Teacher-Student Relationship Quality for Peer Relationships and the Contribution of Student Behavior', Review of educational research, vol. 92, no. 3, pp. 370-412. https://doi.org/10.3102/00346543211051428",
+      "raw_type": "info:eu-repo/semantics/publishedVersion"
+    },
+    {
+      "id": "pmh:oai:pure.tue.nl:openaire/a5fed3db-76f2-42a5-be8a-e5bb390e4cd6",
+      "is_oa": true,
+      "landing_page_url": "https://research.tue.nl/en/publications/a5fed3db-76f2-42a5-be8a-e5bb390e4cd6",
+      "pdf_url": null,
+      "source": null,
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Endedijk, H M, Breeman, L D, van Lissa, C J, Hendrickx, M M H G, den Boer, L & Mainhard, T 2022, 'The Teacher\u2019s Invisible Hand : A Meta-Analysis of the Relevance of Teacher\u2013Student Relationship Quality for Peer Relationships and the Contribution of Student Behavior', Review of Educational Research, vol. 92, no. 3, pp. 370-412. https://doi.org/10.3102/00346543211051428",
+      "raw_type": "article"
+    },
+    {
+      "id": "pmh:oai:pure.tue.nl:publications/a5fed3db-76f2-42a5-be8a-e5bb390e4cd6",
+      "is_oa": true,
+      "landing_page_url": "http://www.scopus.com/inward/record.url?scp=85117782462&partnerID=8YFLogxK",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306400063",
+        "display_name": "Scopus (Elsevier)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Endedijk, H M, Breeman, L D, van Lissa, C J, Hendrickx, M M H G, den Boer, L & Mainhard, T 2022, 'The Teacher\u2019s Invisible Hand : A Meta-Analysis of the Relevance of Teacher\u2013Student Relationship Quality for Peer Relationships and the Contribution of Student Behavior', Review of Educational Research, vol. 92, no. 3, pp. 370-412. https://doi.org/10.3102/00346543211051428",
+      "raw_type": "article"
+    },
+    {
+      "id": "pmh:oai:scholarlypublications.universiteitleiden.nl:item_3245285",
+      "is_oa": true,
+      "landing_page_url": "https://hdl.handle.net/1887/3245285",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S92895470",
+        "display_name": "Review of Educational Research",
+        "issn_l": "0034-6543",
+        "issn": [
+          "0034-6543",
+          "1935-1046"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320017",
+        "host_organization_name": "SAGE Publishing",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320017"
+        ],
+        "host_organization_lineage_names": [
+          "SAGE Publishing"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Review of Educational Research",
+      "raw_type": "Article / Letter to editor"
+    },
+    {
+      "id": "pmh:oai:scholarlypublications.universiteitleiden.nl:item_3626620",
+      "is_oa": true,
+      "landing_page_url": "https://hdl.handle.net/1887/3626620",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S92895470",
+        "display_name": "Review of Educational Research",
+        "issn_l": "0034-6543",
+        "issn": [
+          "0034-6543",
+          "1935-1046"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320017",
+        "host_organization_name": "SAGE Publishing",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320017"
+        ],
+        "host_organization_lineage_names": [
+          "SAGE Publishing"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Review of Educational Research",
+      "raw_type": "Article / Letter to editor"
+    },
+    {
+      "id": "pmh:tue:oai:pure.tue.nl:publications/a5fed3db-76f2-42a5-be8a-e5bb390e4cd6",
+      "is_oa": true,
+      "landing_page_url": "https://research.tue.nl/nl/publications/a5fed3db-76f2-42a5-be8a-e5bb390e4cd6",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401843",
+        "display_name": "Data Archiving and Networked Services (DANS)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1322597698",
+        "host_organization_name": "Royal Netherlands Academy of Arts and Sciences",
+        "host_organization_lineage": [
+          "https://openalex.org/I1322597698"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Review of Educational Research, 92(3), 370 - 412. SAGE Publications Ltd",
+      "raw_type": "info:eu-repo/semantics/article"
+    },
+    {
+      "id": "pmh:ul:oai:scholarlypublications.universiteitleiden.nl:item_3245285",
+      "is_oa": true,
+      "landing_page_url": "http://hdl.handle.net/1887/3245285",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401843",
+        "display_name": "Data Archiving and Networked Services (DANS)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1322597698",
+        "host_organization_name": "Royal Netherlands Academy of Arts and Sciences",
+        "host_organization_lineage": [
+          "https://openalex.org/I1322597698"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "other-oa",
+      "license_id": "https://openalex.org/licenses/other-oa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Review of Educational Research, 92(3), 370 - 412",
+      "raw_type": "info:eu-repo/semantics/article"
+    },
+    {
+      "id": "pmh:ul:oai:scholarlypublications.universiteitleiden.nl:item_3626620",
+      "is_oa": true,
+      "landing_page_url": "http://hdl.handle.net/1887/3626620",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401843",
+        "display_name": "Data Archiving and Networked Services (DANS)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1322597698",
+        "host_organization_name": "Royal Netherlands Academy of Arts and Sciences",
+        "host_organization_lineage": [
+          "https://openalex.org/I1322597698"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Review of Educational Research, 92(3), 370 - 412. American Educational Research Association (AERA)",
+      "raw_type": "info:eu-repo/semantics/article"
+    },
+    {
+      "id": "pmh:uu:oai:dspace.library.uu.nl:1874/424640",
+      "is_oa": true,
+      "landing_page_url": "https://dspace.library.uu.nl/handle/1874/424640",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401843",
+        "display_name": "Data Archiving and Networked Services (DANS)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1322597698",
+        "host_organization_name": "Royal Netherlands Academy of Arts and Sciences",
+        "host_organization_lineage": [
+          "https://openalex.org/I1322597698"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "other-oa",
+      "license_id": "https://openalex.org/licenses/other-oa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Review of Educational Research, 92(3). SAGE Publications Inc.",
+      "raw_type": "info:eu-repo/semantics/article"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.3102/00346543211051428",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.3102/00346543211051428",
+    "pdf_url": "https://journals.sagepub.com/doi/pdf/10.3102/00346543211051428",
+    "source": {
+      "id": "https://openalex.org/S92895470",
+      "display_name": "Review of Educational Research",
+      "issn_l": "0034-6543",
+      "issn": [
+        "0034-6543",
+        "1935-1046"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320017",
+      "host_organization_name": "SAGE Publishing",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320017"
+      ],
+      "host_organization_lineage_names": [
+        "SAGE Publishing"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Review of Educational Research",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [
+    {
+      "score": 0.6499999761581421,
+      "id": "https://metadata.un.org/sdg/4",
+      "display_name": "Quality Education"
+    }
+  ],
+  "awards": [
+    {
+      "id": "https://openalex.org/G1822709940",
+      "display_name": null,
+      "funder_award_id": "405-18-632",
+      "funder_id": "https://openalex.org/F4320335454",
+      "funder_display_name": "Nationaal Regieorgaan Onderwijsonderzoek"
+    }
+  ],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320335454",
+      "display_name": "Nationaal Regieorgaan Onderwijsonderzoek",
+      "ror": null
+    }
+  ],
+  "has_content": {
+    "pdf": true,
+    "grobid_xml": true
+  },
+  "referenced_works_count": 94,
+  "referenced_works": [
+    "https://openalex.org/W2891948117",
+    "https://openalex.org/W4206602326",
+    "https://openalex.org/W4251165956",
+    "https://openalex.org/W2893300601",
+    "https://openalex.org/W2082380691",
+    "https://openalex.org/W2039500623",
+    "https://openalex.org/W2560717735",
+    "https://openalex.org/W2129526419",
+    "https://openalex.org/W2102064245",
+    "https://openalex.org/W2971219641",
+    "https://openalex.org/W4244810351",
+    "https://openalex.org/W1971726740",
+    "https://openalex.org/W4232264660",
+    "https://openalex.org/W2112480356",
+    "https://openalex.org/W1971450852",
+    "https://openalex.org/W2007161990",
+    "https://openalex.org/W2987190745",
+    "https://openalex.org/W2125656672",
+    "https://openalex.org/W3035770768",
+    "https://openalex.org/W1575910362",
+    "https://openalex.org/W3113050218",
+    "https://openalex.org/W2008145772",
+    "https://openalex.org/W2084254640",
+    "https://openalex.org/W2028376255",
+    "https://openalex.org/W3000393023",
+    "https://openalex.org/W2738928109",
+    "https://openalex.org/W1986208869",
+    "https://openalex.org/W2335589980",
+    "https://openalex.org/W2751924411",
+    "https://openalex.org/W1192542241",
+    "https://openalex.org/W1979009509",
+    "https://openalex.org/W2468221858",
+    "https://openalex.org/W2013423818",
+    "https://openalex.org/W2088565670",
+    "https://openalex.org/W2596479433",
+    "https://openalex.org/W2597041886",
+    "https://openalex.org/W1849394772",
+    "https://openalex.org/W2557360754",
+    "https://openalex.org/W2238817017",
+    "https://openalex.org/W2790001931",
+    "https://openalex.org/W2005117493",
+    "https://openalex.org/W2052211460",
+    "https://openalex.org/W2227815445",
+    "https://openalex.org/W2056224202",
+    "https://openalex.org/W3047142345",
+    "https://openalex.org/W2124596392",
+    "https://openalex.org/W2128939744",
+    "https://openalex.org/W2079060782",
+    "https://openalex.org/W2169196305",
+    "https://openalex.org/W2106283540",
+    "https://openalex.org/W2001771110",
+    "https://openalex.org/W1981484063",
+    "https://openalex.org/W2582003380",
+    "https://openalex.org/W2137277770",
+    "https://openalex.org/W2069827701",
+    "https://openalex.org/W2751580866",
+    "https://openalex.org/W1987013693",
+    "https://openalex.org/W2169235979",
+    "https://openalex.org/W2050440482",
+    "https://openalex.org/W2059962478",
+    "https://openalex.org/W2284327776",
+    "https://openalex.org/W1808045100",
+    "https://openalex.org/W1660504809",
+    "https://openalex.org/W2046710926",
+    "https://openalex.org/W1558901538",
+    "https://openalex.org/W2229226246",
+    "https://openalex.org/W2519320116",
+    "https://openalex.org/W2045695037",
+    "https://openalex.org/W2766134982",
+    "https://openalex.org/W2101606999",
+    "https://openalex.org/W2084116469",
+    "https://openalex.org/W2098941635",
+    "https://openalex.org/W1972976072",
+    "https://openalex.org/W2267046491",
+    "https://openalex.org/W2755711341",
+    "https://openalex.org/W1937145827",
+    "https://openalex.org/W1989034404",
+    "https://openalex.org/W2039842580",
+    "https://openalex.org/W2141387452",
+    "https://openalex.org/W2139168999",
+    "https://openalex.org/W4205595756",
+    "https://openalex.org/W2624899431",
+    "https://openalex.org/W2763304073",
+    "https://openalex.org/W2007375312",
+    "https://openalex.org/W2064093534",
+    "https://openalex.org/W2314919541",
+    "https://openalex.org/W2107944207",
+    "https://openalex.org/W2775426495",
+    "https://openalex.org/W2153516712",
+    "https://openalex.org/W2077013329",
+    "https://openalex.org/W1550621568",
+    "https://openalex.org/W4243846760",
+    "https://openalex.org/W2730156328",
+    "https://openalex.org/W4205701390"
+  ],
+  "related_works": [
+    "https://openalex.org/W2560936962",
+    "https://openalex.org/W2788727012",
+    "https://openalex.org/W4388203630",
+    "https://openalex.org/W2526386912",
+    "https://openalex.org/W2410591377",
+    "https://openalex.org/W2323113755",
+    "https://openalex.org/W2104953402",
+    "https://openalex.org/W2506793457",
+    "https://openalex.org/W2359476398",
+    "https://openalex.org/W2085384747"
+  ],
+  "abstract_inverted_index": {
+    "The": [
+      0
+    ],
+    "relationships": [
+      1,
+      27,
+      60,
+      146
+    ],
+    "that": [
+      2,
+      109
+    ],
+    "students": [
+      3,
+      22,
+      148
+    ],
+    "have": [
+      4,
+      150
+    ],
+    "with": [
+      5,
+      43,
+      147
+    ],
+    "teachers": [
+      6,
+      19
+    ],
+    "and": [
+      7,
+      15,
+      28,
+      58,
+      102,
+      134
+    ],
+    "peers": [
+      8
+    ],
+    "are": [
+      9
+    ],
+    "important": [
+      10
+    ],
+    "for": [
+      11
+    ],
+    "their": [
+      12,
+      145
+    ],
+    "academic,": [
+      13
+    ],
+    "social,": [
+      14
+    ],
+    "behavioral": [
+      16,
+      151
+    ],
+    "development.": [
+      17,
+      34
+    ],
+    "How": [
+      18
+    ],
+    "relate": [
+      20
+    ],
+    "to": [
+      21,
+      45,
+      81
+    ],
+    "may": [
+      23
+    ],
+    "affect": [
+      24,
+      82,
+      155
+    ],
+    "students\u2019": [
+      25,
+      33
+    ],
+    "peer": [
+      26,
+      46,
+      59,
+      121,
+      135,
+      157
+    ],
+    "thereby": [
+      29
+    ],
+    "foster": [
+      30
+    ],
+    "or": [
+      31,
+      140
+    ],
+    "hamper": [
+      32
+    ],
+    "To": [
+      35
+    ],
+    "shed": [
+      36
+    ],
+    "more": [
+      37
+    ],
+    "light": [
+      38
+    ],
+    "on": [
+      39
+    ],
+    "the": [
+      40,
+      51,
+      54,
+      113,
+      129
+    ],
+    "teacher\u2019s": [
+      41
+    ],
+    "role": [
+      42
+    ],
+    "respect": [
+      44
+    ],
+    "relationships,": [
+      47,
+      98
+    ],
+    "this": [
+      48
+    ],
+    "meta-analysis": [
+      49
+    ],
+    "assessed": [
+      50
+    ],
+    "association": [
+      52,
+      130
+    ],
+    "between": [
+      53,
+      131
+    ],
+    "quality": [
+      55,
+      126
+    ],
+    "of": [
+      56,
+      85,
+      97,
+      100,
+      112,
+      120
+    ],
+    "teacher\u2013student": [
+      57,
+      114,
+      124
+    ],
+    "(n": [
+      61
+    ],
+    "=": [
+      62,
+      66
+    ],
+    "297": [
+      63
+    ],
+    "studies;": [
+      64
+    ],
+    "n": [
+      65
+    ],
+    "1,475": [
+      67
+    ],
+    "unique": [
+      68
+    ],
+    "effect": [
+      69
+    ],
+    "sizes).": [
+      70
+    ],
+    "We": [
+      71
+    ],
+    "took": [
+      72
+    ],
+    "student": [
+      73,
+      132
+    ],
+    "behavior": [
+      74,
+      133
+    ],
+    "into": [
+      75
+    ],
+    "account,": [
+      76
+    ],
+    "as": [
+      77,
+      92
+    ],
+    "it": [
+      78
+    ],
+    "is": [
+      79
+    ],
+    "known": [
+      80
+    ],
+    "both": [
+      83
+    ],
+    "types": [
+      84
+    ],
+    "relationship.": [
+      86
+    ],
+    "In": [
+      87
+    ],
+    "addition,": [
+      88
+    ],
+    "design": [
+      89
+    ],
+    "characteristics": [
+      90
+    ],
+    "such": [
+      91
+    ],
+    "positive": [
+      93
+    ],
+    "versus": [
+      94
+    ],
+    "negative": [
+      95,
+      110,
+      142
+    ],
+    "aspects": [
+      96,
+      111,
+      143
+    ],
+    "type": [
+      99
+    ],
+    "informants,": [
+      101
+    ],
+    "educational": [
+      103
+    ],
+    "level": [
+      104
+    ],
+    "were": [
+      105,
+      118
+    ],
+    "considered.": [
+      106
+    ],
+    "Results": [
+      107
+    ],
+    "showed": [
+      108
+    ],
+    "relationship": [
+      115,
+      125
+    ],
+    "in": [
+      116,
+      144
+    ],
+    "particular": [
+      117
+    ],
+    "predictive": [
+      119
+    ],
+    "relationships.": [
+      122,
+      136,
+      158
+    ],
+    "Moreover,": [
+      123
+    ],
+    "partially": [
+      127
+    ],
+    "mediated": [
+      128
+    ],
+    "For": [
+      137
+    ],
+    "teachers,": [
+      138
+    ],
+    "preventing": [
+      139
+    ],
+    "reducing": [
+      141
+    ],
+    "who": [
+      149
+    ],
+    "problems": [
+      152
+    ],
+    "can": [
+      153
+    ],
+    "positively": [
+      154
+    ],
+    "classroom": [
+      156
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 46
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 60
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 18
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 3
+    }
+  ],
+  "updated_date": "2025-11-06T03:46:38.306776",
+  "created_date": "2025-10-10T00:00:00"
+}

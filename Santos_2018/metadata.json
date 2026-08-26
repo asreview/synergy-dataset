@@ -1,0 +1,12 @@
+{
+  "key": "Santos_2018",
+  "publication": {
+    "doi": "10.1016/j.jss.2018.07.035",
+    "eligibility_criteria": "As the inclusion criteria, we only included:\n\u2022 Papers written in English.\n\u2022 Papers from journal, conference or workshop. We did not consider gray literature, such as technical reports or Ph.D. thesis.\n\u2022 Full papers. This criterion was proposed after in-depth readings. We considered that the short papers constraint of space makes difficult a consistent presentation of empirical results. We defined short paper as a paper with less than five pages. \nWe removed a paper if it was:\n\u2022 Not from software engineering. Once we adopted some generic terms, we noticed that many papers were related to other fields of engineering on science. For example, it was common to find papers addressing smells, in the sense of odor.\n\u2022 Not addressing smell effect. An example of a papers removed because of this criterion was a paper investigating component modularity (Yu and Ramaswamy, 2009), where the authors only declared to be related to smell, but they did not investigate the smell effect.\n\u2022 Focused on evaluation of automatic detection tools and heuristics. Their findings were usually related to the quality of their heuristics in comparison with other strategy of smell detection or human perception.\n\u2022 Focused on refactoring issues. Some papers evaluated refactoring tools or strategies. We also found papers investigating types of refactoring being used.\n\u2022 Focused on visualization tools. In these cases, the findings point to effectiveness of the tools. Due to this, we considered them out of scope of our SR.\n\u2022 Focused on metrics for smells. Also in these cases, the findings are not related to smell effect, but to the quality of metrics.\n\u2022 Not focused on smells for code design. We found papers using the term smell, but not related to code design."
+  },
+  "data": {
+    "doi": "10.5281/zenodo.1188977",
+    "n_records": 2886,
+    "n_records_included": 64
+  }
+}

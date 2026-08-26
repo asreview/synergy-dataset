@@ -1,0 +1,12 @@
+{
+  "key": "Smid_2019",
+  "publication": {
+    "doi": "10.1080/10705511.2019.1577140",
+    "eligibility_criteria": "We included papers in which a simulation study was used to investigate and compare the performance of Bayesian estimation to frequentist methods in structural equation models with a small sample size. We only included peer-reviewed papers in the field of social sciences. Non-English references were excluded, as well as books, book chapters, conference talks and software manuals. We used the following definitions of the inclusion criteria:\n\n- Simulation study. Multiple replicated datasets were analyzed, and results were summarized for all simulated data sets.\n- Bayesian estimation was compared to frequentist estimation methods. The performance of Bayesian and frequentist estimation was investigated for the exact same model, so that the results can be compared across the two estimation methods.\n- Structural equation models. Models of interest fall under the umbrella of structural equation models including mediation, CFA, latent growth, multilevel, and mixture models. Network analysis, machine learning,\nmeta-analysis and item response theory were excluded.\n- Small sample size. The original authors stated that at least one of the sample sizes in the simulation study represent a small sample size for their specific model. Small sample conditions must have been reported explicitly; aggregated results including small sample conditions were excluded."
+  },
+  "data": {
+    "doi": "10.17605/OSF.IO/PUQ7X",
+    "n_records": 2892,
+    "n_records_included": 27
+  }
+}

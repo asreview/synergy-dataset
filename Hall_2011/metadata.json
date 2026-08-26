@@ -1,0 +1,15 @@
+{
+  "key": "Hall_2011",
+  "collection": {
+    "doi": "10.1007/s10664-017-9587-0"
+  },
+  "publication": {
+    "doi": "10.1109/TSE.2011.103",
+    "eligibility_criteria": "To be included in this review, a study must be reported in a paper published in English as either a Journal paper or Conference proceedings. The criteria for studies to be included in our SLR are based on the inclusion and exclusion criteria presented in Table 2. Before accepting a paper into the review, we excluded repeated studies. If the same study appeared in several publications we included only the most comprehensive or most recent.\n\nTable 2.\nInclusion criteria (a paper must be. . . )\n- An empirical study\n- Focused on predicting faults in units of a software system\n- Faults in code is the main output (dependent variable)\n\nExclusion criteria (a paper must not be. . . )\n- Focused on: testing, fault injection, inspections, reliability modelling, aspects, effort estimation, debugging, faults relating to memory leakage, nano-computing, fault tolerance.\n- About the detection or localisation of existing individual known faults."
+  },
+  "data": {
+    "doi": "10.5281/zenodo.1162952",
+    "n_records": 8669,
+    "n_records_included": 104
+  }
+}

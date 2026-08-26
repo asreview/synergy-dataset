@@ -1,0 +1,12 @@
+{
+  "key": "Rinne_2021",
+  "publication": {
+    "doi": "10.1016/j.healthplace.2021.102737",
+    "eligibility_criteria": "Included papers needed to measure or focus on the effects of the physical environment on physical activity and employ a social ecological approach (Richard et al., 2011; Sallis et al., 2006). Peer-reviewed journal papers were included if they investigated the association between physical environments and any kind of human physical activity, followed the social ecological approach, and were written in English. Quantitative, qualitative, and mixed-method studies were included in order to consider different aspects of measuring the physical environment. Papers were excluded if they focused only on indoor space or did not measure the physical environment, did not have human physical activity as an outcome variable, or did not follow the principles of the ecological framework in terms of aiming at a multiple level approach. Study protocols, books, book chapters, commentaries, dissertations, editorials, theoretical and review papers were also excluded from the review."
+  },
+  "data": {
+    "doi": "10.5281/zenodo.5184745",
+    "n_records": 1765,
+    "n_records_included": 407
+  }
+}

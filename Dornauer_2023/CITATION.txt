@@ -1,0 +1,1 @@
+Dornauer, B., & Felderer, M. (2023). Energy-Saving Strategies for Mobile Web Apps and their Measurement: Results from a Decade of Research. 2023 IEEE/ACM 10th International Conference on Mobile Software Engineering and Systems (MOBILESoft), 52, 75–86. https://doi.org/10.1109/mobilsoft59058.2023.00017

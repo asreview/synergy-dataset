@@ -1,0 +1,12 @@
+{
+  "key": "Sep_2021",
+  "publication": {
+    "doi": "10.1371/journal.pone.0249102",
+    "eligibility_criteria": "Inclusion criteria for the systematic review were: (1) original article in the English language, (2) OIC task, (3) rodents, (4) control animals (no treatment, saline injection, or sham operation). Studies had to comply with the inclusion criteria above and report the sample size and (the data to calculate) the DR-with the corresponding standard error- to be included in the meta-analysis. Exclusion criteria were: 1) no primary literature in English; 2) other measures of context-dependent memory, like modified versions of the OIC task (e.g. combinations of context and location measures, context-dependent memory based on odors, classical fear conditioning or operant conditioning paradigms); 3) non-rodent species, 4) no control group tested. Note, genetic modification was not an exclusion criterium."
+  },
+  "data": {
+    "doi": "10.17605/OSF.IO/GY2MC",
+    "n_records": 268,
+    "n_records_included": 40
+  }
+}

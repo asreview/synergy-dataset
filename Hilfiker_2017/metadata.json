@@ -1,0 +1,15 @@
+{
+  "key": "Hilfiker_2017",
+  "publication": {
+    "doi": "10.1136/bjsports-2016-096422",
+    "eligibility_criteria": "Inclusion criteria for study selection\nPublished randomised or quasi-randomised trials evaluating the effect of all kind of exercise or other non-pharmaceutical interventions such as cognitive\u2013behavioural or relaxation interventions on CRF or vitality in patients with CRF during or after active cancer treatments were eligible for inclusion. All cancer types were included, because we assumed that CRF is a general cancer problem and that the working mechanisms and effects of the different interventions targeting CRF would be similar across all cancer diagnoses.\n\nExclusion criteria\nWe excluded trials comparing drugs or nutritional supplementations, acupuncture, electroacupuncture, acupressure, moxibustion or healing without touching the patients (eg, Reiki or healing over the phone), as well as expressive writing intervention because we focused on exercise and conventional physiotherapy-related interventions (eg, movement therapy, relaxation or massage). Studies with an intervention duration of <3 weeks as well as interventions aiming to improve sleep quality were also excluded."
+  },
+  "collection": {
+    "doi": "10.3233/SHTI200171"
+  },
+  "data": {
+    "doi": "10.5281/zenodo.10423427",
+    "n_records": 20485,
+    "n_records_included": 1842
+  }
+}

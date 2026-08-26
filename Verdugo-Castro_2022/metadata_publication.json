@@ -1,0 +1,1192 @@
+{
+  "id": "https://openalex.org/W4292874629",
+  "doi": "https://doi.org/10.1016/j.heliyon.2022.e10300",
+  "title": "The gender gap in higher STEM studies: A systematic literature review",
+  "display_name": "The gender gap in higher STEM studies: A systematic literature review",
+  "publication_year": 2022,
+  "publication_date": "2022-08-01",
+  "ids": {
+    "openalex": "https://openalex.org/W4292874629",
+    "doi": "https://doi.org/10.1016/j.heliyon.2022.e10300",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/36090203"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1016/j.heliyon.2022.e10300",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1016/j.heliyon.2022.e10300",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S2898612692",
+      "display_name": "Heliyon",
+      "issn_l": "2405-8440",
+      "issn": [
+        "2405-8440"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320990",
+      "host_organization_name": "Elsevier BV",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320990"
+      ],
+      "host_organization_lineage_names": [
+        "Elsevier BV"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Heliyon",
+    "raw_type": "journal-article"
+  },
+  "type": "review",
+  "indexed_in": [
+    "crossref",
+    "doaj",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "gold",
+    "oa_url": "https://doi.org/10.1016/j.heliyon.2022.e10300",
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5064536412",
+        "display_name": "Sonia Verdugo-Castro",
+        "orcid": "https://orcid.org/0000-0002-9357-1747"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I184999862",
+          "display_name": "Universidad de Salamanca",
+          "ror": "https://ror.org/02f40zc51",
+          "country_code": "ES",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I184999862"
+          ]
+        }
+      ],
+      "countries": [
+        "ES"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Sonia Verdugo-Castro",
+      "raw_affiliation_strings": [
+        "GRIAL Research Group, Department of Didactics, Organization and Research Methods, Research Institute for Educational Sciences, Universidad de Salamanca, Salamanca, Spain"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "GRIAL Research Group, Department of Didactics, Organization and Research Methods, Research Institute for Educational Sciences, Universidad de Salamanca, Salamanca, Spain",
+          "institution_ids": [
+            "https://openalex.org/I184999862"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5026479444",
+        "display_name": "Alicia Garc\u00eda\u2010Holgado",
+        "orcid": "https://orcid.org/0000-0001-9663-1103"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I184999862",
+          "display_name": "Universidad de Salamanca",
+          "ror": "https://ror.org/02f40zc51",
+          "country_code": "ES",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I184999862"
+          ]
+        }
+      ],
+      "countries": [
+        "ES"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Alicia Garc\u00eda-Holgado",
+      "raw_affiliation_strings": [
+        "GRIAL Research Group, Computer Science Department, Research Institute for Educational Sciences, Universidad de Salamanca, Salamanca, Spain"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "GRIAL Research Group, Computer Science Department, Research Institute for Educational Sciences, Universidad de Salamanca, Salamanca, Spain",
+          "institution_ids": [
+            "https://openalex.org/I184999862"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5039016392",
+        "display_name": "Mar\u00eda Cruz S\u00e1nchez G\u00f3mez",
+        "orcid": "https://orcid.org/0000-0003-4726-7143"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I184999862",
+          "display_name": "Universidad de Salamanca",
+          "ror": "https://ror.org/02f40zc51",
+          "country_code": "ES",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I184999862"
+          ]
+        }
+      ],
+      "countries": [
+        "ES"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "M\u00aa Cruz S\u00e1nchez-G\u00f3mez",
+      "raw_affiliation_strings": [
+        "GRIAL Research Group, Department of Didactics, Organization and Research Methods, Universidad de Salamanca, Salamanca, Spain"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "GRIAL Research Group, Department of Didactics, Organization and Research Methods, Universidad de Salamanca, Salamanca, Spain",
+          "institution_ids": [
+            "https://openalex.org/I184999862"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 3,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5064536412"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I184999862"
+  ],
+  "apc_list": {
+    "value": 1750,
+    "currency": "USD",
+    "value_usd": 1750
+  },
+  "apc_paid": {
+    "value": 1750,
+    "currency": "USD",
+    "value_usd": 1750
+  },
+  "fwci": 26.97051544,
+  "has_fulltext": false,
+  "cited_by_count": 102,
+  "citation_normalized_percentile": {
+    "value": 0.99591409,
+    "is_in_top_1_percent": true,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 94,
+    "max": 100
+  },
+  "biblio": {
+    "volume": "8",
+    "issue": "8",
+    "first_page": "e10300",
+    "last_page": "e10300"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10726",
+    "display_name": "Career Development and Diversity",
+    "score": 0.9995999932289124,
+    "subfield": {
+      "id": "https://openalex.org/subfields/3311",
+      "display_name": "Safety Research"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/33",
+      "display_name": "Social Sciences"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/2",
+      "display_name": "Social Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10726",
+      "display_name": "Career Development and Diversity",
+      "score": 0.9995999932289124,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3311",
+        "display_name": "Safety Research"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11779",
+      "display_name": "Higher Education and Employability",
+      "score": 0.9524999856948853,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3304",
+        "display_name": "Education"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/systematic-review",
+      "display_name": "Systematic review",
+      "score": 0.5215542316436768
+    },
+    {
+      "id": "https://openalex.org/keywords/medline",
+      "display_name": "MEDLINE",
+      "score": 0.34723031520843506
+    },
+    {
+      "id": "https://openalex.org/keywords/biology",
+      "display_name": "Biology",
+      "score": 0.17005190253257751
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C189708586",
+      "wikidata": "https://www.wikidata.org/wiki/Q1504425",
+      "display_name": "Systematic review",
+      "level": 3,
+      "score": 0.5215542316436768
+    },
+    {
+      "id": "https://openalex.org/C2779473830",
+      "wikidata": "https://www.wikidata.org/wiki/Q1540899",
+      "display_name": "MEDLINE",
+      "level": 2,
+      "score": 0.34723031520843506
+    },
+    {
+      "id": "https://openalex.org/C86803240",
+      "wikidata": "https://www.wikidata.org/wiki/Q420",
+      "display_name": "Biology",
+      "level": 0,
+      "score": 0.17005190253257751
+    },
+    {
+      "id": "https://openalex.org/C55493867",
+      "wikidata": "https://www.wikidata.org/wiki/Q7094",
+      "display_name": "Biochemistry",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 5,
+  "locations": [
+    {
+      "id": "doi:10.1016/j.heliyon.2022.e10300",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1016/j.heliyon.2022.e10300",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S2898612692",
+        "display_name": "Heliyon",
+        "issn_l": "2405-8440",
+        "issn": [
+          "2405-8440"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320990",
+        "host_organization_name": "Elsevier BV",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320990"
+        ],
+        "host_organization_lineage_names": [
+          "Elsevier BV"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Heliyon",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:36090203",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/36090203",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Heliyon",
+      "raw_type": null
+    },
+    {
+      "id": "pmh:oai:gredos.usal.es:10366/162249",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1016/j.heliyon.2022.e10300.",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4377196290",
+        "display_name": "Gredos (University of Salamanca)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I184999862",
+        "host_organization_name": "Universidad de Salamanca",
+        "host_organization_lineage": [
+          "https://openalex.org/I184999862"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "acceptedVersion",
+      "is_accepted": true,
+      "is_published": false,
+      "raw_source_name": null,
+      "raw_type": "info:eu-repo/semantics/publishedVersion"
+    },
+    {
+      "id": "pmh:oai:pubmedcentral.nih.gov:9449562",
+      "is_oa": true,
+      "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/9449562",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S2764455111",
+        "display_name": "PubMed Central",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "other-oa",
+      "license_id": "https://openalex.org/licenses/other-oa",
+      "version": "acceptedVersion",
+      "is_accepted": true,
+      "is_published": false,
+      "raw_source_name": "Heliyon",
+      "raw_type": "Text"
+    },
+    {
+      "id": "pmh:oai:doaj.org/article:aca4e8c6ab1540ba87e0ebd11b8cdc2f",
+      "is_oa": true,
+      "landing_page_url": "https://doaj.org/article/aca4e8c6ab1540ba87e0ebd11b8cdc2f",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401280",
+        "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by-sa",
+      "license_id": "https://openalex.org/licenses/cc-by-sa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Heliyon, Vol 8, Iss 8, Pp e10300- (2022)",
+      "raw_type": "article"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1016/j.heliyon.2022.e10300",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1016/j.heliyon.2022.e10300",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S2898612692",
+      "display_name": "Heliyon",
+      "issn_l": "2405-8440",
+      "issn": [
+        "2405-8440"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320990",
+      "host_organization_name": "Elsevier BV",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320990"
+      ],
+      "host_organization_lineage_names": [
+        "Elsevier BV"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Heliyon",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [
+    {
+      "score": 0.46000000834465027,
+      "id": "https://metadata.un.org/sdg/4",
+      "display_name": "Quality Education"
+    }
+  ],
+  "awards": [
+    {
+      "id": "https://openalex.org/G7088738599",
+      "display_name": null,
+      "funder_award_id": "598923-EPP-1-2018-1-ES-EPPKA2-CBHE-JP",
+      "funder_id": "https://openalex.org/F4320320300",
+      "funder_display_name": "European Commission"
+    }
+  ],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320315062",
+      "display_name": "Ministerio de Ciencia, Innovaci\u00f3n y Universidades",
+      "ror": null
+    },
+    {
+      "id": "https://openalex.org/F4320320300",
+      "display_name": "European Commission",
+      "ror": "https://ror.org/00k4n6c32"
+    }
+  ],
+  "has_content": {
+    "pdf": false,
+    "grobid_xml": false
+  },
+  "referenced_works_count": 82,
+  "referenced_works": [
+    "https://openalex.org/W3094178344",
+    "https://openalex.org/W4292808503",
+    "https://openalex.org/W2580263176",
+    "https://openalex.org/W2759689989",
+    "https://openalex.org/W6881231952",
+    "https://openalex.org/W2906818045",
+    "https://openalex.org/W6637542223",
+    "https://openalex.org/W2038882459",
+    "https://openalex.org/W1981657875",
+    "https://openalex.org/W6637744159",
+    "https://openalex.org/W2800334612",
+    "https://openalex.org/W6768826555",
+    "https://openalex.org/W2549756961",
+    "https://openalex.org/W2564429091",
+    "https://openalex.org/W2530828552",
+    "https://openalex.org/W2594725686",
+    "https://openalex.org/W2604811932",
+    "https://openalex.org/W1648326647",
+    "https://openalex.org/W2144703530",
+    "https://openalex.org/W2896800373",
+    "https://openalex.org/W3168639291",
+    "https://openalex.org/W1548444287",
+    "https://openalex.org/W2148781867",
+    "https://openalex.org/W6738183485",
+    "https://openalex.org/W6658238448",
+    "https://openalex.org/W2983255632",
+    "https://openalex.org/W2947766676",
+    "https://openalex.org/W2951366370",
+    "https://openalex.org/W3125849657",
+    "https://openalex.org/W2808186245",
+    "https://openalex.org/W2143665332",
+    "https://openalex.org/W2901119312",
+    "https://openalex.org/W2760899767",
+    "https://openalex.org/W6732361524",
+    "https://openalex.org/W2899114079",
+    "https://openalex.org/W2001591675",
+    "https://openalex.org/W2581618815",
+    "https://openalex.org/W2035286692",
+    "https://openalex.org/W3042094299",
+    "https://openalex.org/W6621464244",
+    "https://openalex.org/W2790785512",
+    "https://openalex.org/W4294215472",
+    "https://openalex.org/W2108193005",
+    "https://openalex.org/W6772154388",
+    "https://openalex.org/W2799851297",
+    "https://openalex.org/W6729531323",
+    "https://openalex.org/W6751624838",
+    "https://openalex.org/W1999798506",
+    "https://openalex.org/W2275732151",
+    "https://openalex.org/W2620807345",
+    "https://openalex.org/W3059246257",
+    "https://openalex.org/W2762599073",
+    "https://openalex.org/W2604335234",
+    "https://openalex.org/W2786372958",
+    "https://openalex.org/W2065048560",
+    "https://openalex.org/W1971294185",
+    "https://openalex.org/W6706955412",
+    "https://openalex.org/W2038960993",
+    "https://openalex.org/W6755561765",
+    "https://openalex.org/W2030325907",
+    "https://openalex.org/W2013407966",
+    "https://openalex.org/W649153895",
+    "https://openalex.org/W2494814417",
+    "https://openalex.org/W4242707756",
+    "https://openalex.org/W4256208268",
+    "https://openalex.org/W2616057122",
+    "https://openalex.org/W2556814408",
+    "https://openalex.org/W2980082947",
+    "https://openalex.org/W246286872",
+    "https://openalex.org/W2134049139",
+    "https://openalex.org/W2900006475",
+    "https://openalex.org/W2359173360",
+    "https://openalex.org/W4292874629",
+    "https://openalex.org/W2168894761",
+    "https://openalex.org/W2419197550",
+    "https://openalex.org/W2030768171",
+    "https://openalex.org/W2156098321",
+    "https://openalex.org/W2546983030",
+    "https://openalex.org/W1562463929",
+    "https://openalex.org/W2571417171",
+    "https://openalex.org/W2790271968",
+    "https://openalex.org/W2803161954"
+  ],
+  "related_works": [
+    "https://openalex.org/W2395691387",
+    "https://openalex.org/W2792383399",
+    "https://openalex.org/W3024289321",
+    "https://openalex.org/W2766255174",
+    "https://openalex.org/W4200400515",
+    "https://openalex.org/W2938724434",
+    "https://openalex.org/W4200615155",
+    "https://openalex.org/W4320717566",
+    "https://openalex.org/W2070311887",
+    "https://openalex.org/W2115099528"
+  ],
+  "abstract_inverted_index": {
+    "The": [
+      0,
+      84,
+      125,
+      168
+    ],
+    "development": [
+      1
+    ],
+    "of": [
+      2,
+      43,
+      63,
+      104,
+      127,
+      146,
+      177
+    ],
+    "science,": [
+      3
+    ],
+    "technology,": [
+      4
+    ],
+    "engineering,": [
+      5
+    ],
+    "and": [
+      6,
+      70,
+      82,
+      111,
+      117,
+      134,
+      183,
+      187,
+      210,
+      225
+    ],
+    "mathematics": [
+      7
+    ],
+    "(STEM)": [
+      8
+    ],
+    "requires": [
+      9
+    ],
+    "more": [
+      10
+    ],
+    "qualified": [
+      11
+    ],
+    "professionals": [
+      12
+    ],
+    "in": [
+      13,
+      19,
+      22,
+      99,
+      107,
+      181,
+      190
+    ],
+    "these": [
+      14
+    ],
+    "fields.": [
+      15
+    ],
+    "However,": [
+      16
+    ],
+    "gender": [
+      17,
+      28,
+      97,
+      115,
+      172,
+      179,
+      195
+    ],
+    "segregation": [
+      18
+    ],
+    "higher": [
+      20,
+      105,
+      123
+    ],
+    "education": [
+      21,
+      106,
+      140
+    ],
+    "this": [
+      23,
+      64
+    ],
+    "sector": [
+      24
+    ],
+    "is": [
+      25,
+      56,
+      198
+    ],
+    "creating": [
+      26
+    ],
+    "a": [
+      27
+    ],
+    "gap": [
+      29,
+      98,
+      180
+    ],
+    "that": [
+      30,
+      32,
+      171,
+      232
+    ],
+    "means": [
+      31
+    ],
+    "for": [
+      33,
+      75
+    ],
+    "some": [
+      34
+    ],
+    "disciplines": [
+      35
+    ],
+    "female": [
+      36
+    ],
+    "representation": [
+      37
+    ],
+    "does": [
+      38
+    ],
+    "not": [
+      39
+    ],
+    "even": [
+      40
+    ],
+    "reach": [
+      41
+    ],
+    "30%": [
+      42
+    ],
+    "the": [
+      44,
+      53,
+      60,
+      76,
+      79,
+      96,
+      102,
+      108,
+      138,
+      154,
+      158,
+      161,
+      178,
+      184,
+      194,
+      205,
+      207,
+      211,
+      218,
+      233
+    ],
+    "total.": [
+      45
+    ],
+    "In": [
+      46
+    ],
+    "order": [
+      47
+    ],
+    "to": [
+      48,
+      51,
+      58,
+      87,
+      101,
+      122,
+      166,
+      200,
+      228,
+      239
+    ],
+    "propose": [
+      49
+    ],
+    "measures": [
+      50
+    ],
+    "address": [
+      52
+    ],
+    "phenomenon,": [
+      54
+    ],
+    "it": [
+      55,
+      197
+    ],
+    "necessary": [
+      57,
+      199
+    ],
+    "understand": [
+      59
+    ],
+    "possible": [
+      61
+    ],
+    "causes": [
+      62
+    ],
+    "issue.": [
+      65
+    ],
+    "A": [
+      66,
+      144
+    ],
+    "systematic": [
+      67
+    ],
+    "literature": [
+      68
+    ],
+    "review": [
+      69,
+      126
+    ],
+    "mapping": [
+      71
+    ],
+    "were": [
+      72,
+      90,
+      150,
+      164
+    ],
+    "carried": [
+      73
+    ],
+    "out": [
+      74
+    ],
+    "study,": [
+      77
+    ],
+    "following": [
+      78
+    ],
+    "PRISMA": [
+      80,
+      159
+    ],
+    "guidelines": [
+      81
+    ],
+    "flowchart.": [
+      83
+    ],
+    "research": [
+      85
+    ],
+    "questions": [
+      86
+    ],
+    "be": [
+      88,
+      229
+    ],
+    "answered": [
+      89
+    ],
+    "(RQ1)": [
+      91
+    ],
+    "What": [
+      92
+    ],
+    "studies": [
+      93,
+      237
+    ],
+    "exist": [
+      94
+    ],
+    "on": [
+      95,
+      137,
+      202
+    ],
+    "relation": [
+      100
+    ],
+    "choice": [
+      103
+    ],
+    "STEM": [
+      109
+    ],
+    "field;": [
+      110
+    ],
+    "(RQ2)": [
+      112
+    ],
+    "How": [
+      113
+    ],
+    "do": [
+      114
+    ],
+    "roles": [
+      116
+    ],
+    "stereotypes": [
+      118,
+      173
+    ],
+    "influence": [
+      119
+    ],
+    "decision-making": [
+      120
+    ],
+    "related": [
+      121
+    ],
+    "education?": [
+      124
+    ],
+    "peer-reviewed": [
+      128
+    ],
+    "scientific": [
+      129
+    ],
+    "articles,": [
+      130
+    ],
+    "conferences": [
+      131
+    ],
+    "texts,": [
+      132
+    ],
+    "books": [
+      133
+    ],
+    "book": [
+      135
+    ],
+    "chapters": [
+      136
+    ],
+    "European": [
+      139
+    ],
+    "area": [
+      141
+    ],
+    "was": [
+      142
+    ],
+    "applied.": [
+      143
+    ],
+    "total": [
+      145
+    ],
+    "4571": [
+      147
+    ],
+    "initial": [
+      148
+    ],
+    "results": [
+      149,
+      163,
+      169
+    ],
+    "obtained": [
+      151
+    ],
+    "and,": [
+      152
+    ],
+    "after": [
+      153
+    ],
+    "process": [
+      155
+    ],
+    "marked": [
+      156
+    ],
+    "by": [
+      157
+    ],
+    "flowchart,": [
+      160
+    ],
+    "final": [
+      162
+    ],
+    "reduced": [
+      165
+    ],
+    "26.": [
+      167
+    ],
+    "revealed": [
+      170
+    ],
+    "are": [
+      174
+    ],
+    "strong": [
+      175
+    ],
+    "drivers": [
+      176
+    ],
+    "general,": [
+      182
+    ],
+    "Leaky": [
+      185
+    ],
+    "Pipeline": [
+      186
+    ],
+    "Stereotype": [
+      188
+    ],
+    "Threat": [
+      189
+    ],
+    "particular.": [
+      191
+    ],
+    "To": [
+      192
+    ],
+    "narrow": [
+      193
+    ],
+    "gap,": [
+      196
+    ],
+    "focus": [
+      201
+    ],
+    "influences": [
+      203
+    ],
+    "from": [
+      204,
+      217
+    ],
+    "family,": [
+      206
+    ],
+    "educational": [
+      208
+    ],
+    "environment,": [
+      209
+    ],
+    "peer": [
+      212
+    ],
+    "group,": [
+      213
+    ],
+    "as": [
+      214,
+      216
+    ],
+    "well": [
+      215
+    ],
+    "culture": [
+      219
+    ],
+    "itself.": [
+      220
+    ],
+    "Positive": [
+      221
+    ],
+    "self-concept,": [
+      222
+    ],
+    "self-efficacy,": [
+      223
+    ],
+    "self-confidence,": [
+      224
+    ],
+    "self-perception": [
+      226
+    ],
+    "need": [
+      227
+    ],
+    "fostered,": [
+      230
+    ],
+    "so": [
+      231
+    ],
+    "individual": [
+      234
+    ],
+    "chooses": [
+      235
+    ],
+    "their": [
+      236,
+      240
+    ],
+    "according": [
+      238
+    ],
+    "goals.": [
+      241
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 33
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 37
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 30
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 2
+    }
+  ],
+  "updated_date": "2025-11-06T03:46:38.306776",
+  "created_date": "2025-10-10T00:00:00"
+}

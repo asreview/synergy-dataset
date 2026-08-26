@@ -1,0 +1,12 @@
+{
+  "key": "Kerschbaumer_2022",
+  "publication": {
+    "doi": "10.1136/ard-2022-223365",
+    "eligibility_criteria": "The main research questions involved the efficacy of csDMARD, bDMARD and tsDMARDs, efficacy differences between different DMARDs; differences between combination therapy versus monotherapy, switching between bDMARDs and tsDMARDs, evidence on different treatment strategies as well as DMARD dose reduction and treatment discontinuation in patients with ongoing therapy. Patient populations were defined as follows: DMARD-na\u00efve patients, patients with insufficient response (IR) to csDMARD, patients who were bDMARD-IR and/or tsDMARD-IR. Comparator arms were required to include patients, receiving placebo or active therapy. These research questions covered the areas of the efficacy of csDMARDs, csDMARD combination therapies, bDMARDs and tsDMARDs (with and without concomitant csDMARDs), head-to-head comparisons of different bDMARDs and tsDMARDs, DMARD switching as well as DMARD tapering and stopping, and studies on biosimilars."
+  },
+  "data": {
+    "doi": "10.17605/OSF.IO/T8KNJ",
+    "n_records": 4544,
+    "n_records_included": 42
+  }
+}

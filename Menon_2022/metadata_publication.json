@@ -1,0 +1,1236 @@
+{
+  "id": "https://openalex.org/W4283818160",
+  "doi": "https://doi.org/10.1080/10408444.2022.2082917",
+  "title": "The methodological rigour of systematic reviews in environmental health",
+  "display_name": "The methodological rigour of systematic reviews in environmental health",
+  "publication_year": 2022,
+  "publication_date": "2022-03-16",
+  "ids": {
+    "openalex": "https://openalex.org/W4283818160",
+    "doi": "https://doi.org/10.1080/10408444.2022.2082917",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/35793403"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1080/10408444.2022.2082917",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1080/10408444.2022.2082917",
+    "pdf_url": "https://www.tandfonline.com/doi/pdf/10.1080/10408444.2022.2082917?needAccess=true",
+    "source": {
+      "id": "https://openalex.org/S78069630",
+      "display_name": "Critical Reviews in Toxicology",
+      "issn_l": "1040-8444",
+      "issn": [
+        "1040-8444",
+        "1547-6898"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320547",
+      "host_organization_name": "Taylor & Francis",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320547"
+      ],
+      "host_organization_lineage_names": [
+        "Taylor & Francis"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Critical Reviews in Toxicology",
+    "raw_type": "journal-article"
+  },
+  "type": "review",
+  "indexed_in": [
+    "crossref",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "hybrid",
+    "oa_url": "https://www.tandfonline.com/doi/pdf/10.1080/10408444.2022.2082917?needAccess=true",
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5081822669",
+        "display_name": "Julia M. L. Menon",
+        "orcid": "https://orcid.org/0000-0002-3467-1908"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2802934949",
+          "display_name": "Radboud University Medical Center",
+          "ror": "https://ror.org/05wg1m734",
+          "country_code": "NL",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2802934949"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I145872427",
+          "display_name": "Radboud University Nijmegen",
+          "ror": "https://ror.org/016xsfp80",
+          "country_code": "NL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I145872427"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "J. M. L. Menon",
+      "raw_affiliation_strings": [
+        "Systematic Review Center for Laboratory Animal Experimentation, Department for Health Evidence, Radboud University Medical Center, Nijmegen, the Netherlands"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Systematic Review Center for Laboratory Animal Experimentation, Department for Health Evidence, Radboud University Medical Center, Nijmegen, the Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I145872427",
+            "https://openalex.org/I2802934949"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5088916495",
+        "display_name": "Fr\u00e9derique Struijs",
+        "orcid": "https://orcid.org/0000-0001-9940-0327"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2802934949",
+          "display_name": "Radboud University Medical Center",
+          "ror": "https://ror.org/05wg1m734",
+          "country_code": "NL",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2802934949"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I145872427",
+          "display_name": "Radboud University Nijmegen",
+          "ror": "https://ror.org/016xsfp80",
+          "country_code": "NL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I145872427"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "F. Struijs",
+      "raw_affiliation_strings": [
+        "Systematic Review Center for Laboratory Animal Experimentation, Department for Health Evidence, Radboud University Medical Center, Nijmegen, the Netherlands"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Systematic Review Center for Laboratory Animal Experimentation, Department for Health Evidence, Radboud University Medical Center, Nijmegen, the Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I145872427",
+            "https://openalex.org/I2802934949"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5025222313",
+        "display_name": "Paul Whaley",
+        "orcid": "https://orcid.org/0000-0003-4021-0785"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I67415387",
+          "display_name": "Lancaster University",
+          "ror": "https://ror.org/04f2nsd36",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I67415387"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I145311948",
+          "display_name": "Johns Hopkins University",
+          "ror": "https://ror.org/00za53h95",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I145311948"
+          ]
+        }
+      ],
+      "countries": [
+        "GB",
+        "US"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "P. Whaley",
+      "raw_affiliation_strings": [
+        "Evidence-Based Toxicology Collaboration, Johns Hopkins Bloomberg School of Public Health, Baltimore, MD, USA",
+        "Lancaster Environment Centre, Lancaster University, Lancaster, UK"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Evidence-Based Toxicology Collaboration, Johns Hopkins Bloomberg School of Public Health, Baltimore, MD, USA",
+          "institution_ids": [
+            "https://openalex.org/I145311948"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Lancaster Environment Centre, Lancaster University, Lancaster, UK",
+          "institution_ids": [
+            "https://openalex.org/I67415387"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 3,
+  "institutions_distinct_count": 3,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5025222313"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I145311948",
+    "https://openalex.org/I67415387"
+  ],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 18.35986344,
+  "has_fulltext": false,
+  "cited_by_count": 38,
+  "citation_normalized_percentile": {
+    "value": 0.9896092,
+    "is_in_top_1_percent": true,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 96,
+    "max": 100
+  },
+  "biblio": {
+    "volume": "52",
+    "issue": "3",
+    "first_page": "167",
+    "last_page": "187"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T12443",
+    "display_name": "Delphi Technique in Research",
+    "score": 0.9921000003814697,
+    "subfield": {
+      "id": "https://openalex.org/subfields/3312",
+      "display_name": "Sociology and Political Science"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/33",
+      "display_name": "Social Sciences"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/2",
+      "display_name": "Social Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T12443",
+      "display_name": "Delphi Technique in Research",
+      "score": 0.9921000003814697,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10206",
+      "display_name": "Meta-analysis and systematic reviews",
+      "score": 0.9902999997138977,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1804",
+        "display_name": "Statistics, Probability and Uncertainty"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/18",
+        "display_name": "Decision Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11244",
+      "display_name": "Climate Change and Health Impacts",
+      "score": 0.9445000290870667,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2307",
+        "display_name": "Health, Toxicology and Mutagenesis"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/rigour",
+      "display_name": "Rigour",
+      "score": 0.839492917060852
+    },
+    {
+      "id": "https://openalex.org/keywords/medicine",
+      "display_name": "Medicine",
+      "score": 0.4446756839752197
+    },
+    {
+      "id": "https://openalex.org/keywords/systematic-review",
+      "display_name": "Systematic review",
+      "score": 0.4296380579471588
+    },
+    {
+      "id": "https://openalex.org/keywords/engineering-ethics",
+      "display_name": "Engineering ethics",
+      "score": 0.39153340458869934
+    },
+    {
+      "id": "https://openalex.org/keywords/management-science",
+      "display_name": "Management science",
+      "score": 0.36989569664001465
+    },
+    {
+      "id": "https://openalex.org/keywords/medline",
+      "display_name": "MEDLINE",
+      "score": 0.35832127928733826
+    },
+    {
+      "id": "https://openalex.org/keywords/environmental-health",
+      "display_name": "Environmental health",
+      "score": 0.3507418632507324
+    },
+    {
+      "id": "https://openalex.org/keywords/risk-analysis",
+      "display_name": "Risk analysis (engineering)",
+      "score": 0.3461449146270752
+    },
+    {
+      "id": "https://openalex.org/keywords/engineering",
+      "display_name": "Engineering",
+      "score": 0.25138092041015625
+    },
+    {
+      "id": "https://openalex.org/keywords/chemistry",
+      "display_name": "Chemistry",
+      "score": 0.19038644433021545
+    },
+    {
+      "id": "https://openalex.org/keywords/epistemology",
+      "display_name": "Epistemology",
+      "score": 0.14247554540634155
+    },
+    {
+      "id": "https://openalex.org/keywords/philosophy",
+      "display_name": "Philosophy",
+      "score": 0.09616437554359436
+    },
+    {
+      "id": "https://openalex.org/keywords/biochemistry",
+      "display_name": "Biochemistry",
+      "score": 0.0865950882434845
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C71008984",
+      "wikidata": "https://www.wikidata.org/wiki/Q2890076",
+      "display_name": "Rigour",
+      "level": 2,
+      "score": 0.839492917060852
+    },
+    {
+      "id": "https://openalex.org/C71924100",
+      "wikidata": "https://www.wikidata.org/wiki/Q11190",
+      "display_name": "Medicine",
+      "level": 0,
+      "score": 0.4446756839752197
+    },
+    {
+      "id": "https://openalex.org/C189708586",
+      "wikidata": "https://www.wikidata.org/wiki/Q1504425",
+      "display_name": "Systematic review",
+      "level": 3,
+      "score": 0.4296380579471588
+    },
+    {
+      "id": "https://openalex.org/C55587333",
+      "wikidata": "https://www.wikidata.org/wiki/Q1133029",
+      "display_name": "Engineering ethics",
+      "level": 1,
+      "score": 0.39153340458869934
+    },
+    {
+      "id": "https://openalex.org/C539667460",
+      "wikidata": "https://www.wikidata.org/wiki/Q2414942",
+      "display_name": "Management science",
+      "level": 1,
+      "score": 0.36989569664001465
+    },
+    {
+      "id": "https://openalex.org/C2779473830",
+      "wikidata": "https://www.wikidata.org/wiki/Q1540899",
+      "display_name": "MEDLINE",
+      "level": 2,
+      "score": 0.35832127928733826
+    },
+    {
+      "id": "https://openalex.org/C99454951",
+      "wikidata": "https://www.wikidata.org/wiki/Q932068",
+      "display_name": "Environmental health",
+      "level": 1,
+      "score": 0.3507418632507324
+    },
+    {
+      "id": "https://openalex.org/C112930515",
+      "wikidata": "https://www.wikidata.org/wiki/Q4389547",
+      "display_name": "Risk analysis (engineering)",
+      "level": 1,
+      "score": 0.3461449146270752
+    },
+    {
+      "id": "https://openalex.org/C127413603",
+      "wikidata": "https://www.wikidata.org/wiki/Q11023",
+      "display_name": "Engineering",
+      "level": 0,
+      "score": 0.25138092041015625
+    },
+    {
+      "id": "https://openalex.org/C185592680",
+      "wikidata": "https://www.wikidata.org/wiki/Q2329",
+      "display_name": "Chemistry",
+      "level": 0,
+      "score": 0.19038644433021545
+    },
+    {
+      "id": "https://openalex.org/C111472728",
+      "wikidata": "https://www.wikidata.org/wiki/Q9471",
+      "display_name": "Epistemology",
+      "level": 1,
+      "score": 0.14247554540634155
+    },
+    {
+      "id": "https://openalex.org/C138885662",
+      "wikidata": "https://www.wikidata.org/wiki/Q5891",
+      "display_name": "Philosophy",
+      "level": 0,
+      "score": 0.09616437554359436
+    },
+    {
+      "id": "https://openalex.org/C55493867",
+      "wikidata": "https://www.wikidata.org/wiki/Q7094",
+      "display_name": "Biochemistry",
+      "level": 1,
+      "score": 0.0865950882434845
+    }
+  ],
+  "mesh": [
+    {
+      "descriptor_ui": "D004782",
+      "descriptor_name": "Environmental Health",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D000078202",
+      "descriptor_name": "Systematic Reviews as Topic",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D004782",
+      "descriptor_name": "Environmental Health",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D000078202",
+      "descriptor_name": "Systematic Reviews as Topic",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    }
+  ],
+  "locations_count": 2,
+  "locations": [
+    {
+      "id": "doi:10.1080/10408444.2022.2082917",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1080/10408444.2022.2082917",
+      "pdf_url": "https://www.tandfonline.com/doi/pdf/10.1080/10408444.2022.2082917?needAccess=true",
+      "source": {
+        "id": "https://openalex.org/S78069630",
+        "display_name": "Critical Reviews in Toxicology",
+        "issn_l": "1040-8444",
+        "issn": [
+          "1040-8444",
+          "1547-6898"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320547",
+        "host_organization_name": "Taylor & Francis",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320547"
+        ],
+        "host_organization_lineage_names": [
+          "Taylor & Francis"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Critical Reviews in Toxicology",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:35793403",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/35793403",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Critical reviews in toxicology",
+      "raw_type": null
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1080/10408444.2022.2082917",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1080/10408444.2022.2082917",
+    "pdf_url": "https://www.tandfonline.com/doi/pdf/10.1080/10408444.2022.2082917?needAccess=true",
+    "source": {
+      "id": "https://openalex.org/S78069630",
+      "display_name": "Critical Reviews in Toxicology",
+      "issn_l": "1040-8444",
+      "issn": [
+        "1040-8444",
+        "1547-6898"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320547",
+      "host_organization_name": "Taylor & Francis",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320547"
+      ],
+      "host_organization_lineage_names": [
+        "Taylor & Francis"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Critical Reviews in Toxicology",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "pdf": true,
+    "grobid_xml": true
+  },
+  "referenced_works_count": 63,
+  "referenced_works": [
+    "https://openalex.org/W2342064264",
+    "https://openalex.org/W1973429805",
+    "https://openalex.org/W4251590972",
+    "https://openalex.org/W4247938048",
+    "https://openalex.org/W1968277564",
+    "https://openalex.org/W2083040885",
+    "https://openalex.org/W2163834848",
+    "https://openalex.org/W2605047282",
+    "https://openalex.org/W2061616393",
+    "https://openalex.org/W2560393808",
+    "https://openalex.org/W2216601860",
+    "https://openalex.org/W2003057203",
+    "https://openalex.org/W4220824703",
+    "https://openalex.org/W2990498583",
+    "https://openalex.org/W2122027830",
+    "https://openalex.org/W2165010366",
+    "https://openalex.org/W2112374244",
+    "https://openalex.org/W2949899843",
+    "https://openalex.org/W134224908",
+    "https://openalex.org/W2974795905",
+    "https://openalex.org/W2567362164",
+    "https://openalex.org/W2612847450",
+    "https://openalex.org/W2016499588",
+    "https://openalex.org/W2520714999",
+    "https://openalex.org/W1972978214",
+    "https://openalex.org/W2940242975",
+    "https://openalex.org/W6925207847",
+    "https://openalex.org/W4210782096",
+    "https://openalex.org/W2468996569",
+    "https://openalex.org/W2287802286",
+    "https://openalex.org/W2888939741",
+    "https://openalex.org/W2919919335",
+    "https://openalex.org/W2396846174",
+    "https://openalex.org/W3164897219",
+    "https://openalex.org/W2624852015",
+    "https://openalex.org/W3093480876",
+    "https://openalex.org/W2158079075",
+    "https://openalex.org/W2996224202",
+    "https://openalex.org/W3016741407",
+    "https://openalex.org/W2066218383",
+    "https://openalex.org/W2972927651",
+    "https://openalex.org/W2767065098",
+    "https://openalex.org/W2149648221",
+    "https://openalex.org/W2168745915",
+    "https://openalex.org/W2756578555",
+    "https://openalex.org/W813685639",
+    "https://openalex.org/W2288954477",
+    "https://openalex.org/W3086269609",
+    "https://openalex.org/W2531269403",
+    "https://openalex.org/W3147788101",
+    "https://openalex.org/W2467158152",
+    "https://openalex.org/W2116810060",
+    "https://openalex.org/W3127496626",
+    "https://openalex.org/W3040808147",
+    "https://openalex.org/W3175331864",
+    "https://openalex.org/W3117197087",
+    "https://openalex.org/W4221025212",
+    "https://openalex.org/W2267817556",
+    "https://openalex.org/W2342964685",
+    "https://openalex.org/W1997898721",
+    "https://openalex.org/W4239301040",
+    "https://openalex.org/W118549185",
+    "https://openalex.org/W3130318947"
+  ],
+  "related_works": [
+    "https://openalex.org/W110842092",
+    "https://openalex.org/W2751556990",
+    "https://openalex.org/W2377573520",
+    "https://openalex.org/W4388699627",
+    "https://openalex.org/W2589416519",
+    "https://openalex.org/W2070311887",
+    "https://openalex.org/W2115099528",
+    "https://openalex.org/W2801016049",
+    "https://openalex.org/W2043902988",
+    "https://openalex.org/W4230169674"
+  ],
+  "abstract_inverted_index": {
+    "While": [
+      0
+    ],
+    "systematic": [
+      1
+    ],
+    "reviews": [
+      2
+    ],
+    "(SRs)": [
+      3
+    ],
+    "are": [
+      4,
+      25,
+      36,
+      77,
+      226
+    ],
+    "often": [
+      5
+    ],
+    "perceived": [
+      6
+    ],
+    "as": [
+      7,
+      159
+    ],
+    "a": [
+      8,
+      58,
+      63,
+      70,
+      73,
+      84,
+      126,
+      138,
+      147,
+      151,
+      160,
+      173,
+      177,
+      195,
+      210,
+      220
+    ],
+    "\"gold": [
+      9
+    ],
+    "standard\"": [
+      10
+    ],
+    "for": [
+      11,
+      95,
+      140,
+      187,
+      228
+    ],
+    "evidence": [
+      12,
+      145
+    ],
+    "synthesis": [
+      13
+    ],
+    "in": [
+      14,
+      69,
+      143
+    ],
+    "environmental": [
+      15,
+      47,
+      216
+    ],
+    "health": [
+      16,
+      48,
+      217
+    ],
+    "and": [
+      17,
+      50,
+      112,
+      154
+    ],
+    "toxicology,": [
+      18
+    ],
+    "the": [
+      19,
+      43,
+      120,
+      144,
+      165
+    ],
+    "methodological": [
+      20,
+      44,
+      81,
+      207,
+      223
+    ],
+    "rigour": [
+      21,
+      45,
+      82,
+      208
+    ],
+    "with": [
+      22,
+      72,
+      79,
+      205
+    ],
+    "which": [
+      23
+    ],
+    "they": [
+      24,
+      103
+    ],
+    "currently": [
+      26
+    ],
+    "being": [
+      27,
+      67
+    ],
+    "conducted": [
+      28
+    ],
+    "is": [
+      29
+    ],
+    "unclear.": [
+      30
+    ],
+    "The": [
+      31,
+      122
+    ],
+    "objectives": [
+      32,
+      158
+    ],
+    "of": [
+      33,
+      46,
+      62,
+      83,
+      89,
+      98,
+      129,
+      132,
+      137,
+      146,
+      156,
+      180,
+      183,
+      194,
+      209,
+      222,
+      242
+    ],
+    "this": [
+      34,
+      231
+    ],
+    "study": [
+      35,
+      109,
+      213
+    ],
+    "(1)": [
+      37
+    ],
+    "to": [
+      38,
+      52,
+      57,
+      118,
+      150
+    ],
+    "provide": [
+      39
+    ],
+    "up-to-date": [
+      40
+    ],
+    "information": [
+      41
+    ],
+    "about": [
+      42
+    ],
+    "SRs": [
+      49,
+      92,
+      124,
+      218
+    ],
+    "(2)": [
+      51
+    ],
+    "test": [
+      53
+    ],
+    "hypotheses": [
+      54
+    ],
+    "that": [
+      55,
+      171,
+      189,
+      215,
+      225
+    ],
+    "reference": [
+      56,
+      149
+    ],
+    "pre-published": [
+      59,
+      152,
+      174
+    ],
+    "protocol,": [
+      60,
+      153
+    ],
+    "use": [
+      61,
+      193,
+      241
+    ],
+    "reporting": [
+      64,
+      196,
+      243
+    ],
+    "checklist,": [
+      65
+    ],
+    "or": [
+      66
+    ],
+    "published": [
+      68
+    ],
+    "journal": [
+      71,
+      199
+    ],
+    "higher": [
+      74
+    ],
+    "impact": [
+      75,
+      200
+    ],
+    "factor,": [
+      76
+    ],
+    "associated": [
+      78,
+      204
+    ],
+    "increased": [
+      80,
+      206
+    ],
+    "SR.": [
+      85,
+      211
+    ],
+    "A": [
+      86
+    ],
+    "purposive": [
+      87
+    ],
+    "sample": [
+      88
+    ],
+    "75": [
+      90
+    ],
+    "contemporary": [
+      91
+    ],
+    "were": [
+      93,
+      164
+    ],
+    "assessed": [
+      94
+    ],
+    "how": [
+      96
+    ],
+    "many": [
+      97
+    ],
+    "11": [
+      99,
+      133
+    ],
+    "recommended": [
+      100,
+      134,
+      168
+    ],
+    "SR": [
+      101
+    ],
+    "practices": [
+      102
+    ],
+    "implemented.": [
+      104
+    ],
+    "Information": [
+      105
+    ],
+    "including": [
+      106
+    ],
+    "search": [
+      107
+    ],
+    "strategies,": [
+      108
+    ],
+    "appraisal": [
+      110
+    ],
+    "tools,": [
+      111
+    ],
+    "certainty": [
+      113,
+      142
+    ],
+    "assessment": [
+      114
+    ],
+    "methods": [
+      115
+    ],
+    "was": [
+      116,
+      202
+    ],
+    "extracted": [
+      117
+    ],
+    "contextualise": [
+      119
+    ],
+    "results.": [
+      121
+    ],
+    "included": [
+      123
+    ],
+    "implemented": [
+      125
+    ],
+    "median": [
+      127
+    ],
+    "average": [
+      128,
+      179
+    ],
+    "6": [
+      130
+    ],
+    "out": [
+      131,
+      182
+    ],
+    "practices.": [
+      135,
+      169
+    ],
+    "Use": [
+      136
+    ],
+    "framework": [
+      139
+    ],
+    "assessing": [
+      141
+    ],
+    "SR,": [
+      148
+    ],
+    "characterisation": [
+      155
+    ],
+    "research": [
+      157
+    ],
+    "complete": [
+      161
+    ],
+    "Population-Exposure-Comparator-Outcome": [
+      162
+    ],
+    "statement": [
+      163
+    ],
+    "least": [
+      166
+    ],
+    "common": [
+      167
+    ],
+    "Reviews": [
+      170
+    ],
+    "referenced": [
+      172
+    ],
+    "protocol": [
+      175
+    ],
+    "scored": [
+      176
+    ],
+    "mean": [
+      178
+    ],
+    "7.77": [
+      181
+    ],
+    "10": [
+      184
+    ],
+    "against": [
+      185
+    ],
+    "5.39": [
+      186
+    ],
+    "those": [
+      188
+    ],
+    "did": [
+      190
+    ],
+    "not.": [
+      191
+    ],
+    "Neither": [
+      192
+    ],
+    "checklist": [
+      197
+    ],
+    "nor": [
+      198
+    ],
+    "factor": [
+      201
+    ],
+    "significantly": [
+      203
+    ],
+    "Our": [
+      212
+    ],
+    "shows": [
+      214
+    ],
+    "omit": [
+      219
+    ],
+    "range": [
+      221
+    ],
+    "components": [
+      224
+    ],
+    "important": [
+      227
+    ],
+    "rigour.": [
+      229
+    ],
+    "Improving": [
+      230
+    ],
+    "situation": [
+      232
+    ],
+    "will": [
+      233
+    ],
+    "require": [
+      234
+    ],
+    "more": [
+      235
+    ],
+    "complex,": [
+      236
+    ],
+    "comprehensive": [
+      237
+    ],
+    "interventions": [
+      238
+    ],
+    "than": [
+      239
+    ],
+    "simple": [
+      240
+    ],
+    "standards.": [
+      244
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 9
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 20
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 6
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 3
+    }
+  ],
+  "updated_date": "2025-11-06T03:46:38.306776",
+  "created_date": "2025-10-10T00:00:00"
+}

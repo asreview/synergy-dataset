@@ -1,0 +1,1269 @@
+{
+  "id": "https://openalex.org/W3184835146",
+  "doi": "https://doi.org/10.3389/fpsyg.2021.677217",
+  "title": "Impacts of Social and Emotional Learning Interventions for Teachers on Teachers' Outcomes: A Systematic Review With Meta-Analysis",
+  "display_name": "Impacts of Social and Emotional Learning Interventions for Teachers on Teachers' Outcomes: A Systematic Review With Meta-Analysis",
+  "publication_year": 2021,
+  "publication_date": "2021-07-01",
+  "ids": {
+    "openalex": "https://openalex.org/W3184835146",
+    "doi": "https://doi.org/10.3389/fpsyg.2021.677217",
+    "mag": "3184835146",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/34276496"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.3389/fpsyg.2021.677217",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.3389/fpsyg.2021.677217",
+    "pdf_url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2021.677217/pdf",
+    "source": {
+      "id": "https://openalex.org/S9692511",
+      "display_name": "Frontiers in Psychology",
+      "issn_l": "1664-1078",
+      "issn": [
+        "1664-1078"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320527",
+      "host_organization_name": "Frontiers Media",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320527"
+      ],
+      "host_organization_lineage_names": [
+        "Frontiers Media"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Frontiers in Psychology",
+    "raw_type": "journal-article"
+  },
+  "type": "review",
+  "indexed_in": [
+    "crossref",
+    "doaj",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "gold",
+    "oa_url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2021.677217/pdf",
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5035163182",
+        "display_name": "Sofia Oliveira",
+        "orcid": "https://orcid.org/0000-0003-3941-1387"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I141596103",
+          "display_name": "University of Lisbon",
+          "ror": "https://ror.org/01c27hj86",
+          "country_code": "PT",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I141596103"
+          ]
+        }
+      ],
+      "countries": [
+        "PT"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Sofia Oliveira",
+      "raw_affiliation_strings": [
+        "Centro de Investiga\u00e7\u00e3o em Ci\u00eancia Psicol\u00f3gica, Faculdade de Psicologia, Universidade de Lisboa, Lisboa, Portugal"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Centro de Investiga\u00e7\u00e3o em Ci\u00eancia Psicol\u00f3gica, Faculdade de Psicologia, Universidade de Lisboa, Lisboa, Portugal",
+          "institution_ids": [
+            "https://openalex.org/I141596103"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5009776688",
+        "display_name": "Magda Sofia Roberto",
+        "orcid": "https://orcid.org/0000-0003-4127-561X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I141596103",
+          "display_name": "University of Lisbon",
+          "ror": "https://ror.org/01c27hj86",
+          "country_code": "PT",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I141596103"
+          ]
+        }
+      ],
+      "countries": [
+        "PT"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Magda Sofia Roberto",
+      "raw_affiliation_strings": [
+        "Centro de Investiga\u00e7\u00e3o em Ci\u00eancia Psicol\u00f3gica, Faculdade de Psicologia, Universidade de Lisboa, Lisboa, Portugal"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Centro de Investiga\u00e7\u00e3o em Ci\u00eancia Psicol\u00f3gica, Faculdade de Psicologia, Universidade de Lisboa, Lisboa, Portugal",
+          "institution_ids": [
+            "https://openalex.org/I141596103"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5088247151",
+        "display_name": "N\u00e1dia Pereira",
+        "orcid": "https://orcid.org/0000-0002-1695-6352"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I141596103",
+          "display_name": "University of Lisbon",
+          "ror": "https://ror.org/01c27hj86",
+          "country_code": "PT",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I141596103"
+          ]
+        }
+      ],
+      "countries": [
+        "PT"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "N\u00e1dia Salgado Pereira",
+      "raw_affiliation_strings": [
+        "Centro de Investiga\u00e7\u00e3o em Ci\u00eancia Psicol\u00f3gica, Faculdade de Psicologia, Universidade de Lisboa, Lisboa, Portugal"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Centro de Investiga\u00e7\u00e3o em Ci\u00eancia Psicol\u00f3gica, Faculdade de Psicologia, Universidade de Lisboa, Lisboa, Portugal",
+          "institution_ids": [
+            "https://openalex.org/I141596103"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5065503960",
+        "display_name": "Alexandra Marques\u2010Pinto",
+        "orcid": "https://orcid.org/0000-0002-9204-9519"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I141596103",
+          "display_name": "University of Lisbon",
+          "ror": "https://ror.org/01c27hj86",
+          "country_code": "PT",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I141596103"
+          ]
+        }
+      ],
+      "countries": [
+        "PT"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Alexandra Marques-Pinto",
+      "raw_affiliation_strings": [
+        "Centro de Investiga\u00e7\u00e3o em Ci\u00eancia Psicol\u00f3gica, Faculdade de Psicologia, Universidade de Lisboa, Lisboa, Portugal"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Centro de Investiga\u00e7\u00e3o em Ci\u00eancia Psicol\u00f3gica, Faculdade de Psicologia, Universidade de Lisboa, Lisboa, Portugal",
+          "institution_ids": [
+            "https://openalex.org/I141596103"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5074544417",
+        "display_name": "Ana Margarida Veiga Sim\u00e3o",
+        "orcid": "https://orcid.org/0000-0003-3652-5573"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I141596103",
+          "display_name": "University of Lisbon",
+          "ror": "https://ror.org/01c27hj86",
+          "country_code": "PT",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I141596103"
+          ]
+        }
+      ],
+      "countries": [
+        "PT"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Ana Margarida Veiga-Sim\u00e3o",
+      "raw_affiliation_strings": [
+        "Centro de Investiga\u00e7\u00e3o em Ci\u00eancia Psicol\u00f3gica, Faculdade de Psicologia, Universidade de Lisboa, Lisboa, Portugal"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Centro de Investiga\u00e7\u00e3o em Ci\u00eancia Psicol\u00f3gica, Faculdade de Psicologia, Universidade de Lisboa, Lisboa, Portugal",
+          "institution_ids": [
+            "https://openalex.org/I141596103"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 5,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5035163182"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I141596103"
+  ],
+  "apc_list": {
+    "value": 2950,
+    "currency": "USD",
+    "value_usd": 2950
+  },
+  "apc_paid": {
+    "value": 2950,
+    "currency": "USD",
+    "value_usd": 2950
+  },
+  "fwci": 32.31278107,
+  "has_fulltext": true,
+  "cited_by_count": 111,
+  "citation_normalized_percentile": {
+    "value": 0.99787644,
+    "is_in_top_1_percent": true,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 97,
+    "max": 100
+  },
+  "biblio": {
+    "volume": "12",
+    "issue": null,
+    "first_page": "677217",
+    "last_page": "677217"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10589",
+    "display_name": "Early Childhood Education and Development",
+    "score": 0.9980000257492065,
+    "subfield": {
+      "id": "https://openalex.org/subfields/3304",
+      "display_name": "Education"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/33",
+      "display_name": "Social Sciences"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/2",
+      "display_name": "Social Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10589",
+      "display_name": "Early Childhood Education and Development",
+      "score": 0.9980000257492065,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3304",
+        "display_name": "Education"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10182",
+      "display_name": "Child and Adolescent Psychosocial and Emotional Development",
+      "score": 0.989799976348877,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3203",
+        "display_name": "Clinical Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10708",
+      "display_name": "Mindfulness and Compassion Interventions",
+      "score": 0.9743000268936157,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3203",
+        "display_name": "Clinical Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/psychological-intervention",
+      "display_name": "Psychological intervention",
+      "score": 0.8488439917564392
+    },
+    {
+      "id": "https://openalex.org/keywords/psychology",
+      "display_name": "Psychology",
+      "score": 0.8139916062355042
+    },
+    {
+      "id": "https://openalex.org/keywords/meta-analysis",
+      "display_name": "Meta-analysis",
+      "score": 0.7608509659767151
+    },
+    {
+      "id": "https://openalex.org/keywords/competence",
+      "display_name": "Competence (human resources)",
+      "score": 0.5105839371681213
+    },
+    {
+      "id": "https://openalex.org/keywords/social-competence",
+      "display_name": "Social competence",
+      "score": 0.4679889380931854
+    },
+    {
+      "id": "https://openalex.org/keywords/systematic-review",
+      "display_name": "Systematic review",
+      "score": 0.4234654903411865
+    },
+    {
+      "id": "https://openalex.org/keywords/developmental-psychology",
+      "display_name": "Developmental psychology",
+      "score": 0.40640178322792053
+    },
+    {
+      "id": "https://openalex.org/keywords/clinical-psychology",
+      "display_name": "Clinical psychology",
+      "score": 0.40210527181625366
+    },
+    {
+      "id": "https://openalex.org/keywords/social-psychology",
+      "display_name": "Social psychology",
+      "score": 0.2916688323020935
+    },
+    {
+      "id": "https://openalex.org/keywords/medline",
+      "display_name": "MEDLINE",
+      "score": 0.20374900102615356
+    },
+    {
+      "id": "https://openalex.org/keywords/social-change",
+      "display_name": "Social change",
+      "score": 0.1590532660484314
+    },
+    {
+      "id": "https://openalex.org/keywords/medicine",
+      "display_name": "Medicine",
+      "score": 0.10981041193008423
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C27415008",
+      "wikidata": "https://www.wikidata.org/wiki/Q7256382",
+      "display_name": "Psychological intervention",
+      "level": 2,
+      "score": 0.8488439917564392
+    },
+    {
+      "id": "https://openalex.org/C15744967",
+      "wikidata": "https://www.wikidata.org/wiki/Q9418",
+      "display_name": "Psychology",
+      "level": 0,
+      "score": 0.8139916062355042
+    },
+    {
+      "id": "https://openalex.org/C95190672",
+      "wikidata": "https://www.wikidata.org/wiki/Q815382",
+      "display_name": "Meta-analysis",
+      "level": 2,
+      "score": 0.7608509659767151
+    },
+    {
+      "id": "https://openalex.org/C100521375",
+      "wikidata": "https://www.wikidata.org/wiki/Q2015382",
+      "display_name": "Competence (human resources)",
+      "level": 2,
+      "score": 0.5105839371681213
+    },
+    {
+      "id": "https://openalex.org/C25148115",
+      "wikidata": "https://www.wikidata.org/wiki/Q304904",
+      "display_name": "Social competence",
+      "level": 3,
+      "score": 0.4679889380931854
+    },
+    {
+      "id": "https://openalex.org/C189708586",
+      "wikidata": "https://www.wikidata.org/wiki/Q1504425",
+      "display_name": "Systematic review",
+      "level": 3,
+      "score": 0.4234654903411865
+    },
+    {
+      "id": "https://openalex.org/C138496976",
+      "wikidata": "https://www.wikidata.org/wiki/Q175002",
+      "display_name": "Developmental psychology",
+      "level": 1,
+      "score": 0.40640178322792053
+    },
+    {
+      "id": "https://openalex.org/C70410870",
+      "wikidata": "https://www.wikidata.org/wiki/Q199906",
+      "display_name": "Clinical psychology",
+      "level": 1,
+      "score": 0.40210527181625366
+    },
+    {
+      "id": "https://openalex.org/C77805123",
+      "wikidata": "https://www.wikidata.org/wiki/Q161272",
+      "display_name": "Social psychology",
+      "level": 1,
+      "score": 0.2916688323020935
+    },
+    {
+      "id": "https://openalex.org/C2779473830",
+      "wikidata": "https://www.wikidata.org/wiki/Q1540899",
+      "display_name": "MEDLINE",
+      "level": 2,
+      "score": 0.20374900102615356
+    },
+    {
+      "id": "https://openalex.org/C206836424",
+      "wikidata": "https://www.wikidata.org/wiki/Q1510761",
+      "display_name": "Social change",
+      "level": 2,
+      "score": 0.1590532660484314
+    },
+    {
+      "id": "https://openalex.org/C71924100",
+      "wikidata": "https://www.wikidata.org/wiki/Q11190",
+      "display_name": "Medicine",
+      "level": 0,
+      "score": 0.10981041193008423
+    },
+    {
+      "id": "https://openalex.org/C162324750",
+      "wikidata": "https://www.wikidata.org/wiki/Q8134",
+      "display_name": "Economics",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C199539241",
+      "wikidata": "https://www.wikidata.org/wiki/Q7748",
+      "display_name": "Law",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C118552586",
+      "wikidata": "https://www.wikidata.org/wiki/Q7867",
+      "display_name": "Psychiatry",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C50522688",
+      "wikidata": "https://www.wikidata.org/wiki/Q189833",
+      "display_name": "Economic growth",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C17744445",
+      "wikidata": "https://www.wikidata.org/wiki/Q36442",
+      "display_name": "Political science",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C126322002",
+      "wikidata": "https://www.wikidata.org/wiki/Q11180",
+      "display_name": "Internal medicine",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 4,
+  "locations": [
+    {
+      "id": "doi:10.3389/fpsyg.2021.677217",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.3389/fpsyg.2021.677217",
+      "pdf_url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2021.677217/pdf",
+      "source": {
+        "id": "https://openalex.org/S9692511",
+        "display_name": "Frontiers in Psychology",
+        "issn_l": "1664-1078",
+        "issn": [
+          "1664-1078"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320527",
+        "host_organization_name": "Frontiers Media",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320527"
+        ],
+        "host_organization_lineage_names": [
+          "Frontiers Media"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Frontiers in Psychology",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:34276496",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/34276496",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Frontiers in psychology",
+      "raw_type": null
+    },
+    {
+      "id": "pmh:oai:doaj.org/article:39376dbee68d44e0960fcbf652a5d09a",
+      "is_oa": true,
+      "landing_page_url": "https://doaj.org/article/39376dbee68d44e0960fcbf652a5d09a",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401280",
+        "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by-sa",
+      "license_id": "https://openalex.org/licenses/cc-by-sa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Frontiers in Psychology, Vol 12 (2021)",
+      "raw_type": "article"
+    },
+    {
+      "id": "pmh:oai:pubmedcentral.nih.gov:8281129",
+      "is_oa": true,
+      "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/8281129",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S2764455111",
+        "display_name": "PubMed Central",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "other-oa",
+      "license_id": "https://openalex.org/licenses/other-oa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Front Psychol",
+      "raw_type": "Text"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.3389/fpsyg.2021.677217",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.3389/fpsyg.2021.677217",
+    "pdf_url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2021.677217/pdf",
+    "source": {
+      "id": "https://openalex.org/S9692511",
+      "display_name": "Frontiers in Psychology",
+      "issn_l": "1664-1078",
+      "issn": [
+        "1664-1078"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320527",
+      "host_organization_name": "Frontiers Media",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320527"
+      ],
+      "host_organization_lineage_names": [
+        "Frontiers Media"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Frontiers in Psychology",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [
+    {
+      "display_name": "Quality Education",
+      "score": 0.4399999976158142,
+      "id": "https://metadata.un.org/sdg/4"
+    },
+    {
+      "display_name": "Decent work and economic growth",
+      "score": 0.4000000059604645,
+      "id": "https://metadata.un.org/sdg/8"
+    }
+  ],
+  "awards": [],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320334779",
+      "display_name": "Funda\u00e7\u00e3o para a Ci\u00eancia e a Tecnologia",
+      "ror": "https://ror.org/00snfqn58"
+    }
+  ],
+  "has_content": {
+    "pdf": true,
+    "grobid_xml": true
+  },
+  "referenced_works_count": 64,
+  "referenced_works": [
+    "https://openalex.org/W2097173491",
+    "https://openalex.org/W2018381788",
+    "https://openalex.org/W2026974075",
+    "https://openalex.org/W2508482013",
+    "https://openalex.org/W3159899185",
+    "https://openalex.org/W2775562942",
+    "https://openalex.org/W2560341338",
+    "https://openalex.org/W2780384220",
+    "https://openalex.org/W2403488992",
+    "https://openalex.org/W2052729098",
+    "https://openalex.org/W2226451587",
+    "https://openalex.org/W2128689084",
+    "https://openalex.org/W2017307913",
+    "https://openalex.org/W2590774814",
+    "https://openalex.org/W1855367376",
+    "https://openalex.org/W2531443228",
+    "https://openalex.org/W2064258062",
+    "https://openalex.org/W2085710876",
+    "https://openalex.org/W2155243985",
+    "https://openalex.org/W2182257064",
+    "https://openalex.org/W1981188819",
+    "https://openalex.org/W2311632781",
+    "https://openalex.org/W2125435699",
+    "https://openalex.org/W2098923148",
+    "https://openalex.org/W2094953527",
+    "https://openalex.org/W2586532698",
+    "https://openalex.org/W2464924628",
+    "https://openalex.org/W2588419425",
+    "https://openalex.org/W2163855447",
+    "https://openalex.org/W2158836722",
+    "https://openalex.org/W2887222263",
+    "https://openalex.org/W2903394929",
+    "https://openalex.org/W2538702877",
+    "https://openalex.org/W3208355235",
+    "https://openalex.org/W2949093523",
+    "https://openalex.org/W6986612503",
+    "https://openalex.org/W2161374186",
+    "https://openalex.org/W2107546587",
+    "https://openalex.org/W2765857734",
+    "https://openalex.org/W1561556558",
+    "https://openalex.org/W2159599228",
+    "https://openalex.org/W2998525975",
+    "https://openalex.org/W2971366751",
+    "https://openalex.org/W2161142700",
+    "https://openalex.org/W4211075179",
+    "https://openalex.org/W2772887646",
+    "https://openalex.org/W2135134040",
+    "https://openalex.org/W1510734920",
+    "https://openalex.org/W2728579776",
+    "https://openalex.org/W2153043827",
+    "https://openalex.org/W2326421807",
+    "https://openalex.org/W1999549808",
+    "https://openalex.org/W1606942993",
+    "https://openalex.org/W1974479479",
+    "https://openalex.org/W2139168999",
+    "https://openalex.org/W2141561234",
+    "https://openalex.org/W2465240660",
+    "https://openalex.org/W2802000010",
+    "https://openalex.org/W2797773104",
+    "https://openalex.org/W1531613484",
+    "https://openalex.org/W2599030673",
+    "https://openalex.org/W1975361274",
+    "https://openalex.org/W1551283852",
+    "https://openalex.org/W2212401464"
+  ],
+  "related_works": [
+    "https://openalex.org/W3134325150",
+    "https://openalex.org/W3210678099",
+    "https://openalex.org/W4200025911",
+    "https://openalex.org/W4394486262",
+    "https://openalex.org/W3088977003",
+    "https://openalex.org/W4387745674",
+    "https://openalex.org/W3111640694",
+    "https://openalex.org/W4226264679",
+    "https://openalex.org/W4360943417",
+    "https://openalex.org/W4294636802"
+  ],
+  "abstract_inverted_index": {
+    "Teaching": [
+      0
+    ],
+    "is": [
+      1
+    ],
+    "among": [
+      2
+    ],
+    "the": [
+      3,
+      50,
+      73,
+      84,
+      96,
+      143,
+      166,
+      174,
+      179
+    ],
+    "most": [
+      4
+    ],
+    "emotionally": [
+      5
+    ],
+    "demanding": [
+      6
+    ],
+    "jobs,": [
+      7
+    ],
+    "impacting": [
+      8,
+      102
+    ],
+    "teachers'": [
+      9,
+      103
+    ],
+    "personal": [
+      10
+    ],
+    "lives": [
+      11
+    ],
+    "and": [
+      12,
+      23,
+      72,
+      105,
+      125,
+      146,
+      153,
+      156,
+      171
+    ],
+    "job": [
+      13
+    ],
+    "performance.": [
+      14
+    ],
+    "Since": [
+      15
+    ],
+    "teaching-specific": [
+      16
+    ],
+    "stressors": [
+      17
+    ],
+    "are": [
+      18
+    ],
+    "mainly": [
+      19
+    ],
+    "socio-emotional": [
+      20
+    ],
+    "related,": [
+      21
+    ],
+    "social": [
+      22,
+      104,
+      152
+    ],
+    "emotional": [
+      24,
+      106,
+      154
+    ],
+    "learning": [
+      25
+    ],
+    "(SEL)": [
+      26
+    ],
+    "interventions": [
+      27,
+      55,
+      68,
+      101,
+      170,
+      184
+    ],
+    "targeting": [
+      28
+    ],
+    "teachers": [
+      29
+    ],
+    "have": [
+      30
+    ],
+    "increased": [
+      31
+    ],
+    "rapidly": [
+      32
+    ],
+    "in": [
+      33
+    ],
+    "recent": [
+      34
+    ],
+    "years.": [
+      35
+    ],
+    "This": [
+      36
+    ],
+    "study": [
+      37
+    ],
+    "conducted": [
+      38
+    ],
+    "a": [
+      39
+    ],
+    "systematic": [
+      40,
+      63
+    ],
+    "review": [
+      41,
+      64
+    ],
+    "with": [
+      42,
+      99
+    ],
+    "meta-analysis": [
+      43
+    ],
+    "of": [
+      44,
+      52,
+      142,
+      168,
+      176,
+      181
+    ],
+    "43": [
+      45
+    ],
+    "empirical": [
+      46,
+      163
+    ],
+    "studies": [
+      47
+    ],
+    "which": [
+      48
+    ],
+    "evaluated": [
+      49
+    ],
+    "efficacy": [
+      51,
+      77
+    ],
+    "school-based": [
+      53
+    ],
+    "SEL": [
+      54,
+      100,
+      183
+    ],
+    "involving": [
+      56
+    ],
+    "3,004": [
+      57
+    ],
+    "in-service": [
+      58
+    ],
+    "preK-12": [
+      59
+    ],
+    "teachers.": [
+      60,
+      186
+    ],
+    "The": [
+      61
+    ],
+    "initial": [
+      62
+    ],
+    "showed": [
+      65,
+      87
+    ],
+    "that": [
+      66
+    ],
+    "these": [
+      67,
+      169
+    ],
+    "were": [
+      69
+    ],
+    "very": [
+      70
+    ],
+    "heterogeneous": [
+      71
+    ],
+    "research": [
+      74
+    ],
+    "on": [
+      75
+    ],
+    "their": [
+      76
+    ],
+    "assessed": [
+      78
+    ],
+    "widely": [
+      79
+    ],
+    "distinct": [
+      80
+    ],
+    "outcome": [
+      81
+    ],
+    "variables.": [
+      82
+    ],
+    "Concerning": [
+      83
+    ],
+    "meta-analysis,": [
+      85
+    ],
+    "results": [
+      86
+    ],
+    "statistically": [
+      88
+    ],
+    "significant": [
+      89,
+      140
+    ],
+    "small": [
+      90
+    ],
+    "to": [
+      91,
+      161,
+      173
+    ],
+    "medium": [
+      92
+    ],
+    "effect": [
+      93
+    ],
+    "sizes": [
+      94
+    ],
+    "favoring": [
+      95
+    ],
+    "experimental": [
+      97
+    ],
+    "group,": [
+      98
+    ],
+    "competence": [
+      107,
+      155
+    ],
+    "[": [
+      108,
+      117,
+      128
+    ],
+    "g": [
+      109,
+      118,
+      129
+    ],
+    "=": [
+      110,
+      119,
+      130
+    ],
+    "0.59,": [
+      111
+    ],
+    "95%": [
+      112,
+      121,
+      132
+    ],
+    "CI": [
+      113,
+      122,
+      133
+    ],
+    "(0.29,": [
+      114
+    ],
+    "0.90)],": [
+      115
+    ],
+    "well-being": [
+      116,
+      157
+    ],
+    "0.35,": [
+      120
+    ],
+    "(0.16,": [
+      123
+    ],
+    "0.54)],": [
+      124
+    ],
+    "psychological": [
+      126
+    ],
+    "distress": [
+      127
+    ],
+    "\u22120.34,": [
+      131
+    ],
+    "(\u22120.57,": [
+      134
+    ],
+    "\u22120.10)].": [
+      135
+    ],
+    "Meta-regressions": [
+      136
+    ],
+    "did": [
+      137
+    ],
+    "not": [
+      138
+    ],
+    "reveal": [
+      139
+    ],
+    "values": [
+      141
+    ],
+    "explanatory": [
+      144
+    ],
+    "variables,": [
+      145
+    ],
+    "publication": [
+      147
+    ],
+    "bias": [
+      148
+    ],
+    "was": [
+      149
+    ],
+    "found": [
+      150
+    ],
+    "for": [
+      151,
+      178,
+      185
+    ],
+    "domains.": [
+      158
+    ],
+    "Findings": [
+      159
+    ],
+    "add": [
+      160
+    ],
+    "growing": [
+      162
+    ],
+    "evidence": [
+      164
+    ],
+    "regarding": [
+      165
+    ],
+    "impact": [
+      167
+    ],
+    "contribute": [
+      172
+    ],
+    "development": [
+      175
+    ],
+    "guidelines": [
+      177
+    ],
+    "design": [
+      180
+    ],
+    "effective": [
+      182
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 41
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 25
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 25
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 15
+    },
+    {
+      "year": 2021,
+      "cited_by_count": 5
+    }
+  ],
+  "updated_date": "2025-11-06T03:46:38.306776",
+  "created_date": "2025-10-10T00:00:00"
+}

@@ -1,0 +1,15 @@
+{
+  "key": "Chou_2003",
+  "publication": {
+    "doi": "10.1016/j.jpainsymman.2003.03.003",
+    "eligibility_criteria": "All English-language titles and abstracts and suggested additional citations were reviewed for inclusion using criteria developed by the research team with input from the subcommittee. We obtained full-text articles if the title and abstract review met the following eligibility criteria:\n\n1. Systematic reviews of the clinical efficacy or adverse event rates of long-acting opioids in patients with chronic non-cancer pain, OR\n\n2. Randomized controlled trials that compared one of the long-acting opioids listed above to another long-acting opioid, a short-acting opioid, a non-opioid, or placebo in adult patients with chronic non-cancer pain, OR\n\n3. Randomized controlled trials and observational studies that reported adverse event rates for one of the long-acting opioids listed above."
+  },
+  "collection": {
+    "doi": "10.1197/jamia.M1929"
+  },
+  "data": {
+    "url": "https://dmice.ohsu.edu/cohenaa/systematic-drug-class-review-data.html",
+    "n_records": 1866,
+    "n_records_included": 15
+  }
+}

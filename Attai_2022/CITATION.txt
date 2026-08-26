@@ -1,0 +1,1 @@
+Attai, K., Amannejad, Y., Vahdat Pour, M., Obot, O., & Uzoka, F.-M. (2022). A Systematic Review of Applications of Machine Learning and Other Soft Computing Techniques for the Diagnosis of Tropical Diseases. Tropical Medicine and Infectious Disease, 7(12), 398. https://doi.org/10.3390/tropicalmed7120398

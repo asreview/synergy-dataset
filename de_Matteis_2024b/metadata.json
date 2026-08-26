@@ -1,0 +1,12 @@
+{
+  "key": "de_Matteis_2024b",
+  "publication": {
+    "doi": "10.1136/ard-2024-225853",
+    "eligibility_criteria": "Here we sought to include studies reporting diagnostic biomarkers for sJIA and/or AOSD. We included only studies with data on accuracy (ie, reporting receiver operating characteristic (ROC) curve values, area under the ROC curve (AUC) and/or sensitivity and specificity)."
+  },
+  "data": {
+    "doi": "10.17605/OSF.IO/T8KNJ",
+    "n_records": 866,
+    "n_records_included": 32
+  }
+}

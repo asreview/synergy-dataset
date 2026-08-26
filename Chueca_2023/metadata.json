@@ -1,0 +1,12 @@
+{
+  "key": "Chueca_2023",
+  "publication": {
+    "doi": "10.1016/j.infsof.2023.107330",
+    "eligibility_criteria": "The following criteria state when we excluded a study from our\nstudy:\n\u2022 Studies that were duplicates of other studies.\n\u2022 Studies that were not written in English.\n\u2022 Studies that were not published online between 2009 to 2021.\n\u2022 Studies presenting non-peer-reviewed material.\n\u2022 Studies presenting peer-reviewed but not published in journals,\nconferences, or workshops.\n\u2022 Studies that were summaries of conferences/editorials.\n\u2022 Non-primary studies.\nThe following criteria state when we included a study in the study:\n\u2022 Studies that were not focused on the social and educational\nimpact of video games, such as serious games.\n\u2022 Studies that were not focused on Artificial Intelligence (AI).\n\u2022 Studies that were not focused on Content Creation.\n\u2022 Studies that were in the field of Software Engineering.\n\u2022 Studies that were focused on software engineering applied to\nindustry-scale computer games development."
+  },
+  "data": {
+    "doi": "10.5281/zenodo.8242657",
+    "n_records": 2764,
+    "n_records_included": 90
+  }
+}

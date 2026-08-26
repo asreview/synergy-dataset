@@ -1,0 +1,1684 @@
+{
+  "id": "https://openalex.org/W2949422680",
+  "doi": "https://doi.org/10.1111/liv.14179",
+  "title": "Comparative effectiveness of common therapies for Wilson disease: A systematic review and meta\u2010analysis of controlled studies",
+  "display_name": "Comparative effectiveness of common therapies for Wilson disease: A systematic review and meta\u2010analysis of controlled studies",
+  "publication_year": 2019,
+  "publication_date": "2019-06-17",
+  "ids": {
+    "openalex": "https://openalex.org/W2949422680",
+    "doi": "https://doi.org/10.1111/liv.14179",
+    "mag": "2949422680",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/31206982"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1111/liv.14179",
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.1111/liv.14179",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S206392846",
+      "display_name": "Liver International",
+      "issn_l": "1478-3223",
+      "issn": [
+        "1478-3223",
+        "1478-3231"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320595",
+      "host_organization_name": "Wiley",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320595"
+      ],
+      "host_organization_lineage_names": [
+        "Wiley"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Liver International",
+    "raw_type": "journal-article"
+  },
+  "type": "review",
+  "indexed_in": [
+    "crossref",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "green",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5030346632",
+        "display_name": "Christian Appenzeller\u2010Herzog",
+        "orcid": "https://orcid.org/0000-0001-7430-294X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I1850255",
+          "display_name": "University of Basel",
+          "ror": "https://ror.org/02s6k3f65",
+          "country_code": "CH",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I1850255"
+          ]
+        }
+      ],
+      "countries": [
+        "CH"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Christian Appenzeller\u2010Herzog",
+      "raw_affiliation_strings": [
+        "University Medical Library, University of Basel, Basel, Switzerland"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "University Medical Library, University of Basel, Basel, Switzerland",
+          "institution_ids": [
+            "https://openalex.org/I1850255"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5027099865",
+        "display_name": "Tim Mathes",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I155976169",
+          "display_name": "Witten/Herdecke University",
+          "ror": "https://ror.org/00yq55g44",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I155976169"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Tim Mathes",
+      "raw_affiliation_strings": [
+        "Institute for Research in Operative Medicine, Faculty of Health, School of Medicine, Witten/Herdecke University, Cologne, Germany"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute for Research in Operative Medicine, Faculty of Health, School of Medicine, Witten/Herdecke University, Cologne, Germany",
+          "institution_ids": [
+            "https://openalex.org/I155976169"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5004481644",
+        "display_name": "Marlies L.S. Heeres",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I3018483916",
+          "display_name": "University Medical Center Utrecht",
+          "ror": "https://ror.org/0575yy874",
+          "country_code": "NL",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I3018483916"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210162850",
+          "display_name": "Wilhelmina Children's Hospital",
+          "ror": "https://ror.org/05fqypv61",
+          "country_code": "NL",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I3018483916",
+            "https://openalex.org/I4210162850"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Marlies L.S. Heeres",
+      "raw_affiliation_strings": [
+        "Wilhelmina Children's Hospital, University Medical Center Utrecht, Utrecht, the Netherlands"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Wilhelmina Children's Hospital, University Medical Center Utrecht, Utrecht, the Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I3018483916",
+            "https://openalex.org/I4210162850"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5112369414",
+        "display_name": "Karl Heinz Weiss",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I223822909",
+          "display_name": "Heidelberg University",
+          "ror": "https://ror.org/038t36y30",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I223822909"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Karl Heinz Weiss",
+      "raw_affiliation_strings": [
+        "Department of Internal Medicine IV, Medical University of Heidelberg, Heidelberg, Germany"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Internal Medicine IV, Medical University of Heidelberg, Heidelberg, Germany",
+          "institution_ids": [
+            "https://openalex.org/I223822909"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5058559696",
+        "display_name": "Roderick H.J. Houwen",
+        "orcid": "https://orcid.org/0000-0001-6124-7937"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I3018483916",
+          "display_name": "University Medical Center Utrecht",
+          "ror": "https://ror.org/0575yy874",
+          "country_code": "NL",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I3018483916"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210162850",
+          "display_name": "Wilhelmina Children's Hospital",
+          "ror": "https://ror.org/05fqypv61",
+          "country_code": "NL",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I3018483916",
+            "https://openalex.org/I4210162850"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Roderick H.J. Houwen",
+      "raw_affiliation_strings": [
+        "Wilhelmina Children's Hospital, University Medical Center Utrecht, Utrecht, the Netherlands"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Wilhelmina Children's Hospital, University Medical Center Utrecht, Utrecht, the Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I3018483916",
+            "https://openalex.org/I4210162850"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5089083291",
+        "display_name": "Hannah Ewald",
+        "orcid": "https://orcid.org/0000-0002-5081-1093"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2802542264",
+          "display_name": "University Hospital of Basel",
+          "ror": "https://ror.org/04k51q396",
+          "country_code": "CH",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2802542264"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I1850255",
+          "display_name": "University of Basel",
+          "ror": "https://ror.org/02s6k3f65",
+          "country_code": "CH",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I1850255"
+          ]
+        }
+      ],
+      "countries": [
+        "CH"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Hannah Ewald",
+      "raw_affiliation_strings": [
+        "Basel Institute for Clinical Epidemiology and Biostatistics, Department of Clinical Research, University Hospital Basel and University of Basel, Basel, Switzerland",
+        "University Medical Library, University of Basel, Basel, Switzerland"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "University Medical Library, University of Basel, Basel, Switzerland",
+          "institution_ids": [
+            "https://openalex.org/I1850255"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Basel Institute for Clinical Epidemiology and Biostatistics, Department of Clinical Research, University Hospital Basel and University of Basel, Basel, Switzerland",
+          "institution_ids": [
+            "https://openalex.org/I1850255",
+            "https://openalex.org/I2802542264"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 3,
+  "institutions_distinct_count": 6,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5089083291"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I1850255",
+    "https://openalex.org/I2802542264"
+  ],
+  "apc_list": {
+    "value": 4740,
+    "currency": "USD",
+    "value_usd": 4740
+  },
+  "apc_paid": null,
+  "fwci": 5.00909917,
+  "has_fulltext": false,
+  "cited_by_count": 57,
+  "citation_normalized_percentile": {
+    "value": 0.94279611,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 98,
+    "max": 99
+  },
+  "biblio": {
+    "volume": "39",
+    "issue": "11",
+    "first_page": "2136",
+    "last_page": "2152"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10915",
+    "display_name": "Trace Elements in Health",
+    "score": 1.0,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2916",
+      "display_name": "Nutrition and Dietetics"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/29",
+      "display_name": "Nursing"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/4",
+      "display_name": "Health Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10915",
+      "display_name": "Trace Elements in Health",
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2916",
+        "display_name": "Nutrition and Dietetics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/29",
+        "display_name": "Nursing"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10790",
+      "display_name": "Heavy Metal Exposure and Toxicity",
+      "score": 0.9937000274658203,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2307",
+        "display_name": "Health, Toxicology and Mutagenesis"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12211",
+      "display_name": "Aluminum toxicity and tolerance in plants and animals",
+      "score": 0.9653000235557556,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1110",
+        "display_name": "Plant Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/11",
+        "display_name": "Agricultural and Biological Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/medicine",
+      "display_name": "Medicine",
+      "score": 0.8540084362030029
+    },
+    {
+      "id": "https://openalex.org/keywords/odds-ratio",
+      "display_name": "Odds ratio",
+      "score": 0.804794192314148
+    },
+    {
+      "id": "https://openalex.org/keywords/meta-analysis",
+      "display_name": "Meta-analysis",
+      "score": 0.7351884841918945
+    },
+    {
+      "id": "https://openalex.org/keywords/internal-medicine",
+      "display_name": "Internal medicine",
+      "score": 0.6873658895492554
+    },
+    {
+      "id": "https://openalex.org/keywords/penicillamine",
+      "display_name": "Penicillamine",
+      "score": 0.5628204941749573
+    },
+    {
+      "id": "https://openalex.org/keywords/placebo",
+      "display_name": "Placebo",
+      "score": 0.5563830733299255
+    },
+    {
+      "id": "https://openalex.org/keywords/randomized-controlled-trial",
+      "display_name": "Randomized controlled trial",
+      "score": 0.5389453172683716
+    },
+    {
+      "id": "https://openalex.org/keywords/wilsons-disease",
+      "display_name": "Wilson's disease",
+      "score": 0.43130066990852356
+    },
+    {
+      "id": "https://openalex.org/keywords/gastroenterology",
+      "display_name": "Gastroenterology",
+      "score": 0.38892170786857605
+    },
+    {
+      "id": "https://openalex.org/keywords/disease",
+      "display_name": "Disease",
+      "score": 0.3406614661216736
+    },
+    {
+      "id": "https://openalex.org/keywords/surgery",
+      "display_name": "Surgery",
+      "score": 0.331068217754364
+    },
+    {
+      "id": "https://openalex.org/keywords/pathology",
+      "display_name": "Pathology",
+      "score": 0.11542531847953796
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C71924100",
+      "wikidata": "https://www.wikidata.org/wiki/Q11190",
+      "display_name": "Medicine",
+      "level": 0,
+      "score": 0.8540084362030029
+    },
+    {
+      "id": "https://openalex.org/C156957248",
+      "wikidata": "https://www.wikidata.org/wiki/Q1862216",
+      "display_name": "Odds ratio",
+      "level": 2,
+      "score": 0.804794192314148
+    },
+    {
+      "id": "https://openalex.org/C95190672",
+      "wikidata": "https://www.wikidata.org/wiki/Q815382",
+      "display_name": "Meta-analysis",
+      "level": 2,
+      "score": 0.7351884841918945
+    },
+    {
+      "id": "https://openalex.org/C126322002",
+      "wikidata": "https://www.wikidata.org/wiki/Q11180",
+      "display_name": "Internal medicine",
+      "level": 1,
+      "score": 0.6873658895492554
+    },
+    {
+      "id": "https://openalex.org/C2779348387",
+      "wikidata": "https://www.wikidata.org/wiki/Q421239",
+      "display_name": "Penicillamine",
+      "level": 2,
+      "score": 0.5628204941749573
+    },
+    {
+      "id": "https://openalex.org/C27081682",
+      "wikidata": "https://www.wikidata.org/wiki/Q269829",
+      "display_name": "Placebo",
+      "level": 3,
+      "score": 0.5563830733299255
+    },
+    {
+      "id": "https://openalex.org/C168563851",
+      "wikidata": "https://www.wikidata.org/wiki/Q1436668",
+      "display_name": "Randomized controlled trial",
+      "level": 2,
+      "score": 0.5389453172683716
+    },
+    {
+      "id": "https://openalex.org/C2776231509",
+      "wikidata": "https://www.wikidata.org/wiki/Q117121",
+      "display_name": "Wilson's disease",
+      "level": 3,
+      "score": 0.43130066990852356
+    },
+    {
+      "id": "https://openalex.org/C90924648",
+      "wikidata": "https://www.wikidata.org/wiki/Q120569",
+      "display_name": "Gastroenterology",
+      "level": 1,
+      "score": 0.38892170786857605
+    },
+    {
+      "id": "https://openalex.org/C2779134260",
+      "wikidata": "https://www.wikidata.org/wiki/Q12136",
+      "display_name": "Disease",
+      "level": 2,
+      "score": 0.3406614661216736
+    },
+    {
+      "id": "https://openalex.org/C141071460",
+      "wikidata": "https://www.wikidata.org/wiki/Q40821",
+      "display_name": "Surgery",
+      "level": 1,
+      "score": 0.331068217754364
+    },
+    {
+      "id": "https://openalex.org/C142724271",
+      "wikidata": "https://www.wikidata.org/wiki/Q7208",
+      "display_name": "Pathology",
+      "level": 1,
+      "score": 0.11542531847953796
+    },
+    {
+      "id": "https://openalex.org/C204787440",
+      "wikidata": "https://www.wikidata.org/wiki/Q188504",
+      "display_name": "Alternative medicine",
+      "level": 2,
+      "score": 0.0
+    }
+  ],
+  "mesh": [
+    {
+      "descriptor_ui": "D002614",
+      "descriptor_name": "Chelating Agents",
+      "qualifier_ui": "Q000009",
+      "qualifier_name": "adverse effects",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D002614",
+      "descriptor_name": "Chelating Agents",
+      "qualifier_ui": "Q000627",
+      "qualifier_name": "therapeutic use",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D003300",
+      "descriptor_name": "Copper",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006527",
+      "descriptor_name": "Hepatolenticular Degeneration",
+      "qualifier_ui": "Q000188",
+      "qualifier_name": "drug therapy",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008099",
+      "descriptor_name": "Liver",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008982",
+      "descriptor_name": "Molybdenum",
+      "qualifier_ui": "Q000009",
+      "qualifier_name": "adverse effects",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008982",
+      "descriptor_name": "Molybdenum",
+      "qualifier_ui": "Q000627",
+      "qualifier_name": "therapeutic use",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D010396",
+      "descriptor_name": "Penicillamine",
+      "qualifier_ui": "Q000009",
+      "qualifier_name": "adverse effects",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D010396",
+      "descriptor_name": "Penicillamine",
+      "qualifier_ui": "Q000627",
+      "qualifier_name": "therapeutic use",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D016032",
+      "descriptor_name": "Randomized Controlled Trials as Topic",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D014266",
+      "descriptor_name": "Trientine",
+      "qualifier_ui": "Q000009",
+      "qualifier_name": "adverse effects",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D014266",
+      "descriptor_name": "Trientine",
+      "qualifier_ui": "Q000627",
+      "qualifier_name": "therapeutic use",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015032",
+      "descriptor_name": "Zinc",
+      "qualifier_ui": "Q000009",
+      "qualifier_name": "adverse effects",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015032",
+      "descriptor_name": "Zinc",
+      "qualifier_ui": "Q000627",
+      "qualifier_name": "therapeutic use",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D002614",
+      "descriptor_name": "Chelating Agents",
+      "qualifier_ui": "Q000009",
+      "qualifier_name": "adverse effects",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D002614",
+      "descriptor_name": "Chelating Agents",
+      "qualifier_ui": "Q000627",
+      "qualifier_name": "therapeutic use",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D003300",
+      "descriptor_name": "Copper",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006527",
+      "descriptor_name": "Hepatolenticular Degeneration",
+      "qualifier_ui": "Q000188",
+      "qualifier_name": "drug therapy",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008099",
+      "descriptor_name": "Liver",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008982",
+      "descriptor_name": "Molybdenum",
+      "qualifier_ui": "Q000009",
+      "qualifier_name": "adverse effects",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008982",
+      "descriptor_name": "Molybdenum",
+      "qualifier_ui": "Q000627",
+      "qualifier_name": "therapeutic use",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D010396",
+      "descriptor_name": "Penicillamine",
+      "qualifier_ui": "Q000009",
+      "qualifier_name": "adverse effects",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D010396",
+      "descriptor_name": "Penicillamine",
+      "qualifier_ui": "Q000627",
+      "qualifier_name": "therapeutic use",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D016032",
+      "descriptor_name": "Randomized Controlled Trials as Topic",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D014266",
+      "descriptor_name": "Trientine",
+      "qualifier_ui": "Q000009",
+      "qualifier_name": "adverse effects",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D014266",
+      "descriptor_name": "Trientine",
+      "qualifier_ui": "Q000627",
+      "qualifier_name": "therapeutic use",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015032",
+      "descriptor_name": "Zinc",
+      "qualifier_ui": "Q000009",
+      "qualifier_name": "adverse effects",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015032",
+      "descriptor_name": "Zinc",
+      "qualifier_ui": "Q000627",
+      "qualifier_name": "therapeutic use",
+      "is_major_topic": false
+    }
+  ],
+  "locations_count": 4,
+  "locations": [
+    {
+      "id": "doi:10.1111/liv.14179",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1111/liv.14179",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S206392846",
+        "display_name": "Liver International",
+        "issn_l": "1478-3223",
+        "issn": [
+          "1478-3223",
+          "1478-3231"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320595",
+        "host_organization_name": "Wiley",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320595"
+        ],
+        "host_organization_lineage_names": [
+          "Wiley"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Liver International",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:31206982",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/31206982",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Liver international : official journal of the International Association for the Study of the Liver",
+      "raw_type": null
+    },
+    {
+      "id": "pmh:oai:edoc.unibas.ch:72470",
+      "is_oa": true,
+      "landing_page_url": null,
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401836",
+        "display_name": "edoc (University of Basel)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1850255",
+        "host_organization_name": "University of Basel",
+        "host_organization_lineage": [
+          "https://openalex.org/I1850255"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "other-oa",
+      "license_id": "https://openalex.org/licenses/other-oa",
+      "version": "acceptedVersion",
+      "is_accepted": true,
+      "is_published": false,
+      "raw_source_name": "",
+      "raw_type": "Article"
+    },
+    {
+      "id": "pmh:umcu:oai:dspace.library.uu.nl:1874/391927",
+      "is_oa": false,
+      "landing_page_url": "https://dspace.library.uu.nl/handle/1874/391927",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401843",
+        "display_name": "Data Archiving and Networked Services (DANS)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1322597698",
+        "host_organization_name": "Royal Netherlands Academy of Arts and Sciences",
+        "host_organization_lineage": [
+          "https://openalex.org/I1322597698"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Liver International, 39(11), 2136. Wiley-Blackwell",
+      "raw_type": "info:eu-repo/semantics/article"
+    }
+  ],
+  "best_oa_location": {
+    "id": "pmh:oai:edoc.unibas.ch:72470",
+    "is_oa": true,
+    "landing_page_url": null,
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S4306401836",
+      "display_name": "edoc (University of Basel)",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": false,
+      "host_organization": "https://openalex.org/I1850255",
+      "host_organization_name": "University of Basel",
+      "host_organization_lineage": [
+        "https://openalex.org/I1850255"
+      ],
+      "host_organization_lineage_names": [],
+      "type": "repository"
+    },
+    "license": "other-oa",
+    "license_id": "https://openalex.org/licenses/other-oa",
+    "version": "acceptedVersion",
+    "is_accepted": true,
+    "is_published": false,
+    "raw_source_name": "",
+    "raw_type": "Article"
+  },
+  "sustainable_development_goals": [
+    {
+      "score": 0.8600000143051147,
+      "display_name": "Good health and well-being",
+      "id": "https://metadata.un.org/sdg/3"
+    }
+  ],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "pdf": false,
+    "grobid_xml": false
+  },
+  "referenced_works_count": 110,
+  "referenced_works": [
+    "https://openalex.org/W2143190548",
+    "https://openalex.org/W6681414207",
+    "https://openalex.org/W2067965621",
+    "https://openalex.org/W2002023508",
+    "https://openalex.org/W2606504963",
+    "https://openalex.org/W6735890684",
+    "https://openalex.org/W2724361297",
+    "https://openalex.org/W2033421072",
+    "https://openalex.org/W2041890833",
+    "https://openalex.org/W1993177176",
+    "https://openalex.org/W120834673",
+    "https://openalex.org/W159935040",
+    "https://openalex.org/W1969194948",
+    "https://openalex.org/W2000436820",
+    "https://openalex.org/W2763505612",
+    "https://openalex.org/W2025030726",
+    "https://openalex.org/W2090882839",
+    "https://openalex.org/W2914612586",
+    "https://openalex.org/W4211041131",
+    "https://openalex.org/W2079522949",
+    "https://openalex.org/W6670304188",
+    "https://openalex.org/W2766126501",
+    "https://openalex.org/W7074035244",
+    "https://openalex.org/W2889614630",
+    "https://openalex.org/W2082677827",
+    "https://openalex.org/W2175154879",
+    "https://openalex.org/W2768314176",
+    "https://openalex.org/W2101066542",
+    "https://openalex.org/W6674980586",
+    "https://openalex.org/W2015443313",
+    "https://openalex.org/W2726488846",
+    "https://openalex.org/W6740883661",
+    "https://openalex.org/W2099199191",
+    "https://openalex.org/W1970214702",
+    "https://openalex.org/W2044930900",
+    "https://openalex.org/W6749926967",
+    "https://openalex.org/W1992886088",
+    "https://openalex.org/W2033105955",
+    "https://openalex.org/W2612891587",
+    "https://openalex.org/W2902701051",
+    "https://openalex.org/W2792076277",
+    "https://openalex.org/W2790268129",
+    "https://openalex.org/W2888732220",
+    "https://openalex.org/W1784175517",
+    "https://openalex.org/W1989782940",
+    "https://openalex.org/W2742790872",
+    "https://openalex.org/W2125435699",
+    "https://openalex.org/W6678848921",
+    "https://openalex.org/W2464924628",
+    "https://openalex.org/W2892835262",
+    "https://openalex.org/W2418750265",
+    "https://openalex.org/W2748295987",
+    "https://openalex.org/W2350484012",
+    "https://openalex.org/W2338688223",
+    "https://openalex.org/W2403314518",
+    "https://openalex.org/W2415851885",
+    "https://openalex.org/W1989815568",
+    "https://openalex.org/W6771229190",
+    "https://openalex.org/W2080058827",
+    "https://openalex.org/W259804505",
+    "https://openalex.org/W1993337379",
+    "https://openalex.org/W2082320762",
+    "https://openalex.org/W2026996728",
+    "https://openalex.org/W2044614434",
+    "https://openalex.org/W2110697645",
+    "https://openalex.org/W2013019566",
+    "https://openalex.org/W2141060691",
+    "https://openalex.org/W1543774438",
+    "https://openalex.org/W2161382529",
+    "https://openalex.org/W1563368366",
+    "https://openalex.org/W1534330089",
+    "https://openalex.org/W2040469693",
+    "https://openalex.org/W2108765785",
+    "https://openalex.org/W1525689595",
+    "https://openalex.org/W573755264",
+    "https://openalex.org/W2735961012",
+    "https://openalex.org/W2621217611",
+    "https://openalex.org/W2906450930",
+    "https://openalex.org/W2091516044",
+    "https://openalex.org/W2111658457",
+    "https://openalex.org/W2607657572",
+    "https://openalex.org/W1970379565",
+    "https://openalex.org/W2002803484",
+    "https://openalex.org/W1991140368",
+    "https://openalex.org/W2735030585",
+    "https://openalex.org/W2791044225",
+    "https://openalex.org/W2093420589",
+    "https://openalex.org/W1614282880",
+    "https://openalex.org/W2081020794",
+    "https://openalex.org/W2010571001",
+    "https://openalex.org/W2092177672",
+    "https://openalex.org/W2422123087",
+    "https://openalex.org/W1956187157",
+    "https://openalex.org/W6640890117",
+    "https://openalex.org/W2140346666",
+    "https://openalex.org/W1982295009",
+    "https://openalex.org/W6645622423",
+    "https://openalex.org/W2050571341",
+    "https://openalex.org/W2029964044",
+    "https://openalex.org/W1969895675",
+    "https://openalex.org/W2417573589",
+    "https://openalex.org/W1996610030",
+    "https://openalex.org/W7073872005",
+    "https://openalex.org/W2093724119",
+    "https://openalex.org/W2109464415",
+    "https://openalex.org/W2995611087",
+    "https://openalex.org/W4248227702",
+    "https://openalex.org/W122745426",
+    "https://openalex.org/W2153383858",
+    "https://openalex.org/W4285719527"
+  ],
+  "related_works": [
+    "https://openalex.org/W2406264694",
+    "https://openalex.org/W2462817469",
+    "https://openalex.org/W2416527319",
+    "https://openalex.org/W2510284015",
+    "https://openalex.org/W4319263118",
+    "https://openalex.org/W2412150970",
+    "https://openalex.org/W2581099805",
+    "https://openalex.org/W4233480692",
+    "https://openalex.org/W1984115278",
+    "https://openalex.org/W2761051151"
+  ],
+  "abstract_inverted_index": {
+    "Abstract": [
+      0
+    ],
+    "Background": [
+      1
+    ],
+    "&amp;": [
+      2
+    ],
+    "aims": [
+      3
+    ],
+    "Wilson": [
+      4
+    ],
+    "disease": [
+      5
+    ],
+    "(WD)": [
+      6
+    ],
+    "is": [
+      7,
+      217
+    ],
+    "a": [
+      8,
+      151,
+      199
+    ],
+    "rare": [
+      9
+    ],
+    "disorder": [
+      10
+    ],
+    "of": [
+      11,
+      16,
+      28,
+      31,
+      38,
+      83,
+      90,
+      135,
+      139,
+      184,
+      242
+    ],
+    "copper": [
+      12
+    ],
+    "metabolism.": [
+      13
+    ],
+    "The": [
+      14,
+      53,
+      100
+    ],
+    "objective": [
+      15
+    ],
+    "this": [
+      17
+    ],
+    "systematic": [
+      18
+    ],
+    "review": [
+      19
+    ],
+    "was": [
+      20,
+      128,
+      148,
+      167,
+      237
+    ],
+    "to": [
+      21,
+      112,
+      144,
+      160,
+      164,
+      178,
+      193
+    ],
+    "determine": [
+      22
+    ],
+    "the": [
+      23,
+      44,
+      79
+    ],
+    "comparative": [
+      24
+    ],
+    "effectiveness": [
+      25
+    ],
+    "and": [
+      26,
+      43,
+      51,
+      69,
+      75,
+      86,
+      108,
+      123,
+      180,
+      205
+    ],
+    "safety": [
+      27
+    ],
+    "common": [
+      29
+    ],
+    "treatments": [
+      30
+    ],
+    "WD.": [
+      32
+    ],
+    "Methods": [
+      33
+    ],
+    "We": [
+      34,
+      64,
+      72
+    ],
+    "included": [
+      35,
+      65,
+      91,
+      102
+    ],
+    "WD": [
+      36,
+      233
+    ],
+    "patients": [
+      37,
+      107
+    ],
+    "any": [
+      39,
+      61
+    ],
+    "age": [
+      40
+    ],
+    "or": [
+      41,
+      60,
+      117,
+      182,
+      228,
+      231
+    ],
+    "stage": [
+      42
+    ],
+    "study": [
+      45,
+      120,
+      132
+    ],
+    "drugs": [
+      46
+    ],
+    "D\u2010penicillamine,": [
+      47
+    ],
+    "zinc": [
+      48,
+      216
+    ],
+    "salts,": [
+      49
+    ],
+    "trientine": [
+      50,
+      116
+    ],
+    "tetrathiomolybdate.": [
+      52
+    ],
+    "control": [
+      54
+    ],
+    "could": [
+      55
+    ],
+    "be": [
+      56
+    ],
+    "placebo,": [
+      57
+    ],
+    "no": [
+      58,
+      113,
+      145,
+      168
+    ],
+    "treatment": [
+      59,
+      206
+    ],
+    "other": [
+      62
+    ],
+    "treatment.": [
+      63
+    ],
+    "prospective,": [
+      66
+    ],
+    "retrospective,": [
+      67
+    ],
+    "randomized": [
+      68
+    ],
+    "non\u2010randomized": [
+      70
+    ],
+    "studies.": [
+      71
+    ],
+    "searched": [
+      73
+    ],
+    "Medline": [
+      74
+    ],
+    "Embase": [
+      76
+    ],
+    "via": [
+      77
+    ],
+    "Ovid,": [
+      78
+    ],
+    "Cochrane": [
+      80
+    ],
+    "Central": [
+      81
+    ],
+    "Register": [
+      82
+    ],
+    "Controlled": [
+      84
+    ],
+    "Trials,": [
+      85
+    ],
+    "screened": [
+      87
+    ],
+    "reference": [
+      88
+    ],
+    "lists": [
+      89
+    ],
+    "articles.": [
+      92
+    ],
+    "Where": [
+      93
+    ],
+    "possible,": [
+      94
+    ],
+    "we": [
+      95
+    ],
+    "applied": [
+      96
+    ],
+    "random\u2010effects": [
+      97
+    ],
+    "meta\u2010analyses.": [
+      98
+    ],
+    "Results": [
+      99
+    ],
+    "23": [
+      101,
+      136
+    ],
+    "studies": [
+      103,
+      137
+    ],
+    "reported": [
+      104
+    ],
+    "on": [
+      105,
+      202
+    ],
+    "2055": [
+      106
+    ],
+    "mostly": [
+      109
+    ],
+    "compared": [
+      110,
+      121,
+      143,
+      163
+    ],
+    "D\u2010penicillamine": [
+      111,
+      147,
+      196,
+      220
+    ],
+    "treatment,": [
+      114,
+      146
+    ],
+    "zinc,": [
+      115,
+      165
+    ],
+    "succimer.": [
+      118
+    ],
+    "One": [
+      119
+    ],
+    "tetrathiomolybdate": [
+      122
+    ],
+    "trientine.": [
+      124
+    ],
+    "Post\u2010decoppering": [
+      125
+    ],
+    "maintenance": [
+      126
+    ],
+    "therapy": [
+      127,
+      221
+    ],
+    "addressed": [
+      129
+    ],
+    "in": [
+      130,
+      226
+    ],
+    "one": [
+      131
+    ],
+    "only.": [
+      133
+    ],
+    "Eleven": [
+      134
+    ],
+    "were": [
+      138
+    ],
+    "low": [
+      140,
+      238
+    ],
+    "quality.": [
+      141
+    ],
+    "When": [
+      142,
+      162
+    ],
+    "associated": [
+      149
+    ],
+    "with": [
+      150,
+      170
+    ],
+    "lower": [
+      152
+    ],
+    "mortality": [
+      153,
+      171
+    ],
+    "(odds": [
+      154,
+      172,
+      187
+    ],
+    "ratio": [
+      155,
+      173,
+      188
+    ],
+    "0.013;": [
+      156
+    ],
+    "95%": [
+      157,
+      175,
+      190
+    ],
+    "CI": [
+      158,
+      176,
+      191
+    ],
+    "0.0010": [
+      159
+    ],
+    "0.17).": [
+      161
+    ],
+    "there": [
+      166
+    ],
+    "association": [
+      169
+    ],
+    "0.73;": [
+      174
+    ],
+    "0.16": [
+      177
+    ],
+    "3.40)": [
+      179
+    ],
+    "prevention": [
+      181
+    ],
+    "amelioration": [
+      183
+    ],
+    "clinical": [
+      185
+    ],
+    "symptoms": [
+      186
+    ],
+    "0.84;": [
+      189
+    ],
+    "0.48": [
+      192
+    ],
+    "1.48).": [
+      194
+    ],
+    "Conversely,": [
+      195
+    ],
+    "may": [
+      197
+    ],
+    "have": [
+      198
+    ],
+    "greater": [
+      200
+    ],
+    "impact": [
+      201
+    ],
+    "side": [
+      203
+    ],
+    "effects": [
+      204
+    ],
+    "discontinuations": [
+      207
+    ],
+    "than": [
+      208,
+      219
+    ],
+    "zinc.": [
+      209
+    ],
+    "Conclusions": [
+      210
+    ],
+    "There": [
+      211
+    ],
+    "are": [
+      212
+    ],
+    "some": [
+      213
+    ],
+    "indications": [
+      214
+    ],
+    "that": [
+      215
+    ],
+    "safer": [
+      218
+    ],
+    "while": [
+      222
+    ],
+    "being": [
+      223
+    ],
+    "similarly": [
+      224
+    ],
+    "effective": [
+      225
+    ],
+    "preventing": [
+      227
+    ],
+    "reducing": [
+      229
+    ],
+    "hepatic": [
+      230
+    ],
+    "neurological": [
+      232
+    ],
+    "symptoms.": [
+      234
+    ],
+    "Study": [
+      235
+    ],
+    "quality": [
+      236
+    ],
+    "warranting": [
+      239
+    ],
+    "cautious": [
+      240
+    ],
+    "interpretation": [
+      241
+    ],
+    "our": [
+      243
+    ],
+    "findings.": [
+      244
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 5
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 13
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 10
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 11
+    },
+    {
+      "year": 2021,
+      "cited_by_count": 10
+    },
+    {
+      "year": 2020,
+      "cited_by_count": 8
+    }
+  ],
+  "updated_date": "2025-11-06T03:46:38.306776",
+  "created_date": "2025-10-10T00:00:00"
+}

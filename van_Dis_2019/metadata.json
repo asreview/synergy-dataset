@@ -1,0 +1,12 @@
+{
+  "key": "van_Dis_2019",
+  "publication": {
+    "doi": "10.1001/jamapsychiatry.2019.3986",
+    "eligibility_criteria": "Randomized clinical trials were included that examined effects of CBT(ie, any therapy with cognitive restructuring and/or a behavioral therapy, such as exposure, as core component), including third generation CBTs (ie, acceptance and commitment therapy and metacognitive therapy), at least 1 month after treatment completion, in an individual, group, or internet treatment format. Comparison groups included care as usual (ie, anything patients would normally receive as long as it was not a structured type of psychotherapy, such as primary care at medical centers or case management with educational groups), relaxation, psychoeducation, pill placebo, supportive therapy, or waiting list. Studies were included if they tested adult patients (or samples consisting mostly of adults but also some adolescents aged \u226516 years) who received a diagnosis of GAD, PD, SAD, specific phobia, PTSD, or OCD based on results of a structured diagnostic interview. Studies were excluded if they did not use CBT (eg, applied relaxation, eye movement desensitization and reprocessing, or interpersonal therapy) or did not report symptoms separately for each disorder. To reduce clinical heterogeneity, studies were also excluded if they had done any of the following: (1) used self-guided therapy without any guidance, (2) used CBT combined with medication or pill placebo, or (3) tested inpatients.\n\nEnglish language articles only"
+  },
+  "data": {
+    "url": "https://osf.io/4d9tu/",
+    "n_records": 9883,
+    "n_records_included": 72
+  }
+}

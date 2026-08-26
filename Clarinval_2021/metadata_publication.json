@@ -1,0 +1,1213 @@
+{
+  "id": "https://openalex.org/W3185020681",
+  "doi": "https://doi.org/10.1109/tits.2021.3092036",
+  "title": "Intra-City Traffic Data Visualization: A Systematic Literature Review",
+  "display_name": "Intra-City Traffic Data Visualization: A Systematic Literature Review",
+  "publication_year": 2021,
+  "publication_date": "2021-08-24",
+  "ids": {
+    "openalex": "https://openalex.org/W3185020681",
+    "doi": "https://doi.org/10.1109/tits.2021.3092036",
+    "mag": "3185020681"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1109/tits.2021.3092036",
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.1109/tits.2021.3092036",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S144771191",
+      "display_name": "IEEE Transactions on Intelligent Transportation Systems",
+      "issn_l": "1524-9050",
+      "issn": [
+        "1524-9050",
+        "1558-0016"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310319808",
+      "host_organization_name": "Institute of Electrical and Electronics Engineers",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310319808"
+      ],
+      "host_organization_lineage_names": [
+        "Institute of Electrical and Electronics Engineers"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "IEEE Transactions on Intelligent Transportation Systems",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5034436823",
+        "display_name": "Antoine Clarinval",
+        "orcid": "https://orcid.org/0000-0003-3936-0532"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I149768937",
+          "display_name": "University of Namur",
+          "ror": "https://ror.org/03d1maw17",
+          "country_code": "BE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I149768937"
+          ]
+        }
+      ],
+      "countries": [
+        "BE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Antoine Clarinval",
+      "raw_affiliation_strings": [
+        "Namur Digital Institute (NaDI), University of Namur, Namur, Belgium"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Namur Digital Institute (NaDI), University of Namur, Namur, Belgium",
+          "institution_ids": [
+            "https://openalex.org/I149768937"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5086048049",
+        "display_name": "Bruno Dumas",
+        "orcid": "https://orcid.org/0000-0001-5302-4303"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I149768937",
+          "display_name": "University of Namur",
+          "ror": "https://ror.org/03d1maw17",
+          "country_code": "BE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I149768937"
+          ]
+        }
+      ],
+      "countries": [
+        "BE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Bruno Dumas",
+      "raw_affiliation_strings": [
+        "Namur Digital Institute (NaDI), University of Namur, Namur, Belgium"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Namur Digital Institute (NaDI), University of Namur, Namur, Belgium",
+          "institution_ids": [
+            "https://openalex.org/I149768937"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 2,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 0.91997531,
+  "has_fulltext": false,
+  "cited_by_count": 15,
+  "citation_normalized_percentile": {
+    "value": 0.76557369,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 89,
+    "max": 99
+  },
+  "biblio": {
+    "volume": "23",
+    "issue": "7",
+    "first_page": "6298",
+    "last_page": "6315"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10799",
+    "display_name": "Data Visualization and Analytics",
+    "score": 0.9998999834060669,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1707",
+      "display_name": "Computer Vision and Pattern Recognition"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/17",
+      "display_name": "Computer Science"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10799",
+      "display_name": "Data Visualization and Analytics",
+      "score": 0.9998999834060669,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1707",
+        "display_name": "Computer Vision and Pattern Recognition"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11980",
+      "display_name": "Human Mobility and Location-Based Analysis",
+      "score": 0.9926999807357788,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3313",
+        "display_name": "Transportation"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11344",
+      "display_name": "Traffic Prediction and Management Techniques",
+      "score": 0.989300012588501,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2215",
+        "display_name": "Building and Construction"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/visualization",
+      "display_name": "Visualization",
+      "score": 0.8407113552093506
+    },
+    {
+      "id": "https://openalex.org/keywords/data-science",
+      "display_name": "Data science",
+      "score": 0.6501616835594177
+    },
+    {
+      "id": "https://openalex.org/keywords/computer-science",
+      "display_name": "Computer science",
+      "score": 0.6381462812423706
+    },
+    {
+      "id": "https://openalex.org/keywords/domain",
+      "display_name": "Domain (mathematical analysis)",
+      "score": 0.5661084651947021
+    },
+    {
+      "id": "https://openalex.org/keywords/creative-visualization",
+      "display_name": "Creative visualization",
+      "score": 0.5455290079116821
+    },
+    {
+      "id": "https://openalex.org/keywords/data-visualization",
+      "display_name": "Data visualization",
+      "score": 0.49965381622314453
+    },
+    {
+      "id": "https://openalex.org/keywords/protocol",
+      "display_name": "Protocol (science)",
+      "score": 0.46675753593444824
+    },
+    {
+      "id": "https://openalex.org/keywords/data-collection",
+      "display_name": "Data collection",
+      "score": 0.4493999481201172
+    },
+    {
+      "id": "https://openalex.org/keywords/information-visualization",
+      "display_name": "Information visualization",
+      "score": 0.44234877824783325
+    },
+    {
+      "id": "https://openalex.org/keywords/selection",
+      "display_name": "Selection (genetic algorithm)",
+      "score": 0.42955440282821655
+    },
+    {
+      "id": "https://openalex.org/keywords/transport-engineering",
+      "display_name": "Transport engineering",
+      "score": 0.33206647634506226
+    },
+    {
+      "id": "https://openalex.org/keywords/data-mining",
+      "display_name": "Data mining",
+      "score": 0.2627963721752167
+    },
+    {
+      "id": "https://openalex.org/keywords/engineering",
+      "display_name": "Engineering",
+      "score": 0.23006150126457214
+    },
+    {
+      "id": "https://openalex.org/keywords/artificial-intelligence",
+      "display_name": "Artificial intelligence",
+      "score": 0.10476642847061157
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C36464697",
+      "wikidata": "https://www.wikidata.org/wiki/Q451553",
+      "display_name": "Visualization",
+      "level": 2,
+      "score": 0.8407113552093506
+    },
+    {
+      "id": "https://openalex.org/C2522767166",
+      "wikidata": "https://www.wikidata.org/wiki/Q2374463",
+      "display_name": "Data science",
+      "level": 1,
+      "score": 0.6501616835594177
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.6381462812423706
+    },
+    {
+      "id": "https://openalex.org/C36503486",
+      "wikidata": "https://www.wikidata.org/wiki/Q11235244",
+      "display_name": "Domain (mathematical analysis)",
+      "level": 2,
+      "score": 0.5661084651947021
+    },
+    {
+      "id": "https://openalex.org/C14669888",
+      "wikidata": "https://www.wikidata.org/wiki/Q4014850",
+      "display_name": "Creative visualization",
+      "level": 3,
+      "score": 0.5455290079116821
+    },
+    {
+      "id": "https://openalex.org/C172367668",
+      "wikidata": "https://www.wikidata.org/wiki/Q6504956",
+      "display_name": "Data visualization",
+      "level": 3,
+      "score": 0.49965381622314453
+    },
+    {
+      "id": "https://openalex.org/C2780385302",
+      "wikidata": "https://www.wikidata.org/wiki/Q367158",
+      "display_name": "Protocol (science)",
+      "level": 3,
+      "score": 0.46675753593444824
+    },
+    {
+      "id": "https://openalex.org/C133462117",
+      "wikidata": "https://www.wikidata.org/wiki/Q4929239",
+      "display_name": "Data collection",
+      "level": 2,
+      "score": 0.4493999481201172
+    },
+    {
+      "id": "https://openalex.org/C185578843",
+      "wikidata": "https://www.wikidata.org/wiki/Q10609775",
+      "display_name": "Information visualization",
+      "level": 3,
+      "score": 0.44234877824783325
+    },
+    {
+      "id": "https://openalex.org/C81917197",
+      "wikidata": "https://www.wikidata.org/wiki/Q628760",
+      "display_name": "Selection (genetic algorithm)",
+      "level": 2,
+      "score": 0.42955440282821655
+    },
+    {
+      "id": "https://openalex.org/C22212356",
+      "wikidata": "https://www.wikidata.org/wiki/Q775325",
+      "display_name": "Transport engineering",
+      "level": 1,
+      "score": 0.33206647634506226
+    },
+    {
+      "id": "https://openalex.org/C124101348",
+      "wikidata": "https://www.wikidata.org/wiki/Q172491",
+      "display_name": "Data mining",
+      "level": 1,
+      "score": 0.2627963721752167
+    },
+    {
+      "id": "https://openalex.org/C127413603",
+      "wikidata": "https://www.wikidata.org/wiki/Q11023",
+      "display_name": "Engineering",
+      "level": 0,
+      "score": 0.23006150126457214
+    },
+    {
+      "id": "https://openalex.org/C154945302",
+      "wikidata": "https://www.wikidata.org/wiki/Q11660",
+      "display_name": "Artificial intelligence",
+      "level": 1,
+      "score": 0.10476642847061157
+    },
+    {
+      "id": "https://openalex.org/C33923547",
+      "wikidata": "https://www.wikidata.org/wiki/Q395",
+      "display_name": "Mathematics",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C105795698",
+      "wikidata": "https://www.wikidata.org/wiki/Q12483",
+      "display_name": "Statistics",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C134306372",
+      "wikidata": "https://www.wikidata.org/wiki/Q7754",
+      "display_name": "Mathematical analysis",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C142724271",
+      "wikidata": "https://www.wikidata.org/wiki/Q7208",
+      "display_name": "Pathology",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C204787440",
+      "wikidata": "https://www.wikidata.org/wiki/Q188504",
+      "display_name": "Alternative medicine",
+      "level": 2,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C71924100",
+      "wikidata": "https://www.wikidata.org/wiki/Q11190",
+      "display_name": "Medicine",
+      "level": 0,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "id": "doi:10.1109/tits.2021.3092036",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1109/tits.2021.3092036",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S144771191",
+        "display_name": "IEEE Transactions on Intelligent Transportation Systems",
+        "issn_l": "1524-9050",
+        "issn": [
+          "1524-9050",
+          "1558-0016"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310319808",
+        "host_organization_name": "Institute of Electrical and Electronics Engineers",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310319808"
+        ],
+        "host_organization_lineage_names": [
+          "Institute of Electrical and Electronics Engineers"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "IEEE Transactions on Intelligent Transportation Systems",
+      "raw_type": "journal-article"
+    }
+  ],
+  "best_oa_location": null,
+  "sustainable_development_goals": [
+    {
+      "score": 0.7799999713897705,
+      "id": "https://metadata.un.org/sdg/11",
+      "display_name": "Sustainable cities and communities"
+    }
+  ],
+  "awards": [
+    {
+      "id": "https://openalex.org/G7591380384",
+      "display_name": null,
+      "funder_award_id": "ETR121200003136",
+      "funder_id": "https://openalex.org/F4320335322",
+      "funder_display_name": "European Regional Development Fund"
+    }
+  ],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320335322",
+      "display_name": "European Regional Development Fund",
+      "ror": "https://ror.org/00k4n6c32"
+    }
+  ],
+  "has_content": {
+    "pdf": false,
+    "grobid_xml": false
+  },
+  "referenced_works_count": 210,
+  "referenced_works": [
+    "https://openalex.org/W2462625002",
+    "https://openalex.org/W3002624900",
+    "https://openalex.org/W2780031658",
+    "https://openalex.org/W3029372886",
+    "https://openalex.org/W1988726303",
+    "https://openalex.org/W1989797507",
+    "https://openalex.org/W2047806639",
+    "https://openalex.org/W2164244016",
+    "https://openalex.org/W4214443",
+    "https://openalex.org/W2612764117",
+    "https://openalex.org/W2153940791",
+    "https://openalex.org/W2176149189",
+    "https://openalex.org/W2605190822",
+    "https://openalex.org/W2910971546",
+    "https://openalex.org/W2161587450",
+    "https://openalex.org/W2133136052",
+    "https://openalex.org/W2069469539",
+    "https://openalex.org/W2001776137",
+    "https://openalex.org/W884650706",
+    "https://openalex.org/W1968268404",
+    "https://openalex.org/W1992299242",
+    "https://openalex.org/W6605756339",
+    "https://openalex.org/W2018893903",
+    "https://openalex.org/W2057720927",
+    "https://openalex.org/W2114566476",
+    "https://openalex.org/W4242160193",
+    "https://openalex.org/W2064236037",
+    "https://openalex.org/W4237581886",
+    "https://openalex.org/W6945248774",
+    "https://openalex.org/W1969301519",
+    "https://openalex.org/W2783528938",
+    "https://openalex.org/W2606226731",
+    "https://openalex.org/W2978716154",
+    "https://openalex.org/W1995077882",
+    "https://openalex.org/W1980799317",
+    "https://openalex.org/W2140243124",
+    "https://openalex.org/W2750749591",
+    "https://openalex.org/W4256522398",
+    "https://openalex.org/W1948868775",
+    "https://openalex.org/W2136331893",
+    "https://openalex.org/W2096928920",
+    "https://openalex.org/W1964811435",
+    "https://openalex.org/W4296404848",
+    "https://openalex.org/W4253314500",
+    "https://openalex.org/W3010782494",
+    "https://openalex.org/W2461643290",
+    "https://openalex.org/W2081139127",
+    "https://openalex.org/W1977938678",
+    "https://openalex.org/W3007774824",
+    "https://openalex.org/W2056638635",
+    "https://openalex.org/W2145005733",
+    "https://openalex.org/W2347047954",
+    "https://openalex.org/W2890994389",
+    "https://openalex.org/W2988515831",
+    "https://openalex.org/W2940575511",
+    "https://openalex.org/W2103927771",
+    "https://openalex.org/W2181446242",
+    "https://openalex.org/W1986061707",
+    "https://openalex.org/W2022592073",
+    "https://openalex.org/W2293055307",
+    "https://openalex.org/W2760860542",
+    "https://openalex.org/W2798139744",
+    "https://openalex.org/W2980907276",
+    "https://openalex.org/W3017382451",
+    "https://openalex.org/W2071267292",
+    "https://openalex.org/W2106738457",
+    "https://openalex.org/W1561744082",
+    "https://openalex.org/W2891248062",
+    "https://openalex.org/W1990022039",
+    "https://openalex.org/W2972616658",
+    "https://openalex.org/W2010900220",
+    "https://openalex.org/W2153553545",
+    "https://openalex.org/W4256290025",
+    "https://openalex.org/W2214936103",
+    "https://openalex.org/W2090813125",
+    "https://openalex.org/W2046234254",
+    "https://openalex.org/W1927636871",
+    "https://openalex.org/W2135586389",
+    "https://openalex.org/W1982995181",
+    "https://openalex.org/W2750215953",
+    "https://openalex.org/W2049231004",
+    "https://openalex.org/W2782938227",
+    "https://openalex.org/W2787300767",
+    "https://openalex.org/W2062037128",
+    "https://openalex.org/W2198382461",
+    "https://openalex.org/W2469930234",
+    "https://openalex.org/W1547873391",
+    "https://openalex.org/W2045725851",
+    "https://openalex.org/W2989821404",
+    "https://openalex.org/W1965787203",
+    "https://openalex.org/W2768651481",
+    "https://openalex.org/W2792868952",
+    "https://openalex.org/W3013929738",
+    "https://openalex.org/W1556875896",
+    "https://openalex.org/W2287263530",
+    "https://openalex.org/W2622034414",
+    "https://openalex.org/W2052398640",
+    "https://openalex.org/W19399978",
+    "https://openalex.org/W6607057097",
+    "https://openalex.org/W1945788957",
+    "https://openalex.org/W95067517",
+    "https://openalex.org/W2051163483",
+    "https://openalex.org/W2123932410",
+    "https://openalex.org/W2168440500",
+    "https://openalex.org/W6634045290",
+    "https://openalex.org/W7018143475",
+    "https://openalex.org/W2417339009",
+    "https://openalex.org/W2135498596",
+    "https://openalex.org/W2143887422",
+    "https://openalex.org/W2144685877",
+    "https://openalex.org/W2624550474",
+    "https://openalex.org/W2108458429",
+    "https://openalex.org/W2063177175",
+    "https://openalex.org/W2135577168",
+    "https://openalex.org/W2968388874",
+    "https://openalex.org/W2549412929",
+    "https://openalex.org/W6610557702",
+    "https://openalex.org/W1985399444",
+    "https://openalex.org/W2807733828",
+    "https://openalex.org/W4212855798",
+    "https://openalex.org/W2016332883",
+    "https://openalex.org/W2511304995",
+    "https://openalex.org/W6736147203",
+    "https://openalex.org/W2903312941",
+    "https://openalex.org/W2984052439",
+    "https://openalex.org/W1989575672",
+    "https://openalex.org/W2005948381",
+    "https://openalex.org/W2102828853",
+    "https://openalex.org/W2068209980",
+    "https://openalex.org/W2024204750",
+    "https://openalex.org/W2012365202",
+    "https://openalex.org/W2142015871",
+    "https://openalex.org/W2021705019",
+    "https://openalex.org/W1978470729",
+    "https://openalex.org/W2087386265",
+    "https://openalex.org/W2011945596",
+    "https://openalex.org/W2062863339",
+    "https://openalex.org/W2031866732",
+    "https://openalex.org/W1974061452",
+    "https://openalex.org/W2139071901",
+    "https://openalex.org/W2051773470",
+    "https://openalex.org/W2004024063",
+    "https://openalex.org/W2090747210",
+    "https://openalex.org/W2009836674",
+    "https://openalex.org/W2036672128",
+    "https://openalex.org/W2203975508",
+    "https://openalex.org/W1899829068",
+    "https://openalex.org/W1912056476",
+    "https://openalex.org/W2275792140",
+    "https://openalex.org/W1948184167",
+    "https://openalex.org/W1958812812",
+    "https://openalex.org/W2215965325",
+    "https://openalex.org/W1914162828",
+    "https://openalex.org/W2587920504",
+    "https://openalex.org/W2293090253",
+    "https://openalex.org/W2478390388",
+    "https://openalex.org/W2346305137",
+    "https://openalex.org/W2743475870",
+    "https://openalex.org/W2751489612",
+    "https://openalex.org/W2600859289",
+    "https://openalex.org/W2767283118",
+    "https://openalex.org/W2588141400",
+    "https://openalex.org/W2767711890",
+    "https://openalex.org/W2576554443",
+    "https://openalex.org/W2811233317",
+    "https://openalex.org/W2904800340",
+    "https://openalex.org/W2905463484",
+    "https://openalex.org/W2918670075",
+    "https://openalex.org/W2903797094",
+    "https://openalex.org/W2897578276",
+    "https://openalex.org/W2899821549",
+    "https://openalex.org/W2893883473",
+    "https://openalex.org/W2923583439",
+    "https://openalex.org/W2952568980",
+    "https://openalex.org/W2910531306",
+    "https://openalex.org/W2991713924",
+    "https://openalex.org/W2912705535",
+    "https://openalex.org/W2908582416",
+    "https://openalex.org/W2972320057",
+    "https://openalex.org/W4226016296",
+    "https://openalex.org/W2027256310",
+    "https://openalex.org/W2042850276",
+    "https://openalex.org/W2039306314",
+    "https://openalex.org/W1417422537",
+    "https://openalex.org/W2200104559",
+    "https://openalex.org/W2751003760",
+    "https://openalex.org/W2600865830",
+    "https://openalex.org/W2893010698",
+    "https://openalex.org/W2883556522",
+    "https://openalex.org/W2944505623",
+    "https://openalex.org/W2921796216",
+    "https://openalex.org/W2905116833",
+    "https://openalex.org/W3004545263",
+    "https://openalex.org/W1994984331",
+    "https://openalex.org/W1737853022",
+    "https://openalex.org/W2009658718",
+    "https://openalex.org/W2081204467",
+    "https://openalex.org/W2029754303",
+    "https://openalex.org/W2226738307",
+    "https://openalex.org/W2344489012",
+    "https://openalex.org/W2503210624",
+    "https://openalex.org/W2311839348",
+    "https://openalex.org/W2414007947",
+    "https://openalex.org/W6741567016",
+    "https://openalex.org/W645374302",
+    "https://openalex.org/W2910064571",
+    "https://openalex.org/W1571713626",
+    "https://openalex.org/W2735644790",
+    "https://openalex.org/W2574713010",
+    "https://openalex.org/W172711948"
+  ],
+  "related_works": [
+    "https://openalex.org/W4200203496",
+    "https://openalex.org/W2327791771",
+    "https://openalex.org/W3214983079",
+    "https://openalex.org/W2134678736",
+    "https://openalex.org/W2801605877",
+    "https://openalex.org/W3093653605",
+    "https://openalex.org/W2013467770",
+    "https://openalex.org/W1567056755",
+    "https://openalex.org/W3209698983",
+    "https://openalex.org/W2811107901"
+  ],
+  "abstract_inverted_index": {
+    "The": [
+      0
+    ],
+    "increasing": [
+      1
+    ],
+    "proportion": [
+      2
+    ],
+    "of": [
+      3,
+      32,
+      40,
+      70,
+      106,
+      176,
+      189
+    ],
+    "people": [
+      4
+    ],
+    "living": [
+      5
+    ],
+    "in": [
+      6,
+      46,
+      90,
+      113,
+      180
+    ],
+    "urban": [
+      7
+    ],
+    "areas": [
+      8
+    ],
+    "causes": [
+      9
+    ],
+    "well-known": [
+      10
+    ],
+    "mobility": [
+      11,
+      52
+    ],
+    "issues": [
+      12,
+      27,
+      53,
+      185
+    ],
+    "such": [
+      13,
+      140
+    ],
+    "as": [
+      14,
+      62,
+      141
+    ],
+    "pollution": [
+      15
+    ],
+    "and": [
+      16,
+      54,
+      98,
+      127,
+      129,
+      147,
+      163,
+      186
+    ],
+    "congested": [
+      17
+    ],
+    "roads.": [
+      18
+    ],
+    "In": [
+      19,
+      74,
+      170
+    ],
+    "addition": [
+      20
+    ],
+    "to": [
+      21,
+      50,
+      65,
+      85,
+      136,
+      157,
+      164
+    ],
+    "their": [
+      22
+    ],
+    "heavy": [
+      23
+    ],
+    "environmental": [
+      24
+    ],
+    "impact,": [
+      25
+    ],
+    "these": [
+      26
+    ],
+    "negatively": [
+      28
+    ],
+    "affect": [
+      29
+    ],
+    "citizens'": [
+      30
+    ],
+    "quality": [
+      31
+    ],
+    "life.": [
+      33
+    ],
+    "Emerging": [
+      34
+    ],
+    "technologies": [
+      35
+    ],
+    "allow": [
+      36
+    ],
+    "gathering": [
+      37
+    ],
+    "huge": [
+      38
+    ],
+    "amounts": [
+      39
+    ],
+    "data": [
+      41,
+      93,
+      119
+    ],
+    "regarding": [
+      42
+    ],
+    "traffic": [
+      43,
+      72,
+      92
+    ],
+    "which": [
+      44,
+      110
+    ],
+    "can": [
+      45
+    ],
+    "turn": [
+      47
+    ],
+    "be": [
+      48
+    ],
+    "analyzed": [
+      49,
+      112
+    ],
+    "diagnose": [
+      51
+    ],
+    "propose": [
+      55
+    ],
+    "solutions.": [
+      56
+    ],
+    "Information": [
+      57
+    ],
+    "visualization": [
+      58,
+      125,
+      145
+    ],
+    "is": [
+      59
+    ],
+    "increasingly": [
+      60
+    ],
+    "leveraged": [
+      61
+    ],
+    "a": [
+      63,
+      96,
+      104,
+      174,
+      187
+    ],
+    "medium": [
+      64
+    ],
+    "make": [
+      66
+    ],
+    "the": [
+      67,
+      79,
+      87,
+      118,
+      121,
+      124,
+      130,
+      142,
+      148,
+      151,
+      181
+    ],
+    "most": [
+      68,
+      143,
+      152
+    ],
+    "out": [
+      69
+    ],
+    "this": [
+      71,
+      75
+    ],
+    "data.": [
+      73
+    ],
+    "paper,": [
+      76
+    ],
+    "we": [
+      77,
+      83,
+      101,
+      111,
+      172
+    ],
+    "present": [
+      78
+    ],
+    "systematic": [
+      80
+    ],
+    "literature": [
+      81
+    ],
+    "review": [
+      82
+    ],
+    "conducted": [
+      84
+    ],
+    "analyze": [
+      86
+    ],
+    "existing": [
+      88
+    ],
+    "research": [
+      89,
+      161
+    ],
+    "intra-city": [
+      91
+    ],
+    "visualization.": [
+      94
+    ],
+    "Following": [
+      95
+    ],
+    "well-defined": [
+      97
+    ],
+    "rigorous": [
+      99
+    ],
+    "protocol,": [
+      100
+    ],
+    "have": [
+      102
+    ],
+    "made": [
+      103
+    ],
+    "selection": [
+      105
+    ],
+    "146": [
+      107
+    ],
+    "relevant": [
+      108
+    ],
+    "works": [
+      109
+    ],
+    "depth": [
+      114
+    ],
+    "under": [
+      115
+    ],
+    "multiple": [
+      116
+    ],
+    "perspectives:": [
+      117
+    ],
+    "used,": [
+      120
+    ],
+    "domain": [
+      122
+    ],
+    "problems,": [
+      123
+    ],
+    "techniques": [
+      126,
+      146
+    ],
+    "interaction,": [
+      128
+    ],
+    "target": [
+      131
+    ],
+    "end-user.": [
+      132
+    ],
+    "We": [
+      133
+    ],
+    "were": [
+      134
+    ],
+    "able": [
+      135
+    ],
+    "identify": [
+      137
+    ],
+    "common": [
+      138
+    ],
+    "practices": [
+      139
+    ],
+    "used": [
+      144
+    ],
+    "problems": [
+      149
+    ],
+    "tackled": [
+      150
+    ],
+    "often.": [
+      153
+    ],
+    "This": [
+      154
+    ],
+    "allowed": [
+      155
+    ],
+    "us": [
+      156
+    ],
+    "uncover": [
+      158
+    ],
+    "little": [
+      159
+    ],
+    "explored": [
+      160
+    ],
+    "directions": [
+      162
+    ],
+    "suggest": [
+      165
+    ],
+    "avenues": [
+      166
+    ],
+    "for": [
+      167,
+      191
+    ],
+    "innovative": [
+      168
+    ],
+    "research.": [
+      169
+    ],
+    "particular,": [
+      171
+    ],
+    "noted": [
+      173
+    ],
+    "lack": [
+      175,
+      188
+    ],
+    "visualizations": [
+      177
+    ],
+    "engaging": [
+      178
+    ],
+    "citizens": [
+      179
+    ],
+    "reflection": [
+      182
+    ],
+    "on": [
+      183
+    ],
+    "mobility-related": [
+      184
+    ],
+    "consideration": [
+      190
+    ],
+    "user": [
+      192
+    ],
+    "studies.": [
+      193
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 6
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 5
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2021,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2025-11-06T03:46:38.306776",
+  "created_date": "2025-10-10T00:00:00"
+}

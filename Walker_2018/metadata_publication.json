@@ -1,0 +1,1421 @@
+{
+  "id": "https://openalex.org/W2792169531",
+  "doi": "https://doi.org/10.1016/j.envint.2017.12.032",
+  "title": "Human and animal evidence of potential transgenerational inheritance of health effects: An evidence map and state-of-the-science evaluation",
+  "display_name": "Human and animal evidence of potential transgenerational inheritance of health effects: An evidence map and state-of-the-science evaluation",
+  "publication_year": 2018,
+  "publication_date": "2018-03-18",
+  "ids": {
+    "openalex": "https://openalex.org/W2792169531",
+    "doi": "https://doi.org/10.1016/j.envint.2017.12.032",
+    "mag": "2792169531",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/29549716"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1016/j.envint.2017.12.032",
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.1016/j.envint.2017.12.032",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S143381477",
+      "display_name": "Environment International",
+      "issn_l": "0160-4120",
+      "issn": [
+        "0160-4120",
+        "1873-6750"
+      ],
+      "is_oa": false,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320990",
+      "host_organization_name": "Elsevier BV",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320990"
+      ],
+      "host_organization_lineage_names": [
+        "Elsevier BV"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Environment International",
+    "raw_type": "journal-article"
+  },
+  "type": "review",
+  "indexed_in": [
+    "crossref",
+    "doaj",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5076534773",
+        "display_name": "Vickie R. Walker",
+        "orcid": "https://orcid.org/0009-0001-6711-071X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210095140",
+          "display_name": "National Institute of Environmental Health Sciences",
+          "ror": "https://ror.org/00j4k1h63",
+          "country_code": "US",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I1299022934",
+            "https://openalex.org/I1299303238",
+            "https://openalex.org/I4210095140"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I1299303238",
+          "display_name": "National Institutes of Health",
+          "ror": "https://ror.org/01cwqze88",
+          "country_code": "US",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I1299022934",
+            "https://openalex.org/I1299303238"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Vickie R. Walker",
+      "raw_affiliation_strings": [
+        "Office of Health Assessment and Translation (OHAT), Division of National Toxicology Program (NTP), National Institute of Environmental Sciences (NIEHS), National Institutes of Health (NIH), Department of Health and Human Services (DHHS), Research Triangle Park, NC, USA"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Office of Health Assessment and Translation (OHAT), Division of National Toxicology Program (NTP), National Institute of Environmental Sciences (NIEHS), National Institutes of Health (NIH), Department of Health and Human Services (DHHS), Research Triangle Park, NC, USA",
+          "institution_ids": [
+            "https://openalex.org/I1299303238",
+            "https://openalex.org/I4210095140"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5047689153",
+        "display_name": "Abee L. Boyles",
+        "orcid": "https://orcid.org/0000-0002-8711-2077"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210095140",
+          "display_name": "National Institute of Environmental Health Sciences",
+          "ror": "https://ror.org/00j4k1h63",
+          "country_code": "US",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I1299022934",
+            "https://openalex.org/I1299303238",
+            "https://openalex.org/I4210095140"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I1299303238",
+          "display_name": "National Institutes of Health",
+          "ror": "https://ror.org/01cwqze88",
+          "country_code": "US",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I1299022934",
+            "https://openalex.org/I1299303238"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Abee L. Boyles",
+      "raw_affiliation_strings": [
+        "Office of Health Assessment and Translation (OHAT), Division of National Toxicology Program (NTP), National Institute of Environmental Sciences (NIEHS), National Institutes of Health (NIH), Department of Health and Human Services (DHHS), Research Triangle Park, NC, USA"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Office of Health Assessment and Translation (OHAT), Division of National Toxicology Program (NTP), National Institute of Environmental Sciences (NIEHS), National Institutes of Health (NIH), Department of Health and Human Services (DHHS), Research Triangle Park, NC, USA",
+          "institution_ids": [
+            "https://openalex.org/I1299303238",
+            "https://openalex.org/I4210095140"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5061071431",
+        "display_name": "Katherine E. Pelch",
+        "orcid": "https://orcid.org/0000-0002-4821-5153"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210095140",
+          "display_name": "National Institute of Environmental Health Sciences",
+          "ror": "https://ror.org/00j4k1h63",
+          "country_code": "US",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I1299022934",
+            "https://openalex.org/I1299303238",
+            "https://openalex.org/I4210095140"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I1299303238",
+          "display_name": "National Institutes of Health",
+          "ror": "https://ror.org/01cwqze88",
+          "country_code": "US",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I1299022934",
+            "https://openalex.org/I1299303238"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Katherine E. Pelch",
+      "raw_affiliation_strings": [
+        "Office of Health Assessment and Translation (OHAT), Division of National Toxicology Program (NTP), National Institute of Environmental Sciences (NIEHS), National Institutes of Health (NIH), Department of Health and Human Services (DHHS), Research Triangle Park, NC, USA"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Office of Health Assessment and Translation (OHAT), Division of National Toxicology Program (NTP), National Institute of Environmental Sciences (NIEHS), National Institutes of Health (NIH), Department of Health and Human Services (DHHS), Research Triangle Park, NC, USA",
+          "institution_ids": [
+            "https://openalex.org/I1299303238",
+            "https://openalex.org/I4210095140"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5012409313",
+        "display_name": "Stephanie Holmgren",
+        "orcid": "https://orcid.org/0000-0001-9416-365X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210095140",
+          "display_name": "National Institute of Environmental Health Sciences",
+          "ror": "https://ror.org/00j4k1h63",
+          "country_code": "US",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I1299022934",
+            "https://openalex.org/I1299303238",
+            "https://openalex.org/I4210095140"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210090916",
+          "display_name": "Triangle",
+          "ror": "https://ror.org/00fhbr831",
+          "country_code": "US",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I4210090916"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Stephanie D. Holmgren",
+      "raw_affiliation_strings": [
+        "Office of Data Science, NIEHS, NIH, DHHS, Research Triangle Park, NC, USA"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Office of Data Science, NIEHS, NIH, DHHS, Research Triangle Park, NC, USA",
+          "institution_ids": [
+            "https://openalex.org/I4210090916",
+            "https://openalex.org/I4210095140"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5031795967",
+        "display_name": "Andrew J. Shapiro",
+        "orcid": "https://orcid.org/0000-0002-5233-8092"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210095140",
+          "display_name": "National Institute of Environmental Health Sciences",
+          "ror": "https://ror.org/00j4k1h63",
+          "country_code": "US",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I1299022934",
+            "https://openalex.org/I1299303238",
+            "https://openalex.org/I4210095140"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Andrew J. Shapiro",
+      "raw_affiliation_strings": [
+        "Program Operations Branch, DNTP, NIEHS, NIH, DHHS, Research Triangle Park, NC, USA"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Program Operations Branch, DNTP, NIEHS, NIH, DHHS, Research Triangle Park, NC, USA",
+          "institution_ids": [
+            "https://openalex.org/I4210095140"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5013875624",
+        "display_name": "Chad R. Blystone",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210095140",
+          "display_name": "National Institute of Environmental Health Sciences",
+          "ror": "https://ror.org/00j4k1h63",
+          "country_code": "US",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I1299022934",
+            "https://openalex.org/I1299303238",
+            "https://openalex.org/I4210095140"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Chad R. Blystone",
+      "raw_affiliation_strings": [
+        "Toxicology Branch, DNTP, NIEHS, NIH, DHHS, Research Triangle Park, NC, USA"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Toxicology Branch, DNTP, NIEHS, NIH, DHHS, Research Triangle Park, NC, USA",
+          "institution_ids": [
+            "https://openalex.org/I4210095140"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5079951784",
+        "display_name": "Michael J. DeVito",
+        "orcid": "https://orcid.org/0000-0003-1258-4894"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210095140",
+          "display_name": "National Institute of Environmental Health Sciences",
+          "ror": "https://ror.org/00j4k1h63",
+          "country_code": "US",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I1299022934",
+            "https://openalex.org/I1299303238",
+            "https://openalex.org/I4210095140"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Michael J. Devito",
+      "raw_affiliation_strings": [
+        "NTP Laboratory, DNTP, NIEHS, NIH, DHHS, Research Triangle Park, NC, USA"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "NTP Laboratory, DNTP, NIEHS, NIH, DHHS, Research Triangle Park, NC, USA",
+          "institution_ids": [
+            "https://openalex.org/I4210095140"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5023016326",
+        "display_name": "Retha R. Newbold",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210095140",
+          "display_name": "National Institute of Environmental Health Sciences",
+          "ror": "https://ror.org/00j4k1h63",
+          "country_code": "US",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I1299022934",
+            "https://openalex.org/I1299303238",
+            "https://openalex.org/I4210095140"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Retha R. Newbold",
+      "raw_affiliation_strings": [
+        "Researcher Emeritus, DNTP, NIEHS, NIH, DHHS, Research Triangle Park, NC, USA"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Researcher Emeritus, DNTP, NIEHS, NIH, DHHS, Research Triangle Park, NC, USA",
+          "institution_ids": [
+            "https://openalex.org/I4210095140"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5069144048",
+        "display_name": "Robyn Blain",
+        "orcid": "https://orcid.org/0000-0002-1859-5554"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210090916",
+          "display_name": "Triangle",
+          "ror": "https://ror.org/00fhbr831",
+          "country_code": "US",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I4210090916"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Robyn Blain",
+      "raw_affiliation_strings": [
+        "ICF, Research Triangle Park, NC, USA"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "ICF, Research Triangle Park, NC, USA",
+          "institution_ids": [
+            "https://openalex.org/I4210090916"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5004862781",
+        "display_name": "Pamela Hartman",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210090916",
+          "display_name": "Triangle",
+          "ror": "https://ror.org/00fhbr831",
+          "country_code": "US",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I4210090916"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Pamela Hartman",
+      "raw_affiliation_strings": [
+        "ICF, Research Triangle Park, NC, USA"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "ICF, Research Triangle Park, NC, USA",
+          "institution_ids": [
+            "https://openalex.org/I4210090916"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5000842973",
+        "display_name": "Kristina A. Thayer",
+        "orcid": "https://orcid.org/0000-0002-3616-618X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210095140",
+          "display_name": "National Institute of Environmental Health Sciences",
+          "ror": "https://ror.org/00j4k1h63",
+          "country_code": "US",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I1299022934",
+            "https://openalex.org/I1299303238",
+            "https://openalex.org/I4210095140"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I1299303238",
+          "display_name": "National Institutes of Health",
+          "ror": "https://ror.org/01cwqze88",
+          "country_code": "US",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I1299022934",
+            "https://openalex.org/I1299303238"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Kristina A. Thayer",
+      "raw_affiliation_strings": [
+        "Office of Health Assessment and Translation (OHAT), Division of National Toxicology Program (NTP), National Institute of Environmental Sciences (NIEHS), National Institutes of Health (NIH), Department of Health and Human Services (DHHS), Research Triangle Park, NC, USA"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Office of Health Assessment and Translation (OHAT), Division of National Toxicology Program (NTP), National Institute of Environmental Sciences (NIEHS), National Institutes of Health (NIH), Department of Health and Human Services (DHHS), Research Triangle Park, NC, USA",
+          "institution_ids": [
+            "https://openalex.org/I1299303238",
+            "https://openalex.org/I4210095140"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5015389388",
+        "display_name": "Andrew A. Rooney",
+        "orcid": "https://orcid.org/0000-0002-1756-5185"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210095140",
+          "display_name": "National Institute of Environmental Health Sciences",
+          "ror": "https://ror.org/00j4k1h63",
+          "country_code": "US",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I1299022934",
+            "https://openalex.org/I1299303238",
+            "https://openalex.org/I4210095140"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I1299303238",
+          "display_name": "National Institutes of Health",
+          "ror": "https://ror.org/01cwqze88",
+          "country_code": "US",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I1299022934",
+            "https://openalex.org/I1299303238"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Andrew A. Rooney",
+      "raw_affiliation_strings": [
+        "Office of Health Assessment and Translation (OHAT), Division of National Toxicology Program (NTP), National Institute of Environmental Sciences (NIEHS), National Institutes of Health (NIH), Department of Health and Human Services (DHHS), Research Triangle Park, NC, USA"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Office of Health Assessment and Translation (OHAT), Division of National Toxicology Program (NTP), National Institute of Environmental Sciences (NIEHS), National Institutes of Health (NIH), Department of Health and Human Services (DHHS), Research Triangle Park, NC, USA",
+          "institution_ids": [
+            "https://openalex.org/I1299303238",
+            "https://openalex.org/I4210095140"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 12,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5076534773"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I1299303238",
+    "https://openalex.org/I4210095140"
+  ],
+  "apc_list": {
+    "value": 3500,
+    "currency": "USD",
+    "value_usd": 3500
+  },
+  "apc_paid": null,
+  "fwci": 11.49269242,
+  "has_fulltext": false,
+  "cited_by_count": 28,
+  "citation_normalized_percentile": {
+    "value": 0.95385455,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 90,
+    "max": 99
+  },
+  "biblio": {
+    "volume": "115",
+    "issue": null,
+    "first_page": "48",
+    "last_page": "69"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T11629",
+    "display_name": "Birth, Development, and Health",
+    "score": 0.9986000061035156,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2735",
+      "display_name": "Pediatrics, Perinatology and Child Health"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/27",
+      "display_name": "Medicine"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/4",
+      "display_name": "Health Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T11629",
+      "display_name": "Birth, Development, and Health",
+      "score": 0.9986000061035156,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2735",
+        "display_name": "Pediatrics, Perinatology and Child Health"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T14393",
+      "display_name": "Health, Environment, Cognitive Aging",
+      "score": 0.9909999966621399,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2307",
+        "display_name": "Health, Toxicology and Mutagenesis"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11141",
+      "display_name": "Childhood Cancer Survivors' Quality of Life",
+      "score": 0.9480000138282776,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2735",
+        "display_name": "Pediatrics, Perinatology and Child Health"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/transgenerational-epigenetics",
+      "display_name": "Transgenerational epigenetics",
+      "score": 0.742300271987915
+    },
+    {
+      "id": "https://openalex.org/keywords/stressor",
+      "display_name": "Stressor",
+      "score": 0.5357851982116699
+    },
+    {
+      "id": "https://openalex.org/keywords/environmental-health",
+      "display_name": "Environmental health",
+      "score": 0.48843780159950256
+    },
+    {
+      "id": "https://openalex.org/keywords/empirical-evidence",
+      "display_name": "Empirical evidence",
+      "score": 0.47600993514060974
+    },
+    {
+      "id": "https://openalex.org/keywords/evidence-based-practice",
+      "display_name": "Evidence-based practice",
+      "score": 0.45926132798194885
+    },
+    {
+      "id": "https://openalex.org/keywords/clinical-study-design",
+      "display_name": "Clinical study design",
+      "score": 0.4461138844490051
+    },
+    {
+      "id": "https://openalex.org/keywords/inheritance",
+      "display_name": "Inheritance (genetic algorithm)",
+      "score": 0.42690107226371765
+    },
+    {
+      "id": "https://openalex.org/keywords/public-health",
+      "display_name": "Public health",
+      "score": 0.4237213730812073
+    },
+    {
+      "id": "https://openalex.org/keywords/systematic-review",
+      "display_name": "Systematic review",
+      "score": 0.4192473590373993
+    },
+    {
+      "id": "https://openalex.org/keywords/medicine",
+      "display_name": "Medicine",
+      "score": 0.37887218594551086
+    },
+    {
+      "id": "https://openalex.org/keywords/psychology",
+      "display_name": "Psychology",
+      "score": 0.35807791352272034
+    },
+    {
+      "id": "https://openalex.org/keywords/biology",
+      "display_name": "Biology",
+      "score": 0.3089308738708496
+    },
+    {
+      "id": "https://openalex.org/keywords/medline",
+      "display_name": "MEDLINE",
+      "score": 0.2783190608024597
+    },
+    {
+      "id": "https://openalex.org/keywords/offspring",
+      "display_name": "Offspring",
+      "score": 0.25870421528816223
+    },
+    {
+      "id": "https://openalex.org/keywords/clinical-psychology",
+      "display_name": "Clinical psychology",
+      "score": 0.20306196808815002
+    },
+    {
+      "id": "https://openalex.org/keywords/genetics",
+      "display_name": "Genetics",
+      "score": 0.170719712972641
+    },
+    {
+      "id": "https://openalex.org/keywords/clinical-trial",
+      "display_name": "Clinical trial",
+      "score": 0.1672174632549286
+    },
+    {
+      "id": "https://openalex.org/keywords/pathology",
+      "display_name": "Pathology",
+      "score": 0.1489155888557434
+    },
+    {
+      "id": "https://openalex.org/keywords/pregnancy",
+      "display_name": "Pregnancy",
+      "score": 0.13369110226631165
+    },
+    {
+      "id": "https://openalex.org/keywords/alternative-medicine",
+      "display_name": "Alternative medicine",
+      "score": 0.09747493267059326
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C184151982",
+      "wikidata": "https://www.wikidata.org/wiki/Q7834236",
+      "display_name": "Transgenerational epigenetics",
+      "level": 4,
+      "score": 0.742300271987915
+    },
+    {
+      "id": "https://openalex.org/C125370674",
+      "wikidata": "https://www.wikidata.org/wiki/Q1527480",
+      "display_name": "Stressor",
+      "level": 2,
+      "score": 0.5357851982116699
+    },
+    {
+      "id": "https://openalex.org/C99454951",
+      "wikidata": "https://www.wikidata.org/wiki/Q932068",
+      "display_name": "Environmental health",
+      "level": 1,
+      "score": 0.48843780159950256
+    },
+    {
+      "id": "https://openalex.org/C166052673",
+      "wikidata": "https://www.wikidata.org/wiki/Q83021",
+      "display_name": "Empirical evidence",
+      "level": 2,
+      "score": 0.47600993514060974
+    },
+    {
+      "id": "https://openalex.org/C141330323",
+      "wikidata": "https://www.wikidata.org/wiki/Q2354820",
+      "display_name": "Evidence-based practice",
+      "level": 3,
+      "score": 0.45926132798194885
+    },
+    {
+      "id": "https://openalex.org/C148482608",
+      "wikidata": "https://www.wikidata.org/wiki/Q17007018",
+      "display_name": "Clinical study design",
+      "level": 3,
+      "score": 0.4461138844490051
+    },
+    {
+      "id": "https://openalex.org/C2780902518",
+      "wikidata": "https://www.wikidata.org/wiki/Q6033780",
+      "display_name": "Inheritance (genetic algorithm)",
+      "level": 3,
+      "score": 0.42690107226371765
+    },
+    {
+      "id": "https://openalex.org/C138816342",
+      "wikidata": "https://www.wikidata.org/wiki/Q189603",
+      "display_name": "Public health",
+      "level": 2,
+      "score": 0.4237213730812073
+    },
+    {
+      "id": "https://openalex.org/C189708586",
+      "wikidata": "https://www.wikidata.org/wiki/Q1504425",
+      "display_name": "Systematic review",
+      "level": 3,
+      "score": 0.4192473590373993
+    },
+    {
+      "id": "https://openalex.org/C71924100",
+      "wikidata": "https://www.wikidata.org/wiki/Q11190",
+      "display_name": "Medicine",
+      "level": 0,
+      "score": 0.37887218594551086
+    },
+    {
+      "id": "https://openalex.org/C15744967",
+      "wikidata": "https://www.wikidata.org/wiki/Q9418",
+      "display_name": "Psychology",
+      "level": 0,
+      "score": 0.35807791352272034
+    },
+    {
+      "id": "https://openalex.org/C86803240",
+      "wikidata": "https://www.wikidata.org/wiki/Q420",
+      "display_name": "Biology",
+      "level": 0,
+      "score": 0.3089308738708496
+    },
+    {
+      "id": "https://openalex.org/C2779473830",
+      "wikidata": "https://www.wikidata.org/wiki/Q1540899",
+      "display_name": "MEDLINE",
+      "level": 2,
+      "score": 0.2783190608024597
+    },
+    {
+      "id": "https://openalex.org/C112672928",
+      "wikidata": "https://www.wikidata.org/wiki/Q239526",
+      "display_name": "Offspring",
+      "level": 3,
+      "score": 0.25870421528816223
+    },
+    {
+      "id": "https://openalex.org/C70410870",
+      "wikidata": "https://www.wikidata.org/wiki/Q199906",
+      "display_name": "Clinical psychology",
+      "level": 1,
+      "score": 0.20306196808815002
+    },
+    {
+      "id": "https://openalex.org/C54355233",
+      "wikidata": "https://www.wikidata.org/wiki/Q7162",
+      "display_name": "Genetics",
+      "level": 1,
+      "score": 0.170719712972641
+    },
+    {
+      "id": "https://openalex.org/C535046627",
+      "wikidata": "https://www.wikidata.org/wiki/Q30612",
+      "display_name": "Clinical trial",
+      "level": 2,
+      "score": 0.1672174632549286
+    },
+    {
+      "id": "https://openalex.org/C142724271",
+      "wikidata": "https://www.wikidata.org/wiki/Q7208",
+      "display_name": "Pathology",
+      "level": 1,
+      "score": 0.1489155888557434
+    },
+    {
+      "id": "https://openalex.org/C2779234561",
+      "wikidata": "https://www.wikidata.org/wiki/Q11995",
+      "display_name": "Pregnancy",
+      "level": 2,
+      "score": 0.13369110226631165
+    },
+    {
+      "id": "https://openalex.org/C204787440",
+      "wikidata": "https://www.wikidata.org/wiki/Q188504",
+      "display_name": "Alternative medicine",
+      "level": 2,
+      "score": 0.09747493267059326
+    },
+    {
+      "id": "https://openalex.org/C138885662",
+      "wikidata": "https://www.wikidata.org/wiki/Q5891",
+      "display_name": "Philosophy",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C111472728",
+      "wikidata": "https://www.wikidata.org/wiki/Q9471",
+      "display_name": "Epistemology",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C104317684",
+      "wikidata": "https://www.wikidata.org/wiki/Q7187",
+      "display_name": "Gene",
+      "level": 2,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C55493867",
+      "wikidata": "https://www.wikidata.org/wiki/Q7094",
+      "display_name": "Biochemistry",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [
+    {
+      "descriptor_ui": "D000818",
+      "descriptor_name": "Animals",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D035843",
+      "descriptor_name": "Biomedical Research",
+      "qualifier_ui": "Q000379",
+      "qualifier_name": "methods",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D035843",
+      "descriptor_name": "Biomedical Research",
+      "qualifier_ui": "Q000592",
+      "qualifier_name": "standards",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D016208",
+      "descriptor_name": "Databases, Factual",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D004781",
+      "descriptor_name": "Environmental Exposure",
+      "qualifier_ui": "Q000032",
+      "qualifier_name": "analysis",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005260",
+      "descriptor_name": "Female",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008297",
+      "descriptor_name": "Male",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D018811",
+      "descriptor_name": "Maternal Exposure",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D018812",
+      "descriptor_name": "Paternal Exposure",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D011247",
+      "descriptor_name": "Pregnancy",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D011297",
+      "descriptor_name": "Prenatal Exposure Delayed Effects",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000818",
+      "descriptor_name": "Animals",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D035843",
+      "descriptor_name": "Biomedical Research",
+      "qualifier_ui": "Q000379",
+      "qualifier_name": "methods",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D035843",
+      "descriptor_name": "Biomedical Research",
+      "qualifier_ui": "Q000592",
+      "qualifier_name": "standards",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D016208",
+      "descriptor_name": "Databases, Factual",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D004781",
+      "descriptor_name": "Environmental Exposure",
+      "qualifier_ui": "Q000032",
+      "qualifier_name": "analysis",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005260",
+      "descriptor_name": "Female",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008297",
+      "descriptor_name": "Male",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D018811",
+      "descriptor_name": "Maternal Exposure",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D018812",
+      "descriptor_name": "Paternal Exposure",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D011247",
+      "descriptor_name": "Pregnancy",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D011297",
+      "descriptor_name": "Prenatal Exposure Delayed Effects",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    }
+  ],
+  "locations_count": 3,
+  "locations": [
+    {
+      "id": "doi:10.1016/j.envint.2017.12.032",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1016/j.envint.2017.12.032",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S143381477",
+        "display_name": "Environment International",
+        "issn_l": "0160-4120",
+        "issn": [
+          "0160-4120",
+          "1873-6750"
+        ],
+        "is_oa": false,
+        "is_in_doaj": true,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320990",
+        "host_organization_name": "Elsevier BV",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320990"
+        ],
+        "host_organization_lineage_names": [
+          "Elsevier BV"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Environment International",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:29549716",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/29549716",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Environment international",
+      "raw_type": null
+    },
+    {
+      "id": "pmh:oai:doaj.org/article:346580a63aef4bb0bc6551134fbd8010",
+      "is_oa": false,
+      "landing_page_url": "https://doaj.org/article/346580a63aef4bb0bc6551134fbd8010",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401280",
+        "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Environment International, Vol 115, Iss , Pp 48-69 (2018)",
+      "raw_type": "article"
+    }
+  ],
+  "best_oa_location": null,
+  "sustainable_development_goals": [],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "grobid_xml": false,
+    "pdf": false
+  },
+  "referenced_works_count": 133,
+  "referenced_works": [
+    "https://openalex.org/W2101524853",
+    "https://openalex.org/W2021192296",
+    "https://openalex.org/W2101037833",
+    "https://openalex.org/W2065525499",
+    "https://openalex.org/W2035622433",
+    "https://openalex.org/W2008269062",
+    "https://openalex.org/W2029898749",
+    "https://openalex.org/W1502523862",
+    "https://openalex.org/W6604352537",
+    "https://openalex.org/W2142678812",
+    "https://openalex.org/W2101153618",
+    "https://openalex.org/W6607280947",
+    "https://openalex.org/W2073266411",
+    "https://openalex.org/W2044542770",
+    "https://openalex.org/W1483349607",
+    "https://openalex.org/W2214725941",
+    "https://openalex.org/W2009553381",
+    "https://openalex.org/W2221669816",
+    "https://openalex.org/W2591727338",
+    "https://openalex.org/W2079987638",
+    "https://openalex.org/W2138335861",
+    "https://openalex.org/W2046966583",
+    "https://openalex.org/W2517712760",
+    "https://openalex.org/W2053985016",
+    "https://openalex.org/W1566751645",
+    "https://openalex.org/W2152997475",
+    "https://openalex.org/W2037061138",
+    "https://openalex.org/W2044241561",
+    "https://openalex.org/W2513696712",
+    "https://openalex.org/W6683404639",
+    "https://openalex.org/W2131172255",
+    "https://openalex.org/W2135204261",
+    "https://openalex.org/W2011649969",
+    "https://openalex.org/W2203634181",
+    "https://openalex.org/W2518386440",
+    "https://openalex.org/W2089962605",
+    "https://openalex.org/W2152378246",
+    "https://openalex.org/W1986667734",
+    "https://openalex.org/W1497732779",
+    "https://openalex.org/W2123870375",
+    "https://openalex.org/W2094549516",
+    "https://openalex.org/W1990370417",
+    "https://openalex.org/W2104007338",
+    "https://openalex.org/W2131434727",
+    "https://openalex.org/W1997388146",
+    "https://openalex.org/W1837809897",
+    "https://openalex.org/W1976935056",
+    "https://openalex.org/W2034871574",
+    "https://openalex.org/W2055386916",
+    "https://openalex.org/W2067373175",
+    "https://openalex.org/W2022816137",
+    "https://openalex.org/W2040553259",
+    "https://openalex.org/W2418162217",
+    "https://openalex.org/W2098923148",
+    "https://openalex.org/W1974982848",
+    "https://openalex.org/W2033943361",
+    "https://openalex.org/W1968562138",
+    "https://openalex.org/W2142664378",
+    "https://openalex.org/W2040971876",
+    "https://openalex.org/W1971708895",
+    "https://openalex.org/W2059632047",
+    "https://openalex.org/W2080981186",
+    "https://openalex.org/W1680172220",
+    "https://openalex.org/W2315752386",
+    "https://openalex.org/W6792836266",
+    "https://openalex.org/W4296816736",
+    "https://openalex.org/W2604380896",
+    "https://openalex.org/W6826597500",
+    "https://openalex.org/W1964990421",
+    "https://openalex.org/W6641032772",
+    "https://openalex.org/W1999414155",
+    "https://openalex.org/W2080651036",
+    "https://openalex.org/W2085039863",
+    "https://openalex.org/W2002578132",
+    "https://openalex.org/W2418618550",
+    "https://openalex.org/W2562107220",
+    "https://openalex.org/W2155113386",
+    "https://openalex.org/W2025613570",
+    "https://openalex.org/W2120161350",
+    "https://openalex.org/W2009913676",
+    "https://openalex.org/W2134868253",
+    "https://openalex.org/W2001070286",
+    "https://openalex.org/W2047239675",
+    "https://openalex.org/W2192016022",
+    "https://openalex.org/W2139340966",
+    "https://openalex.org/W2066218383",
+    "https://openalex.org/W2255858454",
+    "https://openalex.org/W2419150706",
+    "https://openalex.org/W2049849397",
+    "https://openalex.org/W2067017838",
+    "https://openalex.org/W2444481702",
+    "https://openalex.org/W2030560757",
+    "https://openalex.org/W2007427663",
+    "https://openalex.org/W2037278965",
+    "https://openalex.org/W2465178352",
+    "https://openalex.org/W2416510212",
+    "https://openalex.org/W2138597631",
+    "https://openalex.org/W2143924171",
+    "https://openalex.org/W2030864780",
+    "https://openalex.org/W2023687998",
+    "https://openalex.org/W6697173865",
+    "https://openalex.org/W2443240960",
+    "https://openalex.org/W2161600055",
+    "https://openalex.org/W2595819286",
+    "https://openalex.org/W2048130534",
+    "https://openalex.org/W2146536602",
+    "https://openalex.org/W6724126397",
+    "https://openalex.org/W2123892768",
+    "https://openalex.org/W2084007373",
+    "https://openalex.org/W2023615889",
+    "https://openalex.org/W2143085832",
+    "https://openalex.org/W3023896271",
+    "https://openalex.org/W1974941850",
+    "https://openalex.org/W2222878407",
+    "https://openalex.org/W2161477597",
+    "https://openalex.org/W2124958203",
+    "https://openalex.org/W2083314087",
+    "https://openalex.org/W2526745866",
+    "https://openalex.org/W396736222",
+    "https://openalex.org/W2102459772",
+    "https://openalex.org/W2008151232",
+    "https://openalex.org/W2419610177",
+    "https://openalex.org/W2089702020",
+    "https://openalex.org/W4288077072",
+    "https://openalex.org/W178272485",
+    "https://openalex.org/W2049069390",
+    "https://openalex.org/W4285719527",
+    "https://openalex.org/W2067158285",
+    "https://openalex.org/W2299378315",
+    "https://openalex.org/W106815408",
+    "https://openalex.org/W2156756819",
+    "https://openalex.org/W2499964771",
+    "https://openalex.org/W1950977525"
+  ],
+  "related_works": [
+    "https://openalex.org/W4307286162",
+    "https://openalex.org/W2171211956",
+    "https://openalex.org/W2086018516",
+    "https://openalex.org/W4312700308",
+    "https://openalex.org/W2089863594",
+    "https://openalex.org/W3164202915",
+    "https://openalex.org/W1983131075",
+    "https://openalex.org/W2079250590",
+    "https://openalex.org/W2612749953",
+    "https://openalex.org/W2045440376"
+  ],
+  "abstract_inverted_index": null,
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 5
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 3
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 4
+    },
+    {
+      "year": 2021,
+      "cited_by_count": 3
+    },
+    {
+      "year": 2020,
+      "cited_by_count": 7
+    },
+    {
+      "year": 2019,
+      "cited_by_count": 3
+    },
+    {
+      "year": 2018,
+      "cited_by_count": 2
+    }
+  ],
+  "updated_date": "2025-11-06T03:46:38.306776",
+  "created_date": "2025-10-10T00:00:00"
+}

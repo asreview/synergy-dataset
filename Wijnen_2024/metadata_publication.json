@@ -1,0 +1,820 @@
+{
+  "id": "https://openalex.org/W4394926034",
+  "doi": "https://doi.org/10.5194/gc-7-91-2024",
+  "title": "Evaluating the impact of climate communication activities by scientists: what is known and necessary?",
+  "display_name": "Evaluating the impact of climate communication activities by scientists: what is known and necessary?",
+  "publication_year": 2024,
+  "publication_date": "2024-04-18",
+  "ids": {
+    "openalex": "https://openalex.org/W4394926034",
+    "doi": "https://doi.org/10.5194/gc-7-91-2024"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.5194/gc-7-91-2024",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.5194/gc-7-91-2024",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S4210203713",
+      "display_name": "Geoscience Communication",
+      "issn_l": "2569-7110",
+      "issn": [
+        "2569-7110"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": null,
+      "host_organization_name": null,
+      "host_organization_lineage": [],
+      "host_organization_lineage_names": [],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Geoscience Communication",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref",
+    "doaj"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "diamond",
+    "oa_url": "https://doi.org/10.5194/gc-7-91-2024",
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5018140153",
+        "display_name": "Frances Wijnen",
+        "orcid": "https://orcid.org/0000-0001-7180-2068"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Frances Wijnen",
+      "raw_affiliation_strings": [],
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5018569598",
+        "display_name": "Madelijn Strick",
+        "orcid": "https://orcid.org/0000-0002-3861-2235"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Madelijn Strick",
+      "raw_affiliation_strings": [],
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5051996659",
+        "display_name": "Mark Bos",
+        "orcid": "https://orcid.org/0000-0002-4396-9861"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Mark Bos",
+      "raw_affiliation_strings": [],
+      "affiliations": []
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5028447125",
+        "display_name": "Erik van Sebille",
+        "orcid": "https://orcid.org/0000-0003-2041-0704"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Erik van Sebille",
+      "raw_affiliation_strings": [],
+      "affiliations": []
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 0,
+  "institutions_distinct_count": 4,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 4.19196351,
+  "has_fulltext": false,
+  "cited_by_count": 2,
+  "citation_normalized_percentile": {
+    "value": 0.89839394,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 95,
+    "max": 97
+  },
+  "biblio": {
+    "volume": "7",
+    "issue": "2",
+    "first_page": "91",
+    "last_page": "100"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T11488",
+    "display_name": "Climate Change Communication and Perception",
+    "score": 0.9997000098228455,
+    "subfield": {
+      "id": "https://openalex.org/subfields/3312",
+      "display_name": "Sociology and Political Science"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/33",
+      "display_name": "Social Sciences"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/2",
+      "display_name": "Social Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T11488",
+      "display_name": "Climate Change Communication and Perception",
+      "score": 0.9997000098228455,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10898",
+      "display_name": "Environmental Education and Sustainability",
+      "score": 0.968999981880188,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2308",
+        "display_name": "Management, Monitoring, Policy and Law"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13967",
+      "display_name": "Conservation, Ecology, Wildlife Education",
+      "score": 0.9264000058174133,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2308",
+        "display_name": "Management, Monitoring, Policy and Law"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/environmental-science",
+      "display_name": "Environmental science",
+      "score": 0.39212292432785034
+    },
+    {
+      "id": "https://openalex.org/keywords/environmental-planning",
+      "display_name": "Environmental planning",
+      "score": 0.38351187109947205
+    },
+    {
+      "id": "https://openalex.org/keywords/environmental-resource-management",
+      "display_name": "Environmental resource management",
+      "score": 0.3559589982032776
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C39432304",
+      "wikidata": "https://www.wikidata.org/wiki/Q188847",
+      "display_name": "Environmental science",
+      "level": 0,
+      "score": 0.39212292432785034
+    },
+    {
+      "id": "https://openalex.org/C91375879",
+      "wikidata": "https://www.wikidata.org/wiki/Q15473274",
+      "display_name": "Environmental planning",
+      "level": 1,
+      "score": 0.38351187109947205
+    },
+    {
+      "id": "https://openalex.org/C107826830",
+      "wikidata": "https://www.wikidata.org/wiki/Q929380",
+      "display_name": "Environmental resource management",
+      "level": 1,
+      "score": 0.3559589982032776
+    }
+  ],
+  "mesh": [],
+  "locations_count": 2,
+  "locations": [
+    {
+      "id": "doi:10.5194/gc-7-91-2024",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.5194/gc-7-91-2024",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4210203713",
+        "display_name": "Geoscience Communication",
+        "issn_l": "2569-7110",
+        "issn": [
+          "2569-7110"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Geoscience Communication",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmh:oai:doaj.org/article:72616f300252484692de73e7bd298002",
+      "is_oa": false,
+      "landing_page_url": "https://doaj.org/article/72616f300252484692de73e7bd298002",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401280",
+        "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Geoscience Communication, Vol 7, Pp 91-100 (2024)",
+      "raw_type": "article"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.5194/gc-7-91-2024",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.5194/gc-7-91-2024",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S4210203713",
+      "display_name": "Geoscience Communication",
+      "issn_l": "2569-7110",
+      "issn": [
+        "2569-7110"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": null,
+      "host_organization_name": null,
+      "host_organization_lineage": [],
+      "host_organization_lineage_names": [],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Geoscience Communication",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [
+    {
+      "score": 0.8500000238418579,
+      "id": "https://metadata.un.org/sdg/13",
+      "display_name": "Climate action"
+    }
+  ],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "pdf": false,
+    "grobid_xml": false
+  },
+  "referenced_works_count": 47,
+  "referenced_works": [
+    "https://openalex.org/W2099697766",
+    "https://openalex.org/W2134694239",
+    "https://openalex.org/W2577656290",
+    "https://openalex.org/W4308593401",
+    "https://openalex.org/W2791216329",
+    "https://openalex.org/W3036321992",
+    "https://openalex.org/W3111412359",
+    "https://openalex.org/W4229993004",
+    "https://openalex.org/W4285807277",
+    "https://openalex.org/W4302767130",
+    "https://openalex.org/W3163660411",
+    "https://openalex.org/W2145208958",
+    "https://openalex.org/W2773357123",
+    "https://openalex.org/W2602064407",
+    "https://openalex.org/W1996301961",
+    "https://openalex.org/W4391462571",
+    "https://openalex.org/W3168929406",
+    "https://openalex.org/W2793265654",
+    "https://openalex.org/W4281382652",
+    "https://openalex.org/W4382362038",
+    "https://openalex.org/W2519818096",
+    "https://openalex.org/W2625503976",
+    "https://openalex.org/W3011134504",
+    "https://openalex.org/W2591765089",
+    "https://openalex.org/W4225676791",
+    "https://openalex.org/W2104775293",
+    "https://openalex.org/W2116926372",
+    "https://openalex.org/W2055689670",
+    "https://openalex.org/W2739176655",
+    "https://openalex.org/W2809680237",
+    "https://openalex.org/W2911721455",
+    "https://openalex.org/W2019569213",
+    "https://openalex.org/W1964917859",
+    "https://openalex.org/W2024883091",
+    "https://openalex.org/W3209807616",
+    "https://openalex.org/W4302004109",
+    "https://openalex.org/W3081249129",
+    "https://openalex.org/W3094327693",
+    "https://openalex.org/W2169976440",
+    "https://openalex.org/W2073686429",
+    "https://openalex.org/W2945806115",
+    "https://openalex.org/W2342820722",
+    "https://openalex.org/W2139841269",
+    "https://openalex.org/W2965174199",
+    "https://openalex.org/W2028317989",
+    "https://openalex.org/W1983347960",
+    "https://openalex.org/W3157269142"
+  ],
+  "related_works": [
+    "https://openalex.org/W3007404728",
+    "https://openalex.org/W2374021052",
+    "https://openalex.org/W2110536732",
+    "https://openalex.org/W3117958761",
+    "https://openalex.org/W1984740135",
+    "https://openalex.org/W1984514811",
+    "https://openalex.org/W4280521631",
+    "https://openalex.org/W2094967319",
+    "https://openalex.org/W4206359692",
+    "https://openalex.org/W3206420609"
+  ],
+  "abstract_inverted_index": {
+    "Abstract.": [
+      0
+    ],
+    "Climate": [
+      1
+    ],
+    "scientists": [
+      2,
+      39,
+      92,
+      117
+    ],
+    "and": [
+      3,
+      27,
+      29,
+      56,
+      71,
+      85,
+      143,
+      147
+    ],
+    "others": [
+      4
+    ],
+    "are": [
+      5,
+      107,
+      118
+    ],
+    "urged": [
+      6
+    ],
+    "to": [
+      7,
+      24,
+      33,
+      47,
+      66,
+      79
+    ],
+    "communicate": [
+      8
+    ],
+    "climate": [
+      9,
+      38,
+      44,
+      51,
+      60,
+      88,
+      113,
+      172
+    ],
+    "science": [
+      10
+    ],
+    "in": [
+      11,
+      111
+    ],
+    "a": [
+      12,
+      41,
+      95
+    ],
+    "way": [
+      13
+    ],
+    "that": [
+      14,
+      19,
+      30,
+      105,
+      159
+    ],
+    "non-scientific": [
+      15
+    ],
+    "audiences": [
+      16,
+      141
+    ],
+    "can": [
+      17
+    ],
+    "understand,": [
+      18
+    ],
+    "makes": [
+      20
+    ],
+    "it": [
+      21
+    ],
+    "more": [
+      22
+    ],
+    "relevant": [
+      23
+    ],
+    "their": [
+      25
+    ],
+    "lives": [
+      26
+    ],
+    "experiences,": [
+      28
+    ],
+    "inspires": [
+      31
+    ],
+    "them": [
+      32
+    ],
+    "act.": [
+      34
+    ],
+    "To": [
+      35
+    ],
+    "achieve": [
+      36
+    ],
+    "this,": [
+      37
+    ],
+    "undertake": [
+      40
+    ],
+    "range": [
+      42
+    ],
+    "of": [
+      43,
+      73,
+      87,
+      137,
+      149,
+      171
+    ],
+    "communication": [
+      45,
+      61,
+      89,
+      114,
+      173
+    ],
+    "activities": [
+      46,
+      62,
+      115,
+      174
+    ],
+    "engage": [
+      48
+    ],
+    "people": [
+      49
+    ],
+    "with": [
+      50,
+      156
+    ],
+    "change.": [
+      52
+    ],
+    "With": [
+      53
+    ],
+    "the": [
+      54,
+      64,
+      68,
+      83,
+      126,
+      135,
+      138,
+      140,
+      144,
+      150,
+      169
+    ],
+    "effort": [
+      55
+    ],
+    "time": [
+      57
+    ],
+    "spent": [
+      58
+    ],
+    "on": [
+      59,
+      167
+    ],
+    "comes": [
+      63
+    ],
+    "need": [
+      65
+    ],
+    "evaluate": [
+      67
+    ],
+    "outcomes,": [
+      69
+    ],
+    "impact,": [
+      70
+    ],
+    "effectiveness": [
+      72,
+      86
+    ],
+    "such": [
+      74
+    ],
+    "efforts.": [
+      75
+    ],
+    "Here,": [
+      76
+    ],
+    "we": [
+      77,
+      120
+    ],
+    "aimed": [
+      78
+    ],
+    "gain": [
+      80
+    ],
+    "insight": [
+      81
+    ],
+    "into": [
+      82
+    ],
+    "impact": [
+      84,
+      148,
+      170
+    ],
+    "efforts": [
+      90
+    ],
+    "by": [
+      91,
+      93,
+      116,
+      175
+    ],
+    "conducting": [
+      94
+    ],
+    "systematic": [
+      96
+    ],
+    "literature": [
+      97
+    ],
+    "review.": [
+      98
+    ],
+    "However,": [
+      99
+    ],
+    "our": [
+      100,
+      154
+    ],
+    "most": [
+      101
+    ],
+    "important": [
+      102
+    ],
+    "finding": [
+      103
+    ],
+    "is": [
+      104
+    ],
+    "there": [
+      106
+    ],
+    "hardly": [
+      108
+    ],
+    "any": [
+      109
+    ],
+    "studies": [
+      110,
+      166
+    ],
+    "which": [
+      112
+    ],
+    "evaluated:": [
+      119
+    ],
+    "found": [
+      121
+    ],
+    "only": [
+      122
+    ],
+    "seven": [
+      123
+    ],
+    "articles": [
+      124,
+      133
+    ],
+    "over": [
+      125
+    ],
+    "past": [
+      127
+    ],
+    "10": [
+      128
+    ],
+    "years.": [
+      129
+    ],
+    "We": [
+      130,
+      152
+    ],
+    "analyze": [
+      131
+    ],
+    "these": [
+      132
+    ],
+    "for": [
+      134
+    ],
+    "role": [
+      136
+    ],
+    "scientists,": [
+      139
+    ],
+    "reached,": [
+      142
+    ],
+    "reported": [
+      145
+    ],
+    "outcomes": [
+      146
+    ],
+    "activities.": [
+      151
+    ],
+    "end": [
+      153
+    ],
+    "study": [
+      155
+    ],
+    "several": [
+      157
+    ],
+    "recommendations": [
+      158
+    ],
+    "should": [
+      160
+    ],
+    "be": [
+      161
+    ],
+    "considered": [
+      162
+    ],
+    "when": [
+      163
+    ],
+    "setting": [
+      164
+    ],
+    "up": [
+      165
+    ],
+    "evaluating": [
+      168
+    ],
+    "scientists.": [
+      176
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 2
+    }
+  ],
+  "updated_date": "2025-11-25T14:43:58.451035",
+  "created_date": "2025-10-10T00:00:00"
+}

@@ -1,0 +1,12 @@
+{
+  "key": "Meijboom_2021",
+  "publication": {
+    "doi": "10.1007/s40259-021-00508-4",
+    "eligibility_criteria": "Only original research articles were included. Congress abstracts, reviews, editorials, and other opinion articles were excluded.\n\nArticles were included if they met the following criteria: (1) study involved transitioning from a TNF\u03b1 inhibitor (including etanercept, infliximab, and adalimumab) originator to a biosimilar, (2) the number of patients who retransitioned was reported or could be calculated, (3) the article was an original research article published in a peer-reviewed journal, (4) the article included baseline characteristics of the patients who transitioned, (5) the article was written in English, and (6) the full-text version of the article could be obtained"
+  },
+  "data": {
+    "url": "https://osf.io/4cdku/",
+    "n_records": 891,
+    "n_records_included": 37
+  }
+}

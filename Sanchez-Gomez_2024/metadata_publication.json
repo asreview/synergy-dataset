@@ -1,0 +1,1366 @@
+{
+  "id": "https://openalex.org/W4394683515",
+  "doi": "https://doi.org/10.3390/bs14040308",
+  "title": "How to Assess Oral Narrative Skills of Children and Adolescents with Intellectual Disabilities: A Systematic Review",
+  "display_name": "How to Assess Oral Narrative Skills of Children and Adolescents with Intellectual Disabilities: A Systematic Review",
+  "publication_year": 2024,
+  "publication_date": "2024-04-10",
+  "ids": {
+    "openalex": "https://openalex.org/W4394683515",
+    "doi": "https://doi.org/10.3390/bs14040308",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/38667104"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.3390/bs14040308",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.3390/bs14040308",
+    "pdf_url": "https://www.mdpi.com/2076-328X/14/4/308/pdf?version=1712736750",
+    "source": {
+      "id": "https://openalex.org/S4210194710",
+      "display_name": "Behavioral Sciences",
+      "issn_l": "2076-328X",
+      "issn": [
+        "2076-328X"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310310987",
+      "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310310987"
+      ],
+      "host_organization_lineage_names": [
+        "Multidisciplinary Digital Publishing Institute"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Behavioral Sciences",
+    "raw_type": "journal-article"
+  },
+  "type": "review",
+  "indexed_in": [
+    "crossref",
+    "doaj",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "gold",
+    "oa_url": "https://www.mdpi.com/2076-328X/14/4/308/pdf?version=1712736750",
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5082257976",
+        "display_name": "Victoria S\u00e1nchez-G\u00f3mez",
+        "orcid": "https://orcid.org/0000-0001-9330-895X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I184999862",
+          "display_name": "Universidad de Salamanca",
+          "ror": "https://ror.org/02f40zc51",
+          "country_code": "ES",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I184999862"
+          ]
+        }
+      ],
+      "countries": [
+        "ES"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Victoria S\u00e1nchez-G\u00f3mez",
+      "raw_affiliation_strings": [
+        "Institute for Community Inclusion (INICO), University of Salamanca, 37005 Salamanca, Spain",
+        "for , ,"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "for , ,",
+          "institution_ids": []
+        },
+        {
+          "raw_affiliation_string": "Institute for Community Inclusion (INICO), University of Salamanca, 37005 Salamanca, Spain",
+          "institution_ids": [
+            "https://openalex.org/I184999862"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5101775994",
+        "display_name": "Miguel \u00c1ngel Verdugo Alonso",
+        "orcid": "https://orcid.org/0000-0002-5802-8220"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I184999862",
+          "display_name": "Universidad de Salamanca",
+          "ror": "https://ror.org/02f40zc51",
+          "country_code": "ES",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I184999862"
+          ]
+        }
+      ],
+      "countries": [
+        "ES"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Miguel \u00c1ngel Verdugo",
+      "raw_affiliation_strings": [
+        "Department of Personality, Assessment, and Psychological Treatments, University of Salamanca, 37005 Salamanca, Spain"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Personality, Assessment, and Psychological Treatments, University of Salamanca, 37005 Salamanca, Spain",
+          "institution_ids": [
+            "https://openalex.org/I184999862"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5055703136",
+        "display_name": "Mar\u00eda Isabel Calvo \u00c1lvarez",
+        "orcid": "https://orcid.org/0000-0001-9071-2711"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I184999862",
+          "display_name": "Universidad de Salamanca",
+          "ror": "https://ror.org/02f40zc51",
+          "country_code": "ES",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I184999862"
+          ]
+        }
+      ],
+      "countries": [
+        "ES"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Mar\u00eda Isabel Calvo",
+      "raw_affiliation_strings": [
+        "Department of Didactics, Organization, and Research Methods, University of Salamanca, 37008 Salamanca, Spain",
+        "for , ,"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "for , ,",
+          "institution_ids": []
+        },
+        {
+          "raw_affiliation_string": "Department of Didactics, Organization, and Research Methods, University of Salamanca, 37008 Salamanca, Spain",
+          "institution_ids": [
+            "https://openalex.org/I184999862"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5063560953",
+        "display_name": "Antonio M. Amor",
+        "orcid": "https://orcid.org/0000-0001-7757-1299"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I184999862",
+          "display_name": "Universidad de Salamanca",
+          "ror": "https://ror.org/02f40zc51",
+          "country_code": "ES",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I184999862"
+          ]
+        }
+      ],
+      "countries": [
+        "ES"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Antonio M. Amor",
+      "raw_affiliation_strings": [
+        "Department of Personality, Assessment, and Psychological Treatments, University of Salamanca, 37005 Salamanca, Spain",
+        "for , ,"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Personality, Assessment, and Psychological Treatments, University of Salamanca, 37005 Salamanca, Spain",
+          "institution_ids": [
+            "https://openalex.org/I184999862"
+          ]
+        },
+        {
+          "raw_affiliation_string": "for , ,",
+          "institution_ids": []
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5095763814",
+        "display_name": "Blanca Palomero-Sierra",
+        "orcid": "https://orcid.org/0000-0003-0526-8164"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I184999862",
+          "display_name": "Universidad de Salamanca",
+          "ror": "https://ror.org/02f40zc51",
+          "country_code": "ES",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I184999862"
+          ]
+        }
+      ],
+      "countries": [
+        "ES"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Blanca Palomero-Sierra",
+      "raw_affiliation_strings": [
+        "Department of Basic Psychology, Psychobiology, and Methodology of Behavioral Science, University of Salamanca, 37005 Salamanca, Spain",
+        "for , ,"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Basic Psychology, Psychobiology, and Methodology of Behavioral Science, University of Salamanca, 37005 Salamanca, Spain",
+          "institution_ids": [
+            "https://openalex.org/I184999862"
+          ]
+        },
+        {
+          "raw_affiliation_string": "for , ,",
+          "institution_ids": []
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5055298051",
+        "display_name": "Laura Zampini",
+        "orcid": "https://orcid.org/0000-0002-2207-0179"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I66752286",
+          "display_name": "University of Milano-Bicocca",
+          "ror": "https://ror.org/01ynf4891",
+          "country_code": "IT",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I66752286"
+          ]
+        }
+      ],
+      "countries": [
+        "IT"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Laura Zampini",
+      "raw_affiliation_strings": [
+        "Department of Psychology, University of Milano-Bicocca, 20126 Milan, Italy",
+        "for , ,"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "for , ,",
+          "institution_ids": []
+        },
+        {
+          "raw_affiliation_string": "Department of Psychology, University of Milano-Bicocca, 20126 Milan, Italy",
+          "institution_ids": [
+            "https://openalex.org/I66752286"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 2,
+  "institutions_distinct_count": 6,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5082257976"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I184999862"
+  ],
+  "apc_list": {
+    "value": 1400,
+    "currency": "CHF",
+    "value_usd": 1515
+  },
+  "apc_paid": {
+    "value": 1400,
+    "currency": "CHF",
+    "value_usd": 1515
+  },
+  "fwci": 4.93041467,
+  "has_fulltext": true,
+  "cited_by_count": 3,
+  "citation_normalized_percentile": {
+    "value": 0.8995098,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 96,
+    "max": 97
+  },
+  "biblio": {
+    "volume": "14",
+    "issue": "4",
+    "first_page": "308",
+    "last_page": "308"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10103",
+    "display_name": "Reading and Literacy Development",
+    "score": 0.9934999942779541,
+    "subfield": {
+      "id": "https://openalex.org/subfields/3204",
+      "display_name": "Developmental and Educational Psychology"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/32",
+      "display_name": "Psychology"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/2",
+      "display_name": "Social Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10103",
+      "display_name": "Reading and Literacy Development",
+      "score": 0.9934999942779541,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3204",
+        "display_name": "Developmental and Educational Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10730",
+      "display_name": "Language Development and Disorders",
+      "score": 0.9930999875068665,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3204",
+        "display_name": "Developmental and Educational Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11632",
+      "display_name": "Family and Disability Support Research",
+      "score": 0.9887999892234802,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3203",
+        "display_name": "Clinical Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/psycinfo",
+      "display_name": "PsycINFO",
+      "score": 0.8044379949569702
+    },
+    {
+      "id": "https://openalex.org/keywords/psychology",
+      "display_name": "Psychology",
+      "score": 0.652523398399353
+    },
+    {
+      "id": "https://openalex.org/keywords/narrative",
+      "display_name": "Narrative",
+      "score": 0.6321814656257629
+    },
+    {
+      "id": "https://openalex.org/keywords/intellectual-disability",
+      "display_name": "Intellectual disability",
+      "score": 0.49251589179039
+    },
+    {
+      "id": "https://openalex.org/keywords/population",
+      "display_name": "Population",
+      "score": 0.49068892002105713
+    },
+    {
+      "id": "https://openalex.org/keywords/developmental-psychology",
+      "display_name": "Developmental psychology",
+      "score": 0.45171502232551575
+    },
+    {
+      "id": "https://openalex.org/keywords/reliability",
+      "display_name": "Reliability (semiconductor)",
+      "score": 0.4367590546607971
+    },
+    {
+      "id": "https://openalex.org/keywords/autism",
+      "display_name": "Autism",
+      "score": 0.43626925349235535
+    },
+    {
+      "id": "https://openalex.org/keywords/systematic-review",
+      "display_name": "Systematic review",
+      "score": 0.4284172058105469
+    },
+    {
+      "id": "https://openalex.org/keywords/applied-psychology",
+      "display_name": "Applied psychology",
+      "score": 0.3706880211830139
+    },
+    {
+      "id": "https://openalex.org/keywords/clinical-psychology",
+      "display_name": "Clinical psychology",
+      "score": 0.36296436190605164
+    },
+    {
+      "id": "https://openalex.org/keywords/medical-education",
+      "display_name": "Medical education",
+      "score": 0.3607036769390106
+    },
+    {
+      "id": "https://openalex.org/keywords/medline",
+      "display_name": "MEDLINE",
+      "score": 0.27433449029922485
+    },
+    {
+      "id": "https://openalex.org/keywords/medicine",
+      "display_name": "Medicine",
+      "score": 0.17216897010803223
+    },
+    {
+      "id": "https://openalex.org/keywords/psychiatry",
+      "display_name": "Psychiatry",
+      "score": 0.10291272401809692
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C2779549880",
+      "wikidata": "https://www.wikidata.org/wiki/Q5542226",
+      "display_name": "PsycINFO",
+      "level": 3,
+      "score": 0.8044379949569702
+    },
+    {
+      "id": "https://openalex.org/C15744967",
+      "wikidata": "https://www.wikidata.org/wiki/Q9418",
+      "display_name": "Psychology",
+      "level": 0,
+      "score": 0.652523398399353
+    },
+    {
+      "id": "https://openalex.org/C199033989",
+      "wikidata": "https://www.wikidata.org/wiki/Q1318295",
+      "display_name": "Narrative",
+      "level": 2,
+      "score": 0.6321814656257629
+    },
+    {
+      "id": "https://openalex.org/C551499885",
+      "wikidata": "https://www.wikidata.org/wiki/Q183560",
+      "display_name": "Intellectual disability",
+      "level": 2,
+      "score": 0.49251589179039
+    },
+    {
+      "id": "https://openalex.org/C2908647359",
+      "wikidata": "https://www.wikidata.org/wiki/Q2625603",
+      "display_name": "Population",
+      "level": 2,
+      "score": 0.49068892002105713
+    },
+    {
+      "id": "https://openalex.org/C138496976",
+      "wikidata": "https://www.wikidata.org/wiki/Q175002",
+      "display_name": "Developmental psychology",
+      "level": 1,
+      "score": 0.45171502232551575
+    },
+    {
+      "id": "https://openalex.org/C43214815",
+      "wikidata": "https://www.wikidata.org/wiki/Q7310987",
+      "display_name": "Reliability (semiconductor)",
+      "level": 3,
+      "score": 0.4367590546607971
+    },
+    {
+      "id": "https://openalex.org/C205778803",
+      "wikidata": "https://www.wikidata.org/wiki/Q38404",
+      "display_name": "Autism",
+      "level": 2,
+      "score": 0.43626925349235535
+    },
+    {
+      "id": "https://openalex.org/C189708586",
+      "wikidata": "https://www.wikidata.org/wiki/Q1504425",
+      "display_name": "Systematic review",
+      "level": 3,
+      "score": 0.4284172058105469
+    },
+    {
+      "id": "https://openalex.org/C75630572",
+      "wikidata": "https://www.wikidata.org/wiki/Q538904",
+      "display_name": "Applied psychology",
+      "level": 1,
+      "score": 0.3706880211830139
+    },
+    {
+      "id": "https://openalex.org/C70410870",
+      "wikidata": "https://www.wikidata.org/wiki/Q199906",
+      "display_name": "Clinical psychology",
+      "level": 1,
+      "score": 0.36296436190605164
+    },
+    {
+      "id": "https://openalex.org/C509550671",
+      "wikidata": "https://www.wikidata.org/wiki/Q126945",
+      "display_name": "Medical education",
+      "level": 1,
+      "score": 0.3607036769390106
+    },
+    {
+      "id": "https://openalex.org/C2779473830",
+      "wikidata": "https://www.wikidata.org/wiki/Q1540899",
+      "display_name": "MEDLINE",
+      "level": 2,
+      "score": 0.27433449029922485
+    },
+    {
+      "id": "https://openalex.org/C71924100",
+      "wikidata": "https://www.wikidata.org/wiki/Q11190",
+      "display_name": "Medicine",
+      "level": 0,
+      "score": 0.17216897010803223
+    },
+    {
+      "id": "https://openalex.org/C118552586",
+      "wikidata": "https://www.wikidata.org/wiki/Q7867",
+      "display_name": "Psychiatry",
+      "level": 1,
+      "score": 0.10291272401809692
+    },
+    {
+      "id": "https://openalex.org/C199539241",
+      "wikidata": "https://www.wikidata.org/wiki/Q7748",
+      "display_name": "Law",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C62520636",
+      "wikidata": "https://www.wikidata.org/wiki/Q944",
+      "display_name": "Quantum mechanics",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C138885662",
+      "wikidata": "https://www.wikidata.org/wiki/Q5891",
+      "display_name": "Philosophy",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C99454951",
+      "wikidata": "https://www.wikidata.org/wiki/Q932068",
+      "display_name": "Environmental health",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C41895202",
+      "wikidata": "https://www.wikidata.org/wiki/Q8162",
+      "display_name": "Linguistics",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C17744445",
+      "wikidata": "https://www.wikidata.org/wiki/Q36442",
+      "display_name": "Political science",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C163258240",
+      "wikidata": "https://www.wikidata.org/wiki/Q25342",
+      "display_name": "Power (physics)",
+      "level": 2,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C121332964",
+      "wikidata": "https://www.wikidata.org/wiki/Q413",
+      "display_name": "Physics",
+      "level": 0,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 5,
+  "locations": [
+    {
+      "id": "doi:10.3390/bs14040308",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.3390/bs14040308",
+      "pdf_url": "https://www.mdpi.com/2076-328X/14/4/308/pdf?version=1712736750",
+      "source": {
+        "id": "https://openalex.org/S4210194710",
+        "display_name": "Behavioral Sciences",
+        "issn_l": "2076-328X",
+        "issn": [
+          "2076-328X"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310310987",
+        "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310310987"
+        ],
+        "host_organization_lineage_names": [
+          "Multidisciplinary Digital Publishing Institute"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Behavioral Sciences",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:38667104",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/38667104",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Behavioral sciences (Basel, Switzerland)",
+      "raw_type": null
+    },
+    {
+      "id": "pmh:oai:boa.unimib.it:10281/510520",
+      "is_oa": true,
+      "landing_page_url": "https://hdl.handle.net/10281/510520",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401259",
+        "display_name": "BOA (University of Milano-Bicocca)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I66752286",
+        "host_organization_name": "University of Milano-Bicocca",
+        "host_organization_lineage": [
+          "https://openalex.org/I66752286"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": null,
+      "raw_type": "info:eu-repo/semantics/article"
+    },
+    {
+      "id": "pmh:oai:doaj.org/article:afc3654a98b94ab287c440316f362e5b",
+      "is_oa": false,
+      "landing_page_url": "https://doaj.org/article/afc3654a98b94ab287c440316f362e5b",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401280",
+        "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Behavioral Sciences, Vol 14, Iss 4, p 308 (2024)",
+      "raw_type": "article"
+    },
+    {
+      "id": "pmh:oai:pubmedcentral.nih.gov:11047450",
+      "is_oa": true,
+      "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/11047450",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S2764455111",
+        "display_name": "PubMed Central",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "other-oa",
+      "license_id": "https://openalex.org/licenses/other-oa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Behav Sci (Basel)",
+      "raw_type": "Text"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.3390/bs14040308",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.3390/bs14040308",
+    "pdf_url": "https://www.mdpi.com/2076-328X/14/4/308/pdf?version=1712736750",
+    "source": {
+      "id": "https://openalex.org/S4210194710",
+      "display_name": "Behavioral Sciences",
+      "issn_l": "2076-328X",
+      "issn": [
+        "2076-328X"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310310987",
+      "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310310987"
+      ],
+      "host_organization_lineage_names": [
+        "Multidisciplinary Digital Publishing Institute"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Behavioral Sciences",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [
+    {
+      "id": "https://metadata.un.org/sdg/4",
+      "score": 0.8899999856948853,
+      "display_name": "Quality Education"
+    }
+  ],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "grobid_xml": true,
+    "pdf": true
+  },
+  "referenced_works_count": 54,
+  "referenced_works": [
+    "https://openalex.org/W3004723021",
+    "https://openalex.org/W4205620996",
+    "https://openalex.org/W2035354283",
+    "https://openalex.org/W2016116481",
+    "https://openalex.org/W4298126288",
+    "https://openalex.org/W2747318599",
+    "https://openalex.org/W2811212953",
+    "https://openalex.org/W963627777",
+    "https://openalex.org/W3210500589",
+    "https://openalex.org/W2406412919",
+    "https://openalex.org/W3081151996",
+    "https://openalex.org/W2768430323",
+    "https://openalex.org/W2163081708",
+    "https://openalex.org/W2069196187",
+    "https://openalex.org/W2052194991",
+    "https://openalex.org/W2060019332",
+    "https://openalex.org/W3011574237",
+    "https://openalex.org/W3105626347",
+    "https://openalex.org/W2045547914",
+    "https://openalex.org/W3093145142",
+    "https://openalex.org/W2054994122",
+    "https://openalex.org/W4234844674",
+    "https://openalex.org/W2171032518",
+    "https://openalex.org/W2784258302",
+    "https://openalex.org/W1995672280",
+    "https://openalex.org/W2130308042",
+    "https://openalex.org/W3162631674",
+    "https://openalex.org/W3118615836",
+    "https://openalex.org/W2336977647",
+    "https://openalex.org/W2108216211",
+    "https://openalex.org/W2789478750",
+    "https://openalex.org/W1839618618",
+    "https://openalex.org/W3015536418",
+    "https://openalex.org/W2920795948",
+    "https://openalex.org/W2027864291",
+    "https://openalex.org/W2106752390",
+    "https://openalex.org/W2008749822",
+    "https://openalex.org/W2130346537",
+    "https://openalex.org/W1956755832",
+    "https://openalex.org/W2124524799",
+    "https://openalex.org/W1991903847",
+    "https://openalex.org/W4375845718",
+    "https://openalex.org/W2058024959",
+    "https://openalex.org/W2103136578",
+    "https://openalex.org/W6638243392",
+    "https://openalex.org/W2061504941",
+    "https://openalex.org/W1979516671",
+    "https://openalex.org/W4378802751",
+    "https://openalex.org/W1977531615",
+    "https://openalex.org/W3111085015",
+    "https://openalex.org/W2113450936",
+    "https://openalex.org/W2020751856",
+    "https://openalex.org/W1975981903",
+    "https://openalex.org/W1818956486"
+  ],
+  "related_works": [
+    "https://openalex.org/W4280602684",
+    "https://openalex.org/W4310092953",
+    "https://openalex.org/W2227393071",
+    "https://openalex.org/W1995350144",
+    "https://openalex.org/W2082102603",
+    "https://openalex.org/W2166141227",
+    "https://openalex.org/W3133980636",
+    "https://openalex.org/W4378085486",
+    "https://openalex.org/W4366602711",
+    "https://openalex.org/W620566831"
+  ],
+  "abstract_inverted_index": {
+    "Children": [
+      0
+    ],
+    "and": [
+      1,
+      46,
+      59,
+      73,
+      80,
+      103,
+      134,
+      142,
+      171
+    ],
+    "adolescents": [
+      2,
+      47
+    ],
+    "with": [
+      3,
+      10,
+      48
+    ],
+    "intellectual": [
+      4
+    ],
+    "disabilities": [
+      5
+    ],
+    "(ID)": [
+      6
+    ],
+    "often": [
+      7
+    ],
+    "encounter": [
+      8
+    ],
+    "difficulties": [
+      9
+    ],
+    "narrative": [
+      11,
+      42
+    ],
+    "skills.": [
+      12
+    ],
+    "Yet,": [
+      13
+    ],
+    "there": [
+      14
+    ],
+    "is": [
+      15,
+      176
+    ],
+    "a": [
+      16
+    ],
+    "lack": [
+      17
+    ],
+    "of": [
+      18,
+      35,
+      67,
+      91,
+      105,
+      109,
+      163,
+      167
+    ],
+    "research": [
+      19,
+      157
+    ],
+    "focusing": [
+      20
+    ],
+    "on": [
+      21
+    ],
+    "how": [
+      22
+    ],
+    "to": [
+      23,
+      100,
+      149
+    ],
+    "assess": [
+      24
+    ],
+    "these": [
+      25
+    ],
+    "skills": [
+      26,
+      43
+    ],
+    "in": [
+      27,
+      44,
+      75,
+      96,
+      147,
+      152
+    ],
+    "this": [
+      28,
+      174
+    ],
+    "population.": [
+      29
+    ],
+    "This": [
+      30
+    ],
+    "study": [
+      31
+    ],
+    "offers": [
+      32
+    ],
+    "an": [
+      33
+    ],
+    "overview": [
+      34
+    ],
+    "the": [
+      36,
+      68,
+      76,
+      101,
+      110
+    ],
+    "tools": [
+      37,
+      112,
+      125,
+      141
+    ],
+    "used": [
+      38
+    ],
+    "for": [
+      39,
+      137,
+      156,
+      169
+    ],
+    "assessing": [
+      40
+    ],
+    "oral": [
+      41
+    ],
+    "children": [
+      45
+    ],
+    "ID,": [
+      49
+    ],
+    "addressing": [
+      50
+    ],
+    "key": [
+      51
+    ],
+    "questions": [
+      52
+    ],
+    "about": [
+      53
+    ],
+    "common": [
+      54,
+      124
+    ],
+    "assessment": [
+      55
+    ],
+    "tools,": [
+      56
+    ],
+    "their": [
+      57,
+      143
+    ],
+    "characteristics,": [
+      58
+    ],
+    "reported": [
+      60
+    ],
+    "evidence.": [
+      61
+    ],
+    "A": [
+      62
+    ],
+    "systematic": [
+      63
+    ],
+    "review": [
+      64
+    ],
+    "was": [
+      65
+    ],
+    "conducted": [
+      66
+    ],
+    "literature": [
+      69
+    ],
+    "published": [
+      70
+    ],
+    "between": [
+      71
+    ],
+    "2010": [
+      72
+    ],
+    "2023": [
+      74
+    ],
+    "PsycINFO,": [
+      77
+    ],
+    "ERIC,": [
+      78
+    ],
+    "Education,": [
+      79
+    ],
+    "Psychology": [
+      81
+    ],
+    "databases.": [
+      82
+    ],
+    "An": [
+      83
+    ],
+    "initial": [
+      84
+    ],
+    "1176": [
+      85
+    ],
+    "studies": [
+      86
+    ],
+    "were": [
+      87,
+      94
+    ],
+    "reviewed": [
+      88
+    ],
+    "by": [
+      89
+    ],
+    "abstract,": [
+      90
+    ],
+    "which": [
+      92
+    ],
+    "485": [
+      93
+    ],
+    "read": [
+      95
+    ],
+    "full": [
+      97
+    ],
+    "text,": [
+      98
+    ],
+    "leading": [
+      99
+    ],
+    "selection": [
+      102
+    ],
+    "analysis": [
+      104
+    ],
+    "22": [
+      106
+    ],
+    "studies.": [
+      107
+    ],
+    "Most": [
+      108
+    ],
+    "identified": [
+      111,
+      131
+    ],
+    "involve": [
+      113
+    ],
+    "analyzing": [
+      114
+    ],
+    "language": [
+      115
+    ],
+    "samples": [
+      116
+    ],
+    "obtained": [
+      117
+    ],
+    "using": [
+      118
+    ],
+    "wordless": [
+      119
+    ],
+    "picture": [
+      120
+    ],
+    "story": [
+      121
+    ],
+    "books.": [
+      122
+    ],
+    "Three": [
+      123
+    ],
+    "are": [
+      126,
+      145
+    ],
+    "emphasized.": [
+      127
+    ],
+    "Studies": [
+      128
+    ],
+    "have": [
+      129
+    ],
+    "primarily": [
+      130
+    ],
+    "inter-rater": [
+      132
+    ],
+    "reliability": [
+      133,
+      172
+    ],
+    "test-criterion": [
+      135
+    ],
+    "evidence": [
+      136,
+      168
+    ],
+    "validity.": [
+      138
+    ],
+    "The": [
+      139,
+      161
+    ],
+    "main": [
+      140
+    ],
+    "characteristics": [
+      144
+    ],
+    "discussed": [
+      146
+    ],
+    "depth": [
+      148
+    ],
+    "aid": [
+      150
+    ],
+    "readers": [
+      151
+    ],
+    "discerning": [
+      153
+    ],
+    "suitable": [
+      154
+    ],
+    "options": [
+      155
+    ],
+    "or": [
+      158
+    ],
+    "practical": [
+      159
+    ],
+    "applications.": [
+      160
+    ],
+    "importance": [
+      162
+    ],
+    "reporting": [
+      164
+    ],
+    "diverse": [
+      165
+    ],
+    "sources": [
+      166
+    ],
+    "validity": [
+      170
+    ],
+    "within": [
+      173
+    ],
+    "population": [
+      175
+    ],
+    "highlighted.": [
+      177
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 3
+    }
+  ],
+  "updated_date": "2025-11-06T03:46:38.306776",
+  "created_date": "2025-10-10T00:00:00"
+}

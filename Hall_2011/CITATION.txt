@@ -1,0 +1,1 @@
+Hall, T., Beecham, S., Bowes, D., Gray, D., & Counsell, S. (2012). A Systematic Literature Review on Fault Prediction Performance in Software Engineering. IEEE Transactions on Software Engineering, 38(6), 1276–1304. https://doi.org/10.1109/tse.2011.103

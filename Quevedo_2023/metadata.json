@@ -1,0 +1,12 @@
+{
+  "key": "Quevedo_2023",
+  "publication": {
+    "doi": "10.1109/access.2023.3333946",
+    "eligibility_criteria": "Our inclusion criteria in this paper are:\nPapers investigating the application of NLP techniques on the legal domain in general.\nPapers investigating the performance of NLP algorithms applied to any subdomain of the legal domain.\nPapers investigating the results of NLP algorithms applied to a legal domain dataset.\nPapers investigating the results of NLP algorithm using legal hand-made or automatically extracted ontologies.\nPapers investigating the limitation of some NLP areas on the legal domain or NLP in general.\nOn the other hand, our exclusion criteria to exclude studies irrelevant to our goals were:\nPapers not in English.\nShort papers (less than four pages), opinions papers, vision or roadmap or plan papers.\nSecondary studies, like existing SMS or SLR.\nDuplicate papers. In case of duplication, the most recent version was selected.\nCase Studies without generalization.\nNon peer-reviewed.\nNo full text available."
+  },
+  "data": {
+    "doi": "10.5281/zenodo.7626621",
+    "n_records": 455,
+    "n_records_included": 42
+  }
+}

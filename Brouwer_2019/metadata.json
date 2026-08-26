@@ -1,0 +1,12 @@
+{
+  "key": "Brouwer_2019",
+  "publication": {
+    "doi": "10.1016/j.cpr.2019.101773",
+    "eligibility_criteria": "Criteria for studies to be included in the review were: (1) Presence of a diagnostic status of MDD (MDD absence and/or presence) for all participants, as determined through a clinical interview (e.g., SCID, KSADS from DSM, CIDI from ICD) or by a clinician at the start of the study; (2) At some point during the study, participants needed to be in (partial) remission or recovery as determined by a clinical interview or clinician assessment; and (3) relapse or recurrence was diagnosed through a clinical interview or by a clinician. (4) The study design was longitudinal and prospective; (5) The theory-derived predictor (i.e., the proposed factors) was assessed before the relapse or recurrence of MDD; (6) The predictor was derived from one of the leading psychological theories; (7) Sufficient information was reported to calculate effect sizes (or was made available upon request). Exclusion criteria were the presence of bipolar disorder, dysthymia, seasonal affective disorder, postpartum depression, late-life MDD, or MDD due to medical disorders. Studies that solely included people with a first onset MDD when they were older than 65 years, were excluded due to potential etiological differences between late-life onset MDD and MDD at younger ages (Devanand et al., 2004; Herrmann, Goodwin, & Ebmeier, 2007; Korten, Comijs, Lamers, & Penninx, 2012). Language was restricted to English. When multiple publications from the same study cohort were available, with exactly the same factors, we included the publication with the longest follow-up time, or the largest number of participants in case of equal follow-up time."
+  },
+  "data": {
+    "doi": "10.17605/OSF.IO/R45YZ",
+    "n_records": 40089,
+    "n_records_included": 62
+  }
+}

@@ -1,0 +1,1109 @@
+{
+  "id": "https://openalex.org/W4210622355",
+  "doi": "https://doi.org/10.3102/00346543211070047",
+  "title": "A Systematic Review of Early Childhood Exclusionary Discipline",
+  "display_name": "A Systematic Review of Early Childhood Exclusionary Discipline",
+  "publication_year": 2022,
+  "publication_date": "2022-01-26",
+  "ids": {
+    "openalex": "https://openalex.org/W4210622355",
+    "doi": "https://doi.org/10.3102/00346543211070047"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.3102/00346543211070047",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.3102/00346543211070047",
+    "pdf_url": "https://journals.sagepub.com/doi/pdf/10.3102/00346543211070047",
+    "source": {
+      "id": "https://openalex.org/S92895470",
+      "display_name": "Review of Educational Research",
+      "issn_l": "0034-6543",
+      "issn": [
+        "0034-6543",
+        "1935-1046"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320017",
+      "host_organization_name": "SAGE Publishing",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320017"
+      ],
+      "host_organization_lineage_names": [
+        "SAGE Publishing"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Review of Educational Research",
+    "raw_type": "journal-article"
+  },
+  "type": "review",
+  "indexed_in": [
+    "crossref",
+    "datacite"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "bronze",
+    "oa_url": "https://journals.sagepub.com/doi/pdf/10.3102/00346543211070047",
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5068501124",
+        "display_name": "Katherine M. Zinsser",
+        "orcid": "https://orcid.org/0000-0002-5946-020X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I39422238",
+          "display_name": "University of Illinois Chicago",
+          "ror": "https://ror.org/02mpq6x41",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I39422238"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Katherine M. Zinsser",
+      "raw_affiliation_strings": [
+        "University of Illinois at Chicago"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "University of Illinois at Chicago",
+          "institution_ids": [
+            "https://openalex.org/I39422238"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5027512972",
+        "display_name": "Heather Silver",
+        "orcid": "https://orcid.org/0000-0001-9490-4913"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I39422238",
+          "display_name": "University of Illinois Chicago",
+          "ror": "https://ror.org/02mpq6x41",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I39422238"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "H. Callie Silver",
+      "raw_affiliation_strings": [
+        "University of Illinois at Chicago"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "University of Illinois at Chicago",
+          "institution_ids": [
+            "https://openalex.org/I39422238"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5017040725",
+        "display_name": "Elyse Shenberger",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I39422238",
+          "display_name": "University of Illinois Chicago",
+          "ror": "https://ror.org/02mpq6x41",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I39422238"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Elyse R. Shenberger",
+      "raw_affiliation_strings": [
+        "University of Illinois at Chicago"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "University of Illinois at Chicago",
+          "institution_ids": [
+            "https://openalex.org/I39422238"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5024228914",
+        "display_name": "Velisha Jackson",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I39422238",
+          "display_name": "University of Illinois Chicago",
+          "ror": "https://ror.org/02mpq6x41",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I39422238"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Velisha Jackson",
+      "raw_affiliation_strings": [
+        "University of Illinois at Chicago"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "University of Illinois at Chicago",
+          "institution_ids": [
+            "https://openalex.org/I39422238"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 4,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 46.18833312,
+  "has_fulltext": false,
+  "cited_by_count": 73,
+  "citation_normalized_percentile": {
+    "value": 0.99877026,
+    "is_in_top_1_percent": true,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 94,
+    "max": 100
+  },
+  "biblio": {
+    "volume": "92",
+    "issue": "5",
+    "first_page": "743",
+    "last_page": "785"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T12474",
+    "display_name": "Education Discipline and Inequality",
+    "score": 0.9995999932289124,
+    "subfield": {
+      "id": "https://openalex.org/subfields/3304",
+      "display_name": "Education"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/33",
+      "display_name": "Social Sciences"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/2",
+      "display_name": "Social Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T12474",
+      "display_name": "Education Discipline and Inequality",
+      "score": 0.9995999932289124,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3304",
+        "display_name": "Education"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10426",
+      "display_name": "Child Abuse and Trauma",
+      "score": 0.986299991607666,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3203",
+        "display_name": "Clinical Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13207",
+      "display_name": "Youth Substance Use and School Attendance",
+      "score": 0.9836999773979187,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3304",
+        "display_name": "Education"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/pace",
+      "display_name": "Pace",
+      "score": 0.6946846842765808
+    },
+    {
+      "id": "https://openalex.org/keywords/early-childhood",
+      "display_name": "Early childhood",
+      "score": 0.6509458422660828
+    },
+    {
+      "id": "https://openalex.org/keywords/early-childhood-education",
+      "display_name": "Early childhood education",
+      "score": 0.5880750417709351
+    },
+    {
+      "id": "https://openalex.org/keywords/intervention",
+      "display_name": "Intervention (counseling)",
+      "score": 0.5401412844657898
+    },
+    {
+      "id": "https://openalex.org/keywords/legislation",
+      "display_name": "Legislation",
+      "score": 0.5044461488723755
+    },
+    {
+      "id": "https://openalex.org/keywords/psychology",
+      "display_name": "Psychology",
+      "score": 0.44819581508636475
+    },
+    {
+      "id": "https://openalex.org/keywords/child-care",
+      "display_name": "Child care",
+      "score": 0.4475581645965576
+    },
+    {
+      "id": "https://openalex.org/keywords/developmental-psychology",
+      "display_name": "Developmental psychology",
+      "score": 0.42158043384552
+    },
+    {
+      "id": "https://openalex.org/keywords/political-science",
+      "display_name": "Political science",
+      "score": 0.2561906576156616
+    },
+    {
+      "id": "https://openalex.org/keywords/medicine",
+      "display_name": "Medicine",
+      "score": 0.21878233551979065
+    },
+    {
+      "id": "https://openalex.org/keywords/geography",
+      "display_name": "Geography",
+      "score": 0.17889130115509033
+    },
+    {
+      "id": "https://openalex.org/keywords/family-medicine",
+      "display_name": "Family medicine",
+      "score": 0.16209709644317627
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C2777526511",
+      "wikidata": "https://www.wikidata.org/wiki/Q691543",
+      "display_name": "Pace",
+      "level": 2,
+      "score": 0.6946846842765808
+    },
+    {
+      "id": "https://openalex.org/C2777082460",
+      "wikidata": "https://www.wikidata.org/wiki/Q3377398",
+      "display_name": "Early childhood",
+      "level": 2,
+      "score": 0.6509458422660828
+    },
+    {
+      "id": "https://openalex.org/C178229462",
+      "wikidata": "https://www.wikidata.org/wiki/Q1472221",
+      "display_name": "Early childhood education",
+      "level": 2,
+      "score": 0.5880750417709351
+    },
+    {
+      "id": "https://openalex.org/C2780665704",
+      "wikidata": "https://www.wikidata.org/wiki/Q959298",
+      "display_name": "Intervention (counseling)",
+      "level": 2,
+      "score": 0.5401412844657898
+    },
+    {
+      "id": "https://openalex.org/C2777351106",
+      "wikidata": "https://www.wikidata.org/wiki/Q49371",
+      "display_name": "Legislation",
+      "level": 2,
+      "score": 0.5044461488723755
+    },
+    {
+      "id": "https://openalex.org/C15744967",
+      "wikidata": "https://www.wikidata.org/wiki/Q9418",
+      "display_name": "Psychology",
+      "level": 0,
+      "score": 0.44819581508636475
+    },
+    {
+      "id": "https://openalex.org/C2993037610",
+      "wikidata": "https://www.wikidata.org/wiki/Q1455871",
+      "display_name": "Child care",
+      "level": 2,
+      "score": 0.4475581645965576
+    },
+    {
+      "id": "https://openalex.org/C138496976",
+      "wikidata": "https://www.wikidata.org/wiki/Q175002",
+      "display_name": "Developmental psychology",
+      "level": 1,
+      "score": 0.42158043384552
+    },
+    {
+      "id": "https://openalex.org/C17744445",
+      "wikidata": "https://www.wikidata.org/wiki/Q36442",
+      "display_name": "Political science",
+      "level": 0,
+      "score": 0.2561906576156616
+    },
+    {
+      "id": "https://openalex.org/C71924100",
+      "wikidata": "https://www.wikidata.org/wiki/Q11190",
+      "display_name": "Medicine",
+      "level": 0,
+      "score": 0.21878233551979065
+    },
+    {
+      "id": "https://openalex.org/C205649164",
+      "wikidata": "https://www.wikidata.org/wiki/Q1071",
+      "display_name": "Geography",
+      "level": 0,
+      "score": 0.17889130115509033
+    },
+    {
+      "id": "https://openalex.org/C512399662",
+      "wikidata": "https://www.wikidata.org/wiki/Q3505712",
+      "display_name": "Family medicine",
+      "level": 1,
+      "score": 0.16209709644317627
+    },
+    {
+      "id": "https://openalex.org/C13280743",
+      "wikidata": "https://www.wikidata.org/wiki/Q131089",
+      "display_name": "Geodesy",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C199539241",
+      "wikidata": "https://www.wikidata.org/wiki/Q7748",
+      "display_name": "Law",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C118552586",
+      "wikidata": "https://www.wikidata.org/wiki/Q7867",
+      "display_name": "Psychiatry",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 3,
+  "locations": [
+    {
+      "id": "doi:10.3102/00346543211070047",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.3102/00346543211070047",
+      "pdf_url": "https://journals.sagepub.com/doi/pdf/10.3102/00346543211070047",
+      "source": {
+        "id": "https://openalex.org/S92895470",
+        "display_name": "Review of Educational Research",
+        "issn_l": "0034-6543",
+        "issn": [
+          "0034-6543",
+          "1935-1046"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320017",
+        "host_organization_name": "SAGE Publishing",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320017"
+        ],
+        "host_organization_lineage_names": [
+          "SAGE Publishing"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Review of Educational Research",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmh:oai:figshare.com:article/19578820",
+      "is_oa": true,
+      "landing_page_url": "https://figshare.com/articles/journal_contribution/A_Systematic_Review_of_Early_Childhood_Exclusionary_Discipline/19578820",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306400572",
+        "display_name": "OPAL (Open@LaTrobe) (La Trobe University)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I196829312",
+        "host_organization_name": "La Trobe University",
+        "host_organization_lineage": [
+          "https://openalex.org/I196829312"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by-nc",
+      "license_id": "https://openalex.org/licenses/cc-by-nc",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "",
+      "raw_type": "Text"
+    },
+    {
+      "id": "doi:10.25417/uic.19578820.v1",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.25417/uic.19578820.v1",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S7407051395",
+        "display_name": "University of Illinois Chicago",
+        "issn_l": null,
+        "issn": [],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": null,
+      "is_accepted": false,
+      "is_published": null,
+      "raw_source_name": null,
+      "raw_type": "article-journal"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.3102/00346543211070047",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.3102/00346543211070047",
+    "pdf_url": "https://journals.sagepub.com/doi/pdf/10.3102/00346543211070047",
+    "source": {
+      "id": "https://openalex.org/S92895470",
+      "display_name": "Review of Educational Research",
+      "issn_l": "0034-6543",
+      "issn": [
+        "0034-6543",
+        "1935-1046"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320017",
+      "host_organization_name": "SAGE Publishing",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320017"
+      ],
+      "host_organization_lineage_names": [
+        "SAGE Publishing"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Review of Educational Research",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [
+    {
+      "score": 0.7599999904632568,
+      "id": "https://metadata.un.org/sdg/10",
+      "display_name": "Reduced inequalities"
+    }
+  ],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "pdf": true,
+    "grobid_xml": true
+  },
+  "referenced_works_count": 85,
+  "referenced_works": [
+    "https://openalex.org/W2567289819",
+    "https://openalex.org/W1996557929",
+    "https://openalex.org/W2944968374",
+    "https://openalex.org/W2048276321",
+    "https://openalex.org/W2139179708",
+    "https://openalex.org/W114200160",
+    "https://openalex.org/W3129020876",
+    "https://openalex.org/W2057862574",
+    "https://openalex.org/W1964448349",
+    "https://openalex.org/W2116092796",
+    "https://openalex.org/W2810432079",
+    "https://openalex.org/W3112916011",
+    "https://openalex.org/W2887933857",
+    "https://openalex.org/W2036733187",
+    "https://openalex.org/W2893171349",
+    "https://openalex.org/W1524447031",
+    "https://openalex.org/W2064994030",
+    "https://openalex.org/W2134073716",
+    "https://openalex.org/W628057128",
+    "https://openalex.org/W2728145227",
+    "https://openalex.org/W2979659670",
+    "https://openalex.org/W2466275575",
+    "https://openalex.org/W2792039239",
+    "https://openalex.org/W2328446294",
+    "https://openalex.org/W3013173604",
+    "https://openalex.org/W2102775714",
+    "https://openalex.org/W2418740005",
+    "https://openalex.org/W2779768710",
+    "https://openalex.org/W3006055604",
+    "https://openalex.org/W2103268375",
+    "https://openalex.org/W3007385730",
+    "https://openalex.org/W2806055630",
+    "https://openalex.org/W3113365839",
+    "https://openalex.org/W2480442556",
+    "https://openalex.org/W2923511331",
+    "https://openalex.org/W2616323029",
+    "https://openalex.org/W2996358761",
+    "https://openalex.org/W2567715826",
+    "https://openalex.org/W2592104024",
+    "https://openalex.org/W3011281047",
+    "https://openalex.org/W2994656950",
+    "https://openalex.org/W2411734167",
+    "https://openalex.org/W1948142686",
+    "https://openalex.org/W2795606335",
+    "https://openalex.org/W2284163269",
+    "https://openalex.org/W2042391893",
+    "https://openalex.org/W1505157918",
+    "https://openalex.org/W1986831086",
+    "https://openalex.org/W2561328029",
+    "https://openalex.org/W2003524363",
+    "https://openalex.org/W3037526009",
+    "https://openalex.org/W2138884119",
+    "https://openalex.org/W3042224957",
+    "https://openalex.org/W3119794604",
+    "https://openalex.org/W2152095428",
+    "https://openalex.org/W1554376125",
+    "https://openalex.org/W2033679658",
+    "https://openalex.org/W2012137939",
+    "https://openalex.org/W2081571050",
+    "https://openalex.org/W2066633993",
+    "https://openalex.org/W205572759",
+    "https://openalex.org/W1968265927",
+    "https://openalex.org/W2336601379",
+    "https://openalex.org/W1604226033",
+    "https://openalex.org/W2045594163",
+    "https://openalex.org/W3022625375",
+    "https://openalex.org/W2890875155",
+    "https://openalex.org/W2080878181",
+    "https://openalex.org/W1990309302",
+    "https://openalex.org/W2565859725",
+    "https://openalex.org/W2970171749",
+    "https://openalex.org/W3081854026",
+    "https://openalex.org/W2529675090",
+    "https://openalex.org/W2911811782",
+    "https://openalex.org/W3195367736",
+    "https://openalex.org/W3040003901",
+    "https://openalex.org/W2770183486",
+    "https://openalex.org/W2924690584",
+    "https://openalex.org/W3094595636",
+    "https://openalex.org/W2743653816",
+    "https://openalex.org/W1516727791",
+    "https://openalex.org/W1982260544",
+    "https://openalex.org/W633125769",
+    "https://openalex.org/W1483715820",
+    "https://openalex.org/W2132206651"
+  ],
+  "related_works": [
+    "https://openalex.org/W2885615418",
+    "https://openalex.org/W3045458328",
+    "https://openalex.org/W1901922207",
+    "https://openalex.org/W2021332264",
+    "https://openalex.org/W1991285927",
+    "https://openalex.org/W2095373041",
+    "https://openalex.org/W126337364",
+    "https://openalex.org/W2271477529",
+    "https://openalex.org/W2904427992",
+    "https://openalex.org/W2089414138"
+  ],
+  "abstract_inverted_index": {
+    "Young": [
+      0
+    ],
+    "children": [
+      1
+    ],
+    "(birth": [
+      2
+    ],
+    "to": [
+      3,
+      9,
+      25,
+      45,
+      55,
+      110,
+      146
+    ],
+    "age": [
+      4
+    ],
+    "5)": [
+      5
+    ],
+    "are": [
+      6
+    ],
+    "more": [
+      7
+    ],
+    "likely": [
+      8
+    ],
+    "be": [
+      10
+    ],
+    "expelled": [
+      11
+    ],
+    "or": [
+      12,
+      74
+    ],
+    "suspended": [
+      13
+    ],
+    "than": [
+      14
+    ],
+    "school-aged": [
+      15
+    ],
+    "children,": [
+      16
+    ],
+    "but": [
+      17
+    ],
+    "we": [
+      18
+    ],
+    "know": [
+      19
+    ],
+    "comparatively": [
+      20
+    ],
+    "little": [
+      21
+    ],
+    "about": [
+      22
+    ],
+    "the": [
+      23,
+      66,
+      114
+    ],
+    "precursors": [
+      24
+    ],
+    "and": [
+      26,
+      48,
+      63,
+      79,
+      85,
+      90,
+      92,
+      119,
+      126,
+      141,
+      149
+    ],
+    "prevention": [
+      27
+    ],
+    "of": [
+      28,
+      87,
+      106,
+      113,
+      138
+    ],
+    "exclusion": [
+      29,
+      60,
+      96
+    ],
+    "in": [
+      30,
+      65
+    ],
+    "early": [
+      31,
+      58,
+      71,
+      139
+    ],
+    "childhood": [
+      32,
+      59,
+      72
+    ],
+    "settings.": [
+      33
+    ],
+    "Furthermore,": [
+      34
+    ],
+    "what": [
+      35
+    ],
+    "research": [
+      36,
+      130
+    ],
+    "has": [
+      37,
+      40
+    ],
+    "been": [
+      38,
+      42
+    ],
+    "conducted": [
+      39
+    ],
+    "not": [
+      41
+    ],
+    "systematically": [
+      43,
+      77
+    ],
+    "synthesized": [
+      44
+    ],
+    "inform": [
+      46,
+      147
+    ],
+    "policy": [
+      47
+    ],
+    "funding": [
+      49,
+      151
+    ],
+    "decisions.": [
+      50,
+      152
+    ],
+    "The": [
+      51
+    ],
+    "present": [
+      52
+    ],
+    "review": [
+      53
+    ],
+    "seeks": [
+      54
+    ],
+    "determine": [
+      56
+    ],
+    "how": [
+      57
+    ],
+    "is": [
+      61,
+      144
+    ],
+    "defined": [
+      62
+    ],
+    "assessed": [
+      64
+    ],
+    "academic": [
+      67
+    ],
+    "literature.": [
+      68
+    ],
+    "Studies": [
+      69
+    ],
+    "measuring": [
+      70
+    ],
+    "suspension": [
+      73
+    ],
+    "expulsion": [
+      75
+    ],
+    "were": [
+      76
+    ],
+    "gathered": [
+      78
+    ],
+    "coded": [
+      80
+    ],
+    "for": [
+      81
+    ],
+    "study": [
+      82
+    ],
+    "characteristics,": [
+      83
+    ],
+    "definitions,": [
+      84
+    ],
+    "measures": [
+      86
+    ],
+    "exclusionary": [
+      88
+    ],
+    "discipline": [
+      89
+    ],
+    "disparity,": [
+      91
+    ],
+    "factors": [
+      93
+    ],
+    "associated": [
+      94
+    ],
+    "with": [
+      95
+    ],
+    "rates.": [
+      97
+    ],
+    "Results": [
+      98
+    ],
+    "(n": [
+      99
+    ],
+    "=": [
+      100
+    ],
+    "20)": [
+      101
+    ],
+    "show": [
+      102
+    ],
+    "an": [
+      103
+    ],
+    "accelerating": [
+      104
+    ],
+    "pace": [
+      105
+    ],
+    "inquiry": [
+      107
+    ],
+    "that": [
+      108,
+      131
+    ],
+    "attends": [
+      109
+    ],
+    "multiple": [
+      111,
+      136
+    ],
+    "levels": [
+      112
+    ],
+    "ecological": [
+      115
+    ],
+    "system": [
+      116
+    ],
+    "(children,": [
+      117
+    ],
+    "teachers,": [
+      118
+    ],
+    "programs)": [
+      120
+    ],
+    "across": [
+      121
+    ],
+    "diverse": [
+      122
+    ],
+    "settings": [
+      123,
+      143
+    ],
+    "(home-,": [
+      124
+    ],
+    "center-,": [
+      125
+    ],
+    "school-based": [
+      127
+    ],
+    "care).": [
+      128
+    ],
+    "Additional": [
+      129
+    ],
+    "draws": [
+      132
+    ],
+    "on": [
+      133
+    ],
+    "data": [
+      134
+    ],
+    "spanning": [
+      135
+    ],
+    "types": [
+      137
+    ],
+    "care": [
+      140
+    ],
+    "education": [
+      142
+    ],
+    "needed": [
+      145
+    ],
+    "legislation": [
+      148
+    ],
+    "intervention": [
+      150
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 30
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 27
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 14
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 2
+    }
+  ],
+  "updated_date": "2025-11-06T03:46:38.306776",
+  "created_date": "2025-10-10T00:00:00"
+}

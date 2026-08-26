@@ -1,0 +1,1796 @@
+{
+  "id": "https://openalex.org/W4214778629",
+  "doi": "https://doi.org/10.55563/clinexprheumatol/8xj0b9",
+  "title": "Defining anti-synthetase syndrome: a systematic literature review",
+  "display_name": "Defining anti-synthetase syndrome: a systematic literature review",
+  "publication_year": 2022,
+  "publication_date": "2022-02-25",
+  "ids": {
+    "openalex": "https://openalex.org/W4214778629",
+    "doi": "https://doi.org/10.55563/clinexprheumatol/8xj0b9",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/35225224"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.55563/clinexprheumatol/8xj0b9",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.55563/clinexprheumatol/8xj0b9",
+    "pdf_url": "https://www.clinexprheumatol.org/article.asp?a=18086",
+    "source": {
+      "id": "https://openalex.org/S165438840",
+      "display_name": "Clinical and Experimental Rheumatology",
+      "issn_l": "0392-856X",
+      "issn": [
+        "0392-856X",
+        "1593-098X"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310321666",
+      "host_organization_name": "Springer Vienna",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310321666",
+        "https://openalex.org/P4310319965"
+      ],
+      "host_organization_lineage_names": [
+        "Springer Vienna",
+        "Springer Nature"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Clinical and Experimental Rheumatology",
+    "raw_type": "journal-article"
+  },
+  "type": "review",
+  "indexed_in": [
+    "crossref",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "bronze",
+    "oa_url": "https://www.clinexprheumatol.org/article.asp?a=18086",
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5077225199",
+        "display_name": "Giovanni Zanframundo",
+        "orcid": "https://orcid.org/0000-0001-5042-1282"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210153126",
+          "display_name": "Istituti di Ricovero e Cura a Carattere Scientifico",
+          "ror": "https://ror.org/04tfzc498",
+          "country_code": "IT",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210153126"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210151645",
+          "display_name": "Policlinico San Matteo Fondazione",
+          "ror": "https://ror.org/05w1q1c88",
+          "country_code": "IT",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210151645",
+            "https://openalex.org/I4210153126"
+          ]
+        }
+      ],
+      "countries": [
+        "IT"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Giovanni Zanframundo",
+      "raw_affiliation_strings": [
+        "Division of Rheumatology, University and IRCCS Policlinico S. Matteo Foundation, Pavia, Italy;"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Division of Rheumatology, University and IRCCS Policlinico S. Matteo Foundation, Pavia, Italy;",
+          "institution_ids": [
+            "https://openalex.org/I4210151645",
+            "https://openalex.org/I4210153126"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5038697235",
+        "display_name": "Sara Faghihi-Kashani",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I170201317",
+          "display_name": "University of Pittsburgh",
+          "ror": "https://ror.org/01an3r305",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I170201317"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Sara Faghihi-Kashani",
+      "raw_affiliation_strings": [
+        "Division of Rheumatology and Clinical Immunology, Department of Medicine, University of Pittsburgh School of Medicine, Pittsburgh, PA, USA."
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Division of Rheumatology and Clinical Immunology, Department of Medicine, University of Pittsburgh School of Medicine, Pittsburgh, PA, USA.",
+          "institution_ids": [
+            "https://openalex.org/I170201317"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5064303070",
+        "display_name": "Carlo Alberto Scir\u00e8",
+        "orcid": "https://orcid.org/0000-0001-7451-0271"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I66752286",
+          "display_name": "University of Milano-Bicocca",
+          "ror": "https://ror.org/01ynf4891",
+          "country_code": "IT",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I66752286"
+          ]
+        }
+      ],
+      "countries": [
+        "IT"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Carlo Alberto Scir\u00e8",
+      "raw_affiliation_strings": [
+        "School of Medicine and Surgery, University of Milano-Bicocca, Milan, Italy;"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "School of Medicine and Surgery, University of Milano-Bicocca, Milan, Italy;",
+          "institution_ids": [
+            "https://openalex.org/I66752286"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5038615410",
+        "display_name": "Francesco Bonella",
+        "orcid": "https://orcid.org/0000-0001-7579-9767"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210089079",
+          "display_name": "Ruhrlandklinik",
+          "ror": "https://ror.org/006c8a128",
+          "country_code": "DE",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210089079"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I62318514",
+          "display_name": "University of Duisburg-Essen",
+          "ror": "https://ror.org/04mz5ra38",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I62318514"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Francesco Bonella",
+      "raw_affiliation_strings": [
+        "Center for Interstitial and Rare Lung Diseases, Ruhrlandklinik University Hospital, University of Duisburg-Essen, Germany;"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Center for Interstitial and Rare Lung Diseases, Ruhrlandklinik University Hospital, University of Duisburg-Essen, Germany;",
+          "institution_ids": [
+            "https://openalex.org/I4210089079",
+            "https://openalex.org/I62318514"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5013400592",
+        "display_name": "Tamera J. Corte",
+        "orcid": "https://orcid.org/0000-0002-5076-8929"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I129604602",
+          "display_name": "The University of Sydney",
+          "ror": "https://ror.org/0384j8v12",
+          "country_code": "AU",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I129604602"
+          ]
+        }
+      ],
+      "countries": [
+        "AU"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Tamera J. Corte",
+      "raw_affiliation_strings": [
+        "University of Sydney, Australia;"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "University of Sydney, Australia;",
+          "institution_ids": [
+            "https://openalex.org/I129604602"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5040692702",
+        "display_name": "Tracy J. Doyle",
+        "orcid": "https://orcid.org/0000-0002-0770-1059"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I1283280774",
+          "display_name": "Brigham and Women's Hospital",
+          "ror": "https://ror.org/04b6nzv94",
+          "country_code": "US",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I1283280774",
+            "https://openalex.org/I48633490"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Tracy J. Doyle",
+      "raw_affiliation_strings": [
+        "Brigham and Women's Hospital, Boston, MA, USA;"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Brigham and Women's Hospital, Boston, MA, USA;",
+          "institution_ids": [
+            "https://openalex.org/I1283280774"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5048784088",
+        "display_name": "David Fiorentino",
+        "orcid": "https://orcid.org/0000-0001-7951-3674"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I97018004",
+          "display_name": "Stanford University",
+          "ror": "https://ror.org/00f54p054",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I97018004"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "David Fiorentino",
+      "raw_affiliation_strings": [
+        "Department of Dermatology, Stanford University School of Medicine, Redwood City, CA, USA."
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Dermatology, Stanford University School of Medicine, Redwood City, CA, USA.",
+          "institution_ids": [
+            "https://openalex.org/I97018004"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5016922988",
+        "display_name": "Miguel \u00c1. Gonz\u00e1lez\u2010Gay",
+        "orcid": "https://orcid.org/0000-0002-7924-7406"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210113075",
+          "display_name": "Instituto de Investigaci\u00f3n Marqu\u00e9s de Valdecilla",
+          "ror": "https://ror.org/025gxrt12",
+          "country_code": "ES",
+          "type": "other",
+          "lineage": [
+            "https://openalex.org/I4210113075"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210099858",
+          "display_name": "Marqu\u00e9s de Valdecilla University Hospital",
+          "ror": "https://ror.org/01w4yqf75",
+          "country_code": "ES",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210099858"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I13134134",
+          "display_name": "Universidad de Cantabria",
+          "ror": "https://ror.org/046ffzj20",
+          "country_code": "ES",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I13134134"
+          ]
+        }
+      ],
+      "countries": [
+        "ES"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Miguel A. Gonzalez-Gay",
+      "raw_affiliation_strings": [
+        "Hospital Universitario Marques de Valdecilla, IDIVAL, University of Cantabria, Santander, Spain;"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Hospital Universitario Marques de Valdecilla, IDIVAL, University of Cantabria, Santander, Spain;",
+          "institution_ids": [
+            "https://openalex.org/I13134134",
+            "https://openalex.org/I4210099858",
+            "https://openalex.org/I4210113075"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5105250440",
+        "display_name": "Marie Hudson",
+        "orcid": "https://orcid.org/0000-0001-6718-2468"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I5023651",
+          "display_name": "McGill University",
+          "ror": "https://ror.org/01pxwe438",
+          "country_code": "CA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I5023651"
+          ]
+        }
+      ],
+      "countries": [
+        "CA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Marie Hudson",
+      "raw_affiliation_strings": [
+        "Department of Medicine, McGill University, Montreal, Quebec, Canada."
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Medicine, McGill University, Montreal, Quebec, Canada.",
+          "institution_ids": [
+            "https://openalex.org/I5023651"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5075788011",
+        "display_name": "Masataka Kuwana",
+        "orcid": "https://orcid.org/0000-0001-8352-6136"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I80188885",
+          "display_name": "Nippon Medical School",
+          "ror": "https://ror.org/00krab219",
+          "country_code": "JP",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I80188885"
+          ]
+        }
+      ],
+      "countries": [
+        "JP"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Masataka Kuwana",
+      "raw_affiliation_strings": [
+        "Department of Allergy and Rheumatology, Nippon Medical School Graduate School of Medicine, Tokyo, Japan."
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Allergy and Rheumatology, Nippon Medical School Graduate School of Medicine, Tokyo, Japan.",
+          "institution_ids": [
+            "https://openalex.org/I80188885"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5011002229",
+        "display_name": "Ingrid E. Lundberg",
+        "orcid": "https://orcid.org/0000-0002-6068-9212"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I28166907",
+          "display_name": "Karolinska Institutet",
+          "ror": "https://ror.org/056d84691",
+          "country_code": "SE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I28166907"
+          ]
+        }
+      ],
+      "countries": [
+        "SE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Ingrid E. Lundberg",
+      "raw_affiliation_strings": [
+        "Division of Rheumatology, Department of Medicine, Solna, Karolinska Institutet, Stockholm, Sweden."
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Division of Rheumatology, Department of Medicine, Solna, Karolinska Institutet, Stockholm, Sweden.",
+          "institution_ids": [
+            "https://openalex.org/I28166907"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5035350944",
+        "display_name": "Andrew L. Mammen",
+        "orcid": "https://orcid.org/0000-0003-3732-3252"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2799853436",
+          "display_name": "Johns Hopkins Medicine",
+          "ror": "https://ror.org/037zgn354",
+          "country_code": "US",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2799853436"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I145311948",
+          "display_name": "Johns Hopkins University",
+          "ror": "https://ror.org/00za53h95",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I145311948"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210087962",
+          "display_name": "National Institute of Arthritis and Musculoskeletal and Skin Diseases",
+          "ror": "https://ror.org/006zn3t30",
+          "country_code": "US",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I1299022934",
+            "https://openalex.org/I1299303238",
+            "https://openalex.org/I4210087962"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I1299303238",
+          "display_name": "National Institutes of Health",
+          "ror": "https://ror.org/01cwqze88",
+          "country_code": "US",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I1299022934",
+            "https://openalex.org/I1299303238"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Andrew Mammen",
+      "raw_affiliation_strings": [
+        "Dept. of Neurology, Johns Hopkins University School of Medicine, Baltimore, MD, USA;",
+        "National Institute of Arthritis and Musculoskeletal and Skin Disorders, National Institutes of Health, Bethesda, MD, and Department of Neurology, Johns Hopkins University School of Medicine, Baltimore, MD, USA."
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "National Institute of Arthritis and Musculoskeletal and Skin Disorders, National Institutes of Health, Bethesda, MD, and Department of Neurology, Johns Hopkins University School of Medicine, Baltimore, MD, USA.",
+          "institution_ids": [
+            "https://openalex.org/I1299303238",
+            "https://openalex.org/I145311948",
+            "https://openalex.org/I4210087962"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Dept. of Neurology, Johns Hopkins University School of Medicine, Baltimore, MD, USA;",
+          "institution_ids": [
+            "https://openalex.org/I145311948",
+            "https://openalex.org/I2799853436"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5071947542",
+        "display_name": "Neil McHugh",
+        "orcid": "https://orcid.org/0000-0003-2765-658X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I51601045",
+          "display_name": "University of Bath",
+          "ror": "https://ror.org/002h8g185",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I51601045"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Neil McHugh",
+      "raw_affiliation_strings": [
+        "University of Bath, UK;"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "University of Bath, UK;",
+          "institution_ids": [
+            "https://openalex.org/I51601045"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5046727318",
+        "display_name": "Frederick W. Miller",
+        "orcid": "https://orcid.org/0000-0003-2831-9593"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210095140",
+          "display_name": "National Institute of Environmental Health Sciences",
+          "ror": "https://ror.org/00j4k1h63",
+          "country_code": "US",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I1299022934",
+            "https://openalex.org/I1299303238",
+            "https://openalex.org/I4210095140"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I1299303238",
+          "display_name": "National Institutes of Health",
+          "ror": "https://ror.org/01cwqze88",
+          "country_code": "US",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I1299022934",
+            "https://openalex.org/I1299303238"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Frederick W. Miller",
+      "raw_affiliation_strings": [
+        "Environmental Autoimmunity Group, Clinical Research Branch, National Institute of Environmental Health Sciences, National Institutes of Health, Bethesda, MD, USA;"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Environmental Autoimmunity Group, Clinical Research Branch, National Institute of Environmental Health Sciences, National Institutes of Health, Bethesda, MD, USA;",
+          "institution_ids": [
+            "https://openalex.org/I1299303238",
+            "https://openalex.org/I4210095140"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5058349947",
+        "display_name": "Carlomaurizio Monteccucco",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210153126",
+          "display_name": "Istituti di Ricovero e Cura a Carattere Scientifico",
+          "ror": "https://ror.org/04tfzc498",
+          "country_code": "IT",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210153126"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210151645",
+          "display_name": "Policlinico San Matteo Fondazione",
+          "ror": "https://ror.org/05w1q1c88",
+          "country_code": "IT",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210151645",
+            "https://openalex.org/I4210153126"
+          ]
+        }
+      ],
+      "countries": [
+        "IT"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Carlomaurizio Monteccucco",
+      "raw_affiliation_strings": [
+        "Division of Rheumatology, University and IRCCS Policlinico S. Matteo Foundation, Pavia, Italy;"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Division of Rheumatology, University and IRCCS Policlinico S. Matteo Foundation, Pavia, Italy;",
+          "institution_ids": [
+            "https://openalex.org/I4210151645",
+            "https://openalex.org/I4210153126"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5072041025",
+        "display_name": "Chester V. Oddis",
+        "orcid": "https://orcid.org/0000-0002-9529-3111"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I170201317",
+          "display_name": "University of Pittsburgh",
+          "ror": "https://ror.org/01an3r305",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I170201317"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Chester V. Oddis",
+      "raw_affiliation_strings": [
+        "Division of Rheumatology and Clinical Immunology, Department of Medicine, University of Pittsburgh School of Medicine, Pittsburgh, PA, USA."
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Division of Rheumatology and Clinical Immunology, Department of Medicine, University of Pittsburgh School of Medicine, Pittsburgh, PA, USA.",
+          "institution_ids": [
+            "https://openalex.org/I170201317"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5082698515",
+        "display_name": "Jorge Rojas\u2010Serrano",
+        "orcid": "https://orcid.org/0000-0001-6980-7898"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210102695",
+          "display_name": "Instituto Nacional de Enfermedades Respiratorias",
+          "ror": "https://ror.org/017fh2655",
+          "country_code": "MX",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I4210095685",
+            "https://openalex.org/I4210102695"
+          ]
+        }
+      ],
+      "countries": [
+        "MX"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Jorge Rojas-Serrano",
+      "raw_affiliation_strings": [
+        "Interstitial Lung Disease and Rheumatology Units, Instituto Nacional de Enfermedades Respiratorias, Ismael Cos\u00edo Villegas, M\u00e9xico City, M\u00e9xico."
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Interstitial Lung Disease and Rheumatology Units, Instituto Nacional de Enfermedades Respiratorias, Ismael Cos\u00edo Villegas, M\u00e9xico City, M\u00e9xico.",
+          "institution_ids": [
+            "https://openalex.org/I4210102695"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5044464085",
+        "display_name": "Jens Schmidt",
+        "orcid": "https://orcid.org/0000-0002-5589-2371"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210145679",
+          "display_name": "Medizinische Hochschule Brandenburg Theodor Fontane",
+          "ror": "https://ror.org/04839sh14",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I4210145679"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Jens Schmidt",
+      "raw_affiliation_strings": [
+        "Department of Neurology, University Medical Center G\u00f6ttingen; Department of Neurology and Pain Treatment, Immanuel Klinik R\u00fcdersdorf, University Hospital of the Brandenburg Medical School Theodor Fontane, R\u00fcdersdorf bei Berlin; and Faculty of Health Sciences Brandenburg, Brandenburg Medical School Theodor Fontane, R\u00fcdersdorf bei Berlin, Germany."
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Neurology, University Medical Center G\u00f6ttingen; Department of Neurology and Pain Treatment, Immanuel Klinik R\u00fcdersdorf, University Hospital of the Brandenburg Medical School Theodor Fontane, R\u00fcdersdorf bei Berlin; and Faculty of Health Sciences Brandenburg, Brandenburg Medical School Theodor Fontane, R\u00fcdersdorf bei Berlin, Germany.",
+          "institution_ids": [
+            "https://openalex.org/I4210145679"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5005014098",
+        "display_name": "Albert Selva-O\u2019Callaghan",
+        "orcid": "https://orcid.org/0000-0003-2823-9761"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I123044942",
+          "display_name": "Universitat Aut\u00f2noma de Barcelona",
+          "ror": "https://ror.org/052g8jq94",
+          "country_code": "ES",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I123044942"
+          ]
+        }
+      ],
+      "countries": [
+        "ES"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Albert Selva-O'Callaghan",
+      "raw_affiliation_strings": [
+        "Vall d'Hebron Hospital, Universitat Aut\u00f2noma de Barcelona, Spain."
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Vall d'Hebron Hospital, Universitat Aut\u00f2noma de Barcelona, Spain.",
+          "institution_ids": [
+            "https://openalex.org/I123044942"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5029793095",
+        "display_name": "Victoria P. Werth",
+        "orcid": "https://orcid.org/0000-0003-3030-5369"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210133394",
+          "display_name": "Philadelphia VA Medical Center",
+          "ror": "https://ror.org/03j05zz84",
+          "country_code": "US",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I1322918889",
+            "https://openalex.org/I2799886695",
+            "https://openalex.org/I4210133394",
+            "https://openalex.org/I4210147340"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I79576946",
+          "display_name": "University of Pennsylvania",
+          "ror": "https://ror.org/00b30xv10",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I79576946"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Victoria P. Werth",
+      "raw_affiliation_strings": [
+        "University of Pennsylvania, Perelman School of Medicine and Michael J. Crescenz VAMC, Philadelphia, PA, USA;"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "University of Pennsylvania, Perelman School of Medicine and Michael J. Crescenz VAMC, Philadelphia, PA, USA;",
+          "institution_ids": [
+            "https://openalex.org/I4210133394",
+            "https://openalex.org/I79576946"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5032563375",
+        "display_name": "Garifallia Sakellariou",
+        "orcid": "https://orcid.org/0000-0002-1849-5123"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210091499",
+          "display_name": "Istituti Clinici Scientifici Maugeri",
+          "ror": "https://ror.org/00mc77d93",
+          "country_code": "IT",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210091499",
+            "https://openalex.org/I4210105320",
+            "https://openalex.org/I4210153126"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I25217355",
+          "display_name": "University of Pavia",
+          "ror": "https://ror.org/00s6t1f81",
+          "country_code": "IT",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I25217355"
+          ]
+        }
+      ],
+      "countries": [
+        "IT"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Garifallia Sakellariou",
+      "raw_affiliation_strings": [
+        "Istituti Clinici Scientifici Maugeri, University of Pavia, Italy. filiciasak@gmail.com"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Istituti Clinici Scientifici Maugeri, University of Pavia, Italy. filiciasak@gmail.com",
+          "institution_ids": [
+            "https://openalex.org/I25217355",
+            "https://openalex.org/I4210091499"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5021312163",
+        "display_name": "Rohit Aggarwal",
+        "orcid": "https://orcid.org/0000-0001-7531-8038"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I170201317",
+          "display_name": "University of Pittsburgh",
+          "ror": "https://ror.org/01an3r305",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I170201317"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Rohit Aggarwal",
+      "raw_affiliation_strings": [
+        "Division of Rheumatology and Clinical Immunology, Department of Medicine, University of Pittsburgh School of Medicine, Pittsburgh, PA, USA."
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Division of Rheumatology and Clinical Immunology, Department of Medicine, University of Pittsburgh School of Medicine, Pittsburgh, PA, USA.",
+          "institution_ids": [
+            "https://openalex.org/I170201317"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5014762324",
+        "display_name": "Lorenzo Cavagna",
+        "orcid": "https://orcid.org/0000-0003-3292-1528"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210153126",
+          "display_name": "Istituti di Ricovero e Cura a Carattere Scientifico",
+          "ror": "https://ror.org/04tfzc498",
+          "country_code": "IT",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210153126"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210151645",
+          "display_name": "Policlinico San Matteo Fondazione",
+          "ror": "https://ror.org/05w1q1c88",
+          "country_code": "IT",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210151645",
+            "https://openalex.org/I4210153126"
+          ]
+        }
+      ],
+      "countries": [
+        "IT"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Lorenzo Cavagna",
+      "raw_affiliation_strings": [
+        "Division of Rheumatology, University and IRCCS Policlinico S. Matteo Foundation, Pavia, Italy;"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Division of Rheumatology, University and IRCCS Policlinico S. Matteo Foundation, Pavia, Italy;",
+          "institution_ids": [
+            "https://openalex.org/I4210151645",
+            "https://openalex.org/I4210153126"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 10,
+  "institutions_distinct_count": 23,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 16.38277741,
+  "has_fulltext": true,
+  "cited_by_count": 73,
+  "citation_normalized_percentile": {
+    "value": 0.99181649,
+    "is_in_top_1_percent": true,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 99,
+    "max": 100
+  },
+  "biblio": {
+    "volume": "40",
+    "issue": "2",
+    "first_page": "309",
+    "last_page": "319"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T11724",
+    "display_name": "Inflammatory Myopathies and Dermatomyositis",
+    "score": 1.0,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2713",
+      "display_name": "Epidemiology"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/27",
+      "display_name": "Medicine"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/4",
+      "display_name": "Health Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T11724",
+      "display_name": "Inflammatory Myopathies and Dermatomyositis",
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2713",
+        "display_name": "Epidemiology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10441",
+      "display_name": "Muscle Physiology and Disorders",
+      "score": 0.9958000183105469,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11627",
+      "display_name": "Autoimmune Neurological Disorders and Treatments",
+      "score": 0.9882000088691711,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2728",
+        "display_name": "Neurology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/medicine",
+      "display_name": "Medicine",
+      "score": 0.9369874000549316
+    },
+    {
+      "id": "https://openalex.org/keywords/medline",
+      "display_name": "MEDLINE",
+      "score": 0.567255973815918
+    },
+    {
+      "id": "https://openalex.org/keywords/systematic-review",
+      "display_name": "Systematic review",
+      "score": 0.49994564056396484
+    },
+    {
+      "id": "https://openalex.org/keywords/intensive-care-medicine",
+      "display_name": "Intensive care medicine",
+      "score": 0.3637908101081848
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C71924100",
+      "wikidata": "https://www.wikidata.org/wiki/Q11190",
+      "display_name": "Medicine",
+      "level": 0,
+      "score": 0.9369874000549316
+    },
+    {
+      "id": "https://openalex.org/C2779473830",
+      "wikidata": "https://www.wikidata.org/wiki/Q1540899",
+      "display_name": "MEDLINE",
+      "level": 2,
+      "score": 0.567255973815918
+    },
+    {
+      "id": "https://openalex.org/C189708586",
+      "wikidata": "https://www.wikidata.org/wiki/Q1504425",
+      "display_name": "Systematic review",
+      "level": 3,
+      "score": 0.49994564056396484
+    },
+    {
+      "id": "https://openalex.org/C177713679",
+      "wikidata": "https://www.wikidata.org/wiki/Q679690",
+      "display_name": "Intensive care medicine",
+      "level": 1,
+      "score": 0.3637908101081848
+    },
+    {
+      "id": "https://openalex.org/C17744445",
+      "wikidata": "https://www.wikidata.org/wiki/Q36442",
+      "display_name": "Political science",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C199539241",
+      "wikidata": "https://www.wikidata.org/wiki/Q7748",
+      "display_name": "Law",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [
+    {
+      "descriptor_ui": "D001323",
+      "descriptor_name": "Autoantibodies",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008025",
+      "descriptor_name": "Ligases",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D013577",
+      "descriptor_name": "Syndrome",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D001323",
+      "descriptor_name": "Autoantibodies",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008025",
+      "descriptor_name": "Ligases",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D013577",
+      "descriptor_name": "Syndrome",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D001323",
+      "descriptor_name": "Autoantibodies",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008025",
+      "descriptor_name": "Ligases",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D013577",
+      "descriptor_name": "Syndrome",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D001323",
+      "descriptor_name": "Autoantibodies",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008025",
+      "descriptor_name": "Ligases",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D013577",
+      "descriptor_name": "Syndrome",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    }
+  ],
+  "locations_count": 6,
+  "locations": [
+    {
+      "id": "doi:10.55563/clinexprheumatol/8xj0b9",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.55563/clinexprheumatol/8xj0b9",
+      "pdf_url": "https://www.clinexprheumatol.org/article.asp?a=18086",
+      "source": {
+        "id": "https://openalex.org/S165438840",
+        "display_name": "Clinical and Experimental Rheumatology",
+        "issn_l": "0392-856X",
+        "issn": [
+          "0392-856X",
+          "1593-098X"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310321666",
+        "host_organization_name": "Springer Vienna",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310321666",
+          "https://openalex.org/P4310319965"
+        ],
+        "host_organization_lineage_names": [
+          "Springer Vienna",
+          "Springer Nature"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Clinical and Experimental Rheumatology",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:35225224",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/35225224",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Clinical and experimental rheumatology",
+      "raw_type": null
+    },
+    {
+      "id": "pmh:oai:pubmedcentral.nih.gov:10411341",
+      "is_oa": true,
+      "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/10411341",
+      "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10411341/pdf/nihms-1919681.pdf",
+      "source": {
+        "id": "https://openalex.org/S2764455111",
+        "display_name": "PubMed Central",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Clin Exp Rheumatol",
+      "raw_type": "Text"
+    },
+    {
+      "id": "pmh:oai:boa.unimib.it:10281/367243",
+      "is_oa": false,
+      "landing_page_url": "http://hdl.handle.net/10281/367243",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401259",
+        "display_name": "BOA (University of Milano-Bicocca)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I66752286",
+        "host_organization_name": "University of Milano-Bicocca",
+        "host_organization_lineage": [
+          "https://openalex.org/I66752286"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": null,
+      "raw_type": "info:eu-repo/semantics/article"
+    },
+    {
+      "id": "pmh:oai:publications.goettingen-research-online.de:2/105366",
+      "is_oa": true,
+      "landing_page_url": "https://resolver.sub.uni-goettingen.de/purl?gro-2/105366",
+      "pdf_url": null,
+      "source": null,
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "",
+      "raw_type": "info:eu-repo/semantics/article"
+    },
+    {
+      "id": "pmh:oai:publications.goettingen-research-online.de:2/137851",
+      "is_oa": true,
+      "landing_page_url": "https://resolver.sub.uni-goettingen.de/purl?gro-2/137851",
+      "pdf_url": null,
+      "source": null,
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "",
+      "raw_type": "info:eu-repo/semantics/article"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.55563/clinexprheumatol/8xj0b9",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.55563/clinexprheumatol/8xj0b9",
+    "pdf_url": "https://www.clinexprheumatol.org/article.asp?a=18086",
+    "source": {
+      "id": "https://openalex.org/S165438840",
+      "display_name": "Clinical and Experimental Rheumatology",
+      "issn_l": "0392-856X",
+      "issn": [
+        "0392-856X",
+        "1593-098X"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310321666",
+      "host_organization_name": "Springer Vienna",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310321666",
+        "https://openalex.org/P4310319965"
+      ],
+      "host_organization_lineage_names": [
+        "Springer Vienna",
+        "Springer Nature"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Clinical and Experimental Rheumatology",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [
+    {
+      "score": 0.699999988079071,
+      "id": "https://metadata.un.org/sdg/3",
+      "display_name": "Good health and well-being"
+    }
+  ],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "pdf": true,
+    "grobid_xml": true
+  },
+  "referenced_works_count": 111,
+  "referenced_works": [
+    "https://openalex.org/W2000040082",
+    "https://openalex.org/W1971734001",
+    "https://openalex.org/W6662634620",
+    "https://openalex.org/W2558303123",
+    "https://openalex.org/W2048716562",
+    "https://openalex.org/W2985448772",
+    "https://openalex.org/W2902957037",
+    "https://openalex.org/W2090571806",
+    "https://openalex.org/W2024920387",
+    "https://openalex.org/W2537641001",
+    "https://openalex.org/W2898819105",
+    "https://openalex.org/W2419582408",
+    "https://openalex.org/W2022058938",
+    "https://openalex.org/W2623592054",
+    "https://openalex.org/W2081233433",
+    "https://openalex.org/W2560426711",
+    "https://openalex.org/W2141699260",
+    "https://openalex.org/W2110201345",
+    "https://openalex.org/W2065744472",
+    "https://openalex.org/W2039039501",
+    "https://openalex.org/W2594723614",
+    "https://openalex.org/W2986426213",
+    "https://openalex.org/W2769595592",
+    "https://openalex.org/W2065602118",
+    "https://openalex.org/W2791746848",
+    "https://openalex.org/W2073447201",
+    "https://openalex.org/W2174731795",
+    "https://openalex.org/W2117355544",
+    "https://openalex.org/W2098843843",
+    "https://openalex.org/W2068014499",
+    "https://openalex.org/W2794900939",
+    "https://openalex.org/W2891506216",
+    "https://openalex.org/W2221159815",
+    "https://openalex.org/W2405652829",
+    "https://openalex.org/W1983732602",
+    "https://openalex.org/W2766056306",
+    "https://openalex.org/W2890790285",
+    "https://openalex.org/W2293271628",
+    "https://openalex.org/W2481820521",
+    "https://openalex.org/W2122161608",
+    "https://openalex.org/W2125564484",
+    "https://openalex.org/W2323403854",
+    "https://openalex.org/W2810225662",
+    "https://openalex.org/W2142171911",
+    "https://openalex.org/W2742891217",
+    "https://openalex.org/W1974946256",
+    "https://openalex.org/W7074220035",
+    "https://openalex.org/W2098063632",
+    "https://openalex.org/W140484599",
+    "https://openalex.org/W2317971935",
+    "https://openalex.org/W2581749430",
+    "https://openalex.org/W2061496103",
+    "https://openalex.org/W2149937527",
+    "https://openalex.org/W2611330109",
+    "https://openalex.org/W2135791473",
+    "https://openalex.org/W2117041698",
+    "https://openalex.org/W2743453615",
+    "https://openalex.org/W4211050134",
+    "https://openalex.org/W2091839357",
+    "https://openalex.org/W2968226334",
+    "https://openalex.org/W2334776581",
+    "https://openalex.org/W2139544990",
+    "https://openalex.org/W2048446407",
+    "https://openalex.org/W1857071204",
+    "https://openalex.org/W2440724390",
+    "https://openalex.org/W1030206653",
+    "https://openalex.org/W3005580320",
+    "https://openalex.org/W2994591473",
+    "https://openalex.org/W2061318025",
+    "https://openalex.org/W1790191554",
+    "https://openalex.org/W3109637070",
+    "https://openalex.org/W2097799671",
+    "https://openalex.org/W3118615836",
+    "https://openalex.org/W2004089161",
+    "https://openalex.org/W1969808218",
+    "https://openalex.org/W2043224698",
+    "https://openalex.org/W2998558720",
+    "https://openalex.org/W2412354948",
+    "https://openalex.org/W2010036566",
+    "https://openalex.org/W2013337140",
+    "https://openalex.org/W2134810534",
+    "https://openalex.org/W126627448",
+    "https://openalex.org/W2790655304",
+    "https://openalex.org/W2140070248",
+    "https://openalex.org/W2615091565",
+    "https://openalex.org/W2038459981",
+    "https://openalex.org/W3111853361",
+    "https://openalex.org/W2070660435",
+    "https://openalex.org/W2163773162",
+    "https://openalex.org/W3035505485",
+    "https://openalex.org/W2056577741",
+    "https://openalex.org/W2156730853",
+    "https://openalex.org/W600840809",
+    "https://openalex.org/W1125318244",
+    "https://openalex.org/W2025591541",
+    "https://openalex.org/W4297900620",
+    "https://openalex.org/W2759454165",
+    "https://openalex.org/W2580472403",
+    "https://openalex.org/W2127075206",
+    "https://openalex.org/W2031826595",
+    "https://openalex.org/W3111221457",
+    "https://openalex.org/W2568935058",
+    "https://openalex.org/W2998354405",
+    "https://openalex.org/W2503511134",
+    "https://openalex.org/W3004135039",
+    "https://openalex.org/W2282514635",
+    "https://openalex.org/W2894149931",
+    "https://openalex.org/W2133210342",
+    "https://openalex.org/W2131101222",
+    "https://openalex.org/W3043780942",
+    "https://openalex.org/W2148709599"
+  ],
+  "related_works": [
+    "https://openalex.org/W2899084033",
+    "https://openalex.org/W2748952813",
+    "https://openalex.org/W3031052312",
+    "https://openalex.org/W3032375762",
+    "https://openalex.org/W1995515455",
+    "https://openalex.org/W2080531066",
+    "https://openalex.org/W3108674512",
+    "https://openalex.org/W1506200166",
+    "https://openalex.org/W2048182022",
+    "https://openalex.org/W2115099528"
+  ],
+  "abstract_inverted_index": {
+    "The": [
+      0
+    ],
+    "current": [
+      1
+    ],
+    "ASSD": [
+      2
+    ],
+    "criteria": [
+      3,
+      42
+    ],
+    "include": [
+      4
+    ],
+    "a": [
+      5
+    ],
+    "variety": [
+      6
+    ],
+    "of": [
+      7,
+      22
+    ],
+    "serological,": [
+      8
+    ],
+    "clinical,": [
+      9
+    ],
+    "and": [
+      10,
+      19,
+      39
+    ],
+    "histological": [
+      11
+    ],
+    "features": [
+      12
+    ],
+    "with": [
+      13
+    ],
+    "wide": [
+      14
+    ],
+    "variability": [
+      15
+    ],
+    "amongst": [
+      16
+    ],
+    "proposed": [
+      17
+    ],
+    "definitions": [
+      18,
+      24
+    ],
+    "the": [
+      20,
+      34
+    ],
+    "performance": [
+      21
+    ],
+    "these": [
+      23
+    ],
+    "has": [
+      25
+    ],
+    "not": [
+      26
+    ],
+    "been": [
+      27
+    ],
+    "tested.": [
+      28
+    ],
+    "This": [
+      29
+    ],
+    "systematic": [
+      30
+    ],
+    "literature": [
+      31
+    ],
+    "review": [
+      32
+    ],
+    "suggests": [
+      33
+    ],
+    "need": [
+      35
+    ],
+    "for": [
+      36,
+      43
+    ],
+    "additional": [
+      37
+    ],
+    "data": [
+      38
+    ],
+    "consensus-driven": [
+      40
+    ],
+    "classification": [
+      41
+    ],
+    "ASSD.": [
+      44
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 16
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 32
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 16
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 9
+    }
+  ],
+  "updated_date": "2025-11-06T03:46:38.306776",
+  "created_date": "2025-10-10T00:00:00"
+}

@@ -1,0 +1,12 @@
+{
+  "key": "Wassenaar_2017",
+  "publication": {
+    "doi": "10.1289/ehp1233",
+    "eligibility_criteria": "Studies were included in this systematic review when they met all of the following criteria: a) original full paper that presented unique data; b) exposure to BPA; c) obesity-related article or at least one of the outcome measures was examined (body weight, fat pad weights, triglyceride levels, FFA levels, or leptin levels); d) experimental rodent study; e) perinatal exposure via maternal or direct pup exposure [during gestation and/or lactation up to postnatal day (PND) 21]. Studies were excluded if they met one of the following criteria: a) not an original paper; b) exposure to a chemical other than BPA; c) no disease or outcome of interest (no obesity-related outcome); d) not a rodent study; e) not perinatal exposure (paternal exposure, exposure after PND21, and measurements in unborn fetuses were excluded); f) outcomes not measured in F1 generation; g) unhealthy or genetically altered rodents (data measured after ovariectomy were considered unhealthy and were not extracted); h) outcomes were measured after diet was altered to high-fat diet during follow-up. In addition, selection was restricted to English-language articles."
+  },
+  "data": {
+    "doi": "10.1186/s13643-016-0263-z",
+    "n_records": 7549,
+    "n_records_included": 111
+  }
+}

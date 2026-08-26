@@ -1,0 +1,1 @@
+Zakeri-Nasrabadi, M., Parsa, S., Ramezani, M., Roy, C., & Ekhtiarzadeh, M. (2023). A systematic literature review on source code similarity measurement and clone detection: Techniques, applications, and challenges. Journal of Systems and Software, 204, 111796. https://doi.org/10.1016/j.jss.2023.111796

@@ -1,0 +1,12 @@
+{
+  "key": "Pinos-Cisneros_2023",
+  "publication": {
+    "doi": "10.2196/44904",
+    "eligibility_criteria": "The inclusion criteria for the analyzed articles were as follows:\u00a0(1) study participants were children (aged 0-18 years) with spastic CP; (2) the therapy described was focused on hands or upper limbs motor skills; (3) the therapy used innovative technology (ie, electronic tools, systems, and devices); (4) the therapy used playful elements such as video games or toys; and (5) the publications consisted of peer-reviewed academic articles or conference proceedings that were published between 2009 and 2022. The exclusion criteria included (1) insufficient information about the game or play activity or referred to traditional therapies without the support of technologies (eg, bimanual, constrained-induced movement, and Pirate Therapy), (2) lack of focus on the treatment used, (3) written in a different language than English, (4) unavailability to access the full text at the time of analysis, and (5) incomplete inclusion criteria. Disagreements between reviewers with regard to the exclusion criteria were resolved through discussion."
+  },
+  "data": {
+    "doi": "10.17605/OSF.IO/MK76S",
+    "n_records": 228,
+    "n_records_included": 54
+  }
+}

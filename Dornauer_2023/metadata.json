@@ -1,0 +1,12 @@
+{
+  "key": "Dornauer_2023",
+  "publication": {
+    "doi": "10.1109/mobilsoft59058.2023.00017",
+    "eligibility_criteria": "IC1 The study considers only web apps (including PWA, mobile\nwebsites) accessed via mobile devices.\nIC2 The energy-savings are accomplished on client-side.\nIC3 The paper should describe the methods used to measure\nenergy consumption. \nEC1 Paper that has not undergone peer review.\nEC2 The paper is not available online or is not written in English.\nEC3 The quality of the paper is not up to the necessary scientific\nstandards.\nEC4 The paper is not a published journal article, conference\nproceedings, or workshop paper.\nEC5 The paper has already been published in another publication.\nEC6 Paper is out of scope: (1) the paper is not related to mobile\nweb development, (2) the paper does not involve an energy\nsaving approach, or (3) the power measurement methods\ndescribed in the paper are not clear.\nEC7 Other conducted literature reviews."
+  },
+  "data": {
+    "doi": "10.5281/zenodo.7698283",
+    "n_records": 869,
+    "n_records_included": 13
+  }
+}

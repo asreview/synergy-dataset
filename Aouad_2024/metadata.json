@@ -1,0 +1,12 @@
+{
+  "key": "Aouad_2024",
+  "publication": {
+    "doi": "10.1136/ard-2024-225567",
+    "eligibility_criteria": "We included all types of articles reporting PRP involvement in all types of research, including trials and observational studies, qualitative studies, mixed-methods studies and reports of meetings, opinion papers and reviews. We did not exclude published articles from any country, aiming to enhance the generalisability of our findings. Recommendations and guidelines on PRPs were also analysed and were used as supportive information. Articles not focused on rheumatology research or not bringing any information on PRPs (ie, not answering one or more research questions), as well as not in English, were excluded. Articles only mentioning PRPs or their involvement, without providing any details (eg, on their roles, contributions or barriers/facilitators), were excluded as well. Articles with duplicate information (ie, multiple publications reporting on a single study) were excluded if they did not provide additional information relevant to our research questions."
+  },
+  "data": {
+    "doi": "10.17605/OSF.IO/T8KNJ",
+    "n_records": 1009,
+    "n_records_included": 46
+  }
+}

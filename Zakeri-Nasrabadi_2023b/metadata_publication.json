@@ -1,0 +1,947 @@
+{
+  "id": "https://openalex.org/W4383215759",
+  "doi": "https://doi.org/10.1016/j.jss.2023.111796",
+  "title": "A systematic literature review on source code similarity measurement and clone detection: Techniques, applications, and challenges",
+  "display_name": "A systematic literature review on source code similarity measurement and clone detection: Techniques, applications, and challenges",
+  "publication_year": 2023,
+  "publication_date": "2023-07-05",
+  "ids": {
+    "openalex": "https://openalex.org/W4383215759",
+    "doi": "https://doi.org/10.1016/j.jss.2023.111796"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1016/j.jss.2023.111796",
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.1016/j.jss.2023.111796",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S37879656",
+      "display_name": "Journal of Systems and Software",
+      "issn_l": "0164-1212",
+      "issn": [
+        "0164-1212",
+        "1873-1228"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320990",
+      "host_organization_name": "Elsevier BV",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320990"
+      ],
+      "host_organization_lineage_names": [
+        "Elsevier BV"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Journal of Systems and Software",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5082234429",
+        "display_name": "Morteza Zakeri\u2010Nasrabadi",
+        "orcid": "https://orcid.org/0000-0003-4289-0606"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I67009956",
+          "display_name": "Iran University of Science and Technology",
+          "ror": "https://ror.org/01jw2p796",
+          "country_code": "IR",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I67009956"
+          ]
+        }
+      ],
+      "countries": [
+        "IR"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Morteza Zakeri-Nasrabadi",
+      "raw_affiliation_strings": [
+        "School of Computer Engineering, Iran University of Science and Technology, Tehran, Iran"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "School of Computer Engineering, Iran University of Science and Technology, Tehran, Iran",
+          "institution_ids": [
+            "https://openalex.org/I67009956"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5039758530",
+        "display_name": "Saeed Parsa",
+        "orcid": "https://orcid.org/0000-0003-4381-2773"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I67009956",
+          "display_name": "Iran University of Science and Technology",
+          "ror": "https://ror.org/01jw2p796",
+          "country_code": "IR",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I67009956"
+          ]
+        }
+      ],
+      "countries": [
+        "IR"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Saeed Parsa",
+      "raw_affiliation_strings": [
+        "School of Computer Engineering, Iran University of Science and Technology, Tehran, Iran"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "School of Computer Engineering, Iran University of Science and Technology, Tehran, Iran",
+          "institution_ids": [
+            "https://openalex.org/I67009956"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5101734942",
+        "display_name": "Mohammad Ramezani",
+        "orcid": "https://orcid.org/0000-0003-3513-1302"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I67009956",
+          "display_name": "Iran University of Science and Technology",
+          "ror": "https://ror.org/01jw2p796",
+          "country_code": "IR",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I67009956"
+          ]
+        }
+      ],
+      "countries": [
+        "IR"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Mohammad Ramezani",
+      "raw_affiliation_strings": [
+        "School of Computer Engineering, Iran University of Science and Technology, Tehran, Iran"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "School of Computer Engineering, Iran University of Science and Technology, Tehran, Iran",
+          "institution_ids": [
+            "https://openalex.org/I67009956"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5102756770",
+        "display_name": "Chanchal K. Roy",
+        "orcid": "https://orcid.org/0000-0003-0519-6164"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I32625721",
+          "display_name": "University of Saskatchewan",
+          "ror": "https://ror.org/010x8gc63",
+          "country_code": "CA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I32625721"
+          ]
+        }
+      ],
+      "countries": [
+        "CA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Chanchal Roy",
+      "raw_affiliation_strings": [
+        "Department of Computer Science, University of Saskatchewan, Saskatoon, Canada"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Computer Science, University of Saskatchewan, Saskatoon, Canada",
+          "institution_ids": [
+            "https://openalex.org/I32625721"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5001168375",
+        "display_name": "Masoud Ekhtiarzadeh",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I67009956",
+          "display_name": "Iran University of Science and Technology",
+          "ror": "https://ror.org/01jw2p796",
+          "country_code": "IR",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I67009956"
+          ]
+        }
+      ],
+      "countries": [
+        "IR"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Masoud Ekhtiarzadeh",
+      "raw_affiliation_strings": [
+        "School of Computer Engineering, Iran University of Science and Technology, Tehran, Iran"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "School of Computer Engineering, Iran University of Science and Technology, Tehran, Iran",
+          "institution_ids": [
+            "https://openalex.org/I67009956"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 2,
+  "institutions_distinct_count": 5,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5039758530"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I67009956"
+  ],
+  "apc_list": {
+    "value": 3560,
+    "currency": "USD",
+    "value_usd": 3560
+  },
+  "apc_paid": null,
+  "fwci": 32.77984422,
+  "has_fulltext": false,
+  "cited_by_count": 53,
+  "citation_normalized_percentile": {
+    "value": 0.99655131,
+    "is_in_top_1_percent": true,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 97,
+    "max": 100
+  },
+  "biblio": {
+    "volume": "204",
+    "issue": null,
+    "first_page": "111796",
+    "last_page": "111796"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10260",
+    "display_name": "Software Engineering Research",
+    "score": 0.9998999834060669,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1710",
+      "display_name": "Information Systems"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/17",
+      "display_name": "Computer Science"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10260",
+      "display_name": "Software Engineering Research",
+      "score": 0.9998999834060669,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1710",
+        "display_name": "Information Systems"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11241",
+      "display_name": "Advanced Malware Detection Techniques",
+      "score": 0.9973000288009644,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1711",
+        "display_name": "Signal Processing"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12423",
+      "display_name": "Software Reliability and Analysis Research",
+      "score": 0.9799000024795532,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1712",
+        "display_name": "Software"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/computer-science",
+      "display_name": "Computer science",
+      "score": 0.7778568267822266
+    },
+    {
+      "id": "https://openalex.org/keywords/source-code",
+      "display_name": "Source code",
+      "score": 0.6683046817779541
+    },
+    {
+      "id": "https://openalex.org/keywords/code-review",
+      "display_name": "Code review",
+      "score": 0.598232626914978
+    },
+    {
+      "id": "https://openalex.org/keywords/field",
+      "display_name": "Field (mathematics)",
+      "score": 0.5406015515327454
+    },
+    {
+      "id": "https://openalex.org/keywords/similarity",
+      "display_name": "Similarity (geometry)",
+      "score": 0.5394341349601746
+    },
+    {
+      "id": "https://openalex.org/keywords/software",
+      "display_name": "Software",
+      "score": 0.4970133602619171
+    },
+    {
+      "id": "https://openalex.org/keywords/code",
+      "display_name": "Code (set theory)",
+      "score": 0.4617384374141693
+    },
+    {
+      "id": "https://openalex.org/keywords/java",
+      "display_name": "Java",
+      "score": 0.4554758071899414
+    },
+    {
+      "id": "https://openalex.org/keywords/software-engineering",
+      "display_name": "Software engineering",
+      "score": 0.4379521608352661
+    },
+    {
+      "id": "https://openalex.org/keywords/static-program-analysis",
+      "display_name": "Static program analysis",
+      "score": 0.43543609976768494
+    },
+    {
+      "id": "https://openalex.org/keywords/software-development",
+      "display_name": "Software development",
+      "score": 0.4152528643608093
+    },
+    {
+      "id": "https://openalex.org/keywords/point",
+      "display_name": "Point (geometry)",
+      "score": 0.41223227977752686
+    },
+    {
+      "id": "https://openalex.org/keywords/data-mining",
+      "display_name": "Data mining",
+      "score": 0.4105321764945984
+    },
+    {
+      "id": "https://openalex.org/keywords/information-retrieval",
+      "display_name": "Information retrieval",
+      "score": 0.3911542594432831
+    },
+    {
+      "id": "https://openalex.org/keywords/programming-language",
+      "display_name": "Programming language",
+      "score": 0.30968591570854187
+    },
+    {
+      "id": "https://openalex.org/keywords/artificial-intelligence",
+      "display_name": "Artificial intelligence",
+      "score": 0.2537412643432617
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.7778568267822266
+    },
+    {
+      "id": "https://openalex.org/C43126263",
+      "wikidata": "https://www.wikidata.org/wiki/Q128751",
+      "display_name": "Source code",
+      "level": 2,
+      "score": 0.6683046817779541
+    },
+    {
+      "id": "https://openalex.org/C150292731",
+      "wikidata": "https://www.wikidata.org/wiki/Q1342704",
+      "display_name": "Code review",
+      "level": 5,
+      "score": 0.598232626914978
+    },
+    {
+      "id": "https://openalex.org/C9652623",
+      "wikidata": "https://www.wikidata.org/wiki/Q190109",
+      "display_name": "Field (mathematics)",
+      "level": 2,
+      "score": 0.5406015515327454
+    },
+    {
+      "id": "https://openalex.org/C103278499",
+      "wikidata": "https://www.wikidata.org/wiki/Q254465",
+      "display_name": "Similarity (geometry)",
+      "level": 3,
+      "score": 0.5394341349601746
+    },
+    {
+      "id": "https://openalex.org/C2777904410",
+      "wikidata": "https://www.wikidata.org/wiki/Q7397",
+      "display_name": "Software",
+      "level": 2,
+      "score": 0.4970133602619171
+    },
+    {
+      "id": "https://openalex.org/C2776760102",
+      "wikidata": "https://www.wikidata.org/wiki/Q5139990",
+      "display_name": "Code (set theory)",
+      "level": 3,
+      "score": 0.4617384374141693
+    },
+    {
+      "id": "https://openalex.org/C548217200",
+      "wikidata": "https://www.wikidata.org/wiki/Q251",
+      "display_name": "Java",
+      "level": 2,
+      "score": 0.4554758071899414
+    },
+    {
+      "id": "https://openalex.org/C115903868",
+      "wikidata": "https://www.wikidata.org/wiki/Q80993",
+      "display_name": "Software engineering",
+      "level": 1,
+      "score": 0.4379521608352661
+    },
+    {
+      "id": "https://openalex.org/C137287247",
+      "wikidata": "https://www.wikidata.org/wiki/Q1329550",
+      "display_name": "Static program analysis",
+      "level": 4,
+      "score": 0.43543609976768494
+    },
+    {
+      "id": "https://openalex.org/C529173508",
+      "wikidata": "https://www.wikidata.org/wiki/Q638608",
+      "display_name": "Software development",
+      "level": 3,
+      "score": 0.4152528643608093
+    },
+    {
+      "id": "https://openalex.org/C28719098",
+      "wikidata": "https://www.wikidata.org/wiki/Q44946",
+      "display_name": "Point (geometry)",
+      "level": 2,
+      "score": 0.41223227977752686
+    },
+    {
+      "id": "https://openalex.org/C124101348",
+      "wikidata": "https://www.wikidata.org/wiki/Q172491",
+      "display_name": "Data mining",
+      "level": 1,
+      "score": 0.4105321764945984
+    },
+    {
+      "id": "https://openalex.org/C23123220",
+      "wikidata": "https://www.wikidata.org/wiki/Q816826",
+      "display_name": "Information retrieval",
+      "level": 1,
+      "score": 0.3911542594432831
+    },
+    {
+      "id": "https://openalex.org/C199360897",
+      "wikidata": "https://www.wikidata.org/wiki/Q9143",
+      "display_name": "Programming language",
+      "level": 1,
+      "score": 0.30968591570854187
+    },
+    {
+      "id": "https://openalex.org/C154945302",
+      "wikidata": "https://www.wikidata.org/wiki/Q11660",
+      "display_name": "Artificial intelligence",
+      "level": 1,
+      "score": 0.2537412643432617
+    },
+    {
+      "id": "https://openalex.org/C2524010",
+      "wikidata": "https://www.wikidata.org/wiki/Q8087",
+      "display_name": "Geometry",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C177264268",
+      "wikidata": "https://www.wikidata.org/wiki/Q1514741",
+      "display_name": "Set (abstract data type)",
+      "level": 2,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C115961682",
+      "wikidata": "https://www.wikidata.org/wiki/Q860623",
+      "display_name": "Image (mathematics)",
+      "level": 2,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C202444582",
+      "wikidata": "https://www.wikidata.org/wiki/Q837863",
+      "display_name": "Pure mathematics",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C33923547",
+      "wikidata": "https://www.wikidata.org/wiki/Q395",
+      "display_name": "Mathematics",
+      "level": 0,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "id": "doi:10.1016/j.jss.2023.111796",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1016/j.jss.2023.111796",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S37879656",
+        "display_name": "Journal of Systems and Software",
+        "issn_l": "0164-1212",
+        "issn": [
+          "0164-1212",
+          "1873-1228"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320990",
+        "host_organization_name": "Elsevier BV",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320990"
+        ],
+        "host_organization_lineage_names": [
+          "Elsevier BV"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Journal of Systems and Software",
+      "raw_type": "journal-article"
+    }
+  ],
+  "best_oa_location": null,
+  "sustainable_development_goals": [],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "pdf": false,
+    "grobid_xml": false
+  },
+  "referenced_works_count": 293,
+  "referenced_works": [
+    "https://openalex.org/W6630198464",
+    "https://openalex.org/W6642578754",
+    "https://openalex.org/W2945440850",
+    "https://openalex.org/W6752580549",
+    "https://openalex.org/W6652822774",
+    "https://openalex.org/W6692071231",
+    "https://openalex.org/W6754601402",
+    "https://openalex.org/W6750365960",
+    "https://openalex.org/W6803234379",
+    "https://openalex.org/W6772828302",
+    "https://openalex.org/W649920412",
+    "https://openalex.org/W2608628736",
+    "https://openalex.org/W6848393650",
+    "https://openalex.org/W6688061097",
+    "https://openalex.org/W2908058835",
+    "https://openalex.org/W2114210089",
+    "https://openalex.org/W6683347645",
+    "https://openalex.org/W2128888088",
+    "https://openalex.org/W2068926222",
+    "https://openalex.org/W6649429904",
+    "https://openalex.org/W6761011094",
+    "https://openalex.org/W6786894532",
+    "https://openalex.org/W6677899126",
+    "https://openalex.org/W4236036072",
+    "https://openalex.org/W6775264619",
+    "https://openalex.org/W6846484537",
+    "https://openalex.org/W2763000180",
+    "https://openalex.org/W6672215119",
+    "https://openalex.org/W2248270447",
+    "https://openalex.org/W4293294987",
+    "https://openalex.org/W2002046433",
+    "https://openalex.org/W6848372799",
+    "https://openalex.org/W6683955809",
+    "https://openalex.org/W2121412398",
+    "https://openalex.org/W6629824143",
+    "https://openalex.org/W2157355837",
+    "https://openalex.org/W6755207826",
+    "https://openalex.org/W3119696503",
+    "https://openalex.org/W6781652609",
+    "https://openalex.org/W6678850886",
+    "https://openalex.org/W2152311353",
+    "https://openalex.org/W2155056246",
+    "https://openalex.org/W4366990909",
+    "https://openalex.org/W2171168235",
+    "https://openalex.org/W1964788505",
+    "https://openalex.org/W6780972537",
+    "https://openalex.org/W3034060521",
+    "https://openalex.org/W6691684964",
+    "https://openalex.org/W2980420460",
+    "https://openalex.org/W6648190053",
+    "https://openalex.org/W6678413391",
+    "https://openalex.org/W6771452308",
+    "https://openalex.org/W6674038570",
+    "https://openalex.org/W6802905623",
+    "https://openalex.org/W2891332953",
+    "https://openalex.org/W6677597138",
+    "https://openalex.org/W6730267373",
+    "https://openalex.org/W3167489172",
+    "https://openalex.org/W6680772725",
+    "https://openalex.org/W6649891986",
+    "https://openalex.org/W6665411721",
+    "https://openalex.org/W6684629055",
+    "https://openalex.org/W6848890064",
+    "https://openalex.org/W3045279034",
+    "https://openalex.org/W6775497109",
+    "https://openalex.org/W6772702157",
+    "https://openalex.org/W2128782367",
+    "https://openalex.org/W6847372034",
+    "https://openalex.org/W6793751233",
+    "https://openalex.org/W6679116578",
+    "https://openalex.org/W6683273812",
+    "https://openalex.org/W6753757730",
+    "https://openalex.org/W6634074730",
+    "https://openalex.org/W2138756793",
+    "https://openalex.org/W4308041401",
+    "https://openalex.org/W6648837099",
+    "https://openalex.org/W6724892881",
+    "https://openalex.org/W6658584374",
+    "https://openalex.org/W6669584583",
+    "https://openalex.org/W2030841479",
+    "https://openalex.org/W6684079871",
+    "https://openalex.org/W6674280333",
+    "https://openalex.org/W4312691425",
+    "https://openalex.org/W6772490713",
+    "https://openalex.org/W6679832606",
+    "https://openalex.org/W6796182154",
+    "https://openalex.org/W6678812210",
+    "https://openalex.org/W6738188941",
+    "https://openalex.org/W2585429507",
+    "https://openalex.org/W3212083716",
+    "https://openalex.org/W6849024852",
+    "https://openalex.org/W6681522297",
+    "https://openalex.org/W6745765535",
+    "https://openalex.org/W2942259124",
+    "https://openalex.org/W2903211944",
+    "https://openalex.org/W2104301886",
+    "https://openalex.org/W6847072755",
+    "https://openalex.org/W6775685834",
+    "https://openalex.org/W6810172326",
+    "https://openalex.org/W2969368867",
+    "https://openalex.org/W2973171853",
+    "https://openalex.org/W2762844179",
+    "https://openalex.org/W2933919840",
+    "https://openalex.org/W6676494790",
+    "https://openalex.org/W6792806802",
+    "https://openalex.org/W3196001856",
+    "https://openalex.org/W6761227739",
+    "https://openalex.org/W6691497000",
+    "https://openalex.org/W6749240847",
+    "https://openalex.org/W3037227438",
+    "https://openalex.org/W6766947956",
+    "https://openalex.org/W6695202613",
+    "https://openalex.org/W6657546061",
+    "https://openalex.org/W6642358148",
+    "https://openalex.org/W6662908245",
+    "https://openalex.org/W6772751014",
+    "https://openalex.org/W2994210939",
+    "https://openalex.org/W6752304600",
+    "https://openalex.org/W6795390182",
+    "https://openalex.org/W2945111072",
+    "https://openalex.org/W2605284977",
+    "https://openalex.org/W2974404997",
+    "https://openalex.org/W6847150090",
+    "https://openalex.org/W6675354045",
+    "https://openalex.org/W6765181016",
+    "https://openalex.org/W6681648988",
+    "https://openalex.org/W2889431651",
+    "https://openalex.org/W6735849945",
+    "https://openalex.org/W2919074952",
+    "https://openalex.org/W2766078762",
+    "https://openalex.org/W6749960619",
+    "https://openalex.org/W6646764913",
+    "https://openalex.org/W6769003611",
+    "https://openalex.org/W6672431813",
+    "https://openalex.org/W3035521622",
+    "https://openalex.org/W2783465544",
+    "https://openalex.org/W6678815833",
+    "https://openalex.org/W6684213578",
+    "https://openalex.org/W6674913680",
+    "https://openalex.org/W6647604390",
+    "https://openalex.org/W6660371724",
+    "https://openalex.org/W6786078304",
+    "https://openalex.org/W6697305867",
+    "https://openalex.org/W6695698593",
+    "https://openalex.org/W2165612380",
+    "https://openalex.org/W6805858488",
+    "https://openalex.org/W6848548832",
+    "https://openalex.org/W6722620913",
+    "https://openalex.org/W2740924709",
+    "https://openalex.org/W6685062819",
+    "https://openalex.org/W3039357523",
+    "https://openalex.org/W6732637858",
+    "https://openalex.org/W6795468493",
+    "https://openalex.org/W2087064593",
+    "https://openalex.org/W6729108993",
+    "https://openalex.org/W6719208688",
+    "https://openalex.org/W6736741754",
+    "https://openalex.org/W2943808998",
+    "https://openalex.org/W2065053490",
+    "https://openalex.org/W6683154609",
+    "https://openalex.org/W6731825365",
+    "https://openalex.org/W6750428372",
+    "https://openalex.org/W6699128831",
+    "https://openalex.org/W2497508572",
+    "https://openalex.org/W2334263127",
+    "https://openalex.org/W2066455950",
+    "https://openalex.org/W2883359218",
+    "https://openalex.org/W6767112994",
+    "https://openalex.org/W6749805367",
+    "https://openalex.org/W6767125240",
+    "https://openalex.org/W6750182747",
+    "https://openalex.org/W4317214516",
+    "https://openalex.org/W6772831706",
+    "https://openalex.org/W6980476409",
+    "https://openalex.org/W1977328072",
+    "https://openalex.org/W6749037334",
+    "https://openalex.org/W6742446935",
+    "https://openalex.org/W4312715646",
+    "https://openalex.org/W6740982303",
+    "https://openalex.org/W6725533135",
+    "https://openalex.org/W6644111349",
+    "https://openalex.org/W2343875716",
+    "https://openalex.org/W6848478344",
+    "https://openalex.org/W3004750786",
+    "https://openalex.org/W6770308262",
+    "https://openalex.org/W4254829975",
+    "https://openalex.org/W6752959648",
+    "https://openalex.org/W6773948044",
+    "https://openalex.org/W6765997731",
+    "https://openalex.org/W4283737339",
+    "https://openalex.org/W4220864612",
+    "https://openalex.org/W6775910437",
+    "https://openalex.org/W2895446601",
+    "https://openalex.org/W6803207352",
+    "https://openalex.org/W4292845462",
+    "https://openalex.org/W4376505268",
+    "https://openalex.org/W2972009176",
+    "https://openalex.org/W4309023067",
+    "https://openalex.org/W6808761142",
+    "https://openalex.org/W6794725945",
+    "https://openalex.org/W6765403341",
+    "https://openalex.org/W6756187379",
+    "https://openalex.org/W3125675786",
+    "https://openalex.org/W2912378279",
+    "https://openalex.org/W2519927870",
+    "https://openalex.org/W2527676730",
+    "https://openalex.org/W3146067800",
+    "https://openalex.org/W2911468826",
+    "https://openalex.org/W4250702372",
+    "https://openalex.org/W2146659255",
+    "https://openalex.org/W2912296587",
+    "https://openalex.org/W3208407575",
+    "https://openalex.org/W4249138131",
+    "https://openalex.org/W2617837836",
+    "https://openalex.org/W2085170922",
+    "https://openalex.org/W4312360939",
+    "https://openalex.org/W2914584698",
+    "https://openalex.org/W80602356",
+    "https://openalex.org/W2397779397",
+    "https://openalex.org/W2589638126",
+    "https://openalex.org/W4210915649",
+    "https://openalex.org/W2101234009",
+    "https://openalex.org/W182831726",
+    "https://openalex.org/W4247363302",
+    "https://openalex.org/W4286683797",
+    "https://openalex.org/W2912447136",
+    "https://openalex.org/W3119507053",
+    "https://openalex.org/W129920723",
+    "https://openalex.org/W2188103717",
+    "https://openalex.org/W3081864511",
+    "https://openalex.org/W4300952958",
+    "https://openalex.org/W1502816089",
+    "https://openalex.org/W3126675481",
+    "https://openalex.org/W4309486433",
+    "https://openalex.org/W4210636110",
+    "https://openalex.org/W4312128118",
+    "https://openalex.org/W4244794002",
+    "https://openalex.org/W4236171111",
+    "https://openalex.org/W4321359614",
+    "https://openalex.org/W3048481822",
+    "https://openalex.org/W4240935049",
+    "https://openalex.org/W4294170691",
+    "https://openalex.org/W4254296762",
+    "https://openalex.org/W4300579240",
+    "https://openalex.org/W2099352317",
+    "https://openalex.org/W1526715104",
+    "https://openalex.org/W1593203335",
+    "https://openalex.org/W4287328196",
+    "https://openalex.org/W3080427797",
+    "https://openalex.org/W2913593077",
+    "https://openalex.org/W3182416336",
+    "https://openalex.org/W2787379525",
+    "https://openalex.org/W3202575347",
+    "https://openalex.org/W4255462762",
+    "https://openalex.org/W3208869604",
+    "https://openalex.org/W4255973387",
+    "https://openalex.org/W1500382227",
+    "https://openalex.org/W4214512383",
+    "https://openalex.org/W2793475882",
+    "https://openalex.org/W4253752119",
+    "https://openalex.org/W2298313545",
+    "https://openalex.org/W4226492587",
+    "https://openalex.org/W3163762283",
+    "https://openalex.org/W1607163165",
+    "https://openalex.org/W4308842416",
+    "https://openalex.org/W4287727682",
+    "https://openalex.org/W2997998108",
+    "https://openalex.org/W4212909508",
+    "https://openalex.org/W2724243072",
+    "https://openalex.org/W2614670623",
+    "https://openalex.org/W89527454",
+    "https://openalex.org/W4252468445",
+    "https://openalex.org/W4298375254",
+    "https://openalex.org/W4237541904",
+    "https://openalex.org/W4250492162",
+    "https://openalex.org/W4230157116",
+    "https://openalex.org/W4285263385",
+    "https://openalex.org/W2911270308",
+    "https://openalex.org/W4248813531",
+    "https://openalex.org/W2912567338",
+    "https://openalex.org/W4239525289",
+    "https://openalex.org/W3115871478",
+    "https://openalex.org/W2621112123",
+    "https://openalex.org/W2935992752",
+    "https://openalex.org/W2976711440",
+    "https://openalex.org/W4299873797",
+    "https://openalex.org/W4247610018",
+    "https://openalex.org/W4249004104",
+    "https://openalex.org/W2911282308",
+    "https://openalex.org/W2914675182",
+    "https://openalex.org/W3162458462",
+    "https://openalex.org/W2561848204",
+    "https://openalex.org/W2108565320"
+  ],
+  "related_works": [
+    "https://openalex.org/W2969257295",
+    "https://openalex.org/W3006945192",
+    "https://openalex.org/W2904997879",
+    "https://openalex.org/W3049398420",
+    "https://openalex.org/W1976804602",
+    "https://openalex.org/W2390554102",
+    "https://openalex.org/W2909969119",
+    "https://openalex.org/W2316077753",
+    "https://openalex.org/W656101134",
+    "https://openalex.org/W3135060008"
+  ],
+  "abstract_inverted_index": null,
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 27
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 22
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 4
+    }
+  ],
+  "updated_date": "2025-11-06T03:46:38.306776",
+  "created_date": "2025-10-10T00:00:00"
+}

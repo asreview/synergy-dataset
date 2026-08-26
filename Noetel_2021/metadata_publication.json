@@ -1,0 +1,1111 @@
+{
+  "id": "https://openalex.org/W3210645082",
+  "doi": "https://doi.org/10.3102/00346543211052329",
+  "title": "Multimedia Design for Learning: An Overview of Reviews With Meta-Meta-Analysis",
+  "display_name": "Multimedia Design for Learning: An Overview of Reviews With Meta-Meta-Analysis",
+  "publication_year": 2021,
+  "publication_date": "2021-10-23",
+  "ids": {
+    "openalex": "https://openalex.org/W3210645082",
+    "doi": "https://doi.org/10.3102/00346543211052329",
+    "mag": "3210645082"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.3102/00346543211052329",
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.3102/00346543211052329",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S92895470",
+      "display_name": "Review of Educational Research",
+      "issn_l": "0034-6543",
+      "issn": [
+        "0034-6543",
+        "1935-1046"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320017",
+      "host_organization_name": "SAGE Publishing",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320017"
+      ],
+      "host_organization_lineage_names": [
+        "SAGE Publishing"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Review of Educational Research",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5007461913",
+        "display_name": "Michael Noetel",
+        "orcid": "https://orcid.org/0000-0002-6563-8203"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Michael Noetel",
+      "raw_affiliation_strings": [],
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5020114076",
+        "display_name": "Shantell Griffith",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I86695891",
+          "display_name": "Australian Catholic University",
+          "ror": "https://ror.org/04cxm4j25",
+          "country_code": "AU",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I86695891"
+          ]
+        }
+      ],
+      "countries": [
+        "AU"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Shantell Griffith",
+      "raw_affiliation_strings": [
+        "Australian Catholic University"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Australian Catholic University",
+          "institution_ids": [
+            "https://openalex.org/I86695891"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5060477279",
+        "display_name": "Oscar Delaney",
+        "orcid": "https://orcid.org/0000-0002-8792-0744"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Oscar Delaney",
+      "raw_affiliation_strings": [],
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5022652228",
+        "display_name": "Nicola Rose Harris",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I165143802",
+          "display_name": "The University of Queensland",
+          "ror": "https://ror.org/00rqy9422",
+          "country_code": "AU",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I165143802"
+          ]
+        }
+      ],
+      "countries": [
+        "AU"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Nicola Rose Harris",
+      "raw_affiliation_strings": [
+        "University of Queensland"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "University of Queensland",
+          "institution_ids": [
+            "https://openalex.org/I165143802"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5080794835",
+        "display_name": "Taren Sanders",
+        "orcid": "https://orcid.org/0000-0002-4504-6008"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Taren Sanders",
+      "raw_affiliation_strings": [],
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5027472539",
+        "display_name": "Philip D. Parker",
+        "orcid": "https://orcid.org/0000-0002-4604-8566"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I86695891",
+          "display_name": "Australian Catholic University",
+          "ror": "https://ror.org/04cxm4j25",
+          "country_code": "AU",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I86695891"
+          ]
+        }
+      ],
+      "countries": [
+        "AU"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Philip Parker",
+      "raw_affiliation_strings": [
+        "Australian Catholic University"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Australian Catholic University",
+          "institution_ids": [
+            "https://openalex.org/I86695891"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5017937142",
+        "display_name": "Borja del Pozo Cruz",
+        "orcid": "https://orcid.org/0000-0002-9728-1317"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I177969490",
+          "display_name": "University of Southern Denmark",
+          "ror": "https://ror.org/03yrrjy16",
+          "country_code": "DK",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I177969490"
+          ]
+        }
+      ],
+      "countries": [
+        "DK"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Borja del Pozo Cruz",
+      "raw_affiliation_strings": [
+        "University of Southern Denmark"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "University of Southern Denmark",
+          "institution_ids": [
+            "https://openalex.org/I177969490"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5059761462",
+        "display_name": "Chris Lonsdale",
+        "orcid": "https://orcid.org/0000-0002-2523-5565"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I86695891",
+          "display_name": "Australian Catholic University",
+          "ror": "https://ror.org/04cxm4j25",
+          "country_code": "AU",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I86695891"
+          ]
+        }
+      ],
+      "countries": [
+        "AU"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Chris Lonsdale",
+      "raw_affiliation_strings": [
+        "Australian Catholic University"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Australian Catholic University",
+          "institution_ids": [
+            "https://openalex.org/I86695891"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 2,
+  "institutions_distinct_count": 8,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 12.80427713,
+  "has_fulltext": false,
+  "cited_by_count": 99,
+  "citation_normalized_percentile": {
+    "value": 0.98931944,
+    "is_in_top_1_percent": true,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 93,
+    "max": 100
+  },
+  "biblio": {
+    "volume": "92",
+    "issue": "3",
+    "first_page": "413",
+    "last_page": "454"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T11516",
+    "display_name": "Visual and Cognitive Learning Processes",
+    "score": 0.9998000264167786,
+    "subfield": {
+      "id": "https://openalex.org/subfields/3205",
+      "display_name": "Experimental and Cognitive Psychology"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/32",
+      "display_name": "Psychology"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/2",
+      "display_name": "Social Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T11516",
+      "display_name": "Visual and Cognitive Learning Processes",
+      "score": 0.9998000264167786,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3205",
+        "display_name": "Experimental and Cognitive Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13310",
+      "display_name": "Subtitles and Audiovisual Media",
+      "score": 0.9648000001907349,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1203",
+        "display_name": "Language and Linguistics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/12",
+        "display_name": "Arts and Humanities"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10648",
+      "display_name": "Virtual Reality Applications and Impacts",
+      "score": 0.9354000091552734,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1709",
+        "display_name": "Human-Computer Interaction"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/computer-science",
+      "display_name": "Computer science",
+      "score": 0.6430808901786804
+    },
+    {
+      "id": "https://openalex.org/keywords/cognitive-load",
+      "display_name": "Cognitive load",
+      "score": 0.5983071327209473
+    },
+    {
+      "id": "https://openalex.org/keywords/personalization",
+      "display_name": "Personalization",
+      "score": 0.5895451307296753
+    },
+    {
+      "id": "https://openalex.org/keywords/multimedia",
+      "display_name": "Multimedia",
+      "score": 0.5772775411605835
+    },
+    {
+      "id": "https://openalex.org/keywords/animation",
+      "display_name": "Animation",
+      "score": 0.5559355616569519
+    },
+    {
+      "id": "https://openalex.org/keywords/cognition",
+      "display_name": "Cognition",
+      "score": 0.5171286463737488
+    },
+    {
+      "id": "https://openalex.org/keywords/instructional-design",
+      "display_name": "Instructional design",
+      "score": 0.4507191777229309
+    },
+    {
+      "id": "https://openalex.org/keywords/contiguity",
+      "display_name": "Contiguity",
+      "score": 0.4323793351650238
+    },
+    {
+      "id": "https://openalex.org/keywords/psychology",
+      "display_name": "Psychology",
+      "score": 0.25555551052093506
+    },
+    {
+      "id": "https://openalex.org/keywords/world-wide-web",
+      "display_name": "World Wide Web",
+      "score": 0.13183283805847168
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.6430808901786804
+    },
+    {
+      "id": "https://openalex.org/C61641136",
+      "wikidata": "https://www.wikidata.org/wiki/Q1107019",
+      "display_name": "Cognitive load",
+      "level": 3,
+      "score": 0.5983071327209473
+    },
+    {
+      "id": "https://openalex.org/C183003079",
+      "wikidata": "https://www.wikidata.org/wiki/Q1000371",
+      "display_name": "Personalization",
+      "level": 2,
+      "score": 0.5895451307296753
+    },
+    {
+      "id": "https://openalex.org/C49774154",
+      "wikidata": "https://www.wikidata.org/wiki/Q131765",
+      "display_name": "Multimedia",
+      "level": 1,
+      "score": 0.5772775411605835
+    },
+    {
+      "id": "https://openalex.org/C502989409",
+      "wikidata": "https://www.wikidata.org/wiki/Q11425",
+      "display_name": "Animation",
+      "level": 2,
+      "score": 0.5559355616569519
+    },
+    {
+      "id": "https://openalex.org/C169900460",
+      "wikidata": "https://www.wikidata.org/wiki/Q2200417",
+      "display_name": "Cognition",
+      "level": 2,
+      "score": 0.5171286463737488
+    },
+    {
+      "id": "https://openalex.org/C159456220",
+      "wikidata": "https://www.wikidata.org/wiki/Q667334",
+      "display_name": "Instructional design",
+      "level": 2,
+      "score": 0.4507191777229309
+    },
+    {
+      "id": "https://openalex.org/C68767595",
+      "wikidata": "https://www.wikidata.org/wiki/Q1677999",
+      "display_name": "Contiguity",
+      "level": 2,
+      "score": 0.4323793351650238
+    },
+    {
+      "id": "https://openalex.org/C15744967",
+      "wikidata": "https://www.wikidata.org/wiki/Q9418",
+      "display_name": "Psychology",
+      "level": 0,
+      "score": 0.25555551052093506
+    },
+    {
+      "id": "https://openalex.org/C136764020",
+      "wikidata": "https://www.wikidata.org/wiki/Q466",
+      "display_name": "World Wide Web",
+      "level": 1,
+      "score": 0.13183283805847168
+    },
+    {
+      "id": "https://openalex.org/C111919701",
+      "wikidata": "https://www.wikidata.org/wiki/Q9135",
+      "display_name": "Operating system",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C169760540",
+      "wikidata": "https://www.wikidata.org/wiki/Q207011",
+      "display_name": "Neuroscience",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C121684516",
+      "wikidata": "https://www.wikidata.org/wiki/Q7600677",
+      "display_name": "Computer graphics (images)",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "id": "doi:10.3102/00346543211052329",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.3102/00346543211052329",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S92895470",
+        "display_name": "Review of Educational Research",
+        "issn_l": "0034-6543",
+        "issn": [
+          "0034-6543",
+          "1935-1046"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320017",
+        "host_organization_name": "SAGE Publishing",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320017"
+        ],
+        "host_organization_lineage_names": [
+          "SAGE Publishing"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Review of Educational Research",
+      "raw_type": "journal-article"
+    }
+  ],
+  "best_oa_location": null,
+  "sustainable_development_goals": [
+    {
+      "display_name": "Quality Education",
+      "score": 0.7599999904632568,
+      "id": "https://metadata.un.org/sdg/4"
+    }
+  ],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "pdf": false,
+    "grobid_xml": false
+  },
+  "referenced_works_count": 85,
+  "referenced_works": [
+    "https://openalex.org/W2008936954",
+    "https://openalex.org/W2810989163",
+    "https://openalex.org/W3003387127",
+    "https://openalex.org/W3007075357",
+    "https://openalex.org/W2590206292",
+    "https://openalex.org/W2444484626",
+    "https://openalex.org/W2886548070",
+    "https://openalex.org/W2465495957",
+    "https://openalex.org/W2894246262",
+    "https://openalex.org/W2069978343",
+    "https://openalex.org/W3118483287",
+    "https://openalex.org/W3049664420",
+    "https://openalex.org/W2092031873",
+    "https://openalex.org/W2122962297",
+    "https://openalex.org/W2463079125",
+    "https://openalex.org/W2808948171",
+    "https://openalex.org/W2895742152",
+    "https://openalex.org/W2944339144",
+    "https://openalex.org/W2137841856",
+    "https://openalex.org/W2094955066",
+    "https://openalex.org/W2024845009",
+    "https://openalex.org/W2079283960",
+    "https://openalex.org/W6683065801",
+    "https://openalex.org/W4235715501",
+    "https://openalex.org/W2059527510",
+    "https://openalex.org/W2168599342",
+    "https://openalex.org/W2996727926",
+    "https://openalex.org/W2960111352",
+    "https://openalex.org/W6633228102",
+    "https://openalex.org/W2567362164",
+    "https://openalex.org/W3030070248",
+    "https://openalex.org/W2022337779",
+    "https://openalex.org/W2055846787",
+    "https://openalex.org/W2055556052",
+    "https://openalex.org/W1988051129",
+    "https://openalex.org/W2501325537",
+    "https://openalex.org/W4242951470",
+    "https://openalex.org/W106736675",
+    "https://openalex.org/W2164236274",
+    "https://openalex.org/W2273590095",
+    "https://openalex.org/W1971568690",
+    "https://openalex.org/W2935844646",
+    "https://openalex.org/W2025097991",
+    "https://openalex.org/W2950158579",
+    "https://openalex.org/W4250922876",
+    "https://openalex.org/W2000885037",
+    "https://openalex.org/W123423841",
+    "https://openalex.org/W2554874129",
+    "https://openalex.org/W2016397269",
+    "https://openalex.org/W2010912952",
+    "https://openalex.org/W2152379890",
+    "https://openalex.org/W3130131183",
+    "https://openalex.org/W3126226315",
+    "https://openalex.org/W2976179866",
+    "https://openalex.org/W2902833505",
+    "https://openalex.org/W1541659199",
+    "https://openalex.org/W1561556558",
+    "https://openalex.org/W1984227901",
+    "https://openalex.org/W2069227682",
+    "https://openalex.org/W2906980130",
+    "https://openalex.org/W2213284889",
+    "https://openalex.org/W1984888414",
+    "https://openalex.org/W3038398466",
+    "https://openalex.org/W3123437366",
+    "https://openalex.org/W2600289216",
+    "https://openalex.org/W2770853336",
+    "https://openalex.org/W2035901571",
+    "https://openalex.org/W2100242321",
+    "https://openalex.org/W2794691683",
+    "https://openalex.org/W2945435832",
+    "https://openalex.org/W2756578555",
+    "https://openalex.org/W2762364541",
+    "https://openalex.org/W2111011000",
+    "https://openalex.org/W2161307025",
+    "https://openalex.org/W2970684805",
+    "https://openalex.org/W3007403454",
+    "https://openalex.org/W2040127838",
+    "https://openalex.org/W2913144876",
+    "https://openalex.org/W2096036274",
+    "https://openalex.org/W3120355807",
+    "https://openalex.org/W2001619142",
+    "https://openalex.org/W2131057562",
+    "https://openalex.org/W2100053037",
+    "https://openalex.org/W2573960464",
+    "https://openalex.org/W2751531535"
+  ],
+  "related_works": [
+    "https://openalex.org/W2085498352",
+    "https://openalex.org/W2469797624",
+    "https://openalex.org/W2092518157",
+    "https://openalex.org/W182477923",
+    "https://openalex.org/W2916937451",
+    "https://openalex.org/W1508943544",
+    "https://openalex.org/W2910271335",
+    "https://openalex.org/W2521060844",
+    "https://openalex.org/W2908390160",
+    "https://openalex.org/W3134782389"
+  ],
+  "abstract_inverted_index": {
+    "Multimedia": [
+      0
+    ],
+    "is": [
+      1
+    ],
+    "ubiquitous": [
+      2
+    ],
+    "in": [
+      3,
+      140
+    ],
+    "21st-century": [
+      4
+    ],
+    "education.": [
+      5
+    ],
+    "Cognitive": [
+      6
+    ],
+    "load": [
+      7
+    ],
+    "theory": [
+      8,
+      12
+    ],
+    "and": [
+      9,
+      36,
+      73,
+      89,
+      108,
+      126,
+      139
+    ],
+    "the": [
+      10,
+      19,
+      56
+    ],
+    "cognitive": [
+      11,
+      64,
+      96
+    ],
+    "of": [
+      13,
+      21,
+      51,
+      58,
+      95,
+      154,
+      161
+    ],
+    "multimedia": [
+      14,
+      22,
+      35,
+      59
+    ],
+    "learning": [
+      15,
+      41,
+      62,
+      88
+    ],
+    "both": [
+      16,
+      155
+    ],
+    "postulate": [
+      17
+    ],
+    "that": [
+      18,
+      54,
+      81,
+      91,
+      164
+    ],
+    "quality": [
+      20
+    ],
+    "design": [
+      23,
+      34,
+      60,
+      79,
+      131
+    ],
+    "heavily": [
+      24
+    ],
+    "influences": [
+      25
+    ],
+    "learning.": [
+      26
+    ],
+    "We": [
+      27,
+      47,
+      66,
+      76,
+      110,
+      157
+    ],
+    "sought": [
+      28
+    ],
+    "to": [
+      29,
+      32,
+      45
+    ],
+    "identify": [
+      30
+    ],
+    "how": [
+      31,
+      38
+    ],
+    "best": [
+      33
+    ],
+    "review": [
+      37
+    ],
+    "well": [
+      39
+    ],
+    "those": [
+      40
+    ],
+    "theories": [
+      42
+    ],
+    "held": [
+      43
+    ],
+    "up": [
+      44
+    ],
+    "meta-analyses.": [
+      46
+    ],
+    "conducted": [
+      48
+    ],
+    "an": [
+      49
+    ],
+    "overview": [
+      50
+    ],
+    "systematic": [
+      52
+    ],
+    "reviews": [
+      53,
+      69
+    ],
+    "tested": [
+      55
+    ],
+    "effects": [
+      57,
+      86
+    ],
+    "on": [
+      61,
+      87
+    ],
+    "or": [
+      63
+    ],
+    "load.": [
+      65,
+      97
+    ],
+    "found": [
+      67,
+      77,
+      112
+    ],
+    "29": [
+      68
+    ],
+    "including": [
+      70
+    ],
+    "1,189": [
+      71
+    ],
+    "studies": [
+      72
+    ],
+    "78,177": [
+      74
+    ],
+    "participants.": [
+      75
+    ],
+    "11": [
+      78
+    ],
+    "principles": [
+      80
+    ],
+    "demonstrated": [
+      82
+    ],
+    "significant,": [
+      83
+    ],
+    "positive,": [
+      84
+    ],
+    "meta-analytic": [
+      85
+    ],
+    "five": [
+      90
+    ],
+    "significantly": [
+      92
+    ],
+    "improved": [
+      93
+    ],
+    "management": [
+      94
+    ],
+    "The": [
+      98
+    ],
+    "largest": [
+      99
+    ],
+    "benefits": [
+      100
+    ],
+    "were": [
+      101
+    ],
+    "for": [
+      102,
+      115,
+      135
+    ],
+    "captioning": [
+      103
+    ],
+    "second-language": [
+      104
+    ],
+    "videos,": [
+      105
+    ],
+    "temporal/spatial": [
+      106
+    ],
+    "contiguity,": [
+      107
+    ],
+    "signaling.": [
+      109
+    ],
+    "also": [
+      111
+    ],
+    "robust": [
+      113
+    ],
+    "evidence": [
+      114
+    ],
+    "modality,": [
+      116
+    ],
+    "animation,": [
+      117
+    ],
+    "coherence/removing": [
+      118
+    ],
+    "seductive": [
+      119
+    ],
+    "details,": [
+      120
+    ],
+    "anthropomorphics,": [
+      121
+    ],
+    "segmentation,": [
+      122
+    ],
+    "personalization,": [
+      123
+    ],
+    "pedagogical": [
+      124
+    ],
+    "agents,": [
+      125
+    ],
+    "verbal": [
+      127
+    ],
+    "redundancy": [
+      128
+    ],
+    "effects.": [
+      129
+    ],
+    "Good": [
+      130
+    ],
+    "was": [
+      132
+    ],
+    "more": [
+      133,
+      136
+    ],
+    "important": [
+      134
+    ],
+    "complex": [
+      137
+    ],
+    "materials,": [
+      138
+    ],
+    "system-paced": [
+      141
+    ],
+    "environments": [
+      142
+    ],
+    "(e.g.,": [
+      143,
+      148
+    ],
+    "lectures)": [
+      144
+    ],
+    "than": [
+      145
+    ],
+    "self-paced": [
+      146
+    ],
+    "ones": [
+      147
+    ],
+    "websites).": [
+      149
+    ],
+    "Results": [
+      150
+    ],
+    "supported": [
+      151
+    ],
+    "many": [
+      152
+    ],
+    "tenets": [
+      153
+    ],
+    "theories.": [
+      156
+    ],
+    "highlight": [
+      158
+    ],
+    "a": [
+      159
+    ],
+    "range": [
+      160
+    ],
+    "evidence-based": [
+      162
+    ],
+    "strategies": [
+      163
+    ],
+    "could": [
+      165
+    ],
+    "be": [
+      166
+    ],
+    "implemented": [
+      167
+    ],
+    "by": [
+      168
+    ],
+    "educators.": [
+      169
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 36
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 34
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 21
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 6
+    },
+    {
+      "year": 2021,
+      "cited_by_count": 2
+    }
+  ],
+  "updated_date": "2025-11-25T14:43:58.451035",
+  "created_date": "2025-10-10T00:00:00"
+}

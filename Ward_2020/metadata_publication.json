@@ -1,0 +1,1299 @@
+{
+  "id": "https://openalex.org/W3111107409",
+  "doi": "https://doi.org/10.1177/1087054720972801",
+  "title": "The Effects of ADHD Teacher Training Programs on Teachers and Pupils: A Systematic Review and Meta-Analysis",
+  "display_name": "The Effects of ADHD Teacher Training Programs on Teachers and Pupils: A Systematic Review and Meta-Analysis",
+  "publication_year": 2020,
+  "publication_date": "2020-12-17",
+  "ids": {
+    "openalex": "https://openalex.org/W3111107409",
+    "doi": "https://doi.org/10.1177/1087054720972801",
+    "mag": "3111107409",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/33331193"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1177/1087054720972801",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1177/1087054720972801",
+    "pdf_url": "https://journals.sagepub.com/doi/pdf/10.1177/1087054720972801",
+    "source": {
+      "id": "https://openalex.org/S4019948",
+      "display_name": "Journal of Attention Disorders",
+      "issn_l": "1087-0547",
+      "issn": [
+        "1087-0547",
+        "1557-1246"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320017",
+      "host_organization_name": "SAGE Publishing",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320017"
+      ],
+      "host_organization_lineage_names": [
+        "SAGE Publishing"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Journal of Attention Disorders",
+    "raw_type": "journal-article"
+  },
+  "type": "review",
+  "indexed_in": [
+    "crossref",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "hybrid",
+    "oa_url": "https://journals.sagepub.com/doi/pdf/10.1177/1087054720972801",
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5029256674",
+        "display_name": "Rebecca J. Ward",
+        "orcid": "https://orcid.org/0000-0001-7703-8670"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I43439940",
+          "display_name": "University of Southampton",
+          "ror": "https://ror.org/01ryk1543",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I43439940"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Rebecca J. Ward",
+      "raw_affiliation_strings": [
+        "University of Southampton, Southampton, Hampshire, UK"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "University of Southampton, Southampton, Hampshire, UK",
+          "institution_ids": [
+            "https://openalex.org/I43439940"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5001157881",
+        "display_name": "Sarah J. Bristow",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I43439940",
+          "display_name": "University of Southampton",
+          "ror": "https://ror.org/01ryk1543",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I43439940"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Sarah J. Bristow",
+      "raw_affiliation_strings": [
+        "University of Southampton, Southampton, Hampshire, UK"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "University of Southampton, Southampton, Hampshire, UK",
+          "institution_ids": [
+            "https://openalex.org/I43439940"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5032927992",
+        "display_name": "Hanna Kovshoff",
+        "orcid": "https://orcid.org/0000-0001-6041-0376"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I43439940",
+          "display_name": "University of Southampton",
+          "ror": "https://ror.org/01ryk1543",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I43439940"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Hanna Kovshoff",
+      "raw_affiliation_strings": [
+        "University of Southampton, Southampton, Hampshire, UK"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "University of Southampton, Southampton, Hampshire, UK",
+          "institution_ids": [
+            "https://openalex.org/I43439940"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5009229124",
+        "display_name": "Samuele Cortese",
+        "orcid": "https://orcid.org/0000-0001-5877-8075"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2800602287",
+          "display_name": "Solent NHS Trust",
+          "ror": "https://ror.org/04fsd0842",
+          "country_code": "GB",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2800602287"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I142263535",
+          "display_name": "University of Nottingham",
+          "ror": "https://ror.org/01ee9ar58",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I142263535"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I43439940",
+          "display_name": "University of Southampton",
+          "ror": "https://ror.org/01ryk1543",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I43439940"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I57206974",
+          "display_name": "New York University",
+          "ror": "https://ror.org/0190ak572",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I57206974"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I121847817",
+          "display_name": "The Graduate Center, CUNY",
+          "ror": "https://ror.org/00awd9g61",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I121847817"
+          ]
+        }
+      ],
+      "countries": [
+        "GB",
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Samuele Cortese",
+      "raw_affiliation_strings": [
+        "New York University Child Study Center, New York, NY, USA",
+        "Solent NHS Trust, Southampton, UK",
+        "University of Nottingham, Nottingham, UK",
+        "University of Southampton, Southampton, Hampshire, UK"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "University of Southampton, Southampton, Hampshire, UK",
+          "institution_ids": [
+            "https://openalex.org/I43439940"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Solent NHS Trust, Southampton, UK",
+          "institution_ids": [
+            "https://openalex.org/I2800602287"
+          ]
+        },
+        {
+          "raw_affiliation_string": "University of Nottingham, Nottingham, UK",
+          "institution_ids": [
+            "https://openalex.org/I142263535"
+          ]
+        },
+        {
+          "raw_affiliation_string": "New York University Child Study Center, New York, NY, USA",
+          "institution_ids": [
+            "https://openalex.org/I121847817",
+            "https://openalex.org/I57206974"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5043187260",
+        "display_name": "Jana Kreppner",
+        "orcid": "https://orcid.org/0000-0003-3527-9083"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I43439940",
+          "display_name": "University of Southampton",
+          "ror": "https://ror.org/01ryk1543",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I43439940"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Jana Kreppner",
+      "raw_affiliation_strings": [
+        "University of Southampton, Southampton, Hampshire, UK"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "University of Southampton, Southampton, Hampshire, UK",
+          "institution_ids": [
+            "https://openalex.org/I43439940"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 2,
+  "institutions_distinct_count": 5,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5029256674"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I43439940"
+  ],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 4.06786088,
+  "has_fulltext": false,
+  "cited_by_count": 55,
+  "citation_normalized_percentile": {
+    "value": 0.93147183,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 96,
+    "max": 100
+  },
+  "biblio": {
+    "volume": "26",
+    "issue": "2",
+    "first_page": "225",
+    "last_page": "244"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10537",
+    "display_name": "Attention Deficit Hyperactivity Disorder",
+    "score": 0.9998999834060669,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2738",
+      "display_name": "Psychiatry and Mental health"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/27",
+      "display_name": "Medicine"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/4",
+      "display_name": "Health Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10537",
+      "display_name": "Attention Deficit Hyperactivity Disorder",
+      "score": 0.9998999834060669,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2738",
+        "display_name": "Psychiatry and Mental health"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12241",
+      "display_name": "Children's Physical and Motor Development",
+      "score": 0.9430999755859375,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3204",
+        "display_name": "Developmental and Educational Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10826",
+      "display_name": "Behavioral and Psychological Studies",
+      "score": 0.9344000220298767,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3204",
+        "display_name": "Developmental and Educational Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/meta-analysis",
+      "display_name": "Meta-analysis",
+      "score": 0.8617899417877197
+    },
+    {
+      "id": "https://openalex.org/keywords/psychology",
+      "display_name": "Psychology",
+      "score": 0.8023401498794556
+    },
+    {
+      "id": "https://openalex.org/keywords/strictly-standardized-mean-difference",
+      "display_name": "Strictly standardized mean difference",
+      "score": 0.6287013292312622
+    },
+    {
+      "id": "https://openalex.org/keywords/test",
+      "display_name": "Test (biology)",
+      "score": 0.5340254306793213
+    },
+    {
+      "id": "https://openalex.org/keywords/clinical-psychology",
+      "display_name": "Clinical psychology",
+      "score": 0.5151685476303101
+    },
+    {
+      "id": "https://openalex.org/keywords/psychological-intervention",
+      "display_name": "Psychological intervention",
+      "score": 0.513608455657959
+    },
+    {
+      "id": "https://openalex.org/keywords/confidence-interval",
+      "display_name": "Confidence interval",
+      "score": 0.4413456618785858
+    },
+    {
+      "id": "https://openalex.org/keywords/parent-training",
+      "display_name": "Parent training",
+      "score": 0.43794769048690796
+    },
+    {
+      "id": "https://openalex.org/keywords/developmental-psychology",
+      "display_name": "Developmental psychology",
+      "score": 0.35220569372177124
+    },
+    {
+      "id": "https://openalex.org/keywords/psychiatry",
+      "display_name": "Psychiatry",
+      "score": 0.1584336757659912
+    },
+    {
+      "id": "https://openalex.org/keywords/medicine",
+      "display_name": "Medicine",
+      "score": 0.13314056396484375
+    },
+    {
+      "id": "https://openalex.org/keywords/intervention",
+      "display_name": "Intervention (counseling)",
+      "score": 0.12757766246795654
+    },
+    {
+      "id": "https://openalex.org/keywords/internal-medicine",
+      "display_name": "Internal medicine",
+      "score": 0.07672098278999329
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C95190672",
+      "wikidata": "https://www.wikidata.org/wiki/Q815382",
+      "display_name": "Meta-analysis",
+      "level": 2,
+      "score": 0.8617899417877197
+    },
+    {
+      "id": "https://openalex.org/C15744967",
+      "wikidata": "https://www.wikidata.org/wiki/Q9418",
+      "display_name": "Psychology",
+      "level": 0,
+      "score": 0.8023401498794556
+    },
+    {
+      "id": "https://openalex.org/C28804328",
+      "wikidata": "https://www.wikidata.org/wiki/Q7623693",
+      "display_name": "Strictly standardized mean difference",
+      "level": 3,
+      "score": 0.6287013292312622
+    },
+    {
+      "id": "https://openalex.org/C2777267654",
+      "wikidata": "https://www.wikidata.org/wiki/Q3519023",
+      "display_name": "Test (biology)",
+      "level": 2,
+      "score": 0.5340254306793213
+    },
+    {
+      "id": "https://openalex.org/C70410870",
+      "wikidata": "https://www.wikidata.org/wiki/Q199906",
+      "display_name": "Clinical psychology",
+      "level": 1,
+      "score": 0.5151685476303101
+    },
+    {
+      "id": "https://openalex.org/C27415008",
+      "wikidata": "https://www.wikidata.org/wiki/Q7256382",
+      "display_name": "Psychological intervention",
+      "level": 2,
+      "score": 0.513608455657959
+    },
+    {
+      "id": "https://openalex.org/C44249647",
+      "wikidata": "https://www.wikidata.org/wiki/Q208498",
+      "display_name": "Confidence interval",
+      "level": 2,
+      "score": 0.4413456618785858
+    },
+    {
+      "id": "https://openalex.org/C3019428619",
+      "wikidata": "https://www.wikidata.org/wiki/Q7136757",
+      "display_name": "Parent training",
+      "level": 3,
+      "score": 0.43794769048690796
+    },
+    {
+      "id": "https://openalex.org/C138496976",
+      "wikidata": "https://www.wikidata.org/wiki/Q175002",
+      "display_name": "Developmental psychology",
+      "level": 1,
+      "score": 0.35220569372177124
+    },
+    {
+      "id": "https://openalex.org/C118552586",
+      "wikidata": "https://www.wikidata.org/wiki/Q7867",
+      "display_name": "Psychiatry",
+      "level": 1,
+      "score": 0.1584336757659912
+    },
+    {
+      "id": "https://openalex.org/C71924100",
+      "wikidata": "https://www.wikidata.org/wiki/Q11190",
+      "display_name": "Medicine",
+      "level": 0,
+      "score": 0.13314056396484375
+    },
+    {
+      "id": "https://openalex.org/C2780665704",
+      "wikidata": "https://www.wikidata.org/wiki/Q959298",
+      "display_name": "Intervention (counseling)",
+      "level": 2,
+      "score": 0.12757766246795654
+    },
+    {
+      "id": "https://openalex.org/C126322002",
+      "wikidata": "https://www.wikidata.org/wiki/Q11180",
+      "display_name": "Internal medicine",
+      "level": 1,
+      "score": 0.07672098278999329
+    },
+    {
+      "id": "https://openalex.org/C86803240",
+      "wikidata": "https://www.wikidata.org/wiki/Q420",
+      "display_name": "Biology",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C151730666",
+      "wikidata": "https://www.wikidata.org/wiki/Q7205",
+      "display_name": "Paleontology",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [
+    {
+      "descriptor_ui": "D001289",
+      "descriptor_name": "Attention Deficit Disorder with Hyperactivity",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000070260",
+      "descriptor_name": "Teacher Training",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D001289",
+      "descriptor_name": "Attention Deficit Disorder with Hyperactivity",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000070260",
+      "descriptor_name": "Teacher Training",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    }
+  ],
+  "locations_count": 4,
+  "locations": [
+    {
+      "id": "doi:10.1177/1087054720972801",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1177/1087054720972801",
+      "pdf_url": "https://journals.sagepub.com/doi/pdf/10.1177/1087054720972801",
+      "source": {
+        "id": "https://openalex.org/S4019948",
+        "display_name": "Journal of Attention Disorders",
+        "issn_l": "1087-0547",
+        "issn": [
+          "1087-0547",
+          "1557-1246"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320017",
+        "host_organization_name": "SAGE Publishing",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320017"
+        ],
+        "host_organization_lineage_names": [
+          "SAGE Publishing"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Journal of Attention Disorders",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:33331193",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/33331193",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Journal of attention disorders",
+      "raw_type": null
+    },
+    {
+      "id": "pmh:oai:eprints.soton.ac.uk:445603",
+      "is_oa": false,
+      "landing_page_url": "https://eprints.soton.ac.uk/445603/2/ADHD_Teacher_Training_Systematic_Review_and_Meta_Analysis_PURE_1_.docx",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401019",
+        "display_name": "ePrints Soton (University of Southampton)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I43439940",
+        "host_organization_name": "University of Southampton",
+        "host_organization_lineage": [
+          "https://openalex.org/I43439940"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "acceptedVersion",
+      "is_accepted": true,
+      "is_published": false,
+      "raw_source_name": "",
+      "raw_type": "Article"
+    },
+    {
+      "id": "pmh:oai:pubmedcentral.nih.gov:8679179",
+      "is_oa": true,
+      "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/8679179",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S2764455111",
+        "display_name": "PubMed Central",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "other-oa",
+      "license_id": "https://openalex.org/licenses/other-oa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "J Atten Disord",
+      "raw_type": "Text"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1177/1087054720972801",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1177/1087054720972801",
+    "pdf_url": "https://journals.sagepub.com/doi/pdf/10.1177/1087054720972801",
+    "source": {
+      "id": "https://openalex.org/S4019948",
+      "display_name": "Journal of Attention Disorders",
+      "issn_l": "1087-0547",
+      "issn": [
+        "1087-0547",
+        "1557-1246"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320017",
+      "host_organization_name": "SAGE Publishing",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320017"
+      ],
+      "host_organization_lineage_names": [
+        "SAGE Publishing"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Journal of Attention Disorders",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [
+    {
+      "score": 0.8799999952316284,
+      "id": "https://metadata.un.org/sdg/4",
+      "display_name": "Quality Education"
+    }
+  ],
+  "awards": [
+    {
+      "id": "https://openalex.org/G3589397009",
+      "display_name": null,
+      "funder_award_id": "Jubilee Scholarship",
+      "funder_id": "https://openalex.org/F4320320277",
+      "funder_display_name": "University of Southampton"
+    }
+  ],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320320277",
+      "display_name": "University of Southampton",
+      "ror": "https://ror.org/01ryk1543"
+    }
+  ],
+  "has_content": {
+    "pdf": true,
+    "grobid_xml": true
+  },
+  "referenced_works_count": 88,
+  "referenced_works": [
+    "https://openalex.org/W2032808390",
+    "https://openalex.org/W4247665917",
+    "https://openalex.org/W2131509292",
+    "https://openalex.org/W2022187481",
+    "https://openalex.org/W4206017997",
+    "https://openalex.org/W2168896345",
+    "https://openalex.org/W2016895656",
+    "https://openalex.org/W2068870869",
+    "https://openalex.org/W2138452527",
+    "https://openalex.org/W2157808176",
+    "https://openalex.org/W4297918764",
+    "https://openalex.org/W2398730958",
+    "https://openalex.org/W1482077358",
+    "https://openalex.org/W1473421274",
+    "https://openalex.org/W2963377317",
+    "https://openalex.org/W1878936700",
+    "https://openalex.org/W2030962712",
+    "https://openalex.org/W1981501248",
+    "https://openalex.org/W2073141549",
+    "https://openalex.org/W2125736864",
+    "https://openalex.org/W2990851366",
+    "https://openalex.org/W1937904623",
+    "https://openalex.org/W2567362164",
+    "https://openalex.org/W2068282558",
+    "https://openalex.org/W2130067431",
+    "https://openalex.org/W2015397687",
+    "https://openalex.org/W2600109435",
+    "https://openalex.org/W2612918544",
+    "https://openalex.org/W618670355",
+    "https://openalex.org/W2134835619",
+    "https://openalex.org/W2061606349",
+    "https://openalex.org/W2003067970",
+    "https://openalex.org/W2091583442",
+    "https://openalex.org/W84586455",
+    "https://openalex.org/W2772332671",
+    "https://openalex.org/W4294215472",
+    "https://openalex.org/W1904835846",
+    "https://openalex.org/W2884580609",
+    "https://openalex.org/W2090397343",
+    "https://openalex.org/W2021941260",
+    "https://openalex.org/W2008250008",
+    "https://openalex.org/W2034657811",
+    "https://openalex.org/W2038852946",
+    "https://openalex.org/W2087413892",
+    "https://openalex.org/W2734424330",
+    "https://openalex.org/W2734982186",
+    "https://openalex.org/W1994863693",
+    "https://openalex.org/W6602647487",
+    "https://openalex.org/W2060277898",
+    "https://openalex.org/W2171074660",
+    "https://openalex.org/W1967584956",
+    "https://openalex.org/W6907465230",
+    "https://openalex.org/W4405421282",
+    "https://openalex.org/W2168573133",
+    "https://openalex.org/W2749288454",
+    "https://openalex.org/W1889791828",
+    "https://openalex.org/W1977031556",
+    "https://openalex.org/W2058562698",
+    "https://openalex.org/W2921435646",
+    "https://openalex.org/W2117104588",
+    "https://openalex.org/W1976188039",
+    "https://openalex.org/W2564130062",
+    "https://openalex.org/W2116475791",
+    "https://openalex.org/W2531269403",
+    "https://openalex.org/W2032602907",
+    "https://openalex.org/W1983030849",
+    "https://openalex.org/W2171935550",
+    "https://openalex.org/W2462668791",
+    "https://openalex.org/W2734628004",
+    "https://openalex.org/W2150829846",
+    "https://openalex.org/W2162012775",
+    "https://openalex.org/W4213383170",
+    "https://openalex.org/W2319671817",
+    "https://openalex.org/W2166511282",
+    "https://openalex.org/W71228264",
+    "https://openalex.org/W2156098321",
+    "https://openalex.org/W4205630653",
+    "https://openalex.org/W64684600",
+    "https://openalex.org/W2982844220",
+    "https://openalex.org/W2952347903",
+    "https://openalex.org/W1536189362",
+    "https://openalex.org/W2906253013",
+    "https://openalex.org/W246286872",
+    "https://openalex.org/W2771426841",
+    "https://openalex.org/W2042894795",
+    "https://openalex.org/W1997247272",
+    "https://openalex.org/W3101483539",
+    "https://openalex.org/W2760645782"
+  ],
+  "related_works": [
+    "https://openalex.org/W4226102228",
+    "https://openalex.org/W4365509913",
+    "https://openalex.org/W3150219210",
+    "https://openalex.org/W3090321217",
+    "https://openalex.org/W2066106280",
+    "https://openalex.org/W3152971952",
+    "https://openalex.org/W4200530210",
+    "https://openalex.org/W2170493251",
+    "https://openalex.org/W2740755699",
+    "https://openalex.org/W4206323153"
+  ],
+  "abstract_inverted_index": {
+    "Objective:": [
+      0
+    ],
+    "To": [
+      1
+    ],
+    "synthesize": [
+      2
+    ],
+    "the": [
+      3,
+      6,
+      47
+    ],
+    "evidence": [
+      4,
+      139
+    ],
+    "on": [
+      5
+    ],
+    "efficacy": [
+      7,
+      142
+    ],
+    "of": [
+      8,
+      113
+    ],
+    "ADHD": [
+      9,
+      15,
+      123,
+      133
+    ],
+    "teacher": [
+      10,
+      55,
+      124
+    ],
+    "training": [
+      11,
+      125
+    ],
+    "interventions": [
+      12
+    ],
+    "for": [
+      13,
+      54,
+      95,
+      140
+    ],
+    "teachers\u2019": [
+      14,
+      134
+    ],
+    "knowledge": [
+      16,
+      56
+    ],
+    "and": [
+      17,
+      50,
+      61,
+      71,
+      99,
+      106
+    ],
+    "reducing": [
+      18
+    ],
+    "pupils\u2019": [
+      19,
+      96
+    ],
+    "ADHD-type": [
+      20,
+      146
+    ],
+    "behaviors.": [
+      21,
+      147
+    ],
+    "Method:": [
+      22
+    ],
+    "Six": [
+      23
+    ],
+    "electronic": [
+      24
+    ],
+    "databases": [
+      25
+    ],
+    "were": [
+      26,
+      33,
+      44
+    ],
+    "systematically": [
+      27
+    ],
+    "searched": [
+      28
+    ],
+    "up": [
+      29
+    ],
+    "to": [
+      30,
+      35,
+      143
+    ],
+    "14/04/20.": [
+      31
+    ],
+    "Meta-analyses": [
+      32
+    ],
+    "performed": [
+      34
+    ],
+    "pool": [
+      36
+    ],
+    "standardized": [
+      37
+    ],
+    "mean": [
+      38
+    ],
+    "differences": [
+      39
+    ],
+    "(SMD).": [
+      40
+    ],
+    "Results:": [
+      41
+    ],
+    "29": [
+      42
+    ],
+    "studies": [
+      43
+    ],
+    "included": [
+      45
+    ],
+    "in": [
+      46,
+      117,
+      130
+    ],
+    "systematic": [
+      48
+    ],
+    "review,": [
+      49
+    ],
+    "22": [
+      51
+    ],
+    "meta-analyzed.": [
+      52
+    ],
+    "SMD": [
+      53,
+      82,
+      94
+    ],
+    "within": [
+      57,
+      98
+    ],
+    "subjects": [
+      58,
+      77,
+      101
+    ],
+    "at": [
+      59,
+      79,
+      90
+    ],
+    "post-test": [
+      60,
+      80
+    ],
+    "follow-up": [
+      62
+    ],
+    "was": [
+      63,
+      102,
+      115
+    ],
+    "1.96": [
+      64
+    ],
+    "(95%": [
+      65
+    ],
+    "confidence": [
+      66
+    ],
+    "interval": [
+      67
+    ],
+    "=": [
+      68,
+      83
+    ],
+    "1.48,": [
+      69
+    ],
+    "2.43)": [
+      70
+    ],
+    "\u20121.21": [
+      72
+    ],
+    "(\u20132.02,": [
+      73
+    ],
+    "\u20130.41)": [
+      74
+    ],
+    "respectively.": [
+      75,
+      110
+    ],
+    "Between": [
+      76
+    ],
+    "analyses": [
+      78
+    ],
+    "showed": [
+      81
+    ],
+    "1.56": [
+      84
+    ],
+    "(0.52,": [
+      85
+    ],
+    "2.59),": [
+      86
+    ],
+    "with": [
+      87
+    ],
+    "insufficient": [
+      88
+    ],
+    "data": [
+      89
+    ],
+    "follow-up.": [
+      91
+    ],
+    "At": [
+      92
+    ],
+    "post-test,": [
+      93
+    ],
+    "behavior": [
+      97
+    ],
+    "between": [
+      100
+    ],
+    "0.78": [
+      103
+    ],
+    "(0.37,": [
+      104
+    ],
+    "1.18),": [
+      105
+    ],
+    "0.71": [
+      107
+    ],
+    "(\u20130.11,": [
+      108
+    ],
+    "1.52),": [
+      109
+    ],
+    "Medium-to-high": [
+      111
+    ],
+    "risk": [
+      112
+    ],
+    "bias": [
+      114
+    ],
+    "found": [
+      116
+    ],
+    "all": [
+      118
+    ],
+    "but": [
+      119
+    ],
+    "one": [
+      120
+    ],
+    "study.": [
+      121
+    ],
+    "Conclusion:": [
+      122
+    ],
+    "programs": [
+      126
+    ],
+    "may": [
+      127
+    ],
+    "be": [
+      128
+    ],
+    "effective": [
+      129
+    ],
+    "initially": [
+      131
+    ],
+    "improving": [
+      132
+    ],
+    "knowledge.": [
+      135
+    ],
+    "There": [
+      136
+    ],
+    "is": [
+      137
+    ],
+    "inconsistent": [
+      138
+    ],
+    "their": [
+      141
+    ],
+    "reduce": [
+      144
+    ],
+    "students\u2019": [
+      145
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 16
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 18
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 13
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 3
+    },
+    {
+      "year": 2021,
+      "cited_by_count": 5
+    }
+  ],
+  "updated_date": "2025-11-06T03:46:38.306776",
+  "created_date": "2025-10-10T00:00:00"
+}

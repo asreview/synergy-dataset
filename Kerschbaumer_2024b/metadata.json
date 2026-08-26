@@ -1,0 +1,12 @@
+{
+  "key": "Kerschbaumer_2024b",
+  "publication": {
+    "doi": "10.1136/ard-2024-225534",
+    "eligibility_criteria": "For safety, data of identified RCTs as well as long-term extensions studies of RCTs with adequately defined comparator arms (placebo (PBO) or active therapy) were eligible. In addition to RCT safety data (including long-term extensions with adequate comparator arms) also observational studies (including registry analyses, claims data, cohort studies and case\u2013control studies) with adequately defined controls were eligible for inclusion. Patient populations of interest were defined as patients classified as having PsA; patients could be either DMARD-na\u00efve, or with intolerance and/or insufficient response (IR) to csDMARDs, patients who were bDMARD-IR and/or tsDMARD-IR or mixed populations with previous IR to cs-DMARDs or/and bDMARDs; in some studies patients with IR to NSAIDs were also eligible. Safety outcomes included infections (serious infections, herpes zoster (HZ), opportunistic and fungal infections, tuberculosis (Tb)); malignancies; major adverse cardiovascular events (MACEs); venous thromboembolic events (VTE); liver disease; gastrointestinal side effects; incidence of inflammatory bowel disease (IBD), uveitis; depression, suicidal ideation and behaviour"
+  },
+  "data": {
+    "doi": "10.17605/OSF.IO/T8KNJ",
+    "n_records": 1691,
+    "n_records_included": 20
+  }
+}

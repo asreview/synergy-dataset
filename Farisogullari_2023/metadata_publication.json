@@ -1,0 +1,1882 @@
+{
+  "id": "https://openalex.org/W4389390191",
+  "doi": "https://doi.org/10.1136/rmdopen-2023-003349",
+  "title": "Efficacy of pharmacological interventions: a systematic review informing the 2023 EULAR recommendations for the management of fatigue in people with inflammatory rheumatic and musculoskeletal diseases",
+  "display_name": "Efficacy of pharmacological interventions: a systematic review informing the 2023 EULAR recommendations for the management of fatigue in people with inflammatory rheumatic and musculoskeletal diseases",
+  "publication_year": 2023,
+  "publication_date": "2023-12-01",
+  "ids": {
+    "openalex": "https://openalex.org/W4389390191",
+    "doi": "https://doi.org/10.1136/rmdopen-2023-003349",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/38056919"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1136/rmdopen-2023-003349",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1136/rmdopen-2023-003349",
+    "pdf_url": "https://rmdopen.bmj.com/content/rmdopen/9/4/e003349.full.pdf",
+    "source": {
+      "id": "https://openalex.org/S2738706341",
+      "display_name": "RMD Open",
+      "issn_l": "2056-5933",
+      "issn": [
+        "2056-5933"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310319945",
+      "host_organization_name": "BMJ",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310319945"
+      ],
+      "host_organization_lineage_names": [
+        "BMJ"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "RMD Open",
+    "raw_type": "journal-article"
+  },
+  "type": "review",
+  "indexed_in": [
+    "crossref",
+    "doaj",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "gold",
+    "oa_url": "https://rmdopen.bmj.com/content/rmdopen/9/4/e003349.full.pdf",
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5074008874",
+        "display_name": "Bayram Fariso\u011fullar\u0131",
+        "orcid": "https://orcid.org/0000-0002-9394-1103"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I66514158",
+          "display_name": "Hacettepe University",
+          "ror": "https://ror.org/04kwvgz42",
+          "country_code": "TR",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I66514158"
+          ]
+        }
+      ],
+      "countries": [
+        "TR"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Bayram Farisogullari",
+      "raw_affiliation_strings": [
+        "Department of Internal Medicine, Hacettepe University, Ankara, Turkey"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Internal Medicine, Hacettepe University, Ankara, Turkey",
+          "institution_ids": [
+            "https://openalex.org/I66514158"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5034049147",
+        "display_name": "Eduardo Santos",
+        "orcid": "https://orcid.org/0000-0003-0557-2377"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I56243300",
+          "display_name": "Escola Superior de Enfermagem de Coimbra",
+          "ror": "https://ror.org/03c3y8w73",
+          "country_code": "PT",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I56243300"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I56125125",
+          "display_name": "Polytechnic Institute of Viseu",
+          "ror": "https://ror.org/0235kxk33",
+          "country_code": "PT",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I56125125"
+          ]
+        }
+      ],
+      "countries": [
+        "PT"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Eduardo Jos\u00e9 Ferreira Santos",
+      "raw_affiliation_strings": [
+        "Health Sciences Research Unit: Nursing (UICiSA:E), Coimbra, Portugal",
+        "School of Health, Polytechnic University, Viseu, Portugal"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Health Sciences Research Unit: Nursing (UICiSA:E), Coimbra, Portugal",
+          "institution_ids": [
+            "https://openalex.org/I56243300"
+          ]
+        },
+        {
+          "raw_affiliation_string": "School of Health, Polytechnic University, Viseu, Portugal",
+          "institution_ids": [
+            "https://openalex.org/I56125125"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5041429657",
+        "display_name": "Emma Dures",
+        "orcid": "https://orcid.org/0000-0002-6674-8607"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2802901496",
+          "display_name": "Bristol Royal Infirmary",
+          "ror": "https://ror.org/031p4kj21",
+          "country_code": "GB",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2802901496"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I178535277",
+          "display_name": "University of the West of England",
+          "ror": "https://ror.org/02nwg5t34",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I178535277"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Emma Dures",
+      "raw_affiliation_strings": [
+        "Academic Rheumatology, Bristol Royal Infirmary, Bristol, UK",
+        "School of Health and Social Wellbeing, University of the West of England, Bristol, UK"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "School of Health and Social Wellbeing, University of the West of England, Bristol, UK",
+          "institution_ids": [
+            "https://openalex.org/I178535277"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Academic Rheumatology, Bristol Royal Infirmary, Bristol, UK",
+          "institution_ids": [
+            "https://openalex.org/I2802901496"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5070570826",
+        "display_name": "Rinie Geenen",
+        "orcid": "https://orcid.org/0000-0002-6615-6708"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I193662353",
+          "display_name": "Utrecht University",
+          "ror": "https://ror.org/04pp8hn57",
+          "country_code": "NL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I193662353"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Rinie Geenen",
+      "raw_affiliation_strings": [
+        "Department of Psychology, Utrecht University, Utrecht, The Netherlands"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Psychology, Utrecht University, Utrecht, The Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I193662353"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5077451505",
+        "display_name": "Pedro Machado",
+        "orcid": "https://orcid.org/0000-0002-8411-7972"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2800484787",
+          "display_name": "London North West Healthcare NHS Trust",
+          "ror": "https://ror.org/04cntmc13",
+          "country_code": "GB",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2800484787"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I34931013",
+          "display_name": "National Institute for Health Research",
+          "ror": "https://ror.org/0187kwz08",
+          "country_code": "GB",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I34931013"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I2802052328",
+          "display_name": "Northwick Park Hospital",
+          "ror": "https://ror.org/030j6qm79",
+          "country_code": "GB",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2800484787",
+            "https://openalex.org/I2802052328"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I45129253",
+          "display_name": "University College London",
+          "ror": "https://ror.org/02jx3x895",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I124357947",
+            "https://openalex.org/I45129253"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I1340918713",
+          "display_name": "University College London Hospitals NHS Foundation Trust",
+          "ror": "https://ror.org/042fqyp44",
+          "country_code": "GB",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I1340918713"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Pedro M Machado",
+      "raw_affiliation_strings": [
+        "Centre for Rheumatology & Department of Neuromuscular Diseases, University College London, London, UK",
+        "Department of Rheumatology, Northwick Park Hospital, London North West University Healthcare NHS Trust, London, UK",
+        "National Institute for Health Research (NIHR) University College London Hospitals Biomedical Research Centre, University College London Hospitals NHS Foundation Trust, London, UK"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "National Institute for Health Research (NIHR) University College London Hospitals Biomedical Research Centre, University College London Hospitals NHS Foundation Trust, London, UK",
+          "institution_ids": [
+            "https://openalex.org/I1340918713",
+            "https://openalex.org/I34931013",
+            "https://openalex.org/I45129253"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Centre for Rheumatology & Department of Neuromuscular Diseases, University College London, London, UK",
+          "institution_ids": [
+            "https://openalex.org/I45129253"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Rheumatology, Northwick Park Hospital, London North West University Healthcare NHS Trust, London, UK",
+          "institution_ids": [
+            "https://openalex.org/I2800484787",
+            "https://openalex.org/I2802052328"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 4,
+  "institutions_distinct_count": 5,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5077451505"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I1340918713",
+    "https://openalex.org/I2800484787",
+    "https://openalex.org/I2802052328",
+    "https://openalex.org/I34931013",
+    "https://openalex.org/I45129253"
+  ],
+  "apc_list": {
+    "value": 1950,
+    "currency": "GBP",
+    "value_usd": 2391
+  },
+  "apc_paid": {
+    "value": 1950,
+    "currency": "GBP",
+    "value_usd": 2391
+  },
+  "fwci": 2.87262111,
+  "has_fulltext": true,
+  "cited_by_count": 7,
+  "citation_normalized_percentile": {
+    "value": 0.88006275,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 97,
+    "max": 98
+  },
+  "biblio": {
+    "volume": "9",
+    "issue": "4",
+    "first_page": "e003349",
+    "last_page": "e003349"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10200",
+    "display_name": "Rheumatoid Arthritis Research and Therapies",
+    "score": 0.9994000196456909,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2745",
+      "display_name": "Rheumatology"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/27",
+      "display_name": "Medicine"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/4",
+      "display_name": "Health Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10200",
+      "display_name": "Rheumatoid Arthritis Research and Therapies",
+      "score": 0.9994000196456909,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2745",
+        "display_name": "Rheumatology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11616",
+      "display_name": "Autoimmune and Inflammatory Disorders Research",
+      "score": 0.9975000023841858,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2720",
+        "display_name": "Hematology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11282",
+      "display_name": "Fibromyalgia and Chronic Fatigue Syndrome Research",
+      "score": 0.9934999942779541,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2738",
+        "display_name": "Psychiatry and Mental health"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/medicine",
+      "display_name": "Medicine",
+      "score": 0.9677398800849915
+    },
+    {
+      "id": "https://openalex.org/keywords/internal-medicine",
+      "display_name": "Internal medicine",
+      "score": 0.6775502562522888
+    },
+    {
+      "id": "https://openalex.org/keywords/physical-therapy",
+      "display_name": "Physical therapy",
+      "score": 0.6239789724349976
+    },
+    {
+      "id": "https://openalex.org/keywords/randomized-controlled-trial",
+      "display_name": "Randomized controlled trial",
+      "score": 0.6216362118721008
+    },
+    {
+      "id": "https://openalex.org/keywords/rheumatoid-arthritis",
+      "display_name": "Rheumatoid arthritis",
+      "score": 0.5893334746360779
+    },
+    {
+      "id": "https://openalex.org/keywords/cochrane-library",
+      "display_name": "Cochrane Library",
+      "score": 0.5471763014793396
+    },
+    {
+      "id": "https://openalex.org/keywords/meta-analysis",
+      "display_name": "Meta-analysis",
+      "score": 0.5373133420944214
+    },
+    {
+      "id": "https://openalex.org/keywords/adalimumab",
+      "display_name": "Adalimumab",
+      "score": 0.5322710275650024
+    },
+    {
+      "id": "https://openalex.org/keywords/golimumab",
+      "display_name": "Golimumab",
+      "score": 0.5302407741546631
+    },
+    {
+      "id": "https://openalex.org/keywords/placebo",
+      "display_name": "Placebo",
+      "score": 0.5225591063499451
+    },
+    {
+      "id": "https://openalex.org/keywords/medline",
+      "display_name": "MEDLINE",
+      "score": 0.5075913667678833
+    },
+    {
+      "id": "https://openalex.org/keywords/tocilizumab",
+      "display_name": "Tocilizumab",
+      "score": 0.49375614523887634
+    },
+    {
+      "id": "https://openalex.org/keywords/cinahl",
+      "display_name": "CINAHL",
+      "score": 0.4747790992259979
+    },
+    {
+      "id": "https://openalex.org/keywords/tofacitinib",
+      "display_name": "Tofacitinib",
+      "score": 0.4488534927368164
+    },
+    {
+      "id": "https://openalex.org/keywords/abatacept",
+      "display_name": "Abatacept",
+      "score": 0.43012094497680664
+    },
+    {
+      "id": "https://openalex.org/keywords/psychological-intervention",
+      "display_name": "Psychological intervention",
+      "score": 0.4224318265914917
+    },
+    {
+      "id": "https://openalex.org/keywords/alternative-medicine",
+      "display_name": "Alternative medicine",
+      "score": 0.2368774116039276
+    },
+    {
+      "id": "https://openalex.org/keywords/rituximab",
+      "display_name": "Rituximab",
+      "score": 0.11328330636024475
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C71924100",
+      "wikidata": "https://www.wikidata.org/wiki/Q11190",
+      "display_name": "Medicine",
+      "level": 0,
+      "score": 0.9677398800849915
+    },
+    {
+      "id": "https://openalex.org/C126322002",
+      "wikidata": "https://www.wikidata.org/wiki/Q11180",
+      "display_name": "Internal medicine",
+      "level": 1,
+      "score": 0.6775502562522888
+    },
+    {
+      "id": "https://openalex.org/C1862650",
+      "wikidata": "https://www.wikidata.org/wiki/Q186005",
+      "display_name": "Physical therapy",
+      "level": 1,
+      "score": 0.6239789724349976
+    },
+    {
+      "id": "https://openalex.org/C168563851",
+      "wikidata": "https://www.wikidata.org/wiki/Q1436668",
+      "display_name": "Randomized controlled trial",
+      "level": 2,
+      "score": 0.6216362118721008
+    },
+    {
+      "id": "https://openalex.org/C2777575956",
+      "wikidata": "https://www.wikidata.org/wiki/Q187255",
+      "display_name": "Rheumatoid arthritis",
+      "level": 2,
+      "score": 0.5893334746360779
+    },
+    {
+      "id": "https://openalex.org/C2776478404",
+      "wikidata": "https://www.wikidata.org/wiki/Q1105187",
+      "display_name": "Cochrane Library",
+      "level": 3,
+      "score": 0.5471763014793396
+    },
+    {
+      "id": "https://openalex.org/C95190672",
+      "wikidata": "https://www.wikidata.org/wiki/Q815382",
+      "display_name": "Meta-analysis",
+      "level": 2,
+      "score": 0.5373133420944214
+    },
+    {
+      "id": "https://openalex.org/C2780132546",
+      "wikidata": "https://www.wikidata.org/wiki/Q348260",
+      "display_name": "Adalimumab",
+      "level": 3,
+      "score": 0.5322710275650024
+    },
+    {
+      "id": "https://openalex.org/C2781290027",
+      "wikidata": "https://www.wikidata.org/wiki/Q413879",
+      "display_name": "Golimumab",
+      "level": 4,
+      "score": 0.5302407741546631
+    },
+    {
+      "id": "https://openalex.org/C27081682",
+      "wikidata": "https://www.wikidata.org/wiki/Q269829",
+      "display_name": "Placebo",
+      "level": 3,
+      "score": 0.5225591063499451
+    },
+    {
+      "id": "https://openalex.org/C2779473830",
+      "wikidata": "https://www.wikidata.org/wiki/Q1540899",
+      "display_name": "MEDLINE",
+      "level": 2,
+      "score": 0.5075913667678833
+    },
+    {
+      "id": "https://openalex.org/C2777178219",
+      "wikidata": "https://www.wikidata.org/wiki/Q425154",
+      "display_name": "Tocilizumab",
+      "level": 3,
+      "score": 0.49375614523887634
+    },
+    {
+      "id": "https://openalex.org/C2781145037",
+      "wikidata": "https://www.wikidata.org/wiki/Q5011772",
+      "display_name": "CINAHL",
+      "level": 3,
+      "score": 0.4747790992259979
+    },
+    {
+      "id": "https://openalex.org/C2778886723",
+      "wikidata": "https://www.wikidata.org/wiki/Q3530324",
+      "display_name": "Tofacitinib",
+      "level": 3,
+      "score": 0.4488534927368164
+    },
+    {
+      "id": "https://openalex.org/C2779605438",
+      "wikidata": "https://www.wikidata.org/wiki/Q2697833",
+      "display_name": "Abatacept",
+      "level": 4,
+      "score": 0.43012094497680664
+    },
+    {
+      "id": "https://openalex.org/C27415008",
+      "wikidata": "https://www.wikidata.org/wiki/Q7256382",
+      "display_name": "Psychological intervention",
+      "level": 2,
+      "score": 0.4224318265914917
+    },
+    {
+      "id": "https://openalex.org/C204787440",
+      "wikidata": "https://www.wikidata.org/wiki/Q188504",
+      "display_name": "Alternative medicine",
+      "level": 2,
+      "score": 0.2368774116039276
+    },
+    {
+      "id": "https://openalex.org/C2780653079",
+      "wikidata": "https://www.wikidata.org/wiki/Q412323",
+      "display_name": "Rituximab",
+      "level": 3,
+      "score": 0.11328330636024475
+    },
+    {
+      "id": "https://openalex.org/C2779338263",
+      "wikidata": "https://www.wikidata.org/wiki/Q208414",
+      "display_name": "Lymphoma",
+      "level": 2,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C199539241",
+      "wikidata": "https://www.wikidata.org/wiki/Q7748",
+      "display_name": "Law",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C17744445",
+      "wikidata": "https://www.wikidata.org/wiki/Q36442",
+      "display_name": "Political science",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C142724271",
+      "wikidata": "https://www.wikidata.org/wiki/Q7208",
+      "display_name": "Pathology",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C118552586",
+      "wikidata": "https://www.wikidata.org/wiki/Q7867",
+      "display_name": "Psychiatry",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [
+    {
+      "descriptor_ui": "D000328",
+      "descriptor_name": "Adult",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000068879",
+      "descriptor_name": "Adalimumab",
+      "qualifier_ui": "Q000627",
+      "qualifier_name": "therapeutic use",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D001172",
+      "descriptor_name": "Arthritis, Rheumatoid",
+      "qualifier_ui": "Q000150",
+      "qualifier_name": "complications",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D001172",
+      "descriptor_name": "Arthritis, Rheumatoid",
+      "qualifier_ui": "Q000188",
+      "qualifier_name": "drug therapy",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D005221",
+      "descriptor_name": "Fatigue",
+      "qualifier_ui": "Q000188",
+      "qualifier_name": "drug therapy",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005221",
+      "descriptor_name": "Fatigue",
+      "qualifier_ui": "Q000209",
+      "qualifier_name": "etiology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000328",
+      "descriptor_name": "Adult",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000068879",
+      "descriptor_name": "Adalimumab",
+      "qualifier_ui": "Q000627",
+      "qualifier_name": "therapeutic use",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D001172",
+      "descriptor_name": "Arthritis, Rheumatoid",
+      "qualifier_ui": "Q000150",
+      "qualifier_name": "complications",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D001172",
+      "descriptor_name": "Arthritis, Rheumatoid",
+      "qualifier_ui": "Q000188",
+      "qualifier_name": "drug therapy",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D005221",
+      "descriptor_name": "Fatigue",
+      "qualifier_ui": "Q000188",
+      "qualifier_name": "drug therapy",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005221",
+      "descriptor_name": "Fatigue",
+      "qualifier_ui": "Q000209",
+      "qualifier_name": "etiology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000328",
+      "descriptor_name": "Adult",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000068879",
+      "descriptor_name": "Adalimumab",
+      "qualifier_ui": "Q000627",
+      "qualifier_name": "therapeutic use",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D001172",
+      "descriptor_name": "Arthritis, Rheumatoid",
+      "qualifier_ui": "Q000150",
+      "qualifier_name": "complications",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D001172",
+      "descriptor_name": "Arthritis, Rheumatoid",
+      "qualifier_ui": "Q000188",
+      "qualifier_name": "drug therapy",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D005221",
+      "descriptor_name": "Fatigue",
+      "qualifier_ui": "Q000188",
+      "qualifier_name": "drug therapy",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005221",
+      "descriptor_name": "Fatigue",
+      "qualifier_ui": "Q000209",
+      "qualifier_name": "etiology",
+      "is_major_topic": false
+    }
+  ],
+  "locations_count": 6,
+  "locations": [
+    {
+      "id": "doi:10.1136/rmdopen-2023-003349",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1136/rmdopen-2023-003349",
+      "pdf_url": "https://rmdopen.bmj.com/content/rmdopen/9/4/e003349.full.pdf",
+      "source": {
+        "id": "https://openalex.org/S2738706341",
+        "display_name": "RMD Open",
+        "issn_l": "2056-5933",
+        "issn": [
+          "2056-5933"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310319945",
+        "host_organization_name": "BMJ",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310319945"
+        ],
+        "host_organization_lineage_names": [
+          "BMJ"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "RMD Open",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:38056919",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/38056919",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "RMD open",
+      "raw_type": null
+    },
+    {
+      "id": "pmh:oai:pubmedcentral.nih.gov:10711909",
+      "is_oa": true,
+      "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/10711909",
+      "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10711909/pdf/rmdopen-2023-003349.pdf",
+      "source": {
+        "id": "https://openalex.org/S2764455111",
+        "display_name": "PubMed Central",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by-nc",
+      "license_id": "https://openalex.org/licenses/cc-by-nc",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "RMD Open",
+      "raw_type": "Text"
+    },
+    {
+      "id": "pmh:oai:doaj.org/article:d3c1c7151d5546ceaecc744c7a591a85",
+      "is_oa": false,
+      "landing_page_url": "https://doaj.org/article/d3c1c7151d5546ceaecc744c7a591a85",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401280",
+        "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "RMD Open, Vol 9, Iss 4 (2023)",
+      "raw_type": "article"
+    },
+    {
+      "id": "pmh:oai:dspace.library.uu.nl:1874/434833",
+      "is_oa": true,
+      "landing_page_url": "https://dspace.library.uu.nl/handle/1874/434833",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401649",
+        "display_name": "Utrecht University Repository (Utrecht University)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I193662353",
+        "host_organization_name": "Utrecht University",
+        "host_organization_lineage": [
+          "https://openalex.org/I193662353"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "other-oa",
+      "license_id": "https://openalex.org/licenses/other-oa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "",
+      "raw_type": "Article"
+    },
+    {
+      "id": "pmh:oai:eprints.ucl.ac.uk.OAI2:10183792",
+      "is_oa": false,
+      "landing_page_url": "https://discovery.ucl.ac.uk/id/eprint/10183792/",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306400024",
+        "display_name": "UCL Discovery (University College London)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I45129253",
+        "host_organization_name": "University College London",
+        "host_organization_lineage": [
+          "https://openalex.org/I45129253"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "   RMD Open , 9  (4)    , Article e003349. (2023)      ",
+      "raw_type": "Article"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1136/rmdopen-2023-003349",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1136/rmdopen-2023-003349",
+    "pdf_url": "https://rmdopen.bmj.com/content/rmdopen/9/4/e003349.full.pdf",
+    "source": {
+      "id": "https://openalex.org/S2738706341",
+      "display_name": "RMD Open",
+      "issn_l": "2056-5933",
+      "issn": [
+        "2056-5933"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310319945",
+      "host_organization_name": "BMJ",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310319945"
+      ],
+      "host_organization_lineage_names": [
+        "BMJ"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "RMD Open",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "grobid_xml": true,
+    "pdf": true
+  },
+  "referenced_works_count": 154,
+  "referenced_works": [
+    "https://openalex.org/W2969994579",
+    "https://openalex.org/W3028773970",
+    "https://openalex.org/W6679020725",
+    "https://openalex.org/W2038157111",
+    "https://openalex.org/W2970363425",
+    "https://openalex.org/W2138323507",
+    "https://openalex.org/W6640696375",
+    "https://openalex.org/W2983166098",
+    "https://openalex.org/W2995714952",
+    "https://openalex.org/W2790916688",
+    "https://openalex.org/W2206432491",
+    "https://openalex.org/W3184503168",
+    "https://openalex.org/W3027539208",
+    "https://openalex.org/W2982538063",
+    "https://openalex.org/W1922566561",
+    "https://openalex.org/W2927871970",
+    "https://openalex.org/W2263279729",
+    "https://openalex.org/W4231972505",
+    "https://openalex.org/W2549071917",
+    "https://openalex.org/W3029385067",
+    "https://openalex.org/W2567362164",
+    "https://openalex.org/W2125793256",
+    "https://openalex.org/W3118615836",
+    "https://openalex.org/W2145881672",
+    "https://openalex.org/W2152348310",
+    "https://openalex.org/W2128952811",
+    "https://openalex.org/W2083180635",
+    "https://openalex.org/W2156605473",
+    "https://openalex.org/W3204748568",
+    "https://openalex.org/W2038962823",
+    "https://openalex.org/W2118771994",
+    "https://openalex.org/W2104389209",
+    "https://openalex.org/W6636323917",
+    "https://openalex.org/W4292806894",
+    "https://openalex.org/W2041790004",
+    "https://openalex.org/W2223901806",
+    "https://openalex.org/W1985186735",
+    "https://openalex.org/W1994828137",
+    "https://openalex.org/W2108440099",
+    "https://openalex.org/W2098923148",
+    "https://openalex.org/W2111505151",
+    "https://openalex.org/W4289945055",
+    "https://openalex.org/W2180006680",
+    "https://openalex.org/W6837374089",
+    "https://openalex.org/W2345882020",
+    "https://openalex.org/W2034224398",
+    "https://openalex.org/W1606027748",
+    "https://openalex.org/W2149545630",
+    "https://openalex.org/W2150952126",
+    "https://openalex.org/W2925926758",
+    "https://openalex.org/W2118449404",
+    "https://openalex.org/W2808250682",
+    "https://openalex.org/W2756700770",
+    "https://openalex.org/W1999543139",
+    "https://openalex.org/W2102100478",
+    "https://openalex.org/W2099199787",
+    "https://openalex.org/W2177191857",
+    "https://openalex.org/W2143439165",
+    "https://openalex.org/W2116996289",
+    "https://openalex.org/W6693203295",
+    "https://openalex.org/W2134114605",
+    "https://openalex.org/W1979364075",
+    "https://openalex.org/W6713175290",
+    "https://openalex.org/W2024644107",
+    "https://openalex.org/W2077158310",
+    "https://openalex.org/W1969093054",
+    "https://openalex.org/W2402870358",
+    "https://openalex.org/W6685008457",
+    "https://openalex.org/W2005801660",
+    "https://openalex.org/W2166204514",
+    "https://openalex.org/W2915909113",
+    "https://openalex.org/W1807077095",
+    "https://openalex.org/W2512318275",
+    "https://openalex.org/W2329207709",
+    "https://openalex.org/W6771883059",
+    "https://openalex.org/W2781665929",
+    "https://openalex.org/W2115018403",
+    "https://openalex.org/W2107690729",
+    "https://openalex.org/W2169012266",
+    "https://openalex.org/W6715631001",
+    "https://openalex.org/W2096430354",
+    "https://openalex.org/W2055934966",
+    "https://openalex.org/W2127011371",
+    "https://openalex.org/W1544512016",
+    "https://openalex.org/W2140965629",
+    "https://openalex.org/W2735054436",
+    "https://openalex.org/W2962938985",
+    "https://openalex.org/W2792363356",
+    "https://openalex.org/W2513662764",
+    "https://openalex.org/W2037377025",
+    "https://openalex.org/W2593835974",
+    "https://openalex.org/W2809672010",
+    "https://openalex.org/W2742515995",
+    "https://openalex.org/W3109279045",
+    "https://openalex.org/W2755123479",
+    "https://openalex.org/W2540974094",
+    "https://openalex.org/W2995742512",
+    "https://openalex.org/W2164858045",
+    "https://openalex.org/W2142596622",
+    "https://openalex.org/W2134280423",
+    "https://openalex.org/W1824831608",
+    "https://openalex.org/W2072322661",
+    "https://openalex.org/W1929026596",
+    "https://openalex.org/W1924813320",
+    "https://openalex.org/W6676894502",
+    "https://openalex.org/W2462554540",
+    "https://openalex.org/W6761292842",
+    "https://openalex.org/W2591276563",
+    "https://openalex.org/W2170081879",
+    "https://openalex.org/W3111593935",
+    "https://openalex.org/W2154864999",
+    "https://openalex.org/W2085412199",
+    "https://openalex.org/W2592697450",
+    "https://openalex.org/W2162411149",
+    "https://openalex.org/W2114850377",
+    "https://openalex.org/W2059189040",
+    "https://openalex.org/W2104594053",
+    "https://openalex.org/W2079611807",
+    "https://openalex.org/W1979777654",
+    "https://openalex.org/W2112233752",
+    "https://openalex.org/W3049518878",
+    "https://openalex.org/W2055123722",
+    "https://openalex.org/W2894575019",
+    "https://openalex.org/W2034064057",
+    "https://openalex.org/W1971387596",
+    "https://openalex.org/W2918203828",
+    "https://openalex.org/W1560520727",
+    "https://openalex.org/W2413265834",
+    "https://openalex.org/W6640245980",
+    "https://openalex.org/W2128457788",
+    "https://openalex.org/W2386234576",
+    "https://openalex.org/W2137101132",
+    "https://openalex.org/W2115041506",
+    "https://openalex.org/W3207101527",
+    "https://openalex.org/W3207340776",
+    "https://openalex.org/W2908768956",
+    "https://openalex.org/W2911052757",
+    "https://openalex.org/W2121174488",
+    "https://openalex.org/W2566019736",
+    "https://openalex.org/W1994649501",
+    "https://openalex.org/W2775607224",
+    "https://openalex.org/W2107216509",
+    "https://openalex.org/W2468340988",
+    "https://openalex.org/W2131469748",
+    "https://openalex.org/W2015010210",
+    "https://openalex.org/W2347093301",
+    "https://openalex.org/W2083408882",
+    "https://openalex.org/W2918444739",
+    "https://openalex.org/W4308993679",
+    "https://openalex.org/W4307092788",
+    "https://openalex.org/W1945428645",
+    "https://openalex.org/W2588681363",
+    "https://openalex.org/W2120393706",
+    "https://openalex.org/W2282455638"
+  ],
+  "related_works": [
+    "https://openalex.org/W2809113401",
+    "https://openalex.org/W2133668754",
+    "https://openalex.org/W2415408788",
+    "https://openalex.org/W1922166444",
+    "https://openalex.org/W2999136556",
+    "https://openalex.org/W31124029",
+    "https://openalex.org/W2406123041",
+    "https://openalex.org/W4304610749",
+    "https://openalex.org/W3112465946",
+    "https://openalex.org/W3045428734"
+  ],
+  "abstract_inverted_index": {
+    "Objective": [
+      0
+    ],
+    "To": [
+      1
+    ],
+    "identify": [
+      2
+    ],
+    "the": [
+      3,
+      7,
+      30,
+      43,
+      61,
+      123,
+      248,
+      253
+    ],
+    "best": [
+      4
+    ],
+    "evidence": [
+      5
+    ],
+    "on": [
+      6
+    ],
+    "efficacy": [
+      8
+    ],
+    "of": [
+      9,
+      37,
+      45,
+      54,
+      90,
+      92,
+      247
+    ],
+    "pharmacological": [
+      10,
+      259,
+      272
+    ],
+    "interventions": [
+      11,
+      260,
+      273
+    ],
+    "in": [
+      12,
+      15,
+      29,
+      47,
+      67,
+      104,
+      108,
+      131,
+      138,
+      146,
+      203,
+      206,
+      228,
+      252,
+      263,
+      282
+    ],
+    "reducing": [
+      13,
+      139,
+      204,
+      229,
+      264
+    ],
+    "fatigue": [
+      14,
+      46,
+      140,
+      205,
+      230,
+      281
+    ],
+    "people": [
+      16,
+      48,
+      283
+    ],
+    "with": [
+      17,
+      49,
+      56,
+      238,
+      266,
+      284
+    ],
+    "inflammatory": [
+      18
+    ],
+    "rheumatic": [
+      19
+    ],
+    "and": [
+      20,
+      24,
+      76,
+      96,
+      103,
+      126,
+      143,
+      151,
+      190,
+      216,
+      276
+    ],
+    "musculoskeletal": [
+      21
+    ],
+    "diseases": [
+      22
+    ],
+    "(I-RMDs)": [
+      23
+    ],
+    "to": [
+      25,
+      33,
+      60,
+      136,
+      201,
+      226
+    ],
+    "summarise": [
+      26
+    ],
+    "their": [
+      27
+    ],
+    "safety": [
+      28,
+      268
+    ],
+    "identified": [
+      31
+    ],
+    "studies": [
+      32
+    ],
+    "inform": [
+      34
+    ],
+    "European": [
+      35
+    ],
+    "Alliance": [
+      36
+    ],
+    "Associations": [
+      38
+    ],
+    "for": [
+      39,
+      42,
+      118,
+      213,
+      279
+    ],
+    "Rheumatology": [
+      40
+    ],
+    "recommendations": [
+      41
+    ],
+    "management": [
+      44
+    ],
+    "I-RMDs.": [
+      50,
+      285
+    ],
+    "Methods": [
+      51
+    ],
+    "Systematic": [
+      52
+    ],
+    "review": [
+      53
+    ],
+    "adults": [
+      55
+    ],
+    "I-RMDs": [
+      57
+    ],
+    "conducted": [
+      58
+    ],
+    "according": [
+      59
+    ],
+    "Cochrane": [
+      62,
+      70
+    ],
+    "Handbook.": [
+      63
+    ],
+    "Search": [
+      64
+    ],
+    "strategy": [
+      65
+    ],
+    "ran": [
+      66
+    ],
+    "Medline,": [
+      68
+    ],
+    "Embase,": [
+      69
+    ],
+    "Library,": [
+      71
+    ],
+    "CINAHL": [
+      72
+    ],
+    "Complete,": [
+      73
+    ],
+    "PEDro,": [
+      74
+    ],
+    "OTseeker": [
+      75
+    ],
+    "PsycINFO.": [
+      77
+    ],
+    "Only": [
+      78
+    ],
+    "randomised": [
+      79
+    ],
+    "controlled": [
+      80,
+      84
+    ],
+    "trials": [
+      81,
+      86
+    ],
+    "(RCTs)": [
+      82
+    ],
+    "or": [
+      83
+    ],
+    "clinical": [
+      85
+    ],
+    "were": [
+      87,
+      116,
+      129,
+      198,
+      261
+    ],
+    "eligible.": [
+      88
+    ],
+    "Assessment": [
+      89
+    ],
+    "risk": [
+      91
+    ],
+    "bias,": [
+      93
+    ],
+    "data": [
+      94
+    ],
+    "extraction": [
+      95
+    ],
+    "synthesis": [
+      97
+    ],
+    "performed": [
+      98
+    ],
+    "by": [
+      99
+    ],
+    "two": [
+      100
+    ],
+    "reviewers": [
+      101
+    ],
+    "independently": [
+      102
+    ],
+    "duplicate.": [
+      105
+    ],
+    "Data": [
+      106
+    ],
+    "pooled": [
+      107
+    ],
+    "statistical": [
+      109
+    ],
+    "meta-analyses.": [
+      110,
+      132
+    ],
+    "Results": [
+      111
+    ],
+    "From": [
+      112
+    ],
+    "4151": [
+      113
+    ],
+    "records,": [
+      114
+    ],
+    "455": [
+      115
+    ],
+    "selected": [
+      117
+    ],
+    "full-text": [
+      119
+    ],
+    "review,": [
+      120
+    ],
+    "99": [
+      121
+    ],
+    "fulfilled": [
+      122
+    ],
+    "inclusion": [
+      124
+    ],
+    "criteria": [
+      125
+    ],
+    "19": [
+      127
+    ],
+    "RCTs": [
+      128,
+      249
+    ],
+    "included": [
+      130,
+      251
+    ],
+    "Adalimumab": [
+      133
+    ],
+    "was": [
+      134,
+      211,
+      224
+    ],
+    "superior": [
+      135,
+      200,
+      225
+    ],
+    "placebo": [
+      137,
+      202,
+      227
+    ],
+    "at": [
+      141,
+      231
+    ],
+    "12": [
+      142,
+      194
+    ],
+    "52": [
+      144
+    ],
+    "weeks": [
+      145,
+      233
+    ],
+    "rheumatoid": [
+      147
+    ],
+    "arthritis": [
+      148
+    ],
+    "(RA)": [
+      149
+    ],
+    "(n=3": [
+      150,
+      184,
+      192
+    ],
+    "2": [
+      152
+    ],
+    "RCTs;": [
+      153,
+      164,
+      171,
+      178,
+      185,
+      193,
+      235
+    ],
+    "mean": [
+      154
+    ],
+    "difference": [
+      155
+    ],
+    "(MD)=": [
+      156
+    ],
+    "\u22123.03,": [
+      157
+    ],
+    "p&lt;0.001;": [
+      158
+    ],
+    "MD=\u22122.25,": [
+      159
+    ],
+    "p=0.03,": [
+      160
+    ],
+    "respectively).": [
+      161
+    ],
+    "Golimumab": [
+      162
+    ],
+    "(n=2": [
+      163,
+      170,
+      177,
+      234
+    ],
+    "24": [
+      165,
+      172,
+      179,
+      186
+    ],
+    "weeks:": [
+      166,
+      173,
+      180,
+      187,
+      195
+    ],
+    "MD=\u22125.27,": [
+      167
+    ],
+    "p&lt;0.001),": [
+      168,
+      175,
+      182,
+      237
+    ],
+    "baricitinib": [
+      169
+    ],
+    "MD=\u22124.06,": [
+      174
+    ],
+    "sarilumab": [
+      176
+    ],
+    "MD=\u22123.15,": [
+      181
+    ],
+    "tocilizumab": [
+      183,
+      215
+    ],
+    "MD=\u22123.69,": [
+      188
+    ],
+    "p&lt;0.001)": [
+      189,
+      197
+    ],
+    "tofacitinib": [
+      191
+    ],
+    "MD=\u22124.44,": [
+      196
+    ],
+    "also": [
+      199,
+      242
+    ],
+    "RA.": [
+      207
+    ],
+    "A": [
+      208
+    ],
+    "dose/effect": [
+      209,
+      240
+    ],
+    "relationship": [
+      210,
+      241
+    ],
+    "observed": [
+      212
+    ],
+    "sarilumab,": [
+      214
+    ],
+    "tofacitinib.": [
+      217
+    ],
+    "In": [
+      218
+    ],
+    "spondyloarthritis": [
+      219
+    ],
+    "(excluding": [
+      220
+    ],
+    "psoriatic": [
+      221
+    ],
+    "arthritis),": [
+      222
+    ],
+    "secukinumab": [
+      223
+    ],
+    "16": [
+      232
+    ],
+    "MD=\u22124.15,": [
+      236
+    ],
+    "a": [
+      239
+    ],
+    "observed.": [
+      243
+    ],
+    "The": [
+      244
+    ],
+    "narrative": [
+      245
+    ],
+    "results": [
+      246
+    ],
+    "not": [
+      250
+    ],
+    "meta-analysis": [
+      254
+    ],
+    "indicated": [
+      255
+    ],
+    "that": [
+      256
+    ],
+    "several": [
+      257
+    ],
+    "other": [
+      258
+    ],
+    "efficacious": [
+      262,
+      275
+    ],
+    "fatigue,": [
+      265
+    ],
+    "reassuring": [
+      267
+    ],
+    "results.": [
+      269
+    ],
+    "Conclusions": [
+      270
+    ],
+    "Several": [
+      271
+    ],
+    "are": [
+      274
+    ],
+    "generally": [
+      277
+    ],
+    "safe": [
+      278
+    ],
+    "managing": [
+      280
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 3
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 4
+    }
+  ],
+  "updated_date": "2025-11-06T03:46:38.306776",
+  "created_date": "2025-10-10T00:00:00"
+}

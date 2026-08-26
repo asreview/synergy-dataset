@@ -1,0 +1,1646 @@
+{
+  "id": "https://openalex.org/W4402812242",
+  "doi": "https://doi.org/10.1136/ard-2024-225853",
+  "title": "Systemic juvenile idiopathic arthritis and adult-onset Still's disease are the same disease: evidence from systematic reviews and meta-analyses informing the 2023 EULAR/PReS recommendations for the diagnosis and management of Still's disease",
+  "display_name": "Systemic juvenile idiopathic arthritis and adult-onset Still's disease are the same disease: evidence from systematic reviews and meta-analyses informing the 2023 EULAR/PReS recommendations for the diagnosis and management of Still's disease",
+  "publication_year": 2024,
+  "publication_date": "2024-09-24",
+  "ids": {
+    "openalex": "https://openalex.org/W4402812242",
+    "doi": "https://doi.org/10.1136/ard-2024-225853",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/39317414"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1136/ard-2024-225853",
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.1136/ard-2024-225853",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S25650217",
+      "display_name": "Annals of the Rheumatic Diseases",
+      "issn_l": "0003-4967",
+      "issn": [
+        "0003-4967",
+        "1468-2060"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310319945",
+      "host_organization_name": "BMJ",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310319945"
+      ],
+      "host_organization_lineage_names": [
+        "BMJ"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Annals of the Rheumatic Diseases",
+    "raw_type": "journal-article"
+  },
+  "type": "review",
+  "indexed_in": [
+    "crossref",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "green",
+    "oa_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/11671913",
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5044097421",
+        "display_name": "Arianna De Matteis",
+        "orcid": "https://orcid.org/0000-0002-8098-8199"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210123352",
+          "display_name": "Bambino Ges\u00f9 Children's Hospital",
+          "ror": "https://ror.org/02sy42d13",
+          "country_code": "IT",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210123352",
+            "https://openalex.org/I4210153126"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210153126",
+          "display_name": "Istituti di Ricovero e Cura a Carattere Scientifico",
+          "ror": "https://ror.org/04tfzc498",
+          "country_code": "IT",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210153126"
+          ]
+        }
+      ],
+      "countries": [
+        "IT"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Arianna De Matteis",
+      "raw_affiliation_strings": [
+        "Division of Rheumatology, IRCCS Ospedale Pediatrico Bambino Ges\u00f9, Rome, Italy."
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Division of Rheumatology, IRCCS Ospedale Pediatrico Bambino Ges\u00f9, Rome, Italy.",
+          "institution_ids": [
+            "https://openalex.org/I4210123352",
+            "https://openalex.org/I4210153126"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5034934678",
+        "display_name": "Sara Bindoli",
+        "orcid": "https://orcid.org/0000-0002-9409-3329"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I138689650",
+          "display_name": "University of Padua",
+          "ror": "https://ror.org/00240q980",
+          "country_code": "IT",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I138689650"
+          ]
+        }
+      ],
+      "countries": [
+        "IT"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Sara Bindoli",
+      "raw_affiliation_strings": [
+        "Rheumatology Unit, Department of Medicine-DIMED, Universit\u00e0 degli Studi di Padova, Padova, Italy."
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Rheumatology Unit, Department of Medicine-DIMED, Universit\u00e0 degli Studi di Padova, Padova, Italy.",
+          "institution_ids": [
+            "https://openalex.org/I138689650"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5076916358",
+        "display_name": "Fabrizio De Benedetti",
+        "orcid": "https://orcid.org/0000-0001-8749-8232"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210123352",
+          "display_name": "Bambino Ges\u00f9 Children's Hospital",
+          "ror": "https://ror.org/02sy42d13",
+          "country_code": "IT",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210123352",
+            "https://openalex.org/I4210153126"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210153126",
+          "display_name": "Istituti di Ricovero e Cura a Carattere Scientifico",
+          "ror": "https://ror.org/04tfzc498",
+          "country_code": "IT",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210153126"
+          ]
+        }
+      ],
+      "countries": [
+        "IT"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Fabrizio De Benedetti",
+      "raw_affiliation_strings": [
+        "Division of Rheumatology, IRCCS Ospedale Pediatrico Bambino Ges\u00f9, Rome, Italy."
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Division of Rheumatology, IRCCS Ospedale Pediatrico Bambino Ges\u00f9, Rome, Italy.",
+          "institution_ids": [
+            "https://openalex.org/I4210123352",
+            "https://openalex.org/I4210153126"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5001730778",
+        "display_name": "Loreto Carmona",
+        "orcid": "https://orcid.org/0000-0002-4401-2551"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210156053",
+          "display_name": "Instituto de Salud Musculoesquel\u00e9tica",
+          "ror": "https://ror.org/0575y1m09",
+          "country_code": "ES",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I4210156053"
+          ]
+        }
+      ],
+      "countries": [
+        "ES"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Loreto Carmona",
+      "raw_affiliation_strings": [
+        "Instituto de Salud Musculoesquel\u00e9tica (INMUSC), Madrid, Spain."
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Instituto de Salud Musculoesquel\u00e9tica (INMUSC), Madrid, Spain.",
+          "institution_ids": [
+            "https://openalex.org/I4210156053"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5015032522",
+        "display_name": "Bruno Fautrel",
+        "orcid": "https://orcid.org/0000-0001-8845-4274"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210097159",
+          "display_name": "Assistance Publique \u2013 H\u00f4pitaux de Paris",
+          "ror": "https://ror.org/00pg5jh14",
+          "country_code": "FR",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210097159"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210099442",
+          "display_name": "Centre de R\u00e9f\u00e9rence des Maladies Autoinflammatoires et des Amyloses",
+          "ror": "https://ror.org/012hfdz28",
+          "country_code": "FR",
+          "type": "other",
+          "lineage": [
+            "https://openalex.org/I4210099442"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I154526488",
+          "display_name": "Inserm",
+          "ror": "https://ror.org/02vjkv261",
+          "country_code": "FR",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I154526488"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210133907",
+          "display_name": "Institut Pierre Louis d\u2018\u00c9pid\u00e9miologie et de Sant\u00e9 Publique",
+          "ror": "https://ror.org/02qqh1125",
+          "country_code": "FR",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I154526488",
+            "https://openalex.org/I39804081",
+            "https://openalex.org/I4210133907"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210121705",
+          "display_name": "Piti\u00e9-Salp\u00eatri\u00e8re Hospital",
+          "ror": "https://ror.org/02mh9a093",
+          "country_code": "FR",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210097159",
+            "https://openalex.org/I4210121705"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I39804081",
+          "display_name": "Sorbonne Universit\u00e9",
+          "ror": "https://ror.org/02en5vm52",
+          "country_code": "FR",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I39804081"
+          ]
+        }
+      ],
+      "countries": [
+        "FR"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Bruno Fautrel",
+      "raw_affiliation_strings": [
+        "CRI-IMIDIATE Clinical Research Network and ERN Rita, CEREMAIA Reference Center, CEREMAIA, Paris, France.",
+        "Pierre Louis Institute of Epidemiology and Public Health, INSERM UMR-S 1136, Paris, France.",
+        "Sorbonne University - Department of Rheumatology, Piti\u00e9-Salp\u00eatri\u00e8re Hospital, Assistance Publique-Hopitaux de Paris, Paris, France."
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "CRI-IMIDIATE Clinical Research Network and ERN Rita, CEREMAIA Reference Center, CEREMAIA, Paris, France.",
+          "institution_ids": [
+            "https://openalex.org/I4210099442"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Pierre Louis Institute of Epidemiology and Public Health, INSERM UMR-S 1136, Paris, France.",
+          "institution_ids": [
+            "https://openalex.org/I154526488",
+            "https://openalex.org/I4210133907"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Sorbonne University - Department of Rheumatology, Piti\u00e9-Salp\u00eatri\u00e8re Hospital, Assistance Publique-Hopitaux de Paris, Paris, France.",
+          "institution_ids": [
+            "https://openalex.org/I39804081",
+            "https://openalex.org/I4210097159",
+            "https://openalex.org/I4210121705"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5069956157",
+        "display_name": "St\u00e9phane Mitrovic",
+        "orcid": "https://orcid.org/0000-0001-5244-7881"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210097159",
+          "display_name": "Assistance Publique \u2013 H\u00f4pitaux de Paris",
+          "ror": "https://ror.org/00pg5jh14",
+          "country_code": "FR",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210097159"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210099442",
+          "display_name": "Centre de R\u00e9f\u00e9rence des Maladies Autoinflammatoires et des Amyloses",
+          "ror": "https://ror.org/012hfdz28",
+          "country_code": "FR",
+          "type": "other",
+          "lineage": [
+            "https://openalex.org/I4210099442"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210121705",
+          "display_name": "Piti\u00e9-Salp\u00eatri\u00e8re Hospital",
+          "ror": "https://ror.org/02mh9a093",
+          "country_code": "FR",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210097159",
+            "https://openalex.org/I4210121705"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I39804081",
+          "display_name": "Sorbonne Universit\u00e9",
+          "ror": "https://ror.org/02en5vm52",
+          "country_code": "FR",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I39804081"
+          ]
+        }
+      ],
+      "countries": [
+        "FR"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "St\u00e9phane Mitrovic",
+      "raw_affiliation_strings": [
+        "CRI-IMIDIATE Clinical Research Network and ERN Rita, CEREMAIA Reference Center, CEREMAIA, Paris, France.",
+        "Sorbonne University - Department of Rheumatology, Piti\u00e9-Salp\u00eatri\u00e8re Hospital, Assistance Publique-Hopitaux de Paris, Paris, France stephane.mitrovic@aphp.fr."
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Sorbonne University - Department of Rheumatology, Piti\u00e9-Salp\u00eatri\u00e8re Hospital, Assistance Publique-Hopitaux de Paris, Paris, France stephane.mitrovic@aphp.fr.",
+          "institution_ids": [
+            "https://openalex.org/I39804081",
+            "https://openalex.org/I4210097159",
+            "https://openalex.org/I4210121705"
+          ]
+        },
+        {
+          "raw_affiliation_string": "CRI-IMIDIATE Clinical Research Network and ERN Rita, CEREMAIA Reference Center, CEREMAIA, Paris, France.",
+          "institution_ids": [
+            "https://openalex.org/I4210099442"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 3,
+  "institutions_distinct_count": 6,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 29.95209915,
+  "has_fulltext": false,
+  "cited_by_count": 31,
+  "citation_normalized_percentile": {
+    "value": 0.99533967,
+    "is_in_top_1_percent": true,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 96,
+    "max": 100
+  },
+  "biblio": {
+    "volume": "83",
+    "issue": "12",
+    "first_page": "1748",
+    "last_page": "1761"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T11616",
+    "display_name": "Autoimmune and Inflammatory Disorders Research",
+    "score": 1.0,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2720",
+      "display_name": "Hematology"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/27",
+      "display_name": "Medicine"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/4",
+      "display_name": "Health Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T11616",
+      "display_name": "Autoimmune and Inflammatory Disorders Research",
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2720",
+        "display_name": "Hematology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12823",
+      "display_name": "Adolescent and Pediatric Healthcare",
+      "score": 0.9821000099182129,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3616",
+        "display_name": "Speech and Hearing"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/36",
+        "display_name": "Health Professions"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11632",
+      "display_name": "Family and Disability Support Research",
+      "score": 0.9779000282287598,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3203",
+        "display_name": "Clinical Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/medicine",
+      "display_name": "Medicine",
+      "score": 0.9369171857833862
+    },
+    {
+      "id": "https://openalex.org/keywords/macrophage-activation-syndrome",
+      "display_name": "Macrophage activation syndrome",
+      "score": 0.8132184147834778
+    },
+    {
+      "id": "https://openalex.org/keywords/sore-throat",
+      "display_name": "Sore throat",
+      "score": 0.5753729343414307
+    },
+    {
+      "id": "https://openalex.org/keywords/systematic-review",
+      "display_name": "Systematic review",
+      "score": 0.5307992100715637
+    },
+    {
+      "id": "https://openalex.org/keywords/arthritis",
+      "display_name": "Arthritis",
+      "score": 0.5025005340576172
+    },
+    {
+      "id": "https://openalex.org/keywords/internal-medicine",
+      "display_name": "Internal medicine",
+      "score": 0.46883243322372437
+    },
+    {
+      "id": "https://openalex.org/keywords/tocilizumab",
+      "display_name": "Tocilizumab",
+      "score": 0.45466557145118713
+    },
+    {
+      "id": "https://openalex.org/keywords/disease",
+      "display_name": "Disease",
+      "score": 0.4462618827819824
+    },
+    {
+      "id": "https://openalex.org/keywords/myalgia",
+      "display_name": "myalgia",
+      "score": 0.41266006231307983
+    },
+    {
+      "id": "https://openalex.org/keywords/meta-analysis",
+      "display_name": "Meta-analysis",
+      "score": 0.41263994574546814
+    },
+    {
+      "id": "https://openalex.org/keywords/medline",
+      "display_name": "MEDLINE",
+      "score": 0.33829420804977417
+    },
+    {
+      "id": "https://openalex.org/keywords/pediatrics",
+      "display_name": "Pediatrics",
+      "score": 0.3211020827293396
+    },
+    {
+      "id": "https://openalex.org/keywords/immunology",
+      "display_name": "Immunology",
+      "score": 0.25829726457595825
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C71924100",
+      "wikidata": "https://www.wikidata.org/wiki/Q11190",
+      "display_name": "Medicine",
+      "level": 0,
+      "score": 0.9369171857833862
+    },
+    {
+      "id": "https://openalex.org/C2779613421",
+      "wikidata": "https://www.wikidata.org/wiki/Q6725504",
+      "display_name": "Macrophage activation syndrome",
+      "level": 3,
+      "score": 0.8132184147834778
+    },
+    {
+      "id": "https://openalex.org/C2777870961",
+      "wikidata": "https://www.wikidata.org/wiki/Q1292082",
+      "display_name": "Sore throat",
+      "level": 2,
+      "score": 0.5753729343414307
+    },
+    {
+      "id": "https://openalex.org/C189708586",
+      "wikidata": "https://www.wikidata.org/wiki/Q1504425",
+      "display_name": "Systematic review",
+      "level": 3,
+      "score": 0.5307992100715637
+    },
+    {
+      "id": "https://openalex.org/C2777077863",
+      "wikidata": "https://www.wikidata.org/wiki/Q170990",
+      "display_name": "Arthritis",
+      "level": 2,
+      "score": 0.5025005340576172
+    },
+    {
+      "id": "https://openalex.org/C126322002",
+      "wikidata": "https://www.wikidata.org/wiki/Q11180",
+      "display_name": "Internal medicine",
+      "level": 1,
+      "score": 0.46883243322372437
+    },
+    {
+      "id": "https://openalex.org/C2777178219",
+      "wikidata": "https://www.wikidata.org/wiki/Q425154",
+      "display_name": "Tocilizumab",
+      "level": 3,
+      "score": 0.45466557145118713
+    },
+    {
+      "id": "https://openalex.org/C2779134260",
+      "wikidata": "https://www.wikidata.org/wiki/Q12136",
+      "display_name": "Disease",
+      "level": 2,
+      "score": 0.4462618827819824
+    },
+    {
+      "id": "https://openalex.org/C2778616394",
+      "wikidata": "https://www.wikidata.org/wiki/Q474959",
+      "display_name": "myalgia",
+      "level": 2,
+      "score": 0.41266006231307983
+    },
+    {
+      "id": "https://openalex.org/C95190672",
+      "wikidata": "https://www.wikidata.org/wiki/Q815382",
+      "display_name": "Meta-analysis",
+      "level": 2,
+      "score": 0.41263994574546814
+    },
+    {
+      "id": "https://openalex.org/C2779473830",
+      "wikidata": "https://www.wikidata.org/wiki/Q1540899",
+      "display_name": "MEDLINE",
+      "level": 2,
+      "score": 0.33829420804977417
+    },
+    {
+      "id": "https://openalex.org/C187212893",
+      "wikidata": "https://www.wikidata.org/wiki/Q123028",
+      "display_name": "Pediatrics",
+      "level": 1,
+      "score": 0.3211020827293396
+    },
+    {
+      "id": "https://openalex.org/C203014093",
+      "wikidata": "https://www.wikidata.org/wiki/Q101929",
+      "display_name": "Immunology",
+      "level": 1,
+      "score": 0.25829726457595825
+    },
+    {
+      "id": "https://openalex.org/C17744445",
+      "wikidata": "https://www.wikidata.org/wiki/Q36442",
+      "display_name": "Political science",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C199539241",
+      "wikidata": "https://www.wikidata.org/wiki/Q7748",
+      "display_name": "Law",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [
+    {
+      "descriptor_ui": "D000328",
+      "descriptor_name": "Adult",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D002648",
+      "descriptor_name": "Child",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D001171",
+      "descriptor_name": "Arthritis, Juvenile",
+      "qualifier_ui": "Q000097",
+      "qualifier_name": "blood",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D001171",
+      "descriptor_name": "Arthritis, Juvenile",
+      "qualifier_ui": "Q000175",
+      "qualifier_name": "diagnosis",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D001171",
+      "descriptor_name": "Arthritis, Juvenile",
+      "qualifier_ui": "Q000628",
+      "qualifier_name": "therapy",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D015415",
+      "descriptor_name": "Biomarkers",
+      "qualifier_ui": "Q000097",
+      "qualifier_name": "blood",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D003937",
+      "descriptor_name": "Diagnosis, Differential",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005293",
+      "descriptor_name": "Ferritins",
+      "qualifier_ui": "Q000097",
+      "qualifier_name": "blood",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D020382",
+      "descriptor_name": "Interleukin-18",
+      "qualifier_ui": "Q000097",
+      "qualifier_name": "blood",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D055501",
+      "descriptor_name": "Macrophage Activation Syndrome",
+      "qualifier_ui": "Q000175",
+      "qualifier_name": "diagnosis",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D017410",
+      "descriptor_name": "Practice Guidelines as Topic",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D016706",
+      "descriptor_name": "Still's Disease, Adult-Onset",
+      "qualifier_ui": "Q000175",
+      "qualifier_name": "diagnosis",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D016706",
+      "descriptor_name": "Still's Disease, Adult-Onset",
+      "qualifier_ui": "Q000628",
+      "qualifier_name": "therapy",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D000328",
+      "descriptor_name": "Adult",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D002648",
+      "descriptor_name": "Child",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D001171",
+      "descriptor_name": "Arthritis, Juvenile",
+      "qualifier_ui": "Q000097",
+      "qualifier_name": "blood",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D001171",
+      "descriptor_name": "Arthritis, Juvenile",
+      "qualifier_ui": "Q000175",
+      "qualifier_name": "diagnosis",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D001171",
+      "descriptor_name": "Arthritis, Juvenile",
+      "qualifier_ui": "Q000628",
+      "qualifier_name": "therapy",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D015415",
+      "descriptor_name": "Biomarkers",
+      "qualifier_ui": "Q000097",
+      "qualifier_name": "blood",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D003937",
+      "descriptor_name": "Diagnosis, Differential",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005293",
+      "descriptor_name": "Ferritins",
+      "qualifier_ui": "Q000097",
+      "qualifier_name": "blood",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D020382",
+      "descriptor_name": "Interleukin-18",
+      "qualifier_ui": "Q000097",
+      "qualifier_name": "blood",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D055501",
+      "descriptor_name": "Macrophage Activation Syndrome",
+      "qualifier_ui": "Q000175",
+      "qualifier_name": "diagnosis",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D017410",
+      "descriptor_name": "Practice Guidelines as Topic",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D016706",
+      "descriptor_name": "Still's Disease, Adult-Onset",
+      "qualifier_ui": "Q000175",
+      "qualifier_name": "diagnosis",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D016706",
+      "descriptor_name": "Still's Disease, Adult-Onset",
+      "qualifier_ui": "Q000628",
+      "qualifier_name": "therapy",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D000328",
+      "descriptor_name": "Adult",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D002648",
+      "descriptor_name": "Child",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D001171",
+      "descriptor_name": "Arthritis, Juvenile",
+      "qualifier_ui": "Q000097",
+      "qualifier_name": "blood",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D001171",
+      "descriptor_name": "Arthritis, Juvenile",
+      "qualifier_ui": "Q000175",
+      "qualifier_name": "diagnosis",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D001171",
+      "descriptor_name": "Arthritis, Juvenile",
+      "qualifier_ui": "Q000628",
+      "qualifier_name": "therapy",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D015415",
+      "descriptor_name": "Biomarkers",
+      "qualifier_ui": "Q000097",
+      "qualifier_name": "blood",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D003937",
+      "descriptor_name": "Diagnosis, Differential",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005293",
+      "descriptor_name": "Ferritins",
+      "qualifier_ui": "Q000097",
+      "qualifier_name": "blood",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D020382",
+      "descriptor_name": "Interleukin-18",
+      "qualifier_ui": "Q000097",
+      "qualifier_name": "blood",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D055501",
+      "descriptor_name": "Macrophage Activation Syndrome",
+      "qualifier_ui": "Q000175",
+      "qualifier_name": "diagnosis",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D017410",
+      "descriptor_name": "Practice Guidelines as Topic",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D016706",
+      "descriptor_name": "Still's Disease, Adult-Onset",
+      "qualifier_ui": "Q000175",
+      "qualifier_name": "diagnosis",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D016706",
+      "descriptor_name": "Still's Disease, Adult-Onset",
+      "qualifier_ui": "Q000628",
+      "qualifier_name": "therapy",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D000328",
+      "descriptor_name": "Adult",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D002648",
+      "descriptor_name": "Child",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D001171",
+      "descriptor_name": "Arthritis, Juvenile",
+      "qualifier_ui": "Q000097",
+      "qualifier_name": "blood",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D001171",
+      "descriptor_name": "Arthritis, Juvenile",
+      "qualifier_ui": "Q000175",
+      "qualifier_name": "diagnosis",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D001171",
+      "descriptor_name": "Arthritis, Juvenile",
+      "qualifier_ui": "Q000628",
+      "qualifier_name": "therapy",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D015415",
+      "descriptor_name": "Biomarkers",
+      "qualifier_ui": "Q000097",
+      "qualifier_name": "blood",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D003937",
+      "descriptor_name": "Diagnosis, Differential",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005293",
+      "descriptor_name": "Ferritins",
+      "qualifier_ui": "Q000097",
+      "qualifier_name": "blood",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D020382",
+      "descriptor_name": "Interleukin-18",
+      "qualifier_ui": "Q000097",
+      "qualifier_name": "blood",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D055501",
+      "descriptor_name": "Macrophage Activation Syndrome",
+      "qualifier_ui": "Q000175",
+      "qualifier_name": "diagnosis",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D017410",
+      "descriptor_name": "Practice Guidelines as Topic",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D016706",
+      "descriptor_name": "Still's Disease, Adult-Onset",
+      "qualifier_ui": "Q000175",
+      "qualifier_name": "diagnosis",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D016706",
+      "descriptor_name": "Still's Disease, Adult-Onset",
+      "qualifier_ui": "Q000628",
+      "qualifier_name": "therapy",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D000328",
+      "descriptor_name": "Adult",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D002648",
+      "descriptor_name": "Child",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D001171",
+      "descriptor_name": "Arthritis, Juvenile",
+      "qualifier_ui": "Q000097",
+      "qualifier_name": "blood",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D001171",
+      "descriptor_name": "Arthritis, Juvenile",
+      "qualifier_ui": "Q000175",
+      "qualifier_name": "diagnosis",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D001171",
+      "descriptor_name": "Arthritis, Juvenile",
+      "qualifier_ui": "Q000628",
+      "qualifier_name": "therapy",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D015415",
+      "descriptor_name": "Biomarkers",
+      "qualifier_ui": "Q000097",
+      "qualifier_name": "blood",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D003937",
+      "descriptor_name": "Diagnosis, Differential",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005293",
+      "descriptor_name": "Ferritins",
+      "qualifier_ui": "Q000097",
+      "qualifier_name": "blood",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D020382",
+      "descriptor_name": "Interleukin-18",
+      "qualifier_ui": "Q000097",
+      "qualifier_name": "blood",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D055501",
+      "descriptor_name": "Macrophage Activation Syndrome",
+      "qualifier_ui": "Q000175",
+      "qualifier_name": "diagnosis",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D017410",
+      "descriptor_name": "Practice Guidelines as Topic",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D016706",
+      "descriptor_name": "Still's Disease, Adult-Onset",
+      "qualifier_ui": "Q000175",
+      "qualifier_name": "diagnosis",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D016706",
+      "descriptor_name": "Still's Disease, Adult-Onset",
+      "qualifier_ui": "Q000628",
+      "qualifier_name": "therapy",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D016706",
+      "descriptor_name": "Still's Disease, Adult-Onset",
+      "qualifier_ui": "Q000175",
+      "qualifier_name": "diagnosis",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D001171",
+      "descriptor_name": "Arthritis, Juvenile",
+      "qualifier_ui": "Q000175",
+      "qualifier_name": "diagnosis",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D001171",
+      "descriptor_name": "Arthritis, Juvenile",
+      "qualifier_ui": "Q000097",
+      "qualifier_name": "blood",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D015415",
+      "descriptor_name": "Biomarkers",
+      "qualifier_ui": "Q000097",
+      "qualifier_name": "blood",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D055501",
+      "descriptor_name": "Macrophage Activation Syndrome",
+      "qualifier_ui": "Q000175",
+      "qualifier_name": "diagnosis",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D000328",
+      "descriptor_name": "Adult",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D017410",
+      "descriptor_name": "Practice Guidelines as Topic",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005293",
+      "descriptor_name": "Ferritins",
+      "qualifier_ui": "Q000097",
+      "qualifier_name": "blood",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D003937",
+      "descriptor_name": "Diagnosis, Differential",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D020382",
+      "descriptor_name": "Interleukin-18",
+      "qualifier_ui": "Q000097",
+      "qualifier_name": "blood",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D002648",
+      "descriptor_name": "Child",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D016706",
+      "descriptor_name": "Still's Disease, Adult-Onset",
+      "qualifier_ui": "Q000175",
+      "qualifier_name": "diagnosis",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D001171",
+      "descriptor_name": "Arthritis, Juvenile",
+      "qualifier_ui": "Q000175",
+      "qualifier_name": "diagnosis",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D001171",
+      "descriptor_name": "Arthritis, Juvenile",
+      "qualifier_ui": "Q000097",
+      "qualifier_name": "blood",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D015415",
+      "descriptor_name": "Biomarkers",
+      "qualifier_ui": "Q000097",
+      "qualifier_name": "blood",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D055501",
+      "descriptor_name": "Macrophage Activation Syndrome",
+      "qualifier_ui": "Q000175",
+      "qualifier_name": "diagnosis",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D000328",
+      "descriptor_name": "Adult",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D017410",
+      "descriptor_name": "Practice Guidelines as Topic",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005293",
+      "descriptor_name": "Ferritins",
+      "qualifier_ui": "Q000097",
+      "qualifier_name": "blood",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D003937",
+      "descriptor_name": "Diagnosis, Differential",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D020382",
+      "descriptor_name": "Interleukin-18",
+      "qualifier_ui": "Q000097",
+      "qualifier_name": "blood",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D002648",
+      "descriptor_name": "Child",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    }
+  ],
+  "locations_count": 4,
+  "locations": [
+    {
+      "id": "doi:10.1136/ard-2024-225853",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1136/ard-2024-225853",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S25650217",
+        "display_name": "Annals of the Rheumatic Diseases",
+        "issn_l": "0003-4967",
+        "issn": [
+          "0003-4967",
+          "1468-2060"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310319945",
+        "host_organization_name": "BMJ",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310319945"
+        ],
+        "host_organization_lineage_names": [
+          "BMJ"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Annals of the Rheumatic Diseases",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:39317414",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/39317414",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Annals of the rheumatic diseases",
+      "raw_type": null
+    },
+    {
+      "id": "pmh:oai:pubmedcentral.nih.gov:11671913",
+      "is_oa": true,
+      "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/11671913",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S2764455111",
+        "display_name": "PubMed Central",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "other-oa",
+      "license_id": "https://openalex.org/licenses/other-oa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Ann Rheum Dis",
+      "raw_type": "Text"
+    },
+    {
+      "id": "pmh:oai:www.research.unipd.it:11577/3531364",
+      "is_oa": false,
+      "landing_page_url": "https://hdl.handle.net/11577/3531364",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306402448",
+        "display_name": "Padua Research Archive (University of Padua)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I138689650",
+        "host_organization_name": "University of Padua",
+        "host_organization_lineage": [
+          "https://openalex.org/I138689650"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "",
+      "raw_type": "info:eu-repo/semantics/article"
+    }
+  ],
+  "best_oa_location": {
+    "id": "pmh:oai:pubmedcentral.nih.gov:11671913",
+    "is_oa": true,
+    "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/11671913",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S2764455111",
+      "display_name": "PubMed Central",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": false,
+      "host_organization": "https://openalex.org/I1299303238",
+      "host_organization_name": "National Institutes of Health",
+      "host_organization_lineage": [
+        "https://openalex.org/I1299303238"
+      ],
+      "host_organization_lineage_names": [],
+      "type": "repository"
+    },
+    "license": "other-oa",
+    "license_id": "https://openalex.org/licenses/other-oa",
+    "version": "submittedVersion",
+    "is_accepted": false,
+    "is_published": false,
+    "raw_source_name": "Ann Rheum Dis",
+    "raw_type": "Text"
+  },
+  "sustainable_development_goals": [
+    {
+      "display_name": "Good health and well-being",
+      "id": "https://metadata.un.org/sdg/3",
+      "score": 0.7400000095367432
+    }
+  ],
+  "awards": [
+    {
+      "id": "https://openalex.org/G5020863897",
+      "display_name": null,
+      "funder_award_id": "QoC011",
+      "funder_id": "https://openalex.org/F4320325330",
+      "funder_display_name": "European League Against Rheumatism"
+    }
+  ],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320325330",
+      "display_name": "European League Against Rheumatism",
+      "ror": "https://ror.org/03f7j3221"
+    }
+  ],
+  "has_content": {
+    "grobid_xml": false,
+    "pdf": false
+  },
+  "referenced_works_count": 95,
+  "referenced_works": [
+    "https://openalex.org/W4322697126",
+    "https://openalex.org/W2104164819",
+    "https://openalex.org/W2950748974",
+    "https://openalex.org/W2221264044",
+    "https://openalex.org/W2891385015",
+    "https://openalex.org/W2501949584",
+    "https://openalex.org/W2961584204",
+    "https://openalex.org/W1505641753",
+    "https://openalex.org/W2337852073",
+    "https://openalex.org/W2325914097",
+    "https://openalex.org/W1990180387",
+    "https://openalex.org/W2415396904",
+    "https://openalex.org/W2175199415",
+    "https://openalex.org/W4294215472",
+    "https://openalex.org/W6800023826",
+    "https://openalex.org/W6604456188",
+    "https://openalex.org/W2895111641",
+    "https://openalex.org/W6688939852",
+    "https://openalex.org/W2001825211",
+    "https://openalex.org/W2055871368",
+    "https://openalex.org/W4293429475",
+    "https://openalex.org/W2325512805",
+    "https://openalex.org/W2063277639",
+    "https://openalex.org/W2096913021",
+    "https://openalex.org/W2125435699",
+    "https://openalex.org/W2107638293",
+    "https://openalex.org/W2922778958",
+    "https://openalex.org/W4308969764",
+    "https://openalex.org/W2116825622",
+    "https://openalex.org/W2020594595",
+    "https://openalex.org/W1963913669",
+    "https://openalex.org/W3011394804",
+    "https://openalex.org/W2986076824",
+    "https://openalex.org/W3040985536",
+    "https://openalex.org/W1637884427",
+    "https://openalex.org/W2961481644",
+    "https://openalex.org/W1991131366",
+    "https://openalex.org/W4205635142",
+    "https://openalex.org/W2980320557",
+    "https://openalex.org/W2060474689",
+    "https://openalex.org/W3166566435",
+    "https://openalex.org/W4225275535",
+    "https://openalex.org/W3011256182",
+    "https://openalex.org/W2744922897",
+    "https://openalex.org/W1980597439",
+    "https://openalex.org/W3035179229",
+    "https://openalex.org/W1978872487",
+    "https://openalex.org/W2121641630",
+    "https://openalex.org/W2967813086",
+    "https://openalex.org/W2032488289",
+    "https://openalex.org/W2331916323",
+    "https://openalex.org/W2147950329",
+    "https://openalex.org/W2168010684",
+    "https://openalex.org/W2605975220",
+    "https://openalex.org/W2883411566",
+    "https://openalex.org/W3106398685",
+    "https://openalex.org/W4385224046",
+    "https://openalex.org/W2784026193",
+    "https://openalex.org/W2128975003",
+    "https://openalex.org/W3095122945",
+    "https://openalex.org/W2444247510",
+    "https://openalex.org/W2933607365",
+    "https://openalex.org/W3003972269",
+    "https://openalex.org/W1983067071",
+    "https://openalex.org/W3112059656",
+    "https://openalex.org/W2755192480",
+    "https://openalex.org/W4206985059",
+    "https://openalex.org/W3195837072",
+    "https://openalex.org/W2227912200",
+    "https://openalex.org/W3201148352",
+    "https://openalex.org/W6682121769",
+    "https://openalex.org/W3144406301",
+    "https://openalex.org/W2063638233",
+    "https://openalex.org/W2780987505",
+    "https://openalex.org/W3216957934",
+    "https://openalex.org/W4293574607",
+    "https://openalex.org/W4210747590",
+    "https://openalex.org/W2151196578",
+    "https://openalex.org/W4293427649",
+    "https://openalex.org/W2590325765",
+    "https://openalex.org/W3013762813",
+    "https://openalex.org/W2091075158",
+    "https://openalex.org/W2165248863",
+    "https://openalex.org/W1995428027",
+    "https://openalex.org/W3184354849",
+    "https://openalex.org/W6649423999",
+    "https://openalex.org/W3022160684",
+    "https://openalex.org/W3191274680",
+    "https://openalex.org/W2034490142",
+    "https://openalex.org/W3202314844",
+    "https://openalex.org/W3183820853",
+    "https://openalex.org/W4230283983",
+    "https://openalex.org/W1995860931",
+    "https://openalex.org/W107023457",
+    "https://openalex.org/W2912340940"
+  ],
+  "related_works": [
+    "https://openalex.org/W2093580598",
+    "https://openalex.org/W2077393724",
+    "https://openalex.org/W2150900575",
+    "https://openalex.org/W2170289818",
+    "https://openalex.org/W2339811759",
+    "https://openalex.org/W2782192577",
+    "https://openalex.org/W2363807631",
+    "https://openalex.org/W2005607780",
+    "https://openalex.org/W2183050927",
+    "https://openalex.org/W4362676545"
+  ],
+  "abstract_inverted_index": null,
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 28
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 3
+    }
+  ],
+  "updated_date": "2025-11-06T03:46:38.306776",
+  "created_date": "2025-10-10T00:00:00"
+}

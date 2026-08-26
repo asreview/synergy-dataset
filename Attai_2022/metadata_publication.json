@@ -1,0 +1,1380 @@
+{
+  "id": "https://openalex.org/W4310035778",
+  "doi": "https://doi.org/10.3390/tropicalmed7120398",
+  "title": "A Systematic Review of Applications of Machine Learning and Other Soft Computing Techniques for the Diagnosis of Tropical Diseases",
+  "display_name": "A Systematic Review of Applications of Machine Learning and Other Soft Computing Techniques for the Diagnosis of Tropical Diseases",
+  "publication_year": 2022,
+  "publication_date": "2022-11-25",
+  "ids": {
+    "openalex": "https://openalex.org/W4310035778",
+    "doi": "https://doi.org/10.3390/tropicalmed7120398",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/36548653"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.3390/tropicalmed7120398",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.3390/tropicalmed7120398",
+    "pdf_url": "https://www.mdpi.com/2414-6366/7/12/398/pdf?version=1670292683",
+    "source": {
+      "id": "https://openalex.org/S2737916383",
+      "display_name": "Tropical Medicine and Infectious Disease",
+      "issn_l": "2414-6366",
+      "issn": [
+        "2414-6366"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310310987",
+      "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310310987"
+      ],
+      "host_organization_lineage_names": [
+        "Multidisciplinary Digital Publishing Institute"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Tropical Medicine and Infectious Disease",
+    "raw_type": "journal-article"
+  },
+  "type": "review",
+  "indexed_in": [
+    "crossref",
+    "doaj",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "gold",
+    "oa_url": "https://www.mdpi.com/2414-6366/7/12/398/pdf?version=1670292683",
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5050860658",
+        "display_name": "Kingsley Attai",
+        "orcid": "https://orcid.org/0000-0002-2199-5049"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Kingsley Attai",
+      "raw_affiliation_strings": [
+        "Department of Mathematics and Computer Science, Ritman University, Ikot Ekpene 530101, Nigeria"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Mathematics and Computer Science, Ritman University, Ikot Ekpene 530101, Nigeria",
+          "institution_ids": []
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5086312071",
+        "display_name": "Yasaman Amannejad",
+        "orcid": "https://orcid.org/0000-0002-5668-6086"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I870124129",
+          "display_name": "Mount Royal University",
+          "ror": "https://ror.org/04evsam41",
+          "country_code": "CA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I870124129"
+          ]
+        }
+      ],
+      "countries": [
+        "CA"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Yasaman Amannejad",
+      "raw_affiliation_strings": [
+        "Department of Mathematics and Computing, Mount Royal University, Calgary, AB T3E 6K6, Canada"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Mathematics and Computing, Mount Royal University, Calgary, AB T3E 6K6, Canada",
+          "institution_ids": [
+            "https://openalex.org/I870124129"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5024646667",
+        "display_name": "Maryam Vahdat Pour",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I870124129",
+          "display_name": "Mount Royal University",
+          "ror": "https://ror.org/04evsam41",
+          "country_code": "CA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I870124129"
+          ]
+        }
+      ],
+      "countries": [
+        "CA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Maryam Vahdat Pour",
+      "raw_affiliation_strings": [
+        "Department of Mathematics and Computing, Mount Royal University, Calgary, AB T3E 6K6, Canada"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Mathematics and Computing, Mount Royal University, Calgary, AB T3E 6K6, Canada",
+          "institution_ids": [
+            "https://openalex.org/I870124129"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5068084356",
+        "display_name": "Okure Obot",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I37797678",
+          "display_name": "University of Uyo",
+          "ror": "https://ror.org/0127mpp72",
+          "country_code": "NG",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I37797678"
+          ]
+        }
+      ],
+      "countries": [
+        "NG"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Okure Obot",
+      "raw_affiliation_strings": [
+        "Department of Computer Science, University of Uyo, Uyo 520103, Nigeria"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Computer Science, University of Uyo, Uyo 520103, Nigeria",
+          "institution_ids": [
+            "https://openalex.org/I37797678"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5025675138",
+        "display_name": "Faith\u2010Michael Uzoka",
+        "orcid": "https://orcid.org/0000-0002-2414-5349"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I870124129",
+          "display_name": "Mount Royal University",
+          "ror": "https://ror.org/04evsam41",
+          "country_code": "CA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I870124129"
+          ]
+        }
+      ],
+      "countries": [
+        "CA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Faith-Michael Uzoka",
+      "raw_affiliation_strings": [
+        "Department of Mathematics and Computing, Mount Royal University, Calgary, AB T3E 6K6, Canada"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Mathematics and Computing, Mount Royal University, Calgary, AB T3E 6K6, Canada",
+          "institution_ids": [
+            "https://openalex.org/I870124129"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 2,
+  "institutions_distinct_count": 5,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5086312071"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I870124129"
+  ],
+  "apc_list": {
+    "value": 2000,
+    "currency": "CHF",
+    "value_usd": 2165
+  },
+  "apc_paid": {
+    "value": 2000,
+    "currency": "CHF",
+    "value_usd": 2165
+  },
+  "fwci": 2.47583602,
+  "has_fulltext": false,
+  "cited_by_count": 20,
+  "citation_normalized_percentile": {
+    "value": 0.89429912,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 98,
+    "max": 99
+  },
+  "biblio": {
+    "volume": "7",
+    "issue": "12",
+    "first_page": "398",
+    "last_page": "398"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T12874",
+    "display_name": "Digital Imaging for Blood Diseases",
+    "score": 0.998199999332428,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1707",
+      "display_name": "Computer Vision and Pattern Recognition"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/17",
+      "display_name": "Computer Science"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T12874",
+      "display_name": "Digital Imaging for Blood Diseases",
+      "score": 0.998199999332428,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1707",
+        "display_name": "Computer Vision and Pattern Recognition"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11652",
+      "display_name": "Imbalanced Data Classification Techniques",
+      "score": 0.991599977016449,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1702",
+        "display_name": "Artificial Intelligence"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11396",
+      "display_name": "Artificial Intelligence in Healthcare",
+      "score": 0.9887999892234802,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3605",
+        "display_name": "Health Information Management"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/36",
+        "display_name": "Health Professions"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/soft-computing",
+      "display_name": "Soft computing",
+      "score": 0.881684422492981
+    },
+    {
+      "id": "https://openalex.org/keywords/medical-diagnosis",
+      "display_name": "Medical diagnosis",
+      "score": 0.7095524072647095
+    },
+    {
+      "id": "https://openalex.org/keywords/machine-learning",
+      "display_name": "Machine learning",
+      "score": 0.7072641253471375
+    },
+    {
+      "id": "https://openalex.org/keywords/artificial-intelligence",
+      "display_name": "Artificial intelligence",
+      "score": 0.5929387211799622
+    },
+    {
+      "id": "https://openalex.org/keywords/computer-science",
+      "display_name": "Computer science",
+      "score": 0.5782862901687622
+    },
+    {
+      "id": "https://openalex.org/keywords/tropical-disease",
+      "display_name": "Tropical disease",
+      "score": 0.5518341064453125
+    },
+    {
+      "id": "https://openalex.org/keywords/dengue-fever",
+      "display_name": "Dengue fever",
+      "score": 0.5187428593635559
+    },
+    {
+      "id": "https://openalex.org/keywords/neglected-tropical-diseases",
+      "display_name": "Neglected tropical diseases",
+      "score": 0.51048743724823
+    },
+    {
+      "id": "https://openalex.org/keywords/metric",
+      "display_name": "Metric (unit)",
+      "score": 0.4939032196998596
+    },
+    {
+      "id": "https://openalex.org/keywords/systematic-review",
+      "display_name": "Systematic review",
+      "score": 0.45343154668807983
+    },
+    {
+      "id": "https://openalex.org/keywords/ensemble-learning",
+      "display_name": "Ensemble learning",
+      "score": 0.4437204897403717
+    },
+    {
+      "id": "https://openalex.org/keywords/disease",
+      "display_name": "Disease",
+      "score": 0.37976422905921936
+    },
+    {
+      "id": "https://openalex.org/keywords/data-mining",
+      "display_name": "Data mining",
+      "score": 0.3629610538482666
+    },
+    {
+      "id": "https://openalex.org/keywords/medicine",
+      "display_name": "Medicine",
+      "score": 0.3153640031814575
+    },
+    {
+      "id": "https://openalex.org/keywords/artificial-neural-network",
+      "display_name": "Artificial neural network",
+      "score": 0.2594454884529114
+    },
+    {
+      "id": "https://openalex.org/keywords/medline",
+      "display_name": "MEDLINE",
+      "score": 0.23631379008293152
+    },
+    {
+      "id": "https://openalex.org/keywords/pathology",
+      "display_name": "Pathology",
+      "score": 0.22980836033821106
+    },
+    {
+      "id": "https://openalex.org/keywords/engineering",
+      "display_name": "Engineering",
+      "score": 0.14141759276390076
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C140073362",
+      "wikidata": "https://www.wikidata.org/wiki/Q738759",
+      "display_name": "Soft computing",
+      "level": 3,
+      "score": 0.881684422492981
+    },
+    {
+      "id": "https://openalex.org/C534262118",
+      "wikidata": "https://www.wikidata.org/wiki/Q177719",
+      "display_name": "Medical diagnosis",
+      "level": 2,
+      "score": 0.7095524072647095
+    },
+    {
+      "id": "https://openalex.org/C119857082",
+      "wikidata": "https://www.wikidata.org/wiki/Q2539",
+      "display_name": "Machine learning",
+      "level": 1,
+      "score": 0.7072641253471375
+    },
+    {
+      "id": "https://openalex.org/C154945302",
+      "wikidata": "https://www.wikidata.org/wiki/Q11660",
+      "display_name": "Artificial intelligence",
+      "level": 1,
+      "score": 0.5929387211799622
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.5782862901687622
+    },
+    {
+      "id": "https://openalex.org/C2777474118",
+      "wikidata": "https://www.wikidata.org/wiki/Q1345671",
+      "display_name": "Tropical disease",
+      "level": 3,
+      "score": 0.5518341064453125
+    },
+    {
+      "id": "https://openalex.org/C533803919",
+      "wikidata": "https://www.wikidata.org/wiki/Q30953",
+      "display_name": "Dengue fever",
+      "level": 2,
+      "score": 0.5187428593635559
+    },
+    {
+      "id": "https://openalex.org/C2776246342",
+      "wikidata": "https://www.wikidata.org/wiki/Q929451",
+      "display_name": "Neglected tropical diseases",
+      "level": 3,
+      "score": 0.51048743724823
+    },
+    {
+      "id": "https://openalex.org/C176217482",
+      "wikidata": "https://www.wikidata.org/wiki/Q860554",
+      "display_name": "Metric (unit)",
+      "level": 2,
+      "score": 0.4939032196998596
+    },
+    {
+      "id": "https://openalex.org/C189708586",
+      "wikidata": "https://www.wikidata.org/wiki/Q1504425",
+      "display_name": "Systematic review",
+      "level": 3,
+      "score": 0.45343154668807983
+    },
+    {
+      "id": "https://openalex.org/C45942800",
+      "wikidata": "https://www.wikidata.org/wiki/Q245652",
+      "display_name": "Ensemble learning",
+      "level": 2,
+      "score": 0.4437204897403717
+    },
+    {
+      "id": "https://openalex.org/C2779134260",
+      "wikidata": "https://www.wikidata.org/wiki/Q12136",
+      "display_name": "Disease",
+      "level": 2,
+      "score": 0.37976422905921936
+    },
+    {
+      "id": "https://openalex.org/C124101348",
+      "wikidata": "https://www.wikidata.org/wiki/Q172491",
+      "display_name": "Data mining",
+      "level": 1,
+      "score": 0.3629610538482666
+    },
+    {
+      "id": "https://openalex.org/C71924100",
+      "wikidata": "https://www.wikidata.org/wiki/Q11190",
+      "display_name": "Medicine",
+      "level": 0,
+      "score": 0.3153640031814575
+    },
+    {
+      "id": "https://openalex.org/C50644808",
+      "wikidata": "https://www.wikidata.org/wiki/Q192776",
+      "display_name": "Artificial neural network",
+      "level": 2,
+      "score": 0.2594454884529114
+    },
+    {
+      "id": "https://openalex.org/C2779473830",
+      "wikidata": "https://www.wikidata.org/wiki/Q1540899",
+      "display_name": "MEDLINE",
+      "level": 2,
+      "score": 0.23631379008293152
+    },
+    {
+      "id": "https://openalex.org/C142724271",
+      "wikidata": "https://www.wikidata.org/wiki/Q7208",
+      "display_name": "Pathology",
+      "level": 1,
+      "score": 0.22980836033821106
+    },
+    {
+      "id": "https://openalex.org/C127413603",
+      "wikidata": "https://www.wikidata.org/wiki/Q11023",
+      "display_name": "Engineering",
+      "level": 0,
+      "score": 0.14141759276390076
+    },
+    {
+      "id": "https://openalex.org/C199539241",
+      "wikidata": "https://www.wikidata.org/wiki/Q7748",
+      "display_name": "Law",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C21547014",
+      "wikidata": "https://www.wikidata.org/wiki/Q1423657",
+      "display_name": "Operations management",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C17744445",
+      "wikidata": "https://www.wikidata.org/wiki/Q36442",
+      "display_name": "Political science",
+      "level": 0,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 5,
+  "locations": [
+    {
+      "id": "doi:10.3390/tropicalmed7120398",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.3390/tropicalmed7120398",
+      "pdf_url": "https://www.mdpi.com/2414-6366/7/12/398/pdf?version=1670292683",
+      "source": {
+        "id": "https://openalex.org/S2737916383",
+        "display_name": "Tropical Medicine and Infectious Disease",
+        "issn_l": "2414-6366",
+        "issn": [
+          "2414-6366"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310310987",
+        "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310310987"
+        ],
+        "host_organization_lineage_names": [
+          "Multidisciplinary Digital Publishing Institute"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Tropical Medicine and Infectious Disease",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:36548653",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/36548653",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Tropical medicine and infectious disease",
+      "raw_type": null
+    },
+    {
+      "id": "pmh:oai:doaj.org/article:dfc776709d584fcf924c343568d3b448",
+      "is_oa": true,
+      "landing_page_url": "https://doaj.org/article/dfc776709d584fcf924c343568d3b448",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401280",
+        "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by-sa",
+      "license_id": "https://openalex.org/licenses/cc-by-sa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Tropical Medicine and Infectious Disease, Vol 7, Iss 12, p 398 (2022)",
+      "raw_type": "article"
+    },
+    {
+      "id": "pmh:oai:mdpi.com:/2414-6366/7/12/398/",
+      "is_oa": true,
+      "landing_page_url": "https://dx.doi.org/10.3390/tropicalmed7120398",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306400947",
+        "display_name": "MDPI (MDPI AG)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I4210097602",
+        "host_organization_name": "Multidisciplinary Digital Publishing Institute (Switzerland)",
+        "host_organization_lineage": [
+          "https://openalex.org/I4210097602"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Tropical Medicine and Infectious Disease; Volume 7; Issue 12; Pages: 398",
+      "raw_type": "Text"
+    },
+    {
+      "id": "pmh:oai:pubmedcentral.nih.gov:9787706",
+      "is_oa": true,
+      "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/9787706",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S2764455111",
+        "display_name": "PubMed Central",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "other-oa",
+      "license_id": "https://openalex.org/licenses/other-oa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Trop Med Infect Dis",
+      "raw_type": "Text"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.3390/tropicalmed7120398",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.3390/tropicalmed7120398",
+    "pdf_url": "https://www.mdpi.com/2414-6366/7/12/398/pdf?version=1670292683",
+    "source": {
+      "id": "https://openalex.org/S2737916383",
+      "display_name": "Tropical Medicine and Infectious Disease",
+      "issn_l": "2414-6366",
+      "issn": [
+        "2414-6366"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310310987",
+      "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310310987"
+      ],
+      "host_organization_lineage_names": [
+        "Multidisciplinary Digital Publishing Institute"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Tropical Medicine and Infectious Disease",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [
+    {
+      "id": "https://metadata.un.org/sdg/10",
+      "score": 0.44999998807907104,
+      "display_name": "Reduced inequalities"
+    }
+  ],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "grobid_xml": true,
+    "pdf": true
+  },
+  "referenced_works_count": 100,
+  "referenced_works": [
+    "https://openalex.org/W50462180",
+    "https://openalex.org/W2533491448",
+    "https://openalex.org/W2773642388",
+    "https://openalex.org/W3001157157",
+    "https://openalex.org/W2202322071",
+    "https://openalex.org/W3137773357",
+    "https://openalex.org/W2783741365",
+    "https://openalex.org/W3010952076",
+    "https://openalex.org/W2035115911",
+    "https://openalex.org/W4233744947",
+    "https://openalex.org/W6729136857",
+    "https://openalex.org/W2913161320",
+    "https://openalex.org/W6760322097",
+    "https://openalex.org/W6785392308",
+    "https://openalex.org/W1980840197",
+    "https://openalex.org/W1965427364",
+    "https://openalex.org/W2013525763",
+    "https://openalex.org/W2531079465",
+    "https://openalex.org/W1983113859",
+    "https://openalex.org/W2085891931",
+    "https://openalex.org/W1602388384",
+    "https://openalex.org/W2079613538",
+    "https://openalex.org/W2292270709",
+    "https://openalex.org/W2750166554",
+    "https://openalex.org/W2905100447",
+    "https://openalex.org/W6734354029",
+    "https://openalex.org/W2995297075",
+    "https://openalex.org/W4230588695",
+    "https://openalex.org/W2801319536",
+    "https://openalex.org/W3038102341",
+    "https://openalex.org/W4224212213",
+    "https://openalex.org/W2783699776",
+    "https://openalex.org/W6734804728",
+    "https://openalex.org/W4280584395",
+    "https://openalex.org/W6753855904",
+    "https://openalex.org/W3033237289",
+    "https://openalex.org/W6745618129",
+    "https://openalex.org/W4221054198",
+    "https://openalex.org/W2555841087",
+    "https://openalex.org/W2702348853",
+    "https://openalex.org/W6811573553",
+    "https://openalex.org/W2396219063",
+    "https://openalex.org/W2947374612",
+    "https://openalex.org/W2976330996",
+    "https://openalex.org/W3043408148",
+    "https://openalex.org/W3146142859",
+    "https://openalex.org/W3022483099",
+    "https://openalex.org/W2992625249",
+    "https://openalex.org/W2807036076",
+    "https://openalex.org/W3006288161",
+    "https://openalex.org/W2983441169",
+    "https://openalex.org/W6686066310",
+    "https://openalex.org/W6632889352",
+    "https://openalex.org/W3034011639",
+    "https://openalex.org/W2929307827",
+    "https://openalex.org/W2944426353",
+    "https://openalex.org/W2971489407",
+    "https://openalex.org/W4236485095",
+    "https://openalex.org/W2049129660",
+    "https://openalex.org/W996801710",
+    "https://openalex.org/W2132886902",
+    "https://openalex.org/W3131057326",
+    "https://openalex.org/W3046220160",
+    "https://openalex.org/W2999974005",
+    "https://openalex.org/W3167303441",
+    "https://openalex.org/W3163328251",
+    "https://openalex.org/W3112675846",
+    "https://openalex.org/W3121555817",
+    "https://openalex.org/W3133513694",
+    "https://openalex.org/W3094968847",
+    "https://openalex.org/W3211069439",
+    "https://openalex.org/W4400134761",
+    "https://openalex.org/W2907716967",
+    "https://openalex.org/W3035142875",
+    "https://openalex.org/W2918408501",
+    "https://openalex.org/W3001229767",
+    "https://openalex.org/W6911828936",
+    "https://openalex.org/W2339751448",
+    "https://openalex.org/W2330219538",
+    "https://openalex.org/W2292220633",
+    "https://openalex.org/W2142187719",
+    "https://openalex.org/W2053724458",
+    "https://openalex.org/W2134148082",
+    "https://openalex.org/W2114043028",
+    "https://openalex.org/W2770877241",
+    "https://openalex.org/W2039240409",
+    "https://openalex.org/W2102148524",
+    "https://openalex.org/W6687817913",
+    "https://openalex.org/W1551007401",
+    "https://openalex.org/W2592383921",
+    "https://openalex.org/W4221021912",
+    "https://openalex.org/W2887964331",
+    "https://openalex.org/W4226245652",
+    "https://openalex.org/W2547073675",
+    "https://openalex.org/W2595832430",
+    "https://openalex.org/W2921018963",
+    "https://openalex.org/W2185152829",
+    "https://openalex.org/W2766465476",
+    "https://openalex.org/W64512542",
+    "https://openalex.org/W3105098701"
+  ],
+  "related_works": [
+    "https://openalex.org/W2804577086",
+    "https://openalex.org/W3003691749",
+    "https://openalex.org/W4403613963",
+    "https://openalex.org/W2207530882",
+    "https://openalex.org/W2156333745",
+    "https://openalex.org/W2239641351",
+    "https://openalex.org/W3208698811",
+    "https://openalex.org/W2055623470",
+    "https://openalex.org/W2170513208",
+    "https://openalex.org/W1982088023"
+  ],
+  "abstract_inverted_index": {
+    "This": [
+      0
+    ],
+    "systematic": [
+      1
+    ],
+    "literature": [
+      2
+    ],
+    "aims": [
+      3
+    ],
+    "to": [
+      4,
+      46,
+      72,
+      133,
+      184
+    ],
+    "identify": [
+      5,
+      73
+    ],
+    "soft": [
+      6,
+      48,
+      156
+    ],
+    "computing": [
+      7,
+      49,
+      157
+    ],
+    "techniques": [
+      8,
+      50,
+      90,
+      158,
+      176
+    ],
+    "currently": [
+      9
+    ],
+    "utilized": [
+      10,
+      88,
+      132
+    ],
+    "in": [
+      11,
+      62,
+      172
+    ],
+    "diagnosing": [
+      12,
+      178
+    ],
+    "tropical": [
+      13,
+      63,
+      163,
+      179
+    ],
+    "febrile": [
+      14
+    ],
+    "diseases": [
+      15
+    ],
+    "and": [
+      16,
+      21,
+      28,
+      59,
+      76,
+      119,
+      190
+    ],
+    "explore": [
+      17
+    ],
+    "the": [
+      18,
+      29,
+      44,
+      54,
+      83,
+      112,
+      128,
+      135
+    ],
+    "data": [
+      19
+    ],
+    "characteristics": [
+      20
+    ],
+    "features": [
+      22
+    ],
+    "used": [
+      23,
+      69
+    ],
+    "for": [
+      24,
+      91,
+      159,
+      177,
+      192
+    ],
+    "diagnoses,": [
+      25
+    ],
+    "algorithm": [
+      26
+    ],
+    "accuracy,": [
+      27
+    ],
+    "limitations": [
+      30
+    ],
+    "of": [
+      31,
+      36,
+      56,
+      86,
+      138,
+      162
+    ],
+    "current": [
+      32
+    ],
+    "studies.": [
+      33,
+      187
+    ],
+    "The": [
+      34,
+      66,
+      106,
+      142
+    ],
+    "goal": [
+      35
+    ],
+    "this": [
+      37
+    ],
+    "study": [
+      38,
+      67
+    ],
+    "is": [
+      39
+    ],
+    "therefore": [
+      40
+    ],
+    "centralized": [
+      41
+    ],
+    "around": [
+      42
+    ],
+    "determining": [
+      43
+    ],
+    "extent": [
+      45
+    ],
+    "which": [
+      47
+    ],
+    "have": [
+      51
+    ],
+    "positively": [
+      52
+    ],
+    "impacted": [
+      53
+    ],
+    "quality": [
+      55
+    ],
+    "physician": [
+      57
+    ],
+    "care": [
+      58
+    ],
+    "their": [
+      60
+    ],
+    "effectiveness": [
+      61
+    ],
+    "disease": [
+      64
+    ],
+    "diagnosis.": [
+      65
+    ],
+    "has": [
+      68
+    ],
+    "PRISMA": [
+      70
+    ],
+    "guidelines": [
+      71
+    ],
+    "paper": [
+      74
+    ],
+    "selection": [
+      75
+    ],
+    "inclusion/exclusion": [
+      77
+    ],
+    "criteria.": [
+      78
+    ],
+    "It": [
+      79,
+      121
+    ],
+    "was": [
+      80,
+      122,
+      127
+    ],
+    "determined": [
+      81
+    ],
+    "that": [
+      82,
+      125
+    ],
+    "highest": [
+      84
+    ],
+    "frequency": [
+      85
+    ],
+    "articles": [
+      87
+    ],
+    "ensemble": [
+      89
+    ],
+    "classification,": [
+      92
+    ],
+    "prediction,": [
+      93
+    ],
+    "analysis,": [
+      94
+    ],
+    "diagnosis,": [
+      95
+    ],
+    "etc.,": [
+      96
+    ],
+    "over": [
+      97
+    ],
+    "single": [
+      98
+    ],
+    "machine": [
+      99,
+      174
+    ],
+    "learning": [
+      100,
+      175
+    ],
+    "techniques,": [
+      101
+    ],
+    "followed": [
+      102,
+      116
+    ],
+    "by": [
+      103,
+      117
+    ],
+    "neural": [
+      104
+    ],
+    "networks.": [
+      105
+    ],
+    "results": [
+      107
+    ],
+    "identified": [
+      108
+    ],
+    "dengue": [
+      109
+    ],
+    "fever": [
+      110
+    ],
+    "as": [
+      111
+    ],
+    "most": [
+      113,
+      129
+    ],
+    "studied": [
+      114
+    ],
+    "disease,": [
+      115
+    ],
+    "malaria": [
+      118
+    ],
+    "tuberculosis.": [
+      120
+    ],
+    "also": [
+      123
+    ],
+    "revealed": [
+      124
+    ],
+    "accuracy": [
+      126
+    ],
+    "common": [
+      130
+    ],
+    "metric": [
+      131
+    ],
+    "evaluate": [
+      134
+    ],
+    "predictive": [
+      136
+    ],
+    "capability": [
+      137
+    ],
+    "a": [
+      139
+    ],
+    "classification": [
+      140
+    ],
+    "mode.": [
+      141
+    ],
+    "information": [
+      143
+    ],
+    "presented": [
+      144
+    ],
+    "within": [
+      145
+    ],
+    "these": [
+      146
+    ],
+    "studies": [
+      147
+    ],
+    "benefits": [
+      148
+    ],
+    "frontline": [
+      149
+    ],
+    "healthcare": [
+      150
+    ],
+    "workers": [
+      151
+    ],
+    "who": [
+      152
+    ],
+    "could": [
+      153
+    ],
+    "depend": [
+      154
+    ],
+    "on": [
+      155
+    ],
+    "accurate": [
+      160
+    ],
+    "diagnoses": [
+      161
+    ],
+    "diseases.": [
+      164
+    ],
+    "Although": [
+      165
+    ],
+    "our": [
+      166
+    ],
+    "research": [
+      167,
+      194
+    ],
+    "shows": [
+      168
+    ],
+    "an": [
+      169
+    ],
+    "increasing": [
+      170
+    ],
+    "interest": [
+      171
+    ],
+    "using": [
+      173
+    ],
+    "diseases,": [
+      180
+    ],
+    "there": [
+      181
+    ],
+    "still": [
+      182
+    ],
+    "needs": [
+      183
+    ],
+    "be": [
+      185
+    ],
+    "more": [
+      186
+    ],
+    "Hence,": [
+      188
+    ],
+    "recommendations": [
+      189
+    ],
+    "directions": [
+      191
+    ],
+    "future": [
+      193
+    ],
+    "are": [
+      195
+    ],
+    "proposed.": [
+      196
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 6
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 6
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 8
+    }
+  ],
+  "updated_date": "2025-11-06T03:46:38.306776",
+  "created_date": "2025-10-10T00:00:00"
+}

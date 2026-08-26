@@ -1,0 +1,15 @@
+{
+  "key": "Filges_2018",
+  "collection": {
+    "doi": "10.1007/s10648-024-09862-5"
+  },
+  "publication": {
+    "doi": "10.4073/csr.2018.10",
+    "eligibility_criteria": "The intervention of interest was a reduction in class size. We included children in grades kindergarten to 12 (or the equivalent in European countries) in general education. The primary focus was on measures of academic achievement. All study designs that used a well-defined control group were eligible for inclusion. Studies that utilized qualitative approaches were not included."
+  },
+  "data": {
+    "doi": "10.17605/OSF.IO/UYB7X",
+    "n_records": 6157,
+    "n_records_included": 138
+  }
+}

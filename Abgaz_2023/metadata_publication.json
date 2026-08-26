@@ -1,0 +1,1533 @@
+{
+  "id": "https://openalex.org/W4381803634",
+  "doi": "https://doi.org/10.1109/tse.2023.3287297",
+  "title": "Decomposition of Monolith Applications Into Microservices Architectures: A Systematic Review",
+  "display_name": "Decomposition of Monolith Applications Into Microservices Architectures: A Systematic Review",
+  "publication_year": 2023,
+  "publication_date": "2023-06-23",
+  "ids": {
+    "openalex": "https://openalex.org/W4381803634",
+    "doi": "https://doi.org/10.1109/tse.2023.3287297"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1109/tse.2023.3287297",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1109/tse.2023.3287297",
+    "pdf_url": "https://ieeexplore.ieee.org/ielx7/32/4359463/10160171.pdf",
+    "source": {
+      "id": "https://openalex.org/S8351582",
+      "display_name": "IEEE Transactions on Software Engineering",
+      "issn_l": "0098-5589",
+      "issn": [
+        "0098-5589",
+        "1939-3520",
+        "2326-3881"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320439",
+      "host_organization_name": "IEEE Computer Society",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320439"
+      ],
+      "host_organization_lineage_names": [],
+      "type": "journal",
+      "raw_type": "journal-article"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "IEEE Transactions on Software Engineering"
+  },
+  "type": "review",
+  "indexed_in": [
+    "crossref",
+    "datacite"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "hybrid",
+    "oa_url": "https://ieeexplore.ieee.org/ielx7/32/4359463/10160171.pdf",
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5027275419",
+        "display_name": "Yalemisew Abgaz",
+        "orcid": "https://orcid.org/0000-0002-3887-5342"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I42934936",
+          "display_name": "Dublin City University",
+          "ror": "https://ror.org/04a1a1e81",
+          "country_code": "IE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I42934936"
+          ]
+        }
+      ],
+      "countries": [
+        "IE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Yalemisew Abgaz",
+      "raw_affiliation_strings": [
+        "School of Computing, SFI Research Centre for Software, Dublin City University and Lero, Dublin, Ireland"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "School of Computing, SFI Research Centre for Software, Dublin City University and Lero, Dublin, Ireland",
+          "institution_ids": [
+            "https://openalex.org/I42934936"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5051654544",
+        "display_name": "Andrew McCarren",
+        "orcid": "https://orcid.org/0000-0002-7297-0984"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I42934936",
+          "display_name": "Dublin City University",
+          "ror": "https://ror.org/04a1a1e81",
+          "country_code": "IE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I42934936"
+          ]
+        }
+      ],
+      "countries": [
+        "IE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Andrew McCarren",
+      "raw_affiliation_strings": [
+        "Dublin City University and Insight, the SFI Research Centre for Data Analytics, School of Computing, Dublin City University, Dublin, Ireland"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Dublin City University and Insight, the SFI Research Centre for Data Analytics, School of Computing, Dublin City University, Dublin, Ireland",
+          "institution_ids": [
+            "https://openalex.org/I42934936"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5111163832",
+        "display_name": "Peter Elger",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210100923",
+          "display_name": "Munster Technological University",
+          "ror": "https://ror.org/013xpqh61",
+          "country_code": "IE",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I4210100923"
+          ]
+        }
+      ],
+      "countries": [
+        "IE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Peter Elger",
+      "raw_affiliation_strings": [
+        "fourTheorem Limited, The Rubicon, Cork Institute of Technology, Cork, Ireland"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "fourTheorem Limited, The Rubicon, Cork Institute of Technology, Cork, Ireland",
+          "institution_ids": [
+            "https://openalex.org/I4210100923"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5047311837",
+        "display_name": "David Solan",
+        "orcid": "https://orcid.org/0009-0005-1067-7319"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "David Solan",
+      "raw_affiliation_strings": [
+        "FINEOS Corporation Limited, Dublin, Ireland"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "FINEOS Corporation Limited, Dublin, Ireland",
+          "institution_ids": [
+            null
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5064306565",
+        "display_name": "Neil Lapuz",
+        "orcid": "https://orcid.org/0000-0001-8258-190X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I42934936",
+          "display_name": "Dublin City University",
+          "ror": "https://ror.org/04a1a1e81",
+          "country_code": "IE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I42934936"
+          ]
+        }
+      ],
+      "countries": [
+        "IE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Neil Lapuz",
+      "raw_affiliation_strings": [
+        "School of Computing, SFI Research Centre for Software, Dublin City University and Lero, Dublin, Ireland"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "School of Computing, SFI Research Centre for Software, Dublin City University and Lero, Dublin, Ireland",
+          "institution_ids": [
+            "https://openalex.org/I42934936"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5092248601",
+        "display_name": "Marin Bivol",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210100923",
+          "display_name": "Munster Technological University",
+          "ror": "https://ror.org/013xpqh61",
+          "country_code": "IE",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I4210100923"
+          ]
+        }
+      ],
+      "countries": [
+        "IE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Marin Bivol",
+      "raw_affiliation_strings": [
+        "fourTheorem Limited, The Rubicon, Cork Institute of Technology, Cork, Ireland"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "fourTheorem Limited, The Rubicon, Cork Institute of Technology, Cork, Ireland",
+          "institution_ids": [
+            "https://openalex.org/I4210100923"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5103218126",
+        "display_name": "Glenn Jackson",
+        "orcid": "https://orcid.org/0009-0005-7389-4409"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I42934936",
+          "display_name": "Dublin City University",
+          "ror": "https://ror.org/04a1a1e81",
+          "country_code": "IE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I42934936"
+          ]
+        }
+      ],
+      "countries": [
+        "IE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Glenn Jackson",
+      "raw_affiliation_strings": [
+        "School of Computing, SFI Research Centre for Software, Dublin City University and Lero, Dublin, Ireland"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "School of Computing, SFI Research Centre for Software, Dublin City University and Lero, Dublin, Ireland",
+          "institution_ids": [
+            "https://openalex.org/I42934936"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5045672719",
+        "display_name": "Murat Y\u0131lmaz",
+        "orcid": "https://orcid.org/0000-0002-2446-3224"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I95634034",
+          "display_name": "Gazi University",
+          "ror": "https://ror.org/054xkpr46",
+          "country_code": "TR",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I95634034"
+          ]
+        }
+      ],
+      "countries": [
+        "TR"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Murat Yilmaz",
+      "raw_affiliation_strings": [
+        "Department of Computer Engineering, Faculty of Engineering, Gazi University, Ankara, Turkey"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Computer Engineering, Faculty of Engineering, Gazi University, Ankara, Turkey",
+          "institution_ids": [
+            "https://openalex.org/I95634034"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5084329596",
+        "display_name": "Jim Buckley",
+        "orcid": "https://orcid.org/0000-0001-6928-6746"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I230495080",
+          "display_name": "University of Limerick",
+          "ror": "https://ror.org/00a0n9e72",
+          "country_code": "IE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I230495080"
+          ]
+        }
+      ],
+      "countries": [
+        "IE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Jim Buckley",
+      "raw_affiliation_strings": [
+        "Lero/Department of CSIS, University of Limerick, Limerick, Ireland"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Lero/Department of CSIS, University of Limerick, Limerick, Ireland",
+          "institution_ids": [
+            "https://openalex.org/I230495080"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5012878439",
+        "display_name": "Paul Clarke",
+        "orcid": "https://orcid.org/0000-0002-4487-627X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I42934936",
+          "display_name": "Dublin City University",
+          "ror": "https://ror.org/04a1a1e81",
+          "country_code": "IE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I42934936"
+          ]
+        }
+      ],
+      "countries": [
+        "IE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Paul Clarke",
+      "raw_affiliation_strings": [
+        "School of Computing, SFI Research Centre for Software, Dublin City University and Lero, Dublin, Ireland"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "School of Computing, SFI Research Centre for Software, Dublin City University and Lero, Dublin, Ireland",
+          "institution_ids": [
+            "https://openalex.org/I42934936"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 2,
+  "institutions_distinct_count": 10,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 37.36194481,
+  "has_fulltext": true,
+  "cited_by_count": 85,
+  "citation_normalized_percentile": {
+    "value": 0.99659876,
+    "is_in_top_1_percent": true,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 97,
+    "max": 100
+  },
+  "biblio": {
+    "volume": "49",
+    "issue": "8",
+    "first_page": "4213",
+    "last_page": "4242"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T12127",
+    "display_name": "Software System Performance and Reliability",
+    "score": 0.9998999834060669,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1705",
+      "display_name": "Computer Networks and Communications"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/17",
+      "display_name": "Computer Science"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T12127",
+      "display_name": "Software System Performance and Reliability",
+      "score": 0.9998999834060669,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1705",
+        "display_name": "Computer Networks and Communications"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10101",
+      "display_name": "Cloud Computing and Resource Management",
+      "score": 0.9988999962806702,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1710",
+        "display_name": "Information Systems"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10273",
+      "display_name": "IoT and Edge/Fog Computing",
+      "score": 0.9939000010490417,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1705",
+        "display_name": "Computer Networks and Communications"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/microservices",
+      "display_name": "Microservices",
+      "score": 0.9226366877555847
+    },
+    {
+      "id": "https://openalex.org/keywords/computer-science",
+      "display_name": "Computer science",
+      "score": 0.8064901828765869
+    },
+    {
+      "id": "https://openalex.org/keywords/monolith",
+      "display_name": "Monolith",
+      "score": 0.7027699947357178
+    },
+    {
+      "id": "https://openalex.org/keywords/decomposition",
+      "display_name": "Decomposition",
+      "score": 0.5514001250267029
+    },
+    {
+      "id": "https://openalex.org/keywords/software-engineering",
+      "display_name": "Software engineering",
+      "score": 0.4025503695011139
+    },
+    {
+      "id": "https://openalex.org/keywords/programming-language",
+      "display_name": "Programming language",
+      "score": 0.32696467638015747
+    },
+    {
+      "id": "https://openalex.org/keywords/operating-system",
+      "display_name": "Operating system",
+      "score": 0.21242263913154602
+    },
+    {
+      "id": "https://openalex.org/keywords/cloud-computing",
+      "display_name": "Cloud computing",
+      "score": 0.09671223163604736
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C2778505942",
+      "wikidata": "https://www.wikidata.org/wiki/Q18344624",
+      "display_name": "Microservices",
+      "level": 3,
+      "score": 0.9226366877555847
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.8064901828765869
+    },
+    {
+      "id": "https://openalex.org/C152815550",
+      "wikidata": "https://www.wikidata.org/wiki/Q653208",
+      "display_name": "Monolith",
+      "level": 3,
+      "score": 0.7027699947357178
+    },
+    {
+      "id": "https://openalex.org/C124681953",
+      "wikidata": "https://www.wikidata.org/wiki/Q339062",
+      "display_name": "Decomposition",
+      "level": 2,
+      "score": 0.5514001250267029
+    },
+    {
+      "id": "https://openalex.org/C115903868",
+      "wikidata": "https://www.wikidata.org/wiki/Q80993",
+      "display_name": "Software engineering",
+      "level": 1,
+      "score": 0.4025503695011139
+    },
+    {
+      "id": "https://openalex.org/C199360897",
+      "wikidata": "https://www.wikidata.org/wiki/Q9143",
+      "display_name": "Programming language",
+      "level": 1,
+      "score": 0.32696467638015747
+    },
+    {
+      "id": "https://openalex.org/C111919701",
+      "wikidata": "https://www.wikidata.org/wiki/Q9135",
+      "display_name": "Operating system",
+      "level": 1,
+      "score": 0.21242263913154602
+    },
+    {
+      "id": "https://openalex.org/C79974875",
+      "wikidata": "https://www.wikidata.org/wiki/Q483639",
+      "display_name": "Cloud computing",
+      "level": 2,
+      "score": 0.09671223163604736
+    },
+    {
+      "id": "https://openalex.org/C55493867",
+      "wikidata": "https://www.wikidata.org/wiki/Q7094",
+      "display_name": "Biochemistry",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C161790260",
+      "wikidata": "https://www.wikidata.org/wiki/Q82264",
+      "display_name": "Catalysis",
+      "level": 2,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C86803240",
+      "wikidata": "https://www.wikidata.org/wiki/Q420",
+      "display_name": "Biology",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C18903297",
+      "wikidata": "https://www.wikidata.org/wiki/Q7150",
+      "display_name": "Ecology",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C185592680",
+      "wikidata": "https://www.wikidata.org/wiki/Q2329",
+      "display_name": "Chemistry",
+      "level": 0,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 4,
+  "locations": [
+    {
+      "id": "doi:10.1109/tse.2023.3287297",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1109/tse.2023.3287297",
+      "pdf_url": "https://ieeexplore.ieee.org/ielx7/32/4359463/10160171.pdf",
+      "source": {
+        "id": "https://openalex.org/S8351582",
+        "display_name": "IEEE Transactions on Software Engineering",
+        "issn_l": "0098-5589",
+        "issn": [
+          "0098-5589",
+          "1939-3520",
+          "2326-3881"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320439",
+        "host_organization_name": "IEEE Computer Society",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320439"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "journal",
+        "raw_type": "journal-article"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "IEEE Transactions on Software Engineering"
+    },
+    {
+      "id": "pmh:oai:doras.dcu.ie:28925",
+      "is_oa": false,
+      "landing_page_url": null,
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401510",
+        "display_name": "Dublin City University Open Access Institutional Repository (Dublin City University)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I42934936",
+        "host_organization_name": "Dublin City University",
+        "host_organization_lineage": [
+          "https://openalex.org/I42934936"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository",
+        "raw_type": "Article"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "acceptedVersion",
+      "is_accepted": true,
+      "is_published": false,
+      "raw_source_name": ""
+    },
+    {
+      "id": "pmh:oai:figshare.com:article/25334518",
+      "is_oa": true,
+      "landing_page_url": "https://figshare.com/articles/journal_contribution/Decomposition_of_monolith_applications_into_microservices_architectures_a_systematic_review/25334518",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306400572",
+        "display_name": "OPAL (Open@LaTrobe) (La Trobe University)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I196829312",
+        "host_organization_name": "La Trobe University",
+        "host_organization_lineage": [
+          "https://openalex.org/I196829312"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository",
+        "raw_type": "Text"
+      },
+      "license": "cc-by-nc-sa",
+      "license_id": "https://openalex.org/licenses/cc-by-nc-sa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": ""
+    },
+    {
+      "id": "doi:10.34961/researchrepository-ul.25334518.v1",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.34961/researchrepository-ul.25334518.v1",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401529",
+        "display_name": "University of Limerick Institutional Repository (University of Limerick)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I230495080",
+        "host_organization_name": "University of Limerick",
+        "host_organization_lineage": [
+          "https://openalex.org/I230495080"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository",
+        "raw_type": "article-journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": null,
+      "is_accepted": false,
+      "is_published": null,
+      "raw_source_name": null
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1109/tse.2023.3287297",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1109/tse.2023.3287297",
+    "pdf_url": "https://ieeexplore.ieee.org/ielx7/32/4359463/10160171.pdf",
+    "source": {
+      "id": "https://openalex.org/S8351582",
+      "display_name": "IEEE Transactions on Software Engineering",
+      "issn_l": "0098-5589",
+      "issn": [
+        "0098-5589",
+        "1939-3520",
+        "2326-3881"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320439",
+      "host_organization_name": "IEEE Computer Society",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320439"
+      ],
+      "host_organization_lineage_names": [],
+      "type": "journal",
+      "raw_type": "journal-article"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "IEEE Transactions on Software Engineering"
+  },
+  "sustainable_development_goals": [
+    {
+      "score": 0.550000011920929,
+      "display_name": "Industry, innovation and infrastructure",
+      "id": "https://metadata.un.org/sdg/9"
+    }
+  ],
+  "grants": [
+    {
+      "funder": "https://openalex.org/F4320320847",
+      "funder_display_name": "Science Foundation Ireland",
+      "award_id": "SFI 13/RC/2094_P2"
+    }
+  ],
+  "awards": [],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320320847",
+      "display_name": "Science Foundation Ireland",
+      "ror": "https://ror.org/0271asj38"
+    }
+  ],
+  "has_content": {
+    "pdf": true,
+    "grobid_xml": true
+  },
+  "referenced_works_count": 148,
+  "referenced_works": [
+    "https://openalex.org/W2967510429",
+    "https://openalex.org/W2951222477",
+    "https://openalex.org/W2576385362",
+    "https://openalex.org/W2363799590",
+    "https://openalex.org/W3037838807",
+    "https://openalex.org/W2736016960",
+    "https://openalex.org/W2911048197",
+    "https://openalex.org/W2811138176",
+    "https://openalex.org/W3081034060",
+    "https://openalex.org/W2945044991",
+    "https://openalex.org/W3196720945",
+    "https://openalex.org/W2884609990",
+    "https://openalex.org/W2786131231",
+    "https://openalex.org/W2801207044",
+    "https://openalex.org/W2406611415",
+    "https://openalex.org/W2974106837",
+    "https://openalex.org/W2554214302",
+    "https://openalex.org/W2883770089",
+    "https://openalex.org/W3195097057",
+    "https://openalex.org/W2578655761",
+    "https://openalex.org/W2772864159",
+    "https://openalex.org/W2943600496",
+    "https://openalex.org/W3003812449",
+    "https://openalex.org/W3110348319",
+    "https://openalex.org/W2463897954",
+    "https://openalex.org/W6750998282",
+    "https://openalex.org/W2967819432",
+    "https://openalex.org/W2971005891",
+    "https://openalex.org/W2945774639",
+    "https://openalex.org/W4285606442",
+    "https://openalex.org/W6684456340",
+    "https://openalex.org/W3002342731",
+    "https://openalex.org/W4212908796",
+    "https://openalex.org/W3168611921",
+    "https://openalex.org/W4304587408",
+    "https://openalex.org/W2531091143",
+    "https://openalex.org/W3005628450",
+    "https://openalex.org/W2507164204",
+    "https://openalex.org/W2889019823",
+    "https://openalex.org/W2943091240",
+    "https://openalex.org/W2942980521",
+    "https://openalex.org/W2793609214",
+    "https://openalex.org/W2774960226",
+    "https://openalex.org/W2106956101",
+    "https://openalex.org/W2899874557",
+    "https://openalex.org/W2118328848",
+    "https://openalex.org/W1747451223",
+    "https://openalex.org/W2607847175",
+    "https://openalex.org/W6767676209",
+    "https://openalex.org/W3048061936",
+    "https://openalex.org/W6712877617",
+    "https://openalex.org/W3097093116",
+    "https://openalex.org/W2993134863",
+    "https://openalex.org/W2061928694",
+    "https://openalex.org/W2785343867",
+    "https://openalex.org/W3173936133",
+    "https://openalex.org/W2060707028",
+    "https://openalex.org/W2139969125",
+    "https://openalex.org/W2955831855",
+    "https://openalex.org/W3168969598",
+    "https://openalex.org/W6634384834",
+    "https://openalex.org/W4291213652",
+    "https://openalex.org/W3201836291",
+    "https://openalex.org/W2353739181",
+    "https://openalex.org/W1577602361",
+    "https://openalex.org/W2322013807",
+    "https://openalex.org/W6757020022",
+    "https://openalex.org/W2008831000",
+    "https://openalex.org/W2168811232",
+    "https://openalex.org/W3094662328",
+    "https://openalex.org/W4327544592",
+    "https://openalex.org/W6743231595",
+    "https://openalex.org/W6677712588",
+    "https://openalex.org/W2754403750",
+    "https://openalex.org/W1975675278",
+    "https://openalex.org/W2136480620",
+    "https://openalex.org/W6863069247",
+    "https://openalex.org/W6636975626",
+    "https://openalex.org/W2915587970",
+    "https://openalex.org/W4282053190",
+    "https://openalex.org/W2970094988",
+    "https://openalex.org/W4294627637",
+    "https://openalex.org/W2896052545",
+    "https://openalex.org/W4281644910",
+    "https://openalex.org/W2945008930",
+    "https://openalex.org/W6840910795",
+    "https://openalex.org/W4320882958",
+    "https://openalex.org/W4312300670",
+    "https://openalex.org/W2947547390",
+    "https://openalex.org/W2971303803",
+    "https://openalex.org/W3129183051",
+    "https://openalex.org/W1989657183",
+    "https://openalex.org/W2106345431",
+    "https://openalex.org/W3094761923",
+    "https://openalex.org/W3217026816",
+    "https://openalex.org/W3009802190",
+    "https://openalex.org/W3082730455",
+    "https://openalex.org/W2943678798",
+    "https://openalex.org/W3033791609",
+    "https://openalex.org/W2073275508",
+    "https://openalex.org/W2792543416",
+    "https://openalex.org/W2963026732",
+    "https://openalex.org/W3090649033",
+    "https://openalex.org/W3030504092",
+    "https://openalex.org/W4229558542",
+    "https://openalex.org/W3028783161",
+    "https://openalex.org/W3039346278",
+    "https://openalex.org/W3041370235",
+    "https://openalex.org/W3046833351",
+    "https://openalex.org/W3214540975",
+    "https://openalex.org/W2010636948",
+    "https://openalex.org/W2998872817",
+    "https://openalex.org/W2222512263",
+    "https://openalex.org/W3163784965",
+    "https://openalex.org/W2900842731",
+    "https://openalex.org/W3157082678",
+    "https://openalex.org/W2057089567",
+    "https://openalex.org/W3184007005",
+    "https://openalex.org/W3196954172",
+    "https://openalex.org/W3134592121",
+    "https://openalex.org/W3128893649",
+    "https://openalex.org/W6631190155",
+    "https://openalex.org/W3128808440",
+    "https://openalex.org/W2126105956",
+    "https://openalex.org/W3161996246",
+    "https://openalex.org/W6635097213",
+    "https://openalex.org/W1647729745",
+    "https://openalex.org/W3149783891",
+    "https://openalex.org/W612300255",
+    "https://openalex.org/W1572499759",
+    "https://openalex.org/W4288112937",
+    "https://openalex.org/W2799162674",
+    "https://openalex.org/W3196243846",
+    "https://openalex.org/W2070504353",
+    "https://openalex.org/W2950225692",
+    "https://openalex.org/W1522301498",
+    "https://openalex.org/W1507539036",
+    "https://openalex.org/W3004756232",
+    "https://openalex.org/W3105408577",
+    "https://openalex.org/W2903382629",
+    "https://openalex.org/W4394057356",
+    "https://openalex.org/W249942718",
+    "https://openalex.org/W1585939719",
+    "https://openalex.org/W4313547646",
+    "https://openalex.org/W2168894761",
+    "https://openalex.org/W2399281224",
+    "https://openalex.org/W2914775513",
+    "https://openalex.org/W2750746471"
+  ],
+  "related_works": [
+    "https://openalex.org/W4210334847",
+    "https://openalex.org/W3181741639",
+    "https://openalex.org/W4367181468",
+    "https://openalex.org/W2767473057",
+    "https://openalex.org/W4225586032",
+    "https://openalex.org/W3003367851",
+    "https://openalex.org/W1492892507",
+    "https://openalex.org/W3119944216",
+    "https://openalex.org/W2994988622",
+    "https://openalex.org/W2888006113"
+  ],
+  "abstract_inverted_index": {
+    "Microservices": [
+      0,
+      82
+    ],
+    "architecture": [
+      1
+    ],
+    "has": [
+      2
+    ],
+    "gained": [
+      3
+    ],
+    "significant": [
+      4
+    ],
+    "traction,": [
+      5
+    ],
+    "in": [
+      6,
+      164,
+      196,
+      215
+    ],
+    "part": [
+      7
+    ],
+    "owing": [
+      8
+    ],
+    "to": [
+      9,
+      12,
+      37,
+      67,
+      81,
+      115,
+      120,
+      174,
+      183,
+      205,
+      208,
+      211
+    ],
+    "its": [
+      10
+    ],
+    "potential": [
+      11
+    ],
+    "deliver": [
+      13
+    ],
+    "scalable,": [
+      14
+    ],
+    "robust,": [
+      15
+    ],
+    "agile,": [
+      16
+    ],
+    "and": [
+      17,
+      27,
+      62,
+      72,
+      91,
+      105,
+      112,
+      117,
+      145,
+      156,
+      170,
+      191
+    ],
+    "failure-resilient": [
+      18
+    ],
+    "software": [
+      19,
+      29
+    ],
+    "products.": [
+      20
+    ],
+    "Consequently,": [
+      21
+    ],
+    "many": [
+      22
+    ],
+    "companies": [
+      23
+    ],
+    "that": [
+      24,
+      135,
+      197
+    ],
+    "use": [
+      25
+    ],
+    "large": [
+      26
+    ],
+    "complex": [
+      28
+    ],
+    "systems": [
+      30
+    ],
+    "are": [
+      31,
+      201
+    ],
+    "actively": [
+      32
+    ],
+    "looking": [
+      33,
+      207
+    ],
+    "for": [
+      34,
+      128,
+      152
+    ],
+    "automated": [
+      35
+    ],
+    "solutions": [
+      36
+    ],
+    "decompose": [
+      38
+    ],
+    "their": [
+      39
+    ],
+    "monolith": [
+      40,
+      119,
+      136,
+      189,
+      217
+    ],
+    "applications": [
+      41
+    ],
+    "into": [
+      42,
+      138
+    ],
+    "microservices.": [
+      43
+    ],
+    "This": [
+      44
+    ],
+    "paper": [
+      45
+    ],
+    "rigorously": [
+      46
+    ],
+    "examines": [
+      47
+    ],
+    "35": [
+      48
+    ],
+    "research": [
+      49,
+      70,
+      214
+    ],
+    "papers": [
+      50
+    ],
+    "selected": [
+      51
+    ],
+    "from": [
+      52
+    ],
+    "well-known": [
+      53
+    ],
+    "databases": [
+      54
+    ],
+    "using": [
+      55
+    ],
+    "a": [
+      56,
+      97
+    ],
+    "Systematic": [
+      57
+    ],
+    "Literature": [
+      58
+    ],
+    "Review": [
+      59
+    ],
+    "(SLR)": [
+      60
+    ],
+    "protocol": [
+      61
+    ],
+    "snowballing": [
+      63
+    ],
+    "method,": [
+      64
+    ],
+    "extracting": [
+      65
+    ],
+    "data": [
+      66
+    ],
+    "answer": [
+      68
+    ],
+    "the": [
+      69,
+      74,
+      79,
+      88,
+      110,
+      132,
+      185,
+      192,
+      216
+    ],
+    "questions,": [
+      71
+    ],
+    "presents": [
+      73
+    ],
+    "following": [
+      75
+    ],
+    "four": [
+      76
+    ],
+    "contributions.": [
+      77
+    ],
+    "First,": [
+      78
+    ],
+    "Monolith": [
+      80
+    ],
+    "Decomposition": [
+      83
+    ],
+    "Framework": [
+      84
+    ],
+    "(M2MDF)": [
+      85
+    ],
+    "which": [
+      86
+    ],
+    "identifies": [
+      87
+    ],
+    "major": [
+      89
+    ],
+    "phases": [
+      90
+    ],
+    "key": [
+      92
+    ],
+    "elements": [
+      93
+    ],
+    "of": [
+      94,
+      100,
+      150,
+      188,
+      203
+    ],
+    "decomposition.": [
+      95
+    ],
+    "Second,": [
+      96
+    ],
+    "detailed": [
+      98
+    ],
+    "analysis": [
+      99
+    ],
+    "existing": [
+      101
+    ],
+    "decomposition": [
+      102,
+      122,
+      137,
+      190,
+      218
+    ],
+    "approaches,": [
+      103
+    ],
+    "tools": [
+      104
+    ],
+    "methods.": [
+      106
+    ],
+    "Third,": [
+      107
+    ],
+    "we": [
+      108,
+      125
+    ],
+    "identify": [
+      109,
+      209
+    ],
+    "metrics": [
+      111
+    ],
+    "datasets": [
+      113
+    ],
+    "used": [
+      114
+    ],
+    "evaluate": [
+      116
+    ],
+    "validate": [
+      118
+    ],
+    "microservice": [
+      121
+    ],
+    "processes.": [
+      123
+    ],
+    "Fourth,": [
+      124
+    ],
+    "propose": [
+      126
+    ],
+    "areas": [
+      127,
+      210
+    ],
+    "future": [
+      129
+    ],
+    "research.": [
+      130
+    ],
+    "Overall,": [
+      131
+    ],
+    "findings": [
+      133,
+      178,
+      200
+    ],
+    "suggest": [
+      134
+    ],
+    "microservices": [
+      139
+    ],
+    "remains": [
+      140
+    ],
+    "at": [
+      141
+    ],
+    "an": [
+      142,
+      148
+    ],
+    "early": [
+      143
+    ],
+    "stage": [
+      144
+    ],
+    "there": [
+      146
+    ],
+    "is": [
+      147,
+      162
+    ],
+    "absence": [
+      149
+    ],
+    "methods": [
+      151
+    ],
+    "combining": [
+      153
+    ],
+    "static,": [
+      154
+    ],
+    "dynamic,": [
+      155
+    ],
+    "evolutionary": [
+      157
+    ],
+    "data.": [
+      158
+    ],
+    "Insufficient": [
+      159
+    ],
+    "tool": [
+      160
+    ],
+    "support": [
+      161
+    ],
+    "also": [
+      163,
+      202
+    ],
+    "evidence.": [
+      165
+    ],
+    "Furthermore,": [
+      166
+    ],
+    "standardised": [
+      167
+    ],
+    "metrics,": [
+      168
+    ],
+    "datasets,": [
+      169
+    ],
+    "baselines": [
+      171
+    ],
+    "have": [
+      172
+    ],
+    "yet": [
+      173
+    ],
+    "be": [
+      175
+    ],
+    "established.": [
+      176
+    ],
+    "These": [
+      177
+    ],
+    "can": [
+      179
+    ],
+    "assist": [
+      180
+    ],
+    "practitioners": [
+      181
+    ],
+    "seeking": [
+      182
+    ],
+    "understand": [
+      184
+    ],
+    "various": [
+      186
+    ],
+    "dimensions": [
+      187
+    ],
+    "community's": [
+      193
+    ],
+    "current": [
+      194
+    ],
+    "capabilities": [
+      195
+    ],
+    "endeavour.": [
+      198
+    ],
+    "The": [
+      199
+    ],
+    "value": [
+      204
+    ],
+    "researchers": [
+      206
+    ],
+    "further": [
+      212
+    ],
+    "extend": [
+      213
+    ],
+    "space.": [
+      219
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 43
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 37
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 5
+    }
+  ],
+  "updated_date": "2025-11-06T03:46:38.306776",
+  "created_date": "2025-10-10T00:00:00"
+}

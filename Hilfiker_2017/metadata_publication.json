@@ -1,0 +1,2246 @@
+{
+  "id": "https://openalex.org/W2612715342",
+  "doi": "https://doi.org/10.1136/bjsports-2016-096422",
+  "title": "Exercise and other non-pharmaceutical interventions for cancer-related fatigue in patients during or after cancer treatment: a systematic review incorporating an indirect-comparisons meta-analysis",
+  "display_name": "Exercise and other non-pharmaceutical interventions for cancer-related fatigue in patients during or after cancer treatment: a systematic review incorporating an indirect-comparisons meta-analysis",
+  "publication_year": 2017,
+  "publication_date": "2017-05-13",
+  "ids": {
+    "openalex": "https://openalex.org/W2612715342",
+    "doi": "https://doi.org/10.21256/zhaw-4856",
+    "mag": "2612715342",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/28501804"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1136/bjsports-2016-096422",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1136/bjsports-2016-096422",
+    "pdf_url": "https://bjsm.bmj.com/content/bjsports/52/10/651.full.pdf",
+    "source": {
+      "id": "https://openalex.org/S136578784",
+      "display_name": "British Journal of Sports Medicine",
+      "issn_l": "0306-3674",
+      "issn": [
+        "0306-3674",
+        "1473-0480"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310319945",
+      "host_organization_name": "BMJ",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310319945"
+      ],
+      "host_organization_lineage_names": [],
+      "type": "journal"
+    },
+    "license": "cc-by-nc",
+    "license_id": "https://openalex.org/licenses/cc-by-nc",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "British Journal of Sports Medicine",
+    "raw_type": "journal-article"
+  },
+  "type": "review",
+  "indexed_in": [
+    "crossref",
+    "datacite",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "hybrid",
+    "oa_url": "https://bjsm.bmj.com/content/bjsports/52/10/651.full.pdf",
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5031989085",
+        "display_name": "Roger Hilfiker",
+        "orcid": "https://orcid.org/0000-0001-8662-6116"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210129267",
+          "display_name": "HES-SO Valais-Wallis",
+          "ror": "https://ror.org/03r5zec51",
+          "country_code": "CH",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I173439891",
+            "https://openalex.org/I4210129267"
+          ]
+        }
+      ],
+      "countries": [
+        "CH"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Roger Hilfiker",
+      "raw_affiliation_strings": [
+        "HES-SO Valais-Wallis, University of Applied Sciences and Arts Western Switzerland Valais",
+        "School of Health Sciences"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "HES-SO Valais-Wallis, University of Applied Sciences and Arts Western Switzerland Valais",
+          "institution_ids": [
+            "https://openalex.org/I4210129267"
+          ]
+        },
+        {
+          "raw_affiliation_string": "School of Health Sciences",
+          "institution_ids": [
+            null
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5050186585",
+        "display_name": "Andr\u00e9 Meichtry",
+        "orcid": "https://orcid.org/0000-0002-1044-8111"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I858936495",
+          "display_name": "ZHAW Zurich University of Applied Sciences",
+          "ror": "https://ror.org/05pmsvm27",
+          "country_code": "CH",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I858936495"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210095457",
+          "display_name": "Physiotherapy New Zealand",
+          "ror": "https://ror.org/00wry3a77",
+          "country_code": "NZ",
+          "type": "other",
+          "lineage": [
+            "https://openalex.org/I4210095457"
+          ]
+        }
+      ],
+      "countries": [
+        "CH",
+        "NZ"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Andre Meichtry",
+      "raw_affiliation_strings": [
+        "Institute of Physiotherapy",
+        "Zurich University of Applied Sciences"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute of Physiotherapy",
+          "institution_ids": [
+            "https://openalex.org/I4210095457"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Zurich University of Applied Sciences",
+          "institution_ids": [
+            "https://openalex.org/I858936495"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5055967502",
+        "display_name": "Manuela Eicher",
+        "orcid": "https://orcid.org/0000-0002-7691-0719"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I173439891",
+          "display_name": "HES-SO University of Applied Sciences and Arts Western Switzerland",
+          "ror": "https://ror.org/01xkakk17",
+          "country_code": "CH",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I173439891"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I97565354",
+          "display_name": "University of Lausanne",
+          "ror": "https://ror.org/019whta54",
+          "country_code": "CH",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I97565354"
+          ]
+        }
+      ],
+      "countries": [
+        "CH"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Manuela Eicher",
+      "raw_affiliation_strings": [
+        "Institute of Higher Education and Research in Healthcare, Faculty of Biology and Medicine, University of Lausanne and Lausanne University Hospital",
+        "School of Health Sciences",
+        "University of Applied Sciences and Arts Western Switzerland"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "School of Health Sciences",
+          "institution_ids": [
+            null
+          ]
+        },
+        {
+          "raw_affiliation_string": "University of Applied Sciences and Arts Western Switzerland",
+          "institution_ids": [
+            "https://openalex.org/I173439891"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Institute of Higher Education and Research in Healthcare, Faculty of Biology and Medicine, University of Lausanne and Lausanne University Hospital",
+          "institution_ids": [
+            "https://openalex.org/I97565354"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5008017062",
+        "display_name": "Lina Nilsson Balfe",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210129267",
+          "display_name": "HES-SO Valais-Wallis",
+          "ror": "https://ror.org/03r5zec51",
+          "country_code": "CH",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I173439891",
+            "https://openalex.org/I4210129267"
+          ]
+        }
+      ],
+      "countries": [
+        "CH"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Lina Nilsson Balfe",
+      "raw_affiliation_strings": [
+        "HES-SO Valais-Wallis, University of Applied Sciences and Arts Western Switzerland Valais",
+        "School of Health Sciences"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "HES-SO Valais-Wallis, University of Applied Sciences and Arts Western Switzerland Valais",
+          "institution_ids": [
+            "https://openalex.org/I4210129267"
+          ]
+        },
+        {
+          "raw_affiliation_string": "School of Health Sciences",
+          "institution_ids": [
+            null
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5007390507",
+        "display_name": "Ruud H. Knols",
+        "orcid": "https://orcid.org/0000-0002-1246-8167"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210100468",
+          "display_name": "University Hospital of Zurich",
+          "ror": "https://ror.org/01462r250",
+          "country_code": "CH",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210100468"
+          ]
+        }
+      ],
+      "countries": [
+        "CH"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Ruud H Knols",
+      "raw_affiliation_strings": [
+        "Center University Hospital Zurich",
+        "Directory of Research and Education, Physiotherapy Occupational Therapy Research"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Directory of Research and Education, Physiotherapy Occupational Therapy Research",
+          "institution_ids": [
+            null
+          ]
+        },
+        {
+          "raw_affiliation_string": "Center University Hospital Zurich",
+          "institution_ids": [
+            "https://openalex.org/I4210100468"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5031800041",
+        "display_name": "Martin L. Verra",
+        "orcid": "https://orcid.org/0000-0002-3933-8020"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2801112126",
+          "display_name": "University Hospital of Bern",
+          "ror": "https://ror.org/01q9sj412",
+          "country_code": "CH",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2801112126"
+          ]
+        }
+      ],
+      "countries": [
+        "CH"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Martin L Verra",
+      "raw_affiliation_strings": [
+        "Department of Physiotherapy",
+        "Inselspital, Bern University Hospital"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Inselspital, Bern University Hospital",
+          "institution_ids": [
+            "https://openalex.org/I2801112126"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Physiotherapy",
+          "institution_ids": [
+            null
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5034397446",
+        "display_name": "Jan Taeymans",
+        "orcid": "https://orcid.org/0000-0003-1583-4043"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I13469542",
+          "display_name": "Vrije Universiteit Brussel",
+          "ror": "https://ror.org/006e5kg04",
+          "country_code": "BE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I13469542"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I130692619",
+          "display_name": "Bern University of Applied Sciences",
+          "ror": "https://ror.org/02bnkt322",
+          "country_code": "CH",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I130692619"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210106484",
+          "display_name": "Center for Health, Exercise and Sport Sciences",
+          "ror": "https://ror.org/0129x4h77",
+          "country_code": "RS",
+          "type": "other",
+          "lineage": [
+            "https://openalex.org/I4210106484"
+          ]
+        }
+      ],
+      "countries": [
+        "BE",
+        "CH",
+        "RS"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Jan Taeymans",
+      "raw_affiliation_strings": [
+        "Bern University of Applied Sciences Health",
+        "Faculty of Sports Sciences and Exercise Rehabilitation",
+        "Vrije Universiteit Brussel"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Vrije Universiteit Brussel",
+          "institution_ids": [
+            "https://openalex.org/I13469542"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Bern University of Applied Sciences Health",
+          "institution_ids": [
+            "https://openalex.org/I130692619"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Faculty of Sports Sciences and Exercise Rehabilitation",
+          "institution_ids": [
+            "https://openalex.org/I4210106484"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 4,
+  "institutions_distinct_count": 7,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 12.03788936,
+  "has_fulltext": true,
+  "cited_by_count": 365,
+  "citation_normalized_percentile": {
+    "value": 0.98806287,
+    "is_in_top_1_percent": true,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 90,
+    "max": 100
+  },
+  "biblio": {
+    "volume": "52",
+    "issue": "10",
+    "first_page": "651",
+    "last_page": "658"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10178",
+    "display_name": "Cancer survivorship and care",
+    "score": 0.9998000264167786,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2730",
+      "display_name": "Oncology"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/27",
+      "display_name": "Medicine"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/4",
+      "display_name": "Health Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10178",
+      "display_name": "Cancer survivorship and care",
+      "score": 0.9998000264167786,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2730",
+        "display_name": "Oncology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13077",
+      "display_name": "Cancer-related cognitive impairment studies",
+      "score": 0.9980000257492065,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2740",
+        "display_name": "Pulmonary and Respiratory Medicine"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11469",
+      "display_name": "Lymphatic System and Diseases",
+      "score": 0.9763000011444092,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2730",
+        "display_name": "Oncology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/medicine",
+      "display_name": "Medicine",
+      "score": 0.8238462209701538
+    },
+    {
+      "id": "https://openalex.org/keywords/cancer-related-fatigue",
+      "display_name": "Cancer-related fatigue",
+      "score": 0.8028151988983154
+    },
+    {
+      "id": "https://openalex.org/keywords/meta-analysis",
+      "display_name": "Meta-analysis",
+      "score": 0.7865443229675293
+    },
+    {
+      "id": "https://openalex.org/keywords/physical-therapy",
+      "display_name": "Physical therapy",
+      "score": 0.5997793078422546
+    },
+    {
+      "id": "https://openalex.org/keywords/aerobic-exercise",
+      "display_name": "Aerobic exercise",
+      "score": 0.5649253726005554
+    },
+    {
+      "id": "https://openalex.org/keywords/psychological-intervention",
+      "display_name": "Psychological intervention",
+      "score": 0.5604323744773865
+    },
+    {
+      "id": "https://openalex.org/keywords/massage",
+      "display_name": "Massage",
+      "score": 0.5547634959220886
+    },
+    {
+      "id": "https://openalex.org/keywords/cancer",
+      "display_name": "Cancer",
+      "score": 0.49700096249580383
+    },
+    {
+      "id": "https://openalex.org/keywords/acupuncture",
+      "display_name": "Acupuncture",
+      "score": 0.44480451941490173
+    },
+    {
+      "id": "https://openalex.org/keywords/internal-medicine",
+      "display_name": "Internal medicine",
+      "score": 0.4317021071910858
+    },
+    {
+      "id": "https://openalex.org/keywords/alternative-medicine",
+      "display_name": "Alternative medicine",
+      "score": 0.19054171442985535
+    },
+    {
+      "id": "https://openalex.org/keywords/psychiatry",
+      "display_name": "Psychiatry",
+      "score": 0.10795974731445312
+    },
+    {
+      "id": "https://openalex.org/keywords/pathology",
+      "display_name": "Pathology",
+      "score": 0.09487229585647583
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C71924100",
+      "wikidata": "https://www.wikidata.org/wiki/Q11190",
+      "display_name": "Medicine",
+      "level": 0,
+      "score": 0.8238462209701538
+    },
+    {
+      "id": "https://openalex.org/C2778141389",
+      "wikidata": "https://www.wikidata.org/wiki/Q5031385",
+      "display_name": "Cancer-related fatigue",
+      "level": 3,
+      "score": 0.8028151988983154
+    },
+    {
+      "id": "https://openalex.org/C95190672",
+      "wikidata": "https://www.wikidata.org/wiki/Q815382",
+      "display_name": "Meta-analysis",
+      "level": 2,
+      "score": 0.7865443229675293
+    },
+    {
+      "id": "https://openalex.org/C1862650",
+      "wikidata": "https://www.wikidata.org/wiki/Q186005",
+      "display_name": "Physical therapy",
+      "level": 1,
+      "score": 0.5997793078422546
+    },
+    {
+      "id": "https://openalex.org/C103038586",
+      "wikidata": "https://www.wikidata.org/wiki/Q1152037",
+      "display_name": "Aerobic exercise",
+      "level": 2,
+      "score": 0.5649253726005554
+    },
+    {
+      "id": "https://openalex.org/C27415008",
+      "wikidata": "https://www.wikidata.org/wiki/Q7256382",
+      "display_name": "Psychological intervention",
+      "level": 2,
+      "score": 0.5604323744773865
+    },
+    {
+      "id": "https://openalex.org/C175259745",
+      "wikidata": "https://www.wikidata.org/wiki/Q179415",
+      "display_name": "Massage",
+      "level": 3,
+      "score": 0.5547634959220886
+    },
+    {
+      "id": "https://openalex.org/C121608353",
+      "wikidata": "https://www.wikidata.org/wiki/Q12078",
+      "display_name": "Cancer",
+      "level": 2,
+      "score": 0.49700096249580383
+    },
+    {
+      "id": "https://openalex.org/C56837625",
+      "wikidata": "https://www.wikidata.org/wiki/Q121713",
+      "display_name": "Acupuncture",
+      "level": 3,
+      "score": 0.44480451941490173
+    },
+    {
+      "id": "https://openalex.org/C126322002",
+      "wikidata": "https://www.wikidata.org/wiki/Q11180",
+      "display_name": "Internal medicine",
+      "level": 1,
+      "score": 0.4317021071910858
+    },
+    {
+      "id": "https://openalex.org/C204787440",
+      "wikidata": "https://www.wikidata.org/wiki/Q188504",
+      "display_name": "Alternative medicine",
+      "level": 2,
+      "score": 0.19054171442985535
+    },
+    {
+      "id": "https://openalex.org/C118552586",
+      "wikidata": "https://www.wikidata.org/wiki/Q7867",
+      "display_name": "Psychiatry",
+      "level": 1,
+      "score": 0.10795974731445312
+    },
+    {
+      "id": "https://openalex.org/C142724271",
+      "wikidata": "https://www.wikidata.org/wiki/Q7208",
+      "display_name": "Pathology",
+      "level": 1,
+      "score": 0.09487229585647583
+    }
+  ],
+  "mesh": [
+    {
+      "descriptor_ui": "D015928",
+      "descriptor_name": "Cognitive Behavioral Therapy",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005081",
+      "descriptor_name": "Exercise Therapy",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D005221",
+      "descriptor_name": "Fatigue",
+      "qualifier_ui": "Q000209",
+      "qualifier_name": "etiology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005221",
+      "descriptor_name": "Fatigue",
+      "qualifier_ui": "Q000628",
+      "qualifier_name": "therapy",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008405",
+      "descriptor_name": "Massage",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D009369",
+      "descriptor_name": "Neoplasms",
+      "qualifier_ui": "Q000150",
+      "qualifier_name": "complications",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D016032",
+      "descriptor_name": "Randomized Controlled Trials as Topic",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D012064",
+      "descriptor_name": "Relaxation Therapy",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D055070",
+      "descriptor_name": "Resistance Training",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D026302",
+      "descriptor_name": "Tai Ji",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015013",
+      "descriptor_name": "Yoga",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015928",
+      "descriptor_name": "Cognitive Behavioral Therapy",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005081",
+      "descriptor_name": "Exercise Therapy",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D005221",
+      "descriptor_name": "Fatigue",
+      "qualifier_ui": "Q000209",
+      "qualifier_name": "etiology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005221",
+      "descriptor_name": "Fatigue",
+      "qualifier_ui": "Q000628",
+      "qualifier_name": "therapy",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008405",
+      "descriptor_name": "Massage",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D009369",
+      "descriptor_name": "Neoplasms",
+      "qualifier_ui": "Q000150",
+      "qualifier_name": "complications",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D016032",
+      "descriptor_name": "Randomized Controlled Trials as Topic",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D012064",
+      "descriptor_name": "Relaxation Therapy",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D055070",
+      "descriptor_name": "Resistance Training",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D026302",
+      "descriptor_name": "Tai Ji",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015013",
+      "descriptor_name": "Yoga",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015928",
+      "descriptor_name": "Cognitive Behavioral Therapy",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005081",
+      "descriptor_name": "Exercise Therapy",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D005221",
+      "descriptor_name": "Fatigue",
+      "qualifier_ui": "Q000209",
+      "qualifier_name": "etiology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005221",
+      "descriptor_name": "Fatigue",
+      "qualifier_ui": "Q000628",
+      "qualifier_name": "therapy",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008405",
+      "descriptor_name": "Massage",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D009369",
+      "descriptor_name": "Neoplasms",
+      "qualifier_ui": "Q000150",
+      "qualifier_name": "complications",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D016032",
+      "descriptor_name": "Randomized Controlled Trials as Topic",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D012064",
+      "descriptor_name": "Relaxation Therapy",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D055070",
+      "descriptor_name": "Resistance Training",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D026302",
+      "descriptor_name": "Tai Ji",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015013",
+      "descriptor_name": "Yoga",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000099094",
+      "descriptor_name": "Network Meta-Analysis",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015928",
+      "descriptor_name": "Cognitive Behavioral Therapy",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005081",
+      "descriptor_name": "Exercise Therapy",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D005221",
+      "descriptor_name": "Fatigue",
+      "qualifier_ui": "Q000209",
+      "qualifier_name": "etiology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005221",
+      "descriptor_name": "Fatigue",
+      "qualifier_ui": "Q000628",
+      "qualifier_name": "therapy",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008405",
+      "descriptor_name": "Massage",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D009369",
+      "descriptor_name": "Neoplasms",
+      "qualifier_ui": "Q000150",
+      "qualifier_name": "complications",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D016032",
+      "descriptor_name": "Randomized Controlled Trials as Topic",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D012064",
+      "descriptor_name": "Relaxation Therapy",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D055070",
+      "descriptor_name": "Resistance Training",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D026302",
+      "descriptor_name": "Tai Ji",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015013",
+      "descriptor_name": "Yoga",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015928",
+      "descriptor_name": "Cognitive Behavioral Therapy",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005081",
+      "descriptor_name": "Exercise Therapy",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D005221",
+      "descriptor_name": "Fatigue",
+      "qualifier_ui": "Q000209",
+      "qualifier_name": "etiology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005221",
+      "descriptor_name": "Fatigue",
+      "qualifier_ui": "Q000628",
+      "qualifier_name": "therapy",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008405",
+      "descriptor_name": "Massage",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D009369",
+      "descriptor_name": "Neoplasms",
+      "qualifier_ui": "Q000150",
+      "qualifier_name": "complications",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D016032",
+      "descriptor_name": "Randomized Controlled Trials as Topic",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D012064",
+      "descriptor_name": "Relaxation Therapy",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D055070",
+      "descriptor_name": "Resistance Training",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D026302",
+      "descriptor_name": "Tai Ji",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015013",
+      "descriptor_name": "Yoga",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000099094",
+      "descriptor_name": "Network Meta-Analysis",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015928",
+      "descriptor_name": "Cognitive Behavioral Therapy",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005081",
+      "descriptor_name": "Exercise Therapy",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D005221",
+      "descriptor_name": "Fatigue",
+      "qualifier_ui": "Q000209",
+      "qualifier_name": "etiology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005221",
+      "descriptor_name": "Fatigue",
+      "qualifier_ui": "Q000628",
+      "qualifier_name": "therapy",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008405",
+      "descriptor_name": "Massage",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D009369",
+      "descriptor_name": "Neoplasms",
+      "qualifier_ui": "Q000150",
+      "qualifier_name": "complications",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D016032",
+      "descriptor_name": "Randomized Controlled Trials as Topic",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D012064",
+      "descriptor_name": "Relaxation Therapy",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D055070",
+      "descriptor_name": "Resistance Training",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D026302",
+      "descriptor_name": "Tai Ji",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015013",
+      "descriptor_name": "Yoga",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015928",
+      "descriptor_name": "Cognitive Behavioral Therapy",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005081",
+      "descriptor_name": "Exercise Therapy",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D005221",
+      "descriptor_name": "Fatigue",
+      "qualifier_ui": "Q000209",
+      "qualifier_name": "etiology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005221",
+      "descriptor_name": "Fatigue",
+      "qualifier_ui": "Q000628",
+      "qualifier_name": "therapy",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008405",
+      "descriptor_name": "Massage",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D009369",
+      "descriptor_name": "Neoplasms",
+      "qualifier_ui": "Q000150",
+      "qualifier_name": "complications",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D016032",
+      "descriptor_name": "Randomized Controlled Trials as Topic",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D012064",
+      "descriptor_name": "Relaxation Therapy",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D055070",
+      "descriptor_name": "Resistance Training",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D026302",
+      "descriptor_name": "Tai Ji",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015013",
+      "descriptor_name": "Yoga",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    }
+  ],
+  "locations_count": 9,
+  "locations": [
+    {
+      "id": "doi:10.1136/bjsports-2016-096422",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1136/bjsports-2016-096422",
+      "pdf_url": "https://bjsm.bmj.com/content/bjsports/52/10/651.full.pdf",
+      "source": {
+        "id": "https://openalex.org/S136578784",
+        "display_name": "British Journal of Sports Medicine",
+        "issn_l": "0306-3674",
+        "issn": [
+          "0306-3674",
+          "1473-0480"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310319945",
+        "host_organization_name": "BMJ",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310319945"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "journal"
+      },
+      "license": "cc-by-nc",
+      "license_id": "https://openalex.org/licenses/cc-by-nc",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "British Journal of Sports Medicine"
+    },
+    {
+      "id": "pmid:28501804",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/28501804",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "British journal of sports medicine"
+    },
+    {
+      "id": "pmh:oai:serval.unil.ch:BIB_7753311DBB77",
+      "is_oa": true,
+      "landing_page_url": "https://serval.unil.ch/notice/serval:BIB_7753311DBB77",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401797",
+        "display_name": "SERVAL (Universit\u00e9 de Lausanne)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I4210093590",
+        "host_organization_name": "Swiss School of Archaeology in Greece",
+        "host_organization_lineage": [
+          "https://openalex.org/I4210093590"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "other-oa",
+      "license_id": "https://openalex.org/licenses/other-oa",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "British journal of sports medicine, vol. 52, no. 10, pp. 651-658"
+    },
+    {
+      "id": "pmh:oai:pubmedcentral.nih.gov:5931245",
+      "is_oa": true,
+      "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/5931245",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S2764455111",
+        "display_name": "PubMed Central",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "other-oa",
+      "license_id": "https://openalex.org/licenses/other-oa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Br J Sports Med"
+    },
+    {
+      "id": "pmh:oai:open-archive.highwire.org:bjsports:52/10/651",
+      "is_oa": false,
+      "landing_page_url": "http://bjsm.bmj.com/cgi/content/short/52/10/651",
+      "pdf_url": null,
+      "source": null,
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": ""
+    },
+    {
+      "id": "pmh:oai:europepmc.org:4856009",
+      "is_oa": true,
+      "landing_page_url": "http://europepmc.org/pmc/articles/PMC5931245",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306400806",
+        "display_name": "Europe PMC (PubMed Central)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1303153112",
+        "host_organization_name": "European Bioinformatics Institute",
+        "host_organization_lineage": [
+          "https://openalex.org/I1303153112"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "other-oa",
+      "license_id": "https://openalex.org/licenses/other-oa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": ""
+    },
+    {
+      "id": "pmh:oai:hesso.tind.io:3264",
+      "is_oa": false,
+      "landing_page_url": "http://arodes.hes-so.ch/record/3264",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306402432",
+        "display_name": "ArODES (HES-SO (https://www.hes-so.ch/))",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I4210088449",
+        "host_organization_name": "HES-SO Gen\u00e8ve",
+        "host_organization_lineage": [
+          "https://openalex.org/I4210088449"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "http://arodes.hes-so.ch/record/3264"
+    },
+    {
+      "id": "pmh:oai:digitalcollection.zhaw.ch:11475/12320",
+      "is_oa": true,
+      "landing_page_url": "https://hdl.handle.net/11475/12320",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401810",
+        "display_name": "Z\u00fcrcher Hochschule f\u00fcr Angewandte Wissenschaften digital collection (Zurich University of Applied Sciences)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I200744771",
+        "host_organization_name": "ZHAW Zurich University of Applied Sciences",
+        "host_organization_lineage": [
+          "https://openalex.org/I200744771"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by-nc",
+      "license_id": "https://openalex.org/licenses/cc-by-nc",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": ""
+    },
+    {
+      "id": "doi:10.21256/zhaw-4856",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.21256/zhaw-4856",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S7407051289",
+        "display_name": "ZHAW Digital Collection",
+        "issn_l": null,
+        "issn": [],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [
+          null
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": null,
+      "is_accepted": false,
+      "is_published": null,
+      "raw_source_name": null
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1136/bjsports-2016-096422",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1136/bjsports-2016-096422",
+    "pdf_url": "https://bjsm.bmj.com/content/bjsports/52/10/651.full.pdf",
+    "source": {
+      "id": "https://openalex.org/S136578784",
+      "display_name": "British Journal of Sports Medicine",
+      "issn_l": "0306-3674",
+      "issn": [
+        "0306-3674",
+        "1473-0480"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310319945",
+      "host_organization_name": "BMJ",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310319945"
+      ],
+      "host_organization_lineage_names": [],
+      "type": "journal"
+    },
+    "license": "cc-by-nc",
+    "license_id": "https://openalex.org/licenses/cc-by-nc",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "British Journal of Sports Medicine",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [
+    {
+      "score": 0.8399999737739563,
+      "display_name": "Good health and well-being",
+      "id": "https://metadata.un.org/sdg/3"
+    }
+  ],
+  "grants": [
+    {
+      "funder": "https://openalex.org/F4320326610",
+      "funder_display_name": "Haute \u00e9cole Sp\u00e9cialis\u00e9e de Suisse Occidentale",
+      "award_id": null
+    }
+  ],
+  "awards": [],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320326610",
+      "display_name": "Haute \u00e9cole Sp\u00e9cialis\u00e9e de Suisse Occidentale",
+      "ror": "https://ror.org/03r5zec51"
+    }
+  ],
+  "has_content": {
+    "grobid_xml": true,
+    "pdf": true
+  },
+  "referenced_works_count": 89,
+  "referenced_works": [
+    "https://openalex.org/W2155877563",
+    "https://openalex.org/W1981039202",
+    "https://openalex.org/W2138428156",
+    "https://openalex.org/W2211929823",
+    "https://openalex.org/W2091917093",
+    "https://openalex.org/W2119968490",
+    "https://openalex.org/W1940235639",
+    "https://openalex.org/W6640964889",
+    "https://openalex.org/W2158877923",
+    "https://openalex.org/W2149896984",
+    "https://openalex.org/W2135412225",
+    "https://openalex.org/W1937811769",
+    "https://openalex.org/W1966643605",
+    "https://openalex.org/W6677121758",
+    "https://openalex.org/W6638871026",
+    "https://openalex.org/W2039363129",
+    "https://openalex.org/W2084777875",
+    "https://openalex.org/W2170085618",
+    "https://openalex.org/W2149581871",
+    "https://openalex.org/W2025833807",
+    "https://openalex.org/W1963821095",
+    "https://openalex.org/W2170121279",
+    "https://openalex.org/W2136169719",
+    "https://openalex.org/W6615040437",
+    "https://openalex.org/W6676430053",
+    "https://openalex.org/W6631963046",
+    "https://openalex.org/W6651283499",
+    "https://openalex.org/W2334279947",
+    "https://openalex.org/W2098660029",
+    "https://openalex.org/W2019136566",
+    "https://openalex.org/W2080059995",
+    "https://openalex.org/W2027952093",
+    "https://openalex.org/W2025795461",
+    "https://openalex.org/W2068987071",
+    "https://openalex.org/W2032975330",
+    "https://openalex.org/W2061856176",
+    "https://openalex.org/W6630959018",
+    "https://openalex.org/W1490023956",
+    "https://openalex.org/W2161348338",
+    "https://openalex.org/W6650418564",
+    "https://openalex.org/W2023676398",
+    "https://openalex.org/W6684790779",
+    "https://openalex.org/W2117207392",
+    "https://openalex.org/W2178014981",
+    "https://openalex.org/W2079657742",
+    "https://openalex.org/W4240032685",
+    "https://openalex.org/W1617328014",
+    "https://openalex.org/W1598602811",
+    "https://openalex.org/W2157823046",
+    "https://openalex.org/W4297918764",
+    "https://openalex.org/W2037557484",
+    "https://openalex.org/W2346112315",
+    "https://openalex.org/W2010699829",
+    "https://openalex.org/W1902576439",
+    "https://openalex.org/W1982924223",
+    "https://openalex.org/W2008513589",
+    "https://openalex.org/W1782442555",
+    "https://openalex.org/W6665897232",
+    "https://openalex.org/W6705044942",
+    "https://openalex.org/W1987812953",
+    "https://openalex.org/W2026156589",
+    "https://openalex.org/W2100160566",
+    "https://openalex.org/W1974682148",
+    "https://openalex.org/W2152221029",
+    "https://openalex.org/W2105304594",
+    "https://openalex.org/W1908974388",
+    "https://openalex.org/W1834370900",
+    "https://openalex.org/W4251786721",
+    "https://openalex.org/W4242622226",
+    "https://openalex.org/W2113716208",
+    "https://openalex.org/W4231479147",
+    "https://openalex.org/W4285719527",
+    "https://openalex.org/W2060681887",
+    "https://openalex.org/W2169110326",
+    "https://openalex.org/W1518728900",
+    "https://openalex.org/W1973365170",
+    "https://openalex.org/W1844710519",
+    "https://openalex.org/W2132087344",
+    "https://openalex.org/W4285097283",
+    "https://openalex.org/W71228264",
+    "https://openalex.org/W1534497265",
+    "https://openalex.org/W1979273966",
+    "https://openalex.org/W2003539981",
+    "https://openalex.org/W4246633852",
+    "https://openalex.org/W433257718",
+    "https://openalex.org/W1952315861",
+    "https://openalex.org/W4243177274",
+    "https://openalex.org/W1999545659",
+    "https://openalex.org/W2108276209"
+  ],
+  "related_works": [
+    "https://openalex.org/W3157682546",
+    "https://openalex.org/W2183409668",
+    "https://openalex.org/W1634445912",
+    "https://openalex.org/W1520033421",
+    "https://openalex.org/W2358737139",
+    "https://openalex.org/W2353164827",
+    "https://openalex.org/W2377846754",
+    "https://openalex.org/W2113716208",
+    "https://openalex.org/W2354817671",
+    "https://openalex.org/W4214945042"
+  ],
+  "abstract_inverted_index": {
+    "Aim": [
+      0
+    ],
+    "To": [
+      1
+    ],
+    "assess": [
+      2
+    ],
+    "the": [
+      3,
+      99,
+      110,
+      181
+    ],
+    "relative": [
+      4
+    ],
+    "effects": [
+      5,
+      89
+    ],
+    "of": [
+      6,
+      9,
+      59,
+      81,
+      119,
+      237
+    ],
+    "different": [
+      7,
+      57,
+      234
+    ],
+    "types": [
+      8,
+      58,
+      236
+    ],
+    "exercise": [
+      10,
+      60,
+      108,
+      238
+    ],
+    "and": [
+      11,
+      22,
+      29,
+      41,
+      78,
+      87,
+      148,
+      166,
+      190,
+      219,
+      239
+    ],
+    "other": [
+      12,
+      62
+    ],
+    "non-pharmaceutical": [
+      13,
+      63,
+      240
+    ],
+    "interventions": [
+      14,
+      64,
+      241
+    ],
+    "on": [
+      15
+    ],
+    "cancer-related": [
+      16
+    ],
+    "fatigue": [
+      17
+    ],
+    "(CRF)": [
+      18
+    ],
+    "in": [
+      19,
+      37,
+      68
+    ],
+    "patients": [
+      20
+    ],
+    "during": [
+      21,
+      72,
+      104
+    ],
+    "after": [
+      23,
+      74
+    ],
+    "cancer": [
+      24,
+      70,
+      105,
+      177
+    ],
+    "treatment.": [
+      25,
+      75
+    ],
+    "Design": [
+      26
+    ],
+    "Systematic": [
+      27
+    ],
+    "review": [
+      28
+    ],
+    "indirect-comparisons": [
+      30
+    ],
+    "meta-analysis.": [
+      31,
+      92
+    ],
+    "Data": [
+      32
+    ],
+    "sources": [
+      33
+    ],
+    "Articles": [
+      34
+    ],
+    "were": [
+      35
+    ],
+    "searched": [
+      36
+    ],
+    "PubMed,": [
+      38
+    ],
+    "Cochrane": [
+      39
+    ],
+    "CENTRAL": [
+      40
+    ],
+    "published": [
+      42,
+      51
+    ],
+    "meta-analyses.": [
+      43
+    ],
+    "Eligibility": [
+      44
+    ],
+    "criteria": [
+      45,
+      86
+    ],
+    "for": [
+      46
+    ],
+    "selecting": [
+      47
+    ],
+    "studies": [
+      48,
+      50
+    ],
+    "Randomised": [
+      49
+    ],
+    "up": [
+      52
+    ],
+    "to": [
+      53,
+      65,
+      126,
+      132,
+      144,
+      153,
+      159,
+      164,
+      170,
+      186,
+      195,
+      201,
+      206,
+      211,
+      217,
+      223,
+      242
+    ],
+    "January": [
+      54
+    ],
+    "2017": [
+      55
+    ],
+    "evaluating": [
+      56
+    ],
+    "or": [
+      61,
+      73
+    ],
+    "reduce": [
+      66,
+      243
+    ],
+    "CRF": [
+      67
+    ],
+    "any": [
+      69
+    ],
+    "type": [
+      71
+    ],
+    "Study": [
+      76
+    ],
+    "appraisal": [
+      77
+    ],
+    "synthesis": [
+      79
+    ],
+    "Risk": [
+      80
+    ],
+    "bias": [
+      82
+    ],
+    "assessment": [
+      83
+    ],
+    "with": [
+      84,
+      101,
+      114,
+      137
+    ],
+    "PEDro": [
+      85
+    ],
+    "random": [
+      88
+    ],
+    "Bayesian": [
+      90
+    ],
+    "network": [
+      91
+    ],
+    "Results": [
+      93
+    ],
+    "We": [
+      94
+    ],
+    "included": [
+      95
+    ],
+    "245": [
+      96
+    ],
+    "studies.": [
+      97
+    ],
+    "Comparing": [
+      98
+    ],
+    "treatments": [
+      100
+    ],
+    "usual": [
+      102
+    ],
+    "care": [
+      103
+    ],
+    "treatment,": [
+      106,
+      178
+    ],
+    "relaxation": [
+      107
+    ],
+    "was": [
+      109
+    ],
+    "highest": [
+      111,
+      182
+    ],
+    "ranked": [
+      112
+    ],
+    "intervention": [
+      113
+    ],
+    "a": [
+      115
+    ],
+    "standardisedmean": [
+      116
+    ],
+    "difference": [
+      117
+    ],
+    "(SMD)": [
+      118
+    ],
+    "\u22120.77": [
+      120
+    ],
+    "(95%": [
+      121
+    ],
+    "Credible": [
+      122
+    ],
+    "Interval": [
+      123
+    ],
+    "(CrI)": [
+      124
+    ],
+    "\u22121.22": [
+      125
+    ],
+    "\u22120.31),": [
+      127
+    ],
+    "while": [
+      128
+    ],
+    "massage": [
+      129
+    ],
+    "(\u22120.78;": [
+      130
+    ],
+    "\u22121.55": [
+      131
+    ],
+    "\u22120.01),": [
+      133
+    ],
+    "cognitive\u2013behavioural": [
+      134
+    ],
+    "therapy": [
+      135
+    ],
+    "combined": [
+      136,
+      146,
+      197
+    ],
+    "physical": [
+      138
+    ],
+    "activity": [
+      139
+    ],
+    "(combined": [
+      140
+    ],
+    "CBT,": [
+      141
+    ],
+    "\u22120.72;": [
+      142
+    ],
+    "\u22121.34": [
+      143
+    ],
+    "\u22120.09),": [
+      145
+    ],
+    "aerobic": [
+      147,
+      161,
+      189,
+      220
+    ],
+    "resistance": [
+      149,
+      155,
+      191,
+      213
+    ],
+    "training": [
+      150,
+      156,
+      192,
+      214
+    ],
+    "(\u22120.67;": [
+      151
+    ],
+    "\u22121.01": [
+      152,
+      169
+    ],
+    "\u22120.34),": [
+      154,
+      196
+    ],
+    "(\u22120.53;": [
+      157,
+      162
+    ],
+    "\u22121.02": [
+      158
+    ],
+    "\u22120.03),": [
+      160
+    ],
+    "\u22120.80": [
+      163
+    ],
+    "\u22120.26)": [
+      165
+    ],
+    "yoga": [
+      167,
+      179
+    ],
+    "(\u22120.51;": [
+      168
+    ],
+    "0.00)": [
+      171
+    ],
+    "all": [
+      172,
+      226
+    ],
+    "had": [
+      173
+    ],
+    "moderate-to-large": [
+      174
+    ],
+    "SMDs.": [
+      175,
+      228
+    ],
+    "After": [
+      176
+    ],
+    "showed": [
+      180,
+      225
+    ],
+    "effect": [
+      183
+    ],
+    "(\u22120.68;": [
+      184
+    ],
+    "\u22120.93": [
+      185
+    ],
+    "\u22120.43).": [
+      187
+    ],
+    "Combined": [
+      188
+    ],
+    "(\u22120.50;": [
+      193
+    ],
+    "\u22120.66": [
+      194
+    ],
+    "CBT": [
+      198,
+      208
+    ],
+    "(\u22120.45;": [
+      199,
+      204
+    ],
+    "\u22120.70": [
+      200
+    ],
+    "\u22120.21),": [
+      202
+    ],
+    "Tai-Chi": [
+      203
+    ],
+    "\u22120.84": [
+      205
+    ],
+    "\u22120.06),": [
+      207
+    ],
+    "(\u22120.42;": [
+      209
+    ],
+    "\u22120.58": [
+      210
+    ],
+    "\u22120.25),": [
+      212
+    ],
+    "(\u22120.35;": [
+      215
+    ],
+    "\u22120.62": [
+      216
+    ],
+    "\u22120.08)": [
+      218
+    ],
+    "(\u22120.33;": [
+      221
+    ],
+    "\u22120.51": [
+      222
+    ],
+    "\u22120.16)": [
+      224
+    ],
+    "small-to-moderate": [
+      227
+    ],
+    "Conclusions": [
+      229
+    ],
+    "Patients": [
+      230
+    ],
+    "can": [
+      231
+    ],
+    "choose": [
+      232
+    ],
+    "among": [
+      233
+    ],
+    "effective": [
+      235
+    ],
+    "CRF.": [
+      244
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 42
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 53
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 71
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 60
+    },
+    {
+      "year": 2021,
+      "cited_by_count": 52
+    },
+    {
+      "year": 2020,
+      "cited_by_count": 42
+    },
+    {
+      "year": 2019,
+      "cited_by_count": 28
+    },
+    {
+      "year": 2018,
+      "cited_by_count": 11
+    },
+    {
+      "year": 2017,
+      "cited_by_count": 4
+    },
+    {
+      "year": 2016,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2025-11-06T03:46:38.306776",
+  "created_date": "2025-10-10T00:00:00"
+}

@@ -1,0 +1,1665 @@
+{
+  "id": "https://openalex.org/W4307092788",
+  "doi": "https://doi.org/10.1136/ard-2022-223298",
+  "title": "Efficacy and safety of biological DMARDs: a systematic literature review informing the 2022 update of the ASAS-EULAR recommendations for the management of axial spondyloarthritis",
+  "display_name": "Efficacy and safety of biological DMARDs: a systematic literature review informing the 2022 update of the ASAS-EULAR recommendations for the management of axial spondyloarthritis",
+  "publication_year": 2022,
+  "publication_date": "2022-10-21",
+  "ids": {
+    "openalex": "https://openalex.org/W4307092788",
+    "doi": "https://doi.org/10.1136/ard-2022-223298",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/36270657"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1136/ard-2022-223298",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1136/ard-2022-223298",
+    "pdf_url": "https://ard.bmj.com/content/annrheumdis/82/1/130.full.pdf",
+    "source": {
+      "id": "https://openalex.org/S25650217",
+      "display_name": "Annals of the Rheumatic Diseases",
+      "issn_l": "0003-4967",
+      "issn": [
+        "0003-4967",
+        "1468-2060"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310319945",
+      "host_organization_name": "BMJ",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310319945"
+      ],
+      "host_organization_lineage_names": [
+        "BMJ"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Annals of the Rheumatic Diseases",
+    "raw_type": "journal-article"
+  },
+  "type": "review",
+  "indexed_in": [
+    "crossref",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "bronze",
+    "oa_url": "https://ard.bmj.com/content/annrheumdis/82/1/130.full.pdf",
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5062170314",
+        "display_name": "Casper Webers",
+        "orcid": "https://orcid.org/0000-0003-3011-8547"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I34352273",
+          "display_name": "Maastricht University",
+          "ror": "https://ror.org/02jz4aj89",
+          "country_code": "NL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I34352273"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I2800191616",
+          "display_name": "Maastricht University Medical Centre",
+          "ror": "https://ror.org/02d9ce178",
+          "country_code": "NL",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2800191616"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210159453",
+          "display_name": "Center for Rheumatology",
+          "ror": "https://ror.org/04rtaxr13",
+          "country_code": "US",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I4210159453"
+          ]
+        }
+      ],
+      "countries": [
+        "NL",
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Casper Webers",
+      "raw_affiliation_strings": [
+        "Care and Public Health Research Institute (CAPHRI)",
+        "Department of Internal Medicine, Division of Rheumatology",
+        "Maastricht University",
+        "Maastricht University Medical Centre+"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Maastricht University",
+          "institution_ids": [
+            "https://openalex.org/I34352273"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Internal Medicine, Division of Rheumatology",
+          "institution_ids": [
+            "https://openalex.org/I4210159453"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Maastricht University Medical Centre+",
+          "institution_ids": [
+            "https://openalex.org/I2800191616"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Care and Public Health Research Institute (CAPHRI)",
+          "institution_ids": []
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5090616764",
+        "display_name": "Augusta Ortolan",
+        "orcid": "https://orcid.org/0000-0002-3131-0939"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I138689650",
+          "display_name": "University of Padua",
+          "ror": "https://ror.org/00240q980",
+          "country_code": "IT",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I138689650"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I2800006345",
+          "display_name": "Leiden University Medical Center",
+          "ror": "https://ror.org/05xvt9f17",
+          "country_code": "NL",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2800006345"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I1318644421",
+          "display_name": "March of Dimes",
+          "ror": "https://ror.org/04bd5p711",
+          "country_code": "US",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I1318644421"
+          ]
+        }
+      ],
+      "countries": [
+        "IT",
+        "NL",
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Augusta Ortolan",
+      "raw_affiliation_strings": [
+        "Department of Rheumatology",
+        "Leiden University Medical Center",
+        "Rheumatology Unit, Department of Medicine DIMED",
+        "University of Padua"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "University of Padua",
+          "institution_ids": [
+            "https://openalex.org/I138689650"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Rheumatology",
+          "institution_ids": []
+        },
+        {
+          "raw_affiliation_string": "Rheumatology Unit, Department of Medicine DIMED",
+          "institution_ids": [
+            "https://openalex.org/I1318644421"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Leiden University Medical Center",
+          "institution_ids": [
+            "https://openalex.org/I2800006345"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5085359664",
+        "display_name": "Alexandre Sepriano",
+        "orcid": "https://orcid.org/0000-0003-1954-0229"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2800006345",
+          "display_name": "Leiden University Medical Center",
+          "ror": "https://ror.org/05xvt9f17",
+          "country_code": "NL",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2800006345"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I83558840",
+          "display_name": "Universidade Nova de Lisboa",
+          "ror": "https://ror.org/02xankh89",
+          "country_code": "PT",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I83558840"
+          ]
+        }
+      ],
+      "countries": [
+        "NL",
+        "PT"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Alexandre Sepriano",
+      "raw_affiliation_strings": [
+        "Department of Rheumatology",
+        "Leiden University Medical Center",
+        "NOVA Medical School, Universidade Nova de Lisboa"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Rheumatology",
+          "institution_ids": []
+        },
+        {
+          "raw_affiliation_string": "NOVA Medical School, Universidade Nova de Lisboa",
+          "institution_ids": [
+            "https://openalex.org/I83558840"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Leiden University Medical Center",
+          "institution_ids": [
+            "https://openalex.org/I2800006345"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5055487104",
+        "display_name": "Louise Falzon",
+        "orcid": "https://orcid.org/0000-0002-9449-6056"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I91136226",
+          "display_name": "University of Sheffield",
+          "ror": "https://ror.org/05krs5044",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I91136226"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Louise Falzon",
+      "raw_affiliation_strings": [
+        "Health Economics and Decision Science, School of Health and Related Research",
+        "The University of Sheffield"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Health Economics and Decision Science, School of Health and Related Research",
+          "institution_ids": []
+        },
+        {
+          "raw_affiliation_string": "The University of Sheffield",
+          "institution_ids": [
+            "https://openalex.org/I91136226"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5064220409",
+        "display_name": "Xenofon Baraliakos",
+        "orcid": "https://orcid.org/0000-0002-9475-9362"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210091869",
+          "display_name": "Rheumazentrum Ruhrgebiet",
+          "ror": "https://ror.org/00e03sj10",
+          "country_code": "DE",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2799784675",
+            "https://openalex.org/I4210088550",
+            "https://openalex.org/I4210091869"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I904495901",
+          "display_name": "Ruhr University Bochum",
+          "ror": "https://ror.org/04tsk2644",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I904495901"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Xenofon Baraliakos",
+      "raw_affiliation_strings": [
+        "Rheumazentrum Ruhrgebiet",
+        "Ruhr University Bochum"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Rheumazentrum Ruhrgebiet",
+          "institution_ids": [
+            "https://openalex.org/I4210091869"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Ruhr University Bochum",
+          "institution_ids": [
+            "https://openalex.org/I904495901"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5000282057",
+        "display_name": "Robert Landew\u00e9",
+        "orcid": "https://orcid.org/0000-0002-0577-6620"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210133559",
+          "display_name": "Zuyderland Medisch Centrum",
+          "ror": "https://ror.org/03bfc4534",
+          "country_code": "NL",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210133559",
+            "https://openalex.org/I4210166163"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Robert B M Landew\u00e9",
+      "raw_affiliation_strings": [
+        "Amsterdam University Medical Centre",
+        "Department of Clinical Immunology and Rheumatology",
+        "Department of Rheumatology",
+        "Zuyderland Medical Centre Heerlen"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Clinical Immunology and Rheumatology",
+          "institution_ids": []
+        },
+        {
+          "raw_affiliation_string": "Amsterdam University Medical Centre",
+          "institution_ids": []
+        },
+        {
+          "raw_affiliation_string": "Department of Rheumatology",
+          "institution_ids": []
+        },
+        {
+          "raw_affiliation_string": "Zuyderland Medical Centre Heerlen",
+          "institution_ids": [
+            "https://openalex.org/I4210133559"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5057223678",
+        "display_name": "Sof\u00eda Ramiro",
+        "orcid": "https://orcid.org/0000-0002-8899-9087"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2800006345",
+          "display_name": "Leiden University Medical Center",
+          "ror": "https://ror.org/05xvt9f17",
+          "country_code": "NL",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2800006345"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210133559",
+          "display_name": "Zuyderland Medisch Centrum",
+          "ror": "https://ror.org/03bfc4534",
+          "country_code": "NL",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210133559",
+            "https://openalex.org/I4210166163"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Sofia Ramiro",
+      "raw_affiliation_strings": [
+        "Department of Rheumatology",
+        "Leiden University Medical Center",
+        "Zuyderland Medical Centre Heerlen"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Zuyderland Medical Centre Heerlen",
+          "institution_ids": [
+            "https://openalex.org/I4210133559"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Rheumatology",
+          "institution_ids": []
+        },
+        {
+          "raw_affiliation_string": "Leiden University Medical Center",
+          "institution_ids": [
+            "https://openalex.org/I2800006345"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5104506506",
+        "display_name": "D\u00e9sir\u00e9e van der Heijde",
+        "orcid": "https://orcid.org/0000-0002-5781-158X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2800006345",
+          "display_name": "Leiden University Medical Center",
+          "ror": "https://ror.org/05xvt9f17",
+          "country_code": "NL",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2800006345"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "D\u00e9sir\u00e9e van der Heijde",
+      "raw_affiliation_strings": [
+        "Department of Rheumatology",
+        "Leiden University Medical Center"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Leiden University Medical Center",
+          "institution_ids": [
+            "https://openalex.org/I2800006345"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Rheumatology",
+          "institution_ids": []
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5009133635",
+        "display_name": "Elena Nikiphorou",
+        "orcid": "https://orcid.org/0000-0001-6847-3726"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210153400",
+          "display_name": "King's College Hospital",
+          "ror": "https://ror.org/044nptt90",
+          "country_code": "GB",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210111135",
+            "https://openalex.org/I4210153400"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I183935753",
+          "display_name": "King's College London",
+          "ror": "https://ror.org/0220mzb33",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I124357947",
+            "https://openalex.org/I183935753"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I2800006345",
+          "display_name": "Leiden University Medical Center",
+          "ror": "https://ror.org/05xvt9f17",
+          "country_code": "NL",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2800006345"
+          ]
+        }
+      ],
+      "countries": [
+        "GB",
+        "NL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Elena Nikiphorou",
+      "raw_affiliation_strings": [
+        "Centre for Rheumatic Diseases",
+        "Department of Rheumatology",
+        "King's College Hospital",
+        "King's College London",
+        "Leiden University Medical Center"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Leiden University Medical Center",
+          "institution_ids": [
+            "https://openalex.org/I2800006345"
+          ]
+        },
+        {
+          "raw_affiliation_string": "King's College London",
+          "institution_ids": [
+            "https://openalex.org/I183935753"
+          ]
+        },
+        {
+          "raw_affiliation_string": "King's College Hospital",
+          "institution_ids": [
+            "https://openalex.org/I4210153400"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Rheumatology",
+          "institution_ids": []
+        },
+        {
+          "raw_affiliation_string": "Centre for Rheumatic Diseases",
+          "institution_ids": []
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 6,
+  "institutions_distinct_count": 9,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 24.16147543,
+  "has_fulltext": true,
+  "cited_by_count": 96,
+  "citation_normalized_percentile": {
+    "value": 0.99539955,
+    "is_in_top_1_percent": true,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 96,
+    "max": 100
+  },
+  "biblio": {
+    "volume": "82",
+    "issue": "1",
+    "first_page": "130",
+    "last_page": "141"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T11092",
+    "display_name": "Spondyloarthritis Studies and Treatments",
+    "score": 0.9998999834060669,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2745",
+      "display_name": "Rheumatology"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/27",
+      "display_name": "Medicine"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/4",
+      "display_name": "Health Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T11092",
+      "display_name": "Spondyloarthritis Studies and Treatments",
+      "score": 0.9998999834060669,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2745",
+        "display_name": "Rheumatology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10200",
+      "display_name": "Rheumatoid Arthritis Research and Therapies",
+      "score": 0.9998999834060669,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2745",
+        "display_name": "Rheumatology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11616",
+      "display_name": "Autoimmune and Inflammatory Disorders Research",
+      "score": 0.9994999766349792,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2720",
+        "display_name": "Hematology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/medicine",
+      "display_name": "Medicine",
+      "score": 0.9531420469284058
+    },
+    {
+      "id": "https://openalex.org/keywords/secukinumab",
+      "display_name": "Secukinumab",
+      "score": 0.921720027923584
+    },
+    {
+      "id": "https://openalex.org/keywords/ustekinumab",
+      "display_name": "Ustekinumab",
+      "score": 0.7948273420333862
+    },
+    {
+      "id": "https://openalex.org/keywords/observational-study",
+      "display_name": "Observational study",
+      "score": 0.613609254360199
+    },
+    {
+      "id": "https://openalex.org/keywords/etanercept",
+      "display_name": "Etanercept",
+      "score": 0.6037237644195557
+    },
+    {
+      "id": "https://openalex.org/keywords/golimumab",
+      "display_name": "Golimumab",
+      "score": 0.5911593437194824
+    },
+    {
+      "id": "https://openalex.org/keywords/internal-medicine",
+      "display_name": "Internal medicine",
+      "score": 0.5677521824836731
+    },
+    {
+      "id": "https://openalex.org/keywords/certolizumab-pegol",
+      "display_name": "Certolizumab pegol",
+      "score": 0.5568954944610596
+    },
+    {
+      "id": "https://openalex.org/keywords/ixekizumab",
+      "display_name": "Ixekizumab",
+      "score": 0.5519360303878784
+    },
+    {
+      "id": "https://openalex.org/keywords/canakinumab",
+      "display_name": "Canakinumab",
+      "score": 0.5277246236801147
+    },
+    {
+      "id": "https://openalex.org/keywords/physical-therapy",
+      "display_name": "Physical therapy",
+      "score": 0.4977171719074249
+    },
+    {
+      "id": "https://openalex.org/keywords/anakinra",
+      "display_name": "Anakinra",
+      "score": 0.48300278186798096
+    },
+    {
+      "id": "https://openalex.org/keywords/ankylosing-spondylitis",
+      "display_name": "Ankylosing spondylitis",
+      "score": 0.47933587431907654
+    },
+    {
+      "id": "https://openalex.org/keywords/infliximab",
+      "display_name": "Infliximab",
+      "score": 0.4538976848125458
+    },
+    {
+      "id": "https://openalex.org/keywords/adalimumab",
+      "display_name": "Adalimumab",
+      "score": 0.45187729597091675
+    },
+    {
+      "id": "https://openalex.org/keywords/randomized-controlled-trial",
+      "display_name": "Randomized controlled trial",
+      "score": 0.4138650596141815
+    },
+    {
+      "id": "https://openalex.org/keywords/psoriatic-arthritis",
+      "display_name": "Psoriatic arthritis",
+      "score": 0.28916192054748535
+    },
+    {
+      "id": "https://openalex.org/keywords/disease",
+      "display_name": "Disease",
+      "score": 0.17615419626235962
+    },
+    {
+      "id": "https://openalex.org/keywords/tumor-necrosis-factor-alpha",
+      "display_name": "Tumor necrosis factor alpha",
+      "score": 0.10772442817687988
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C71924100",
+      "wikidata": "https://www.wikidata.org/wiki/Q11190",
+      "display_name": "Medicine",
+      "level": 0,
+      "score": 0.9531420469284058
+    },
+    {
+      "id": "https://openalex.org/C2779786854",
+      "wikidata": "https://www.wikidata.org/wiki/Q7444755",
+      "display_name": "Secukinumab",
+      "level": 4,
+      "score": 0.921720027923584
+    },
+    {
+      "id": "https://openalex.org/C2778975655",
+      "wikidata": "https://www.wikidata.org/wiki/Q420305",
+      "display_name": "Ustekinumab",
+      "level": 4,
+      "score": 0.7948273420333862
+    },
+    {
+      "id": "https://openalex.org/C23131810",
+      "wikidata": "https://www.wikidata.org/wiki/Q818574",
+      "display_name": "Observational study",
+      "level": 2,
+      "score": 0.613609254360199
+    },
+    {
+      "id": "https://openalex.org/C2777226972",
+      "wikidata": "https://www.wikidata.org/wiki/Q415343",
+      "display_name": "Etanercept",
+      "level": 3,
+      "score": 0.6037237644195557
+    },
+    {
+      "id": "https://openalex.org/C2781290027",
+      "wikidata": "https://www.wikidata.org/wiki/Q413879",
+      "display_name": "Golimumab",
+      "level": 4,
+      "score": 0.5911593437194824
+    },
+    {
+      "id": "https://openalex.org/C126322002",
+      "wikidata": "https://www.wikidata.org/wiki/Q11180",
+      "display_name": "Internal medicine",
+      "level": 1,
+      "score": 0.5677521824836731
+    },
+    {
+      "id": "https://openalex.org/C2776215756",
+      "wikidata": "https://www.wikidata.org/wiki/Q412909",
+      "display_name": "Certolizumab pegol",
+      "level": 4,
+      "score": 0.5568954944610596
+    },
+    {
+      "id": "https://openalex.org/C2779745271",
+      "wikidata": "https://www.wikidata.org/wiki/Q13574436",
+      "display_name": "Ixekizumab",
+      "level": 5,
+      "score": 0.5519360303878784
+    },
+    {
+      "id": "https://openalex.org/C2779725882",
+      "wikidata": "https://www.wikidata.org/wiki/Q3655009",
+      "display_name": "Canakinumab",
+      "level": 4,
+      "score": 0.5277246236801147
+    },
+    {
+      "id": "https://openalex.org/C1862650",
+      "wikidata": "https://www.wikidata.org/wiki/Q186005",
+      "display_name": "Physical therapy",
+      "level": 1,
+      "score": 0.4977171719074249
+    },
+    {
+      "id": "https://openalex.org/C2781228260",
+      "wikidata": "https://www.wikidata.org/wiki/Q415411",
+      "display_name": "Anakinra",
+      "level": 3,
+      "score": 0.48300278186798096
+    },
+    {
+      "id": "https://openalex.org/C2777402515",
+      "wikidata": "https://www.wikidata.org/wiki/Q52849",
+      "display_name": "Ankylosing spondylitis",
+      "level": 2,
+      "score": 0.47933587431907654
+    },
+    {
+      "id": "https://openalex.org/C2777138892",
+      "wikidata": "https://www.wikidata.org/wiki/Q415264",
+      "display_name": "Infliximab",
+      "level": 3,
+      "score": 0.4538976848125458
+    },
+    {
+      "id": "https://openalex.org/C2780132546",
+      "wikidata": "https://www.wikidata.org/wiki/Q348260",
+      "display_name": "Adalimumab",
+      "level": 3,
+      "score": 0.45187729597091675
+    },
+    {
+      "id": "https://openalex.org/C168563851",
+      "wikidata": "https://www.wikidata.org/wiki/Q1436668",
+      "display_name": "Randomized controlled trial",
+      "level": 2,
+      "score": 0.4138650596141815
+    },
+    {
+      "id": "https://openalex.org/C2776260265",
+      "wikidata": "https://www.wikidata.org/wiki/Q511097",
+      "display_name": "Psoriatic arthritis",
+      "level": 3,
+      "score": 0.28916192054748535
+    },
+    {
+      "id": "https://openalex.org/C2779134260",
+      "wikidata": "https://www.wikidata.org/wiki/Q12136",
+      "display_name": "Disease",
+      "level": 2,
+      "score": 0.17615419626235962
+    },
+    {
+      "id": "https://openalex.org/C17991360",
+      "wikidata": "https://www.wikidata.org/wiki/Q21173843",
+      "display_name": "Tumor necrosis factor alpha",
+      "level": 2,
+      "score": 0.10772442817687988
+    }
+  ],
+  "mesh": [
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000089202",
+      "descriptor_name": "Non-Radiographic Axial Spondyloarthritis",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D018501",
+      "descriptor_name": "Antirheumatic Agents",
+      "qualifier_ui": "Q000627",
+      "qualifier_name": "therapeutic use",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D025241",
+      "descriptor_name": "Spondylarthritis",
+      "qualifier_ui": "Q000188",
+      "qualifier_name": "drug therapy",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D025241",
+      "descriptor_name": "Spondylarthritis",
+      "qualifier_ui": "Q000139",
+      "qualifier_name": "chemically induced",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D000068582",
+      "descriptor_name": "Certolizumab Pegol",
+      "qualifier_ui": "Q000627",
+      "qualifier_name": "therapeutic use",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000089183",
+      "descriptor_name": "Axial Spondyloarthritis",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D059451",
+      "descriptor_name": "Biosimilar Pharmaceuticals",
+      "qualifier_ui": "Q000009",
+      "qualifier_name": "adverse effects",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D000079424",
+      "descriptor_name": "Tumor Necrosis Factor Inhibitors",
+      "qualifier_ui": "Q000627",
+      "qualifier_name": "therapeutic use",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D013167",
+      "descriptor_name": "Spondylitis, Ankylosing",
+      "qualifier_ui": "Q000188",
+      "qualifier_name": "drug therapy",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D016896",
+      "descriptor_name": "Treatment Outcome",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000089202",
+      "descriptor_name": "Non-Radiographic Axial Spondyloarthritis",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D018501",
+      "descriptor_name": "Antirheumatic Agents",
+      "qualifier_ui": "Q000627",
+      "qualifier_name": "therapeutic use",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D025241",
+      "descriptor_name": "Spondylarthritis",
+      "qualifier_ui": "Q000188",
+      "qualifier_name": "drug therapy",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D025241",
+      "descriptor_name": "Spondylarthritis",
+      "qualifier_ui": "Q000139",
+      "qualifier_name": "chemically induced",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D000068582",
+      "descriptor_name": "Certolizumab Pegol",
+      "qualifier_ui": "Q000627",
+      "qualifier_name": "therapeutic use",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000089183",
+      "descriptor_name": "Axial Spondyloarthritis",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D059451",
+      "descriptor_name": "Biosimilar Pharmaceuticals",
+      "qualifier_ui": "Q000009",
+      "qualifier_name": "adverse effects",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D000079424",
+      "descriptor_name": "Tumor Necrosis Factor Inhibitors",
+      "qualifier_ui": "Q000627",
+      "qualifier_name": "therapeutic use",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D013167",
+      "descriptor_name": "Spondylitis, Ankylosing",
+      "qualifier_ui": "Q000188",
+      "qualifier_name": "drug therapy",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D016896",
+      "descriptor_name": "Treatment Outcome",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000089202",
+      "descriptor_name": "Non-Radiographic Axial Spondyloarthritis",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D018501",
+      "descriptor_name": "Antirheumatic Agents",
+      "qualifier_ui": "Q000627",
+      "qualifier_name": "therapeutic use",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D025241",
+      "descriptor_name": "Spondylarthritis",
+      "qualifier_ui": "Q000188",
+      "qualifier_name": "drug therapy",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D025241",
+      "descriptor_name": "Spondylarthritis",
+      "qualifier_ui": "Q000139",
+      "qualifier_name": "chemically induced",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D000068582",
+      "descriptor_name": "Certolizumab Pegol",
+      "qualifier_ui": "Q000627",
+      "qualifier_name": "therapeutic use",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000089183",
+      "descriptor_name": "Axial Spondyloarthritis",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D059451",
+      "descriptor_name": "Biosimilar Pharmaceuticals",
+      "qualifier_ui": "Q000009",
+      "qualifier_name": "adverse effects",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D000079424",
+      "descriptor_name": "Tumor Necrosis Factor Inhibitors",
+      "qualifier_ui": "Q000627",
+      "qualifier_name": "therapeutic use",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D013167",
+      "descriptor_name": "Spondylitis, Ankylosing",
+      "qualifier_ui": "Q000188",
+      "qualifier_name": "drug therapy",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D016896",
+      "descriptor_name": "Treatment Outcome",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000089202",
+      "descriptor_name": "Non-Radiographic Axial Spondyloarthritis",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D018501",
+      "descriptor_name": "Antirheumatic Agents",
+      "qualifier_ui": "Q000627",
+      "qualifier_name": "therapeutic use",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D025241",
+      "descriptor_name": "Spondylarthritis",
+      "qualifier_ui": "Q000188",
+      "qualifier_name": "drug therapy",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D025241",
+      "descriptor_name": "Spondylarthritis",
+      "qualifier_ui": "Q000139",
+      "qualifier_name": "chemically induced",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D000068582",
+      "descriptor_name": "Certolizumab Pegol",
+      "qualifier_ui": "Q000627",
+      "qualifier_name": "therapeutic use",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000089183",
+      "descriptor_name": "Axial Spondyloarthritis",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D059451",
+      "descriptor_name": "Biosimilar Pharmaceuticals",
+      "qualifier_ui": "Q000009",
+      "qualifier_name": "adverse effects",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D000079424",
+      "descriptor_name": "Tumor Necrosis Factor Inhibitors",
+      "qualifier_ui": "Q000627",
+      "qualifier_name": "therapeutic use",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D013167",
+      "descriptor_name": "Spondylitis, Ankylosing",
+      "qualifier_ui": "Q000188",
+      "qualifier_name": "drug therapy",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D016896",
+      "descriptor_name": "Treatment Outcome",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    }
+  ],
+  "locations_count": 8,
+  "locations": [
+    {
+      "id": "doi:10.1136/ard-2022-223298",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1136/ard-2022-223298",
+      "pdf_url": "https://ard.bmj.com/content/annrheumdis/82/1/130.full.pdf",
+      "source": {
+        "id": "https://openalex.org/S25650217",
+        "display_name": "Annals of the Rheumatic Diseases",
+        "issn_l": "0003-4967",
+        "issn": [
+          "0003-4967",
+          "1468-2060"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310319945",
+        "host_organization_name": "BMJ",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310319945"
+        ],
+        "host_organization_lineage_names": [
+          "BMJ"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Annals of the Rheumatic Diseases",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:36270657",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/36270657",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Annals of the rheumatic diseases",
+      "raw_type": null
+    },
+    {
+      "id": "pmh:amcpub:oai:pure.amc.nl:publications/d6940308-8565-4bdf-80b4-1fce3f53b33c",
+      "is_oa": false,
+      "landing_page_url": "https://pure.amc.nl/en/publications/efficacy-and-safety-of-biological-dmards(d6940308-8565-4bdf-80b4-1fce3f53b33c).html",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401843",
+        "display_name": "Data Archiving and Networked Services (DANS)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1322597698",
+        "host_organization_name": "Royal Netherlands Academy of Arts and Sciences",
+        "host_organization_lineage": [
+          "https://openalex.org/I1322597698"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Annals of the rheumatic diseases, 82(1):A80, 130 - 141. BMJ Publishing Group",
+      "raw_type": "info:eu-repo/semantics/other"
+    },
+    {
+      "id": "pmh:lumc:oai:scholarlypublications.universiteitleiden.nl:item_3503925",
+      "is_oa": true,
+      "landing_page_url": "http://hdl.handle.net/1887/3503925",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401843",
+        "display_name": "Data Archiving and Networked Services (DANS)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1322597698",
+        "host_organization_name": "Royal Netherlands Academy of Arts and Sciences",
+        "host_organization_lineage": [
+          "https://openalex.org/I1322597698"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "other-oa",
+      "license_id": "https://openalex.org/licenses/other-oa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Annals of the Rheumatic Diseases, 82(1). BMJ PUBLISHING GROUP",
+      "raw_type": "info:eu-repo/semantics/article"
+    },
+    {
+      "id": "pmh:oai:kclpure.kcl.ac.uk:publications/63c15d0a-0a47-4dc8-885b-4c86db6a1d83",
+      "is_oa": true,
+      "landing_page_url": "https://kclpure.kcl.ac.uk/portal/en/publications/63c15d0a-0a47-4dc8-885b-4c86db6a1d83",
+      "pdf_url": null,
+      "source": null,
+      "license": "cc-by-nc",
+      "license_id": "https://openalex.org/licenses/cc-by-nc",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Webers , C , Ortolan , A , Sepriano , A , Falzon , L , Baraliakos , X , Landew\u00e9 , R B M , Ramiro , S , van der Heijde , D & Nikiphorou , E 2022 , ' Efficacy and safety of biological DMARDs : a systematic literature review informing the 2022 update of the ASAS-EULAR recommendations for the management of axial spondyloarthritis ' , Annals of the Rheumatic Diseases . https://doi.org/10.1136/ard-2022-223298",
+      "raw_type": "article"
+    },
+    {
+      "id": "pmh:oai:scholarlypublications.universiteitleiden.nl:item_3503925",
+      "is_oa": false,
+      "landing_page_url": "https://hdl.handle.net/1887/3503925",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S25650217",
+        "display_name": "Annals of the Rheumatic Diseases",
+        "issn_l": "0003-4967",
+        "issn": [
+          "0003-4967",
+          "1468-2060"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310319945",
+        "host_organization_name": "BMJ",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310319945"
+        ],
+        "host_organization_lineage_names": [
+          "BMJ"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Annals of the Rheumatic Diseases",
+      "raw_type": "Article / Letter to editor"
+    },
+    {
+      "id": "pmh:oai:www.research.unipd.it:11577/3483222",
+      "is_oa": true,
+      "landing_page_url": "https://hdl.handle.net/11577/3483222",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306402448",
+        "display_name": "Padua Research Archive (University of Padua)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I138689650",
+        "host_organization_name": "University of Padua",
+        "host_organization_lineage": [
+          "https://openalex.org/I138689650"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "other-oa",
+      "license_id": "https://openalex.org/licenses/other-oa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "",
+      "raw_type": "info:eu-repo/semantics/article"
+    },
+    {
+      "id": "pmh:um:oai:cris.maastrichtuniversity.nl:publications/19ca5461-7692-4604-b808-687b99d15c2d",
+      "is_oa": true,
+      "landing_page_url": "https://cris.maastrichtuniversity.nl/en/publications/19ca5461-7692-4604-b808-687b99d15c2d",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401843",
+        "display_name": "Data Archiving and Networked Services (DANS)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1322597698",
+        "host_organization_name": "Royal Netherlands Academy of Arts and Sciences",
+        "host_organization_lineage": [
+          "https://openalex.org/I1322597698"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "other-oa",
+      "license_id": "https://openalex.org/licenses/other-oa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Annals of the Rheumatic Diseases, 82(1), 130 - 141. BMJ Publishing Group",
+      "raw_type": "info:eu-repo/semantics/other"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1136/ard-2022-223298",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1136/ard-2022-223298",
+    "pdf_url": "https://ard.bmj.com/content/annrheumdis/82/1/130.full.pdf",
+    "source": {
+      "id": "https://openalex.org/S25650217",
+      "display_name": "Annals of the Rheumatic Diseases",
+      "issn_l": "0003-4967",
+      "issn": [
+        "0003-4967",
+        "1468-2060"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310319945",
+      "host_organization_name": "BMJ",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310319945"
+      ],
+      "host_organization_lineage_names": [
+        "BMJ"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Annals of the Rheumatic Diseases",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [
+    {
+      "score": 0.5600000023841858,
+      "display_name": "Good health and well-being",
+      "id": "https://metadata.un.org/sdg/3"
+    }
+  ],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "pdf": true,
+    "grobid_xml": true
+  },
+  "referenced_works_count": 104,
+  "referenced_works": [
+    "https://openalex.org/W2572897530",
+    "https://openalex.org/W4200322391",
+    "https://openalex.org/W2118203621",
+    "https://openalex.org/W2097730524",
+    "https://openalex.org/W2163493960",
+    "https://openalex.org/W2139525798",
+    "https://openalex.org/W2127756765",
+    "https://openalex.org/W2124551692",
+    "https://openalex.org/W2581314910",
+    "https://openalex.org/W3093042955",
+    "https://openalex.org/W4306843896",
+    "https://openalex.org/W6846323878",
+    "https://openalex.org/W2970684805",
+    "https://openalex.org/W2122814783",
+    "https://openalex.org/W2082977560",
+    "https://openalex.org/W2774947310",
+    "https://openalex.org/W2787262638",
+    "https://openalex.org/W2922280445",
+    "https://openalex.org/W3109882235",
+    "https://openalex.org/W3096136297",
+    "https://openalex.org/W2970599942",
+    "https://openalex.org/W3007138247",
+    "https://openalex.org/W3126316133",
+    "https://openalex.org/W2613299853",
+    "https://openalex.org/W2780640950",
+    "https://openalex.org/W2885214565",
+    "https://openalex.org/W3086596347",
+    "https://openalex.org/W3210672391",
+    "https://openalex.org/W3047978234",
+    "https://openalex.org/W3164608263",
+    "https://openalex.org/W3208418012",
+    "https://openalex.org/W2897890026",
+    "https://openalex.org/W2896552337",
+    "https://openalex.org/W2993436820",
+    "https://openalex.org/W6769249099",
+    "https://openalex.org/W3083737813",
+    "https://openalex.org/W3014565220",
+    "https://openalex.org/W3149218144",
+    "https://openalex.org/W2828329901",
+    "https://openalex.org/W2891366322",
+    "https://openalex.org/W3159177916",
+    "https://openalex.org/W2811358573",
+    "https://openalex.org/W3022360441",
+    "https://openalex.org/W3034117249",
+    "https://openalex.org/W3164506901",
+    "https://openalex.org/W2911795323",
+    "https://openalex.org/W3157525851",
+    "https://openalex.org/W4200136929",
+    "https://openalex.org/W3157319772",
+    "https://openalex.org/W2287850211",
+    "https://openalex.org/W2612907928",
+    "https://openalex.org/W6703946273",
+    "https://openalex.org/W2345220764",
+    "https://openalex.org/W3155539466",
+    "https://openalex.org/W2612879952",
+    "https://openalex.org/W2803994274",
+    "https://openalex.org/W3002825154",
+    "https://openalex.org/W2982785161",
+    "https://openalex.org/W2972304813",
+    "https://openalex.org/W3031324523",
+    "https://openalex.org/W3164274831",
+    "https://openalex.org/W2593186219",
+    "https://openalex.org/W3169426065",
+    "https://openalex.org/W3165137534",
+    "https://openalex.org/W3042371681",
+    "https://openalex.org/W2898641256",
+    "https://openalex.org/W2783301567",
+    "https://openalex.org/W2913878532",
+    "https://openalex.org/W3127444029",
+    "https://openalex.org/W2918649302",
+    "https://openalex.org/W2996701120",
+    "https://openalex.org/W3123462802",
+    "https://openalex.org/W3034518567",
+    "https://openalex.org/W2346424903",
+    "https://openalex.org/W3011894734",
+    "https://openalex.org/W2236748756",
+    "https://openalex.org/W4283689111",
+    "https://openalex.org/W4283576570",
+    "https://openalex.org/W3205433465",
+    "https://openalex.org/W3130368866",
+    "https://openalex.org/W2162768160",
+    "https://openalex.org/W2132482677",
+    "https://openalex.org/W6672911943",
+    "https://openalex.org/W4280535403",
+    "https://openalex.org/W3141101469",
+    "https://openalex.org/W2899220886",
+    "https://openalex.org/W2137775651",
+    "https://openalex.org/W2166360124",
+    "https://openalex.org/W2132784721",
+    "https://openalex.org/W2000500639",
+    "https://openalex.org/W6716183646",
+    "https://openalex.org/W2886407130",
+    "https://openalex.org/W6789273566",
+    "https://openalex.org/W3215582448",
+    "https://openalex.org/W3122659717",
+    "https://openalex.org/W4323347417",
+    "https://openalex.org/W3165801592",
+    "https://openalex.org/W2415258483",
+    "https://openalex.org/W2089211897",
+    "https://openalex.org/W3123189842",
+    "https://openalex.org/W3165520902",
+    "https://openalex.org/W2981300797",
+    "https://openalex.org/W2337292460",
+    "https://openalex.org/W4295925410"
+  ],
+  "related_works": [
+    "https://openalex.org/W3010318162",
+    "https://openalex.org/W2923455736",
+    "https://openalex.org/W3194237911",
+    "https://openalex.org/W2947953937",
+    "https://openalex.org/W4255011116",
+    "https://openalex.org/W3011866593",
+    "https://openalex.org/W3194520205",
+    "https://openalex.org/W2801425639",
+    "https://openalex.org/W4382919080",
+    "https://openalex.org/W2922555385"
+  ],
+  "abstract_inverted_index": {
+    "CRD42021257588.": [
+      0
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 25
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 37
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 31
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 3
+    }
+  ],
+  "updated_date": "2025-11-06T03:46:38.306776",
+  "created_date": "2025-10-10T00:00:00"
+}

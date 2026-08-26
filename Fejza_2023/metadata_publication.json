@@ -1,0 +1,2007 @@
+{
+  "id": "https://openalex.org/W4387306709",
+  "doi": "https://doi.org/10.3389/fimmu.2023.1270981",
+  "title": "The entanglement of extracellular matrix molecules and immune checkpoint inhibitors in cancer: a systematic review of the literature",
+  "display_name": "The entanglement of extracellular matrix molecules and immune checkpoint inhibitors in cancer: a systematic review of the literature",
+  "publication_year": 2023,
+  "publication_date": "2023-10-03",
+  "ids": {
+    "openalex": "https://openalex.org/W4387306709",
+    "doi": "https://doi.org/10.3389/fimmu.2023.1270981",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/37854588"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.3389/fimmu.2023.1270981",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.3389/fimmu.2023.1270981",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S2595292759",
+      "display_name": "Frontiers in Immunology",
+      "issn_l": "1664-3224",
+      "issn": [
+        "1664-3224"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320527",
+      "host_organization_name": "Frontiers Media",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320527"
+      ],
+      "host_organization_lineage_names": [
+        "Frontiers Media"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Frontiers in Immunology",
+    "raw_type": "journal-article"
+  },
+  "type": "review",
+  "indexed_in": [
+    "crossref",
+    "doaj",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "gold",
+    "oa_url": "https://doi.org/10.3389/fimmu.2023.1270981",
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5031610275",
+        "display_name": "Albina Fejza",
+        "orcid": "https://orcid.org/0000-0003-2131-5151"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210086961",
+          "display_name": "University for Business and Technology",
+          "ror": "https://ror.org/00033n668",
+          "country_code": "XK",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I4210086961"
+          ]
+        }
+      ],
+      "countries": [
+        "XK"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Albina Fejza",
+      "raw_affiliation_strings": [
+        "Department of Biochemistry, Faculty of Medical Sciences, UBT-Higher Education Institute, Prishtina, Kosovo"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Biochemistry, Faculty of Medical Sciences, UBT-Higher Education Institute, Prishtina, Kosovo",
+          "institution_ids": [
+            "https://openalex.org/I4210086961"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5036443996",
+        "display_name": "Greta Carobolante",
+        "orcid": "https://orcid.org/0000-0003-0548-2451"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210128630",
+          "display_name": "Centro di Riferimento Oncologico",
+          "ror": "https://ror.org/03ks1vk59",
+          "country_code": "IT",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210128630",
+            "https://openalex.org/I4210153126"
+          ]
+        }
+      ],
+      "countries": [
+        "IT"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Greta Carobolante",
+      "raw_affiliation_strings": [
+        "Department of Research and Diagnosis, Division of Molecular Oncology, Centro di Riferimento Oncologico di Aviano (CRO) IRCCS, Aviano, Italy"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Research and Diagnosis, Division of Molecular Oncology, Centro di Riferimento Oncologico di Aviano (CRO) IRCCS, Aviano, Italy",
+          "institution_ids": [
+            "https://openalex.org/I4210128630"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5044268817",
+        "display_name": "Evelina Poletto",
+        "orcid": "https://orcid.org/0000-0001-5675-3026"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210128630",
+          "display_name": "Centro di Riferimento Oncologico",
+          "ror": "https://ror.org/03ks1vk59",
+          "country_code": "IT",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210128630",
+            "https://openalex.org/I4210153126"
+          ]
+        }
+      ],
+      "countries": [
+        "IT"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Evelina Poletto",
+      "raw_affiliation_strings": [
+        "Department of Research and Diagnosis, Division of Molecular Oncology, Centro di Riferimento Oncologico di Aviano (CRO) IRCCS, Aviano, Italy"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Research and Diagnosis, Division of Molecular Oncology, Centro di Riferimento Oncologico di Aviano (CRO) IRCCS, Aviano, Italy",
+          "institution_ids": [
+            "https://openalex.org/I4210128630"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5079387366",
+        "display_name": "Lucrezia Camicia",
+        "orcid": "https://orcid.org/0000-0002-0154-6182"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210128630",
+          "display_name": "Centro di Riferimento Oncologico",
+          "ror": "https://ror.org/03ks1vk59",
+          "country_code": "IT",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210128630",
+            "https://openalex.org/I4210153126"
+          ]
+        }
+      ],
+      "countries": [
+        "IT"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Lucrezia Camicia",
+      "raw_affiliation_strings": [
+        "Department of Research and Diagnosis, Division of Molecular Oncology, Centro di Riferimento Oncologico di Aviano (CRO) IRCCS, Aviano, Italy"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Research and Diagnosis, Division of Molecular Oncology, Centro di Riferimento Oncologico di Aviano (CRO) IRCCS, Aviano, Italy",
+          "institution_ids": [
+            "https://openalex.org/I4210128630"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5092631840",
+        "display_name": "Giorgia Schinello",
+        "orcid": "https://orcid.org/0009-0000-1443-9434"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210128630",
+          "display_name": "Centro di Riferimento Oncologico",
+          "ror": "https://ror.org/03ks1vk59",
+          "country_code": "IT",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210128630",
+            "https://openalex.org/I4210153126"
+          ]
+        }
+      ],
+      "countries": [
+        "IT"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Giorgia Schinello",
+      "raw_affiliation_strings": [
+        "Department of Research and Diagnosis, Division of Molecular Oncology, Centro di Riferimento Oncologico di Aviano (CRO) IRCCS, Aviano, Italy"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Research and Diagnosis, Division of Molecular Oncology, Centro di Riferimento Oncologico di Aviano (CRO) IRCCS, Aviano, Italy",
+          "institution_ids": [
+            "https://openalex.org/I4210128630"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5092631841",
+        "display_name": "Emanuele Di Siena",
+        "orcid": "https://orcid.org/0009-0004-0791-0987"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210128630",
+          "display_name": "Centro di Riferimento Oncologico",
+          "ror": "https://ror.org/03ks1vk59",
+          "country_code": "IT",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210128630",
+            "https://openalex.org/I4210153126"
+          ]
+        }
+      ],
+      "countries": [
+        "IT"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Emanuele Di Siena",
+      "raw_affiliation_strings": [
+        "Department of Research and Diagnosis, Division of Molecular Oncology, Centro di Riferimento Oncologico di Aviano (CRO) IRCCS, Aviano, Italy"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Research and Diagnosis, Division of Molecular Oncology, Centro di Riferimento Oncologico di Aviano (CRO) IRCCS, Aviano, Italy",
+          "institution_ids": [
+            "https://openalex.org/I4210128630"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5056963397",
+        "display_name": "Giuseppe Ricci",
+        "orcid": "https://orcid.org/0000-0002-8031-1102"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2799929701",
+          "display_name": "IRCCS Materno Infantile Burlo Garofolo",
+          "ror": "https://ror.org/03t1jzs40",
+          "country_code": "IT",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2799929701",
+            "https://openalex.org/I4210153126"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I142444530",
+          "display_name": "University of Trieste",
+          "ror": "https://ror.org/02n742c10",
+          "country_code": "IT",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I142444530"
+          ]
+        }
+      ],
+      "countries": [
+        "IT"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Giuseppe Ricci",
+      "raw_affiliation_strings": [
+        "Department of Medicine, Surgery and Health Sciences, University of Trieste, Trieste, Italy",
+        "Obstetrics and Gynecology, Institute for Maternal and Child Health, IRCCS Burlo Garofolo, Trieste, Italy"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Medicine, Surgery and Health Sciences, University of Trieste, Trieste, Italy",
+          "institution_ids": [
+            "https://openalex.org/I142444530"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Obstetrics and Gynecology, Institute for Maternal and Child Health, IRCCS Burlo Garofolo, Trieste, Italy",
+          "institution_ids": [
+            "https://openalex.org/I2799929701"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5079213910",
+        "display_name": "Maurizio Mongiat",
+        "orcid": "https://orcid.org/0000-0001-6509-0068"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210128630",
+          "display_name": "Centro di Riferimento Oncologico",
+          "ror": "https://ror.org/03ks1vk59",
+          "country_code": "IT",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I4210128630",
+            "https://openalex.org/I4210153126"
+          ]
+        }
+      ],
+      "countries": [
+        "IT"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Maurizio Mongiat",
+      "raw_affiliation_strings": [
+        "Department of Research and Diagnosis, Division of Molecular Oncology, Centro di Riferimento Oncologico di Aviano (CRO) IRCCS, Aviano, Italy"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Research and Diagnosis, Division of Molecular Oncology, Centro di Riferimento Oncologico di Aviano (CRO) IRCCS, Aviano, Italy",
+          "institution_ids": [
+            "https://openalex.org/I4210128630"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5004483832",
+        "display_name": "Eva Andreuzzi",
+        "orcid": "https://orcid.org/0000-0002-5925-5230"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2799929701",
+          "display_name": "IRCCS Materno Infantile Burlo Garofolo",
+          "ror": "https://ror.org/03t1jzs40",
+          "country_code": "IT",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2799929701",
+            "https://openalex.org/I4210153126"
+          ]
+        }
+      ],
+      "countries": [
+        "IT"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Eva Andreuzzi",
+      "raw_affiliation_strings": [
+        "Obstetrics and Gynecology, Institute for Maternal and Child Health, IRCCS Burlo Garofolo, Trieste, Italy"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Obstetrics and Gynecology, Institute for Maternal and Child Health, IRCCS Burlo Garofolo, Trieste, Italy",
+          "institution_ids": [
+            "https://openalex.org/I2799929701"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 2,
+  "institutions_distinct_count": 9,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5004483832"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I2799929701"
+  ],
+  "apc_list": {
+    "value": 2950,
+    "currency": "USD",
+    "value_usd": 2950
+  },
+  "apc_paid": {
+    "value": 2950,
+    "currency": "USD",
+    "value_usd": 2950
+  },
+  "fwci": 3.5639554,
+  "has_fulltext": false,
+  "cited_by_count": 15,
+  "citation_normalized_percentile": {
+    "value": 0.94461384,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 96,
+    "max": 99
+  },
+  "biblio": {
+    "volume": "14",
+    "issue": null,
+    "first_page": "1270981",
+    "last_page": "1270981"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T12505",
+    "display_name": "Peptidase Inhibition and Analysis",
+    "score": 0.9987000226974487,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2730",
+      "display_name": "Oncology"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/27",
+      "display_name": "Medicine"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/4",
+      "display_name": "Health Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T12505",
+      "display_name": "Peptidase Inhibition and Analysis",
+      "score": 0.9987000226974487,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2730",
+        "display_name": "Oncology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10158",
+      "display_name": "Cancer Immunotherapy and Biomarkers",
+      "score": 0.9983999729156494,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2730",
+        "display_name": "Oncology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11313",
+      "display_name": "Immune cells in cancer",
+      "score": 0.991599977016449,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2403",
+        "display_name": "Immunology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/24",
+        "display_name": "Immunology and Microbiology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/medicine",
+      "display_name": "Medicine",
+      "score": 0.6532206535339355
+    },
+    {
+      "id": "https://openalex.org/keywords/systematic-review",
+      "display_name": "Systematic review",
+      "score": 0.5657294392585754
+    },
+    {
+      "id": "https://openalex.org/keywords/cancer",
+      "display_name": "Cancer",
+      "score": 0.5595659613609314
+    },
+    {
+      "id": "https://openalex.org/keywords/clinical-trial",
+      "display_name": "Clinical trial",
+      "score": 0.4618569612503052
+    },
+    {
+      "id": "https://openalex.org/keywords/medline",
+      "display_name": "MEDLINE",
+      "score": 0.43475937843322754
+    },
+    {
+      "id": "https://openalex.org/keywords/pillar",
+      "display_name": "Pillar",
+      "score": 0.4320949912071228
+    },
+    {
+      "id": "https://openalex.org/keywords/web-of-science",
+      "display_name": "Web of science",
+      "score": 0.42385831475257874
+    },
+    {
+      "id": "https://openalex.org/keywords/meta-analysis",
+      "display_name": "Meta-analysis",
+      "score": 0.39785000681877136
+    },
+    {
+      "id": "https://openalex.org/keywords/oncology",
+      "display_name": "Oncology",
+      "score": 0.35301271080970764
+    },
+    {
+      "id": "https://openalex.org/keywords/internal-medicine",
+      "display_name": "Internal medicine",
+      "score": 0.3122174143791199
+    },
+    {
+      "id": "https://openalex.org/keywords/biology",
+      "display_name": "Biology",
+      "score": 0.09636500477790833
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C71924100",
+      "wikidata": "https://www.wikidata.org/wiki/Q11190",
+      "display_name": "Medicine",
+      "level": 0,
+      "score": 0.6532206535339355
+    },
+    {
+      "id": "https://openalex.org/C189708586",
+      "wikidata": "https://www.wikidata.org/wiki/Q1504425",
+      "display_name": "Systematic review",
+      "level": 3,
+      "score": 0.5657294392585754
+    },
+    {
+      "id": "https://openalex.org/C121608353",
+      "wikidata": "https://www.wikidata.org/wiki/Q12078",
+      "display_name": "Cancer",
+      "level": 2,
+      "score": 0.5595659613609314
+    },
+    {
+      "id": "https://openalex.org/C535046627",
+      "wikidata": "https://www.wikidata.org/wiki/Q30612",
+      "display_name": "Clinical trial",
+      "level": 2,
+      "score": 0.4618569612503052
+    },
+    {
+      "id": "https://openalex.org/C2779473830",
+      "wikidata": "https://www.wikidata.org/wiki/Q1540899",
+      "display_name": "MEDLINE",
+      "level": 2,
+      "score": 0.43475937843322754
+    },
+    {
+      "id": "https://openalex.org/C105289051",
+      "wikidata": "https://www.wikidata.org/wiki/Q1930094",
+      "display_name": "Pillar",
+      "level": 2,
+      "score": 0.4320949912071228
+    },
+    {
+      "id": "https://openalex.org/C3020774429",
+      "wikidata": "https://www.wikidata.org/wiki/Q1201886",
+      "display_name": "Web of science",
+      "level": 3,
+      "score": 0.42385831475257874
+    },
+    {
+      "id": "https://openalex.org/C95190672",
+      "wikidata": "https://www.wikidata.org/wiki/Q815382",
+      "display_name": "Meta-analysis",
+      "level": 2,
+      "score": 0.39785000681877136
+    },
+    {
+      "id": "https://openalex.org/C143998085",
+      "wikidata": "https://www.wikidata.org/wiki/Q162555",
+      "display_name": "Oncology",
+      "level": 1,
+      "score": 0.35301271080970764
+    },
+    {
+      "id": "https://openalex.org/C126322002",
+      "wikidata": "https://www.wikidata.org/wiki/Q11180",
+      "display_name": "Internal medicine",
+      "level": 1,
+      "score": 0.3122174143791199
+    },
+    {
+      "id": "https://openalex.org/C86803240",
+      "wikidata": "https://www.wikidata.org/wiki/Q420",
+      "display_name": "Biology",
+      "level": 0,
+      "score": 0.09636500477790833
+    },
+    {
+      "id": "https://openalex.org/C127413603",
+      "wikidata": "https://www.wikidata.org/wiki/Q11023",
+      "display_name": "Engineering",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C66938386",
+      "wikidata": "https://www.wikidata.org/wiki/Q633538",
+      "display_name": "Structural engineering",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C55493867",
+      "wikidata": "https://www.wikidata.org/wiki/Q7094",
+      "display_name": "Biochemistry",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [
+    {
+      "descriptor_ui": "D000328",
+      "descriptor_name": "Adult",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D002648",
+      "descriptor_name": "Child",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000082082",
+      "descriptor_name": "Immune Checkpoint Inhibitors",
+      "qualifier_ui": "Q000494",
+      "qualifier_name": "pharmacology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D000082082",
+      "descriptor_name": "Immune Checkpoint Inhibitors",
+      "qualifier_ui": "Q000627",
+      "qualifier_name": "therapeutic use",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D009369",
+      "descriptor_name": "Neoplasms",
+      "qualifier_ui": "Q000188",
+      "qualifier_name": "drug therapy",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D016208",
+      "descriptor_name": "Databases, Factual",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005109",
+      "descriptor_name": "Extracellular Matrix",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015415",
+      "descriptor_name": "Biomarkers",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D059016",
+      "descriptor_name": "Tumor Microenvironment",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000328",
+      "descriptor_name": "Adult",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D002648",
+      "descriptor_name": "Child",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000082082",
+      "descriptor_name": "Immune Checkpoint Inhibitors",
+      "qualifier_ui": "Q000494",
+      "qualifier_name": "pharmacology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D000082082",
+      "descriptor_name": "Immune Checkpoint Inhibitors",
+      "qualifier_ui": "Q000627",
+      "qualifier_name": "therapeutic use",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D009369",
+      "descriptor_name": "Neoplasms",
+      "qualifier_ui": "Q000188",
+      "qualifier_name": "drug therapy",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D016208",
+      "descriptor_name": "Databases, Factual",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005109",
+      "descriptor_name": "Extracellular Matrix",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D015415",
+      "descriptor_name": "Biomarkers",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D059016",
+      "descriptor_name": "Tumor Microenvironment",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    }
+  ],
+  "locations_count": 4,
+  "locations": [
+    {
+      "id": "doi:10.3389/fimmu.2023.1270981",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.3389/fimmu.2023.1270981",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S2595292759",
+        "display_name": "Frontiers in Immunology",
+        "issn_l": "1664-3224",
+        "issn": [
+          "1664-3224"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320527",
+        "host_organization_name": "Frontiers Media",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320527"
+        ],
+        "host_organization_lineage_names": [
+          "Frontiers Media"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Frontiers in Immunology",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:37854588",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/37854588",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Frontiers in immunology",
+      "raw_type": null
+    },
+    {
+      "id": "pmh:oai:pubmedcentral.nih.gov:10579931",
+      "is_oa": true,
+      "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/10579931",
+      "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10579931/pdf/fimmu-14-1270981.pdf",
+      "source": {
+        "id": "https://openalex.org/S2764455111",
+        "display_name": "PubMed Central",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Front Immunol",
+      "raw_type": "Text"
+    },
+    {
+      "id": "pmh:oai:doaj.org/article:0c21458925eb45c39a57e9940a73009f",
+      "is_oa": false,
+      "landing_page_url": "https://doaj.org/article/0c21458925eb45c39a57e9940a73009f",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401280",
+        "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Frontiers in Immunology, Vol 14 (2023)",
+      "raw_type": "article"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.3389/fimmu.2023.1270981",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.3389/fimmu.2023.1270981",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S2595292759",
+      "display_name": "Frontiers in Immunology",
+      "issn_l": "1664-3224",
+      "issn": [
+        "1664-3224"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320527",
+      "host_organization_name": "Frontiers Media",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320527"
+      ],
+      "host_organization_lineage_names": [
+        "Frontiers Media"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Frontiers in Immunology",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "pdf": false,
+    "grobid_xml": false
+  },
+  "referenced_works_count": 183,
+  "referenced_works": [
+    "https://openalex.org/W2887577080",
+    "https://openalex.org/W4210370153",
+    "https://openalex.org/W4367853409",
+    "https://openalex.org/W4281620351",
+    "https://openalex.org/W177516245",
+    "https://openalex.org/W3011996106",
+    "https://openalex.org/W2407062242",
+    "https://openalex.org/W3023611224",
+    "https://openalex.org/W4309697359",
+    "https://openalex.org/W3172281722",
+    "https://openalex.org/W4206405655",
+    "https://openalex.org/W3008215385",
+    "https://openalex.org/W2606462304",
+    "https://openalex.org/W2234905412",
+    "https://openalex.org/W4293433934",
+    "https://openalex.org/W4302287273",
+    "https://openalex.org/W2157180849",
+    "https://openalex.org/W2979620927",
+    "https://openalex.org/W3136479945",
+    "https://openalex.org/W4309862897",
+    "https://openalex.org/W2886010917",
+    "https://openalex.org/W4292830037",
+    "https://openalex.org/W4294126675",
+    "https://openalex.org/W3092007298",
+    "https://openalex.org/W4225248541",
+    "https://openalex.org/W4315865508",
+    "https://openalex.org/W3080164745",
+    "https://openalex.org/W3118615836",
+    "https://openalex.org/W4317399487",
+    "https://openalex.org/W3200901998",
+    "https://openalex.org/W3091482648",
+    "https://openalex.org/W4205267867",
+    "https://openalex.org/W4210352275",
+    "https://openalex.org/W4294647544",
+    "https://openalex.org/W4205551708",
+    "https://openalex.org/W3030522446",
+    "https://openalex.org/W3082632851",
+    "https://openalex.org/W3210691815",
+    "https://openalex.org/W4283160866",
+    "https://openalex.org/W3194877482",
+    "https://openalex.org/W4307630819",
+    "https://openalex.org/W4289730886",
+    "https://openalex.org/W4286218476",
+    "https://openalex.org/W4211253699",
+    "https://openalex.org/W3187029237",
+    "https://openalex.org/W4310675878",
+    "https://openalex.org/W3167598839",
+    "https://openalex.org/W3093157159",
+    "https://openalex.org/W4291398776",
+    "https://openalex.org/W4210837430",
+    "https://openalex.org/W3128983702",
+    "https://openalex.org/W4313543883",
+    "https://openalex.org/W4225277525",
+    "https://openalex.org/W3171473356",
+    "https://openalex.org/W3045893613",
+    "https://openalex.org/W3155307464",
+    "https://openalex.org/W3043675621",
+    "https://openalex.org/W4220695259",
+    "https://openalex.org/W4292182239",
+    "https://openalex.org/W3213906620",
+    "https://openalex.org/W2149090724",
+    "https://openalex.org/W2415077066",
+    "https://openalex.org/W2741469268",
+    "https://openalex.org/W4205875236",
+    "https://openalex.org/W4311707509",
+    "https://openalex.org/W3091748034",
+    "https://openalex.org/W2905196282",
+    "https://openalex.org/W3093845837",
+    "https://openalex.org/W3084241168",
+    "https://openalex.org/W3210672547",
+    "https://openalex.org/W3182242964",
+    "https://openalex.org/W3136346735",
+    "https://openalex.org/W3205800957",
+    "https://openalex.org/W3118701059",
+    "https://openalex.org/W4313340201",
+    "https://openalex.org/W2981908957",
+    "https://openalex.org/W3032741382",
+    "https://openalex.org/W3096116622",
+    "https://openalex.org/W2165422359",
+    "https://openalex.org/W1508694140",
+    "https://openalex.org/W2899204048",
+    "https://openalex.org/W3150028923",
+    "https://openalex.org/W4224981492",
+    "https://openalex.org/W4360616818",
+    "https://openalex.org/W2976370454",
+    "https://openalex.org/W4318070649",
+    "https://openalex.org/W4296736496",
+    "https://openalex.org/W3013536489",
+    "https://openalex.org/W3126670186",
+    "https://openalex.org/W3196963730",
+    "https://openalex.org/W3028148763",
+    "https://openalex.org/W4214756443",
+    "https://openalex.org/W3140970471",
+    "https://openalex.org/W4283077580",
+    "https://openalex.org/W4206733351",
+    "https://openalex.org/W2155460347",
+    "https://openalex.org/W4282922627",
+    "https://openalex.org/W3048751908",
+    "https://openalex.org/W3163330041",
+    "https://openalex.org/W2040427330",
+    "https://openalex.org/W2922084692",
+    "https://openalex.org/W2071625408",
+    "https://openalex.org/W2954925410",
+    "https://openalex.org/W3045188767",
+    "https://openalex.org/W3217245555",
+    "https://openalex.org/W4293695849",
+    "https://openalex.org/W1974257199",
+    "https://openalex.org/W2970964941",
+    "https://openalex.org/W4283526647",
+    "https://openalex.org/W1510506257",
+    "https://openalex.org/W2792345613",
+    "https://openalex.org/W2065460237",
+    "https://openalex.org/W2904879221",
+    "https://openalex.org/W2968248577",
+    "https://openalex.org/W3215786983",
+    "https://openalex.org/W4214684082",
+    "https://openalex.org/W4307585302",
+    "https://openalex.org/W2999132792",
+    "https://openalex.org/W4294949103",
+    "https://openalex.org/W4220997965",
+    "https://openalex.org/W4319159249",
+    "https://openalex.org/W2790339676",
+    "https://openalex.org/W2745901392",
+    "https://openalex.org/W2898701133",
+    "https://openalex.org/W2896996016",
+    "https://openalex.org/W2017437930",
+    "https://openalex.org/W2141991549",
+    "https://openalex.org/W4308953082",
+    "https://openalex.org/W3032418157",
+    "https://openalex.org/W3205075661",
+    "https://openalex.org/W4285741137",
+    "https://openalex.org/W3171718713",
+    "https://openalex.org/W2884179809",
+    "https://openalex.org/W2982091578",
+    "https://openalex.org/W4301186722",
+    "https://openalex.org/W4293717008",
+    "https://openalex.org/W3085909787",
+    "https://openalex.org/W2608970607",
+    "https://openalex.org/W2773046739",
+    "https://openalex.org/W3082393738",
+    "https://openalex.org/W4210294544",
+    "https://openalex.org/W4283730930",
+    "https://openalex.org/W4362590308",
+    "https://openalex.org/W4205244804",
+    "https://openalex.org/W2078134124",
+    "https://openalex.org/W2997302097",
+    "https://openalex.org/W2739121481",
+    "https://openalex.org/W6600617801",
+    "https://openalex.org/W2498694429",
+    "https://openalex.org/W2809591850",
+    "https://openalex.org/W15077488",
+    "https://openalex.org/W1423620684",
+    "https://openalex.org/W2055467504",
+    "https://openalex.org/W6607244591",
+    "https://openalex.org/W2090530997",
+    "https://openalex.org/W6770036160",
+    "https://openalex.org/W2100228832",
+    "https://openalex.org/W4307635078",
+    "https://openalex.org/W2996253893",
+    "https://openalex.org/W3216035899",
+    "https://openalex.org/W3197265554",
+    "https://openalex.org/W2990498896",
+    "https://openalex.org/W3170997729",
+    "https://openalex.org/W2933409730",
+    "https://openalex.org/W3182035278",
+    "https://openalex.org/W3101457398",
+    "https://openalex.org/W4317506558",
+    "https://openalex.org/W2955715614",
+    "https://openalex.org/W4308341970",
+    "https://openalex.org/W2061978660",
+    "https://openalex.org/W2038462624",
+    "https://openalex.org/W3136367206",
+    "https://openalex.org/W6840767418",
+    "https://openalex.org/W4316672165",
+    "https://openalex.org/W4353086275",
+    "https://openalex.org/W4365448704",
+    "https://openalex.org/W4378716400",
+    "https://openalex.org/W4319659088",
+    "https://openalex.org/W3168119119",
+    "https://openalex.org/W4288051077",
+    "https://openalex.org/W4226179401",
+    "https://openalex.org/W4205366767",
+    "https://openalex.org/W4207038531"
+  ],
+  "related_works": [
+    "https://openalex.org/W604547544",
+    "https://openalex.org/W2495348380",
+    "https://openalex.org/W4230293041",
+    "https://openalex.org/W2377141674",
+    "https://openalex.org/W2352149692",
+    "https://openalex.org/W2368266917",
+    "https://openalex.org/W2359627721",
+    "https://openalex.org/W3158505850",
+    "https://openalex.org/W4294636802",
+    "https://openalex.org/W3047402069"
+  ],
+  "abstract_inverted_index": {
+    "Introduction": [
+      0
+    ],
+    "Immune-checkpoint": [
+      1
+    ],
+    "inhibitors": [
+      2
+    ],
+    "(ICIs)": [
+      3
+    ],
+    "have": [
+      4
+    ],
+    "emerged": [
+      5
+    ],
+    "as": [
+      6,
+      13,
+      95,
+      303,
+      335
+    ],
+    "a": [
+      7,
+      28,
+      206,
+      279
+    ],
+    "core": [
+      8
+    ],
+    "pillar": [
+      9
+    ],
+    "of": [
+      10,
+      36,
+      45,
+      56,
+      68,
+      74,
+      83,
+      153,
+      160,
+      188,
+      208,
+      256,
+      265,
+      282,
+      299,
+      312,
+      325
+    ],
+    "cancer": [
+      11,
+      69,
+      112
+    ],
+    "therapy": [
+      12
+    ],
+    "single": [
+      14
+    ],
+    "agents": [
+      15
+    ],
+    "or": [
+      16,
+      217
+    ],
+    "in": [
+      17,
+      21,
+      32,
+      111,
+      125,
+      245,
+      292
+    ],
+    "combination": [
+      18
+    ],
+    "regimens": [
+      19
+    ],
+    "both": [
+      20
+    ],
+    "adults": [
+      22
+    ],
+    "and": [
+      23,
+      71,
+      108,
+      141,
+      145,
+      162,
+      175,
+      201,
+      221,
+      225,
+      233,
+      289
+    ],
+    "children.": [
+      24
+    ],
+    "Unfortunately,": [
+      25
+    ],
+    "ICIs": [
+      26,
+      48,
+      57,
+      290,
+      348
+    ],
+    "provide": [
+      27
+    ],
+    "long-lasting": [
+      29
+    ],
+    "therapeutic": [
+      30
+    ],
+    "effect": [
+      31
+    ],
+    "only": [
+      33,
+      63
+    ],
+    "one": [
+      34
+    ],
+    "third": [
+      35
+    ],
+    "the": [
+      37,
+      40,
+      65,
+      72,
+      84,
+      89,
+      99,
+      104,
+      114,
+      119,
+      134,
+      149,
+      193,
+      228,
+      237,
+      251,
+      257,
+      263,
+      266,
+      276,
+      283,
+      297,
+      310,
+      322,
+      340
+    ],
+    "patients.": [
+      38
+    ],
+    "Thus,": [
+      39
+    ],
+    "search": [
+      41
+    ],
+    "for": [
+      42,
+      138,
+      275
+    ],
+    "predictive": [
+      43
+    ],
+    "biomarkers": [
+      44,
+      307,
+      337
+    ],
+    "responsiveness": [
+      46
+    ],
+    "to": [
+      47,
+      101,
+      170,
+      181,
+      308,
+      338
+    ],
+    "remains": [
+      49
+    ],
+    "an": [
+      50,
+      318
+    ],
+    "urgent": [
+      51
+    ],
+    "clinical": [
+      52
+    ],
+    "need.": [
+      53
+    ],
+    "The": [
+      54,
+      186,
+      242,
+      271
+    ],
+    "efficacy": [
+      55,
+      110,
+      291,
+      311
+    ],
+    "treatments": [
+      58
+    ],
+    "is": [
+      59,
+      93
+    ],
+    "strongly": [
+      60
+    ],
+    "affected": [
+      61
+    ],
+    "not": [
+      62
+    ],
+    "by": [
+      64,
+      80
+    ],
+    "specific": [
+      66
+    ],
+    "characteristics": [
+      67
+    ],
+    "cells": [
+      70
+    ],
+    "levels": [
+      73
+    ],
+    "immune": [
+      75,
+      268,
+      323
+    ],
+    "checkpoint": [
+      76
+    ],
+    "ligands,": [
+      77
+    ],
+    "but": [
+      78
+    ],
+    "also": [
+      79
+    ],
+    "other": [
+      81
+    ],
+    "components": [
+      82
+    ],
+    "tumor": [
+      85,
+      267,
+      294,
+      327
+    ],
+    "microenvironment,": [
+      86
+    ],
+    "among": [
+      87
+    ],
+    "which": [
+      88
+    ],
+    "extracellular": [
+      90
+    ],
+    "matrix": [
+      91
+    ],
+    "(ECM)": [
+      92
+    ],
+    "emerging": [
+      94
+    ],
+    "key": [
+      96,
+      202
+    ],
+    "player.": [
+      97
+    ],
+    "With": [
+      98
+    ],
+    "aim": [
+      100
+    ],
+    "comprehensively": [
+      102,
+      166,
+      249
+    ],
+    "describe": [
+      103
+    ],
+    "relation": [
+      105
+    ],
+    "between": [
+      106,
+      286
+    ],
+    "ECM": [
+      107,
+      123,
+      258,
+      287,
+      315
+    ],
+    "ICIs\u2019": [
+      109
+    ],
+    "patients,": [
+      113
+    ],
+    "present": [
+      115,
+      272
+    ],
+    "review": [
+      116,
+      132,
+      248,
+      351
+    ],
+    "systematically": [
+      117
+    ],
+    "evaluated": [
+      118
+    ],
+    "current": [
+      120
+    ],
+    "literature": [
+      121
+    ],
+    "regarding": [
+      122
+    ],
+    "remodeling": [
+      124,
+      261,
+      316
+    ],
+    "association": [
+      126,
+      285
+    ],
+    "with": [
+      127,
+      262
+    ],
+    "immunotherapeutic": [
+      128
+    ],
+    "approaches.": [
+      129
+    ],
+    "Methods": [
+      130
+    ],
+    "This": [
+      131
+    ],
+    "followed": [
+      133
+    ],
+    "Preferred": [
+      135
+    ],
+    "Reporting": [
+      136
+    ],
+    "Items": [
+      137
+    ],
+    "Systematic": [
+      139,
+      154,
+      350
+    ],
+    "Reviews": [
+      140,
+      155
+    ],
+    "Meta-analyses": [
+      142
+    ],
+    "(PRISMA)": [
+      143
+    ],
+    "guidelines": [
+      144
+    ],
+    "was": [
+      146,
+      179,
+      190,
+      231
+    ],
+    "registered": [
+      147
+    ],
+    "at": [
+      148,
+      332
+    ],
+    "International": [
+      150
+    ],
+    "Prospective": [
+      151
+    ],
+    "Register": [
+      152
+    ],
+    "(PROSPERO,": [
+      156
+    ],
+    "CRD42022351180).": [
+      157
+    ],
+    "PubMed,": [
+      158
+    ],
+    "Web": [
+      159
+    ],
+    "Science,": [
+      161
+    ],
+    "Scopus": [
+      163
+    ],
+    "databases": [
+      164
+    ],
+    "were": [
+      165,
+      219,
+      240
+    ],
+    "searched": [
+      167
+    ],
+    "from": [
+      168,
+      347
+    ],
+    "inception": [
+      169
+    ],
+    "January": [
+      171
+    ],
+    "2023.": [
+      172
+    ],
+    "Titles,": [
+      173
+    ],
+    "abstracts": [
+      174
+    ],
+    "full": [
+      176,
+      229
+    ],
+    "text": [
+      177,
+      230
+    ],
+    "screening": [
+      178
+    ],
+    "performed": [
+      180
+    ],
+    "exclude": [
+      182
+    ],
+    "non": [
+      183
+    ],
+    "eligible": [
+      184
+    ],
+    "articles.": [
+      185
+    ],
+    "risk": [
+      187
+    ],
+    "bias": [
+      189
+    ],
+    "assessed": [
+      191
+    ],
+    "using": [
+      192
+    ],
+    "QUADAS-2": [
+      194
+    ],
+    "tool.": [
+      195
+    ],
+    "Results": [
+      196
+    ],
+    "After": [
+      197
+    ],
+    "employing": [
+      198
+    ],
+    "relevant": [
+      199
+    ],
+    "MeSH": [
+      200
+    ],
+    "terms,": [
+      203
+    ],
+    "we": [
+      204
+    ],
+    "identified": [
+      205
+    ],
+    "total": [
+      207
+    ],
+    "5070": [
+      209
+    ],
+    "studies.": [
+      210
+    ],
+    "Among": [
+      211
+    ],
+    "them,": [
+      212
+    ],
+    "2540": [
+      213
+    ],
+    "duplicates,": [
+      214
+    ],
+    "1521": [
+      215
+    ],
+    "reviews": [
+      216
+    ],
+    "commentaries": [
+      218
+    ],
+    "found": [
+      220
+    ],
+    "excluded.": [
+      222
+    ],
+    "Following": [
+      223
+    ],
+    "title": [
+      224
+    ],
+    "abstract": [
+      226
+    ],
+    "screening,": [
+      227
+    ],
+    "analyzed,": [
+      232
+    ],
+    "47": [
+      234
+    ],
+    "studies": [
+      235,
+      243
+    ],
+    "meeting": [
+      236
+    ],
+    "eligibility": [
+      238
+    ],
+    "criteria": [
+      239
+    ],
+    "retained.": [
+      241
+    ],
+    "included": [
+      244
+    ],
+    "this": [
+      246
+    ],
+    "systematic": [
+      247
+    ],
+    "recapitulate": [
+      250
+    ],
+    "latest": [
+      252
+    ],
+    "observations": [
+      253
+    ],
+    "associating": [
+      254
+    ],
+    "changes": [
+      255
+    ],
+    "composition": [
+      259
+    ],
+    "following": [
+      260
+    ],
+    "traits": [
+      264,
+      324
+    ],
+    "cell": [
+      269
+    ],
+    "infiltration.": [
+      270
+    ],
+    "study": [
+      273
+    ],
+    "provides": [
+      274
+    ],
+    "first": [
+      277
+    ],
+    "time": [
+      278
+    ],
+    "broad": [
+      280
+    ],
+    "view": [
+      281
+    ],
+    "tight": [
+      284
+    ],
+    "molecules": [
+      288,
+      334
+    ],
+    "different": [
+      293,
+      326
+    ],
+    "types,": [
+      295
+    ],
+    "highlighting": [
+      296
+    ],
+    "importance": [
+      298
+    ],
+    "ECM-derived": [
+      300,
+      333
+    ],
+    "proteolytic": [
+      301
+    ],
+    "products": [
+      302
+    ],
+    "promising": [
+      304
+    ],
+    "liquid": [
+      305
+    ],
+    "biopsy-based": [
+      306
+    ],
+    "predict": [
+      309
+    ],
+    "ICIs.": [
+      313
+    ],
+    "Conclusion": [
+      314
+    ],
+    "has": [
+      317
+    ],
+    "important": [
+      319
+    ],
+    "impact": [
+      320
+    ],
+    "on": [
+      321
+    ],
+    "types.": [
+      328
+    ],
+    "Increasing": [
+      329
+    ],
+    "evidence": [
+      330
+    ],
+    "pinpoint": [
+      331
+    ],
+    "putative": [
+      336
+    ],
+    "identify": [
+      339
+    ],
+    "patients": [
+      341
+    ],
+    "that": [
+      342
+    ],
+    "would": [
+      343
+    ],
+    "most": [
+      344
+    ],
+    "likely": [
+      345
+    ],
+    "benefit": [
+      346
+    ],
+    "treatments.": [
+      349
+    ],
+    "registration": [
+      352
+    ],
+    "https://www.crd.york.ac.uk/prospero/display_record.php?ID=CRD42022351180": [
+      353
+    ],
+    ",": [
+      354
+    ],
+    "identifier": [
+      355
+    ],
+    "CRD42022351180.": [
+      356
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 12
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 3
+    }
+  ],
+  "updated_date": "2025-11-06T03:46:38.306776",
+  "created_date": "2025-10-10T00:00:00"
+}

@@ -1,0 +1,2520 @@
+{
+  "id": "https://openalex.org/W4323036851",
+  "doi": "https://doi.org/10.1136/rmdopen-2022-002876",
+  "title": "Type I interferon pathway assays in studies of rheumatic and musculoskeletal diseases: a systematic literature review informing EULAR points to consider",
+  "display_name": "Type I interferon pathway assays in studies of rheumatic and musculoskeletal diseases: a systematic literature review informing EULAR points to consider",
+  "publication_year": 2023,
+  "publication_date": "2023-03-01",
+  "ids": {
+    "openalex": "https://openalex.org/W4323036851",
+    "doi": "https://doi.org/10.1136/rmdopen-2022-002876",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/36863752"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1136/rmdopen-2022-002876",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1136/rmdopen-2022-002876",
+    "pdf_url": "https://rmdopen.bmj.com/content/rmdopen/9/1/e002876.full.pdf",
+    "source": {
+      "id": "https://openalex.org/S2738706341",
+      "display_name": "RMD Open",
+      "issn_l": "2056-5933",
+      "issn": [
+        "2056-5933"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310319945",
+      "host_organization_name": "BMJ",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310319945"
+      ],
+      "host_organization_lineage_names": [
+        "BMJ"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "RMD Open",
+    "raw_type": "journal-article"
+  },
+  "type": "review",
+  "indexed_in": [
+    "crossref",
+    "doaj",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "gold",
+    "oa_url": "https://rmdopen.bmj.com/content/rmdopen/9/1/e002876.full.pdf",
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5051963524",
+        "display_name": "Agata Burska",
+        "orcid": "https://orcid.org/0000-0003-3321-9087"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210114713",
+          "display_name": "NIHR Leeds Musculoskeletal Biomedical Research Unit",
+          "ror": "https://ror.org/035f5f914",
+          "country_code": "GB",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I2799390153",
+            "https://openalex.org/I34931013",
+            "https://openalex.org/I4210114713"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I130828816",
+          "display_name": "University of Leeds",
+          "ror": "https://ror.org/024mrxd33",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I130828816"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Agata Burska",
+      "raw_affiliation_strings": [
+        "Leeds Institute of Rheumatic and Musculoskeletal Medicine",
+        "University of Leeds & NIHR Leeds Biomedical Research Centre"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "University of Leeds & NIHR Leeds Biomedical Research Centre",
+          "institution_ids": [
+            "https://openalex.org/I130828816"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Leeds Institute of Rheumatic and Musculoskeletal Medicine",
+          "institution_ids": [
+            "https://openalex.org/I4210114713"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5087621587",
+        "display_name": "Javier Rodr\u00edguez\u2010Carrio",
+        "orcid": "https://orcid.org/0000-0002-0011-5102"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210166274",
+          "display_name": "Instituto de Investigaci\u00f3n Sanitaria del Principado de Asturias",
+          "ror": "https://ror.org/05xzb7x97",
+          "country_code": "ES",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I4210166274"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I165339363",
+          "display_name": "Universidad de Oviedo",
+          "ror": "https://ror.org/006gksa02",
+          "country_code": "ES",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I165339363"
+          ]
+        }
+      ],
+      "countries": [
+        "ES"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Javier Rodr\u00edguez-Carrio",
+      "raw_affiliation_strings": [
+        "Instituto de Investigaci\u00f3n Sanitaria del Principado de Asturias (ISPA)",
+        "University of Oviedo, Area of Immunology"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Instituto de Investigaci\u00f3n Sanitaria del Principado de Asturias (ISPA)",
+          "institution_ids": [
+            "https://openalex.org/I4210166274"
+          ]
+        },
+        {
+          "raw_affiliation_string": "University of Oviedo, Area of Immunology",
+          "institution_ids": [
+            "https://openalex.org/I165339363"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5025690932",
+        "display_name": "Robert Biesen",
+        "orcid": "https://orcid.org/0000-0002-0434-7832"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I7877124",
+          "display_name": "Charit\u00e9 - Universit\u00e4tsmedizin Berlin",
+          "ror": "https://ror.org/001w7jn25",
+          "country_code": "DE",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I7877124"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Robert Biesen",
+      "raw_affiliation_strings": [
+        "Charit\u00e9 University Medicine Berlin, Department of Rheumatology"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Charit\u00e9 University Medicine Berlin, Department of Rheumatology",
+          "institution_ids": [
+            "https://openalex.org/I7877124"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5065911146",
+        "display_name": "Willem A. Dik",
+        "orcid": "https://orcid.org/0000-0001-5235-3156"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2801952686",
+          "display_name": "Erasmus MC",
+          "ror": "https://ror.org/018906e22",
+          "country_code": "NL",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2801952686"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Willem A Dik",
+      "raw_affiliation_strings": [
+        "Erasmus MC, University Medical Center Rotterdam",
+        "Laboratory Medical Immunology, Department of Immunology, Rotterdam, Netherlands Immunology"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Erasmus MC, University Medical Center Rotterdam",
+          "institution_ids": [
+            "https://openalex.org/I2801952686"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Laboratory Medical Immunology, Department of Immunology, Rotterdam, Netherlands Immunology",
+          "institution_ids": []
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5078557164",
+        "display_name": "Maija\u2010Leena Eloranta",
+        "orcid": "https://orcid.org/0000-0002-8454-1351"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I123387679",
+          "display_name": "Uppsala University",
+          "ror": "https://ror.org/048a87296",
+          "country_code": "SE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I123387679"
+          ]
+        }
+      ],
+      "countries": [
+        "SE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Maija-Leena Eloranta",
+      "raw_affiliation_strings": [
+        "Uppsala University, Department of Medical Sciences, Rheumatology"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Uppsala University, Department of Medical Sciences, Rheumatology",
+          "institution_ids": [
+            "https://openalex.org/I123387679"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5030743413",
+        "display_name": "Giulio Cavalli",
+        "orcid": "https://orcid.org/0000-0001-8728-3004"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210147365",
+          "display_name": "European League Against Rheumatism",
+          "ror": "https://ror.org/03f7j3221",
+          "country_code": "CH",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I4210147365"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I154387261",
+          "display_name": "Vita-Salute San Raffaele University",
+          "ror": "https://ror.org/01gmqr298",
+          "country_code": "IT",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I154387261"
+          ]
+        }
+      ],
+      "countries": [
+        "CH",
+        "IT"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Giulio Cavalli",
+      "raw_affiliation_strings": [
+        "EULAR",
+        "PARE Patient Research Partners",
+        "Unit of Immunology, Rheumatology, Allergy and Rare Diseases",
+        "Vita-Salute San Raffaele University"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "EULAR",
+          "institution_ids": [
+            "https://openalex.org/I4210147365"
+          ]
+        },
+        {
+          "raw_affiliation_string": "PARE Patient Research Partners",
+          "institution_ids": []
+        },
+        {
+          "raw_affiliation_string": "Vita-Salute San Raffaele University",
+          "institution_ids": [
+            "https://openalex.org/I154387261"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Unit of Immunology, Rheumatology, Allergy and Rare Diseases",
+          "institution_ids": []
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5072736652",
+        "display_name": "Marjolein Visser",
+        "orcid": "https://orcid.org/0000-0002-5136-298X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I142617266",
+          "display_name": "University of Crete",
+          "ror": "https://ror.org/00dr28g20",
+          "country_code": "GR",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I142617266"
+          ]
+        }
+      ],
+      "countries": [
+        "GR"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Marianne Visser",
+      "raw_affiliation_strings": [
+        "University of Crete, Medical School, Department of Internal Medicine"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "University of Crete, Medical School, Department of Internal Medicine",
+          "institution_ids": [
+            "https://openalex.org/I142617266"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5025805658",
+        "display_name": "Dimitrios T. Boumpas",
+        "orcid": "https://orcid.org/0000-0002-9812-4671"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I142617266",
+          "display_name": "University of Crete",
+          "ror": "https://ror.org/00dr28g20",
+          "country_code": "GR",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I142617266"
+          ]
+        }
+      ],
+      "countries": [
+        "GR"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Dimitrios T Boumpas",
+      "raw_affiliation_strings": [
+        "University of Crete, Medical School, Department of Rheumatology-Clinical Immunology"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "University of Crete, Medical School, Department of Rheumatology-Clinical Immunology",
+          "institution_ids": [
+            "https://openalex.org/I142617266"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5034748610",
+        "display_name": "George \u0392ertsias",
+        "orcid": "https://orcid.org/0000-0001-5299-1406"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I142617266",
+          "display_name": "University of Crete",
+          "ror": "https://ror.org/00dr28g20",
+          "country_code": "GR",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I142617266"
+          ]
+        }
+      ],
+      "countries": [
+        "GR"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "George Bertsias",
+      "raw_affiliation_strings": [
+        "University of Crete, Medical School, Department of Rheumatology-Clinical Immunology"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "University of Crete, Medical School, Department of Rheumatology-Clinical Immunology",
+          "institution_ids": [
+            "https://openalex.org/I142617266"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5054840940",
+        "display_name": "Marie Wahren\u2010Herlenius",
+        "orcid": "https://orcid.org/0000-0002-0915-7245"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4432739",
+          "display_name": "University of Bergen",
+          "ror": "https://ror.org/03zga2b32",
+          "country_code": "NO",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I4432739"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I28166907",
+          "display_name": "Karolinska Institutet",
+          "ror": "https://ror.org/056d84691",
+          "country_code": "SE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I28166907"
+          ]
+        }
+      ],
+      "countries": [
+        "NO",
+        "SE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Marie Wahren-Herlenius",
+      "raw_affiliation_strings": [
+        "Broegelmann Research Laboratory, Department of Clinical Science",
+        "Karolinska Institutet, Division of Rheumatology",
+        "University of Bergen"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Karolinska Institutet, Division of Rheumatology",
+          "institution_ids": [
+            "https://openalex.org/I28166907"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Broegelmann Research Laboratory, Department of Clinical Science",
+          "institution_ids": []
+        },
+        {
+          "raw_affiliation_string": "University of Bergen",
+          "institution_ids": [
+            "https://openalex.org/I4432739"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5078937992",
+        "display_name": "Jan Rehwinkel",
+        "orcid": "https://orcid.org/0000-0003-3841-835X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210124851",
+          "display_name": "MRC Human Immunology Unit",
+          "ror": "https://ror.org/02kcpr174",
+          "country_code": "GB",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I40120149",
+            "https://openalex.org/I40120149",
+            "https://openalex.org/I4210087105",
+            "https://openalex.org/I4210087105",
+            "https://openalex.org/I4210110594",
+            "https://openalex.org/I4210124851",
+            "https://openalex.org/I90344618",
+            "https://openalex.org/I90344618"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I90344618",
+          "display_name": "Medical Research Council",
+          "ror": "https://ror.org/03x94j517",
+          "country_code": "GB",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I4210087105",
+            "https://openalex.org/I90344618"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I40120149",
+          "display_name": "University of Oxford",
+          "ror": "https://ror.org/052gg0110",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I40120149"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210146488",
+          "display_name": "Institute of Molecular Medicine",
+          "ror": "https://ror.org/04eb14s37",
+          "country_code": "IN",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I4210146488"
+          ]
+        }
+      ],
+      "countries": [
+        "GB",
+        "IN"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Jan Rehwinkel",
+      "raw_affiliation_strings": [
+        "Medical Research Council Human Immunology Unit",
+        "Medical Research Council Weatherall Institute of Molecular Medicine, Radcliffe Department of Medicine, University of Oxford"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Medical Research Council Human Immunology Unit",
+          "institution_ids": [
+            "https://openalex.org/I90344618"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Medical Research Council Weatherall Institute of Molecular Medicine, Radcliffe Department of Medicine, University of Oxford",
+          "institution_ids": [
+            "https://openalex.org/I40120149",
+            "https://openalex.org/I4210124851",
+            "https://openalex.org/I4210146488",
+            "https://openalex.org/I90344618"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5059840607",
+        "display_name": "Marie\u2010Louise Fr\u00e9mond",
+        "orcid": "https://orcid.org/0000-0002-2798-9141"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I1288880153",
+          "display_name": "H\u00f4pital Necker-Enfants Malades",
+          "ror": "https://ror.org/05tr67282",
+          "country_code": "FR",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I1288880153",
+            "https://openalex.org/I4210097159",
+            "https://openalex.org/I4210120235"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I204730241",
+          "display_name": "Universit\u00e9 Paris Cit\u00e9",
+          "ror": "https://ror.org/05f82e368",
+          "country_code": "FR",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I204730241"
+          ]
+        }
+      ],
+      "countries": [
+        "FR"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Marie-Louise Fr\u00e9mond",
+      "raw_affiliation_strings": [
+        "Universit\u00e9 de Paris Cit\u00e9, H\u00f4pital Necker-Enfants Malades, Immuno-H\u00e9matologie et Rhumatologie p\u00e9diatriques"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Universit\u00e9 de Paris Cit\u00e9, H\u00f4pital Necker-Enfants Malades, Immuno-H\u00e9matologie et Rhumatologie p\u00e9diatriques",
+          "institution_ids": [
+            "https://openalex.org/I1288880153",
+            "https://openalex.org/I204730241"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5086055060",
+        "display_name": "Mary K. Crow",
+        "orcid": "https://orcid.org/0000-0002-7881-2020"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I205783295",
+          "display_name": "Cornell University",
+          "ror": "https://ror.org/05bnh6r87",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I205783295"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I1281539108",
+          "display_name": "Hospital for Special Surgery",
+          "ror": "https://ror.org/03zjqec80",
+          "country_code": "US",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I1281539108"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Mary K Crow",
+      "raw_affiliation_strings": [
+        "Hospital for Special Surgery, Weill Cornell Medical College, Mary Kirkland Center for Lupus Research"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Hospital for Special Surgery, Weill Cornell Medical College, Mary Kirkland Center for Lupus Research",
+          "institution_ids": [
+            "https://openalex.org/I1281539108",
+            "https://openalex.org/I205783295"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5055854855",
+        "display_name": "Lars R\u00f6nnblom",
+        "orcid": "https://orcid.org/0000-0001-9403-6503"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I123387679",
+          "display_name": "Uppsala University",
+          "ror": "https://ror.org/048a87296",
+          "country_code": "SE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I123387679"
+          ]
+        }
+      ],
+      "countries": [
+        "SE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Lars Ronnblom",
+      "raw_affiliation_strings": [
+        "Uppsala University, Department of Medical Sciences, Rheumatology"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Uppsala University, Department of Medical Sciences, Rheumatology",
+          "institution_ids": [
+            "https://openalex.org/I123387679"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5100608680",
+        "display_name": "Philip G. Conaghan",
+        "orcid": "https://orcid.org/0000-0002-3478-5665"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210114713",
+          "display_name": "NIHR Leeds Musculoskeletal Biomedical Research Unit",
+          "ror": "https://ror.org/035f5f914",
+          "country_code": "GB",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I2799390153",
+            "https://openalex.org/I34931013",
+            "https://openalex.org/I4210114713"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I130828816",
+          "display_name": "University of Leeds",
+          "ror": "https://ror.org/024mrxd33",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I130828816"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "PG Conaghan",
+      "raw_affiliation_strings": [
+        "Leeds Institute of Rheumatic and Musculoskeletal Medicine",
+        "University of Leeds & NIHR Leeds Biomedical Research Centre"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Leeds Institute of Rheumatic and Musculoskeletal Medicine",
+          "institution_ids": [
+            "https://openalex.org/I4210114713"
+          ]
+        },
+        {
+          "raw_affiliation_string": "University of Leeds & NIHR Leeds Biomedical Research Centre",
+          "institution_ids": [
+            "https://openalex.org/I130828816"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5006234724",
+        "display_name": "Marjan A. Versnel",
+        "orcid": "https://orcid.org/0000-0003-0245-5386"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2801952686",
+          "display_name": "Erasmus MC",
+          "ror": "https://ror.org/018906e22",
+          "country_code": "NL",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2801952686"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I913958620",
+          "display_name": "Erasmus University Rotterdam",
+          "ror": "https://ror.org/057w15z03",
+          "country_code": "NL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I913958620"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Marjan Versnel",
+      "raw_affiliation_strings": [
+        "Erasmus MC, Department of Immunology"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Erasmus MC, Department of Immunology",
+          "institution_ids": [
+            "https://openalex.org/I2801952686",
+            "https://openalex.org/I913958620"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5023290270",
+        "display_name": "Edward M Vital",
+        "orcid": "https://orcid.org/0000-0003-1637-4755"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210114713",
+          "display_name": "NIHR Leeds Musculoskeletal Biomedical Research Unit",
+          "ror": "https://ror.org/035f5f914",
+          "country_code": "GB",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I2799390153",
+            "https://openalex.org/I34931013",
+            "https://openalex.org/I4210114713"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I130828816",
+          "display_name": "University of Leeds",
+          "ror": "https://ror.org/024mrxd33",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I130828816"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Ed Vital",
+      "raw_affiliation_strings": [
+        "Leeds Institute of Rheumatic and Musculoskeletal Medicine",
+        "University of Leeds & NIHR Leeds Biomedical Research Centre"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Leeds Institute of Rheumatic and Musculoskeletal Medicine",
+          "institution_ids": [
+            "https://openalex.org/I4210114713"
+          ]
+        },
+        {
+          "raw_affiliation_string": "University of Leeds & NIHR Leeds Biomedical Research Centre",
+          "institution_ids": [
+            "https://openalex.org/I130828816"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 12,
+  "institutions_distinct_count": 17,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [],
+  "apc_list": {
+    "value": 1950,
+    "currency": "GBP",
+    "value_usd": 2391
+  },
+  "apc_paid": {
+    "value": 1950,
+    "currency": "GBP",
+    "value_usd": 2391
+  },
+  "fwci": 7.38674001,
+  "has_fulltext": true,
+  "cited_by_count": 18,
+  "citation_normalized_percentile": {
+    "value": 0.96051544,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 97,
+    "max": 99
+  },
+  "biblio": {
+    "volume": "9",
+    "issue": "1",
+    "first_page": "e002876",
+    "last_page": "e002876"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10308",
+    "display_name": "Systemic Lupus Erythematosus Research",
+    "score": 0.9994000196456909,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2745",
+      "display_name": "Rheumatology"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/27",
+      "display_name": "Medicine"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/4",
+      "display_name": "Health Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10308",
+      "display_name": "Systemic Lupus Erythematosus Research",
+      "score": 0.9994000196456909,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2745",
+        "display_name": "Rheumatology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10185",
+      "display_name": "Lymphoma Diagnosis and Treatment",
+      "score": 0.9991000294685364,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2734",
+        "display_name": "Pathology and Forensic Medicine"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10200",
+      "display_name": "Rheumatoid Arthritis Research and Therapies",
+      "score": 0.9987999796867371,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2745",
+        "display_name": "Rheumatology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/medicine",
+      "display_name": "Medicine",
+      "score": 0.7627902626991272
+    },
+    {
+      "id": "https://openalex.org/keywords/terminology",
+      "display_name": "Terminology",
+      "score": 0.43837448954582214
+    },
+    {
+      "id": "https://openalex.org/keywords/computational-biology",
+      "display_name": "Computational biology",
+      "score": 0.4003884792327881
+    },
+    {
+      "id": "https://openalex.org/keywords/bioinformatics",
+      "display_name": "Bioinformatics",
+      "score": 0.3286958932876587
+    },
+    {
+      "id": "https://openalex.org/keywords/biology",
+      "display_name": "Biology",
+      "score": 0.12417647242546082
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C71924100",
+      "wikidata": "https://www.wikidata.org/wiki/Q11190",
+      "display_name": "Medicine",
+      "level": 0,
+      "score": 0.7627902626991272
+    },
+    {
+      "id": "https://openalex.org/C547195049",
+      "wikidata": "https://www.wikidata.org/wiki/Q1725664",
+      "display_name": "Terminology",
+      "level": 2,
+      "score": 0.43837448954582214
+    },
+    {
+      "id": "https://openalex.org/C70721500",
+      "wikidata": "https://www.wikidata.org/wiki/Q177005",
+      "display_name": "Computational biology",
+      "level": 1,
+      "score": 0.4003884792327881
+    },
+    {
+      "id": "https://openalex.org/C60644358",
+      "wikidata": "https://www.wikidata.org/wiki/Q128570",
+      "display_name": "Bioinformatics",
+      "level": 1,
+      "score": 0.3286958932876587
+    },
+    {
+      "id": "https://openalex.org/C86803240",
+      "wikidata": "https://www.wikidata.org/wiki/Q420",
+      "display_name": "Biology",
+      "level": 0,
+      "score": 0.12417647242546082
+    },
+    {
+      "id": "https://openalex.org/C138885662",
+      "wikidata": "https://www.wikidata.org/wiki/Q5891",
+      "display_name": "Philosophy",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C41895202",
+      "wikidata": "https://www.wikidata.org/wiki/Q8162",
+      "display_name": "Linguistics",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D007370",
+      "descriptor_name": "Interferon Type I",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D015203",
+      "descriptor_name": "Reproducibility of Results",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D009140",
+      "descriptor_name": "Musculoskeletal Diseases",
+      "qualifier_ui": "Q000175",
+      "qualifier_name": "diagnosis",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D009140",
+      "descriptor_name": "Musculoskeletal Diseases",
+      "qualifier_ui": "Q000209",
+      "qualifier_name": "etiology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D012216",
+      "descriptor_name": "Rheumatic Diseases",
+      "qualifier_ui": "Q000175",
+      "qualifier_name": "diagnosis",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D026683",
+      "descriptor_name": "Advisory Committees",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D007370",
+      "descriptor_name": "Interferon Type I",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D015203",
+      "descriptor_name": "Reproducibility of Results",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D009140",
+      "descriptor_name": "Musculoskeletal Diseases",
+      "qualifier_ui": "Q000175",
+      "qualifier_name": "diagnosis",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D009140",
+      "descriptor_name": "Musculoskeletal Diseases",
+      "qualifier_ui": "Q000209",
+      "qualifier_name": "etiology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D012216",
+      "descriptor_name": "Rheumatic Diseases",
+      "qualifier_ui": "Q000175",
+      "qualifier_name": "diagnosis",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D026683",
+      "descriptor_name": "Advisory Committees",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D007370",
+      "descriptor_name": "Interferon Type I",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D015203",
+      "descriptor_name": "Reproducibility of Results",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D009140",
+      "descriptor_name": "Musculoskeletal Diseases",
+      "qualifier_ui": "Q000175",
+      "qualifier_name": "diagnosis",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D009140",
+      "descriptor_name": "Musculoskeletal Diseases",
+      "qualifier_ui": "Q000209",
+      "qualifier_name": "etiology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D012216",
+      "descriptor_name": "Rheumatic Diseases",
+      "qualifier_ui": "Q000175",
+      "qualifier_name": "diagnosis",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D026683",
+      "descriptor_name": "Advisory Committees",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D007370",
+      "descriptor_name": "Interferon Type I",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D015203",
+      "descriptor_name": "Reproducibility of Results",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D009140",
+      "descriptor_name": "Musculoskeletal Diseases",
+      "qualifier_ui": "Q000175",
+      "qualifier_name": "diagnosis",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D009140",
+      "descriptor_name": "Musculoskeletal Diseases",
+      "qualifier_ui": "Q000209",
+      "qualifier_name": "etiology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D012216",
+      "descriptor_name": "Rheumatic Diseases",
+      "qualifier_ui": "Q000175",
+      "qualifier_name": "diagnosis",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D026683",
+      "descriptor_name": "Advisory Committees",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D007370",
+      "descriptor_name": "Interferon Type I",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D015203",
+      "descriptor_name": "Reproducibility of Results",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D009140",
+      "descriptor_name": "Musculoskeletal Diseases",
+      "qualifier_ui": "Q000175",
+      "qualifier_name": "diagnosis",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D009140",
+      "descriptor_name": "Musculoskeletal Diseases",
+      "qualifier_ui": "Q000209",
+      "qualifier_name": "etiology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D012216",
+      "descriptor_name": "Rheumatic Diseases",
+      "qualifier_ui": "Q000175",
+      "qualifier_name": "diagnosis",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D026683",
+      "descriptor_name": "Advisory Committees",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    }
+  ],
+  "locations_count": 7,
+  "locations": [
+    {
+      "id": "doi:10.1136/rmdopen-2022-002876",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1136/rmdopen-2022-002876",
+      "pdf_url": "https://rmdopen.bmj.com/content/rmdopen/9/1/e002876.full.pdf",
+      "source": {
+        "id": "https://openalex.org/S2738706341",
+        "display_name": "RMD Open",
+        "issn_l": "2056-5933",
+        "issn": [
+          "2056-5933"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310319945",
+        "host_organization_name": "BMJ",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310319945"
+        ],
+        "host_organization_lineage_names": [
+          "BMJ"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "RMD Open",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:36863752",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/36863752",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "RMD open",
+      "raw_type": null
+    },
+    {
+      "id": "pmh:eur:oai:pure.eur.nl:publications/030e6691-21ad-4c0f-86c2-6c9c10522cc2",
+      "is_oa": true,
+      "landing_page_url": "https://pure.eur.nl/en/publications/030e6691-21ad-4c0f-86c2-6c9c10522cc2",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401843",
+        "display_name": "Data Archiving and Networked Services (DANS)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1322597698",
+        "host_organization_name": "Royal Netherlands Academy of Arts and Sciences",
+        "host_organization_lineage": [
+          "https://openalex.org/I1322597698"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "RMD Open, 9(1):e002876. BMJ Publishing Group",
+      "raw_type": "info:eu-repo/semantics/article"
+    },
+    {
+      "id": "pmh:oai:DiVA.org:uu-500102",
+      "is_oa": true,
+      "landing_page_url": "http://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-500102",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306400013",
+        "display_name": "Publications (Konstfack University of Arts, Crafts, and Design)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I218177685",
+        "host_organization_name": "University College of Arts Crafts and Design",
+        "host_organization_lineage": [
+          "https://openalex.org/I218177685"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "other-oa",
+      "license_id": "https://openalex.org/licenses/other-oa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": null,
+      "raw_type": "text"
+    },
+    {
+      "id": "pmh:oai:doaj.org/article:acf1dfeb0fa4419ca571c1658790fe65",
+      "is_oa": false,
+      "landing_page_url": "https://doaj.org/article/acf1dfeb0fa4419ca571c1658790fe65",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401280",
+        "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "RMD Open, Vol 9, Iss 1 (2023)",
+      "raw_type": "article"
+    },
+    {
+      "id": "pmh:oai:pubmedcentral.nih.gov:9990675",
+      "is_oa": true,
+      "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/9990675",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S2764455111",
+        "display_name": "PubMed Central",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "other-oa",
+      "license_id": "https://openalex.org/licenses/other-oa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "RMD Open",
+      "raw_type": "Text"
+    },
+    {
+      "id": "pmh:oai:pure.eur.nl:publications/030e6691-21ad-4c0f-86c2-6c9c10522cc2",
+      "is_oa": true,
+      "landing_page_url": "http://www.scopus.com/inward/record.url?scp=85149306890&partnerID=8YFLogxK",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306400063",
+        "display_name": "Scopus (Elsevier)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "",
+      "raw_type": ""
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1136/rmdopen-2022-002876",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1136/rmdopen-2022-002876",
+    "pdf_url": "https://rmdopen.bmj.com/content/rmdopen/9/1/e002876.full.pdf",
+    "source": {
+      "id": "https://openalex.org/S2738706341",
+      "display_name": "RMD Open",
+      "issn_l": "2056-5933",
+      "issn": [
+        "2056-5933"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310319945",
+      "host_organization_name": "BMJ",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310319945"
+      ],
+      "host_organization_lineage_names": [
+        "BMJ"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "RMD Open",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [],
+  "awards": [
+    {
+      "id": "https://openalex.org/G3326194567",
+      "display_name": null,
+      "funder_award_id": "MC_UU_00008/8",
+      "funder_id": "https://openalex.org/F4320334626",
+      "funder_display_name": "Medical Research Council"
+    }
+  ],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320334626",
+      "display_name": "Medical Research Council",
+      "ror": "https://ror.org/03x94j517"
+    }
+  ],
+  "has_content": {
+    "grobid_xml": true,
+    "pdf": true
+  },
+  "referenced_works_count": 306,
+  "referenced_works": [
+    "https://openalex.org/W6772212061",
+    "https://openalex.org/W2896465879",
+    "https://openalex.org/W2606492431",
+    "https://openalex.org/W2991802775",
+    "https://openalex.org/W2991331878",
+    "https://openalex.org/W2896061868",
+    "https://openalex.org/W3108421430",
+    "https://openalex.org/W2967918238",
+    "https://openalex.org/W6732404125",
+    "https://openalex.org/W2093707774",
+    "https://openalex.org/W2983004004",
+    "https://openalex.org/W3160297138",
+    "https://openalex.org/W2784164363",
+    "https://openalex.org/W2808413902",
+    "https://openalex.org/W2145881672",
+    "https://openalex.org/W2947331491",
+    "https://openalex.org/W2732476823",
+    "https://openalex.org/W1975714553",
+    "https://openalex.org/W2131316930",
+    "https://openalex.org/W2098715000",
+    "https://openalex.org/W2626177916",
+    "https://openalex.org/W2149840720",
+    "https://openalex.org/W2015292253",
+    "https://openalex.org/W2981855225",
+    "https://openalex.org/W6716616024",
+    "https://openalex.org/W2106273198",
+    "https://openalex.org/W2039764245",
+    "https://openalex.org/W2902648040",
+    "https://openalex.org/W2950034795",
+    "https://openalex.org/W2070359556",
+    "https://openalex.org/W2969215868",
+    "https://openalex.org/W2891733474",
+    "https://openalex.org/W2765740368",
+    "https://openalex.org/W1998217022",
+    "https://openalex.org/W2167736693",
+    "https://openalex.org/W2167981267",
+    "https://openalex.org/W1964695094",
+    "https://openalex.org/W2400700193",
+    "https://openalex.org/W2965774664",
+    "https://openalex.org/W2951057964",
+    "https://openalex.org/W2043457297",
+    "https://openalex.org/W2043407765",
+    "https://openalex.org/W2067801218",
+    "https://openalex.org/W2094596462",
+    "https://openalex.org/W2805931400",
+    "https://openalex.org/W2335982655",
+    "https://openalex.org/W2797026268",
+    "https://openalex.org/W2594889731",
+    "https://openalex.org/W2792531399",
+    "https://openalex.org/W2282800417",
+    "https://openalex.org/W2894086348",
+    "https://openalex.org/W2809074048",
+    "https://openalex.org/W1862341041",
+    "https://openalex.org/W896811953",
+    "https://openalex.org/W2804446962",
+    "https://openalex.org/W2462644910",
+    "https://openalex.org/W2145978988",
+    "https://openalex.org/W2733456605",
+    "https://openalex.org/W2071830659",
+    "https://openalex.org/W2096406587",
+    "https://openalex.org/W2027632198",
+    "https://openalex.org/W2012980322",
+    "https://openalex.org/W1970408063",
+    "https://openalex.org/W2917762466",
+    "https://openalex.org/W2104738622",
+    "https://openalex.org/W2478788944",
+    "https://openalex.org/W2029016041",
+    "https://openalex.org/W2159614887",
+    "https://openalex.org/W6605466463",
+    "https://openalex.org/W2111519718",
+    "https://openalex.org/W135819538",
+    "https://openalex.org/W2013559177",
+    "https://openalex.org/W2498323188",
+    "https://openalex.org/W2057940977",
+    "https://openalex.org/W2259201087",
+    "https://openalex.org/W2158211633",
+    "https://openalex.org/W2138770639",
+    "https://openalex.org/W2033512127",
+    "https://openalex.org/W2726267445",
+    "https://openalex.org/W2115147600",
+    "https://openalex.org/W2089913205",
+    "https://openalex.org/W2045246854",
+    "https://openalex.org/W2028692877",
+    "https://openalex.org/W2072853822",
+    "https://openalex.org/W1983493239",
+    "https://openalex.org/W2947657867",
+    "https://openalex.org/W6749584976",
+    "https://openalex.org/W2186397959",
+    "https://openalex.org/W2768088991",
+    "https://openalex.org/W2107391304",
+    "https://openalex.org/W2015545119",
+    "https://openalex.org/W2005719119",
+    "https://openalex.org/W2129057628",
+    "https://openalex.org/W6603967155",
+    "https://openalex.org/W1564653542",
+    "https://openalex.org/W2004802752",
+    "https://openalex.org/W2045711089",
+    "https://openalex.org/W6604893672",
+    "https://openalex.org/W2042247594",
+    "https://openalex.org/W2123989297",
+    "https://openalex.org/W2996312205",
+    "https://openalex.org/W2769925960",
+    "https://openalex.org/W6676984696",
+    "https://openalex.org/W2789797871",
+    "https://openalex.org/W2593429378",
+    "https://openalex.org/W2340932410",
+    "https://openalex.org/W2979132909",
+    "https://openalex.org/W2514488813",
+    "https://openalex.org/W2585480788",
+    "https://openalex.org/W2253253657",
+    "https://openalex.org/W2127198764",
+    "https://openalex.org/W2906045703",
+    "https://openalex.org/W2500783422",
+    "https://openalex.org/W2805880171",
+    "https://openalex.org/W1594879978",
+    "https://openalex.org/W2415727144",
+    "https://openalex.org/W2973064061",
+    "https://openalex.org/W2409725731",
+    "https://openalex.org/W2414792562",
+    "https://openalex.org/W2913235038",
+    "https://openalex.org/W6730574478",
+    "https://openalex.org/W2166106092",
+    "https://openalex.org/W1855271605",
+    "https://openalex.org/W2567283285",
+    "https://openalex.org/W2783353874",
+    "https://openalex.org/W2016020118",
+    "https://openalex.org/W2977515540",
+    "https://openalex.org/W2789720951",
+    "https://openalex.org/W2473105536",
+    "https://openalex.org/W2146853551",
+    "https://openalex.org/W2006194219",
+    "https://openalex.org/W2192513119",
+    "https://openalex.org/W2167518746",
+    "https://openalex.org/W2110984248",
+    "https://openalex.org/W2595973298",
+    "https://openalex.org/W1827062277",
+    "https://openalex.org/W2397641904",
+    "https://openalex.org/W2556766135",
+    "https://openalex.org/W2912343508",
+    "https://openalex.org/W2515246389",
+    "https://openalex.org/W2008423777",
+    "https://openalex.org/W2054225389",
+    "https://openalex.org/W2103787391",
+    "https://openalex.org/W2006232527",
+    "https://openalex.org/W2109507823",
+    "https://openalex.org/W2104590104",
+    "https://openalex.org/W2104834838",
+    "https://openalex.org/W1892686659",
+    "https://openalex.org/W2018791147",
+    "https://openalex.org/W2318070433",
+    "https://openalex.org/W2036095604",
+    "https://openalex.org/W2062713016",
+    "https://openalex.org/W2006353424",
+    "https://openalex.org/W4233489525",
+    "https://openalex.org/W2049858255",
+    "https://openalex.org/W2072127157",
+    "https://openalex.org/W2168888135",
+    "https://openalex.org/W2006399653",
+    "https://openalex.org/W2031697084",
+    "https://openalex.org/W1156067543",
+    "https://openalex.org/W2016447788",
+    "https://openalex.org/W1976373964",
+    "https://openalex.org/W2045513203",
+    "https://openalex.org/W1978016270",
+    "https://openalex.org/W1966138206",
+    "https://openalex.org/W2073781275",
+    "https://openalex.org/W2073745127",
+    "https://openalex.org/W2044085031",
+    "https://openalex.org/W2131374835",
+    "https://openalex.org/W98546306",
+    "https://openalex.org/W2799971805",
+    "https://openalex.org/W2122295644",
+    "https://openalex.org/W1492996609",
+    "https://openalex.org/W2088052489",
+    "https://openalex.org/W2099447582",
+    "https://openalex.org/W1994932727",
+    "https://openalex.org/W2149380153",
+    "https://openalex.org/W2100382163",
+    "https://openalex.org/W2144679801",
+    "https://openalex.org/W2016103707",
+    "https://openalex.org/W2102011697",
+    "https://openalex.org/W2141086538",
+    "https://openalex.org/W2072196555",
+    "https://openalex.org/W1984364643",
+    "https://openalex.org/W1968218958",
+    "https://openalex.org/W2600342248",
+    "https://openalex.org/W2895024244",
+    "https://openalex.org/W2004181624",
+    "https://openalex.org/W2015121619",
+    "https://openalex.org/W2908889920",
+    "https://openalex.org/W1992622674",
+    "https://openalex.org/W2159137640",
+    "https://openalex.org/W2034410189",
+    "https://openalex.org/W2042615668",
+    "https://openalex.org/W2791587201",
+    "https://openalex.org/W2939058944",
+    "https://openalex.org/W2954000132",
+    "https://openalex.org/W2154243191",
+    "https://openalex.org/W2157867548",
+    "https://openalex.org/W2119267472",
+    "https://openalex.org/W2202022139",
+    "https://openalex.org/W2982474992",
+    "https://openalex.org/W2763405149",
+    "https://openalex.org/W2916230790",
+    "https://openalex.org/W2564661777",
+    "https://openalex.org/W2471402432",
+    "https://openalex.org/W2154500600",
+    "https://openalex.org/W2129191899",
+    "https://openalex.org/W2123219022",
+    "https://openalex.org/W2058833201",
+    "https://openalex.org/W2368315689",
+    "https://openalex.org/W2399597028",
+    "https://openalex.org/W2001457439",
+    "https://openalex.org/W2039378822",
+    "https://openalex.org/W2556359407",
+    "https://openalex.org/W2909900992",
+    "https://openalex.org/W2908503979",
+    "https://openalex.org/W2969286027",
+    "https://openalex.org/W1968623559",
+    "https://openalex.org/W2682879875",
+    "https://openalex.org/W2206541367",
+    "https://openalex.org/W1965672602",
+    "https://openalex.org/W2136590838",
+    "https://openalex.org/W2016621226",
+    "https://openalex.org/W2145093036",
+    "https://openalex.org/W1922142273",
+    "https://openalex.org/W2524901251",
+    "https://openalex.org/W2473912147",
+    "https://openalex.org/W2902894314",
+    "https://openalex.org/W2080549619",
+    "https://openalex.org/W2947106371",
+    "https://openalex.org/W2917728585",
+    "https://openalex.org/W2939416787",
+    "https://openalex.org/W6769435253",
+    "https://openalex.org/W2257791500",
+    "https://openalex.org/W2040733258",
+    "https://openalex.org/W2913564803",
+    "https://openalex.org/W2525187825",
+    "https://openalex.org/W2905366389",
+    "https://openalex.org/W1983378819",
+    "https://openalex.org/W2802945985",
+    "https://openalex.org/W2081523779",
+    "https://openalex.org/W2592564537",
+    "https://openalex.org/W1679569810",
+    "https://openalex.org/W2011453474",
+    "https://openalex.org/W2138282709",
+    "https://openalex.org/W6746095319",
+    "https://openalex.org/W2164775373",
+    "https://openalex.org/W2072959464",
+    "https://openalex.org/W2775213288",
+    "https://openalex.org/W2258946361",
+    "https://openalex.org/W2055975586",
+    "https://openalex.org/W2032474910",
+    "https://openalex.org/W2415845665",
+    "https://openalex.org/W2954337515",
+    "https://openalex.org/W2970170315",
+    "https://openalex.org/W2560160843",
+    "https://openalex.org/W2791943550",
+    "https://openalex.org/W2901784954",
+    "https://openalex.org/W2335122682",
+    "https://openalex.org/W1699876092",
+    "https://openalex.org/W1494839184",
+    "https://openalex.org/W2096414904",
+    "https://openalex.org/W2496812908",
+    "https://openalex.org/W2784163635",
+    "https://openalex.org/W2042312470",
+    "https://openalex.org/W156829367",
+    "https://openalex.org/W1986628830",
+    "https://openalex.org/W1752196808",
+    "https://openalex.org/W2229182764",
+    "https://openalex.org/W2021109112",
+    "https://openalex.org/W2947507617",
+    "https://openalex.org/W2121591722",
+    "https://openalex.org/W2035242178",
+    "https://openalex.org/W1538646805",
+    "https://openalex.org/W2015208411",
+    "https://openalex.org/W2068197701",
+    "https://openalex.org/W2060596530",
+    "https://openalex.org/W1992346280",
+    "https://openalex.org/W2014008318",
+    "https://openalex.org/W2122827161",
+    "https://openalex.org/W1963552316",
+    "https://openalex.org/W2809821375",
+    "https://openalex.org/W2031097604",
+    "https://openalex.org/W2033941993",
+    "https://openalex.org/W121389000",
+    "https://openalex.org/W2146973732",
+    "https://openalex.org/W6718719760",
+    "https://openalex.org/W2166531684",
+    "https://openalex.org/W2034891769",
+    "https://openalex.org/W2012385611",
+    "https://openalex.org/W2079666986",
+    "https://openalex.org/W2069927148",
+    "https://openalex.org/W2462360331",
+    "https://openalex.org/W2162082073",
+    "https://openalex.org/W2014762730",
+    "https://openalex.org/W2318971911",
+    "https://openalex.org/W6716076913",
+    "https://openalex.org/W2061763629",
+    "https://openalex.org/W2581830478",
+    "https://openalex.org/W2965839847",
+    "https://openalex.org/W2770098230",
+    "https://openalex.org/W2939177056",
+    "https://openalex.org/W2037673476",
+    "https://openalex.org/W2321809676",
+    "https://openalex.org/W2561216715"
+  ],
+  "related_works": [
+    "https://openalex.org/W2748952813",
+    "https://openalex.org/W3031052312",
+    "https://openalex.org/W4389568370",
+    "https://openalex.org/W3032375762",
+    "https://openalex.org/W1995515455",
+    "https://openalex.org/W2080531066",
+    "https://openalex.org/W3108674512",
+    "https://openalex.org/W1506200166",
+    "https://openalex.org/W1489783725",
+    "https://openalex.org/W2148612803"
+  ],
+  "abstract_inverted_index": {
+    "Objectives": [
+      0
+    ],
+    "To": [
+      1
+    ],
+    "systematically": [
+      2
+    ],
+    "review": [
+      3
+    ],
+    "the": [
+      4,
+      38,
+      213,
+      216
+    ],
+    "literature": [
+      5
+    ],
+    "for": [
+      6,
+      28,
+      73,
+      139,
+      151,
+      160,
+      224,
+      239
+    ],
+    "assay": [
+      7,
+      109,
+      119,
+      126,
+      136
+    ],
+    "methods": [
+      8,
+      186
+    ],
+    "that": [
+      9
+    ],
+    "aim": [
+      10
+    ],
+    "to": [
+      11,
+      20,
+      82,
+      173
+    ],
+    "evaluate": [
+      12
+    ],
+    "type": [
+      13
+    ],
+    "I": [
+      14
+    ],
+    "interferon": [
+      15
+    ],
+    "(IFN-I)": [
+      16
+    ],
+    "pathway": [
+      17,
+      85,
+      96,
+      203
+    ],
+    "activation": [
+      18,
+      97,
+      204
+    ],
+    "and": [
+      19,
+      32,
+      45,
+      51,
+      60,
+      158,
+      165,
+      180,
+      193,
+      207,
+      234
+    ],
+    "harmonise-related": [
+      21
+    ],
+    "terminology.": [
+      22,
+      63
+    ],
+    "Methods": [
+      23
+    ],
+    "Three": [
+      24
+    ],
+    "databases": [
+      25
+    ],
+    "were": [
+      26,
+      49,
+      156,
+      167,
+      232
+    ],
+    "searched": [
+      27
+    ],
+    "reports": [
+      29
+    ],
+    "of": [
+      30,
+      41,
+      47,
+      134,
+      177,
+      201,
+      215,
+      247
+    ],
+    "IFN-I": [
+      31,
+      44,
+      84,
+      95,
+      178,
+      191,
+      202
+    ],
+    "rheumatic": [
+      33
+    ],
+    "musculoskeletal": [
+      34
+    ],
+    "diseases.": [
+      35
+    ],
+    "Information": [
+      36
+    ],
+    "about": [
+      37
+    ],
+    "performance": [
+      39
+    ],
+    "metrics": [
+      40
+    ],
+    "assays": [
+      42,
+      192,
+      231
+    ],
+    "measuring": [
+      43
+    ],
+    "measures": [
+      46
+    ],
+    "truth": [
+      48
+    ],
+    "extracted": [
+      50
+    ],
+    "summarised.": [
+      52
+    ],
+    "A": [
+      53
+    ],
+    "EULAR": [
+      54
+    ],
+    "task": [
+      55
+    ],
+    "force": [
+      56
+    ],
+    "panel": [
+      57
+    ],
+    "assessed": [
+      58
+    ],
+    "feasibility": [
+      59,
+      235
+    ],
+    "developed": [
+      61
+    ],
+    "consensus": [
+      62
+    ],
+    "Results": [
+      64
+    ],
+    "Of": [
+      65
+    ],
+    "10": [
+      66
+    ],
+    "037": [
+      67
+    ],
+    "abstracts,": [
+      68
+    ],
+    "276": [
+      69,
+      88
+    ],
+    "fulfilled": [
+      70
+    ],
+    "eligibility": [
+      71
+    ],
+    "criteria": [
+      72
+    ],
+    "data": [
+      74,
+      91,
+      155
+    ],
+    "extraction.": [
+      75
+    ],
+    "Some": [
+      76
+    ],
+    "reported": [
+      77,
+      189
+    ],
+    "more": [
+      78
+    ],
+    "than": [
+      79
+    ],
+    "one": [
+      80
+    ],
+    "technique": [
+      81
+    ],
+    "measure": [
+      83,
+      206
+    ],
+    "activation.": [
+      86
+    ],
+    "Hence,": [
+      87
+    ],
+    "papers": [
+      89
+    ],
+    "generated": [
+      90
+    ],
+    "on": [
+      92,
+      227
+    ],
+    "412": [
+      93
+    ],
+    "methods.": [
+      94
+    ],
+    "was": [
+      98,
+      149,
+      182
+    ],
+    "measured": [
+      99
+    ],
+    "using:": [
+      100
+    ],
+    "qPCR": [
+      101
+    ],
+    "(n=121),": [
+      102
+    ],
+    "immunoassays": [
+      103,
+      166
+    ],
+    "(n=101),": [
+      104
+    ],
+    "microarray": [
+      105
+    ],
+    "(n=69),": [
+      106
+    ],
+    "reporter": [
+      107
+    ],
+    "cell": [
+      108
+    ],
+    "(n=38),": [
+      110
+    ],
+    "DNA": [
+      111
+    ],
+    "methylation": [
+      112
+    ],
+    "(n=14),": [
+      113,
+      116
+    ],
+    "flow": [
+      114
+    ],
+    "cytometry": [
+      115
+    ],
+    "cytopathic": [
+      117
+    ],
+    "effect": [
+      118
+    ],
+    "(n=11),": [
+      120
+    ],
+    "RNA": [
+      121
+    ],
+    "sequencing": [
+      122,
+      131
+    ],
+    "(n=9),": [
+      123
+    ],
+    "plaque": [
+      124
+    ],
+    "reduction": [
+      125
+    ],
+    "(n=8),": [
+      127
+    ],
+    "Nanostring": [
+      128
+    ],
+    "(n=5),": [
+      129
+    ],
+    "bisulphite": [
+      130
+    ],
+    "(n=3).": [
+      132
+    ],
+    "Principles": [
+      133
+    ],
+    "each": [
+      135
+    ],
+    "are": [
+      137
+    ],
+    "summarised": [
+      138
+    ],
+    "content": [
+      140
+    ],
+    "validity.": [
+      141
+    ],
+    "Concurrent": [
+      142
+    ],
+    "validity": [
+      143
+    ],
+    "(correlation": [
+      144
+    ],
+    "with": [
+      145
+    ],
+    "other": [
+      146
+    ],
+    "IFN": [
+      147,
+      217
+    ],
+    "assays)": [
+      148
+    ],
+    "presented": [
+      150
+    ],
+    "n=150/412": [
+      152
+    ],
+    "assays.": [
+      153,
+      162,
+      241
+    ],
+    "Reliability": [
+      154
+    ],
+    "variable": [
+      157
+    ],
+    "provided": [
+      159
+    ],
+    "13": [
+      161
+    ],
+    "Gene": [
+      163
+    ],
+    "expression": [
+      164
+    ],
+    "considered": [
+      168
+    ],
+    "most": [
+      169
+    ],
+    "feasible.": [
+      170
+    ],
+    "Consensus": [
+      171,
+      242
+    ],
+    "terminology": [
+      172,
+      243
+    ],
+    "define": [
+      174
+    ],
+    "different": [
+      175
+    ],
+    "aspects": [
+      176,
+      200
+    ],
+    "research": [
+      179
+    ],
+    "practice": [
+      181
+    ],
+    "produced.": [
+      183
+    ],
+    "Conclusions": [
+      184
+    ],
+    "Diverse": [
+      185
+    ],
+    "have": [
+      187
+    ],
+    "been": [
+      188
+    ],
+    "as": [
+      190
+    ],
+    "these": [
+      194
+    ],
+    "differ": [
+      195
+    ],
+    "in": [
+      196
+    ],
+    "what": [
+      197
+    ],
+    "elements": [
+      198
+    ],
+    "or": [
+      199,
+      229
+    ],
+    "they": [
+      205
+    ],
+    "how.": [
+      208
+    ],
+    "No": [
+      209
+    ],
+    "\u2018gold": [
+      210
+    ],
+    "standard\u2019": [
+      211
+    ],
+    "represents": [
+      212
+    ],
+    "entirety": [
+      214
+    ],
+    "pathway,": [
+      218
+    ],
+    "some": [
+      219
+    ],
+    "may": [
+      220
+    ],
+    "not": [
+      221
+    ],
+    "be": [
+      222
+    ],
+    "specific": [
+      223
+    ],
+    "IFN-I.": [
+      225
+    ],
+    "Data": [
+      226
+    ],
+    "reliability": [
+      228
+    ],
+    "comparing": [
+      230
+    ],
+    "limited,": [
+      233
+    ],
+    "is": [
+      236
+    ],
+    "a": [
+      237
+    ],
+    "challenge": [
+      238
+    ],
+    "many": [
+      240
+    ],
+    "should": [
+      244
+    ],
+    "improve": [
+      245
+    ],
+    "consistency": [
+      246
+    ],
+    "reporting.": [
+      248
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 4
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 8
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 6
+    }
+  ],
+  "updated_date": "2025-11-06T03:46:38.306776",
+  "created_date": "2025-10-10T00:00:00"
+}

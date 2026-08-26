@@ -1,0 +1,1363 @@
+{
+  "id": "https://openalex.org/W2794195377",
+  "doi": "https://doi.org/10.1080/17453674.2018.1443635",
+  "title": "RSA migration of total knee replacements",
+  "display_name": "RSA migration of total knee replacements",
+  "publication_year": 2018,
+  "publication_date": "2018-03-06",
+  "ids": {
+    "openalex": "https://openalex.org/W2794195377",
+    "doi": "https://doi.org/10.1080/17453674.2018.1443635",
+    "mag": "2794195377",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/29508661"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1080/17453674.2018.1443635",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1080/17453674.2018.1443635",
+    "pdf_url": "https://www.tandfonline.com/doi/pdf/10.1080/17453674.2018.1443635?needAccess=true&",
+    "source": {
+      "id": "https://openalex.org/S58634475",
+      "display_name": "Acta Orthopaedica",
+      "issn_l": "1745-3674",
+      "issn": [
+        "1745-3674",
+        "1745-3682"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320547",
+      "host_organization_name": "Taylor & Francis",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320547"
+      ],
+      "host_organization_lineage_names": [
+        "Taylor & Francis"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Acta Orthopaedica",
+    "raw_type": "journal-article"
+  },
+  "type": "review",
+  "indexed_in": [
+    "crossref",
+    "doaj",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "gold",
+    "oa_url": "https://www.tandfonline.com/doi/pdf/10.1080/17453674.2018.1443635?needAccess=true&",
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5067054635",
+        "display_name": "Bart G. Pijls",
+        "orcid": "https://orcid.org/0000-0001-5351-5057"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2800006345",
+          "display_name": "Leiden University Medical Center",
+          "ror": "https://ror.org/05xvt9f17",
+          "country_code": "NL",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2800006345"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Bart G Pijls",
+      "raw_affiliation_strings": [
+        "Department of Orthopaedics, Leiden University Medical Center, Leiden;"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Orthopaedics, Leiden University Medical Center, Leiden;",
+          "institution_ids": [
+            "https://openalex.org/I2800006345"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5026241586",
+        "display_name": "Jos\u00e9 W M Plevier",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2800006345",
+          "display_name": "Leiden University Medical Center",
+          "ror": "https://ror.org/05xvt9f17",
+          "country_code": "NL",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2800006345"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Jos\u00e9 W M Plevier",
+      "raw_affiliation_strings": [
+        "Walaeus Library, Leiden University Medical Center, Leiden, The Netherlands"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Walaeus Library, Leiden University Medical Center, Leiden, The Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I2800006345"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5033988443",
+        "display_name": "Rob G. H. H. Nelissen",
+        "orcid": "https://orcid.org/0000-0003-1228-4162"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2800006345",
+          "display_name": "Leiden University Medical Center",
+          "ror": "https://ror.org/05xvt9f17",
+          "country_code": "NL",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2800006345"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Rob G H H Nelissen",
+      "raw_affiliation_strings": [
+        "Department of Orthopaedics, Leiden University Medical Center, Leiden;"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Orthopaedics, Leiden University Medical Center, Leiden;",
+          "institution_ids": [
+            "https://openalex.org/I2800006345"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 3,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5067054635"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I2800006345"
+  ],
+  "apc_list": {
+    "value": 1650,
+    "currency": "EUR",
+    "value_usd": 1779
+  },
+  "apc_paid": {
+    "value": 1650,
+    "currency": "EUR",
+    "value_usd": 1779
+  },
+  "fwci": 13.74224518,
+  "has_fulltext": false,
+  "cited_by_count": 109,
+  "citation_normalized_percentile": {
+    "value": 0.99006427,
+    "is_in_top_1_percent": true,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 94,
+    "max": 100
+  },
+  "biblio": {
+    "volume": "89",
+    "issue": "3",
+    "first_page": "320",
+    "last_page": "328"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10562",
+    "display_name": "Total Knee Arthroplasty Outcomes",
+    "score": 1.0,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2746",
+      "display_name": "Surgery"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/27",
+      "display_name": "Medicine"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/4",
+      "display_name": "Health Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10562",
+      "display_name": "Total Knee Arthroplasty Outcomes",
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2746",
+        "display_name": "Surgery"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10512",
+      "display_name": "Orthopaedic implants and arthroplasty",
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2746",
+        "display_name": "Surgery"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11293",
+      "display_name": "Orthopedic Infections and Treatments",
+      "score": 0.9993000030517578,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2746",
+        "display_name": "Surgery"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/medicine",
+      "display_name": "Medicine",
+      "score": 0.8524419069290161
+    },
+    {
+      "id": "https://openalex.org/keywords/meta-analysis",
+      "display_name": "Meta-analysis",
+      "score": 0.4955791234970093
+    },
+    {
+      "id": "https://openalex.org/keywords/orthopedic-surgery",
+      "display_name": "Orthopedic surgery",
+      "score": 0.4895540177822113
+    },
+    {
+      "id": "https://openalex.org/keywords/surgery",
+      "display_name": "Surgery",
+      "score": 0.4800730347633362
+    },
+    {
+      "id": "https://openalex.org/keywords/orthodontics",
+      "display_name": "Orthodontics",
+      "score": 0.364164799451828
+    },
+    {
+      "id": "https://openalex.org/keywords/internal-medicine",
+      "display_name": "Internal medicine",
+      "score": 0.15403354167938232
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C71924100",
+      "wikidata": "https://www.wikidata.org/wiki/Q11190",
+      "display_name": "Medicine",
+      "level": 0,
+      "score": 0.8524419069290161
+    },
+    {
+      "id": "https://openalex.org/C95190672",
+      "wikidata": "https://www.wikidata.org/wiki/Q815382",
+      "display_name": "Meta-analysis",
+      "level": 2,
+      "score": 0.4955791234970093
+    },
+    {
+      "id": "https://openalex.org/C68312169",
+      "wikidata": "https://www.wikidata.org/wiki/Q216685",
+      "display_name": "Orthopedic surgery",
+      "level": 2,
+      "score": 0.4895540177822113
+    },
+    {
+      "id": "https://openalex.org/C141071460",
+      "wikidata": "https://www.wikidata.org/wiki/Q40821",
+      "display_name": "Surgery",
+      "level": 1,
+      "score": 0.4800730347633362
+    },
+    {
+      "id": "https://openalex.org/C29694066",
+      "wikidata": "https://www.wikidata.org/wiki/Q118301",
+      "display_name": "Orthodontics",
+      "level": 1,
+      "score": 0.364164799451828
+    },
+    {
+      "id": "https://openalex.org/C126322002",
+      "wikidata": "https://www.wikidata.org/wiki/Q11180",
+      "display_name": "Internal medicine",
+      "level": 1,
+      "score": 0.15403354167938232
+    }
+  ],
+  "mesh": [
+    {
+      "descriptor_ui": "D019645",
+      "descriptor_name": "Arthroplasty, Replacement, Knee",
+      "qualifier_ui": "Q000009",
+      "qualifier_name": "adverse effects",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D019645",
+      "descriptor_name": "Arthroplasty, Replacement, Knee",
+      "qualifier_ui": "Q000295",
+      "qualifier_name": "instrumentation",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D007720",
+      "descriptor_name": "Knee Prosthesis",
+      "qualifier_ui": "Q000009",
+      "qualifier_name": "adverse effects",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D011475",
+      "descriptor_name": "Prosthesis Failure",
+      "qualifier_ui": "Q000209",
+      "qualifier_name": "etiology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D059869",
+      "descriptor_name": "Radiostereometric Analysis",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D019645",
+      "descriptor_name": "Arthroplasty, Replacement, Knee",
+      "qualifier_ui": "Q000009",
+      "qualifier_name": "adverse effects",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D019645",
+      "descriptor_name": "Arthroplasty, Replacement, Knee",
+      "qualifier_ui": "Q000295",
+      "qualifier_name": "instrumentation",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D007720",
+      "descriptor_name": "Knee Prosthesis",
+      "qualifier_ui": "Q000009",
+      "qualifier_name": "adverse effects",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D011475",
+      "descriptor_name": "Prosthesis Failure",
+      "qualifier_ui": "Q000209",
+      "qualifier_name": "etiology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D059869",
+      "descriptor_name": "Radiostereometric Analysis",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    }
+  ],
+  "locations_count": 6,
+  "locations": [
+    {
+      "id": "doi:10.1080/17453674.2018.1443635",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1080/17453674.2018.1443635",
+      "pdf_url": "https://www.tandfonline.com/doi/pdf/10.1080/17453674.2018.1443635?needAccess=true&",
+      "source": {
+        "id": "https://openalex.org/S58634475",
+        "display_name": "Acta Orthopaedica",
+        "issn_l": "1745-3674",
+        "issn": [
+          "1745-3674",
+          "1745-3682"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320547",
+        "host_organization_name": "Taylor & Francis",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320547"
+        ],
+        "host_organization_lineage_names": [
+          "Taylor & Francis"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Acta Orthopaedica",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:29508661",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/29508661",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Acta orthopaedica",
+      "raw_type": null
+    },
+    {
+      "id": "pmh:oai:doaj.org/article:daeaf5c8b2cd4df38049e6bf0dcc0390",
+      "is_oa": true,
+      "landing_page_url": "https://doaj.org/article/daeaf5c8b2cd4df38049e6bf0dcc0390",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401280",
+        "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by-sa",
+      "license_id": "https://openalex.org/licenses/cc-by-sa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Acta Orthopaedica, Vol 89, Iss 3, Pp 320-328 (2018)",
+      "raw_type": "article"
+    },
+    {
+      "id": "pmh:oai:europepmc.org:5010824",
+      "is_oa": true,
+      "landing_page_url": "http://europepmc.org/pmc/articles/PMC6055769",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306400806",
+        "display_name": "Europe PMC (PubMed Central)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1303153112",
+        "host_organization_name": "European Bioinformatics Institute",
+        "host_organization_lineage": [
+          "https://openalex.org/I1303153112"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "",
+      "raw_type": "Text"
+    },
+    {
+      "id": "pmh:oai:pubmedcentral.nih.gov:6055769",
+      "is_oa": true,
+      "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/6055769",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S2764455111",
+        "display_name": "PubMed Central",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Acta Orthop",
+      "raw_type": "Text"
+    },
+    {
+      "id": "pmh:oai:scholarlypublications.universiteitleiden.nl:item_3136358",
+      "is_oa": true,
+      "landing_page_url": "https://hdl.handle.net/1887/78111",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S58634475",
+        "display_name": "Acta Orthopaedica",
+        "issn_l": "1745-3674",
+        "issn": [
+          "1745-3674",
+          "1745-3682"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320547",
+        "host_organization_name": "Taylor & Francis",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320547"
+        ],
+        "host_organization_lineage_names": [
+          "Taylor & Francis"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Acta Orthopaedica",
+      "raw_type": "Article / Letter to editor"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1080/17453674.2018.1443635",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1080/17453674.2018.1443635",
+    "pdf_url": "https://www.tandfonline.com/doi/pdf/10.1080/17453674.2018.1443635?needAccess=true&",
+    "source": {
+      "id": "https://openalex.org/S58634475",
+      "display_name": "Acta Orthopaedica",
+      "issn_l": "1745-3674",
+      "issn": [
+        "1745-3674",
+        "1745-3682"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320547",
+      "host_organization_name": "Taylor & Francis",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320547"
+      ],
+      "host_organization_lineage_names": [
+        "Taylor & Francis"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Acta Orthopaedica",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [
+    {
+      "id": "https://metadata.un.org/sdg/10",
+      "display_name": "Reduced inequalities",
+      "score": 0.6899999976158142
+    }
+  ],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "grobid_xml": true,
+    "pdf": true
+  },
+  "referenced_works_count": 76,
+  "referenced_works": [
+    "https://openalex.org/W1981646137",
+    "https://openalex.org/W2986567609",
+    "https://openalex.org/W2021641395",
+    "https://openalex.org/W2339089009",
+    "https://openalex.org/W2185572563",
+    "https://openalex.org/W1917867238",
+    "https://openalex.org/W1978682894",
+    "https://openalex.org/W38538193",
+    "https://openalex.org/W573899762",
+    "https://openalex.org/W2594110798",
+    "https://openalex.org/W1924250616",
+    "https://openalex.org/W2080539718",
+    "https://openalex.org/W2035777306",
+    "https://openalex.org/W2464256726",
+    "https://openalex.org/W2037764845",
+    "https://openalex.org/W2150651101",
+    "https://openalex.org/W2011823975",
+    "https://openalex.org/W2069044894",
+    "https://openalex.org/W1537972189",
+    "https://openalex.org/W1971290667",
+    "https://openalex.org/W2061366066",
+    "https://openalex.org/W2104728444",
+    "https://openalex.org/W2031624965",
+    "https://openalex.org/W3022903699",
+    "https://openalex.org/W2026908605",
+    "https://openalex.org/W2418277661",
+    "https://openalex.org/W2060157589",
+    "https://openalex.org/W1893342252",
+    "https://openalex.org/W2025182809",
+    "https://openalex.org/W2341382654",
+    "https://openalex.org/W2136174240",
+    "https://openalex.org/W1972574912",
+    "https://openalex.org/W2022054408",
+    "https://openalex.org/W1526310318",
+    "https://openalex.org/W2037472412",
+    "https://openalex.org/W2012210616",
+    "https://openalex.org/W2002804612",
+    "https://openalex.org/W2083175260",
+    "https://openalex.org/W3046461668",
+    "https://openalex.org/W2011852138",
+    "https://openalex.org/W2091717432",
+    "https://openalex.org/W2325820786",
+    "https://openalex.org/W2252973073",
+    "https://openalex.org/W2052652460",
+    "https://openalex.org/W2021510082",
+    "https://openalex.org/W2035652729",
+    "https://openalex.org/W2076534902",
+    "https://openalex.org/W2188602644",
+    "https://openalex.org/W2135907336",
+    "https://openalex.org/W2079919105",
+    "https://openalex.org/W2344564830",
+    "https://openalex.org/W2345819705",
+    "https://openalex.org/W1862674887",
+    "https://openalex.org/W2140610307",
+    "https://openalex.org/W1928358492",
+    "https://openalex.org/W2017678843",
+    "https://openalex.org/W2440011566",
+    "https://openalex.org/W2139397276",
+    "https://openalex.org/W2137372437",
+    "https://openalex.org/W2139381411",
+    "https://openalex.org/W2139168999",
+    "https://openalex.org/W2070609227",
+    "https://openalex.org/W2094283153",
+    "https://openalex.org/W2014123210",
+    "https://openalex.org/W1963702760",
+    "https://openalex.org/W2154579414",
+    "https://openalex.org/W1761131117",
+    "https://openalex.org/W3028031509",
+    "https://openalex.org/W2115619695",
+    "https://openalex.org/W2048274410",
+    "https://openalex.org/W2587976917",
+    "https://openalex.org/W2060188700",
+    "https://openalex.org/W2273523681",
+    "https://openalex.org/W2140365561",
+    "https://openalex.org/W3028370077",
+    "https://openalex.org/W2116095907"
+  ],
+  "related_works": [
+    "https://openalex.org/W2748952813",
+    "https://openalex.org/W3031052312",
+    "https://openalex.org/W4389568370",
+    "https://openalex.org/W3032375762",
+    "https://openalex.org/W1995515455",
+    "https://openalex.org/W2080531066",
+    "https://openalex.org/W2586801360",
+    "https://openalex.org/W3108674512",
+    "https://openalex.org/W1506200166",
+    "https://openalex.org/W1489783725"
+  ],
+  "abstract_inverted_index": {
+    "Purpose": [
+      0
+    ],
+    "-": [
+      1,
+      28,
+      65,
+      177
+    ],
+    "We": [
+      2
+    ],
+    "performed": [
+      3
+    ],
+    "a": [
+      4,
+      100
+    ],
+    "systematic": [
+      5
+    ],
+    "review": [
+      6
+    ],
+    "and": [
+      7,
+      13,
+      59,
+      82,
+      111,
+      131,
+      137,
+      143,
+      221,
+      236
+    ],
+    "meta-analyses": [
+      8
+    ],
+    "to": [
+      9
+    ],
+    "evaluate": [
+      10
+    ],
+    "the": [
+      11,
+      88,
+      93,
+      170,
+      193,
+      216
+    ],
+    "early": [
+      12,
+      89,
+      219
+    ],
+    "long-term": [
+      14
+    ],
+    "migration": [
+      15,
+      90,
+      117,
+      128,
+      168,
+      172,
+      185,
+      220,
+      228,
+      239
+    ],
+    "patterns": [
+      16,
+      229
+    ],
+    "of": [
+      17,
+      20,
+      22,
+      72,
+      87,
+      102,
+      186,
+      200,
+      244
+    ],
+    "tibial": [
+      18,
+      113,
+      121
+    ],
+    "components": [
+      19,
+      114,
+      122
+    ],
+    "TKR": [
+      21,
+      151,
+      162,
+      187
+    ],
+    "all": [
+      23
+    ],
+    "known": [
+      24
+    ],
+    "RSA": [
+      25,
+      38,
+      155,
+      158,
+      184
+    ],
+    "studies.": [
+      26
+    ],
+    "Methods": [
+      27
+    ],
+    "Migration": [
+      29
+    ],
+    "pattern": [
+      30
+    ],
+    "was": [
+      31,
+      124,
+      164
+    ],
+    "defined": [
+      32
+    ],
+    "as": [
+      33,
+      203,
+      205,
+      234
+    ],
+    "at": [
+      34,
+      46
+    ],
+    "least": [
+      35
+    ],
+    "2": [
+      36,
+      55
+    ],
+    "postoperative": [
+      37
+    ],
+    "follow-up": [
+      39
+    ],
+    "moments.": [
+      40
+    ],
+    "Maximal": [
+      41
+    ],
+    "total": [
+      42
+    ],
+    "point": [
+      43
+    ],
+    "motion": [
+      44
+    ],
+    "(MTPM)": [
+      45
+    ],
+    "6": [
+      47,
+      51,
+      95
+    ],
+    "weeks,": [
+      48
+    ],
+    "3": [
+      49
+    ],
+    "months,": [
+      50,
+      52
+    ],
+    "1": [
+      53
+    ],
+    "year,": [
+      54
+    ],
+    "years,": [
+      56,
+      58
+    ],
+    "5": [
+      57
+    ],
+    "10": [
+      60
+    ],
+    "years": [
+      61
+    ],
+    "were": [
+      62,
+      76
+    ],
+    "considered.": [
+      63
+    ],
+    "Results": [
+      64
+    ],
+    "The": [
+      66,
+      85,
+      178,
+      226
+    ],
+    "literature": [
+      67
+    ],
+    "search": [
+      68
+    ],
+    "yielded": [
+      69
+    ],
+    "1,167": [
+      70
+    ],
+    "hits": [
+      71
+    ],
+    "which": [
+      73
+    ],
+    "53": [
+      74
+    ],
+    "studies": [
+      75
+    ],
+    "included,": [
+      77
+    ],
+    "comprising": [
+      78
+    ],
+    "111": [
+      79
+    ],
+    "study": [
+      80
+    ],
+    "groups": [
+      81
+    ],
+    "2,470": [
+      83
+    ],
+    "knees.": [
+      84
+    ],
+    "majority": [
+      86
+    ],
+    "occurred": [
+      91
+    ],
+    "in": [
+      92,
+      127,
+      167,
+      189
+    ],
+    "first": [
+      94
+    ],
+    "months": [
+      96
+    ],
+    "postoperatively": [
+      97
+    ],
+    "followed": [
+      98
+    ],
+    "by": [
+      99
+    ],
+    "period": [
+      101
+    ],
+    "stability,": [
+      103
+    ],
+    "i.e.,": [
+      104
+    ],
+    "no": [
+      105,
+      125,
+      147
+    ],
+    "or": [
+      106,
+      156
+    ],
+    "very": [
+      107
+    ],
+    "little": [
+      108
+    ],
+    "migration.": [
+      109
+    ],
+    "Cemented": [
+      110
+    ],
+    "uncemented": [
+      112,
+      161
+    ],
+    "had": [
+      115
+    ],
+    "different": [
+      116
+    ],
+    "patterns.": [
+      118
+    ],
+    "For": [
+      119,
+      160
+    ],
+    "cemented": [
+      120
+    ],
+    "there": [
+      123,
+      163
+    ],
+    "difference": [
+      126,
+      148
+    ],
+    "between": [
+      129,
+      134,
+      140,
+      150,
+      218
+    ],
+    "all-poly": [
+      130
+    ],
+    "metal-backed": [
+      132
+    ],
+    "components,": [
+      133
+    ],
+    "mobile": [
+      135
+    ],
+    "bearing": [
+      136
+    ],
+    "fixed": [
+      138
+    ],
+    "bearing,": [
+      139
+    ],
+    "cruciate": [
+      141
+    ],
+    "retaining": [
+      142
+    ],
+    "posterior": [
+      144
+    ],
+    "stabilized.": [
+      145
+    ],
+    "Furthermore,": [
+      146
+    ],
+    "existed": [
+      149
+    ],
+    "measured": [
+      152
+    ],
+    "with": [
+      153,
+      169,
+      191
+    ],
+    "model-based": [
+      154
+    ],
+    "marker-based": [
+      157
+    ],
+    "methods.": [
+      159
+    ],
+    "some": [
+      165
+    ],
+    "variation": [
+      166
+    ],
+    "highest": [
+      171
+    ],
+    "for": [
+      173,
+      215,
+      224,
+      237,
+      241
+    ],
+    "uncoated": [
+      174
+    ],
+    "TKR.": [
+      175,
+      246
+    ],
+    "Interpretation": [
+      176
+    ],
+    "results": [
+      179,
+      196,
+      208
+    ],
+    "from": [
+      180,
+      197,
+      209
+    ],
+    "this": [
+      181
+    ],
+    "meta-analysis": [
+      182
+    ],
+    "on": [
+      183
+    ],
+    "are": [
+      188
+    ],
+    "line": [
+      190
+    ],
+    "both": [
+      192,
+      233
+    ],
+    "survival": [
+      194
+    ],
+    "analyses": [
+      195
+    ],
+    "joint": [
+      198
+    ],
+    "registries": [
+      199
+    ],
+    "these": [
+      201
+    ],
+    "TKRs": [
+      202
+    ],
+    "well": [
+      204
+    ],
+    "revision": [
+      206,
+      223
+    ],
+    "rates": [
+      207
+    ],
+    "meta-analyses,": [
+      210
+    ],
+    "thus": [
+      211
+    ],
+    "providing": [
+      212
+    ],
+    "further": [
+      213
+    ],
+    "proof": [
+      214
+    ],
+    "association": [
+      217
+    ],
+    "late": [
+      222
+    ],
+    "loosening.": [
+      225
+    ],
+    "pooled": [
+      227
+    ],
+    "can": [
+      230
+    ],
+    "be": [
+      231
+    ],
+    "used": [
+      232
+    ],
+    "benchmarks": [
+      235
+    ],
+    "defining": [
+      238
+    ],
+    "thresholds": [
+      240
+    ],
+    "future": [
+      242
+    ],
+    "evaluation": [
+      243
+    ],
+    "new": [
+      245
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 13
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 13
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 22
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 13
+    },
+    {
+      "year": 2021,
+      "cited_by_count": 23
+    },
+    {
+      "year": 2020,
+      "cited_by_count": 11
+    },
+    {
+      "year": 2019,
+      "cited_by_count": 12
+    },
+    {
+      "year": 2018,
+      "cited_by_count": 2
+    }
+  ],
+  "updated_date": "2025-11-06T03:46:38.306776",
+  "created_date": "2018-03-29T00:00:00"
+}
