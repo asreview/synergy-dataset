@@ -1,6 +1,6 @@
 # SYNERGY+ dataset
 
-[![Paper](https://img.shields.io/badge/Paper-10.48550/arXiv.XXXX.XXXXX-green.svg)](https://doi.org/10.48550/arXiv.XXXX.XXXXX) [![Data](https://img.shields.io/badge/Data-10.34894/DDCVCV-green.svg)](https://doi.org/10.34894/DDCVCV) ![PyPI](https://img.shields.io/pypi/v/synergy-dataset)
+[![Preprint](https://img.shields.io/badge/Preprint-10.5281/zenodo.23687208-green.svg)](https://doi.org/10.5281/zenodo.23687208) [![Data](https://img.shields.io/badge/Data-10.34894/DDCVCV-green.svg)](https://doi.org/10.34894/DDCVCV) ![PyPI](https://img.shields.io/pypi/v/synergy-dataset)
 
 <br> 
 
@@ -13,7 +13,7 @@ Just like SYNERGY, it is a free and open dataset on study selection in systemati
 <br>
 
 What is new?
-- [Publication on ArXiv](https://arxiv.org/abs/XXXX.XXXXX)
+- [Preprint on Zenodo](https://doi.org/10.5281/zenodo.23687208)
 - Increased the number of reviews to 114!
 - All 168.948 records in the dataset are open access!
 - Extended cleaning done of all abstracts in the dataset. 
@@ -43,7 +43,7 @@ For more available options, check out the [python package](https://github.com/as
 
 ## Datasets and variables
 
-For a nice overview of the reviews along with their topic(s), records screened, included records, and many more, please check out the [paper](https://arxiv.org/abs/XXXX.XXXXX) published about this.
+For a nice overview of the reviews along with their topic(s), records screened, included records, and many more, please check out the [preprint](https://doi.org/10.5281/zenodo.23687208) published about this.
 
 Each record in the dataset is an [OpenAlex Work object](https://developers.openalex.org/api-reference/works
 ) (Copy at [web.archive.org](https://web.archive.org/web/20260604005813/https://developers.openalex.org/api-reference/works) extracted on 2026-06-04). 
@@ -72,7 +72,7 @@ For the full list of variables, see this persistent copy of the OpenAlex Work Ob
 
 When you built the dataset using `python -m synergy_dataset get` a `metadata` folder is created with a file that shows which dataset is part of the train and test set.
 This split can also be accessed through the `synergy_dataset` API, of which an example is shown in [python_getting_started.ipynb](examples/python_getting_started.ipynb).
-The split is a stratified 80/20 split using domain, dataset size, and inclusion rate. More details on how this split was created can be found in the [paper](https://arxiv.org/abs/XXXX.XXXXX).
+The split is a stratified 80/20 split using domain, dataset size, and inclusion rate. More details on how this split was created can be found in the [preprint](https://doi.org/10.5281/zenodo.23687208).
 
 ## Attribution & License
 
@@ -86,21 +86,21 @@ SYNERGY+ dataset is released under the [CC0 1.0](LICENSE) license. SYNERGY+ cons
 If you use SYNERGY+ in a scientific publication, we would appreciate references to:
 
 > van der Kuil, T., Westerbeek, E., de Bruin, J., Fang, Q., & van de Schoot, R. (2026). SYNERGY+: A Large-Scale,
-> Curated Benchmark Dataset of Expert Screening Decisions for Systematic Reviews. arXiv preprint.
-> [https://arxiv.org/abs/XXXX.XXXXX](https://arxiv.org/abs/XXXX.XXXXX)
+> Curated Benchmark Dataset of Expert Screening Decisions for Systematic Reviews. Zenodo preprint.
+> [https://doi.org/10.5281/zenodo.23687208](https://doi.org/10.5281/zenodo.23687208)
 
 
-BibTeX reference: [TODO]
+BibTeX reference:
 
 ```bib
 @misc{vanderkuil2026synergyplus,
-  title         = {{SYNERGY+: A Large-Scale, Curated Benchmark Dataset of Expert Screening Decisions for Systematic Reviews}},
-  author        = {van der Kuil, Timo and Westerbeek, Emily and de Bruin, Jonathan and Fang, Qixiang and van de Schoot, Rens},
-  year          = {2026},
-  eprint        = {XXXX.XXXXX},
-  archivePrefix = {arXiv},
-  primaryClass  = {cs.IR},
-  url           = {https://arxiv.org/abs/XXXX.XXXXX}
+  title     = {{SYNERGY+: A Large-Scale, Curated Benchmark Dataset of Expert Screening Decisions for Systematic Reviews}},
+  author    = {van der Kuil, Timo and Westerbeek, Emily and de Bruin, Jonathan and Fang, Qixiang and van de Schoot, Rens},
+  year      = {2026},
+  publisher = {Zenodo},
+  note      = {Preprint},
+  doi       = {10.5281/zenodo.23687208},
+  url       = {https://doi.org/10.5281/zenodo.23687208}
 }
 ```
 
