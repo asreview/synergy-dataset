@@ -34,6 +34,10 @@ def test_dataset_keys():
             dataset["key"] = (
                 "Waal_2021"  # The authors are indexed incorrectly in OpenAlex
             )
+        if dataset["key"] == "Hanlon_2022":
+            dataset["key"] = (
+                "Hanlon_2021"  # The publication year is indexed incorrectly in OpenAlex
+            )
 
         if dataset["key"] == "Abgaz_2023":
             work = pyalex.Works()["https://openalex.org/W4381803634"]
