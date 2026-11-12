@@ -1,22 +1,28 @@
+import ast
+from pathlib import Path
+
 import networkx as nx
+import pandas as pd
 
-from synergy_dataset import Dataset
+DATA_DIR = Path("..", "..", "..", "data", "synergy_plus_extended")
+DATASET = "Appenzeller-Herzog_2019"
 
-# load dataset
-d = Dataset("Appenzeller-Herzog_2020")
-result = d.to_dict(["id", "title", "referenced_works"])
+df = pd.read_csv(DATA_DIR / f"{DATASET}.csv")
 
-# make collection of nodes and edges
-nodes = [(k, {"label_included": v["label_included"]}) for k, v in result.items()]
-edges = [(k, r) for k, v in result.items() for r in v["referenced_works"]]
+df["openalex_id"] = df["openalex_id"].str.lower()
+df["referenced_works"] = df["referenced_works"].apply(
+    lambda v: [w.lower() for w in ast.literal_eval(v)] if isinstance(v, str) and v else []
+)
 
-# build the graph
+nodes = [(row.openalex_id, {"label_included": row.label_included}) for row in df.itertuples()]
+edges = [(row.openalex_id, ref) for row in df.itertuples() for ref in row.referenced_works]
+
 G = nx.Graph()
 G.add_nodes_from(nodes)
 G.add_edges_from(edges)
-G.remove_nodes_from(set(G.nodes) - set([n[0] for n in nodes]))
+G.remove_nodes_from(set(G.nodes) - set(df["openalex_id"]))
 
 print("Number of nodes", len(G.nodes))
 print("Number of edges", len(G.edges))
 
-nx.write_gexf(G, "Appenzeller-Herzog_2020_network.gexf")
+nx.write_gexf(G, f"{DATASET}_network.gexf")

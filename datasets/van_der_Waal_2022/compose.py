@@ -1,14 +1,15 @@
 import pandas as pd
+import sys
+
+sys.path.append("../../scripts")
+import utils
 
 # https://www.geriatriconcology.net/article/S1879-4068(22)00231-4/fulltext#%20
 # https://www.sciencedirect.com/science/article/pii/S1879406822002314
-key = "van_der_Waal_2022"
 
-df = pd.read_excel(
+search = pd.read_excel(
     "https://zenodo.org/record/7308297/files/GERDAT012%20Literature%20search%20for%20publication%20-%20Control%20preference%20scale.xlsx?download=1"
 )
-print(df)
-
 
 inclusions = [
     {"doi": "https://doi.org/10.1002/pon.1798"},
@@ -46,18 +47,10 @@ inclusions = [
     {"pmid": "https://pubmed.ncbi.nlm.nih.gov/23182756"},
 ]
 
-df_inclusions = pd.DataFrame(inclusions)
+ft = pd.DataFrame(inclusions)
 
-df_inclusions["label_included"] = 1
-df["label_included"] = 0
-df = pd.concat([df_inclusions, df], ignore_index=True)
+df = utils.combine_datafiles(search, ft)
+df = utils.drop_duplicates(df)
 
-# save results to file
-df.to_csv(f"{key}_raw.csv", index=False)
-
-df_new = df[["pmid", "doi", "label_included"]].copy()
-df_new["openalex_id"] = None
-
-df_new[["pmid", "doi", "openalex_id", "label_included"]].to_csv(
-    f"{key}_ids.csv", index=False
-)
+# Write output
+utils.write_ids_files("van_der_Waal_2022", df)

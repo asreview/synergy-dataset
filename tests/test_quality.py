@@ -1,8 +1,8 @@
-import tomli
 from pathlib import Path
-import pandas as pd
 
+import pandas as pd
 import pytest
+import tomli
 
 
 def datasets():
@@ -13,7 +13,6 @@ def datasets():
     paths = []
 
     for dataset in config["datasets"]:
-
         if "active" in dataset and not dataset["active"]:
             continue
 

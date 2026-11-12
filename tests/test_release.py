@@ -1,6 +1,5 @@
-from synergy_dataset import Dataset, iter_datasets
-
 import pytest
+from synergy_dataset import iter_datasets
 
 
 @pytest.mark.parametrize("dataset", iter_datasets())
