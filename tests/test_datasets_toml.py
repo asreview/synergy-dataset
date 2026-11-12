@@ -22,6 +22,10 @@ def test_dataset_keys():
     for dataset in datasets["datasets"]:
         if dataset["key"] in skip_checks:
             continue
+        if dataset["key"] == "Bakker-Jacobs_2022":
+            dataset["key"] = (
+                "Vught_2022" # The authors are indexed incorrectly in OpenAlex
+            )
         if dataset["key"] == "Farisogullari_2023":
             dataset["key"] = (
                 "Farisogulları_2023"  # The last character in the surname is a Turkish ı
